@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5\-3ltZAmQIajFl12I2zImA">Early B</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA">Ziggy4x</a>
 
-139 songs - 7 hr 16 min
+140 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 | 2022-09-08 | 2022-12-02 |
 | [Skattie](https://open.spotify.com/track/6SN8hJGOuVe4pPEUtXecHr) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Skattie](https://open.spotify.com/album/3cBDPIVFjgVWomuGm8fFQq) | 3:13 | 2022-12-02 | 2023-07-28 |
 | [Slaaplose Nagte](https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q) | [Wanié](https://open.spotify.com/artist/1XsEkHNiBF8qAdUBVULiVt) | [Slapeloosheid](https://open.spotify.com/album/0xnfC9WKqTgylhmOgIRmY4) | 3:00 | 2022-09-08 | 2023-04-14 |
+| [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/2OfFDuuFAIhQZOAEfp0s5u), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 | 2024-06-07 |  |
 | [Smegh](https://open.spotify.com/track/2QnU3FNd4ksQGKXjapASxN) | [Giga](https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz) | [Smegh](https://open.spotify.com/album/6CwnWUFCc4LXMvRjevMhJr) | 2:56 | 2023-05-18 | 2023-06-03 |
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 | 2023-07-14 |
 | [So Laatie Dou](https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y) | [Terror MC](https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG) | [So Laatie Dou](https://open.spotify.com/album/1V91ZIjl4e6pcEp8C1Fr0T) | 2:40 | 2023-08-31 |  |
@@ -135,7 +136,7 @@
 | [VAAK](https://open.spotify.com/track/0bnaAVz6aptalheXgeQSC1) | [JAYD?N](https://open.spotify.com/artist/54ngOPG4z2cf7NgtItNAG5), [Ello\-Jay](https://open.spotify.com/artist/2PDHdUgudDmPTRwh1HJAXp) | [VAAK](https://open.spotify.com/album/2IKuJJg4ytGVCdJu5cT4CI) | 2:09 | 2022-12-08 | 2024-01-19 |
 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 | 2023-03-30 |  |
 | [Ware Meddies](https://open.spotify.com/track/6XuX7LKxTxncK1YfQyL3YJ) | [Bliksemstraal](https://open.spotify.com/artist/3o16GHS46wYhqaie5gphhJ) | [Ware Meddies](https://open.spotify.com/album/77nrr4W0AzamfbN3BhAJXc) | 3:39 | 2022-09-08 | 2023-03-11 |
-| [Wat Ek Moet Doen](https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Wat Ek Moet Doen](https://open.spotify.com/album/3N574squ1VAtisezwlbE8s) | 2:22 | 2024-02-22 |  |
+| [Wat Ek Moet Doen](https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Wat Ek Moet Doen](https://open.spotify.com/album/3N574squ1VAtisezwlbE8s) | 2:22 | 2024-02-22 | 2024-06-08 |
 | [Watch Wat Jy Praat](https://open.spotify.com/track/05jiDkfyoTZzhEHf7eN94t) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Young K](https://open.spotify.com/artist/2K1piKoDWujwiWh5pdktIV) | [Watch Wat Jy Praat](https://open.spotify.com/album/0xjCTQeFz0rkSNSq2SsyV3) | 3:40 | 2022-11-10 | 2024-02-16 |
 | [Way Back](https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Way Back](https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk) | 3:29 | 2023-07-27 |  |
 | [Werkhom 2.0 \(Bonus Track\)](https://open.spotify.com/track/0zi0Do3nO8LtRzlau2V7DR) | [Temple Boys Cpt](https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n) | [The Goats Ep](https://open.spotify.com/album/7gNuFZUosaLFUvWK4xJV8D) | 3:35 | 2022-10-13 | 2023-11-10 |

@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Mitchy
 
-2,468 songs - 5 day 15 hr 53 min
+2,469 songs - 5 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2417,6 +2417,7 @@
 | [Wish I Had the Guts](https://open.spotify.com/track/1gLqAvtap1e2z2G7mmaNj9) | [Seint Monet](https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh) | [Wish I Had the Guts](https://open.spotify.com/album/49m5WgKirUPosHvGIJhyPq) | 2:41 | 2022-03-16 | 2022-04-13 |
 | [Wish I Knew](https://open.spotify.com/track/1Z11VyovU8QADpZMpUWd8w) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Wish I Knew](https://open.spotify.com/album/4NfVjmMW3v4UlOxob0moUU) | 4:04 | 2023-04-19 | 2023-05-24 |
 | [Wishes](https://open.spotify.com/track/1s4vspTIFQuct69jsNjHEv) | [Gracie Gray](https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG) | [Wishes](https://open.spotify.com/album/6NZpGCL4pYJwFVtjFuV8Go) | 3:08 | 2023-10-04 | 2023-11-30 |
+| [wishful thinking](https://open.spotify.com/track/0cNib65PxjGTcCY1rWyeCU) | [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [wishful thinking](https://open.spotify.com/album/4SHLpze4dbjfYiLJIYypiW) | 2:33 | 2024-06-07 |  |
 | [Wishin](https://open.spotify.com/track/5XNBDxPwI44BnYCY2QDisQ) | [Vinny Masino](https://open.spotify.com/artist/49wfJDFAZGLI1zIW6RSQWL) | [Wishin](https://open.spotify.com/album/36bWBFGvhXRHPvOEveyQ0m) | 2:08 | 2022-07-20 | 2022-08-04 |
 | [Witchyman](https://open.spotify.com/track/0zWgZBHZfisqNN0m5pfYcJ) | [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub) | [Witchyman](https://open.spotify.com/album/2SRarbvBXirDR4XtnaWBmF) | 2:56 | 2021-10-27 | 2022-01-13 |
 | [With or Without You](https://open.spotify.com/track/5b7RkBLJKXQDJDLK7IeXDH) | [Armorminusr](https://open.spotify.com/artist/5vrb1riss0SA1KO4IRFuOQ) | [With or Without You](https://open.spotify.com/album/40jj2dgBtnS0U12F8a6dGD) | 3:11 | 2022-10-12 | 2022-12-01 |

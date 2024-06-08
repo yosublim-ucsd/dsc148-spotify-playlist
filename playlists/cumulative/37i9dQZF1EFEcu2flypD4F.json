@@ -5551,6 +5551,32 @@
     },
     {
       "album": {
+        "name": "Global Intimacy",
+        "url": "https://open.spotify.com/album/45LXVsjVyaMd0id37uo8MK"
+      },
+      "artists": [
+        {
+          "name": "TQX",
+          "url": "https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7"
+        },
+        {
+          "name": "KOOL A.D.",
+          "url": "https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ"
+        },
+        {
+          "name": "Sirah",
+          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Text Me Back",
+      "url": "https://open.spotify.com/track/1F9D5OVJztyfkQPXNHY4un"
+    },
+    {
+      "album": {
         "name": "Text Me Back",
         "url": "https://open.spotify.com/album/1S10fPv7l9wuYBdl0d50Qw"
       },
@@ -5742,7 +5768,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 201106,
       "name": "The Day That You Moved On",
       "url": "https://open.spotify.com/track/6R3mrMtCyymg1wLr3VU64Y"

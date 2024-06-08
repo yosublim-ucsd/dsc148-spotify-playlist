@@ -1,13 +1,69 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+ with Showtime. ",
-  "num_followers": 16462,
+  "num_followers": 16492,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zll1cAAAAABSCA51UNExJlLe+equGPs0",
+  "snapshot_id": "ZmKv8AAAAABapoz2qzNNU6cei8OyAjS5",
   "tracks": [
+    {
+      "added_at": "2024-06-07 07:00:00",
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/59AVuo3BYKxeL1d17gpQfn"
+      },
+      "artists": [
+        {
+          "name": "Piff Marti",
+          "url": "https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/6Jun9cqvycnlZVeeSIy0k4"
+    },
+    {
+      "added_at": "2024-06-07 07:00:00",
+      "album": {
+        "name": "Wait, There's More",
+        "url": "https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 152145,
+      "name": "Beautiful Madness",
+      "url": "https://open.spotify.com/track/3KnDmVhWh2FvtbPjArxckA"
+    },
+    {
+      "added_at": "2024-06-07 07:00:00",
+      "album": {
+        "name": "Behind Enemy Lines",
+        "url": "https://open.spotify.com/album/14nYTal2Bm96I4m6M5SDNh"
+      },
+      "artists": [
+        {
+          "name": "Breana Marin",
+          "url": "https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7"
+        },
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Military Mindset Productions",
+          "url": "https://open.spotify.com/artist/0LAYLmZKxwwiEUaIE7Dhyn"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/4tyUOfJO4F1zoxOITM6bKq"
+    },
     {
       "added_at": "2024-05-31 07:00:00",
       "album": {

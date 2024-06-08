@@ -2604,6 +2604,32 @@
     {
       "album": {
         "name": "Congratulations",
+        "url": "https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186909,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
+    },
+    {
+      "album": {
+        "name": "Congratulations",
         "url": "https://open.spotify.com/album/6Y7LaoeSXPsarZXQtD49xk"
       },
       "artists": [

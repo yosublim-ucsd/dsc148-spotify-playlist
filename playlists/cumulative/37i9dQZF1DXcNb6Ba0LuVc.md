@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-482 songs - 18 hr 46 min
+486 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 | 2022-05-27 |  |
 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 | 2023-11-17 |  |
 | [El Patrón](https://open.spotify.com/track/7pAcgWT8D6risFfsR0JSPe) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [El Patrón](https://open.spotify.com/album/1TGOGVKxbBB3AvSEw0qaky) | 1:40 | 2022-04-15 | 2023-01-20 |
+| [Endless](https://open.spotify.com/track/4oMxwGP63lu7pMwsqkF9Dr) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Endless](https://open.spotify.com/album/6zEI6yJS2EPJxwNh9h4fzw) | 2:12 | 2024-06-07 |  |
 | [Evergreen](https://open.spotify.com/track/5goFbQsBMTVrM5eSut1z4n) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Evergreen](https://open.spotify.com/album/1iEgVGsC5EfUFMVYSYJhUh) | 2:13 | 2022-07-01 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2021-11-11 | 2022-09-09 |
 | [Faith Basket](https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Faith Basket](https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s) | 1:15 | 2022-08-05 |  |
@@ -363,7 +364,9 @@
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2021-11-11 | 2022-09-03 |
 | [Shoreline Shake](https://open.spotify.com/track/5FI1P3ol0riVBoJiWk4WuY) | [Just Steezy Things](https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Shoreline Shake](https://open.spotify.com/album/13dCpLXy9XRBLEriI8Gzli) | 2:40 | 2022-06-24 | 2022-09-03 |
 | [Shroom](https://open.spotify.com/track/6mxnpHQMS44u4eQ9IQrus5) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Shroom](https://open.spotify.com/album/1mWo0lXQTVGZ4H3Y5xmHZB) | 3:13 | 2023-03-20 | 2023-11-18 |
+| [sip at zibetto](https://open.spotify.com/track/26nx2DrmEhpfw67zsvLPgZ) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [sip at zibetto](https://open.spotify.com/album/3TVwc64dpqtucwupK2dFYR) | 2:20 | 2024-06-07 |  |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2021-11-11 | 2022-07-01 |
+| [Smiley](https://open.spotify.com/track/5Q1obMlAxxadeS22JviBGH) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smiley](https://open.spotify.com/album/2YZfBvHIhTWGdnjRLV3BKR) | 1:29 | 2024-06-07 |  |
 | [Smokes](https://open.spotify.com/track/2FGPAygk8Vsg13PZ51qINX) | [Monkey Larsson](https://open.spotify.com/artist/1NNMXNmMeMap4smySFZTLk) | [California Dreaming](https://open.spotify.com/album/14CfuAeDQUkihQCeA1c5G9) | 1:36 | 2021-11-11 | 2022-05-27 |
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-13 | 2023-09-08 |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2021-11-11 | 2022-09-09 |
@@ -460,6 +463,7 @@
 | [veneza](https://open.spotify.com/track/1dF75yIxsJDjdvungUWfVc) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [southeast](https://open.spotify.com/album/7GtnlpPbw088eBMQpjsS3M) | 0:58 | 2021-11-11 | 2022-06-03 |
 | [Verão](https://open.spotify.com/track/1CsyRF8KNY7c9hZezar55d) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Verão](https://open.spotify.com/album/6yKNDEcv2JZ36kUFMsE3CJ) | 2:35 | 2022-11-11 | 2024-04-19 |
 | [Verão](https://open.spotify.com/track/72rhfLBwRG8Px3dFDtdGWc) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Verão](https://open.spotify.com/album/2KAExA9jGiDulUnV1NAom4) | 2:35 | 2022-07-01 |  |
+| [Verāo No Brasil](https://open.spotify.com/track/5UGAZHk2GPYgSGUYDerV21) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Verāo No Brasil](https://open.spotify.com/album/0TQQrQoaLS4AbvbSxy6Yln) | 2:18 | 2024-06-07 |  |
 | [Voxter](https://open.spotify.com/track/7aoKOVATErohs5ebJmeIlt) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Morning Yolk](https://open.spotify.com/album/2Rj4kUv2XhpAko0Ckirg2X) | 1:56 | 2021-11-11 | 2023-11-18 |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2021-11-11 | 2022-10-15 |
 | [Walking to Adachi](https://open.spotify.com/track/0zHKDPdhYYuRsZP6UPYu0x) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:21 | 2022-10-28 | 2022-11-13 |

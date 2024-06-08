@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Lakecia Benjamin",
+  "description": "New jazz for open minds. Cover: Nduduzo Makhathini",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -776,6 +776,24 @@
       "duration_ms": 160085,
       "name": "Acuario",
       "url": "https://open.spotify.com/track/7L1eWqIGg07QxL0HqEcLDP"
+    },
+    {
+      "album": {
+        "name": "Adam Alphabet",
+        "url": "https://open.spotify.com/album/4WY6jiS37FerM1vclTgtnA"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley Trio",
+          "url": "https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Adam Alphabet",
+      "url": "https://open.spotify.com/track/0YJT0lJS3GtXvJFlLu3XMV"
     },
     {
       "album": {
@@ -3019,6 +3037,36 @@
     },
     {
       "album": {
+        "name": "BEATZ",
+        "url": "https://open.spotify.com/album/1ZA0vNmXgLmHKW4jcxVHWG"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Dominique Xavier",
+          "url": "https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237489,
+      "name": "BEATZ",
+      "url": "https://open.spotify.com/track/6fmdUPDif4UUJejAI6VbTq"
+    },
+    {
+      "album": {
         "name": "Beautiful Day",
         "url": "https://open.spotify.com/album/0FvGcQA1xOmV1DwSAJiHes"
       },
@@ -3822,7 +3870,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 406066,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y"
@@ -5510,6 +5558,36 @@
       "duration_ms": 212000,
       "name": "COME ON NOW",
       "url": "https://open.spotify.com/track/7FV75h8cbt6sf9XClbiT3Z"
+    },
+    {
+      "album": {
+        "name": "Come Talk to Me",
+        "url": "https://open.spotify.com/album/3Pqw52ie1w85PfdohE64w1"
+      },
+      "artists": [
+        {
+          "name": "Clarence Penn",
+          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
+        },
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        },
+        {
+          "name": "James Genus",
+          "url": "https://open.spotify.com/artist/5f9fJGC5O6La0pTAD1sjFb"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336443,
+      "name": "Come Talk to Me",
+      "url": "https://open.spotify.com/track/6MjQOY7bzbrcktQOGZG5Tr"
     },
     {
       "album": {
@@ -8854,7 +8932,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 183870,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/4DNEbIgXuAf7gZkNpgm1OG"
@@ -9490,7 +9568,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 349008,
       "name": "Fortify",
       "url": "https://open.spotify.com/track/0oD4SYLAvCK5PI38bUK2jc"
@@ -12605,6 +12683,24 @@
     },
     {
       "album": {
+        "name": "Inkehli",
+        "url": "https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413864,
+      "name": "Inkehli",
+      "url": "https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs"
+    },
+    {
+      "album": {
         "name": "Generation Gap Jazz Orchestra",
         "url": "https://open.spotify.com/album/6wzevhJCOjzBkFe6z1FONm"
       },
@@ -12878,7 +12974,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 203941,
       "name": "Isn't It Strange (feat. Thundercat & JD Beck)",
       "url": "https://open.spotify.com/track/0KWT5yvZ4iphotBfmPeAuY"
@@ -14053,6 +14149,32 @@
     },
     {
       "album": {
+        "name": "Hanging Gardens",
+        "url": "https://open.spotify.com/album/5DhePWbpdOi2K3H0L7vLT5"
+      },
+      "artists": [
+        {
+          "name": "Obey",
+          "url": "https://open.spotify.com/artist/3LfwSfIGvAU8IsST3mEl7S"
+        },
+        {
+          "name": "Heem",
+          "url": "https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193460,
+      "name": "Laelia Orchid",
+      "url": "https://open.spotify.com/track/1cOlbCzEtqgWNsetAfPLTK"
+    },
+    {
+      "album": {
         "name": "Landsdown",
         "url": "https://open.spotify.com/album/6ivj7sRDxqcYDQ75rqxVJm"
       },
@@ -14417,6 +14539,24 @@
     },
     {
       "album": {
+        "name": "uNomkhubulwane",
+        "url": "https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387077,
+      "name": "Libations: KwaKhangelamankengana",
+      "url": "https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1"
+    },
+    {
+      "album": {
         "name": "Libations: Omnyama",
         "url": "https://open.spotify.com/album/5uTHEvO4Nei1U9zcAfat8c"
       },
@@ -14446,7 +14586,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 261825,
       "name": "Libations: Uxolo",
       "url": "https://open.spotify.com/track/6V8pgoXgZWDPys7JkFRz8q"
@@ -16907,6 +17047,24 @@
     },
     {
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+    },
+    {
+      "album": {
         "name": "Dream Box",
         "url": "https://open.spotify.com/album/7BRTdya6UKyz9xLxjU0Hio"
       },
@@ -17098,6 +17256,28 @@
       "duration_ms": 340509,
       "name": "Moving Through",
       "url": "https://open.spotify.com/track/7HzgszlXmrnOMa4cL41DKu"
+    },
+    {
+      "album": {
+        "name": "Ms. Elusive",
+        "url": "https://open.spotify.com/album/71UJH8dNJqpWSZ7HqnRExZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Bird",
+          "url": "https://open.spotify.com/artist/7hSubJlLrD9XW6HB6heNKL"
+        },
+        {
+          "name": "NEONE the Wonderer",
+          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202532,
+      "name": "Ms. Elusive",
+      "url": "https://open.spotify.com/track/7MkXwN60WV9EM5o5u3I5V5"
     },
     {
       "album": {
@@ -18980,7 +19160,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 124186,
       "name": "Ortolana",
       "url": "https://open.spotify.com/track/7xM4rEThKMKeTS6S8vIDEw"
@@ -20918,7 +21098,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 192717,
       "name": "RACKS",
       "url": "https://open.spotify.com/track/6jgkTE7jGCHikzpjrl4OSV"
@@ -21998,6 +22178,28 @@
       "duration_ms": 279200,
       "name": "Running Game",
       "url": "https://open.spotify.com/track/5cIsn2aKRqKneGmQVJ66LC"
+    },
+    {
+      "album": {
+        "name": "Rushing Rapid",
+        "url": "https://open.spotify.com/album/6OovqHLV0bUUiaeL9UOIQY"
+      },
+      "artists": [
+        {
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+        },
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299733,
+      "name": "Rushing Rapid",
+      "url": "https://open.spotify.com/track/0LQTrLyzLJ95xvKQYXbxXK"
     },
     {
       "album": {
@@ -26114,7 +26316,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 365500,
       "name": "The Comeback",
       "url": "https://open.spotify.com/track/0MOCXlySxIos7wMFITLore"
@@ -27488,7 +27690,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 632920,
       "name": "The Winds of Change",
       "url": "https://open.spotify.com/track/3xMVR4fiIXwNDNOW31mwIr"
@@ -27802,6 +28004,44 @@
       "duration_ms": 478000,
       "name": "Thou Mayest",
       "url": "https://open.spotify.com/track/3BEKXDWGxIDKnHylby91tb"
+    },
+    {
+      "album": {
+        "name": "Three Over Steel",
+        "url": "https://open.spotify.com/album/71LycHvB1Bi0sCQM1ka5z1"
+      },
+      "artists": [
+        {
+          "name": "SML",
+          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+        },
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        },
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342946,
+      "name": "Three Over Steel",
+      "url": "https://open.spotify.com/track/3zZUxAQoeucHTg8XUonl1W"
     },
     {
       "album": {
@@ -30218,7 +30458,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 327466,
       "name": "Why Do They Fear Us",
       "url": "https://open.spotify.com/track/1VYLdwPz125bBZYN73zMjq"

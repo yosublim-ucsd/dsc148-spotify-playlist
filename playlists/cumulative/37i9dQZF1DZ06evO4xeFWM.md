@@ -2,7 +2,7 @@
 
 ### [This Is Bastille](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xeFWM)
 
-> This is Bastille\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Bastille\. The essential tracks, all in one playlist.
 
 85 songs - 4 hr 52 min
 

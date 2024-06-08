@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-152 songs - 9 hr 22 min
+153 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Get It Together](https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4) | [Moniquea](https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Get It Together](https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI) | 3:35 | 2022-08-19 |  |
 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 | 2021-07-26 |  |
 | [give me your love](https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [give me your love](https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko) | 3:27 | 2022-09-16 |  |
-| [Go Steady](https://open.spotify.com/track/3ENAIFnD0Qjie0RGjG9Hh9) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Go Steady](https://open.spotify.com/album/4b5SUYw8o2Z2LIKwlqVpDC) | 4:17 | 2022-09-23 |  |
+| [Go Steady](https://open.spotify.com/track/3ENAIFnD0Qjie0RGjG9Hh9) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh), [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2) | [Go Steady](https://open.spotify.com/album/4b5SUYw8o2Z2LIKwlqVpDC) | 4:17 | 2022-09-23 | 2024-06-08 |
 | [Good as Gold](https://open.spotify.com/track/5IKDh0vnVhvzOgQltv1ACE) | [The Shindellas](https://open.spotify.com/artist/2ymLCgoeNHbhPDwMb3N3iQ) | [Shindo](https://open.spotify.com/album/2bh7Q8cwGnCleeC8UhRmAM) | 4:15 | 2023-10-20 |  |
 | [Good Fever](https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Good Fever](https://open.spotify.com/album/4W97F7B5XosEJ64aUiYHo5) | 3:19 | 2022-02-18 |  |
 | [Guitar for Robots](https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN) | [Cool Aid](https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc) | [Guitar for Robots](https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt) | 3:56 | 2023-06-16 |  |
@@ -116,6 +116,7 @@
 | [Remember](https://open.spotify.com/track/2vScopeFot4IyMBG4Smgqf) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Remember](https://open.spotify.com/album/71Zx19ODMWH3fAVqqE8vR5) | 3:53 | 2022-08-12 |  |
 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 | 2023-04-28 | 2024-02-03 |
 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 | 2023-11-18 |
+| [Right Fit](https://open.spotify.com/track/6oCgKEBqal7hO4yaWRdvzn) | [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Tap Water II](https://open.spotify.com/album/63Jbe5ZOrZu8iqmHVItsca) | 3:58 | 2024-06-07 |  |
 | [Second Dinner](https://open.spotify.com/track/1s4dt9PEMuaZqdOIwbJXfo) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:37 | 2021-07-26 | 2023-09-09 |
 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 | 2023-07-14 |  |
 | [Shoulda Been Me \- Single Edit](https://open.spotify.com/track/4MS9NuV2IXFMLf5v0Wph1W) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Shoulda Been Me](https://open.spotify.com/album/7Jy1gsRR1XSFb1jN6jMwvx) | 4:46 | 2022-06-24 |  |

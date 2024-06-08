@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 119502,
+  "num_followers": 119555,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-04-08 15:38:28",
       "album": {
-        "name": "Qualm",
-        "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
-      },
-      "artists": [
-        {
-          "name": "Helena Hauff",
-          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
-        }
-      ],
-      "duration_ms": 491050,
-      "name": "The Smell Of Suds And Steel",
-      "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
-    },
-    {
-      "added_at": "2024-04-08 15:38:28",
-      "album": {
         "name": "Substance Abuse",
         "url": "https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 306143,
       "name": "Substance Abuse",
       "url": "https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ"
+    },
+    {
+      "added_at": "2024-04-08 15:38:28",
+      "album": {
+        "name": "Qualm",
+        "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
+      },
+      "artists": [
+        {
+          "name": "Helena Hauff",
+          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
+        }
+      ],
+      "duration_ms": 491050,
+      "name": "The Smell Of Suds And Steel",
+      "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
     },
     {
       "added_at": "2024-04-08 15:38:28",

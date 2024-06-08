@@ -6,7 +6,7 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAO06aC4i5HY8pJ3VleHyC2qDxXd61o",
+  "snapshot_id": "AAAO1ecbf4PF7d541Sgn7WdM5ocYdPHo",
   "tracks": [
     {
       "added_at": "2024-05-02 23:33:40",
@@ -349,6 +349,46 @@
       "url": "https://open.spotify.com/track/6mWfk6Gz8JiPDKtoozSp3S"
     },
     {
+      "added_at": "2024-06-07 08:15:47",
+      "album": {
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
+    },
+    {
+      "added_at": "2024-06-07 08:15:47",
+      "album": {
+        "name": "Believin'",
+        "url": "https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Believin'",
+      "url": "https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7"
+    },
+    {
       "added_at": "2024-05-02 23:33:40",
       "album": {
         "name": "Delete Time",
@@ -451,6 +491,22 @@
       "duration_ms": 207515,
       "name": "Northern Rhythm",
       "url": "https://open.spotify.com/track/2IgNL5Q4nA3bBENrY8FKKK"
+    },
+    {
+      "added_at": "2024-06-07 12:23:47",
+      "album": {
+        "name": "Until the Sun Comes Up",
+        "url": "https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL"
+      },
+      "artists": [
+        {
+          "name": "Pansil",
+          "url": "https://open.spotify.com/artist/0jPFnkOW02ogcNH6PWnhUT"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Until the Sun Comes Up",
+      "url": "https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw"
     },
     {
       "added_at": "2024-05-31 10:29:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,745 likes - 97 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,770 likes - 97 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

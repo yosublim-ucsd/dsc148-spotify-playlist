@@ -2,7 +2,7 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Hits con sabor\. Cover: Camilo & Carin Leon
+> Hits con sabor\. Cover: Luck Ra, Maluma & KHEA
 
 325 songs - 20 hr 54 min
 

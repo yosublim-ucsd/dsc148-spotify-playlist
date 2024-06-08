@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-326 songs - 20 hr 19 min
+327 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-11-19 | 2023-02-03 |
 | [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2023-01-30 | 2023-02-14 |
 | [Harder \(Shermanology Remix\)](https://open.spotify.com/track/3hVIIqBnoSXWxlUQRWikYL) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Harder \(With Busta Rhymes\) \- Shermanology Remix](https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2) | 6:31 | 2022-10-27 | 2022-11-20 |
+| [Heatstroke](https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ) | 2:46 | 2024-06-07 |  |
 | [HIGH AGAIN](https://open.spotify.com/track/3EwmYpKAiJP0fNtUPBCdTQ) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5ZKIzX3mYYmiqZk6Izi3ZT) | 3:05 | 2024-04-19 |  |
 | [HIGH AGAIN](https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46) | 3:05 | 2024-01-12 | 2024-04-19 |
 | [Higher \- Benny T Mix](https://open.spotify.com/track/6OquvZzu2rxDicHVRoIhkq) | [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY), [Benny T](https://open.spotify.com/artist/0r2Hobrhm5Z7BLsQvwt1Pp) | [Higher](https://open.spotify.com/album/6n1LP56vBVnMloxVu3AUrL) | 7:25 | 2023-02-09 | 2023-04-15 |

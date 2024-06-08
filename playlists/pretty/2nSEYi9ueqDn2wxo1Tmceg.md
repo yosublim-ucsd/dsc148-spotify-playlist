@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy!
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Ela Minus
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,949 likes - 50 songs - 4 hr 1 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,952 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 49 | [The Apple](https://open.spotify.com/track/6H1Y7gLmHdBZx94EfaSEj6) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [The Apple](https://open.spotify.com/album/3aOAqZUVEMBYayufw3tJZz) | 2:49 |
 | 50 | [The Age of Immunology \- Version](https://open.spotify.com/track/0fUqmkdHIoRbIHt1rkaKJ9) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [You Are Not an Island \(Version\)](https://open.spotify.com/album/7mKCJAMYy09pGTnfDSeTpw) | 3:15 |
 
-Snapshot ID: `AAAPbSDuKv8F4ExVeOjdvyzF3b7URRlG`
+Snapshot ID: `AAAPbmi3xJpVDmQVjbNuqCs4WSMzurga`

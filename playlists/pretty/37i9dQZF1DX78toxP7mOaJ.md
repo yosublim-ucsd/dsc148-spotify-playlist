@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Carpool Tunnel
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,804 likes - 110 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,867 likes - 110 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

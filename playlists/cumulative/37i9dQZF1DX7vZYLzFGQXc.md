@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: HANRORO\(한로로\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,332 songs - 3 day 3 hr 11 min
+1,333 songs - 3 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [rewind](https://open.spotify.com/track/1K27xjfV6MOwwiLA0hvtkv) | [La Blancat](https://open.spotify.com/artist/4MvwbSpaeOUiLFIsRdhEBl) | [rewind](https://open.spotify.com/album/0VRhU1pqUUK6VtdmC9jQhP) | 2:57 | 2022-09-29 | 2022-12-01 |
 | [Ribbon Love ∞](https://open.spotify.com/track/7o8BCyeBH2fZLut4gW2IAd) | [강예영](https://open.spotify.com/artist/0Rwpm36PpiOlYZiY3mZByf) | [Ribbon Love ∞](https://open.spotify.com/album/7LlhQhqEwDajm63r6wmEbc) | 3:03 | 2024-03-21 |  |
 | [Ride \(Feat\. Jueun\)](https://open.spotify.com/track/1cCszH5E4C3U01CaLFsuVR) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Dear.R](https://open.spotify.com/album/3tqu6xDwjAStZh0A8oiXKH) | 3:12 | 2023-10-02 | 2024-04-04 |
+| [RIDE OR DIE](https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J) | [KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [RIDE OR DIE](https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW) | 3:15 | 2024-06-07 |  |
 | [Ring Finger \(Feat\. Gist\)](https://open.spotify.com/track/59rFPXfBvCvHYI3unX76RA) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Ring Finger \(Feat\. Gist\)](https://open.spotify.com/album/5wzWfx8QetaXgEcGEtzKTc) | 2:24 | 2024-04-03 |  |
 | [River](https://open.spotify.com/track/5PIjg4JMTmXKDaSB2NHz7W) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [River](https://open.spotify.com/album/53WCVemmNJoLH2ptEs1csA) | 4:11 | 2022-07-04 | 2022-08-19 |
 | [Rock, Scissors, Paper!](https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [Rock, Scissors, Paper!](https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew) | 3:27 | 2023-09-20 | 2024-03-22 |
@@ -1320,7 +1321,7 @@
 | [아무것도하기싫어](https://open.spotify.com/track/1zcn4vFOiz7E0lkKJXJDn1) | [서영](https://open.spotify.com/artist/3qbgph1ZJa7HlDrXbTrpia) | [아무것도하기싫어](https://open.spotify.com/album/0sfg7Vi4jNI6j1jbc0FZKj) | 3:14 | 2022-07-04 | 2022-09-06 |
 | [아지랑이 Shimmer](https://open.spotify.com/track/7uoMYFa07mkc8fDPxKQ7jO) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [아지랑이 Shimmer](https://open.spotify.com/album/3mA6BYaLOeIJlYUCGfSiFq) | 4:11 | 2023-09-20 | 2024-03-22 |
 | [어쩔 수 없고 끝날 수 없는 Lonesome By Eternal](https://open.spotify.com/track/74MsN5JMOFfOUjPDUb9Pi9) | [toasterz](https://open.spotify.com/artist/1UY9Jxren3wBLXUVbSmA9F) | [어쩔 수 없고 끝날 수 없는 Lonesome By Eternal](https://open.spotify.com/album/5Y1l3XCkLBqaMFuUsP73ND) | 3:29 | 2023-05-01 | 2023-07-27 |
-| [언제까지 웃는척을 해야만 해](https://open.spotify.com/track/4dO2IxJCkwsJWa4B8jFWDi) | [NUGU](https://open.spotify.com/artist/3I7aENNIC9ZlMoxrKvPUMV) | [언제까지 웃는척을 해야만 해](https://open.spotify.com/album/79WeX3vPX6lEmIzN5lsgyb) | 4:17 | 2024-03-06 |  |
+| [언제까지 웃는척을 해야만 해](https://open.spotify.com/track/4dO2IxJCkwsJWa4B8jFWDi) | [NUGU](https://open.spotify.com/artist/3I7aENNIC9ZlMoxrKvPUMV) | [언제까지 웃는척을 해야만 해](https://open.spotify.com/album/79WeX3vPX6lEmIzN5lsgyb) | 4:17 | 2024-03-06 | 2024-06-08 |
 | [언제쯤 이 숨을 다 뱉어낼까요 \(With\. 최인태\)](https://open.spotify.com/track/5RCOqrXXYuYf1cgBNLcImm) | [Seonyull](https://open.spotify.com/artist/2aKkP9ji6AIV9Hg3OH6dYH), [최인태](https://open.spotify.com/artist/6mlj7BaGPc5KFIn1v5SZDF) | [언제쯤 이 숨을 다 뱉어낼까요 \(With\. 최인태\)](https://open.spotify.com/album/1fdsryICaNvBdhUpsyEJ6G) | 3:40 | 2023-11-14 | 2024-04-04 |
 | [여름이 오면 When Summer Comes](https://open.spotify.com/track/7pzIVKDFPYtK1UAUbedqok) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [여름이 오면 When Summer Comes](https://open.spotify.com/album/5iS8zIY6nit024xp6kSaT3) | 3:37 | 2023-07-06 | 2023-11-16 |
 | [오늘도 그렇게](https://open.spotify.com/track/0NcMWuULDlYYpBuMBABmvz) | [Salmon Sushi](https://open.spotify.com/artist/4ogKGZt97ETvyY9AiHv7LU) | [오늘도 그렇게](https://open.spotify.com/album/4Wxb6agrgYJnse8au3W94F) | 3:57 | 2023-03-02 | 2023-05-02 |

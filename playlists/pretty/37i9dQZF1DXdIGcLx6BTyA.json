@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 32074,
+  "num_followers": 32081,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Colder Than You",
-        "url": "https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R"
-      },
-      "artists": [
-        {
-          "name": "Canaan Smith",
-          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
-        }
-      ],
-      "duration_ms": 201618,
-      "name": "Colder Than You",
-      "url": "https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Tuesday I'll Be Gone (feat. Blake Shelton)",
         "url": "https://open.spotify.com/album/5Cfm8cQjzRQGEoIv2XkAbr"
       },
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Heading South",
-        "url": "https://open.spotify.com/album/7Awf9BeZKWESAP9w5qarWp"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Heading South",
-      "url": "https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Call the Captain",
         "url": "https://open.spotify.com/album/5YNqgj9e3qqsaUojuGfPSi"
       },
@@ -1319,6 +1287,38 @@
       "duration_ms": 222333,
       "name": "Before That Final Bell",
       "url": "https://open.spotify.com/track/4vwpnBraqdzWKugN0Brrfq"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Colder Than You",
+        "url": "https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R"
+      },
+      "artists": [
+        {
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+        }
+      ],
+      "duration_ms": 201618,
+      "name": "Colder Than You",
+      "url": "https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/7Awf9BeZKWESAP9w5qarWp"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl"
     },
     {
       "added_at": "2024-03-25 16:53:27",

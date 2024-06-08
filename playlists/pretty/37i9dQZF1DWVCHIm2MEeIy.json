@@ -1,6 +1,6 @@
 {
   "description": "This is our playground! \ud83e\udea9\u200a Cover: Keinemusik",
-  "num_followers": 869614,
+  "num_followers": 869968,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 164983,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 201569,
       "name": "ORION",
       "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "duration_ms": 164983,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Birth4000",
+        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Welcome The Night",
         "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 198407,
       "name": "Welcome The Night",
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Birth4000",
-        "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 286274,
-      "name": "Birth4000",
-      "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38"
+        "name": "Ayana",
+        "url": "https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g"
       },
       "artists": [
         {
           "name": "Pretty Pink",
           "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk"
+      "duration_ms": 201707,
+      "name": "Ayana",
+      "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1179,26 +1183,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Delete Time",
-        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Delete Time",
-      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/3fvkqHSmVJQls8VuFp2s7L"
       },
@@ -1215,6 +1199,26 @@
       "duration_ms": 176483,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Delete Time",
+        "url": "https://open.spotify.com/album/3Rn97fqjZ6Nj5ECntOaDJB"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Delete Time",
+      "url": "https://open.spotify.com/track/0IEmWo1Opdmir15BejC5Yt"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Ayana",
-        "url": "https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g"
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38"
       },
       "artists": [
         {
           "name": "Pretty Pink",
           "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 201707,
-      "name": "Ayana",
-      "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
+      "duration_ms": 203520,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Exciter EP",
+        "url": "https://open.spotify.com/album/2KSfWKqnb68mwhMchuTFnk"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "duration_ms": 335334,
+      "name": "House Anthem",
+      "url": "https://open.spotify.com/track/155dl8ITrVUipEUGnJ4SOq"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "AMA",
         "url": "https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 334284,
       "name": "AMA",
       "url": "https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Exciter EP",
-        "url": "https://open.spotify.com/album/2KSfWKqnb68mwhMchuTFnk"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00fcb De Combat",
-          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
-        }
-      ],
-      "duration_ms": 335334,
-      "name": "House Anthem",
-      "url": "https://open.spotify.com/track/155dl8ITrVUipEUGnJ4SOq"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Rider",
-        "url": "https://open.spotify.com/album/49R5umJQYx9Gk02aamMFsv"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Rider",
-      "url": "https://open.spotify.com/track/4r0HVrlaSAFx4usOEXEf2G"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9"
       },
@@ -1595,6 +1579,30 @@
       "duration_ms": 240000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Cinecitt\u00e0",
+        "url": "https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        }
+      ],
+      "duration_ms": 208358,
+      "name": "Cinecitt\u00e0",
+      "url": "https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5"
     }
   ],
   "unique_name": "Electronic Circus",

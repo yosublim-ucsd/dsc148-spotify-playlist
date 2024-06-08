@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits Pop c'est ici.
+> Les meilleurs hits Pop c'est ici\. Cover: Ibtissam Tiskat
 
 124 songs - 6 hr 45 min
 

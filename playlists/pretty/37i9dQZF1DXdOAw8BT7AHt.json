@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers ",
-  "num_followers": 446902,
+  "num_followers": 447040,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 317467,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Elster Stares the Desert Down",
         "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 221347,
       "name": "Elster Stares the Desert Down",
       "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 317467,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Found a Job",
         "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 252133,
       "name": "Found a Job",
       "url": "https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -495,6 +495,22 @@
       "duration_ms": 196252,
       "name": "God Speed (feat. WARGASM (UK))",
       "url": "https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 135541,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -527,22 +543,6 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 135541,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Ruiner",
-        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
+        "name": "Still Nervous",
+        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
       },
       "artists": [
         {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
         }
       ],
-      "duration_ms": 202331,
-      "name": "Ruiner",
-      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
+      "duration_ms": 148106,
+      "name": "You've Got The Nerve",
+      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Still Nervous",
-        "url": "https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh"
+        "name": "Ruiner",
+        "url": "https://open.spotify.com/album/091osy7G7DbCy5NuBjbAJg"
       },
       "artists": [
         {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
         }
       ],
-      "duration_ms": 148106,
-      "name": "You've Got The Nerve",
-      "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
+      "duration_ms": 202331,
+      "name": "Ruiner",
+      "url": "https://open.spotify.com/track/36WpXM0TQtY7PGCAbIvpb1"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
-      },
-      "artists": [
-        {
-          "name": "Death Lens",
-          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
-        }
-      ],
-      "duration_ms": 105556,
-      "name": "Disturb The Peace",
-      "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Fascist Bob",
         "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI"
+      },
+      "artists": [
+        {
+          "name": "Death Lens",
+          "url": "https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8"
+        }
+      ],
+      "duration_ms": 105556,
+      "name": "Disturb The Peace",
+      "url": "https://open.spotify.com/track/3XI4kmQJv04KUT1DiUgvjn"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Lost My Shadow",
         "url": "https://open.spotify.com/album/7999iknBu9Bi1JwrKVTBFN"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "A Different Life",
         "url": "https://open.spotify.com/album/4ngGXR7o8nJ6QqoVa12Bbg"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "TANGK",
-        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 143413,
-      "name": "Hall & Oates",
-      "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 156600,
       "name": "Ultrasound",
       "url": "https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 143413,
+      "name": "Hall & Oates",
+      "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/7HbR9q2DAVOJuQleC222Q0"
-      },
-      "artists": [
-        {
-          "name": "Jaws the Shark",
-          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
-        }
-      ],
-      "duration_ms": 209736,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4wHJ9q7QZBSEFmpsMyQwkz"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Free Rein to Passions (Deluxe)",
         "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 130397,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/7HbR9q2DAVOJuQleC222Q0"
+      },
+      "artists": [
+        {
+          "name": "Jaws the Shark",
+          "url": "https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S"
+        }
+      ],
+      "duration_ms": 209736,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4wHJ9q7QZBSEFmpsMyQwkz"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Menace/Burn Forever",
-        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
-      },
-      "artists": [
-        {
-          "name": "Hot Water Music",
-          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
-        }
-      ],
-      "duration_ms": 205227,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "THE HEALING",
         "url": "https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 159506,
       "name": "I'LL BE OKAY",
       "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Menace/Burn Forever",
+        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        }
+      ],
+      "duration_ms": 205227,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Sailor Honeymoon",
-        "url": "https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg"
-      },
-      "artists": [
-        {
-          "name": "Sailor Honeymoon",
-          "url": "https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C"
-        }
-      ],
-      "duration_ms": 157198,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Down There!",
         "url": "https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 208218,
       "name": "Pressure Pad",
       "url": "https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Sailor Honeymoon",
+        "url": "https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg"
+      },
+      "artists": [
+        {
+          "name": "Sailor Honeymoon",
+          "url": "https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C"
+        }
+      ],
+      "duration_ms": 157198,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Grumpster",
-        "url": "https://open.spotify.com/album/467duXwDKrYXjtjWAMJL5X"
-      },
-      "artists": [
-        {
-          "name": "Grumpster",
-          "url": "https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Bran's Motto",
-      "url": "https://open.spotify.com/track/3DUJLy8ezFXRF1wyf2NgoT"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Sickner",
         "url": "https://open.spotify.com/album/5rCLlOHAnmyCqG6BvhrRdL"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 194826,
       "name": "Sickner",
       "url": "https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Grumpster",
+        "url": "https://open.spotify.com/album/467duXwDKrYXjtjWAMJL5X"
+      },
+      "artists": [
+        {
+          "name": "Grumpster",
+          "url": "https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Bran's Motto",
+      "url": "https://open.spotify.com/track/3DUJLy8ezFXRF1wyf2NgoT"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Make It Better",
-        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
-      },
-      "artists": [
-        {
-          "name": "Bad News First",
-          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
-        }
-      ],
-      "duration_ms": 180603,
-      "name": "Make It Better",
-      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Scrapbook",
         "url": "https://open.spotify.com/album/6HAW9bHXN7cFRP1NWMu7BK"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 255613,
       "name": "Scrapbook",
       "url": "https://open.spotify.com/track/4Jz7wnOkNBozJVyiee2fM1"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Make It Better",
+        "url": "https://open.spotify.com/album/6Oetu9iNsFuYBEpbjxMcfs"
+      },
+      "artists": [
+        {
+          "name": "Bad News First",
+          "url": "https://open.spotify.com/artist/2F6guYRc5ODHYeBG8PGiDq"
+        }
+      ],
+      "duration_ms": 180603,
+      "name": "Make It Better",
+      "url": "https://open.spotify.com/track/0H01TjxaPIWLx7Wx0Nfli8"
     },
     {
       "added_at": "2024-05-31 12:31:01",

@@ -368,8 +368,8 @@
       },
       "artists": [
         {
-          "name": "Baked Shrimp",
-          "url": "https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1"
+          "name": "Big Shrimp",
+          "url": "https://open.spotify.com/artist/5KEqTbaf2sEinU5lkQpFkr"
         }
       ],
       "date_added": "2024-01-12",
@@ -1975,6 +1975,28 @@
     },
     {
       "album": {
+        "name": "Local on the 8s (feat. Michael Burton)",
+        "url": "https://open.spotify.com/album/2ozVwGkTLNFtcNesGvkq67"
+      },
+      "artists": [
+        {
+          "name": "YAM YAM",
+          "url": "https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63"
+        },
+        {
+          "name": "Michael Burton",
+          "url": "https://open.spotify.com/artist/3kNNAtVGx2tvZc6DEHOlE7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340250,
+      "name": "Local on the 8s (feat. Michael Burton)",
+      "url": "https://open.spotify.com/track/4eT5B9NbyzsD74UCivbu71"
+    },
+    {
+      "album": {
         "name": "Love Time",
         "url": "https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD"
       },
@@ -2506,7 +2528,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 384528,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5KLqBabjr419nnfVZEgOUH"

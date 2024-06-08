@@ -1,6 +1,6 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 3485705,
+  "num_followers": 3487633,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Los Mas Sueltos Del Reggaeton",
+        "url": "https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Un Poco Loca (feat. De La Ghetto)",
+      "url": "https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Luny Tunes Presents ERRE XI",
         "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 183133,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Los Mas Sueltos Del Reggaeton",
-        "url": "https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 273480,
-      "name": "Un Poco Loca (feat. De La Ghetto)",
-      "url": "https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 232666,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/5CxTmO3ri43RrwK1CZ8HTW"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "La Evoluci\u00f3n Romantic Style",
-        "url": "https://open.spotify.com/album/2LPVQyIdBHQC4ToANsvjMV"
-      },
-      "artists": [
-        {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
-        },
-        {
-          "name": "Mr. Saik",
-          "url": "https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60"
-        }
-      ],
-      "duration_ms": 233659,
-      "name": "Dime Si Te Vas con \u00c9l",
-      "url": "https://open.spotify.com/track/2SgI67b7Kei5FE4hT9SxDv"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 192000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "La Evoluci\u00f3n Romantic Style",
+        "url": "https://open.spotify.com/album/2LPVQyIdBHQC4ToANsvjMV"
+      },
+      "artists": [
+        {
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+        },
+        {
+          "name": "Mr. Saik",
+          "url": "https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60"
+        }
+      ],
+      "duration_ms": 233659,
+      "name": "Dime Si Te Vas con \u00c9l",
+      "url": "https://open.spotify.com/track/2SgI67b7Kei5FE4hT9SxDv"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Tocarte Toa (2008 / Remix)",
         "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 260200,
       "name": "Tocarte Toa (2008 / Remix)",
       "url": "https://open.spotify.com/track/72PjUs25nm0G3ECiwOjkOM"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Te Suelto el Pelo",
-      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Conspiracion 2",
-        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Me Voy Pa'l Party",
-      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 276573,
       "name": "Deja",
       "url": "https://open.spotify.com/track/1uLAKESXylbYIK2tSMh7XT"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Conspiracion 2",
+        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Me Voy Pa'l Party",
+      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 205976,
+      "name": "Donde Hubo Fuego",
+      "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 204094,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "12 Discipulos",
-        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 205976,
-      "name": "Donde Hubo Fuego",
-      "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 207786,
       "name": "Tra Tra Tra (Remix)",
       "url": "https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/6Gap7FCzt3a8Su8HzW76I4"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2703,6 +2703,26 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Flow la Discoteka 2",
+        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 264212,
+      "name": "Chica Virtual (feat. Arcangel)",
+      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx"
       },
@@ -2723,26 +2743,6 @@
       "duration_ms": 209452,
       "name": "Algo Musical",
       "url": "https://open.spotify.com/track/4oYN44rloSqxabqrSgIani"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Flow la Discoteka 2",
-        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 264212,
-      "name": "Chica Virtual (feat. Arcangel)",
-      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2903,22 +2903,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Nerdside",
-        "url": "https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG"
-      },
-      "artists": [
-        {
-          "name": "Jiggy Drama",
-          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "La Fuga",
-      "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Flow La Discoteca Special Edition",
         "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
       },
@@ -2931,6 +2915,22 @@
       "duration_ms": 225348,
       "name": "Yo Voy A Llegar",
       "url": "https://open.spotify.com/track/6vakABC8veui722qtIXy18"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Nerdside",
+        "url": "https://open.spotify.com/album/34KerrXrPoanlVl1MtO2HG"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Drama",
+          "url": "https://open.spotify.com/artist/2wJhXMulep4to8JaxUYjeY"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "La Fuga",
+      "url": "https://open.spotify.com/track/4fhjhwazrEfayRC7l52TZ0"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -3223,22 +3223,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Si la Vieras Bailar",
-        "url": "https://open.spotify.com/album/0e2L6CIVU5ZN2xjSmJCSLd"
-      },
-      "artists": [
-        {
-          "name": "Barbero 507",
-          "url": "https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Si la Vieras Bailar",
-      "url": "https://open.spotify.com/track/7c7ajSiiY93LrpBoEBCFgB"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -3255,6 +3239,22 @@
       "duration_ms": 190186,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Si la Vieras Bailar",
+        "url": "https://open.spotify.com/album/0e2L6CIVU5ZN2xjSmJCSLd"
+      },
+      "artists": [
+        {
+          "name": "Barbero 507",
+          "url": "https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Si la Vieras Bailar",
+      "url": "https://open.spotify.com/track/7c7ajSiiY93LrpBoEBCFgB"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -3367,6 +3367,26 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "La Moda",
+        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Todo a su tiempo",
         "url": "https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ"
       },
@@ -3399,26 +3419,6 @@
       "duration_ms": 219010,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "La Moda",
-        "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4wXpSzmNqxhPX2YgUM5BCq"
     },
     {
       "added_at": "2024-05-22 11:01:00",

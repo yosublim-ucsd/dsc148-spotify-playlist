@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 222034,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1ZhqSrXAO4yvpFiOjuMBqk"
@@ -1088,6 +1088,28 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "album": {
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
     },
     {
       "album": {
@@ -2870,7 +2892,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
@@ -3252,7 +3274,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 181342,
       "name": "La Verde",
       "url": "https://open.spotify.com/track/73oBnvPUnuTmQxvbhXfZJ1"
@@ -3601,6 +3623,36 @@
     },
     {
       "album": {
+        "name": "Low Key (feat. Humby)",
+        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Humby",
+          "url": "https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216980,
+      "name": "Low Key (feat. Humby)",
+      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+    },
+    {
+      "album": {
         "name": "LQPM 360",
         "url": "https://open.spotify.com/album/1Z58IBG4Hm6bHrbcQwxLtS"
       },
@@ -3624,6 +3676,28 @@
       "duration_ms": 223800,
       "name": "LQPM 360",
       "url": "https://open.spotify.com/track/0LttQXynOe91xF8xHFhuhr"
+    },
+    {
+      "album": {
+        "name": "LUCES LED",
+        "url": "https://open.spotify.com/album/7ypm63X7W7NDU0tdEQADF2"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205783,
+      "name": "LUCES LED",
+      "url": "https://open.spotify.com/track/4NLUPdPaw05ezEfnzB18tX"
     },
     {
       "album": {
@@ -4665,6 +4739,28 @@
     },
     {
       "album": {
+        "name": "Oh Daddy",
+        "url": "https://open.spotify.com/album/4iGAhQkXrLbsOCFw6BfJp3"
+      },
+      "artists": [
+        {
+          "name": "Caeli",
+          "url": "https://open.spotify.com/artist/6nwgvwdDA6fHehXCVbfonn"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159964,
+      "name": "Oh Daddy",
+      "url": "https://open.spotify.com/track/5qbXWAPYYAy7LVY7lVy9Ri"
+    },
+    {
+      "album": {
         "name": "On My Knees",
         "url": "https://open.spotify.com/album/5FRmGDL5cSMRqtteqF5pQm"
       },
@@ -4906,7 +5002,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 121000,
       "name": "PERDER LO QUE AMAMOS",
       "url": "https://open.spotify.com/track/4mW7nXnff5qwu6Hdg35oyV"

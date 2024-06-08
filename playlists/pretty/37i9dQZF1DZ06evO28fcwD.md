@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 ### [This Is Ladysmith Black Mambazo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28fcwD)
 
-> This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
+> This Is Ladysmith Black Mambazo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,812 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,814 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Sishumayel' Ivangeli](https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 3:18 |
 | 50 | [She'd Say \(with Ladysmith Black Mambazo\)](https://open.spotify.com/track/7xvPMxwO6VmsPVqcdZDcWl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Naive](https://open.spotify.com/album/4pMctqBaropej7qhaX4Sar) | 3:26 |
 
-Snapshot ID: `Zl+qgAAAAACUWUbqWc4HwZA4kDbhCocF`
+Snapshot ID: `Zl+qgAAAAABrC0EZmleT2hgcQN5eXVxo`

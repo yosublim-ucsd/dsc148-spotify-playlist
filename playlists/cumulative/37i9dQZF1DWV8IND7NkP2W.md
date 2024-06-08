@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-731 songs - 1 day 8 hr 55 min
+733 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 | 2023-01-12 | 2023-06-23 |
 | [Back in the Days](https://open.spotify.com/track/47mSNiKIWzJKJieuPBYqp4) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Back in the Days](https://open.spotify.com/album/6Sz92KHrkhWuXpIx5vRqqS) | 1:56 | 2021-12-23 | 2022-07-29 |
 | [Balkan's note](https://open.spotify.com/track/7kS133srGVKhP0pcpCakvh) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA) | [Balkan's note](https://open.spotify.com/album/5fN5rupmALg7QxMiPvfw2o) | 3:45 | 2021-12-23 | 2022-07-26 |
+| [Barefoot](https://open.spotify.com/track/3PYn6FdmTO1qzQc1QE97sM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Barefoot](https://open.spotify.com/album/4J050LlYmPuvPouu9rBoVj) | 2:40 | 2024-06-07 |  |
 | [bay](https://open.spotify.com/track/0fTKmtZaWDLDl40LSzug3v) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [bay](https://open.spotify.com/album/5WP2xh5FcWDrsKnNHMGVQR) | 3:12 | 2021-12-23 | 2022-07-29 |
 | [Beat Diary 917](https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x) | [16FLIP](https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT) | [16FLIP \-Atomosphere'22\-](https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH) | 0:45 | 2022-05-26 | 2024-05-23 |
 | [Bedroom](https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:16 | 2021-12-23 |  |
@@ -673,6 +674,7 @@
 | [Trip to nowhere](https://open.spotify.com/track/3coM0MQwvOgwAx2Lndy3PC) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy), [Kenichi Fukushima](https://open.spotify.com/artist/1DyrMs3GFURTTbnF7lGtVc) | [Trip to nowhere](https://open.spotify.com/album/5M7bZFaERTCVnXLONy7BSb) | 3:06 | 2023-03-09 | 2024-04-19 |
 | [Trip to nowhere](https://open.spotify.com/track/4ufRs4N50gTPxfwfW7k56r) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy), [Kenichi Fukushima](https://open.spotify.com/artist/1DyrMs3GFURTTbnF7lGtVc) | [Trip to nowhere](https://open.spotify.com/album/4sqH9xvHvcGKLLTpV5EaG1) | 3:06 | 2023-03-09 |  |
 | [Tropical Chopsticks](https://open.spotify.com/track/5iIHuEyhBzuYxGZsuiEEKm) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Tropical Chopsticks](https://open.spotify.com/album/2LJWikHdlRbhBl33LWHRU8) | 2:26 | 2021-12-23 | 2022-07-29 |
+| [Turquoise Blue](https://open.spotify.com/track/0J1UPvVCQEFHUTwVhINzdo) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Turquoise Blue](https://open.spotify.com/album/1OVY4VGZtrAyZFTpleYqi7) | 2:34 | 2024-06-07 |  |
 | [Twilight](https://open.spotify.com/track/0bckA5rHWQ5MGfBjmEa8VT) | [Tsuyoshi Kawaguchi](https://open.spotify.com/artist/7DTG1bT8wsJt4i55ZWA6v3) | [Twilight](https://open.spotify.com/album/4ZUv7FPWlQctBXq7b3m6GX) | 2:38 | 2021-12-23 | 2022-06-19 |
 | [twilight city](https://open.spotify.com/track/5IlwobI9ivRAJ7K2DYx7ar) | [Chillowfy](https://open.spotify.com/artist/21show38R2hYaNkEeCZNbZ), [obake](https://open.spotify.com/artist/1Sn5d9cy80Xg4T3TlWdloS) | [twilight city](https://open.spotify.com/album/5Sfg25CP4dV1LDZiZa5Izi) | 2:24 | 2021-12-23 | 2022-07-25 |
 | [Twisted](https://open.spotify.com/track/3z9tJ9PKWuYkwRPyQKu5Cn) | [Shinjuku Jumpshot](https://open.spotify.com/artist/3Tssruxt0wSeVhuGQzrpGx) | [Twisted](https://open.spotify.com/album/1eXeA6YaC8BHOqixAMPZ8B) | 2:13 | 2022-03-31 | 2022-04-20 |
@@ -689,7 +691,7 @@
 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 | 2023-11-28 |
 | [utsuroi](https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [utsuroi](https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs) | 2:29 | 2023-04-13 | 2023-04-28 |
 | [vagrancy](https://open.spotify.com/track/4P7zuMe6na1LWybigdQ40D) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record masta](https://open.spotify.com/album/2V9nVGr0yLqFFkd36mqcmg) | 3:08 | 2024-01-09 | 2024-04-19 |
-| [vagrancy](https://open.spotify.com/track/5u6Nz1M7vCKoX2w3LHLJm9) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record masta](https://open.spotify.com/album/6X4szwJZewjNiooQquoQhO) | 3:08 | 2024-04-12 |  |
+| [vagrancy](https://open.spotify.com/track/5u6Nz1M7vCKoX2w3LHLJm9) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record masta](https://open.spotify.com/album/6X4szwJZewjNiooQquoQhO) | 3:08 | 2024-04-12 | 2024-06-08 |
 | [Views \- Instrumental](https://open.spotify.com/track/2T2V3tQ742UrCPMfYrMxz5) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views \(Instrumental\)](https://open.spotify.com/album/56WEsAYBimDZwH5cfMkkkh) | 1:51 | 2021-12-23 | 2022-07-23 |
 | [VIVID](https://open.spotify.com/track/4Uu7OhRshxKLyOuIN2ukzv) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/682KBDNKNKJdlo8KrDCeEQ) | 2:15 | 2023-10-19 | 2023-10-27 |
 | [VIVID](https://open.spotify.com/track/5dWDYXom1nEpDmi77lD9sy) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep), [Tyga Ichinose](https://open.spotify.com/artist/0q3ojxiFcPDSS5p9GQaePK) | [VIVID](https://open.spotify.com/album/1s96h3ZTUVClEPuL6vB2f8) | 2:15 | 2023-10-19 | 2023-10-21 |
@@ -735,7 +737,7 @@
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [平和](https://open.spotify.com/track/3g3k750g1iXaaFfK6aWazL) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [平和](https://open.spotify.com/album/3S5A4RX0kQMqKKnPT5UR4w) | 3:23 | 2024-04-12 |  |
-| [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 |  |
+| [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 | 2024-06-08 |
 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 | 2024-01-10 |  |
 | [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 | 2023-06-22 |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |

@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-718 songs - 1 day 17 hr 18 min
+719 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,7 @@
 | [Speed Of Light](https://open.spotify.com/track/5NaBBKxdsS6SvpcqFxWWdW) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV), [Noubya](https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud) | [Speed Of Light \(feat\. Noubya\)](https://open.spotify.com/album/6axtLeXNtG3CzReNkPp4kI) | 4:34 | 2024-04-12 |  |
 | [Spinning Silver](https://open.spotify.com/track/4pjppiO2X8u2sM6lL0Hg8A) | [TRIIIPL3 INC.](https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Spinning Silver](https://open.spotify.com/album/3nIjjrnmJMH6SAn7lQBvQT) | 3:39 | 2022-12-27 | 2023-01-03 |
 | [Split Second VIP](https://open.spotify.com/track/6GmhDkyndPc8Us9ZfwjrZZ) | [Rebourne](https://open.spotify.com/artist/7ikySCCJo3shAEZsoKEtVK) | [Split Second VIP](https://open.spotify.com/album/4duyJXv9UbtcQxilWiRY0d) | 2:29 | 2022-03-09 | 2022-04-21 |
-| [STAR WALKIN'](https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [NOTYPE](https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI) | [STAR WALKIN'](https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI) | 3:04 | 2023-09-07 |  |
+| [STAR WALKIN'](https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [NOTYPE](https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI) | [STAR WALKIN'](https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI) | 3:04 | 2023-09-07 | 2024-06-08 |
 | [Stay With Me](https://open.spotify.com/track/6XrgqWfIax5GjbEk0m3umc) | [Rebourne](https://open.spotify.com/artist/7ikySCCJo3shAEZsoKEtVK) | [Stay With Me](https://open.spotify.com/album/7sTJS0wrHRrA4S79NSAJOT) | 2:59 | 2022-03-24 | 2022-04-21 |
 | [Step By Step](https://open.spotify.com/track/4rWoj8zjH5mv9FdserDATf) | [Lynx](https://open.spotify.com/artist/0HwP4jjp6Wb1PuljkT8wJh) | [The Outcry](https://open.spotify.com/album/473T0ua6xeVzObt0IByXI9) | 2:36 | 2021-12-16 | 2022-07-29 |
 | [Step Into The Game \(Official Intents Festival 2020 Anthem\)](https://open.spotify.com/track/6YwBd9LIpIb12swAydBS7n) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [Step Into The Game \(Official Intents Festival 2020 Anthem\)](https://open.spotify.com/album/6Ab1ZrMluyA1HCaDuOW9ey) | 6:06 | 2021-12-16 | 2024-03-22 |
@@ -602,6 +602,7 @@
 | [Symphony \- Dr Phunk Remix](https://open.spotify.com/track/7DmhyegXAiu0yTy7nRI0yg) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Symphony \(Dr Phunk Remix\)](https://open.spotify.com/album/7of9MR3BmhFmEn5HgYcRqI) | 3:24 | 2021-12-16 | 2022-07-29 |
 | [Synergy \(Reverze Anthem 2023\)](https://open.spotify.com/track/2dOCTLSM95VSHT3wOcCyPE) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Synergy \(Reverze Anthem 2023\)](https://open.spotify.com/album/2DFnOsiIW1zeJhkB9LPfzr) | 4:48 | 2023-02-09 | 2024-03-22 |
 | [Take Me Away](https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Bass Modulators](https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC) | [Take Me Away](https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz) | 3:28 | 2024-02-08 |  |
+| [TAKE ME AWAY](https://open.spotify.com/track/66exMOdOYDvytfS9RQXiXq) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [TAKE ME AWAY](https://open.spotify.com/album/7MPTCVqNTcRJYgfErXWGUe) | 3:20 | 2024-06-07 |  |
 | [Take Me Higher](https://open.spotify.com/track/0BGDmwplApiVRFvhKlKBOr) | [Unsenses](https://open.spotify.com/artist/5ezp2WTBB8rewVCdTKGO1F), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [Take Me Higher](https://open.spotify.com/album/4CAqHELfFOUdgpLJ9p8dxQ) | 2:59 | 2021-12-16 | 2022-07-26 |
 | [Take The Leap](https://open.spotify.com/track/0OJ3MUvbp8rJJ5dOkQQ9La) | [Unsenses](https://open.spotify.com/artist/5ezp2WTBB8rewVCdTKGO1F) | [Take the Leap](https://open.spotify.com/album/1erN3kh2PTmsTyfJN5QcNh) | 3:12 | 2022-03-24 | 2022-04-21 |
 | [Takin' It Back \(Live Edit\)](https://open.spotify.com/track/4Wb1114QFbKiuQTBEagtPb) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Takin' It Back \(Live Edit\)](https://open.spotify.com/album/6qCrLJQw4nU5rdcCrPLn18) | 5:07 | 2022-03-24 | 2022-04-21 |

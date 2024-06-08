@@ -2,7 +2,7 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy!
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Ela Minus
 
 936 songs - 2 day 16 hr 35 min
 

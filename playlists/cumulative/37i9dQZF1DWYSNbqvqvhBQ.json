@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 141386,
       "name": "California Lover",
       "url": "https://open.spotify.com/track/6sOUBEr73j84UAotmBDqRD"
@@ -4788,6 +4788,24 @@
       "duration_ms": 214723,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
+    },
+    {
+      "album": {
+        "name": "Pair Of Shoes",
+        "url": "https://open.spotify.com/album/540NjwjxERvlxQ96WNS7YI"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187627,
+      "name": "Pair Of Shoes",
+      "url": "https://open.spotify.com/track/6iRRGYlnuBrELVLesCpzXZ"
     },
     {
       "album": {

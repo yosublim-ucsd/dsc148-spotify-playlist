@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Damas Gratis.
 
-268 songs - 15 hr 11 min
+269 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 | 2023-05-26 |  |
 | [LA VICIOSA](https://open.spotify.com/track/6a6DGp3YBXG099asUf4yw5) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [LA VICIOSA](https://open.spotify.com/album/5esKxmAuLnZqEP734zhpJV) | 3:13 | 2024-01-19 | 2024-02-03 |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 |  |
-| [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 | 2023-05-26 |  |
+| [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 | 2023-05-26 | 2024-06-08 |
 | [Leña para el Carbon](https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Los del Momento](https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i) | 2:34 | 2023-05-26 | 2023-08-16 |
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-05-26 |  |
 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 | 2023-10-26 |  |
@@ -240,6 +240,7 @@
 | [Te Llevás Todo](https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS) | [Los Chicos de la Vía](https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl) | [Por la Vía Rápida](https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3) | 3:47 | 2024-03-05 |  |
 | [TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 | 2023-05-26 |  |
 | [Tengo en Venta el Corazon](https://open.spotify.com/track/6rZZPJBaR0FyK54DZRH316) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Tengo en venta el corazon](https://open.spotify.com/album/126FOQKMNASd7nY3vTVtXq) | 3:30 | 2023-10-13 | 2023-10-21 |
+| [Tengo La Primicia](https://open.spotify.com/track/58lg8t1vkiFF7TKa9bMt5e) | [El Plan](https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Tengo La Primicia](https://open.spotify.com/album/5IhVFvT73oIh05LkASAYhI) | 2:24 | 2024-06-07 |  |
 | [TENGO SED](https://open.spotify.com/track/0cMfTZUz7ifs8J2iB5iAPs) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [TENGO SED](https://open.spotify.com/album/5aOflrqr7UamTVWOuTLykX) | 3:29 | 2024-02-09 | 2024-03-06 |
 | [The la Planta: Rkt Session \#6](https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [The la Planta: Rkt Session \#6](https://open.spotify.com/album/1M8kHH3oB1r7oKPah2Yy3Q) | 1:55 | 2023-05-26 | 2023-06-06 |
 | [Toto Pago](https://open.spotify.com/track/7lDiqbdr75lTntS5MMyr8X) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Colny Flow](https://open.spotify.com/artist/5CKHozemkVTKIF8kg1v08C) | [Toto Pago](https://open.spotify.com/album/6oDx3WEDFC2lJs7Y6OPuRb) | 2:35 | 2023-10-20 | 2023-11-18 |

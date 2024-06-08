@@ -1,28 +1,28 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 109682,
+  "num_followers": 109743,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zll9oAAAAACPrew3i0I1C2rDf859YIWt",
+  "snapshot_id": "ZmLxYwAAAABeFLqG8Et1G3+5TQ/QkFsP",
   "tracks": [
     {
-      "added_at": "2024-03-29 04:50:46",
+      "added_at": "2024-06-07 11:39:15",
       "album": {
-        "name": "That's Tough",
-        "url": "https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V"
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
       "artists": [
         {
-          "name": "Leo Waters",
-          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 144657,
-      "name": "That's Tough",
-      "url": "https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard"
+      "duration_ms": 265373,
+      "name": "N o C h i l l",
+      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
     },
     {
       "added_at": "2024-05-31 07:34:56",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/15qx6rElhY2QmikMKhJk8c"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 179971,
-      "name": "S t u c k I n M y W a y s",
-      "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
-    },
-    {
       "added_at": "2024-05-10 05:27:04",
       "album": {
         "name": "Tell It Like It Is",
@@ -105,6 +89,26 @@
       "url": "https://open.spotify.com/track/2HyaJcJaVju393PK4LvFD8"
     },
     {
+      "added_at": "2024-06-07 11:39:15",
+      "album": {
+        "name": "Enjoymenting 2",
+        "url": "https://open.spotify.com/album/0v0whlimp895NskZy3CPuv"
+      },
+      "artists": [
+        {
+          "name": "Young Deji",
+          "url": "https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 239545,
+      "name": "Jodeci",
+      "url": "https://open.spotify.com/track/0TqC5imTnHeNCZuSWn0ei1"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Bryson Tiller",
@@ -119,6 +123,22 @@
       "duration_ms": 157161,
       "name": "Stay Gold",
       "url": "https://open.spotify.com/track/4bpuF6xenrFjMLA9tfKuc7"
+    },
+    {
+      "added_at": "2024-03-29 04:50:46",
+      "album": {
+        "name": "That's Tough",
+        "url": "https://open.spotify.com/album/32sftiKKnCDLyLa0g72K2V"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "That's Tough",
+      "url": "https://open.spotify.com/track/2usPqK1pQdIxR0v1kzNard"
     },
     {
       "added_at": "2024-05-10 05:27:04",
@@ -151,6 +171,22 @@
       "duration_ms": 163503,
       "name": "RESET",
       "url": "https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 179971,
+      "name": "S t u c k I n M y W a y s",
+      "url": "https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us"
     },
     {
       "added_at": "2024-05-03 05:21:55",

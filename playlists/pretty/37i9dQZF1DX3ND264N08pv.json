@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 73200,
+  "num_followers": 73218,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
         "name": "U Will Be Mine",
         "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 211858,
       "name": "Swallow It",
       "url": "https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
+        "name": "Fear Means Nothing",
+        "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8IS",
+          "url": "https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5"
+        },
+        {
+          "name": "NATHN",
+          "url": "https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L"
+        },
+        {
+          "name": "Zentryc",
+          "url": "https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7"
+        }
+      ],
+      "duration_ms": 353374,
+      "name": "Fear Means Nothing",
+      "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
       },
@@ -1099,30 +1123,6 @@
       "duration_ms": 205647,
       "name": "Furious Anger",
       "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
-        "name": "Fear Means Nothing",
-        "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8IS",
-          "url": "https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5"
-        },
-        {
-          "name": "NATHN",
-          "url": "https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L"
-        },
-        {
-          "name": "Zentryc",
-          "url": "https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7"
-        }
-      ],
-      "duration_ms": 353374,
-      "name": "Fear Means Nothing",
-      "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "The Protest",
-        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 191779,
-      "name": "The Protest",
-      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
         "name": "Wake Up Now",
         "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 202678,
       "name": "Wake Up Now",
       "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
+        "name": "The Protest",
+        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 191779,
+      "name": "The Protest",
+      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
         "name": "We Roar Special",
         "url": "https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 164400,
       "name": "Like An Animal - Jur Terreur Remix",
       "url": "https://open.spotify.com/track/2Ja6dTeqsDx8YFAR1ojmpx"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2024-05-31 13:02:41",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-05-31 13:02:41",
       "album": {
-        "name": "The Boogeyman",
-        "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
-      },
-      "artists": [
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "The Boogeyman",
-      "url": "https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz"
-    },
-    {
-      "added_at": "2024-05-31 13:02:41",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 213254,
       "name": "Fvcking One",
       "url": "https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY"
+    },
+    {
+      "added_at": "2024-05-31 13:02:41",
+      "album": {
+        "name": "The Boogeyman",
+        "url": "https://open.spotify.com/album/1WCQ5o2QcQOrhcLwZljLvP"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "The Boogeyman",
+      "url": "https://open.spotify.com/track/4SGwV4zIwcdGYybJvAj2kz"
     },
     {
       "added_at": "2024-05-31 13:02:41",

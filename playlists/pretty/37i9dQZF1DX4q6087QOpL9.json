@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 106004,
+  "num_followers": 106068,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -719,30 +719,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
-        "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
-      },
-      "artists": [
-        {
-          "name": "Lydia Harrell",
-          "url": "https://open.spotify.com/artist/0n3sS3Vtqd3uVJrKm6hYPf"
-        },
-        {
-          "name": "Turbojazz",
-          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        }
-      ],
-      "duration_ms": 265231,
-      "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
-      "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 365250,
       "name": "Angels - Crackazat Remix",
       "url": "https://open.spotify.com/track/47asp73irkfYAFCjD1KOxJ"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
+        "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
+      },
+      "artists": [
+        {
+          "name": "Lydia Harrell",
+          "url": "https://open.spotify.com/artist/0n3sS3Vtqd3uVJrKm6hYPf"
+        },
+        {
+          "name": "Turbojazz",
+          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "duration_ms": 265231,
+      "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
+      "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -947,6 +947,30 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Alex Attias Presents Lillygood Party Vol. 2",
+        "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
+      },
+      "artists": [
+        {
+          "name": "Stacy Kidd",
+          "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
+        },
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        },
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 538744,
+      "name": "How Bad I Want Ya - Gu Peak True Time Mix",
+      "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -1047,30 +1071,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Alex Attias Presents Lillygood Party Vol. 2",
-        "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
-      },
-      "artists": [
-        {
-          "name": "Stacy Kidd",
-          "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
-        },
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        },
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 538744,
-      "name": "How Bad I Want Ya - Gu Peak True Time Mix",
-      "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Welcome Aboard",
         "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
       },
@@ -1144,7 +1144,7 @@
           "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
         },
         {
-          "name": "Sha\u00e9 Universe",
+          "name": "Shae Universe",
           "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
         }
       ],
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Straight From The Heart (Moplen Remix)",
-        "url": "https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F"
-      },
-      "artists": [
-        {
-          "name": "Loose Change",
-          "url": "https://open.spotify.com/artist/6BMcXknXEY3ggl29TpedBF"
-        },
-        {
-          "name": "Moplen",
-          "url": "https://open.spotify.com/artist/3NcMPhTdRUe1VhAX2e6upk"
-        }
-      ],
-      "duration_ms": 519392,
-      "name": "Straight From The Heart - Moplen Remix",
-      "url": "https://open.spotify.com/track/5Q1WL9Hj1nzSvy4UtRLPgP"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "House Classics V (Presented by Harley & Muscle)",
         "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 372908,
       "name": "Inspiration",
       "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Straight From The Heart (Moplen Remix)",
+        "url": "https://open.spotify.com/album/3BM47PnpTojvOKwFx7fy3F"
+      },
+      "artists": [
+        {
+          "name": "Loose Change",
+          "url": "https://open.spotify.com/artist/6BMcXknXEY3ggl29TpedBF"
+        },
+        {
+          "name": "Moplen",
+          "url": "https://open.spotify.com/artist/3NcMPhTdRUe1VhAX2e6upk"
+        }
+      ],
+      "duration_ms": 519392,
+      "name": "Straight From The Heart - Moplen Remix",
+      "url": "https://open.spotify.com/track/5Q1WL9Hj1nzSvy4UtRLPgP"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Lost & Found EP Vol. 1",
+        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 440854,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Meridian 2016",
         "url": "https://open.spotify.com/album/7IevppU9STA3qUXHvkbKK9"
       },
@@ -1687,18 +1703,26 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Lost & Found EP Vol. 1",
-        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
+        "name": "BACK TO BASIC",
+        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+          "name": "Orlando Voorn",
+          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
+        },
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        },
+        {
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
         }
       ],
-      "duration_ms": 440854,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+      "duration_ms": 405301,
+      "name": "BACK TO BASIC - Soul Clap groove remix",
+      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1723,30 +1747,6 @@
       "duration_ms": 508266,
       "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "BACK TO BASIC",
-        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
-      },
-      "artists": [
-        {
-          "name": "Orlando Voorn",
-          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
-        },
-        {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
-        }
-      ],
-      "duration_ms": 405301,
-      "name": "BACK TO BASIC - Soul Clap groove remix",
-      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1799,6 +1799,30 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/22ViKIy9zGTAliFcaSjC8X"
+      },
+      "artists": [
+        {
+          "name": "DJ Gomi",
+          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
+        },
+        {
+          "name": "Louie Balo",
+          "url": "https://open.spotify.com/artist/1MF7RWczIx7xWhr7ekx62X"
+        },
+        {
+          "name": "Yasmeen",
+          "url": "https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl"
+        }
+      ],
+      "duration_ms": 490466,
+      "name": "Glad I Found You (feat. Louie Balo & Yasmeen) - Scott Wozniak Remix",
+      "url": "https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
         "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
       },
@@ -1847,30 +1871,6 @@
       "duration_ms": 475262,
       "name": "When The Morning Comes - Main Vocal Mix",
       "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/22ViKIy9zGTAliFcaSjC8X"
-      },
-      "artists": [
-        {
-          "name": "DJ Gomi",
-          "url": "https://open.spotify.com/artist/1cKbeR3hJRlWFlAd3BJxGz"
-        },
-        {
-          "name": "Louie Balo",
-          "url": "https://open.spotify.com/artist/1MF7RWczIx7xWhr7ekx62X"
-        },
-        {
-          "name": "Yasmeen",
-          "url": "https://open.spotify.com/artist/4WfFd2patsWYCoh3POfGAl"
-        }
-      ],
-      "duration_ms": 490466,
-      "name": "Glad I Found You (feat. Louie Balo & Yasmeen) - Scott Wozniak Remix",
-      "url": "https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1943,6 +1943,26 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Give My Love",
+        "url": "https://open.spotify.com/album/2C6xwwyCGut5DTdQ0AfxgZ"
+      },
+      "artists": [
+        {
+          "name": "Art of Tones",
+          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
+        },
+        {
+          "name": "Inaya Day",
+          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
+        }
+      ],
+      "duration_ms": 379171,
+      "name": "Give My Love - Extended Mix",
+      "url": "https://open.spotify.com/track/0uqzX8JdJQspQxUkoPC68i"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Forever (feat. Sabrina Johnston) [Michael Gray Remix]",
         "url": "https://open.spotify.com/album/2Rqv0UbKa9oQYj7RlF0xkq"
       },
@@ -1963,26 +1983,6 @@
       "duration_ms": 184997,
       "name": "Forever (feat. Sabrina Johnston) - Michael Gray Remix",
       "url": "https://open.spotify.com/track/2CPthPKsaGxuEvPiB2fS57"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Give My Love",
-        "url": "https://open.spotify.com/album/2C6xwwyCGut5DTdQ0AfxgZ"
-      },
-      "artists": [
-        {
-          "name": "Art of Tones",
-          "url": "https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy"
-        },
-        {
-          "name": "Inaya Day",
-          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
-        }
-      ],
-      "duration_ms": 379171,
-      "name": "Give My Love - Extended Mix",
-      "url": "https://open.spotify.com/track/0uqzX8JdJQspQxUkoPC68i"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2367,26 +2367,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Charlotte Small",
-          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
-        }
-      ],
-      "duration_ms": 497280,
-      "name": "Rain - Terry Hunter Rainy Daze Remix",
-      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Charlotte Small",
+          "url": "https://open.spotify.com/artist/25qKHla3850wXUL5ooWa2o"
+        }
+      ],
+      "duration_ms": 497280,
+      "name": "Rain - Terry Hunter Rainy Daze Remix",
+      "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2451,6 +2451,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Git On Up (feat. Mike Dunn & Josh Milan)",
         "url": "https://open.spotify.com/album/6CSklPO1kj5kX5qsuvOMvS"
       },
@@ -2475,18 +2491,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+        "name": "Todd Terry's Rare Grooves Vol. VI",
+        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
       },
       "artists": [
         {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "INES Project",
+          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
         }
       ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+      "duration_ms": 669373,
+      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
+      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2551,26 +2571,6 @@
       "duration_ms": 416509,
       "name": "Mercyless - Atjazz Unreleased Astro Remix",
       "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Todd Terry's Rare Grooves Vol. VI",
-        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "INES Project",
-          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
-        }
-      ],
-      "duration_ms": 669373,
-      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
-      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2747,6 +2747,26 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Keep on Stepping",
+        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "Keep on Stepping",
+      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "How He Works (feat. Nico Vega) [Remixes]",
         "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
       },
@@ -2767,26 +2787,6 @@
       "duration_ms": 424113,
       "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
       "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Keep on Stepping",
-        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
-      },
-      "artists": [
-        {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        }
-      ],
-      "duration_ms": 202835,
-      "name": "Keep on Stepping",
-      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -3055,6 +3055,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/0Vz5zwWx4yxpkIzBv9ayst"
+      },
+      "artists": [
+        {
+          "name": "DJ Pope",
+          "url": "https://open.spotify.com/artist/0pcXybmnJaiSm2QDhGylq8"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/5aJolgnSFg45tZ9kIIBMB5"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -3079,22 +3095,6 @@
       "duration_ms": 510280,
       "name": "Brand New Feeling - Phil Asher Main Mix",
       "url": "https://open.spotify.com/track/7GxJOGrNhObuU7D3JowwyR"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Act Like You Know",
-        "url": "https://open.spotify.com/album/0Vz5zwWx4yxpkIzBv9ayst"
-      },
-      "artists": [
-        {
-          "name": "DJ Pope",
-          "url": "https://open.spotify.com/artist/0pcXybmnJaiSm2QDhGylq8"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Act Like You Know",
-      "url": "https://open.spotify.com/track/5aJolgnSFg45tZ9kIIBMB5"
     },
     {
       "added_at": "2024-06-04 10:14:49",

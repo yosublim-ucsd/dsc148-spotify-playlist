@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: YULLOLA",
+  "description": "Underground indie rock gems. Cover: Goat Girl",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 155177,
       "name": "August 19",
       "url": "https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK"
@@ -2750,6 +2750,24 @@
       "duration_ms": 62500,
       "name": "Bon Iver",
       "url": "https://open.spotify.com/track/4fJH2cQ814gSzPZ9buADfK"
+    },
+    {
+      "album": {
+        "name": "Together We Are One, You and I",
+        "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312413,
+      "name": "Born In Early May",
+      "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
     },
     {
       "album": {
@@ -5629,6 +5647,24 @@
     },
     {
       "album": {
+        "name": "Inside the Marble",
+        "url": "https://open.spotify.com/album/6Tifn26BUT16VlQ3WG2khN"
+      },
+      "artists": [
+        {
+          "name": "Margaux",
+          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186253,
+      "name": "Dissolve / Resolve",
+      "url": "https://open.spotify.com/track/1PziOPbOgzoCNuPrZ1Xz5i"
+    },
+    {
+      "album": {
         "name": "distance",
         "url": "https://open.spotify.com/album/0PM03cPbWRSe0rTTY9sqXm"
       },
@@ -5863,6 +5899,24 @@
     },
     {
       "album": {
+        "name": "drain",
+        "url": "https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f"
+      },
+      "artists": [
+        {
+          "name": "w1sh",
+          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "drain",
+      "url": "https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7"
+    },
+    {
+      "album": {
         "name": "Dream Woman",
         "url": "https://open.spotify.com/album/57gpMvYPqs5ERNHqXb4C0X"
       },
@@ -6040,7 +6094,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 158460,
       "name": "Drive Baby",
       "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
@@ -9133,6 +9187,24 @@
     },
     {
       "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "album": {
         "name": "Heartbreak Rules",
         "url": "https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu"
       },
@@ -9696,6 +9768,24 @@
       "duration_ms": 262611,
       "name": "Home",
       "url": "https://open.spotify.com/track/1spaVEd0xNQTvWhfxd1e4s"
+    },
+    {
+      "album": {
+        "name": "Imposing on a Hometown",
+        "url": "https://open.spotify.com/album/1dM8gZCaz3z6lj6eWnA1GL"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wolfson",
+          "url": "https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173043,
+      "name": "Hometown Hero",
+      "url": "https://open.spotify.com/track/2yFLZqpRnGWzLQ9MbZ6nSh"
     },
     {
       "album": {
@@ -11250,7 +11340,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 225985,
       "name": "it's all the same to me .",
       "url": "https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK"
@@ -13492,7 +13582,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 122149,
       "name": "Missy",
       "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
@@ -13600,7 +13690,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162969,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
@@ -14786,7 +14876,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 156073,
       "name": "Obstruction",
       "url": "https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ"
@@ -15490,6 +15580,24 @@
       "duration_ms": 198000,
       "name": "photograph",
       "url": "https://open.spotify.com/track/0zFzJ5xtaSOtOhcmWBKJvu"
+    },
+    {
+      "album": {
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
     },
     {
       "album": {
@@ -17948,7 +18056,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 173941,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/62NdrxSg8YAdnnPikjZN8N"
@@ -19602,7 +19710,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 204000,
       "name": "Tell Me About It",
       "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
@@ -21661,6 +21769,24 @@
     },
     {
       "album": {
+        "name": "Lived Here For A While",
+        "url": "https://open.spotify.com/album/5y5fth4ycr3MuWRGSkIYZc"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171973,
+      "name": "Vaughn",
+      "url": "https://open.spotify.com/track/3QWLuJZ2A5TJ1BN6H0AMg7"
+    },
+    {
+      "album": {
         "name": "Veronica Mars",
         "url": "https://open.spotify.com/album/5uVhPTXAfU9Bboa6Jbl1cB"
       },
@@ -21968,6 +22094,24 @@
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "album": {
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/4CX7ZEPr2FoVUN7KiW9bgB"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358226,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/2YHd2jXLdvSL6Cfnw8URHO"
     },
     {
       "album": {
@@ -22382,7 +22526,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 264698,
       "name": "White Ribbons",
       "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
@@ -22692,6 +22836,24 @@
       "duration_ms": 178571,
       "name": "Woman on Fire",
       "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"
+    },
+    {
+      "album": {
+        "name": "words fell out",
+        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181480,
+      "name": "words fell out",
+      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
     },
     {
       "album": {

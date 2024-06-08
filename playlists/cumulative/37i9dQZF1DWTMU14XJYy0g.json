@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Canciones de amor",
+        "url": "https://open.spotify.com/album/657L4NaNNPqNQYbpZmDHX8"
+      },
+      "artists": [
+        {
+          "name": "Vozenoff",
+          "url": "https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203377,
+      "name": "Canciones de amor",
+      "url": "https://open.spotify.com/track/25Zk0XfW51saVwcH7bBOV4"
+    },
+    {
+      "album": {
         "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ"
       },
@@ -654,7 +672,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 218499,
       "name": "Certezas de Cart\u00f3n",
       "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 263724,
       "name": "En Redondel",
       "url": "https://open.spotify.com/track/5D6vcVOKAzLeJ5zRfW6nGL"
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 219372,
       "name": "Imposible",
       "url": "https://open.spotify.com/track/2ogIId7Mb4XbHbP70aANN9"
@@ -2516,6 +2534,24 @@
       "duration_ms": 249444,
       "name": "La concentraci\u00f3n",
       "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
+    },
+    {
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/6PXScUsEFJ5mGQX89Rssvb"
+      },
+      "artists": [
+        {
+          "name": "Andando Descalzo",
+          "url": "https://open.spotify.com/artist/6NHW6BsssESLzyucE7DFId"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223561,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/1EGP8NFMcgqNBq0yynE6Sr"
     },
     {
       "album": {
@@ -3092,6 +3128,24 @@
       "duration_ms": 375754,
       "name": "Los A\u00f1os Salvajes (feat. Fabiana Cantilo)",
       "url": "https://open.spotify.com/track/3IN0zzW9VM9NV0OHbarMdi"
+    },
+    {
+      "album": {
+        "name": "LOS UNOS Y LOS OTROS",
+        "url": "https://open.spotify.com/album/59rjA3sfQLfv2SDFoaz6yB"
+      },
+      "artists": [
+        {
+          "name": "Arde la Sangre",
+          "url": "https://open.spotify.com/artist/0ygnmKrobIE3eHiDCQyTpm"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220875,
+      "name": "Los Unos y Los Otros",
+      "url": "https://open.spotify.com/track/4GCehKqmOmqXinxMxwOuch"
     },
     {
       "album": {
@@ -4381,6 +4435,28 @@
     },
     {
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
+    },
+    {
+      "album": {
         "name": "Sola en los Bares",
         "url": "https://open.spotify.com/album/4EYbcIicrpX0tsqUtGGDO9"
       },
@@ -5254,7 +5330,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 264187,
       "name": "\u00bfCu\u00e1l es tu norte?",
       "url": "https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d"

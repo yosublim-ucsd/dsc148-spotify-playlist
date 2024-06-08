@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: The Chairs \(Taiwan\)
 
-1,349 songs - 3 day 9 hr 15 min
+1,350 songs - 3 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [HANSEL AND GRETEL](https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q), [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [HANSEL AND GRETEL](https://open.spotify.com/album/3QoHlrglPtVHUcqJnr51mI) | 4:15 | 2024-04-25 | 2024-05-17 |
 | [Happiness](https://open.spotify.com/track/5IConHG7gM7weQdrWt9p98) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [House Mouse](https://open.spotify.com/album/2PotF1jdtZBOL9hSZOfB5I) | 3:23 | 2023-11-16 | 2023-11-24 |
 | [Happy Prince](https://open.spotify.com/track/3iQNce2vHa8N9M4uPYOsiT) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [YILE LIN](https://open.spotify.com/artist/26AmoMf8mCSUdM2p363S6e) | [Happy Prince](https://open.spotify.com/album/37ragGvhMrZgxxyOe9wlKo) | 4:22 | 2023-11-30 | 2023-12-15 |
+| [Harapan, Pt\. 3](https://open.spotify.com/track/42stYHbwsVEe8hpgoiHozN) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [Harapan](https://open.spotify.com/album/5Me8TkPJQLbJGt1WzOizpQ) | 4:26 | 2024-06-06 |  |
 | [hard to find](https://open.spotify.com/track/65Ox4mJSZfdY7KsTCrDr4X) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [Movements](https://open.spotify.com/album/2q6n52ZbMar9XJCfHuqOwa) | 2:53 | 2024-05-02 | 2024-05-24 |
 | [Hari Lahir](https://open.spotify.com/track/4ikMGEBih2VcvACtCiiya8) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Hari Lahir](https://open.spotify.com/album/37xidUiolMrIXsQ11h2Ym8) | 3:13 | 2023-01-19 | 2023-02-10 |
 | [Has it all](https://open.spotify.com/track/0r7ldyewgd6Rv3pF0L8rSL) | [Sugar Club](https://open.spotify.com/artist/2SYNq4ziATc0sU8qeiAirU) | [Has it all](https://open.spotify.com/album/5N9A9SdqSNstzmUfln9BU2) | 3:19 | 2022-11-17 | 2023-01-27 |
@@ -729,7 +730,7 @@
 | [Mr\. Feelgood](https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Mr\. Feelgood](https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF) | 3:50 | 2024-05-30 |  |
 | [Mr\. Streetboy](https://open.spotify.com/track/63TccNreszvD0ySqpH6N6C) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Mr\. Streetboy](https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT) | 3:06 | 2023-11-23 | 2023-12-15 |
 | [Mungkin Saja](https://open.spotify.com/track/0P9SQLVE76N3QX4AkiyuM7) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Mungkin Saja](https://open.spotify.com/album/4simdciqfJWcdZHk1URkfW) | 2:15 | 2024-06-06 |  |
-| [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-05-23 | 2024-06-07 |
+| [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-05-23 |  |
 | [Music All We Have](https://open.spotify.com/track/5BtEJ0u8sxno9kymiloA0S) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Music All We Have](https://open.spotify.com/album/7HdVwXyh6GSIe8n6Ilnbo7) | 4:02 | 2022-08-11 | 2022-09-30 |
 | [Mute](https://open.spotify.com/track/6VZYg1hHBVae2x8cQf8Qvp) | [Bakers in Space](https://open.spotify.com/artist/01BZLSIsPBIV3u139alCVf) | [Acoustic Vol\. I](https://open.spotify.com/album/7dsV0TdxQC5a60F4OJQpw7) | 5:21 | 2023-10-27 | 2023-11-17 |
 | [MY ALL TIME FAVOURITE HEARTBREAKING MOMENT](https://open.spotify.com/track/47gkKdc32LL8pnBxWUIynq) | [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [MY ALL TIME FAVOURITE HEARTBREAKING MOMENT](https://open.spotify.com/album/2tGEZnwR4yxXmOM4CnpDnW) | 3:09 | 2023-10-19 | 2023-11-24 |
@@ -1113,7 +1114,7 @@
 | [twentyfour](https://open.spotify.com/track/09xiz53qcvPDl1j2TqzS80) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [i told you we're going home](https://open.spotify.com/album/7lQFXgZOtx6qbPT6Wg0SQW) | 3:22 | 2024-02-01 | 2024-03-15 |
 | [Two Kites](https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Noi Naa](https://open.spotify.com/artist/6pGbf7xv8t7Qt2HYWceGm2), [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Two Kites](https://open.spotify.com/album/4mzQC5WPtOwkISn8ogQXCp) | 2:46 | 2023-09-07 | 2023-11-27 |
 | [Tàu Biển](https://open.spotify.com/track/0Rb6t9HNbdIj41apUiN9wl) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Tàu Biển](https://open.spotify.com/album/1IuJCra9lGMb1U0FVcjMfM) | 3:24 | 2022-04-21 | 2022-06-10 |
-| [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2023-10-27 |  |
+| [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2023-10-27 | 2024-06-08 |
 | [Umiinit](https://open.spotify.com/track/2BtALVUCAnFvAUwHki5LEg) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lola Amour](https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ) | 3:00 | 2024-04-11 |  |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-19 | 2022-07-01 |
 | [undo](https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [undo](https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U) | 3:28 | 2024-05-23 |  |

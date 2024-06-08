@@ -1,6 +1,6 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 467301,
+  "num_followers": 467382,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 309359,
+      "name": "re: Stacks - Spotify Singles",
+      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Covers, Vol. 1",
         "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
@@ -179,18 +195,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 309359,
-      "name": "re: Stacks - Spotify Singles",
-      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+      "duration_ms": 212300,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -211,22 +227,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 212300,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Whatever You Like [Digital 45]",
         "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 228907,
       "name": "Whatever You Like - Single Version",
       "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx"
-      },
-      "artists": [
-        {
-          "name": "Cinzia & The Eclipse",
-          "url": "https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "...but i'd rather be with you",
         "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 235418,
       "name": "Sunflower, Vol. 6",
       "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/4QtMn2R7ATbWQYXxSVcQHx"
+      },
+      "artists": [
+        {
+          "name": "Cinzia & The Eclipse",
+          "url": "https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/34APO7yezS12jRpPaUAv8A"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "dreams",
-        "url": "https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO"
-      },
-      "artists": [
-        {
-          "name": "Anna Mae",
-          "url": "https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv"
-        }
-      ],
-      "duration_ms": 257323,
-      "name": "dreams",
-      "url": "https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Final Song",
         "url": "https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 141212,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "dreams",
+        "url": "https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO"
+      },
+      "artists": [
+        {
+          "name": "Anna Mae",
+          "url": "https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv"
+        }
+      ],
+      "duration_ms": 257323,
+      "name": "dreams",
+      "url": "https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Trauma - Chansons de la s\u00e9rie t\u00e9l\u00e9 (Saison No. 5)",
-        "url": "https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Earned It",
         "url": "https://open.spotify.com/album/5F3EDc5Y9ca36xAwDEfAp8"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 247363,
       "name": "Earned It",
       "url": "https://open.spotify.com/track/2MxrQDEu6efhLEOWM2ckSU"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Trauma - Chansons de la s\u00e9rie t\u00e9l\u00e9 (Saison No. 5)",
+        "url": "https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Follow Me Down",
-        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 292013,
-      "name": "The Tourist",
-      "url": "https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Sleeping on the Ground",
         "url": "https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 250871,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/08QenBY0A0qBS7KbuWDjRv"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Follow Me Down",
+        "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 292013,
+      "name": "The Tourist",
+      "url": "https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Love Is A Stranger",
-        "url": "https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy"
-      },
-      "artists": [
-        {
-          "name": "Hannah Georgas",
-          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
-        }
-      ],
-      "duration_ms": 218505,
-      "name": "Love Is A Stranger",
-      "url": "https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/0qpOhvO4u3yCRQbtrGiHMG"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 195813,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/3NiHRFN1Wvx9c2IYRPD1Zf"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Love Is A Stranger",
+        "url": "https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy"
+      },
+      "artists": [
+        {
+          "name": "Hannah Georgas",
+          "url": "https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS"
+        }
+      ],
+      "duration_ms": 218505,
+      "name": "Love Is A Stranger",
+      "url": "https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ"
     },
     {
       "added_at": "2022-03-22 14:40:29",

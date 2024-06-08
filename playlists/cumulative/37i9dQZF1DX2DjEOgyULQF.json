@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "First And Foremost",
+        "url": "https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ"
+      },
+      "artists": [
+        {
+          "name": "Amaury Arceneaux",
+          "url": "https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "First And Foremost",
+      "url": "https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2"
+    },
+    {
+      "album": {
         "name": "Floating senses",
         "url": "https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR"
       },
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 230173,
       "name": "Misty Glade",
       "url": "https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO"

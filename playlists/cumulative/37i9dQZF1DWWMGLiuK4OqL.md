@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-339 songs - 23 hr 10 min
+340 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Old Love and New](https://open.spotify.com/track/74ma44w5wGAx3cGlLSVC7x) | [Ulita Knaus](https://open.spotify.com/artist/7kvydoOIVHwhieI8oLrRmT) | [Old Love and New](https://open.spotify.com/album/435DJSlvexja6r2st5AjJ6) | 4:13 | 2022-04-14 |  |
 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 | 2022-01-20 |  |
 | [Our Last Goodbye](https://open.spotify.com/track/67At7oengoEs0vS6v0lufo) | [Anastasia Lyutova](https://open.spotify.com/artist/2XXM9pDf8YPMUjyuaq9u9K) | [Our Last Goodbye](https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl) | 5:12 | 2024-03-20 |  |
-| [Our Love Remains](https://open.spotify.com/track/4Ion6vCVcGkSbd6KnedF4P) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ), [Carmen Lundy](https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL) | [Our Love Remains](https://open.spotify.com/album/6wPU1U5ZCYuGdoDxZxiHyg) | 5:26 | 2022-10-11 |  |
+| [Our Love Remains](https://open.spotify.com/track/4Ion6vCVcGkSbd6KnedF4P) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ), [Carmen Lundy](https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL) | [Our Love Remains](https://open.spotify.com/album/6wPU1U5ZCYuGdoDxZxiHyg) | 5:26 | 2022-10-11 | 2024-06-08 |
 | [Our Love Remains](https://open.spotify.com/track/7rch4tA20nJHicdvSSFahf) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ), [Carmen Lundy](https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL) | [Back Home in Kansas City](https://open.spotify.com/album/1HxUWVcuyaeA0hP824M17k) | 5:26 | 2023-08-25 | 2024-04-19 |
 | [Our Love Will Always Be There](https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m) | [Diane Schuur](https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv) | [Midnight](https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9) | 3:30 | 2022-09-08 |  |
 | [Over the Rainbow](https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Isn't it Romantic: The Standards Album](https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt) | 4:52 | 2022-01-20 |  |
@@ -344,6 +344,7 @@
 | [You Know](https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U) | [Valentina Ranalli](https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [GIACOMO SERINO](https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3), [Cesare Mangiocavallo](https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b), [Giuseppe Romagnoli](https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L) | [Cantare Pieranunzi](https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ) | 4:11 | 2022-03-31 |  |
 | [You Never Ask \- from 'Madame Sean Connery'](https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [You Never Ask \(from 'Madame Sean Connery'\)](https://open.spotify.com/album/3L0HHKhSW7fAN0jjqOsOVi) | 4:05 | 2022-10-25 | 2023-08-26 |
 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5J6264keZ3ksbsHwef1U7G) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 4:19 | 2022-01-20 |  |
+| [You're Mine, You \(feat\. Benny Benack III\)](https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16) | [Maria Kim](https://open.spotify.com/artist/6xjz1I1bvEizO8r7S6VncB), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Misty Blue](https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ) | 5:20 | 2024-06-07 |  |
 | [You've Changed](https://open.spotify.com/track/1c4uYJTTaTzrEXAyyB95at) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:54 | 2022-01-20 | 2022-10-08 |
 | [You've Changed](https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:30 | 2022-02-18 |  |
 | [You´ve Got A Friend \(Bossa Version\)](https://open.spotify.com/track/72d2qNpo39PRtwMWS9m2nq) | [Tahta Menezes](https://open.spotify.com/artist/5zto0NhFPEDUohvCEOYlrM) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:15 | 2022-01-20 |  |

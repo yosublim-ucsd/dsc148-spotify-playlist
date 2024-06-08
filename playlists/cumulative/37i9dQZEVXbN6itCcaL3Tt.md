@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,732 songs - 3 day 17 hr 4 min
+1,733 songs - 3 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,7 +994,7 @@
 | [Najmłodszy Łajcior](https://open.spotify.com/track/7yG2diFTemvipx35M4NeDP) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Pretty Boy](https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ) | 3:19 | 2022-06-25 | 2022-07-03 |
 | [Nametag](https://open.spotify.com/track/1Z7cVYHnRJKHxQJFE9MP4y) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:03 | 2023-09-23 | 2023-11-19 |
 | [Napad Na Bank](https://open.spotify.com/track/317BKia1vQ2fQza3QOSYl0) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM), [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [SEZON3 \(Deluxe\)](https://open.spotify.com/album/2GZpgflGzo3BNIPYpEFmeA) | 3:43 | 2021-06-28 | 2021-07-22 |
-| [NAPALONE FANKI](https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NAPALONE FANKI](https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92) | 3:07 | 2024-02-02 |  |
+| [NAPALONE FANKI](https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [NAPALONE FANKI](https://open.spotify.com/album/0bqOLnjMLRVAdiZXME4L92) | 3:07 | 2024-02-02 | 2024-06-08 |
 | [NARCO TRAFFICANTE](https://open.spotify.com/track/4KKNEojih3ePzwbVafY1vm) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Bibič](https://open.spotify.com/artist/7hJpyuLhmpawafcRfxUnlT) | [NARCO TRAFFICANTE](https://open.spotify.com/album/75Si2y0pXmS3Ht6etJXxXK) | 2:32 | 2022-01-23 | 2022-02-21 |
 | [Narcyz](https://open.spotify.com/track/0tTy9lib8CQg7mwFF6lBbD) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Narcyz](https://open.spotify.com/album/6swlvP1UMJYx6ny4PBbjph) | 2:24 | 2022-03-22 | 2022-10-16 |
 | [narcyz w klubie](https://open.spotify.com/track/0yb5tP8GHm9zHYTnEYVTss) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [młody say10](https://open.spotify.com/album/4r0SGmxQ5XgR5nGyyOiO91) | 2:06 | 2022-09-23 | 2022-09-28 |
@@ -1338,6 +1338,7 @@
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-25 | 2023-04-27 |
 | [Self Made](https://open.spotify.com/track/4yRqjKmYzKutOFsQRaDAkV) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Self Made](https://open.spotify.com/album/0UVK86EK4BxRldoLrBXRMZ) | 1:54 | 2022-05-31 | 2022-07-22 |
 | [Sen](https://open.spotify.com/track/0V3vDfdJmTYjLkR3va0UQu) | [Ekipa](https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM) | [SEZON3 \(Deluxe\)](https://open.spotify.com/album/2GZpgflGzo3BNIPYpEFmeA) | 3:13 | 2021-07-01 | 2021-07-10 |
+| [SEN W WARSZAWIE](https://open.spotify.com/track/6D163gDxH4pBndbMOGDD3f) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [SEN W WARSZAWIE](https://open.spotify.com/album/2yR5aICkyLulhCY6o7EiOw) | 2:43 | 2024-06-07 |  |
 | [Sen we śnie](https://open.spotify.com/track/281o5SXjmCOop5bkRh6tgu) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Grzegorz Turnau](https://open.spotify.com/artist/5bQZCiENsgmW4SvUOc86qI) | [UCZTA](https://open.spotify.com/album/7G9ImTT4M1vC44tkVgtdQz) | 3:26 | 2022-04-16 | 2022-06-01 |
 | [Sen we śnie](https://open.spotify.com/track/7EuS4txsabaZyF5mkixLAj) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Grzegorz Turnau](https://open.spotify.com/artist/5bQZCiENsgmW4SvUOc86qI) | [Sen we śnie](https://open.spotify.com/album/23U4kX7rryMbi4ODfSkbh4) | 3:27 | 2022-04-01 | 2022-04-17 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-20 |

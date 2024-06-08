@@ -12224,7 +12224,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 184511,
       "name": "STAR WALKIN'",
       "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
@@ -12918,6 +12918,32 @@
       "duration_ms": 208383,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
+    },
+    {
+      "album": {
+        "name": "TAKE ME AWAY",
+        "url": "https://open.spotify.com/album/7MPTCVqNTcRJYgfErXWGUe"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "TAKE ME AWAY",
+      "url": "https://open.spotify.com/track/66exMOdOYDvytfS9RQXiXq"
     },
     {
       "album": {

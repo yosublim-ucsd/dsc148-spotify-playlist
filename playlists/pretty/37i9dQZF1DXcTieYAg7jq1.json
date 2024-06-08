@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Lake Street Dive",
-  "num_followers": 413813,
+  "num_followers": 413819,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl4KlAAAAADD+WYfJYge1BCKMkAHWZef",
+  "snapshot_id": "ZmKFwAAAAAB1UkZumnYc7l4XopeGRPr9",
   "tracks": [
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
     {
       "added_at": "2024-06-03 18:25:24",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Short Hair",
+        "url": "https://open.spotify.com/album/5Z1cEW2Oabkzp7dkkIJQw6"
+      },
+      "artists": [
+        {
+          "name": "Allie Dunn",
+          "url": "https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy"
+        }
+      ],
+      "duration_ms": 254243,
+      "name": "Short Hair",
+      "url": "https://open.spotify.com/track/5YuVDItjVSibb1A0DjD2J1"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Speed of Light",
@@ -39,6 +71,22 @@
       "duration_ms": 207400,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 148898,
+      "name": "Whoops",
+      "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
     },
     {
       "added_at": "2024-05-10 17:08:48",
@@ -295,26 +343,6 @@
       "duration_ms": 175040,
       "name": "LOVE NEVER FELT LIKE THIS",
       "url": "https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Been Like This",
-        "url": "https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 145765,
-      "name": "Been Like This",
-      "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
     },
     {
       "added_at": "2024-03-22 04:01:00",
@@ -825,22 +853,6 @@
       "url": "https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Radio Wave",
-        "url": "https://open.spotify.com/album/0KeVUnJGdTfo0ZAvewyofF"
-      },
-      "artists": [
-        {
-          "name": "Allie Dunn",
-          "url": "https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy"
-        }
-      ],
-      "duration_ms": 192993,
-      "name": "Radio Wave",
-      "url": "https://open.spotify.com/track/7h1xpkSNbYaZWBx4xfHJfc"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Turn the Radio Up",
@@ -1107,22 +1119,6 @@
       "duration_ms": 174906,
       "name": "Breaking Myself",
       "url": "https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "OUT OF CONTEXT",
-        "url": "https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd"
-      },
-      "artists": [
-        {
-          "name": "Devon",
-          "url": "https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "OUT OF CONTEXT",
-      "url": "https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv"
     },
     {
       "added_at": "2022-09-30 04:01:00",

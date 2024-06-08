@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 159503,
       "name": "Freestyle Session",
       "url": "https://open.spotify.com/track/6j0G8UFVuGmstwMbzATyOn"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 131694,
       "name": "Nave Polariza",
       "url": "https://open.spotify.com/track/7d31HrnZdVTL00kbuCjQY1"
@@ -3350,6 +3350,28 @@
       "duration_ms": 320142,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu"
+    },
+    {
+      "album": {
+        "name": "ORO MACIZO",
+        "url": "https://open.spotify.com/album/5fpnS5XOYQtBv0MMlTfVOr"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161459,
+      "name": "ORO MACIZO",
+      "url": "https://open.spotify.com/track/5K6eZGErNTSVKFl7VoYn8i"
     },
     {
       "album": {
@@ -3822,7 +3844,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 186666,
       "name": "RICO POBRE",
       "url": "https://open.spotify.com/track/0nrh0zcIM5k1acOab9fzBe"
@@ -4202,6 +4224,36 @@
       "duration_ms": 157674,
       "name": "Sismo",
       "url": "https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU"
+    },
+    {
+      "album": {
+        "name": "ARES KLEIN",
+        "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Dj Osar",
+          "url": "https://open.spotify.com/artist/1QfMokd89daz2p3JvQFrSB"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199062,
+      "name": "SOLO DIME",
+      "url": "https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ"
     },
     {
       "album": {
@@ -5128,6 +5180,24 @@
       "duration_ms": 161652,
       "name": "XERATON",
       "url": "https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42"
+    },
+    {
+      "album": {
+        "name": "Young Millonaire",
+        "url": "https://open.spotify.com/album/4F0x4BtgabWu3nR87PLtfH"
+      },
+      "artists": [
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Young Millonaire",
+      "url": "https://open.spotify.com/track/2rYCI8MQnx6vGTfZENkvOt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK"

@@ -1,13 +1,41 @@
 {
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Holly",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Levity",
   "num_followers": 488,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADvO9UEK/7aLF8N0ItIiaDGjKxJV34",
+  "snapshot_id": "AAADwHdXETsq0KXEqXA6IoetztqCMU/V",
   "tracks": [
+    {
+      "added_at": "2024-06-07 12:49:42",
+      "album": {
+        "name": "Flip It (\u00c6ON:MODE Remix)",
+        "url": "https://open.spotify.com/album/2SQt6DV4BmY6XonaNZCPOg"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Flip It - \u00c6ON:MODE Remix",
+      "url": "https://open.spotify.com/track/6zw7s3znqtUvU90Q5blgEj"
+    },
     {
       "added_at": "2024-05-31 13:31:12",
       "album": {

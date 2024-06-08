@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
-  "name": "Lento.",
+  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Noreh",
+  "name": "boleritos",
   "tracks": [
+    {
+      "album": {
+        "name": "Aguas Profundas",
+        "url": "https://open.spotify.com/album/6lEETSBzriWlaWz6sB8sfo"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Aguas Profundas",
+      "url": "https://open.spotify.com/track/7y2SsIoi8zDEyVKpILMDDF"
+    },
     {
       "album": {
         "name": "Alma M\u00eda",
@@ -114,7 +132,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 189077,
       "name": "Prom\u00e9teme",
       "url": "https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc"
@@ -2337,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Tengo Todo Contigo",
+        "url": "https://open.spotify.com/album/1rtHQK6dXbLXZxdFg7iwPm"
+      },
+      "artists": [
+        {
+          "name": "Thyan V",
+          "url": "https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Tengo Todo Contigo",
+      "url": "https://open.spotify.com/track/5Kqs49o8gpjm08E3EAr6sD"
+    },
+    {
+      "album": {
         "name": "Tesoro",
         "url": "https://open.spotify.com/album/7135vNimUAz5hmePw0CbVp"
       },
@@ -2664,7 +2700,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "\u00bfPara qu\u00e9?",
       "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"

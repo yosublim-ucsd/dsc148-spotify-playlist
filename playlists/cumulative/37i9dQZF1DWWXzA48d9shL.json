@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 127927,
       "name": "AFTERLIFE",
       "url": "https://open.spotify.com/track/3yM8pCJKpCuODNOf2aMRf7"
@@ -1508,6 +1508,24 @@
       "duration_ms": 81230,
       "name": "BLACKTOP",
       "url": "https://open.spotify.com/track/1V3xAfka9dN5KfVHtI747c"
+    },
+    {
+      "album": {
+        "name": "BLAME GAME",
+        "url": "https://open.spotify.com/album/0d7agnfE8Rh8gSTQVIso0U"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "BLAME GAME",
+      "url": "https://open.spotify.com/track/2kXZv8aJh8LVn1FxzSDPtp"
     },
     {
       "album": {
@@ -3002,7 +3020,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 117226,
       "name": "C\u00d8NE GANG TRAP",
       "url": "https://open.spotify.com/track/2ppWCAqL9rOeZPTnzqmaos"
@@ -5588,7 +5606,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 121966,
       "name": "HOLD THE MONEY",
       "url": "https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V"
@@ -9081,6 +9099,28 @@
     },
     {
       "album": {
+        "name": "PACKAPUNCH (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/1ETJcxo3S1uC4AmGI1aq1R"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180580,
+      "name": "PACKAPUNCH (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/3bZXzHX8CkbMytaM3VGY3e"
+    },
+    {
+      "album": {
         "name": "paradise",
         "url": "https://open.spotify.com/album/3hyYXtvZdAoOmuXIpyqyzP"
       },
@@ -9326,6 +9366,24 @@
       "duration_ms": 129032,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/1xw3s0E9MNtRftzYFQrdqt"
+    },
+    {
+      "album": {
+        "name": "Plenty Guns",
+        "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86928,
+      "name": "Plenty Guns",
+      "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
     },
     {
       "album": {

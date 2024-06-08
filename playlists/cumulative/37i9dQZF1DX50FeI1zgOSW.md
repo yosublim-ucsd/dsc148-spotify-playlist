@@ -4,10 +4,11 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-294 songs - 16 hr 53 min
+296 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [3PM in Chennai](https://open.spotify.com/track/4AoGxCTkCAGujIDzSeuOoI) | [JBE](https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ), [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4) | [3PM in Chennai](https://open.spotify.com/album/2xVByRUYQCKaHJOlrtgjeN) | 2:18 | 2024-06-07 |  |
 | [Aasa Dhan](https://open.spotify.com/track/7Ag6nMoZNfsK7yf9p670nn) | [Prags](https://open.spotify.com/artist/3lEBrr4ctHFkjkLUNJNcCR), [Sudarson Murali](https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2) | [Aasa Dhan](https://open.spotify.com/album/6ynGIWcXwy4sD2VohRGM8p) | 3:42 | 2023-03-28 | 2023-09-26 |
 | [Aasaigal](https://open.spotify.com/track/5CV1PudVJ0iNAhSWkl9iKD) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Aasaigal](https://open.spotify.com/album/4cglbrEgdH16IKpcD2sb2z) | 3:33 | 2023-03-21 | 2023-08-01 |
 | [Adada Amma](https://open.spotify.com/track/39aXi6kBNGjoVJNGyVPQyo) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Adada Amma](https://open.spotify.com/album/3ulTXAt4H5S2Cv8Mo7mGTk) | 2:44 | 2023-05-13 | 2023-08-17 |
@@ -140,6 +141,7 @@
 | [Mama](https://open.spotify.com/track/1kBRm822ev9Vz8GWPlp2Jl) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Mama](https://open.spotify.com/album/66RmVpnMXxZoAvS60lje0i) | 3:26 | 2024-01-30 | 2024-05-21 |
 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 | 2023-09-01 | 2024-05-04 |
 | [Manase](https://open.spotify.com/track/5LUZ0deU7z2IxNc6wZzKfL) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV) | [Manase](https://open.spotify.com/album/4OQ26nnhwmautoZOlNkyH4) | 4:45 | 2024-05-24 |  |
+| [Manase](https://open.spotify.com/track/3y99gwxzYZAmDZSwStWD6N) | [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Manase](https://open.spotify.com/album/3swHZKoMAmokLakWLNecto) | 2:44 | 2024-06-07 |  |
 | [Manidha](https://open.spotify.com/track/4JQDUgiZD9wqDiA6Aza5Rs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu), [Prawin Ganesh](https://open.spotify.com/artist/4PDzwP2wyBqHYfjWdaf3ae) | [Manidha](https://open.spotify.com/album/0NAdnBQzZNm3IGqkr6kLnm) | 4:31 | 2023-09-15 | 2024-05-04 |
 | [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 | 2023-11-29 |
 | [Manithakaari Sevvi](https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Bshaa](https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Manithakaari Sevvi](https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0) | 5:22 | 2024-03-08 |  |

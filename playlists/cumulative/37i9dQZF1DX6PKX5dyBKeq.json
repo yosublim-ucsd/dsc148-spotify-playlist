@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: K-Trap",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One",
   "name": "Rap UK",
   "tracks": [
     {
@@ -2703,6 +2703,28 @@
     },
     {
       "album": {
+        "name": "ASAP",
+        "url": "https://open.spotify.com/album/38FdnNcDotbE3YOQs3TS4H"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        },
+        {
+          "name": "Neeshay",
+          "url": "https://open.spotify.com/artist/6zSMk9WNDURSyGJvIfeyE7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/1LkhiOmc4OkWMIKehlIODZ"
+    },
+    {
+      "album": {
         "name": "ATM",
         "url": "https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS"
       },
@@ -3376,6 +3398,28 @@
       "duration_ms": 134142,
       "name": "Bad One",
       "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
+    },
+    {
+      "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138866,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf"
     },
     {
       "album": {
@@ -6910,6 +6954,24 @@
       "duration_ms": 158896,
       "name": "caution (dee dee bangs)",
       "url": "https://open.spotify.com/track/3DVZBbAjheiMafUmBWeGop"
+    },
+    {
+      "album": {
+        "name": "CCD",
+        "url": "https://open.spotify.com/album/1WQo8FReCNjp3B7jiKE0gB"
+      },
+      "artists": [
+        {
+          "name": "Temz",
+          "url": "https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191372,
+      "name": "CCD",
+      "url": "https://open.spotify.com/track/1Gwqbu04UfFD6WcZDEmPdF"
     },
     {
       "album": {
@@ -13648,7 +13710,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 150000,
       "name": "GBG (Always Us)",
       "url": "https://open.spotify.com/track/4U2RFswBperWBAftJBiEPH"
@@ -15339,6 +15401,24 @@
     },
     {
       "album": {
+        "name": "HIT or MISS",
+        "url": "https://open.spotify.com/album/1bjQsg2gLIx3GpuBgLaheY"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143043,
+      "name": "HIT or MISS",
+      "url": "https://open.spotify.com/track/1Bv0bBB8jbDlHxKOuROr4A"
+    },
+    {
+      "album": {
         "name": "Blood Diamond",
         "url": "https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY"
       },
@@ -16242,6 +16322,24 @@
       "duration_ms": 185454,
       "name": "I Need It Now",
       "url": "https://open.spotify.com/track/4jrhI63h2RzQpA4PgOAgGe"
+    },
+    {
+      "album": {
+        "name": "I Still Know Better",
+        "url": "https://open.spotify.com/album/2iFBx2KH4xuCnNUtVJ2cx0"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202744,
+      "name": "I Still Know Better",
+      "url": "https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3"
     },
     {
       "album": {
@@ -19466,7 +19564,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 137143,
       "name": "Lively Linkup",
       "url": "https://open.spotify.com/track/27RdqFu52cuz595j2ZMBfJ"
@@ -20444,7 +20542,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 124195,
       "name": "MAKE DAT WORK",
       "url": "https://open.spotify.com/track/7wdht4cLQhBwKPbQ6oQUtk"
@@ -32241,6 +32339,24 @@
     },
     {
       "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/2u20IMNvMoEXHWrdIfCY13"
+      },
+      "artists": [
+        {
+          "name": "Nito NB",
+          "url": "https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/5JHehbppclia5DIpzgNLRP"
+    },
+    {
+      "album": {
         "name": "Surveillance (feat. NSG)",
         "url": "https://open.spotify.com/album/5zY56A2o54CfxAhkFLmQT1"
       },
@@ -37416,7 +37532,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 115169,
       "name": "Writer's Block",
       "url": "https://open.spotify.com/track/6qwvEY4USRrNbOLjN7KHuG"

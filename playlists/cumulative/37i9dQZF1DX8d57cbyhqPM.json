@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Ntaba 2 London",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: SenSey'",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1392,6 +1392,24 @@
       "duration_ms": 176357,
       "name": "Choco",
       "url": "https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV"
+    },
+    {
+      "album": {
+        "name": "Chouchou des nanas",
+        "url": "https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "Chouchou des nanas",
+      "url": "https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS"
     },
     {
       "album": {
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 159573,
       "name": "Jolie (feat. Ninho)",
       "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 237180,
       "name": "LIKOFI - Sur la route du casino de Paris",
       "url": "https://open.spotify.com/track/0h0m07uXsifK4JN351Q485"
@@ -5824,6 +5842,28 @@
       "duration_ms": 198333,
       "name": "Pela",
       "url": "https://open.spotify.com/track/29k18doqNX7akA3MHucyy1"
+    },
+    {
+      "album": {
+        "name": "Pel\u00e9",
+        "url": "https://open.spotify.com/album/7MM79VFLyoexdUVcZc12Wy"
+      },
+      "artists": [
+        {
+          "name": "Ghanaian Stallion",
+          "url": "https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF"
+        },
+        {
+          "name": "ALBI X",
+          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182379,
+      "name": "Pel\u00e9",
+      "url": "https://open.spotify.com/track/4GELm5682gW5ZO4Gx7kFbL"
     },
     {
       "album": {

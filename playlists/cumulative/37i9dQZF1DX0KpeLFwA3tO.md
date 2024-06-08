@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: The Offspring
 
-1,825 songs - 3 day 19 hr 8 min
+1,826 songs - 3 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1618,6 +1618,7 @@
 | [These Days](https://open.spotify.com/track/4S2EUbyTv5NMCnRYzAxdya) | [moshimoshi](https://open.spotify.com/artist/1Cj1ikpwDx35BF6js8tR3p) | [These Days](https://open.spotify.com/album/5h0mGckYgpxxLozsbbP4bH) | 2:40 | 2023-02-10 | 2023-04-09 |
 | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/album/3OFS3PgFrKOz3cKfQ4S8Vx) | 4:13 | 2022-03-11 | 2022-04-22 |
 | [They / Them](https://open.spotify.com/track/1PuQlpFUY6GzQRfQuEQbPs) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [They / Them](https://open.spotify.com/album/32HrqcUhi9BlA5Y8bUcCZH) | 2:17 | 2021-12-17 | 2022-01-15 |
+| [THIRST TRAP](https://open.spotify.com/track/61P6BhnejIQ0pzFnZdsTI0) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [THIRST TRAP](https://open.spotify.com/album/4bdVPyx7blCAjl8YuaeSSk) | 2:37 | 2024-06-06 |  |
 | [This Day](https://open.spotify.com/track/0O3a4afzE8XX4fBPxZFMgp) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [This Day](https://open.spotify.com/album/03KTsxpRk9Na5n1g8D6akw) | 2:15 | 2022-02-18 | 2022-04-01 |
 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 | 2023-06-15 | 2023-08-04 |
 | [This is Great Britain](https://open.spotify.com/track/50DyQQ9sog4azZmF5tSJlK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [This is Great Britain](https://open.spotify.com/album/3X4Y7y1vVDCB9vaTLIFngU) | 2:27 | 2023-12-01 | 2024-02-02 |

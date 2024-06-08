@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-596 songs - 22 hr 38 min
+598 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [14Th Floor](https://open.spotify.com/track/6Umvpk3FNqHSVN2raiAHMR) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc), [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE) | [14Th Floor](https://open.spotify.com/album/0Kje26nv2CJrsjZ3Ob0w1H) | 1:46 | 2023-03-13 | 2023-10-13 |
 | [2 AM](https://open.spotify.com/track/1H8Zh82eofXSZPn7hVxH5R) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Carpe Noctem](https://open.spotify.com/album/3RWHxYCW7Db0eJmf0vJLcb) | 2:14 | 2022-06-03 | 2022-11-12 |
 | [2 more minutes](https://open.spotify.com/track/200q0gql1s0DyGwLM98F0t) | [Elenja](https://open.spotify.com/artist/3BdWZWn9zFZxBgamS91DJ8) | [2 more minutes](https://open.spotify.com/album/1g1rQ5quiQhB2A3YEjtEke) | 2:00 | 2022-05-20 | 2023-01-18 |
+| [2.05am](https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [2.05am](https://open.spotify.com/album/2ZN7gvIcWxomdsqecufEWe) | 3:50 | 2024-06-07 |  |
 | [25oct](https://open.spotify.com/track/5CZjfDoBL0k1L8BZqPceNP) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [25oct](https://open.spotify.com/album/0MLY8q1Fwclkyau3TpCCh1) | 2:03 | 2023-01-06 |  |
 | [2am Light](https://open.spotify.com/track/1qV0g7FVesoJBO9N3m7Y5G) | [Stoople](https://open.spotify.com/artist/6VkC8G7p3qSkP60FCwMiR1) | [2am Light](https://open.spotify.com/album/1X4P6TQaFeDPzBqP2i8uCo) | 2:05 | 2022-05-20 | 2022-09-03 |
 | [3X](https://open.spotify.com/track/0XYLMxkoW6wlIDKiArgabj) | [Alan Peach](https://open.spotify.com/artist/3p9DUgWUfQNduHS1FiffTX) | [3X](https://open.spotify.com/album/5SeTh6wHnrEFboMoQ4oGo5) | 1:37 | 2022-05-20 | 2022-05-27 |
@@ -252,7 +253,7 @@
 | [Ikea At Dusk](https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl) | [Byoushay Brothers](https://open.spotify.com/artist/0GtIuE9H6qSS9GRnjRzasi) | [Ikea At Dusk](https://open.spotify.com/album/6ZB0pO293H9T320qrx0vak) | 2:39 | 2022-05-20 | 2022-07-28 |
 | [Illuminate](https://open.spotify.com/track/5GdiOxC8z6J7xA9khchqDS) | [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Illuminate](https://open.spotify.com/album/5zH9YpZ4tUqIaNotnO7MLQ) | 2:44 | 2022-05-20 | 2023-09-16 |
 | [in her feelings](https://open.spotify.com/track/0ZPHgREDGiqBHEMymgrCvy) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [in her feelings](https://open.spotify.com/album/4vN1yohGz6ViUIz6iTHhun) | 1:38 | 2022-10-28 |  |
-| [In The Park](https://open.spotify.com/track/3Fin9OMyhCex6HB3ZHQRow) | [TAKARAZI](https://open.spotify.com/artist/07d4tXU9TiNIvlPLQBiA4H) | [In The Park](https://open.spotify.com/album/3sdYISfLZuUz8HWHh4UETT) | 1:39 | 2022-05-20 |  |
+| [In The Park](https://open.spotify.com/track/3Fin9OMyhCex6HB3ZHQRow) | [TAKARAZI](https://open.spotify.com/artist/07d4tXU9TiNIvlPLQBiA4H) | [In The Park](https://open.spotify.com/album/3sdYISfLZuUz8HWHh4UETT) | 1:39 | 2022-05-20 | 2024-06-08 |
 | [in too deep](https://open.spotify.com/track/0KbBe4XeOkWuPSr287AHnb) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [in too deep](https://open.spotify.com/album/43yg43a1K5ssEj8EXHSLXN) | 3:11 | 2024-01-19 |  |
 | [in writing](https://open.spotify.com/track/5hoFX6v9C65g919yd99QHn) | [pemil](https://open.spotify.com/artist/3b2vVfB2bA0PXXwlbNA7hg) | [in wriring](https://open.spotify.com/album/1YPiwsGnuaAyfqM93A6Fce) | 3:04 | 2023-10-13 |  |
 | [in your head](https://open.spotify.com/track/6IiIc3hgcNOoMtjhb1fs2N) | [stonefold](https://open.spotify.com/artist/1jCsCfZCxNohxXdoE3Rw4f) | [in your head](https://open.spotify.com/album/3ruQJYLbvnQqft6ugRw6GU) | 2:18 | 2022-05-20 | 2023-01-18 |
@@ -429,6 +430,7 @@
 | [Rain Man](https://open.spotify.com/track/531kxTKpH4SKQbgREzhgUD) | [Kodi Koda](https://open.spotify.com/artist/4bCq5dWSbCc5ixmaTnsAPW) | [Rain Man](https://open.spotify.com/album/7zHvg8OIupzWCgzPRmOyzZ) | 1:54 | 2022-10-28 | 2023-11-11 |
 | [Rainy Day](https://open.spotify.com/track/1yqAghmGXkcct0tQQCdS4w) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/1Nf5o3mcLP0TBOn53FYqY5) | 3:01 | 2022-05-20 | 2022-11-20 |
 | [Rainy Day](https://open.spotify.com/track/6AgrbKYeBgqJggFS9SqaIO) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/58wseddQ1pv4O5jfrH0s4m) | 3:01 | 2022-11-11 | 2023-09-16 |
+| [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-06-07 |  |
 | [Ravenous](https://open.spotify.com/track/71yvwZY4a0GqV8tHX5rydu) | [Autumn Orange](https://open.spotify.com/artist/0qxYe3bUK07HdZ2VLQ7Cwg) | [Nightfall // Ravenous](https://open.spotify.com/album/1xLN1gdeSrGzv6x4FelN6f) | 2:06 | 2022-11-11 | 2023-10-13 |
 | [Recharged](https://open.spotify.com/track/2g6jTX11fvtm2i41UBIJ8B) | [Steve Blino](https://open.spotify.com/artist/24usk464uzsxYNFHCgagLj) | [Recharged](https://open.spotify.com/album/3T3QnyIKArgnarUJVbV7bR) | 2:22 | 2022-05-20 | 2023-01-18 |
 | [Remedies](https://open.spotify.com/track/2UKmdTfUbFrOacKeS3qkJS) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Remedies](https://open.spotify.com/album/4StwBfTJI1FDpX6GhgtwNY) | 2:37 | 2023-09-22 |  |
@@ -556,7 +558,7 @@
 | [Too Big Without You](https://open.spotify.com/track/1T1O2TmIjhPGGSd5QV279I) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Futon Feels](https://open.spotify.com/album/6pJmJAz4vTD40Oaw7SzTRP) | 2:20 | 2023-09-22 |  |
 | [train to tokyo](https://open.spotify.com/track/3UWWuXut5dDfLA6gDL5H8B) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [train to tokyo](https://open.spotify.com/album/2t2S3NiWHmEw7HNPxfaHzx) | 3:46 | 2024-02-02 |  |
 | [travellin'](https://open.spotify.com/track/3knnVvitAAU3ihiqdlxdXL) | [vibebu](https://open.spotify.com/artist/4nHafkXiQWBoAxY38PFUeY) | [travellin'](https://open.spotify.com/album/27wcF6gEMlknTF1D3kcDzd) | 2:25 | 2022-05-20 | 2023-01-18 |
-| [Triangles](https://open.spotify.com/track/12f4ZvWlgShTp0Qbfxow4Y) | [Wizard Art](https://open.spotify.com/artist/5HcBOSrRqpqtGaDQkICYzY) | [Triangles](https://open.spotify.com/album/4bKMJN3wazmlZ5GzICQJPN) | 2:17 | 2022-12-23 |  |
+| [Triangles](https://open.spotify.com/track/12f4ZvWlgShTp0Qbfxow4Y) | [Wizard Art](https://open.spotify.com/artist/5HcBOSrRqpqtGaDQkICYzY) | [Triangles](https://open.spotify.com/album/4bKMJN3wazmlZ5GzICQJPN) | 2:17 | 2022-12-23 | 2024-06-08 |
 | [Trinkets](https://open.spotify.com/track/5wj256fcPNeauu0DtN4JOz) | [Emtee Beats](https://open.spotify.com/artist/29HYZQ5nVtKxmvfx18NdAH), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Trinkets](https://open.spotify.com/album/126X9Q3tfW2t8Li1vgQPmW) | 2:12 | 2022-07-22 | 2022-08-12 |
 | [Trip](https://open.spotify.com/track/09WxnQhYo3Ka5XjIeY48Y0) | [7 AiX](https://open.spotify.com/artist/0xLK99dzCH2gsJSrMea2fU), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Trip](https://open.spotify.com/album/5uzjNcOXqArSw9hiTtXymv) | 2:08 | 2022-05-20 | 2022-11-26 |
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2022-05-20 | 2023-01-18 |

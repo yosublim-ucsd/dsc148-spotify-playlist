@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  VIONA
 
-3,525 songs - 9 day 0 hr 17 min
+3,528 songs - 9 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Between Sight](https://open.spotify.com/track/6NlRmA4WYtYNqsM19vjjiA) | [The Basement Dry](https://open.spotify.com/artist/5hIlvEyTFpzEFnpkZ07QN1) | [Statement](https://open.spotify.com/album/38uUvknw9qj6q6fVKuL6Fc) | 4:30 | 2023-05-18 | 2023-06-02 |
 | [Between Worlds](https://open.spotify.com/track/3dK72LZeFZfpYrR9UvbAx3) | [Trulavish](https://open.spotify.com/artist/0Y7vwk2jIb7t8gZj4AKC07) | [Between Worlds](https://open.spotify.com/album/0I0G8adcn9WfUYY5ZgSjls) | 4:16 | 2023-10-13 | 2023-11-03 |
 | [Bhinneka](https://open.spotify.com/track/1vjz7YR7hJWJSy1O9W1SXJ) | [Melvhin Samuel](https://open.spotify.com/artist/6ViGA7D9zgSNbsTp58QM09), [Titik Awal](https://open.spotify.com/artist/29MIJFqKrbKJhttvpOFXqi) | [Bhinneka](https://open.spotify.com/album/33QhO1Szab4JJKAQpkDSp3) | 3:50 | 2023-06-01 | 2023-06-16 |
+| [Biarkan](https://open.spotify.com/track/3DOeoedewFU2Di1mQgQthB) | [Akalav](https://open.spotify.com/artist/7JrjwEeVTHyWzg2TCQna7U), [Julord](https://open.spotify.com/artist/5hzUFHrP6U9kg1TmaGYyD7) | [Biarkan](https://open.spotify.com/album/2nQJHNnSZdg8ZOJgkM7xer) | 3:25 | 2024-06-06 |  |
 | [Biarkan Berlalu](https://open.spotify.com/track/1Bam8XQhg8zFtstxyj1VCw) | [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD) | [Act Two](https://open.spotify.com/album/3kkx4Der3EudUlp3fVIhHc) | 4:08 | 2022-11-17 | 2022-12-01 |
 | [Biarkan Cinta Tumbuh Di Dunia](https://open.spotify.com/track/4a2NnQ3o8Jm6t1d5CT5lys) | [Badan Penyidik Rasa](https://open.spotify.com/artist/5QcpKYkLlBrqYqhLl0F5Jj) | [Biarkan Cinta Tumbuh Di Dunia](https://open.spotify.com/album/5xRpJvvfokOVf5R9dFl4a9) | 4:04 | 2024-03-14 | 2024-04-12 |
 | [Biarkan Dia Menjadi Milikku](https://open.spotify.com/track/46iyO4wjH8jLROBC7vQ2Zz) | [Umar AF](https://open.spotify.com/artist/1DRM0qH04PYL7HsK6g6mHu) | [Biarkan Dia Menjadi Milikku](https://open.spotify.com/album/16XyQztXAkdT2Bwb3R8sRf) | 2:52 | 2022-09-09 | 2022-09-23 |
@@ -894,6 +895,7 @@
 | [Esok Hari Hujan](https://open.spotify.com/track/13Db5NQnjfTVq8ZiXhPbd3) | [Hujan Esok Hari](https://open.spotify.com/artist/6BLydeCIMnskFTSVnFPFKz) | [Esok Hari Hujan](https://open.spotify.com/album/1YAY5g9j8VqbUbHx4wIKgU) | 3:39 | 2024-03-14 | 2024-04-12 |
 | [Euforia](https://open.spotify.com/track/6JF7unk0ipZzs6xrvbMjB7) | [Reaksi](https://open.spotify.com/artist/0b0aCmBDVr0uEaisB6wLYm) | [Euforia](https://open.spotify.com/album/4fHzN1Yg6SLFTotnfCQ1KY) | 3:53 | 2024-04-04 | 2024-05-03 |
 | [Euphoria](https://open.spotify.com/track/52MjfmXjO9qwQuUwGHqSeX) | [Boysyaka](https://open.spotify.com/artist/20hML6oHWY66gYeTyDFr8R), [HellaOccupied](https://open.spotify.com/artist/1DL3xd3NqTDjOU7Me5QQ75) | [Euphoria](https://open.spotify.com/album/16woIodv0wspNiQo82yPL0) | 3:30 | 2023-06-29 | 2023-07-15 |
+| [Evangeline](https://open.spotify.com/track/3gGug2kQBgoTekHvgXeQJ2) | [Reisha](https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9) | [Evangeline](https://open.spotify.com/album/6coNV6SkdRXDZ6tFtroG0K) | 3:58 | 2024-06-06 |  |
 | [even the day will return](https://open.spotify.com/track/3eGXBeZWyiCX7J9elnLKlr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [even the day will return](https://open.spotify.com/album/16D352uQuO408bmmwNVm4B) | 3:23 | 2023-08-11 | 2023-08-25 |
 | [Ever Make You Smile](https://open.spotify.com/track/0q39Zy2FsXsf4EPFwX7VCG) | [Tiya Rima](https://open.spotify.com/artist/2soMazDNpF3MhIRDhrvD5v) | [Ever Make You Smile](https://open.spotify.com/album/4gU1t69EACNjuCClhWDUuB) | 3:26 | 2023-09-22 | 2023-10-13 |
 | [Every Now and Then](https://open.spotify.com/track/4qC1tiYYb8G59WwLWPazHy) | [Shyclops](https://open.spotify.com/artist/7zYMujuLfBXBchiqk64fgZ) | [Every Now and Then](https://open.spotify.com/album/50YH12nugHYpIPsV35jTcW) | 3:49 | 2023-11-17 | 2023-12-01 |
@@ -1138,6 +1140,7 @@
 | [Hapuskan Dia](https://open.spotify.com/track/0KQPNyjeX3Sft3fNFdZz1v) | [Atya Faudina](https://open.spotify.com/artist/4jSqElVUvCzDPWnJIgbDGj) | [Hapuskan Dia](https://open.spotify.com/album/29MjT2PYR5tC3SjF3g6RXM) | 3:22 | 2024-02-08 | 2024-03-08 |
 | [Harap](https://open.spotify.com/track/0nKrYJCDJWxau85eo1P2d5) | [Irham Tinx](https://open.spotify.com/artist/6eRSgHs1WYC08vP9lqBUDo) | [Harap](https://open.spotify.com/album/79cJ8EjeoUfIZ5hgWlLltC) | 2:37 | 2023-06-08 | 2023-06-23 |
 | [Harapan Palsu](https://open.spotify.com/track/0Zeuj06HUUP9vzciBfyizt) | [Brian Prasetyoadi](https://open.spotify.com/artist/17Yb156MR5C8M2Ktr22mww) | [Harapan Palsu](https://open.spotify.com/album/7xoZ4u6MQQMVFsQAZWmjui) | 3:46 | 2023-07-14 | 2023-07-28 |
+| [Harapan, Pt\. 3](https://open.spotify.com/track/42stYHbwsVEe8hpgoiHozN) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [Harapan](https://open.spotify.com/album/5Me8TkPJQLbJGt1WzOizpQ) | 4:26 | 2024-06-06 |  |
 | [Hard For U](https://open.spotify.com/track/1R79IpoCUbFSkiKDXMscxs) | [Amsav](https://open.spotify.com/artist/2iSv0qoTjVktDloQ55uC4Q) | [Hard For U](https://open.spotify.com/album/3oG0YQsUlyFNs356Yky6Qf) | 3:37 | 2023-10-19 | 2023-11-10 |
 | [Hari \- Hariku](https://open.spotify.com/track/4XeakFJpY3akv78okZaOhJ) | [Plunders](https://open.spotify.com/artist/599QzHzJT5pSU5QKKOgEaG) | [Hari Hari](https://open.spotify.com/album/4sk4zyortojAjPtm2DouLd) | 2:59 | 2023-11-02 | 2023-11-24 |
 | [Hari Baru](https://open.spotify.com/track/3WnCv8q44JjNMq5rVrtrzT) | [Rizqi Eko](https://open.spotify.com/artist/2nc5a6kkCsjjDgWB2Dyde2) | [Hari Baru](https://open.spotify.com/album/29MwXR5oGGEmQOIBSCh3az) | 3:45 | 2022-02-03 | 2022-02-18 |

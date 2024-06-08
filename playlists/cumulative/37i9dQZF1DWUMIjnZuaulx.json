@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:6zSsJYBB1393jyFNRy7JrK\">Melvin Crispell III</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:2UhHLKzq979iTCkLFurmef\">Jason Nelson</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -986,6 +986,28 @@
       "duration_ms": 381323,
       "name": "Best Days - Live",
       "url": "https://open.spotify.com/track/2XEHQi8lPcqxYpsANPmQUj"
+    },
+    {
+      "album": {
+        "name": "Better than Life (Live)",
+        "url": "https://open.spotify.com/album/4zcsi3YBVPTItEHMOyvguC"
+      },
+      "artists": [
+        {
+          "name": "Vizion Worship",
+          "url": "https://open.spotify.com/artist/50U7PStTJa45DXDnGt6Cy0"
+        },
+        {
+          "name": "Katrina Houston",
+          "url": "https://open.spotify.com/artist/10yRCRMqHkgFSSrXEcJqeE"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260872,
+      "name": "Better than Life - Live",
+      "url": "https://open.spotify.com/track/4MrCvonLoLGsQZpu69EJaz"
     },
     {
       "album": {
@@ -2306,7 +2328,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 379507,
       "name": "Get Up - Live",
       "url": "https://open.spotify.com/track/65d4T2Ine2ex2XcCXB09ut"
@@ -3224,7 +3246,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 185626,
       "name": "He'll Make A Way",
       "url": "https://open.spotify.com/track/428lpTga5ToOTHHUq86y69"
@@ -4342,7 +4364,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 217894,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/5LLv0UnROhcRiqBmR6p9Us"
@@ -4669,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "I Still Have You",
+        "url": "https://open.spotify.com/album/500qcZ7JErRdDFHqZbVWfn"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433689,
+      "name": "In My Name",
+      "url": "https://open.spotify.com/track/02GWOW5Zbm05Umnw2lCbSQ"
+    },
+    {
+      "album": {
         "name": "In My Name (Radio Edit)",
         "url": "https://open.spotify.com/album/1nNldULLoMEBXRYJRHlE7l"
       },
@@ -4680,7 +4720,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 221749,
       "name": "In My Name - Radio Edit",
       "url": "https://open.spotify.com/track/15w0pp8cDjI99gs2lAPsOY"
@@ -5817,6 +5857,28 @@
     },
     {
       "album": {
+        "name": "You Belong (Live)",
+        "url": "https://open.spotify.com/album/4aesqG8k2g3YN5yBd3HdSq"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454402,
+      "name": "Made New (feat. Madison Ryann Ward) - Live",
+      "url": "https://open.spotify.com/track/6mfJKMNZwH8BLPBaD4L9nF"
+    },
+    {
+      "album": {
         "name": "Majesty",
         "url": "https://open.spotify.com/album/3nU609EFqE2v7BvWMW3NOk"
       },
@@ -6945,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "On The Way",
+        "url": "https://open.spotify.com/album/5X4ovG4Er7iwCl6COKqpka"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209629,
+      "name": "On The Way",
+      "url": "https://open.spotify.com/track/6LhDd3AM2XpMh8rrrjH4Tr"
+    },
+    {
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/4TIaTZR0IRa5WLVQ8D7GOe"
       },
@@ -7493,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "Release Control (Radio)",
+        "url": "https://open.spotify.com/album/1B1QidNr812ZThlu69dmr2"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239616,
+      "name": "Release Control (Radio)",
+      "url": "https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW"
+    },
+    {
+      "album": {
         "name": "Residue",
         "url": "https://open.spotify.com/album/55kBDVPribvUw2rVCyG2c6"
       },
@@ -7540,7 +7638,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 453689,
       "name": "Revival Medley - Live",
       "url": "https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO"
@@ -8042,7 +8140,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 242770,
       "name": "Someday",
       "url": "https://open.spotify.com/track/2WS7AJ9C5YVvaBRP9VFdDc"
@@ -8920,7 +9018,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 232535,
       "name": "The Promise - Radio Edit",
       "url": "https://open.spotify.com/track/6YGbdkTSKjO9o4MsgJRMzJ"

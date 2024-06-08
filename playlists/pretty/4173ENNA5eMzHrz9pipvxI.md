@@ -2,19 +2,21 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Kryder
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: GUZ &amp; Millean.
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,215 likes - 8 songs - 24 min 10 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,211 likes - 10 songs - 27 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 |
-| 2 | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4), [Hi\-Gate](https://open.spotify.com/artist/3b2xWHAlRoTooJKEnhc2cv) | [Dance To The Beat \(Pitchin'\)](https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ) | 2:41 |
-| 3 | [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 |
-| 4 | [Fade Till Sunrise \(Club Mix\)](https://open.spotify.com/track/6TLMvGmFGS1V7cnuQ6pVmS) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Fade Till Sunrise \(Club Mix\)](https://open.spotify.com/album/7LtzKiFkOnIdJzwZAGHF1o) | 2:59 |
-| 5 | [AMEN](https://open.spotify.com/track/7DBEWi8wCOKiZbXP52yPFo) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [AMEN](https://open.spotify.com/album/6HBGVaSGhLZQVT5no3HQK9) | 4:30 |
-| 6 | [I Got To Move](https://open.spotify.com/track/615byThVUrcnzb9trhe7yy) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [I Got To Move](https://open.spotify.com/album/6ni5No6JAyiCgLwWWrloeb) | 2:56 |
-| 7 | [Feel What You Want](https://open.spotify.com/track/38TvZjyie683nvVIxR0mDi) | [Floris van Oranje](https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o) | [Feel What You Want](https://open.spotify.com/album/6K9mw4QPwpsvj8hmj5ITjv) | 2:34 |
-| 8 | [Stumblin’ In \(NewEra Remix\)](https://open.spotify.com/track/5Kfpk5v9agDddawbERjbiu) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Stumblin' In \(NewEra Remix\)](https://open.spotify.com/album/4WtfRKnIItcvmZzBIpj72q) | 2:54 |
+| 1 | [Bidi Bam](https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bidi Bam](https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7) | 2:00 |
+| 2 | [Keep On Pushin'](https://open.spotify.com/track/7aqBYVm4D4VrylUyAHZ3qw) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Keep On Pushin'](https://open.spotify.com/album/3xnck3BnidThyeWGPtUVXH) | 2:53 |
+| 3 | [Believin'](https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Believin'](https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c) | 2:22 |
+| 4 | [Molly](https://open.spotify.com/track/5Bv1BaqZV9MW1UEZTEXZFq) | [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [Molly](https://open.spotify.com/album/13IRjcJZ3QWHtT3Ck0sms5) | 2:59 |
+| 5 | [Animal \(R3HAB VIP Remix\)](https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\) \[R3HAB VIP Remix\]](https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff) | 2:35 |
+| 6 | [Zouka](https://open.spotify.com/track/2vJwO7KW4IbEGo9OOjt7Rl) | [DAMIANO](https://open.spotify.com/artist/6YFtrkySuHfAKmrFG9KqfO), [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz) | [Zouka](https://open.spotify.com/album/6LuwKha0UnxqI5wa9ADgzB) | 3:35 |
+| 7 | [Not Sorry](https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb) | [STRAAW](https://open.spotify.com/artist/6FnEjhHUAZWtBdH0kZqlkS), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Not Sorry](https://open.spotify.com/album/13ZYF3xIwjble8MwsHKd2O) | 2:09 |
+| 8 | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/album/7qyuA3NETBJ3gNvUWxHha6) | 3:34 |
+| 9 | [Slow Me](https://open.spotify.com/track/7Hmbq2y3TGUSZFkcPCcEd7) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [NEO](https://open.spotify.com/artist/1xRkqbylXWViBHJyO8qs1Y) | [Slow Me](https://open.spotify.com/album/5RG4IUTzPs3NGcsAnrrYEw) | 2:47 |
+| 10 | [Let Me Go](https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Let Me Go](https://open.spotify.com/album/2I2I645AIvlOM49lUYQPlW) | 2:36 |
 
-Snapshot ID: `AAAdgIkwhrdR2arY5oYws4i1L9Jj3DHF`
+Snapshot ID: `AAAdg8LzuZw1StL0dkQ8x/Sg4KWaRlaK`

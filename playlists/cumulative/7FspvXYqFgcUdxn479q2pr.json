@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Tie\u0308sto x Hedex x Basslayerz",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: TWENTY SIX &amp; Jenn Morel",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -116,10 +116,32 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 270720,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/7DBEWi8wCOKiZbXP52yPFo"
+    },
+    {
+      "album": {
+        "name": "Animal (with Jason Derulo) [R3HAB VIP Remix]",
+        "url": "https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Animal (R3HAB VIP Remix)",
+      "url": "https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E"
     },
     {
       "album": {
@@ -182,6 +204,50 @@
       "duration_ms": 396851,
       "name": "Be You",
       "url": "https://open.spotify.com/track/3DP7Vn2Oqw0ycl5IYb6NdO"
+    },
+    {
+      "album": {
+        "name": "Believin'",
+        "url": "https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Believin'",
+      "url": "https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7"
+    },
+    {
+      "album": {
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "album": {
@@ -278,7 +344,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162790,
       "name": "Crossed the Line (All the Things)",
       "url": "https://open.spotify.com/track/1XDZTgs8MOLTfkCAiGHZts"
@@ -322,7 +388,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 161029,
       "name": "Dance To The Beat (Pitchin')",
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
@@ -516,7 +582,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 179769,
       "name": "Fade Till Sunrise (Club Mix)",
       "url": "https://open.spotify.com/track/6TLMvGmFGS1V7cnuQ6pVmS"
@@ -560,7 +626,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 154015,
       "name": "Feel What You Want",
       "url": "https://open.spotify.com/track/38TvZjyie683nvVIxR0mDi"
@@ -728,7 +794,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 176250,
       "name": "I Got To Move",
       "url": "https://open.spotify.com/track/615byThVUrcnzb9trhe7yy"
@@ -816,10 +882,32 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 163572,
       "name": "June",
       "url": "https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5"
+    },
+    {
+      "album": {
+        "name": "Keep On Pushin'",
+        "url": "https://open.spotify.com/album/3xnck3BnidThyeWGPtUVXH"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        },
+        {
+          "name": "Roc Dubloc",
+          "url": "https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173363,
+      "name": "Keep On Pushin'",
+      "url": "https://open.spotify.com/track/7aqBYVm4D4VrylUyAHZ3qw"
     },
     {
       "album": {
@@ -846,6 +934,32 @@
       "duration_ms": 166917,
       "name": "Kill The Vibe",
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/2I2I645AIvlOM49lUYQPlW"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR"
     },
     {
       "album": {
@@ -890,6 +1004,24 @@
       "duration_ms": 148751,
       "name": "Like A G6 (with Naeleck)",
       "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
+    },
+    {
+      "album": {
+        "name": "Lotus (PAROOKAVILLE Anthem 2024)",
+        "url": "https://open.spotify.com/album/7qyuA3NETBJ3gNvUWxHha6"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214687,
+      "name": "Lotus (PAROOKAVILLE Anthem 2024)",
+      "url": "https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ"
     },
     {
       "album": {
@@ -992,6 +1124,50 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/13IRjcJZ3QWHtT3Ck0sms5"
+      },
+      "artists": [
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/5Bv1BaqZV9MW1UEZTEXZFq"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
     },
     {
       "album": {
@@ -1101,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Not Sorry",
+        "url": "https://open.spotify.com/album/13ZYF3xIwjble8MwsHKd2O"
+      },
+      "artists": [
+        {
+          "name": "STRAAW",
+          "url": "https://open.spotify.com/artist/6FnEjhHUAZWtBdH0kZqlkS"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129213,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb"
+    },
+    {
+      "album": {
         "name": "On My Mind (GUZ Remix)",
         "url": "https://open.spotify.com/album/5HjUWSD7lmrr9Xj06ymx7W"
       },
@@ -1156,7 +1354,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 158095,
       "name": "Power of Love",
       "url": "https://open.spotify.com/track/7bBR6yWiIS6oAdFQ3ZuHEy"
@@ -1283,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Slow Me",
+        "url": "https://open.spotify.com/album/5RG4IUTzPs3NGcsAnrrYEw"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "NEO",
+          "url": "https://open.spotify.com/artist/1xRkqbylXWViBHJyO8qs1Y"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/7Hmbq2y3TGUSZFkcPCcEd7"
+    },
+    {
+      "album": {
         "name": "Timmy Trumpet's SINPHONY No. 2",
         "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
       },
@@ -1350,7 +1570,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174374,
       "name": "Stumblin\u2019 In (NewEra Remix)",
       "url": "https://open.spotify.com/track/5Kfpk5v9agDddawbERjbiu"
@@ -1525,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Until the Sun Comes Up",
+        "url": "https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL"
+      },
+      "artists": [
+        {
+          "name": "Pansil",
+          "url": "https://open.spotify.com/artist/0jPFnkOW02ogcNH6PWnhUT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Until the Sun Comes Up",
+      "url": "https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw"
+    },
+    {
+      "album": {
         "name": "VIKINGS (Hey Ho)",
         "url": "https://open.spotify.com/album/40d9SJ6rMFbupMyYq2Rx4W"
       },
@@ -1580,7 +1818,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 393717,
       "name": "Why Wait For Tomorrow",
       "url": "https://open.spotify.com/track/0CpY40RjVCX92jJwweTJ0h"
@@ -1602,6 +1840,28 @@
       "duration_ms": 174720,
       "name": "Wish I Could",
       "url": "https://open.spotify.com/track/6UK2lSAR9Zd4fSOpx0huiE"
+    },
+    {
+      "album": {
+        "name": "Zouka",
+        "url": "https://open.spotify.com/album/6LuwKha0UnxqI5wa9ADgzB"
+      },
+      "artists": [
+        {
+          "name": "DAMIANO",
+          "url": "https://open.spotify.com/artist/6YFtrkySuHfAKmrFG9KqfO"
+        },
+        {
+          "name": "Bang La Decks",
+          "url": "https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215322,
+      "name": "Zouka",
+      "url": "https://open.spotify.com/track/2vJwO7KW4IbEGo9OOjt7Rl"
     }
   ],
   "url": "https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr"

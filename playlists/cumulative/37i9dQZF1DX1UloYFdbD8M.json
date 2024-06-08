@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 168079,
       "name": "Chekuthan",
       "url": "https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL"
@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 170181,
       "name": "Kaliyattam The Play of God",
       "url": "https://open.spotify.com/track/2MbJYJ9AekOyLhQ9GznRrr"
@@ -2471,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "Nin Peru Entha",
+        "url": "https://open.spotify.com/album/671on1d6WwmQn6GUDuy3lc"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q"
+        },
+        {
+          "name": "Geethiyaa Varman",
+          "url": "https://open.spotify.com/artist/2E9wl9bV29g6klARlECHsy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Nin Peru Entha",
+      "url": "https://open.spotify.com/track/0FyKI6iz2TOmoIRrg4RRdJ"
+    },
+    {
+      "album": {
         "name": "Njan Evide",
         "url": "https://open.spotify.com/album/05ML1jG68YmNtTB9NqLaxX"
       },
@@ -2542,6 +2564,32 @@
       "duration_ms": 263625,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/2JXMEXKqT4cnGI1ICepo8C"
+    },
+    {
+      "album": {
+        "name": "Om Shanti",
+        "url": "https://open.spotify.com/album/0Ll3yLHA6mB9hQZOH7SpmD"
+      },
+      "artists": [
+        {
+          "name": "Amrutam Gamay",
+          "url": "https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5"
+        },
+        {
+          "name": "Amritha Suressh",
+          "url": "https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk"
+        },
+        {
+          "name": "Abhirami Suresh",
+          "url": "https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291607,
+      "name": "Om Shanti",
+      "url": "https://open.spotify.com/track/6uVwy5xIpRsro059KF2NrK"
     },
     {
       "album": {

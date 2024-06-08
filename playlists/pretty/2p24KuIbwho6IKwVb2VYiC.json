@@ -1,13 +1,33 @@
 {
-  "description": "The best Dance and EDM tracks right now! Cover: Nelly Furtado, Tove Lo &amp; SG Lewis",
-  "num_followers": 20451,
+  "description": "The best Dance and EDM tracks right now! Cover: Swedish House Mafia",
+  "num_followers": 20452,
   "original_name": "New Dance Hits 2024",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAeMB1yEB3jUWtk08LMUmtByljZdPss",
+  "snapshot_id": "AAAeM9nF+7mpOIRnPVw32LCqG/epN6jf",
   "tracks": [
+    {
+      "added_at": "2024-06-07 12:47:43",
+      "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
     {
       "added_at": "2024-05-31 17:21:17",
       "album": {

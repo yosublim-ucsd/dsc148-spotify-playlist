@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: SunSquabi",
-  "num_followers": 31384,
+  "num_followers": 31410,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAADFA6zxPt2J18xew19/czD1",
+  "snapshot_id": "ZmKFwAAAAACSRXfmfurJ7UiBr2WS11/5",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 269495,
       "name": "My Mans Was a Funky Cat",
       "url": "https://open.spotify.com/track/7yvrKIBMBgPwbBWmb6ZO9K"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Local on the 8s (feat. Michael Burton)",
+        "url": "https://open.spotify.com/album/2ozVwGkTLNFtcNesGvkq67"
+      },
+      "artists": [
+        {
+          "name": "YAM YAM",
+          "url": "https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63"
+        },
+        {
+          "name": "Michael Burton",
+          "url": "https://open.spotify.com/artist/3kNNAtVGx2tvZc6DEHOlE7"
+        }
+      ],
+      "duration_ms": 340250,
+      "name": "Local on the 8s (feat. Michael Burton)",
+      "url": "https://open.spotify.com/track/4eT5B9NbyzsD74UCivbu71"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -380,8 +400,8 @@
       },
       "artists": [
         {
-          "name": "Baked Shrimp",
-          "url": "https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1"
+          "name": "Big Shrimp",
+          "url": "https://open.spotify.com/artist/5KEqTbaf2sEinU5lkQpFkr"
         }
       ],
       "duration_ms": 226018,
@@ -1195,22 +1215,6 @@
       "duration_ms": 198613,
       "name": "Dinosaur",
       "url": "https://open.spotify.com/track/0aXUHunhnDFZmco3rsevHr"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Fletcher's Grove",
-        "url": "https://open.spotify.com/album/3KNs4EEZm7mt7h8O7Gqszf"
-      },
-      "artists": [
-        {
-          "name": "Fletcher's Grove",
-          "url": "https://open.spotify.com/artist/46JSKePtGJVPmXF45GYrQs"
-        }
-      ],
-      "duration_ms": 384528,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/5KLqBabjr419nnfVZEgOUH"
     },
     {
       "added_at": "2022-07-01 04:02:00",

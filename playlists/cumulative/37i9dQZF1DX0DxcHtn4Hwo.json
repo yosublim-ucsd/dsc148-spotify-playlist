@@ -2795,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Delicate",
+        "url": "https://open.spotify.com/album/5mEPlZ57YcIwGsIoJrBgWe"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6e",
+          "url": "https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105104,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/5EJ0n1uUon8I2IdOweJD8b"
+    },
+    {
+      "album": {
         "name": "Den Finurliga Humlan",
         "url": "https://open.spotify.com/album/6eqbBYqruKx9FTGOBHbLbf"
       },
@@ -4073,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Friends Forever",
+        "url": "https://open.spotify.com/album/5pg8c5EWXXLsRcPImMMIRW"
+      },
+      "artists": [
+        {
+          "name": "Eijah Nilson",
+          "url": "https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134514,
+      "name": "Friends Forever",
+      "url": "https://open.spotify.com/track/4cnV7Q3qYtJ1AaCozMpDR4"
+    },
+    {
+      "album": {
         "name": "Frog On A Leaf",
         "url": "https://open.spotify.com/album/4NrH1RwY1aQWPxBMrqHxI5"
       },
@@ -4592,7 +4628,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 76500,
       "name": "Group Hug",
       "url": "https://open.spotify.com/track/26EokHosQnMaElrnE2MJf0"
@@ -7170,6 +7206,24 @@
       "duration_ms": 61467,
       "name": "Little Juniper Tree",
       "url": "https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm"
+    },
+    {
+      "album": {
+        "name": "Little Man In The Drawer",
+        "url": "https://open.spotify.com/album/3OBDmr68E4VR7Sqe0eFrbK"
+      },
+      "artists": [
+        {
+          "name": "Miriam Modest",
+          "url": "https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Little Man In The Drawer",
+      "url": "https://open.spotify.com/track/5q0mBe0wYcxIrwLXCKjiWs"
     },
     {
       "album": {
@@ -10093,6 +10147,24 @@
     },
     {
       "album": {
+        "name": "Raindrop Lullaby",
+        "url": "https://open.spotify.com/album/7mSPZmjjaaHPP90sjmkHHF"
+      },
+      "artists": [
+        {
+          "name": "Claude Jules",
+          "url": "https://open.spotify.com/artist/10twoL9Dyh3maVzU0zGcAJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Raindrop Lullaby",
+      "url": "https://open.spotify.com/track/3aCOZYJ9K8hMcVYnO4W2Y6"
+    },
+    {
+      "album": {
         "name": "Lullabies For The Small Stars",
         "url": "https://open.spotify.com/album/0zTA2iaUJRChmY458nhXd5"
       },
@@ -12887,6 +12959,24 @@
     },
     {
       "album": {
+        "name": "The stars above",
+        "url": "https://open.spotify.com/album/0BXJjzmGuVfajzwnM4uw0i"
+      },
+      "artists": [
+        {
+          "name": "Big Marsh",
+          "url": "https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92045,
+      "name": "The stars above",
+      "url": "https://open.spotify.com/track/3KM4QDmp7zz2AnlFkbRwxT"
+    },
+    {
+      "album": {
         "name": "The Stars Above",
         "url": "https://open.spotify.com/album/19cUmdchoacoZTsbKe0nDU"
       },
@@ -14525,6 +14615,24 @@
     },
     {
       "album": {
+        "name": "Where Do You Live Little Rat?",
+        "url": "https://open.spotify.com/album/53a5FLR3M6sU4y9AvtNOSa"
+      },
+      "artists": [
+        {
+          "name": "Yoni Laurent",
+          "url": "https://open.spotify.com/artist/3oNMmoFpVOIq8Ce7tBRDRI"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93820,
+      "name": "Where Do You Live Little Rat?",
+      "url": "https://open.spotify.com/track/2tHcwJBMIqcUWZM5VF9Wc0"
+    },
+    {
+      "album": {
         "name": "Where\u2019s My Teddy Bear?",
         "url": "https://open.spotify.com/album/4G9l3MhnXhirfJO7UqFVjR"
       },
@@ -14986,7 +15094,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 92874,
       "name": "\u00c9des \u00c1lmok",
       "url": "https://open.spotify.com/track/6rxQGuuJBepEgrfw3VSvDJ"

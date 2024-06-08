@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 65264,
+  "num_followers": 65304,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Do You Wanna Dance",
+      "url": "https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Hi-Lo Split",
         "url": "https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 307506,
       "name": "All Jazzed Up (And Nowhere To Go)",
       "url": "https://open.spotify.com/track/05VQbLH0fV9y6XEf8fF4sp"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Do You Wanna Dance",
-      "url": "https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd"
     }
   ],
   "unique_name": "Smooth Jazz 2000",

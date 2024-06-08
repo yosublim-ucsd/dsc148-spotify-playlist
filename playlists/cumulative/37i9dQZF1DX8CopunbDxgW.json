@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Foster The People",
+  "description": "The best indie dance tracks of the moment. Cover: Caribou",
   "name": "metropolis",
   "tracks": [
     {
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "afterparty",
+        "url": "https://open.spotify.com/album/0pFg1h3Hq9kIdOBVhMhwM5"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "afterparty",
+      "url": "https://open.spotify.com/track/5Yqv4XWZq1w2ECf9zLuven"
+    },
+    {
+      "album": {
         "name": "again, but colder",
         "url": "https://open.spotify.com/album/3qWsjSFljhSeeqQoUgkx01"
       },
@@ -760,6 +778,28 @@
       "duration_ms": 342053,
       "name": "Age of Phase",
       "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
+    },
+    {
+      "album": {
+        "name": "Prism of Pleasure",
+        "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234231,
+      "name": "Air Tight",
+      "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
     },
     {
       "album": {
@@ -848,7 +888,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 178746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
@@ -1102,7 +1142,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 161771,
       "name": "All Ur Luv",
       "url": "https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY"
@@ -1120,10 +1160,32 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 191130,
       "name": "All You Can Do Is Try",
       "url": "https://open.spotify.com/track/56tw6lIIgthRkmjpKKDtmi"
+    },
+    {
+      "album": {
+        "name": "All You Can Do Is Try (Remix)",
+        "url": "https://open.spotify.com/album/7HMTlbumdbuj9sCmRtJnhl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        },
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219258,
+      "name": "All You Can Do Is Try (Remix)",
+      "url": "https://open.spotify.com/track/1GPQcQ8F7DlZQ6dTBhP2cP"
     },
     {
       "album": {
@@ -1806,7 +1868,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 160951,
       "name": "Back Of My Mind",
       "url": "https://open.spotify.com/track/0RDAOHfHfq7QUkjmXLAVJf"
@@ -2958,7 +3020,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 211959,
       "name": "Bodybag (feat. Clubhouse)",
       "url": "https://open.spotify.com/track/7GgzfCuZ0ASs8ptevKYTTj"
@@ -3268,6 +3330,24 @@
       "duration_ms": 286555,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4vKEzzWe1W1xYI5foZu15g"
+    },
+    {
+      "album": {
+        "name": "Broke My Heart",
+        "url": "https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166523,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK"
     },
     {
       "album": {
@@ -3853,6 +3933,28 @@
     },
     {
       "album": {
+        "name": "The Learning of Urgency",
+        "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "PEARL",
+          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197910,
+      "name": "Carry Your Name",
+      "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
+    },
+    {
+      "album": {
         "name": "Cash",
         "url": "https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14"
       },
@@ -3926,7 +4028,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 221102,
       "name": "Cause Of U",
       "url": "https://open.spotify.com/track/1VxXo9KogHyccmoXcwqqCc"
@@ -5964,6 +6066,24 @@
       "duration_ms": 223735,
       "name": "Don't Let Me Down (feat. BENEE) [Willo Remix]",
       "url": "https://open.spotify.com/track/22LKhiF30OUAgkoNCWEVXW"
+    },
+    {
+      "album": {
+        "name": "Double Eagle",
+        "url": "https://open.spotify.com/album/4mhvnNKkepZ8zDgAKB36ZP"
+      },
+      "artists": [
+        {
+          "name": "Bickle",
+          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183762,
+      "name": "Don't Look At The DJ",
+      "url": "https://open.spotify.com/track/07He9LsytcAKRFJlPFhpG9"
     },
     {
       "album": {
@@ -12001,6 +12121,28 @@
     },
     {
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe"
+    },
+    {
+      "album": {
         "name": "IOU (with BRUX)",
         "url": "https://open.spotify.com/album/2GWCMY4iqlcvI44hIvIimD"
       },
@@ -14977,6 +15119,24 @@
     },
     {
       "album": {
+        "name": "Make U Happy",
+        "url": "https://open.spotify.com/album/1E30dKwRch1BCzgp5GBHzP"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217403,
+      "name": "Make U Happy",
+      "url": "https://open.spotify.com/track/7101CbuwiVfNknaPNi997p"
+    },
+    {
+      "album": {
         "name": "Makeshift Tourniquet",
         "url": "https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n"
       },
@@ -15668,7 +15828,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 220487,
       "name": "Mont Royal",
       "url": "https://open.spotify.com/track/1DfZo2KOWMWjipIajW9Xww"
@@ -18720,7 +18880,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 169500,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4KaUtCS52nF45jCbFUi1OM"
@@ -19182,7 +19342,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174026,
       "name": "repeat to fade",
       "url": "https://open.spotify.com/track/4AddhPZvZZgZDS41YH4Q8k"
@@ -21271,6 +21431,32 @@
     },
     {
       "album": {
+        "name": "Somethin Bout You (feat. Betsy)",
+        "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215686,
+      "name": "Somethin Bout You (feat. Betsy)",
+      "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
+    },
+    {
+      "album": {
         "name": "Something Beautiful (Montmartre Remix)",
         "url": "https://open.spotify.com/album/7esdyxRkAxwT0EaPxPdMWB"
       },
@@ -21740,6 +21926,28 @@
       "duration_ms": 314777,
       "name": "Still There",
       "url": "https://open.spotify.com/track/68Lyc2FM0k5S5uVM7RlEYM"
+    },
+    {
+      "album": {
+        "name": "Still Wonder",
+        "url": "https://open.spotify.com/album/1lKJj6EXr4njwfdbADtdi0"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        },
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202862,
+      "name": "Still Wonder - Edit",
+      "url": "https://open.spotify.com/track/0E4x6alpwvpbzF7zynsQXO"
     },
     {
       "album": {
@@ -22684,7 +22892,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 208534,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6nJ5Me87gXfmxAvtsrKFcT"
@@ -22942,6 +23150,24 @@
       "duration_ms": 440638,
       "name": "The Church",
       "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
+    },
+    {
+      "album": {
+        "name": "The City Never Felt So Good",
+        "url": "https://open.spotify.com/album/6vZMJqI9s1DFf6tMCLPvKi"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176728,
+      "name": "The City Never Felt So Good",
+      "url": "https://open.spotify.com/track/5EPLkWx3SqtK5fS9hbiHWL"
     },
     {
       "album": {
@@ -23638,10 +23864,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 321856,
       "name": "Thinking ('bout you, 'bout me)",
       "url": "https://open.spotify.com/track/3JE7ZfeFprq4FlBdwqsjYL"
+    },
+    {
+      "album": {
+        "name": "Thinking ('bout you, 'bout me) [dance edit]",
+        "url": "https://open.spotify.com/album/1cO50FyrJadA8wmaG5EQKM"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        },
+        {
+          "name": "Nicolas Losada",
+          "url": "https://open.spotify.com/artist/0h3egG509i6XKJggeaRsyd"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "Thinking ('bout you, 'bout me) - dance edit",
+      "url": "https://open.spotify.com/track/6UGj0fipu2SxUMqnH9Shp1"
     },
     {
       "album": {
@@ -24344,7 +24592,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 114302,
       "name": "touch",
       "url": "https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH"
@@ -24552,6 +24800,24 @@
       "duration_ms": 171786,
       "name": "Turn The Table",
       "url": "https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC"
+    },
+    {
+      "album": {
+        "name": "Turning My Heart Blue",
+        "url": "https://open.spotify.com/album/7fIfDMV8cMkrikHlLyt93R"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234332,
+      "name": "Turning My Heart Blue",
+      "url": "https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu"
     },
     {
       "album": {
@@ -25785,6 +26051,24 @@
     },
     {
       "album": {
+        "name": "When Ur Near",
+        "url": "https://open.spotify.com/album/3qd2PhcpBzHYbt2ijyrFMo"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189422,
+      "name": "When Ur Near - Edit",
+      "url": "https://open.spotify.com/track/1CNm0rxrvh3J32GAZ1F8A5"
+    },
+    {
+      "album": {
         "name": "When Will I Learn",
         "url": "https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR"
       },
@@ -26132,7 +26416,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 122000,
       "name": "wishing well",
       "url": "https://open.spotify.com/track/7Fwp8SLqJ3NU6L8ZitD6AY"
@@ -26656,7 +26940,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 246823,
       "name": "Your Skin",
       "url": "https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l"

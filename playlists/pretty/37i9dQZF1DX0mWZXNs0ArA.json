@@ -1,6 +1,6 @@
 {
   "description": "150%",
-  "num_followers": 1975452,
+  "num_followers": 1975709,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-03-22 18:12:24",
       "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "FRI(END)S (Sped Up)",
-      "url": "https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J"
-    },
-    {
-      "added_at": "2024-03-22 18:12:24",
-      "album": {
         "name": "Collide (Remix Pack)",
         "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 221168,
       "name": "Collide (Sped Up Remix)",
       "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
+    },
+    {
+      "added_at": "2024-03-22 18:12:24",
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "FRI(END)S (Sped Up)",
+      "url": "https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J"
     },
     {
       "added_at": "2024-03-22 18:12:24",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-03-22 18:12:24",
       "album": {
-        "name": "XIII SORROWS (ODECORE MIX)",
-        "url": "https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE"
-      },
-      "artists": [
-        {
-          "name": "ODECORE",
-          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 117034,
-      "name": "HYPNOTIC DATA - Sped Up",
-      "url": "https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu"
-    },
-    {
-      "added_at": "2024-03-22 18:12:24",
-      "album": {
         "name": "I Know (PR1SVX Edit)",
         "url": "https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 124015,
       "name": "I Know - PR1SVX Edit Sped Up",
       "url": "https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS"
+    },
+    {
+      "added_at": "2024-03-22 18:12:24",
+      "album": {
+        "name": "XIII SORROWS (ODECORE MIX)",
+        "url": "https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE"
+      },
+      "artists": [
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 117034,
+      "name": "HYPNOTIC DATA - Sped Up",
+      "url": "https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu"
     },
     {
       "added_at": "2024-03-22 18:12:24",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-22 18:12:24",
       "album": {
-        "name": "NO GOING BACK",
-        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 93794,
-      "name": "BAIXO - sped up",
-      "url": "https://open.spotify.com/track/6Quq03vHz7XrWZhpLS1vCQ"
-    },
-    {
-      "added_at": "2024-03-22 18:12:24",
-      "album": {
         "name": "Her Way (Sped Up)",
         "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 182164,
       "name": "Her Way - Sped Up",
       "url": "https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU"
+    },
+    {
+      "added_at": "2024-03-22 18:12:24",
+      "album": {
+        "name": "NO GOING BACK",
+        "url": "https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "duration_ms": 93794,
+      "name": "BAIXO - sped up",
+      "url": "https://open.spotify.com/track/6Quq03vHz7XrWZhpLS1vCQ"
     },
     {
       "added_at": "2024-03-22 18:12:24",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-03-22 18:12:24",
       "album": {
-        "name": "It\u2019s Called: Freefall (Rainbow Kitten Surprise) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 128589,
-      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
-      "url": "https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ"
-    },
-    {
-      "added_at": "2024-03-22 18:12:24",
-      "album": {
         "name": "UNDERSTAND (Sped Up Version)",
         "url": "https://open.spotify.com/album/7y33ncIO49DOPfqM6xtAkC"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 125346,
       "name": "UNDERSTAND - Sped Up",
       "url": "https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F"
+    },
+    {
+      "added_at": "2024-03-22 18:12:24",
+      "album": {
+        "name": "It\u2019s Called: Freefall (Rainbow Kitten Surprise) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 128589,
+      "name": "It's Called: Freefall (Rainbow Kitten Surprise) - Sped Up Version",
+      "url": "https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ"
     },
     {
       "added_at": "2024-03-22 18:12:24",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-03-22 18:12:24",
       "album": {
-        "name": "Perfect Night (Remix)",
-        "url": "https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 128779,
-      "name": "Perfect Night (Sped Up ver.)",
-      "url": "https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK"
-    },
-    {
-      "added_at": "2024-03-22 18:12:24",
-      "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 168888,
       "name": "3D (feat. Jack Harlow) (Sped Up)",
       "url": "https://open.spotify.com/track/1ewYtP6BZlak8qokzZe4Bx"
+    },
+    {
+      "added_at": "2024-03-22 18:12:24",
+      "album": {
+        "name": "Perfect Night (Remix)",
+        "url": "https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 128779,
+      "name": "Perfect Night (Sped Up ver.)",
+      "url": "https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK"
     },
     {
       "added_at": "2024-03-22 18:12:24",

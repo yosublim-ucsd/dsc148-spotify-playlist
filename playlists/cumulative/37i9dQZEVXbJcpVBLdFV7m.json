@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 298440,
       "name": "BITTERSUITE",
       "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 290280,
       "name": "From Can to Can't",
       "url": "https://open.spotify.com/track/0cqkujgud4p3rTT5yJ4dz3"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
@@ -5454,7 +5454,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
@@ -8217,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "\u0424\u0430\u0440 \u0438 \u0424\u0430\u043a\u043b\u0430",
+        "url": "https://open.spotify.com/album/1BRP9v1DK5OXEfzPXKY5zu"
+      },
+      "artists": [
+        {
+          "name": "Cool Den",
+          "url": "https://open.spotify.com/artist/71CpSZQDKPKOtUBypCZWir"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314645,
+      "name": "\u0412\u0440\u0435\u043c\u0435 \u0435",
+      "url": "https://open.spotify.com/track/0uD9stwesddPoM9AyRzHwH"
+    },
+    {
+      "album": {
         "name": "\u0414\u0430\u043b\u0438, \u0434\u0430\u043b\u0438",
         "url": "https://open.spotify.com/album/11r3DS1gQu28mwK4AcT2Kp"
       },
@@ -8968,6 +8986,24 @@
       "duration_ms": 214222,
       "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/5btaxbk6nG46VQTyLpBxTu"
+    },
+    {
+      "album": {
+        "name": "\u0424\u0430\u0440 \u0438 \u0424\u0430\u043a\u043b\u0430",
+        "url": "https://open.spotify.com/album/1BRP9v1DK5OXEfzPXKY5zu"
+      },
+      "artists": [
+        {
+          "name": "Cool Den",
+          "url": "https://open.spotify.com/artist/71CpSZQDKPKOtUBypCZWir"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "\u0422\u0443\u043a \u043d\u0435 \u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f",
+      "url": "https://open.spotify.com/track/3CFjo92bpxjzCl7ARVKd1d"
     },
     {
       "album": {

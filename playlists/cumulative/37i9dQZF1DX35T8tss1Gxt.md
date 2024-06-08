@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-479 songs - 1 day 4 hr 33 min
+480 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,11 +201,12 @@
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2022-04-01 | 2023-11-01 |
 | [HOMIE](https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [SAO!](https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Alfa Tavares](https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW) | [HOMIE](https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY) | 2:33 | 2023-01-20 |  |
 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 | 2022-02-19 | 2022-06-26 |
-| [How I Love You](https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf) | [SHEALY](https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61), [Brandon Love](https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF) | [How I Love You](https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY) | 4:21 | 2024-01-12 |  |
+| [How I Love You](https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf) | [SHEALY](https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61), [Brandon Love](https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF) | [How I Love You](https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY) | 4:21 | 2024-01-12 | 2024-06-08 |
 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 | 2022-04-01 | 2022-04-08 |
 | [I Believe In Me](https://open.spotify.com/track/3vG8onMouTfusD4JZEIiZX) | [Nikea Marie](https://open.spotify.com/artist/4PAvwyc8L7pMf5qPdRnT9D) | [I Believe In Me](https://open.spotify.com/album/63GimjcYoSS4q3Mr8Qx6sp) | 3:49 | 2022-02-19 | 2022-06-21 |
 | [I Get Joy](https://open.spotify.com/track/6XbOppmTMigpGr9Wcxwicq) | [21:03](https://open.spotify.com/artist/0N6Fi2VLCxTWZAjcSQzIB4) | [Never Let Me Down](https://open.spotify.com/album/3n63tId6n9cTHxqrTpieQi) | 3:23 | 2022-02-19 | 2022-06-26 |
 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 | 2022-04-01 | 2022-04-09 |
+| [I Need You](https://open.spotify.com/track/7CcxaReEf4ATrBEpeLM4sb) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl), [Mitchell Jones](https://open.spotify.com/artist/3RYjL4BjHVMfl4YzAyV4ZF) | [I Need You](https://open.spotify.com/album/3KgJPKqtRrclJZCKKcSquS) | 3:08 | 2024-01-12 |  |
 | [I Need You \(Live\)](https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [I Need You \(Live\)](https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8) | 5:23 | 2022-04-01 | 2022-04-19 |
 | [I Never Knew](https://open.spotify.com/track/7ouTAQjTCipK9Ag5GAwqE0) | [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I Never Knew](https://open.spotify.com/album/6NIPGPuPrJ7KjfDxf5BLyD) | 3:50 | 2022-03-05 | 2022-06-24 |
 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 | 2023-01-20 |  |

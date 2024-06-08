@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-268 songs - 16 hr 41 min
+269 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Boogie Oogie](https://open.spotify.com/track/1LBgQDXAX5cuzJyeJIyfIa) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Kiley Dean](https://open.spotify.com/artist/5DwwWqoLNvjK2DwIh0Ofy2) | [Boogie Oogie](https://open.spotify.com/album/3b3LZpUOr6Jg2XH2qFqm9W) | 3:24 | 2023-06-02 |  |
 | [Boyfriend](https://open.spotify.com/track/2WXOEBgNo7OkkJ6HMoMnIg) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Boyfriend](https://open.spotify.com/album/6HqP7UpBF5HRGwZZzOwJHU) | 2:44 | 2021-11-26 | 2022-11-26 |
 | [Bring On The Rain \(feat\. Joss Stone\) \- 7" Version](https://open.spotify.com/track/4epSfucEoDLkUuYe1uU27b) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Bring On The Rain \(feat\. Joss Stone\)](https://open.spotify.com/album/25XlWNUBId69n12NQSzk7U) | 3:09 | 2022-04-01 | 2022-11-12 |
-| [Bring On Up Our Love](https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Bring On Up Our Love](https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP) | 3:49 | 2024-02-16 |  |
+| [Bring On Up Our Love](https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Bring On Up Our Love](https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP) | 3:49 | 2024-02-16 | 2024-06-08 |
 | [Broke a Sweat](https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Broke a Sweat](https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh) | 2:50 | 2023-07-14 | 2024-03-23 |
 | [By the River](https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf) | [Bomel](https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7), [Jullyh](https://open.spotify.com/artist/3SHhwCP9HUkfFLoXa2CTRD) | [By The River](https://open.spotify.com/album/1noFa2oAOfTNilEv8CMtzM) | 3:27 | 2022-07-29 |  |
 | [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 | 2022-10-21 |  |
@@ -146,6 +146,7 @@
 | [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/0h2Z6MjprW1IVfIyqpZcrg) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/58EPf9YRS5Xvdc0fMFElkl) | 6:03 | 2021-12-03 | 2022-11-05 |
 | [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/1xnlffPIq3yKph87VmCiqc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/6n3JSbR3ONbiGvh9Rb9DiP) | 6:03 | 2021-12-03 | 2022-10-13 |
 | [Knock Knock](https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Knock Knock](https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP) | 4:01 | 2021-10-15 | 2022-10-22 |
+| [Know Me](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Know Me](https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1) | 3:27 | 2024-06-07 |  |
 | [Legs \(Keep Dancing\)](https://open.spotify.com/track/4iOVmWFd2HgtWa9yPxvCai) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Legs \(Keep Dancing\)](https://open.spotify.com/album/7pgYs9PShCZbJdIUDmoQvc) | 3:07 | 2024-04-26 |  |
 | [Let Go \(Miss Toto Remix\)](https://open.spotify.com/track/0Wuv9s1Ijezbkg3K6WhNpw) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [Miss Toto](https://open.spotify.com/artist/16iJMzInNoSyNHgzUZR8nx) | [Let Go \(Miss Toto Remix\)](https://open.spotify.com/album/75fgeIKGvHZilRI3pHF0WH) | 3:00 | 2024-02-16 |  |
 | [Let Your Body Move](https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Let Your Body Move](https://open.spotify.com/album/3lqdJrVDVedT2dfnDWhxTG) | 4:02 | 2021-09-24 | 2022-11-19 |

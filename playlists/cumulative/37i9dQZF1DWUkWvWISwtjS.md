@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-145 songs - 7 hr 15 min
+146 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Beijo De Varanda \- Ao Vivo](https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:41 | 2023-10-13 | 2024-04-19 |
 | [Bem Pior Que Eu \- Ao Vivo](https://open.spotify.com/track/4UANYptjv2kpV6IY7IjXoJ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:48 | 2023-10-13 | 2024-04-19 |
 | [Bruto Memo](https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS), [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb) | [Bruto Memo](https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2) | 3:04 | 2023-10-13 |  |
-| [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn) | 3:11 | 2023-10-13 |  |
+| [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Cancela o Sentimento \(feat\. Marília Mendonça\)](https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn) | 3:11 | 2023-10-13 | 2024-06-08 |
 | [Casa Amarela](https://open.spotify.com/track/4aD18gS9Lbp9XMmXS4qu0J) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn) | [Casa Amarela](https://open.spotify.com/album/4Emek9DQiIDPcjlUvmdXUB) | 3:15 | 2023-10-13 |  |
+| [Certo e Duvidoso \- Ao Vivo](https://open.spotify.com/track/7ArNH109yIfwIquJ535fsi) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Cumpra\-se \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/4EFPUwTHszanhSL3u0CXnY) | 2:34 | 2023-10-13 |  |
 | [Chave Cópia \- Ao Vivo](https://open.spotify.com/track/3yqHkEXrbIaF7AoeN4diRH) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [1 Dois 3 \(Ao Vivo\)](https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi) | 2:42 | 2023-10-13 | 2024-04-19 |
 | [choque térmico \- ao vivo](https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 3:00 | 2023-10-13 |  |
 | [Ciumeira \- Ao Vivo](https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 3:10 | 2023-10-13 | 2024-04-19 |

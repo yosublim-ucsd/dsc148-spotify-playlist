@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This is Sister Rosetta Tharpe\. Todos os maiores hits em uma só playlist.
+> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,439 likes - 45 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,450 likes - 45 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 44 | [Move On Up A Little Higher \- Pt\. 1 & 2](https://open.spotify.com/track/4T1b4VKS2sJPDz0rgmVotp) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 3](https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T) | 5:29 |
 | 45 | [Were You There When They Crucified My Lord?](https://open.spotify.com/track/5ezKCpPjLd7m6aS2hZFRie) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk) | 3:16 |
 
-Snapshot ID: `Zl+qgAAAAACJIhEKX1sCDtLN51YOZr/i`
+Snapshot ID: `Zl+qgAAAAAC17gHa3R8CbmNnNa6h0Puf`

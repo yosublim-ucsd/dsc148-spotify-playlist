@@ -4013,7 +4013,7 @@
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 419711,
+      "duration_ms": 420000,
       "name": "Genesis.",
       "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
     },
@@ -5282,6 +5282,24 @@
       "duration_ms": 141290,
       "name": "in meinem kopf",
       "url": "https://open.spotify.com/track/2CbAl19E2akV4zXoCa3dW1"
+    },
+    {
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4vlh44VHqXCpW9XwrRyVr7"
+      },
+      "artists": [
+        {
+          "name": "Elevator Boys",
+          "url": "https://open.spotify.com/artist/2fcSjd0fxqJQ1IM2hjYPud"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/0g2ht72qkZOelkcVsk10je"
     },
     {
       "album": {
@@ -7545,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
+    },
+    {
+      "album": {
         "name": "Never Never",
         "url": "https://open.spotify.com/album/0NhVvH6l27Xyeo7PrToHKR"
       },
@@ -9163,6 +9199,24 @@
     },
     {
       "album": {
+        "name": "Sag niemals nie",
+        "url": "https://open.spotify.com/album/1rOZ2ygJbOyDGh72TyYCo4"
+      },
+      "artists": [
+        {
+          "name": "Andrea Berg",
+          "url": "https://open.spotify.com/artist/5dXbkgq9goxRAwCFoNU9Dp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199197,
+      "name": "Sag niemals nie",
+      "url": "https://open.spotify.com/track/2zviYDFsf7Sky1bbWZCXmo"
+    },
+    {
+      "album": {
         "name": "Saint (feat. Imanbek)",
         "url": "https://open.spotify.com/album/4lLjPjFenQKdAB7LzAtxUP"
       },
@@ -9720,6 +9774,24 @@
       "duration_ms": 142011,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/7LBq9YOFtOoSeGFtlrxHEN"
+    },
+    {
+      "album": {
+        "name": "Sommer meines Lebens",
+        "url": "https://open.spotify.com/album/1nqGoRZmRV5D6zlHflc0ga"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195457,
+      "name": "Sommer meines Lebens",
+      "url": "https://open.spotify.com/track/5GCa1hWZ40820t9nPnotpo"
     },
     {
       "album": {

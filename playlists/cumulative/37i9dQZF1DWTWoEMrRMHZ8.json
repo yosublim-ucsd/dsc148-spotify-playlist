@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Melly",
+  "description": "As belas novidades da MPB. Foto: Samuel Rosa",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 219744,
       "name": "Ao Arrepio da Lei",
       "url": "https://open.spotify.com/track/4xsVg1mKcHTHa9gxqeuiNA"
@@ -1130,6 +1130,24 @@
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+    },
+    {
+      "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
     },
     {
       "album": {
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 160231,
       "name": "Cremosa",
       "url": "https://open.spotify.com/track/0Zq70S17PSVxiRewtTtzy2"
@@ -7560,7 +7578,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 182757,
       "name": "Neste Contexto",
       "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
@@ -8814,7 +8832,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 229549,
       "name": "OUTONO",
       "url": "https://open.spotify.com/track/3bqDCnOGSSv2ELoAs7tfeZ"
@@ -9679,6 +9697,28 @@
     },
     {
       "album": {
+        "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
+        "url": "https://open.spotify.com/album/652ZVwlCpBlUlOZGKwkJcH"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222758,
+      "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
+      "url": "https://open.spotify.com/track/5gXebJZbpKRHl32Ft44Kxh"
+    },
+    {
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -10316,6 +10356,24 @@
       "duration_ms": 172623,
       "name": "Qual \u00c9 a Sua?",
       "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
+    },
+    {
+      "album": {
+        "name": "Quando a Gente Existe",
+        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Quando a Gente Existe",
+      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
     },
     {
       "album": {
@@ -11490,6 +11548,24 @@
       "duration_ms": 274426,
       "name": "Segredo Solar",
       "url": "https://open.spotify.com/track/3kL9tNeCvya5nmbVWRW8pv"
+    },
+    {
+      "album": {
+        "name": "Segue o Jogo",
+        "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222714,
+      "name": "Segue o Jogo",
+      "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
     },
     {
       "album": {

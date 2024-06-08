@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Mötley Crüe
 
-887 songs - 2 day 17 hr 13 min
+888 songs - 2 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [111 – the Number of the Angels](https://open.spotify.com/track/3bbAEbvxWvrhSjYYPusrlo) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [111 – the Number of the Angels](https://open.spotify.com/album/7JAj5D6w9vUT3IkcG5iLs4) | 3:50 | 2022-03-22 | 2022-04-20 |
 | [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 | 2022-06-19 |
 | [1589](https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [1589](https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2) | 4:04 | 2024-05-17 |  |
-| [A Brave New Hope](https://open.spotify.com/track/7CTZgDqC7vcSsTumTmxz0D) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [A Brave New Hope](https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh) | 4:40 | 2024-04-05 |  |
+| [A Brave New Hope](https://open.spotify.com/track/7CTZgDqC7vcSsTumTmxz0D) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [A Brave New Hope](https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh) | 4:40 | 2024-04-05 | 2024-06-08 |
 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 | 2024-04-05 |  |
 | [A Lesser King](https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP) | [Words Of Farewell](https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO) | [Stories to Forget](https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY) | 4:41 | 2024-04-05 | 2024-05-25 |
 | [A Match Made In Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 | 2022-08-19 | 2023-02-11 |
@@ -572,6 +572,7 @@
 | [Power of the Triforce](https://open.spotify.com/track/4UnxvpD2skPffB7Wsd2CIG) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Power of the Triforce](https://open.spotify.com/album/5L4sI4cx6Ydq0ukz49XQji) | 3:52 | 2023-10-27 | 2024-03-09 |
 | [Prescribing Horror](https://open.spotify.com/track/3Ikpm8FSxVV5ho2nUjRK4o) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Persona Non Grata](https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4) | 5:09 | 2021-12-29 | 2022-07-29 |
 | [Presence of Mind](https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Presence of Mind](https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd) | 4:15 | 2021-12-17 |  |
+| [Primal](https://open.spotify.com/track/69WXO4IQ9C7zSvOmbjT76W) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Primal](https://open.spotify.com/album/340oejTjksML4uDHGVW9iM) | 3:53 | 2024-05-31 |  |
 | [Princess of the Night](https://open.spotify.com/track/2Quz6deYulrojpI9Bi3lXl) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather](https://open.spotify.com/album/4ZeBGn0FbyUHL4Xf6Qn2lh) | 4:02 | 2023-10-27 | 2024-04-19 |
 | [Princess of the Night \- 2009 Remaster](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 | 2022-08-19 | 2023-11-05 |
 | [Promises](https://open.spotify.com/track/1L4UqbKtfM4bk3UdOzrXny) | [Timo Tolkki’s Avalon](https://open.spotify.com/artist/6UkYfNV9Y4kp00UT4D2djV), [Todd Michael Hall](https://open.spotify.com/artist/5ZLa4aUwDkoflqCXq81x4A) | [Promises \(feat\. Todd Michael Hall\)](https://open.spotify.com/album/1JXbS2j6fkhy6foSf3zeAw) | 4:45 | 2021-12-29 | 2022-04-21 |

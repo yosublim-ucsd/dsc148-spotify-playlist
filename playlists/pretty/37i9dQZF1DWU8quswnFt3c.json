@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Ilse DeLange.",
-  "num_followers": 933557,
+  "num_followers": 933758,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,26 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
-        "name": "Quem \u00c9 o Louco Entre N\u00f3s",
-        "url": "https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
-          "name": "Raphaela Santos",
-          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 208439,
-      "name": "Quem \u00c9 o Louco Entre N\u00f3s",
-      "url": "https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex"
+      "duration_ms": 208910,
+      "name": "Woman Commando (feat. Anitta & Coco Jones)",
+      "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
     },
     {
       "added_at": "2024-06-05 04:00:00",
@@ -359,26 +367,18 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+        "name": "Quem \u00c9 o Louco Entre N\u00f3s",
+        "url": "https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
         }
       ],
-      "duration_ms": 208910,
-      "name": "Woman Commando (feat. Anitta & Coco Jones)",
-      "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
+      "duration_ms": 208439,
+      "name": "Quem \u00c9 o Louco Entre N\u00f3s",
+      "url": "https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex"
     },
     {
       "added_at": "2024-06-05 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
-        "name": "so good so bad",
-        "url": "https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb"
-      },
-      "artists": [
-        {
-          "name": "MXFRUIT",
-          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "so good so bad",
-      "url": "https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
         "name": "Mon \u00c2me - Summer Vibes",
         "url": "https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179933,
       "name": "Full",
       "url": "https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "so good so bad",
+        "url": "https://open.spotify.com/album/5JpxHDyjPJ06ky5W08b5yb"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "so good so bad",
+      "url": "https://open.spotify.com/track/0w6zTpil7ny1enDWlFLMff"
     },
     {
       "added_at": "2024-06-05 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
-        "name": "Leave You On Read",
-        "url": "https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK"
-      },
-      "artists": [
-        {
-          "name": "Iman Fandi",
-          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Leave You On Read",
-      "url": "https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
         "name": "HILDA CANTA CHARLY",
         "url": "https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 224571,
       "name": "Desarma y sangra",
       "url": "https://open.spotify.com/track/5d4Up4On9hK55gVJ8qIrKi"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "Leave You On Read",
+        "url": "https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Leave You On Read",
+      "url": "https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt"
     },
     {
       "added_at": "2024-06-05 04:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
+        "name": "B\u00e0i Ca Kh\u1edfi H\u00e0nh",
+        "url": "https://open.spotify.com/album/33QwWYrON5FegB2hb6rUgT"
+      },
+      "artists": [
+        {
+          "name": "H\u00e0 Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "B\u00e0i Ca Kh\u1edfi H\u00e0nh",
+      "url": "https://open.spotify.com/track/0VZpQ2QGfzN9AlF62B2DrA"
+    },
+    {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
         "name": "BIG DRIP",
         "url": "https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 124200,
       "name": "BIG DRIP",
       "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "B\u00e0i Ca Kh\u1edfi H\u00e0nh",
-        "url": "https://open.spotify.com/album/33QwWYrON5FegB2hb6rUgT"
-      },
-      "artists": [
-        {
-          "name": "H\u00e0 Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/37cUqDVdpydDd8VtNlCLuk"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "B\u00e0i Ca Kh\u1edfi H\u00e0nh",
-      "url": "https://open.spotify.com/track/0VZpQ2QGfzN9AlF62B2DrA"
     },
     {
       "added_at": "2024-06-05 04:00:00",

@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 187440,
       "name": "365",
       "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 198750,
       "name": "A Rock",
       "url": "https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 178252,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 172826,
       "name": "apocalypse",
       "url": "https://open.spotify.com/track/4kZE6pMgi6rzyxgjVF9Usx"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 227497,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 233311,
       "name": "High & Low",
       "url": "https://open.spotify.com/track/21vR6ME6fngSvEN8oW2uEg"
@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk"
+    },
+    {
+      "album": {
         "name": "Love, The Time Is Now",
         "url": "https://open.spotify.com/album/7njpPAO7gbTsNbkzlbzjP9"
       },
@@ -2872,7 +2890,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 333049,
       "name": "Moon",
       "url": "https://open.spotify.com/track/7lth4zaQynikAy6PS6s1Od"
@@ -3020,6 +3038,42 @@
       "duration_ms": 344189,
       "name": "Necking",
       "url": "https://open.spotify.com/track/3h51UW08rH9dbdU8uV24WS"
+    },
+    {
+      "album": {
+        "name": "Nightvisions",
+        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "Nightvisions",
+      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
+    },
+    {
+      "album": {
+        "name": "No Boat No Aeroplane",
+        "url": "https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312464,
+      "name": "No Boat No Aeroplane",
+      "url": "https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH"
     },
     {
       "album": {
@@ -3221,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
+    },
+    {
+      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/6MFWv27QjN5lg5d2OD8kAM"
       },
@@ -3276,6 +3348,42 @@
       "duration_ms": 182513,
       "name": "Philadelphia (with Searows)",
       "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
+    },
+    {
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "album": {
+        "name": "Prayers",
+        "url": "https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh"
+      },
+      "artists": [
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188215,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh"
     },
     {
       "album": {
@@ -3805,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Something Now",
+        "url": "https://open.spotify.com/album/0ESfeXr4ZLjlrnGlm64ly5"
+      },
+      "artists": [
+        {
+          "name": "Bess Atwell",
+          "url": "https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187329,
+      "name": "Something Now",
+      "url": "https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO"
+    },
+    {
+      "album": {
         "name": "Songs in the Kitchen",
         "url": "https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ"
       },
@@ -4003,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Take This Body Home",
+        "url": "https://open.spotify.com/album/4RDcDfbJrIzAiEQQkgvmGh"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Take This Body Home",
+      "url": "https://open.spotify.com/track/0A9mEncnUg9FRtltjsd02R"
+    },
+    {
+      "album": {
         "name": "That Funny Feeling",
         "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
       },
@@ -4072,6 +4216,24 @@
       "duration_ms": 250341,
       "name": "THE CITY NEVER SLEEPS",
       "url": "https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk"
+    },
+    {
+      "album": {
+        "name": "The Girl Who Fell to Earth",
+        "url": "https://open.spotify.com/album/4jzQEpxGuWJ5vq31CgkXRb"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211462,
+      "name": "The Girl Who Fell to Earth",
+      "url": "https://open.spotify.com/track/2Oz7eVMbLgnmSZYSTYmBrB"
     },
     {
       "album": {
@@ -4644,7 +4806,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 248337,
       "name": "Wild Garlic",
       "url": "https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF"
@@ -4788,7 +4950,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 201500,
       "name": "Young",
       "url": "https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU"

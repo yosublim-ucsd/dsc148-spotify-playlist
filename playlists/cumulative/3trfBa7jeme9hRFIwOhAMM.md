@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-224 songs - 11 hr 15 min
+226 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Apache](https://open.spotify.com/track/2flqR1f6YAi3CUpGkQ7bvt) | [Alenn](https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7), [Event Horizon](https://open.spotify.com/artist/4SEMFplTKKlp8dDnnImaYf) | [Apache](https://open.spotify.com/album/2mtnm2wf8uLYsj923zgykq) | 3:05 | 2023-07-11 | 2023-07-15 |
 | [Azure Dragon](https://open.spotify.com/track/61EcOtWCcbIIduDSlpRneD) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Four Symbols EP](https://open.spotify.com/album/3QW1M8WQPnzcJHpP2rtSOn) | 5:30 | 2024-03-22 | 2024-04-20 |
 | [Back It Up \(feat\. Young Lyxx\)](https://open.spotify.com/track/5vS1v4LQpq89CUgCbTYHld) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87), [Young Lyxx](https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk), [House Call](https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA) | [Shot Callers Vol\. 2](https://open.spotify.com/album/4g7oAUx5mSEGCeqXpUlXuK) | 3:18 | 2023-07-14 | 2023-12-14 |
+| [Barcelona](https://open.spotify.com/track/4gu6PuExtQ9NkoMKX37yXR) | [Josement](https://open.spotify.com/artist/2Fue2rkq7Fya36fknD1EaC) | [Barcelona](https://open.spotify.com/album/7D2txPn4ldkYa4t12wBHcc) | 3:19 | 2024-06-07 |  |
 | [BASSLINE](https://open.spotify.com/track/2GkpVKX7IxjFiVDiYULluh) | [NAATE](https://open.spotify.com/artist/7gvemPrPIvURHCsWx4ZyRM) | [BASSLINE](https://open.spotify.com/album/1xD08oikiattfNZGhnredw) | 2:53 | 2024-04-05 | 2024-05-04 |
 | [Bassline Louder](https://open.spotify.com/track/3VLdXdJiAcb0fyy6sgX6as) | [DJ Justin James](https://open.spotify.com/artist/4uUSaemNvusVeyZFWSWLVh) | [Bassline Louder](https://open.spotify.com/album/11M4vUl5CG3QD2jaCd0ohb) | 2:51 | 2023-09-22 | 2023-12-14 |
 | [Bassline Rumble](https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Bassline Rumble](https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY) | 2:55 | 2023-06-26 |  |
@@ -83,6 +84,7 @@
 | [Goodbye](https://open.spotify.com/track/4kyrrxyoVBgaad4N14zk8P) | [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Brieuc](https://open.spotify.com/artist/7d7HOtUUHD4P5aZaeYTQf4), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Goodbye](https://open.spotify.com/album/4anHTuGfiQAybiDedPoJ5a) | 2:26 | 2023-06-26 | 2023-07-22 |
 | [Goons](https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9) | [Goons](https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij) | 3:21 | 2023-09-20 | 2023-12-14 |
 | [Greedy](https://open.spotify.com/track/2CARgZ6KasNjGxIktGc9tP) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Greedy](https://open.spotify.com/album/6Fprb6xp0vBAETSqwWm3SX) | 2:03 | 2024-01-13 | 2024-01-23 |
+| [Groove School](https://open.spotify.com/track/0Md2Hi3rZSAGRAJ2QO5oqW) | [Thomas Anthony](https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI), [Hypedelic](https://open.spotify.com/artist/5zS6DPdUBOZFTKwIqzp2wR) | [Groove School](https://open.spotify.com/album/5kGOA4qRR7Y5bU3MVG9Klm) | 3:01 | 2024-06-07 |  |
 | [Here With Me](https://open.spotify.com/track/5WkJkW64ThQsfQ2tfaLcZ3) | [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Here With Me](https://open.spotify.com/album/1ef49F2Q341KHNUFOehNGd) | 3:25 | 2023-06-30 | 2024-05-04 |
 | [Hustlin](https://open.spotify.com/track/6ZXx80XqjXSJIWxjS9EdY1) | [Jaxx Inc.](https://open.spotify.com/artist/24GbqXC3O6yyfHbEhRdepf), [Phat Suppli](https://open.spotify.com/artist/0xOY2TiGUwvZN5HUqyeDaP) | [Hustlin](https://open.spotify.com/album/3gFLQV542TjsYUSb2KpFmP) | 3:24 | 2024-02-25 | 2024-03-11 |
 | [I Can Feel It](https://open.spotify.com/track/7mfFf3S4PVwRwekLT6YiWe) | [Mat Frank](https://open.spotify.com/artist/40FuCqCj5Suu3gMsrVnlIQ) | [I Can Feel It](https://open.spotify.com/album/1vOAMDpExTt92TT00r2TWY) | 2:36 | 2024-04-12 | 2024-04-19 |

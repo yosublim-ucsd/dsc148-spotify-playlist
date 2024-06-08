@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Ain't No Stopping Me",
+        "url": "https://open.spotify.com/album/7bloW4tisDJapbL2qCOO8j"
+      },
+      "artists": [
+        {
+          "name": "The Fever Dreams",
+          "url": "https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172506,
+      "name": "Ain't No Stopping Me",
+      "url": "https://open.spotify.com/track/4wC9NoWzDl4UUBZpBwccfN"
+    },
+    {
+      "album": {
         "name": "Ain't None Watered Down",
         "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
       },
@@ -218,6 +240,24 @@
       "duration_ms": 220466,
       "name": "Are You",
       "url": "https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft"
+    },
+    {
+      "album": {
+        "name": "Autumn of Humanity",
+        "url": "https://open.spotify.com/album/3bHPoiEwneq98KkchYMcCH"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252154,
+      "name": "Autumn of Humanity",
+      "url": "https://open.spotify.com/track/0hLKTdZxbapY70McAB3gkg"
     },
     {
       "album": {
@@ -1548,7 +1588,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 242680,
       "name": "Gone Without Warning",
       "url": "https://open.spotify.com/track/7in4wjewVD5ZzLqO2LKHJ2"
@@ -4119,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "Shake You Off",
+        "url": "https://open.spotify.com/album/4q8ICEgFA3aLmGulvQ2KHE"
+      },
+      "artists": [
+        {
+          "name": "The Commoners",
+          "url": "https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235733,
+      "name": "Shake You Off",
+      "url": "https://open.spotify.com/track/0wX8kkelEfK6RWMcHGWTHU"
+    },
+    {
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -4356,7 +4414,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 213077,
       "name": "Spiritual Warrior",
       "url": "https://open.spotify.com/track/1PLVmQc9U0agrKJv0ljR3G"

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: George Strait
 
-283 songs - 16 hr 37 min
+285 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Over and Over](https://open.spotify.com/track/1qMujJpda7A5NGWxbR3jeQ) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4) | [Over and Over](https://open.spotify.com/album/6WQIQXFnUUDASxfg0WygI9) | 3:44 | 2024-05-17 |  |
 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 | 2022-02-25 |  |
 | [Plans](https://open.spotify.com/track/243xVaJ0uGwvzFpZS3EXxc) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Plans](https://open.spotify.com/album/6bPToqWK7UeSk6rvI2wEAq) | 3:39 | 2023-08-18 |  |
+| [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 | 2024-06-07 |  |
 | [Pretty Dang Good](https://open.spotify.com/track/35HIkkB8nnZcTqy1mwhz8Y) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Pretty Dang Good](https://open.spotify.com/album/19bExMYQXy9nlNNIr5LXkf) | 2:54 | 2024-05-03 |  |
 | [Pride](https://open.spotify.com/track/6rrGwk0tMib7jcDm4iKTVE) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Pride](https://open.spotify.com/album/5j2EBpH7Ihjnz5ZN9ApSdh) | 3:42 | 2024-03-29 |  |
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
@@ -229,6 +230,7 @@
 | [Something To Be Proud Of \- 20 Years of Hits version](https://open.spotify.com/track/3EnF5YgOM7lIJQg8Squ2tH) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [20 Years of Hits](https://open.spotify.com/album/6rY8YBPB0yUhOQtPULZ8Vq) | 4:12 | 2022-07-22 | 2023-05-18 |
 | [Something To Be Proud Of \- 20 Years of Hits version](https://open.spotify.com/track/7cVYasURSBEHUMoPq0jGCL) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [20 Years of Hits](https://open.spotify.com/album/2eD642B8MwvLInbPduwx6K) | 4:12 | 2023-05-12 | 2024-04-19 |
 | [Spilled Whiskey](https://open.spotify.com/track/2wkZrYkKGHy115cCOFVPRR) | [Daryle Singletary](https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT) | [There's Still a Little Country Left](https://open.spotify.com/album/6jxtLhzm95SUEXi66ieBhU) | 3:32 | 2021-10-15 | 2022-09-21 |
+| [Spotlight](https://open.spotify.com/track/1ZvUudh4rpo0a5WIbrwJoc) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Spotlight / Well Alright](https://open.spotify.com/album/1kgabmPhKLo4DRLIsFTjFs) | 2:47 | 2024-06-07 |  |
 | [Stone Blind Horses](https://open.spotify.com/track/40I4eAyq1EUUw5OZXxsGjC) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:45 | 2022-07-22 | 2024-04-19 |
 | [Stone Blind Horses](https://open.spotify.com/track/7A7XBREnqLg97yuGRUiYUu) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stone Blind Horses](https://open.spotify.com/album/5lFUHRlw15fEKUaZ0y0nYU) | 3:45 | 2022-03-04 |  |
 | [Stranger in My House \(feat\. Luke Bryan\)](https://open.spotify.com/track/2EDbLhcX7HRoSj9gvG1MQO) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:17 | 2021-10-15 |  |

@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-163 songs - 8 hr 11 min
+165 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dicen](https://open.spotify.com/track/16Lmm7ei1syfXTZIYj5FpY) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [A Veces](https://open.spotify.com/album/1SfElzQ1tIOxyXZmXjLuX9) | 2:58 | 2022-03-03 |  |
 | [Die Donau](https://open.spotify.com/track/2cZMVymCXBcY4KDr0Qag2f) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Die Donau](https://open.spotify.com/album/1hcqmGoCbBo79hyTfMLnl9) | 2:42 | 2022-03-03 | 2022-10-29 |
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2022-03-03 | 2024-05-24 |
+| [Dos Amantes Bailan Como Uno](https://open.spotify.com/track/2AD7BOiPxQNwz4M3XagTQI) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Dos Amantes Bailan Como Uno](https://open.spotify.com/album/41f3LlLR9JqLdb9oD6NhYc) | 3:04 | 2024-06-07 |  |
 | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/track/59DQVi45MItdwdyBP4A7dg) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Luis Orlandini](https://open.spotify.com/artist/5fTpeqnj9uWvbqwQiUo3PW), [Raimundo Luco](https://open.spotify.com/artist/5tF1ThzwEZEjowMN64pfbY) | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/album/31M8OK3WgX3VrNCmijGZMk) | 4:39 | 2022-08-05 |  |
 | [Ebro](https://open.spotify.com/track/7iWSfu4622gZ0g1U2g51BT) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Ebro](https://open.spotify.com/album/4bonBhQZAj1VtE3pBxooke) | 3:22 | 2023-03-31 | 2023-10-27 |
 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 | 2022-03-03 |  |
@@ -143,6 +144,7 @@
 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 | 2022-03-03 |  |
 | [Somewhere In Between](https://open.spotify.com/track/6LQycnoIFwhHV30LJE4Q8G) | [Anila Mirela](https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b) | [Somewhere In Between](https://open.spotify.com/album/19wUyXRjqtW5VcOqoiTMSd) | 2:23 | 2022-03-03 | 2022-07-15 |
 | [Sonata Bwv 1001 \- \(Siciliano\)](https://open.spotify.com/track/0m2bd4V456cYNWWM1AIW0g) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Adrián Montero](https://open.spotify.com/artist/081MBszlzVJ1QTxXrlotY3) | [Sonatas & Partita](https://open.spotify.com/album/4CI2y9jPflgEFP9FXdgy2d) | 3:04 | 2022-05-27 |  |
+| [Straight Through My Heart](https://open.spotify.com/track/0LBN0uMXR5sJ7WSxFF8c3A) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Straight Through My Heart](https://open.spotify.com/album/5ozSncuInN9MHvJ6LPJ6I2) | 3:01 | 2024-06-07 |  |
 | [Suave](https://open.spotify.com/track/4MTpIFPmOhMuasTQLHoEtm) | [Roman Ticker](https://open.spotify.com/artist/2N3alU1QULBStjDC38TldG) | [Ipanema Dreams](https://open.spotify.com/album/5t9rpIS1nZA3QUu0WezT4X) | 2:08 | 2022-03-03 | 2022-07-22 |
 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 | 2022-03-03 |  |
 | [Summer Walks](https://open.spotify.com/track/3PgpqddvtMosikFwFytr14) | [Walter David](https://open.spotify.com/artist/7DroDCkqomfRXj7zVYjiI3) | [Summer Walks](https://open.spotify.com/album/7C0PB7dfWUj7FLoXCYkSMQ) | 1:36 | 2022-07-08 | 2023-09-15 |

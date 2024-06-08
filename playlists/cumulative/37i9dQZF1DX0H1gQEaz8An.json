@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-21",
-  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Calle 24",
+  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Adrian L Santos & Angel Cervantes ",
   "name": "Tumbado Rom\u00e1ntico",
   "tracks": [
     {
@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Hoy Ando Soltero",
+        "url": "https://open.spotify.com/album/1YNsmGOFPPRoHKtlhdZMbj"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Hoy Ando Soltero",
+      "url": "https://open.spotify.com/track/6UNHanGKIUebByDWGWwuSd"
+    },
+    {
+      "album": {
         "name": "La Bebesita",
         "url": "https://open.spotify.com/album/1J0rKEarrykyd3N3nnXjXs"
       },
@@ -630,6 +652,24 @@
       "duration_ms": 164552,
       "name": "LA NENA",
       "url": "https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf"
+    },
+    {
+      "album": {
+        "name": "La Top Uno",
+        "url": "https://open.spotify.com/album/6JgdweJnTGFr5g8zQJJ70a"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161952,
+      "name": "La Top Uno",
+      "url": "https://open.spotify.com/track/2LSo6BjJ9WqsCY5sB7mwS8"
     },
     {
       "album": {

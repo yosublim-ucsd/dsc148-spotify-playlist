@@ -1,13 +1,41 @@
 {
   "description": "DEADBEATS &amp; BROWNIES - Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
-  "num_followers": 62732,
+  "num_followers": 62733,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "AAAW/EwgC3RPKtWiGLyRf7UyI27VW9UK",
+  "snapshot_id": "AAAW/YA/f0WfH879b2EVsnmdU+S6Apma",
   "tracks": [
+    {
+      "added_at": "2024-06-07 13:50:18",
+      "album": {
+        "name": "Flip It (\u00c6ON:MODE Remix)",
+        "url": "https://open.spotify.com/album/2SQt6DV4BmY6XonaNZCPOg"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Flip It - \u00c6ON:MODE Remix",
+      "url": "https://open.spotify.com/track/6zw7s3znqtUvU90Q5blgEj"
+    },
     {
       "added_at": "2024-05-31 14:23:54",
       "album": {

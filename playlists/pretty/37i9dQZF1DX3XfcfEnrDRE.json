@@ -1,6 +1,6 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Alive City",
-  "num_followers": 239573,
+  "num_followers": 239598,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Broken Places",
-        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
-      },
-      "artists": [
-        {
-          "name": "Jars Of Clay",
-          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Broken Places",
-      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Every Morning",
         "url": "https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "OLDER",
-        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+        "name": "Broken Places",
+        "url": "https://open.spotify.com/album/0DX0eOgQHUgQqBFVSyKCQF"
       },
       "artists": [
         {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+          "name": "Jars Of Clay",
+          "url": "https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF"
         }
       ],
-      "duration_ms": 202386,
-      "name": "OLDER",
-      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
+      "duration_ms": 255693,
+      "name": "Broken Places",
+      "url": "https://open.spotify.com/track/5qCoYTRtXwsCIiMaE9D8L6"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "OLDER",
+        "url": "https://open.spotify.com/album/1dLlSnoQk8tec7Tyubd7u7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "OLDER",
+      "url": "https://open.spotify.com/track/74dJdWzKwtxV5s77GOsa8w"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
+        "name": "Fall On The Nation",
+        "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
       },
       "artists": [
         {
-          "name": "Whitefield",
-          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        },
+        {
+          "name": "Corry Robinson",
+          "url": "https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv"
         }
       ],
-      "duration_ms": 269353,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
+      "duration_ms": 272170,
+      "name": "Fall On The Nation",
+      "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1255,22 +1259,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Fall On The Nation",
-        "url": "https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
       },
       "artists": [
         {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        },
-        {
-          "name": "Corry Robinson",
-          "url": "https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv"
+          "name": "Whitefield",
+          "url": "https://open.spotify.com/artist/3Bl7IsHkpS3ccNug2A8txP"
         }
       ],
-      "duration_ms": 272170,
-      "name": "Fall On The Nation",
-      "url": "https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX"
+      "duration_ms": 269353,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Can't Stop My Heart From Singing",
-        "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
-      },
-      "artists": [
-        {
-          "name": "Mountaintops",
-          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
-        },
-        {
-          "name": "Beau and Mercy Perkins",
-          "url": "https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE"
-        }
-      ],
-      "duration_ms": 234925,
-      "name": "Can't Stop My Heart From Singing",
-      "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/3ztacUh2slm1151Ago3Mjz"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 222108,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/40AxtoP3dD1nHvToCUXGEz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Can't Stop My Heart From Singing",
+        "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        },
+        {
+          "name": "Beau and Mercy Perkins",
+          "url": "https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE"
+        }
+      ],
+      "duration_ms": 234925,
+      "name": "Can't Stop My Heart From Singing",
+      "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/6ofPGdVjQVbTqvT9x2PlDU"
-      },
-      "artists": [
-        {
-          "name": "Ana Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/3TdJeWZcITRaSf9Cr1k4Q4"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "How Much More",
         "url": "https://open.spotify.com/album/7G9ga238zS7VNk2YCmlJET"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 212343,
       "name": "How Much More",
       "url": "https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/6ofPGdVjQVbTqvT9x2PlDU"
+      },
+      "artists": [
+        {
+          "name": "Ana Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC"
+        }
+      ],
+      "duration_ms": 227027,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/3TdJeWZcITRaSf9Cr1k4Q4"
     },
     {
       "added_at": "2024-05-24 04:00:00",

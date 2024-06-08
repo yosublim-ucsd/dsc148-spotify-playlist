@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Villano Antillano en Portada
 
-300 songs - 15 hr 4 min
+301 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 | 2021-12-13 | 2023-10-07 |
 | [Las Hijas Del Rap](https://open.spotify.com/track/0ZqIeOJEc6GGFI0remPX2Z) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Las Hijas Del Rap](https://open.spotify.com/album/2yzvkD2AxrxFQDWDy19by8) | 3:00 | 2021-12-13 |  |
 | [Latina P.I.M.P](https://open.spotify.com/track/08FlJMt7zz3rwJzXTCuKqU) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Latina P.I.M.P](https://open.spotify.com/album/1xibpvj8AmWtCR4JpyH33D) | 3:29 | 2022-09-03 | 2023-01-14 |
-| [Lente Anamórfico](https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Lente Anamórfico](https://open.spotify.com/album/6iqnbkY71BpLZKalGwRQwo) | 2:10 | 2023-09-29 |  |
+| [Lente Anamórfico](https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Lente Anamórfico](https://open.spotify.com/album/6iqnbkY71BpLZKalGwRQwo) | 2:10 | 2023-09-29 | 2024-06-08 |
 | [Lente Anamórfico](https://open.spotify.com/track/6cnQ390yCUFD5kqtyTsrvz) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Lente Anamórfico](https://open.spotify.com/album/1CSEq3P5lsegAnTlZ1nchx) | 2:11 | 2024-03-29 | 2024-04-19 |
 | [Libre Como el Viento](https://open.spotify.com/track/0BEjwjdPqzIn3EL8YI4Baj) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [Libre Como el Viento](https://open.spotify.com/album/4gyyk4ythhZgy1Q0LIVtz7) | 2:18 | 2023-09-29 |  |
 | [Lick](https://open.spotify.com/track/1l9gwjr7SRHepNFio6MxLb) | [Akasha](https://open.spotify.com/artist/45dFGC8WhidxNiuhMbTIvo) | [Lick](https://open.spotify.com/album/3zb6F6ieaqd0qqCbiJVUnH) | 2:16 | 2021-12-13 |  |
@@ -281,6 +281,7 @@
 | [TIKI TAKA](https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU) | [7Z7](https://open.spotify.com/album/3RtE5spt4kZB1Q8nHB3tWD) | 2:34 | 2023-03-03 |  |
 | [Toda La Noche](https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Toda La Noche](https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH) | 2:42 | 2023-02-24 | 2024-03-16 |
 | [Toda Perra Mugrosa](https://open.spotify.com/track/2no18yKAUmqkJG2fxUZ7bz) | [La Gallo 3:20](https://open.spotify.com/artist/3vMfBXxAZ9iG2u0VjNZ0IA), [norek](https://open.spotify.com/artist/1FmEWwOZLr0u0PWHVUXL0j) | [Toda Perra Mugrosa](https://open.spotify.com/album/6Ep14yIKFjYEP0J6yTJWnO) | 2:09 | 2023-09-15 |  |
+| [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 | 2024-06-07 |  |
 | [Todxs lxs cuerpxs](https://open.spotify.com/track/31QL88tRXrt1HauyNoyxs4) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [KEVS](https://open.spotify.com/artist/7raTkac2KWLDPLyqBS0kqj) | [Todxs lxs cuerpxs](https://open.spotify.com/album/6FUGcy9fgsWJBJQeDhkr9g) | 2:33 | 2024-03-01 |  |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-13 | 2024-02-10 |
 | [Toqué Fondo](https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Toqué Fondo](https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC) | 3:46 | 2021-12-13 | 2022-01-22 |

@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 184036,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF"
@@ -1690,6 +1690,28 @@
       "duration_ms": 210826,
       "name": "D\u00e9sordre insens\u00e9",
       "url": "https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS"
+    },
+    {
+      "album": {
+        "name": "El Cosechero",
+        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197826,
+      "name": "El Cosechero",
+      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
     },
     {
       "album": {
@@ -3948,7 +3970,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 347533,
       "name": "Le jardin se meurt",
       "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
@@ -4344,7 +4366,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 254501,
       "name": "Les mots qui nous manquent",
       "url": "https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY"
@@ -8149,6 +8171,28 @@
     },
     {
       "album": {
+        "name": "Tu me vois comme je suis",
+        "url": "https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        },
+        {
+          "name": "Corail",
+          "url": "https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277522,
+      "name": "Vas-tu me comprendre?",
+      "url": "https://open.spotify.com/track/2zL8O2xVwDaM9KnRByeLm8"
+    },
+    {
+      "album": {
         "name": "Vers la mer",
         "url": "https://open.spotify.com/album/3soUS8FlIpF1yRB3riT9xw"
       },
@@ -8558,6 +8602,24 @@
       "duration_ms": 198000,
       "name": "\u00c9l\u00e9gie",
       "url": "https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi"
+    },
+    {
+      "album": {
+        "name": "Mousses M\u00e9moires",
+        "url": "https://open.spotify.com/album/4Jzwiv01wtaFmZHRJrOCJ9"
+      },
+      "artists": [
+        {
+          "name": "Makenzie",
+          "url": "https://open.spotify.com/artist/13tbVKy5Kmvj8dvBIEzIdS"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220639,
+      "name": "\u00cele fossiles",
+      "url": "https://open.spotify.com/track/3fF9nkIFsjEIhm0477iE4v"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX"

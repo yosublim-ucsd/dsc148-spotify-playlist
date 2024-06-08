@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Hotel Corallo",
+        "url": "https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB"
+      },
+      "artists": [
+        {
+          "name": "YTAM",
+          "url": "https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46354,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4"
+    },
+    {
+      "album": {
         "name": "ANATOMIA CRISTALLO",
         "url": "https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv"
       },
@@ -1910,6 +1928,24 @@
       "duration_ms": 148692,
       "name": "Wah Wah",
       "url": "https://open.spotify.com/track/4ENsfBs38JiwX96HasFH78"
+    },
+    {
+      "album": {
+        "name": "Hotel Corallo",
+        "url": "https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB"
+      },
+      "artists": [
+        {
+          "name": "YTAM",
+          "url": "https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147900,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/523Bm7ywcol4A4FdQrpWvi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFAAD23vFv5n1"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Eladio Carrion",
+  "description": "The best of Latin Trap. Cover: Dei V",
   "name": "Trap Land",
   "tracks": [
     {
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 286754,
       "name": "Al Otro Nivel",
       "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
@@ -1573,6 +1573,32 @@
     },
     {
       "album": {
+        "name": "Caracol",
+        "url": "https://open.spotify.com/album/2ORqI41eItlcAerEkT4pIS"
+      },
+      "artists": [
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224347,
+      "name": "Caracol (feat. DimeWest)",
+      "url": "https://open.spotify.com/track/2nGb0GKBRxHS8t5jeqgXQI"
+    },
+    {
+      "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/7DlQeN6nryMuBbkyept0z3"
       },
@@ -2007,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "BUILT DIFFERENT",
+        "url": "https://open.spotify.com/album/3dBX1zf5d8N5G4qPXnHnZf"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "CRYPTO",
+      "url": "https://open.spotify.com/track/3NiJDzlsYwY45RDhzJh0kL"
+    },
+    {
+      "album": {
         "name": "CRYPTO",
         "url": "https://open.spotify.com/album/4KG8H1h8oVRDofQw1hqrbB"
       },
@@ -2018,7 +2062,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 183013,
       "name": "CRYPTO",
       "url": "https://open.spotify.com/track/7yN7WgKckGg3w34XgRjCxP"
@@ -4075,6 +4119,28 @@
     },
     {
       "album": {
+        "name": "James Harden",
+        "url": "https://open.spotify.com/album/0n8uTNv4FmeWisdwZi0r71"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "James Harden",
+      "url": "https://open.spotify.com/track/3rdKC8IwlU1Vzux0iC774e"
+    },
+    {
+      "album": {
         "name": "JETSKI (Remix)",
         "url": "https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI"
       },
@@ -5930,7 +5996,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 186617,
       "name": "oye ma\u2019",
       "url": "https://open.spotify.com/track/1B8uMhrUxS7QC2PI9uTgVj"
@@ -6340,7 +6406,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 218933,
       "name": "PU\u00d1AL",
       "url": "https://open.spotify.com/track/46qsJtMCmrD2uzYZdRzfXI"
@@ -6480,6 +6546,28 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
+    },
+    {
+      "album": {
+        "name": "Quiere un T\u00edtere",
+        "url": "https://open.spotify.com/album/3QxyMgePwAb3MFEUrLfuYM"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Nesi",
+          "url": "https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173096,
+      "name": "Quiere un T\u00edtere",
+      "url": "https://open.spotify.com/track/3keRJusWnAN23Bynbldw9K"
     },
     {
       "album": {

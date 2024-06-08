@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 257560,
       "name": "Go Steady",
       "url": "https://open.spotify.com/track/3ENAIFnD0Qjie0RGjG9Hh9"
@@ -2266,6 +2266,24 @@
       "duration_ms": 229960,
       "name": "Replacements (feat. La Roux)",
       "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
+    },
+    {
+      "album": {
+        "name": "Tap Water II",
+        "url": "https://open.spotify.com/album/63Jbe5ZOrZu8iqmHVItsca"
+      },
+      "artists": [
+        {
+          "name": "XL Middleton",
+          "url": "https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238552,
+      "name": "Right Fit",
+      "url": "https://open.spotify.com/track/6oCgKEBqal7hO4yaWRdvzn"
     },
     {
       "album": {

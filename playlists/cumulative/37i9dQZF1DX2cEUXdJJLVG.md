@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-351 songs - 20 hr 53 min
+352 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 | 2022-09-09 | 2024-02-02 |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-09-09 | 2022-10-13 |
 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 | 2022-10-12 | 2023-10-05 |
+| [Gravity \- Payfone Remix](https://open.spotify.com/track/6UcCynkyFSmmjcxBdPqeTg) | [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc), [Payfone](https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu) | [Gravity \(Payfone Remix\)](https://open.spotify.com/album/4UVDulFuJkfv84DZGnGxSJ) | 5:47 | 2024-06-07 |  |
 | [Hands Up](https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Hands Up](https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4) | 4:12 | 2022-09-09 | 2022-12-02 |
 | [Hard to Get](https://open.spotify.com/track/5y8AZ1jWdnPHrQoyhswqFw) | [Thomas Ford](https://open.spotify.com/artist/4prjwjwLedf54KWAs54ErF) | [Hard to Get](https://open.spotify.com/album/4TTi9VEk5HZmsnsywsOIuQ) | 3:03 | 2022-09-09 | 2024-05-10 |
 | [Heels \- Moods Remix](https://open.spotify.com/track/2YrSZEwN7rDAdBNZc7Pzb5) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Heels \(Moods Remix\)](https://open.spotify.com/album/1UUn9hgxPip1wXzHXpKxO1) | 3:21 | 2022-09-09 | 2022-10-13 |

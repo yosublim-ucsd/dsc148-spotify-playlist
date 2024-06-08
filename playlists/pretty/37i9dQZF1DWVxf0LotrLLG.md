@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,126 likes - 371 songs - 19 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,127 likes - 371 songs - 19 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

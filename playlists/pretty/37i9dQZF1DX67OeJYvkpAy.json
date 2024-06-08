@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90093,
+  "num_followers": 90098,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "WAIT N SEE",
+        "url": "https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV"
+      },
+      "artists": [
+        {
+          "name": "DEE L",
+          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
+        }
+      ],
+      "duration_ms": 164553,
+      "name": "WAIT N SEE",
+      "url": "https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Mad About Bars - S5-E8",
         "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "WAIT N SEE",
-        "url": "https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV"
-      },
-      "artists": [
-        {
-          "name": "DEE L",
-          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
-        }
-      ],
-      "duration_ms": 164553,
-      "name": "WAIT N SEE",
-      "url": "https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Retrospect (Season 2)",
-        "url": "https://open.spotify.com/album/6HscCebT4mdxY1ZM0M6rQN"
+        "name": "THOUGHTS",
+        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "DEE L",
+          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
         }
       ],
-      "duration_ms": 181047,
-      "name": "Too Cold 4 You Here (Sweater Weather)",
-      "url": "https://open.spotify.com/track/30PeGDJkVBr9hQpWqceGCa"
+      "duration_ms": 178714,
+      "name": "THOUGHTS",
+      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "THOUGHTS",
-        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
-      },
-      "artists": [
-        {
-          "name": "DEE L",
-          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "THOUGHTS",
-      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Retrospect (Season 2)",
+        "url": "https://open.spotify.com/album/6HscCebT4mdxY1ZM0M6rQN"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 181047,
+      "name": "Too Cold 4 You Here (Sweater Weather)",
+      "url": "https://open.spotify.com/track/30PeGDJkVBr9hQpWqceGCa"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Retrospect (Season 2)",
         "url": "https://open.spotify.com/album/6HscCebT4mdxY1ZM0M6rQN"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 203046,
       "name": "Everyone Keeps Asking",
       "url": "https://open.spotify.com/track/4wMeSeTadv1UZ6HE7d5wdE"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1447,8 +1447,8 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
       },
       "artists": [
         {
@@ -1456,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 133090,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2023-08-01 17:14:44",

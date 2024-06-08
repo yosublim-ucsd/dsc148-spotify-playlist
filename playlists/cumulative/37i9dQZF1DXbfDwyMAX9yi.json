@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "Sea of Love",
+        "url": "https://open.spotify.com/album/3pC4dLfRhyk390dtRq4cpa"
+      },
+      "artists": [
+        {
+          "name": "Eli Riccardi",
+          "url": "https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "Sea of Love - Extended Album Version - from \"Maxton Hall\"",
+      "url": "https://open.spotify.com/track/2VezVJwF8oW67QTS5SB8E2"
+    },
+    {
+      "album": {
         "name": "Maxton Hall: The World Between Us (Season 1) (Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt"
       },

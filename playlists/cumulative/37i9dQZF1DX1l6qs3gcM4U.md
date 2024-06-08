@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Neyna
 
-377 songs - 22 hr 24 min
+378 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Soulmate](https://open.spotify.com/track/75wx16w6wsRycn3BlXgBGi) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Soulmate](https://open.spotify.com/album/33kIoOZDcVSoeZmDa2nuKY) | 2:53 | 2022-03-11 | 2022-04-20 |
 | [Sozinha Comigo](https://open.spotify.com/track/0Brl3FrVHMVQQWGenhMNgX) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Paerl](https://open.spotify.com/artist/2lo3Dku8TMdoRCQS3NEUbz), [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Sozinha Comigo](https://open.spotify.com/album/64Q6PKNmPCLW7eunei5Cf5) | 3:51 | 2021-12-10 | 2022-07-29 |
 | [Spadja Pé](https://open.spotify.com/track/77GqJV1VlOmOYuiKKOsSR1) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Spadja Pé](https://open.spotify.com/album/44eEnwTHqdpyDswxubqcWn) | 3:26 | 2022-12-09 | 2023-02-10 |
+| [Special](https://open.spotify.com/track/3ebbm6tt4dalmeHyp3C5QI) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA) | [Special](https://open.spotify.com/album/1JPzuJooF32x2yFtY4h2o4) | 2:19 | 2024-06-06 |  |
 | [Sufri](https://open.spotify.com/track/1vd6txAL5vKVC0E4coywI4) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Sufri](https://open.spotify.com/album/4VAr6Sgblk74GHpakDjZuq) | 3:15 | 2022-02-18 | 2022-05-14 |
 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 | 2021-12-10 |  |
 | [Super Mulher](https://open.spotify.com/track/4huF3o48HSf9nBBEiroPKu) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6BUcd3hi6l2lqurfbFYZlC) | 3:52 | 2024-02-16 | 2024-04-19 |

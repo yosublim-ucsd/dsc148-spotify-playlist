@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park)",
-  "num_followers": 1004891,
+  "num_followers": 1005011,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-06 14:02:55",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4oqcaxJLVmr0mMdYkPxIf2"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/33D9IBi6eTFEPldy7jQ8og"
-    },
-    {
-      "added_at": "2024-06-06 14:02:55",
-      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -1331,18 +1315,34 @@
     {
       "added_at": "2024-06-06 14:02:55",
       "album": {
-        "name": "I Hate You (2024) - Spotify Singles",
-        "url": "https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4oqcaxJLVmr0mMdYkPxIf2"
       },
       "artists": [
         {
-          "name": "SHOWNU X HYUNGWON (MONSTA X)",
-          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 164026,
-      "name": "I Hate You (2024) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
+      "duration_ms": 230546,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/33D9IBi6eTFEPldy7jQ8og"
+    },
+    {
+      "added_at": "2024-06-06 14:02:55",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     }
   ],
   "unique_name": "TrenChill K-R&B",

@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Babblarnas vaggvisa",
+        "url": "https://open.spotify.com/album/589zc01dvPgdDOzzz5zBHd"
+      },
+      "artists": [
+        {
+          "name": "Hampus I Backen",
+          "url": "https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148937,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/4sw1BjunB4P1rCTPanYKZV"
+    },
+    {
+      "album": {
         "name": "Baby Bear",
         "url": "https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok"
       },
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 80624,
       "name": "Life is but a dream",
       "url": "https://open.spotify.com/track/6XLzwDwQzsX7gmKD6zZdie"
@@ -2770,7 +2788,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 77750,
       "name": "Mon papa est fou!",
       "url": "https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3"
@@ -4646,6 +4664,24 @@
       "duration_ms": 86500,
       "name": "To the stars and back",
       "url": "https://open.spotify.com/track/4KecvpSzjpYDyYZgO8sukR"
+    },
+    {
+      "album": {
+        "name": "Together With You",
+        "url": "https://open.spotify.com/album/3eIdDMPvGF9WkHDaFlazFz"
+      },
+      "artists": [
+        {
+          "name": "Paul Ellier",
+          "url": "https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103526,
+      "name": "Together With You",
+      "url": "https://open.spotify.com/track/0cLMkhdYS3CXq4pENYgW4g"
     },
     {
       "album": {

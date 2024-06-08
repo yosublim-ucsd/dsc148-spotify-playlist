@@ -1,13 +1,89 @@
 {
   "description": "The latest tracks from Mad Decent and friends. New music from Snow Strippers and Aluna, plus the latest cuts from evilgiane, Kito &amp; Chrome Sparks + more.",
-  "num_followers": 50717,
+  "num_followers": 50716,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAZn5F1pFLaXVCymm2wbH1AarxbHS6V",
+  "snapshot_id": "AAAZxMTkpxmA5iyjL4MwJfhFpPtmIdkK",
   "tracks": [
+    {
+      "added_at": "2024-06-07 19:21:15",
+      "album": {
+        "name": "Heatstroke",
+        "url": "https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH"
+    },
+    {
+      "added_at": "2024-06-07 19:22:25",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 189410,
+      "name": "Mean girls",
+      "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd"
+    },
+    {
+      "added_at": "2024-06-07 19:22:04",
+      "album": {
+        "name": "skin deep",
+        "url": "https://open.spotify.com/album/7xXBKyU4i2C1iX4AvzQqcK"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        },
+        {
+          "name": "Lucy Dye",
+          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "skin deep",
+      "url": "https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14"
+    },
+    {
+      "added_at": "2024-06-07 19:22:23",
+      "album": {
+        "name": "Flames",
+        "url": "https://open.spotify.com/album/4bQJJIaczwyYz37yq6JeLm"
+      },
+      "artists": [
+        {
+          "name": "Geo22",
+          "url": "https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr"
+        },
+        {
+          "name": "Elphi",
+          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
+        }
+      ],
+      "duration_ms": 170609,
+      "name": "Flames",
+      "url": "https://open.spotify.com/track/5o4vu5oH3VyseGyfMI00PU"
+    },
     {
       "added_at": "2024-05-24 18:17:53",
       "album": {
@@ -23,6 +99,78 @@
       "duration_ms": 146865,
       "name": "So What If I'm A Freak",
       "url": "https://open.spotify.com/track/1QtnG5cri4ZeYQd20bDlCg"
+    },
+    {
+      "added_at": "2024-06-07 19:23:14",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/5Rw2RPOKXXizfzNSPs4gKN"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        }
+      ],
+      "duration_ms": 197359,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/3CctKDDCTPmAHUmpRfVBg7"
+    },
+    {
+      "added_at": "2024-06-07 19:23:36",
+      "album": {
+        "name": "This but More",
+        "url": "https://open.spotify.com/album/5WlpApeyJSlJ5Lu5wLZVMz"
+      },
+      "artists": [
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Like It Shouldn't",
+      "url": "https://open.spotify.com/track/2MfS8a3TlACB9tLSv5Bbcw"
+    },
+    {
+      "added_at": "2024-06-07 19:28:36",
+      "album": {
+        "name": "IWBYH",
+        "url": "https://open.spotify.com/album/5rNRDoPNUicUVOTI5v2TTh"
+      },
+      "artists": [
+        {
+          "name": "Delachute",
+          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
+        }
+      ],
+      "duration_ms": 191309,
+      "name": "IWBYH",
+      "url": "https://open.spotify.com/track/18j4LHP2roK3m3IO46xayi"
+    },
+    {
+      "added_at": "2024-06-07 19:25:21",
+      "album": {
+        "name": "Drift / Long Story Short",
+        "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        },
+        {
+          "name": "Sunnysoposted",
+          "url": "https://open.spotify.com/artist/0U3uMh2JMp81V2hup0bJdt"
+        }
+      ],
+      "duration_ms": 246956,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
     },
     {
       "added_at": "2024-05-10 21:11:22",
@@ -75,6 +223,26 @@
       "duration_ms": 116571,
       "name": "Secret",
       "url": "https://open.spotify.com/track/6fw8w7yJ2sMPkurAh2FIcl"
+    },
+    {
+      "added_at": "2024-06-07 19:32:16",
+      "album": {
+        "name": "Any Way (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 309896,
+      "name": "Any Way (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
     },
     {
       "added_at": "2024-05-24 17:54:43",
@@ -149,6 +317,22 @@
       "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
     },
     {
+      "added_at": "2024-06-07 19:33:03",
+      "album": {
+        "name": "2 Faced, Pt. 2",
+        "url": "https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "Heavy On My Heart",
+      "url": "https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw"
+    },
+    {
       "added_at": "2024-05-10 21:10:43",
       "album": {
         "name": "EVILSLIME",
@@ -173,22 +357,6 @@
       "url": "https://open.spotify.com/track/1HICE9MTB7TW2aqxp7LF7U"
     },
     {
-      "added_at": "2024-05-24 18:16:36",
-      "album": {
-        "name": "Valedictorian",
-        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
-      },
-      "artists": [
-        {
-          "name": "ian",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
-        }
-      ],
-      "duration_ms": 127872,
-      "name": "Never Stop",
-      "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
-    },
-    {
       "added_at": "2024-05-24 18:16:11",
       "album": {
         "name": "nothing like uuu",
@@ -203,6 +371,22 @@
       "duration_ms": 112243,
       "name": "nothing like uuu",
       "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
+    },
+    {
+      "added_at": "2024-05-24 18:16:36",
+      "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 127872,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
     },
     {
       "added_at": "2024-05-24 17:51:57",
@@ -255,22 +439,6 @@
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
-    },
-    {
-      "added_at": "2024-05-10 21:22:10",
-      "album": {
-        "name": "Shoot The Seagull",
-        "url": "https://open.spotify.com/album/6YpI5hpElXui5hfg7YWUkm"
-      },
-      "artists": [
-        {
-          "name": "Delachute",
-          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Shoot The Seagull",
-      "url": "https://open.spotify.com/track/6bnp9RVQ744EDZAsDWWRYs"
     },
     {
       "added_at": "2024-05-10 21:14:09",
@@ -653,26 +821,6 @@
       "url": "https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0"
     },
     {
-      "added_at": "2024-04-26 18:24:37",
-      "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Afterimage",
-      "url": "https://open.spotify.com/track/4IsbtqsROVspyi7kzh3Vkx"
-    },
-    {
       "added_at": "2024-04-25 22:53:02",
       "album": {
         "name": "Koster",
@@ -891,22 +1039,6 @@
       "duration_ms": 180906,
       "name": "Slug",
       "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Von dutch",
-        "url": "https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1535,26 +1667,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Kebrada",
-        "url": "https://open.spotify.com/album/0LKLSpmkSJSjAAsB9uJ7Kk"
-      },
-      "artists": [
-        {
-          "name": "DJ Danifox",
-          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
-        },
-        {
-          "name": "Man\u00e9 Galinha",
-          "url": "https://open.spotify.com/artist/3et8BhSKVuUPR7BIPPbvtV"
-        }
-      ],
-      "duration_ms": 316874,
-      "name": "Kebrada",
-      "url": "https://open.spotify.com/track/2ouGOaWr41658mH8CuYJ9c"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "FRIED",
         "url": "https://open.spotify.com/album/510BPX9r8VlNkF4b0o2qmC"
       },
@@ -1695,26 +1807,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "4x4",
-        "url": "https://open.spotify.com/album/0MUkKGxxopDodLE32qnpjr"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Kota Banks",
-          "url": "https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT"
-        }
-      ],
-      "duration_ms": 205441,
-      "name": "Kota on the plane",
-      "url": "https://open.spotify.com/track/1ezPf36WYFPlWVsROQq73m"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2ZiukKDfRim3Ejy1Cx5nLd"
       },
@@ -1727,22 +1819,6 @@
       "duration_ms": 263111,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "still can't dress myself",
-        "url": "https://open.spotify.com/album/3ekBB4QyJlsoliHV52xHD5"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "still can't dress myself",
-      "url": "https://open.spotify.com/track/2fSk7pxTJlLwtGVmOFBgi0"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1763,58 +1839,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3JlrsCYoxRunymID7f6jR9"
-      },
-      "artists": [
-        {
-          "name": "Merry Lamb Lamb",
-          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/4kUTS1riILDEtv8fagnqdw"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Bad Lines",
-        "url": "https://open.spotify.com/album/4EoeTFWnMAHHnh0NfSlA6o"
-      },
-      "artists": [
-        {
-          "name": "Pangaea",
-          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
-        }
-      ],
-      "duration_ms": 230550,
-      "name": "Bad Lines",
-      "url": "https://open.spotify.com/track/2loO0mL3yxH650l9wq7KKQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "I<3UQTINVU",
-        "url": "https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH"
-      },
-      "artists": [
-        {
-          "name": "Jockstrap",
-          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
-        },
-        {
-          "name": "Taylor Skye",
-          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
-        }
-      ],
-      "duration_ms": 279773,
-      "name": "I Touch",
-      "url": "https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Baby You're A Star",
         "url": "https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a"
       },
@@ -1827,22 +1851,6 @@
       "duration_ms": 141206,
       "name": "Baby You're A Star",
       "url": "https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "No Beyonce",
-        "url": "https://open.spotify.com/album/2fh904Kdz3EYo30qAjFmgY"
-      },
-      "artists": [
-        {
-          "name": "Babyxsosa",
-          "url": "https://open.spotify.com/artist/0z6XSqpMBqmhaRVWduV9HJ"
-        }
-      ],
-      "duration_ms": 170543,
-      "name": "No Beyonce",
-      "url": "https://open.spotify.com/track/7eRc9Lv14DJeIsedPwhxOX"
     }
   ],
   "unique_name": "Mad Decent Weekly",

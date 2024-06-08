@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "8 Years Old",
+        "url": "https://open.spotify.com/album/5DeCSldptKixSNZGnM25jB"
+      },
+      "artists": [
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "8 Years Old",
+      "url": "https://open.spotify.com/track/1Dsee91MSgdtDmO4UNXiJo"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4"
       },
@@ -586,6 +604,24 @@
       "duration_ms": 196242,
       "name": "All Comes Back To You",
       "url": "https://open.spotify.com/track/1XqWSF1yKnKdEkgZ2JWouq"
+    },
+    {
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189966,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "album": {
@@ -1802,6 +1838,24 @@
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/1Qbh6UdiFpmdwRwNty6ISh"
+    },
+    {
+      "album": {
+        "name": "Honeymind",
+        "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251053,
+      "name": "Before I Knew You",
+      "url": "https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g"
     },
     {
       "album": {
@@ -3386,7 +3440,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 216428,
       "name": "Clairvoyant",
       "url": "https://open.spotify.com/track/2UZAHcfnLu59ltFPxp6A7k"
@@ -7970,7 +8024,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
@@ -8530,7 +8584,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
@@ -12470,7 +12524,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 226871,
       "name": "Messed Up Miracle",
       "url": "https://open.spotify.com/track/3JSz2xfoOVZUsSUYOqu1o5"
@@ -17852,6 +17906,24 @@
     {
       "album": {
         "name": "The End",
+        "url": "https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197062,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R"
+    },
+    {
+      "album": {
+        "name": "The End",
         "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
       },
       "artists": [
@@ -18032,7 +18104,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 202720,
       "name": "The Last Bit Of Us",
       "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
@@ -18400,6 +18472,100 @@
       "duration_ms": 197760,
       "name": "This Kind Of Love",
       "url": "https://open.spotify.com/track/3QyyIBuuY8yXlGox5Bhh71"
+    },
+    {
+      "album": {
+        "name": "This Little Light (The Rainbow Collective)",
+        "url": "https://open.spotify.com/album/3rYwaaBPh4B17l6Fo5RquB"
+      },
+      "artists": [
+        {
+          "name": "Theo Tams",
+          "url": "https://open.spotify.com/artist/6Voq6xq7exrhYKhCsSDl3N"
+        },
+        {
+          "name": "Amanda Rheaume",
+          "url": "https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ"
+        },
+        {
+          "name": "Basement Revolver",
+          "url": "https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s"
+        },
+        {
+          "name": "BAYLA",
+          "url": "https://open.spotify.com/artist/4TUs2Hsq6bxtNDW9i4SpHo"
+        },
+        {
+          "name": "Billy Newton-Davis",
+          "url": "https://open.spotify.com/artist/2CeRGWyl6T1oTgjWqAhIUn"
+        },
+        {
+          "name": "Bryn",
+          "url": "https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq"
+        },
+        {
+          "name": "Erica Fox",
+          "url": "https://open.spotify.com/artist/3jKBLafruTI7zGhHFUUsFn"
+        },
+        {
+          "name": "iskw\u0113",
+          "url": "https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420"
+        },
+        {
+          "name": "Jeffery Straker",
+          "url": "https://open.spotify.com/artist/43y45lgRCYYP5B2DVoaAC7"
+        },
+        {
+          "name": "Kayla Diamond",
+          "url": "https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb"
+        },
+        {
+          "name": "memyself&vi",
+          "url": "https://open.spotify.com/artist/0XPSOhKsMhkMtCJN2zdLJb"
+        },
+        {
+          "name": "Micah Barnes",
+          "url": "https://open.spotify.com/artist/5ckJSTboy74aXvngzOfAxU"
+        },
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/4ZOOjUPBNfFHSdx1Cc0ROf"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/0hPr61feo2aoym25Z9biVj"
+        },
+        {
+          "name": "Raymond Salgado",
+          "url": "https://open.spotify.com/artist/5orrbIGHCzPwO47xqdX2BQ"
+        },
+        {
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+        },
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        },
+        {
+          "name": "Steven Taetz",
+          "url": "https://open.spotify.com/artist/3GfJOMpTpwosIPZBK9FlOz"
+        },
+        {
+          "name": "T. Thomason",
+          "url": "https://open.spotify.com/artist/4qW3B9lAaefCiA5m5fUAZg"
+        },
+        {
+          "name": "Tafari Anthony",
+          "url": "https://open.spotify.com/artist/5lo6XXV9M4PS0g4QP5NVfg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235068,
+      "name": "This Little Light - The Rainbow Collective",
+      "url": "https://open.spotify.com/track/1PewA1ZuXWeBSCMn1KqQJq"
     },
     {
       "album": {

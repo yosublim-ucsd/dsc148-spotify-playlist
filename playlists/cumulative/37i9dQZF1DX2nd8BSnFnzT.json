@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Ananda, DAY LIMNS",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Leonardo Ramos \u2764\ufe0f Isa Salles, Andre D\u00e9a \u2764\ufe0f Carol Navarro, Paulo Vaz \u2764\ufe0f \ud83d\udd6f\ufe0f\ud83d\ude2c",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 224477,
       "name": "Enfrente",
       "url": "https://open.spotify.com/track/3wmOTnWCQhf6URs91lxjFi"
@@ -4808,7 +4808,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200670,
       "name": "Minha Mulher (Demo Aa 2002)",
       "url": "https://open.spotify.com/track/4FF04gTcWUXNme7g5FEEhp"
@@ -6300,6 +6300,24 @@
       "duration_ms": 121775,
       "name": "Pegada Colada",
       "url": "https://open.spotify.com/track/0iQCjbuMMyeOCZtnKJcdQu"
+    },
+    {
+      "album": {
+        "name": "Pegasus Fantasy",
+        "url": "https://open.spotify.com/album/5QfODrMnD85VwCcrKb8GrN"
+      },
+      "artists": [
+        {
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Pegasus Fantasy",
+      "url": "https://open.spotify.com/track/5ljfOnPqCGc6iXqdIE0eN7"
     },
     {
       "album": {
@@ -8002,6 +8020,24 @@
       "duration_ms": 166683,
       "name": "Tempo de Brincar",
       "url": "https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp"
+    },
+    {
+      "album": {
+        "name": "Tempo de Tela",
+        "url": "https://open.spotify.com/album/3pK1obFYj3IV7HgEDhww6g"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Tempo de Tela",
+      "url": "https://open.spotify.com/track/2kHdQMiVVY3rlYo6H3x2Np"
     },
     {
       "album": {

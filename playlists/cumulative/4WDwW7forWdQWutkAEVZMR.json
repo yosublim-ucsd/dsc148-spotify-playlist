@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring TREASURE, Miley Cyrus, and more! Cover: TREASURE",
+  "description": "Your go-to playlist for this week's hottest music featuring Halsey, Miley Cyrus, and more! Cover: Koe Wetzel &amp; Jessie Murph",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 183000,
       "name": "Dirt On Us",
       "url": "https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws"
@@ -5459,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "album": {
         "name": "Give You What You Want",
         "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
       },
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162022,
       "name": "GOOD AS YOU",
       "url": "https://open.spotify.com/track/1nic0oEInWjHWGS8OGHhpr"
@@ -5768,6 +5786,24 @@
       "duration_ms": 186320,
       "name": "happy f***ing birthday",
       "url": "https://open.spotify.com/track/06oe6KMQ6RkTUDUQzAnyH4"
+    },
+    {
+      "album": {
+        "name": "DON'T MIND MY MIND",
+        "url": "https://open.spotify.com/album/6bOxQ5E3NBP7fzpplDBEZh"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "happy for me",
+      "url": "https://open.spotify.com/track/3G8hpRJOyDeN6Wf4NlDxKm"
     },
     {
       "album": {
@@ -6035,6 +6071,28 @@
     },
     {
       "album": {
+        "name": "High Road (feat. Jessie Murph)",
+        "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "High Road (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
+    },
+    {
+      "album": {
         "name": "Highlight Reel",
         "url": "https://open.spotify.com/album/3qPqqUNcSBocvzi6MXhrtW"
       },
@@ -6228,6 +6286,24 @@
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
+    },
+    {
+      "album": {
+        "name": "hungover",
+        "url": "https://open.spotify.com/album/1BLYk8Knw5UEM3ocztYIgP"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "hungover",
+      "url": "https://open.spotify.com/track/3xV8E5SXUN3rX9fmrNvLhP"
     },
     {
       "album": {
@@ -7801,6 +7877,24 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/3rUAJkxNvm0olHdthZnDSB"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176658,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/5VbZRQxhOxUzehxgAWeGWI"
+    },
+    {
+      "album": {
         "name": "let's pretend we're numb",
         "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
       },
@@ -8298,7 +8392,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 136700,
       "name": "Mad At Me (feat. Lil Tony Official)",
       "url": "https://open.spotify.com/track/5r4Yov7itu9I0Ybx7ScoG0"
@@ -8320,6 +8414,24 @@
       "duration_ms": 137158,
       "name": "Magic Johnson",
       "url": "https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5"
+    },
+    {
+      "album": {
+        "name": "MAKE IT ALRIGHT",
+        "url": "https://open.spotify.com/album/1Mb8rxB7iohHzuuqgZMDXi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165892,
+      "name": "MAKE IT ALRIGHT",
+      "url": "https://open.spotify.com/track/1vt3Ho3un5ZU9ZQ9McWGML"
     },
     {
       "album": {
@@ -8374,6 +8486,24 @@
       "duration_ms": 238813,
       "name": "man",
       "url": "https://open.spotify.com/track/5Hx1C1ik2gQpoztd8fstot"
+    },
+    {
+      "album": {
+        "name": "Man on the Moon",
+        "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187017,
+      "name": "Man on the Moon",
+      "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
     },
     {
       "album": {
@@ -9408,7 +9538,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 150927,
       "name": "NO DEAL",
       "url": "https://open.spotify.com/track/0QYlXTPd1h0HzQtrzQKufd"
@@ -10734,7 +10864,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 170812,
       "name": "QUIET COMPANY",
       "url": "https://open.spotify.com/track/35PVngoOf0GRd6t3nyaYkm"
@@ -10840,6 +10970,24 @@
       "duration_ms": 195706,
       "name": "Reason For Leaving",
       "url": "https://open.spotify.com/track/2K3HTRLY0nnpoKbXDY1Nnv"
+    },
+    {
+      "album": {
+        "name": "Release (Original Music From The Motion Picture TRAP)",
+        "url": "https://open.spotify.com/album/45VZ6dWVygQVlYqonfopAf"
+      },
+      "artists": [
+        {
+          "name": "Saleka",
+          "url": "https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198756,
+      "name": "Release - Original Music From The Motion Picture TRAP",
+      "url": "https://open.spotify.com/track/6c2EpAuvFIbBIWQHt4Pf8z"
     },
     {
       "album": {
@@ -11211,6 +11359,24 @@
     },
     {
       "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/2opRdbxS5oq0ArltfEUFq4"
+      },
+      "artists": [
+        {
+          "name": "Lil Scoom89",
+          "url": "https://open.spotify.com/artist/5p56M9Zj9oNwDEEjGWWJ2T"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114426,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/3alqKeCjYnhOVYpuxUviCf"
+    },
+    {
+      "album": {
         "name": "shoulder to cry on",
         "url": "https://open.spotify.com/album/3D2fXhn6phXOpLVdHSsM86"
       },
@@ -11414,6 +11580,24 @@
       "duration_ms": 79884,
       "name": "Smarter Than Ever",
       "url": "https://open.spotify.com/track/2e6SS6ZncNocBJhSSkXnQP"
+    },
+    {
+      "album": {
+        "name": "Born Lonely",
+        "url": "https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR"
     },
     {
       "album": {
@@ -12479,6 +12663,24 @@
     },
     {
       "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197062,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R"
+    },
+    {
+      "album": {
         "name": "So Far So Good (+ The Fall)",
         "url": "https://open.spotify.com/album/2IRmdXQtVBxUdicuQfSaSB"
       },
@@ -12882,6 +13084,24 @@
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "album": {
+        "name": "To Me She a 10",
+        "url": "https://open.spotify.com/album/7Jtt0BEucqnGeZfq2O4J9c"
+      },
+      "artists": [
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110968,
+      "name": "To Me She a 10",
+      "url": "https://open.spotify.com/track/35VDn7JN8LemuEOi25Hlf1"
     },
     {
       "album": {
@@ -13702,6 +13922,24 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head (they said)",
+        "url": "https://open.spotify.com/album/2vVIIR716RsKc3oQGYBeAS"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159255,
+      "name": "Voices In My Head (they said)",
+      "url": "https://open.spotify.com/track/3f9nTQqunLHoHQjE4jtdsk"
     },
     {
       "album": {

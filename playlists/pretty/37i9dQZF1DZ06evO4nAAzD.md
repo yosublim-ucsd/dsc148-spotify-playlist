@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 ### [This Is Hyperanhas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nAAzD)
 
-> This is Hyperanhas\. Todos os maiores hits em uma só playlist.
+> This is Hyperanhas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,615 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,619 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 49 | [Ta Bom](https://open.spotify.com/track/46UPP4xynkI9HDt6zK4dhq) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Ta Bom](https://open.spotify.com/album/5LpQKXsKsJWAGYjk2bdzkl) | 2:54 |
 | 50 | [Time dos Sonhos](https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC Charada](https://open.spotify.com/artist/3dbwE7BndV7CQ3m7XkphXv), [Mc Daniel](https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Time dos Sonhos](https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5) | 6:51 |
 
-Snapshot ID: `Zl+qgAAAAACU7g9VdalRsM3MPdb+zJC2`
+Snapshot ID: `Zl+qgAAAAAC8iPKU3qwI8v3Rqd1ldw1x`

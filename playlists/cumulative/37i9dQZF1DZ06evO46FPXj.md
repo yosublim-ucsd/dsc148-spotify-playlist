@@ -2,7 +2,7 @@
 
 ### [This Is Autechre](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46FPXj)
 
-> This is Autechre\. Todos os maiores hits em uma só playlist.
+> This Is Autechre\. Les titres incontournables, réunis dans une seule et même playlist.
 
 220 songs - 1 day 1 hr 29 min
 

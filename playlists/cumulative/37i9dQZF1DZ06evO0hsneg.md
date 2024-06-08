@@ -2,7 +2,7 @@
 
 ### [This Is Ramengvrl](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hsneg)
 
-> This is Ramengvrl\. The essential tracks, all in one playlist.
+> This is Ramengvrl\. Todos os maiores hits em uma só playlist.
 
 44 songs - 2 hr 19 min
 

@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: That Mexican OT
 
-404 songs - 18 hr 51 min
+405 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Breeze](https://open.spotify.com/track/4AN8pvSD3HgwqydO8xAyrU) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [West Coast](https://open.spotify.com/album/7DKCyo6tF5srXozTAL8C0z) | 2:31 | 2022-01-10 | 2022-07-07 |
 | [Broke Bitch](https://open.spotify.com/track/30lOHLMJRUCxc1W5DOMUfW) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Broke Bitch](https://open.spotify.com/album/32pb7GbOHcoFllJFTLPZi4) | 2:07 | 2022-09-11 | 2023-01-28 |
 | [Broken Enough](https://open.spotify.com/track/37jDkd3aFJE0ZGoLQpdMTp) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Broken Enough](https://open.spotify.com/album/6hEdQPrR8iZXM3fzQkGUXh) | 2:59 | 2024-01-08 | 2024-05-22 |
+| [Buck Fifty Freestyle](https://open.spotify.com/track/2aeusVXjZQKXRd11DlM6fv) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [The Last Temptation](https://open.spotify.com/album/5TKNjpazO9toaj3G8Gg7I0) | 1:48 | 2024-06-07 |  |
 | [Burnt Out](https://open.spotify.com/track/5Gq3Gyl7EnSZ36rRsl61PX) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Burnt Out](https://open.spotify.com/album/6ydurOZvMy7EAwCGVSGtGs) | 3:41 | 2022-01-10 | 2022-02-26 |
 | [Business](https://open.spotify.com/track/19jjMLKWsMToP26n5DZO45) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Business](https://open.spotify.com/album/3dqpUnvUkce6byO27lPrqc) | 2:11 | 2022-01-10 | 2022-07-07 |
 | [Buzz](https://open.spotify.com/track/6vDAKhpTeRBX07ZOoWC3Gb) | [N Dub](https://open.spotify.com/artist/4K9ETzKnRQBpMTSZ9t7fWO) | [Buzz](https://open.spotify.com/album/7bWKXB8II0pn3lnP3TGL4V) | 2:48 | 2022-01-10 | 2022-07-07 |

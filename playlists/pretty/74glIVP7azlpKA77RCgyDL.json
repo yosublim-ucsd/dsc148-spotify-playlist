@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Bad Omens",
-  "num_followers": 8574,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Poppy",
+  "num_followers": 8581,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMLF2DLim3AJlJdKdq6pAqrJjev47R",
+  "snapshot_id": "AAAMNETEYP56U/6ISoL2OorT2CFyX23O",
   "tracks": [
+    {
+      "added_at": "2024-06-07 19:48:12",
+      "album": {
+        "name": "New Way Out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "New Way Out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "added_at": "2024-06-07 19:48:28",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM"
+      },
+      "artists": [
+        {
+          "name": "The Jesus Lizard",
+          "url": "https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa"
+        }
+      ],
+      "duration_ms": 184562,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL"
+    },
+    {
+      "added_at": "2024-06-07 19:48:41",
+      "album": {
+        "name": "Wounds Never Healed",
+        "url": "https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Wounds Never Healed",
+      "url": "https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2"
+    },
+    {
+      "added_at": "2024-06-07 19:48:53",
+      "album": {
+        "name": "We Know the Score",
+        "url": "https://open.spotify.com/album/3JCjnhwMA1BcnJtygujjIF"
+      },
+      "artists": [
+        {
+          "name": "Stand Still",
+          "url": "https://open.spotify.com/artist/7Ep4mjRwM3fETDvQE9gZPb"
+        },
+        {
+          "name": "Pain of Truth",
+          "url": "https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql"
+        }
+      ],
+      "duration_ms": 147394,
+      "name": "We Know the Score",
+      "url": "https://open.spotify.com/track/4QvqNvGxSXTywCFV03ALU4"
+    },
+    {
+      "added_at": "2024-06-07 19:49:05",
+      "album": {
+        "name": "Fatalist",
+        "url": "https://open.spotify.com/album/4I2112nHeCLwTEb4xkUowx"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Fatalist",
+      "url": "https://open.spotify.com/track/3w1pnSv8B46NVsias65E1L"
+    },
+    {
+      "added_at": "2024-06-07 19:49:26",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "duration_ms": 284456,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7"
+    },
     {
       "added_at": "2024-05-31 19:22:18",
       "album": {

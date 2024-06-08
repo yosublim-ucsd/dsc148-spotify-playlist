@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con The Mar\u00edas.",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Alvaro Diaz.",
   "name": "Mixto",
   "tracks": [
     {
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 181013,
       "name": "EN PR NO HACE FR\u00cdO",
       "url": "https://open.spotify.com/track/5p5uABIXqSPdQ1vMz4bwAu"
@@ -5484,7 +5484,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
@@ -6420,7 +6420,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 229549,
       "name": "la manera que me ves",
       "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
@@ -7502,6 +7502,28 @@
       "duration_ms": 156473,
       "name": "Mama Guela",
       "url": "https://open.spotify.com/track/7KuMbaHElNFVt7Lw4aHFOZ"
+    },
+    {
+      "album": {
+        "name": "MAMI 100PRE SABE (INTERLUDE)",
+        "url": "https://open.spotify.com/album/02U7QUnz3HGzH2NRSsfUUt"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137933,
+      "name": "MAMI 100PRE SABE (INTERLUDE)",
+      "url": "https://open.spotify.com/track/35rRaw5fX2QGUqhmpAmfor"
     },
     {
       "album": {
@@ -8966,7 +8988,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 185667,
       "name": "no es culpa m\u00eda",
       "url": "https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I"
@@ -11702,6 +11724,24 @@
       "duration_ms": 242980,
       "name": "SINCERA TE",
       "url": "https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt"
+    },
+    {
+      "album": {
+        "name": "SINSE",
+        "url": "https://open.spotify.com/album/66cKdChDYqBYS0vMWg7eY4"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "SINSE",
+      "url": "https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK"
     },
     {
       "album": {

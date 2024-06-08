@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Don't Stay",
+        "url": "https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW"
+      },
+      "artists": [
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7"
+    },
+    {
+      "album": {
         "name": "Kengan Ashura Original Soundtrack",
         "url": "https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD"
       },
@@ -494,6 +512,24 @@
       "duration_ms": 100120,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/4PY97Kx3Y5DPH45Ea0kw3M"
+    },
+    {
+      "album": {
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
     },
     {
       "album": {

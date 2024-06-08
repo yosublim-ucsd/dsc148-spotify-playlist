@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Yeri Kang(\uac15\uc608\ub9ac))",
+  "description": "All about Korean Jazz hits & new (Cover: Ahn Ye Sol(\uc548\uc608\uc194))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -190,6 +190,24 @@
       "duration_ms": 263283,
       "name": "actually i`m from jazz",
       "url": "https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW"
+    },
+    {
+      "album": {
+        "name": "Align",
+        "url": "https://open.spotify.com/album/3f1jSHpnppamEsMTYJYId8"
+      },
+      "artists": [
+        {
+          "name": "\uc548\uc608\uc194",
+          "url": "https://open.spotify.com/artist/3OqUywgeOGuCnfA8P2XlKB"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335198,
+      "name": "Align",
+      "url": "https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd"
     },
     {
       "album": {
@@ -945,6 +963,24 @@
     },
     {
       "album": {
+        "name": "DUO",
+        "url": "https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "DUO",
+      "url": "https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp"
+    },
+    {
+      "album": {
         "name": "END AND (Feat. Nicola Sergio)",
         "url": "https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr"
       },
@@ -1000,6 +1036,24 @@
       "duration_ms": 213000,
       "name": "Eollebit",
       "url": "https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb"
+      },
+      "artists": [
+        {
+          "name": "Ellie Lee",
+          "url": "https://open.spotify.com/artist/4tjf3R0z1fqvExRMTz5ZnC"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352960,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD"
     },
     {
       "album": {
@@ -2612,6 +2666,24 @@
       "duration_ms": 200000,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
+    },
+    {
+      "album": {
+        "name": "One latte",
+        "url": "https://open.spotify.com/album/4WEKKqCVSgvbd25TaiJxOp"
+      },
+      "artists": [
+        {
+          "name": "Min Sei hui",
+          "url": "https://open.spotify.com/artist/1l22lGI1hDbXE4F1iDFk7q"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Sugar Sweet",
+      "url": "https://open.spotify.com/track/5AByPt6g5Up72n6XKVJOda"
     },
     {
       "album": {

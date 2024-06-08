@@ -2,7 +2,7 @@
 
 ### [This Is Jonas Blue](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S)
 
-> This Is Jonas Blue\. Los temas esenciales, todos en una lista.
+> This is Jonas Blue\. The essential tracks, all in one playlist.
 
 64 songs - 3 hr 25 min
 

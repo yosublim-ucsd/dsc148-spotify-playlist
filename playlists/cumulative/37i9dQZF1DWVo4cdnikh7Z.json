@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 147157,
       "name": "Aiyayayo",
       "url": "https://open.spotify.com/track/7E9ZvVVnADvXk3dte3dLuY"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174104,
       "name": "Asaraadhe",
       "url": "https://open.spotify.com/track/0vT7vsaiBkCkFu1RY4n52A"
@@ -7394,7 +7394,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 196350,
       "name": "Eriyum Theepizhambu",
       "url": "https://open.spotify.com/track/2MRx3Lz6wIBm6g82DTsqkL"
@@ -13360,7 +13360,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 236025,
       "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/65mFo8Otbl5FBsg82kWsWR"
@@ -14864,7 +14864,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 261653,
       "name": "Maja Wedding (From \"DeAr\")",
       "url": "https://open.spotify.com/track/1c7Rr4RUr9KgJTqRgZiRTy"
@@ -19995,6 +19995,40 @@
     },
     {
       "album": {
+        "name": "Garudan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5znc6AjRR30yU7gS55tWAl"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sam",
+          "url": "https://open.spotify.com/artist/5n75ndZT0hJ9VNkMdaaTTX"
+        },
+        {
+          "name": "Velu",
+          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Aravind",
+          "url": "https://open.spotify.com/artist/2K4egCaYvo8DzUa3T5Al4K"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258782,
+      "name": "Othapada Veriyattam",
+      "url": "https://open.spotify.com/track/22YDT7hMvU88LQGSKepwL1"
+    },
+    {
+      "album": {
         "name": "Otti Vaaraney (From \"80's Buildup\")",
         "url": "https://open.spotify.com/album/7AmWYvsFVsuQ3ROhlpDPYP"
       },
@@ -20338,7 +20372,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 215942,
       "name": "Paavai",
       "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"
@@ -20642,6 +20676,24 @@
       "duration_ms": 246000,
       "name": "Paniththuli",
       "url": "https://open.spotify.com/track/4kAPPLHQaAzKBjhgURUYKL"
+    },
+    {
+      "album": {
+        "name": "Garudan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5znc6AjRR30yU7gS55tWAl"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164542,
+      "name": "Panjavarna Kiliye",
+      "url": "https://open.spotify.com/track/3wxHHaXJax2h7iyOLOdbrp"
     },
     {
       "album": {
@@ -21598,7 +21650,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 182807,
       "name": "Polam Polam ride",
       "url": "https://open.spotify.com/track/7fJ1JQpC3SABvWTwByGXsY"
@@ -28076,7 +28128,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 222766,
       "name": "Un Azhagai Rasithu",
       "url": "https://open.spotify.com/track/2JXQEzgyJrPYohFDjqHAaA"
@@ -28614,7 +28666,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 158441,
       "name": "Urai Pani Naan",
       "url": "https://open.spotify.com/track/3eNnSK6LzYyBmFks54MYPv"
@@ -31022,7 +31074,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 198064,
       "name": "We Are The Teenz",
       "url": "https://open.spotify.com/track/060LfGNxONttbFIilya7U4"
@@ -31170,6 +31222,44 @@
       "duration_ms": 243000,
       "name": "Who Am I ?",
       "url": "https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI"
+    },
+    {
+      "album": {
+        "name": "World Cup Cricket Anthem (Composer's Edition)",
+        "url": "https://open.spotify.com/album/5svmQdJA1SKR1u6krN4bgB"
+      },
+      "artists": [
+        {
+          "name": "Raksheet Ramesh",
+          "url": "https://open.spotify.com/artist/1SQEW8b7rB9GPsCBg27YsI"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Rahul Vishwa",
+          "url": "https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu"
+        },
+        {
+          "name": "MaPi Rapz",
+          "url": "https://open.spotify.com/artist/1o0LANvTHGyMSfAClJpHE1"
+        },
+        {
+          "name": "Megha Mohan",
+          "url": "https://open.spotify.com/artist/70Aloa60EXT9tjCgZF8DBG"
+        },
+        {
+          "name": "Kamali Sathyamurthi",
+          "url": "https://open.spotify.com/artist/7FYGjkMHgFBcu9RiAxirgV"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201211,
+      "name": "World Cup Cricket Anthem - Composer's Edition",
+      "url": "https://open.spotify.com/track/1Ngs3eCQcxApDhxoVvL37U"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Rels B en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Maluma y Blessd en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 138485,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
@@ -1196,6 +1196,28 @@
       "duration_ms": 202528,
       "name": "Caliope",
       "url": "https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS"
+    },
+    {
+      "album": {
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
     },
     {
       "album": {
@@ -1990,6 +2012,28 @@
       "duration_ms": 198000,
       "name": "Destino",
       "url": "https://open.spotify.com/track/1h3O9kqjPGkMYOtNNR7q3z"
+    },
+    {
+      "album": {
+        "name": "DIME C\u00d3MO HACER",
+        "url": "https://open.spotify.com/album/6kYWm4x6I4BKaUTdJxCGCp"
+      },
+      "artists": [
+        {
+          "name": "Karla Breu",
+          "url": "https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1"
+        },
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "DIME C\u00d3MO HACER",
+      "url": "https://open.spotify.com/track/3VKP3ukqYj9lHvA3JdP734"
     },
     {
       "album": {
@@ -3375,6 +3419,28 @@
     },
     {
       "album": {
+        "name": "Krusty",
+        "url": "https://open.spotify.com/album/2J7N9LFYEc6ftSDGEj45VF"
+      },
+      "artists": [
+        {
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+        },
+        {
+          "name": "HANASHA",
+          "url": "https://open.spotify.com/artist/1KebHbISUKPOuXBjjCs5N6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205970,
+      "name": "Krusty",
+      "url": "https://open.spotify.com/track/7h8TjCOytFI0l1ZZnYfL0w"
+    },
+    {
+      "album": {
         "name": "La Baby",
         "url": "https://open.spotify.com/album/6sowfPq2DeL2VDArb7pUlj"
       },
@@ -3976,7 +4042,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 170000,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/6NO62oYyAyVOAlYbvQCTjN"
@@ -5274,7 +5340,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 155730,
       "name": "Odio Perder",
       "url": "https://open.spotify.com/track/4Pj2PU2O4txl0MOx7CNB0z"
@@ -6206,7 +6272,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 182500,
       "name": "Room 302",
       "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
@@ -6955,6 +7021,28 @@
     },
     {
       "album": {
+        "name": "TESTIGOS",
+        "url": "https://open.spotify.com/album/0BUC1JOEm1kk8nYOpHfKOp"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "TESTIGOS",
+      "url": "https://open.spotify.com/track/4IWTNhnNmYMEXE48DclSnG"
+    },
+    {
+      "album": {
         "name": "THICK",
         "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
       },
@@ -7146,6 +7234,24 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "album": {
+        "name": "Canciones que te hice para el fin del mundo",
+        "url": "https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Tuuu",
+      "url": "https://open.spotify.com/track/7LuHyWjXwdmxxmFl9g3H68"
     },
     {
       "album": {
@@ -7418,7 +7524,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 153132,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"

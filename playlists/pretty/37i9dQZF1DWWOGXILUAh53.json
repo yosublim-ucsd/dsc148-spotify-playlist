@@ -1,15 +1,111 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: YouNotUs & Laurell ",
-  "num_followers": 166734,
+  "description": "The hottest new pop with all the drops. Cover: Confidence Man",
+  "num_followers": 167050,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zln6bAAAAABlbv3UeKTSx4Km+aoUubYl",
+  "snapshot_id": "ZmKFwAAAAAD7LvCsaWi5g98VD/1oFmNr",
   "tracks": [
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I CAN'T LOSE YOU",
+        "url": "https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 155343,
+      "name": "I CAN\u2019T LOSE YOU",
+      "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Ten (Get Back Up)",
+        "url": "https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "Ten (Get Back Up)",
+      "url": "https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Less of You",
+        "url": "https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Less of You",
+      "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Man In Finance",
+        "url": "https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 113595,
+      "name": "Man In Finance",
+      "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Only Way Is Up (feat. Izzy Bizu)",
+        "url": "https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 149816,
+      "name": "Only Way Is Up (feat. Izzy Bizu)",
+      "url": "https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/67VEaL9NMeOlIxz6V2vMvl"
@@ -29,7 +125,43 @@
       "url": "https://open.spotify.com/track/7qog6LJrOFEyELxP00x2lc"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 157595,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Under The Sun (with Alok)",
         "url": "https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I"
@@ -53,7 +185,27 @@
       "url": "https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Stay The Weekend (feat. Uffie)",
+        "url": "https://open.spotify.com/album/365Ua66eIkbBRD48k0uRTE"
+      },
+      "artists": [
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        }
+      ],
+      "duration_ms": 162938,
+      "name": "Stay The Weekend (feat. Uffie)",
+      "url": "https://open.spotify.com/track/0ZSN8Z0gcBJjVJFYYlpf9U"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Without You (with HAYLA)",
         "url": "https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk"
@@ -73,7 +225,23 @@
       "url": "https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 161757,
+      "name": "Talk talk",
+      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Multiply",
         "url": "https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75"
@@ -89,7 +257,7 @@
       "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -105,7 +273,31 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "She\u2019s Gone, Dance On",
         "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
@@ -121,7 +313,7 @@
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "DiGiTAL HEARTBEAT",
         "url": "https://open.spotify.com/album/2tff7jYFhyVpxVaz7iOng8"
@@ -137,7 +329,27 @@
       "url": "https://open.spotify.com/track/0CZyUC8152Mc40d8On1ryQ"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Chromatic",
+        "url": "https://open.spotify.com/album/5MNSUiIcRSdUhiyumzPDB3"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Higher Up",
+      "url": "https://open.spotify.com/track/0B9CS0dve3MmaA4RrmJ5n8"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "MAGNET (with MAX)",
         "url": "https://open.spotify.com/album/27RxJ1eplbfpUmIX529vcu"
@@ -161,7 +373,39 @@
       "url": "https://open.spotify.com/track/7yaU5ku53ZS7bmivN9ZYzg"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Chase It (Mmm Da Da Da)",
         "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
@@ -177,7 +421,7 @@
       "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Smalltown Boy (ABSOLUTE. Rework)",
         "url": "https://open.spotify.com/album/1Qs7QPYv5dAIzqB5fd9Sbu"
@@ -197,7 +441,7 @@
       "url": "https://open.spotify.com/track/0jBjyDKWlePGqoLIi54XuW"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "LUBE // WET DREAM",
         "url": "https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy"
@@ -213,7 +457,7 @@
       "url": "https://open.spotify.com/track/63Bw40ft3CFElVuZqiVBfH"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF"
@@ -241,47 +485,7 @@
       "url": "https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Throw Some Ass",
-        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 182423,
-      "name": "Throw Some Ass",
-      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "If U Want Me",
         "url": "https://open.spotify.com/album/4u6d52P49fIgGPBEljxhkG"
@@ -297,7 +501,7 @@
       "url": "https://open.spotify.com/track/3IHmHyrPhfrzhcPmpvXmai"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/0JrdpEVSn9aMA47220OsSW"
@@ -317,7 +521,7 @@
       "url": "https://open.spotify.com/track/07nXqVabHMcScDmkMkU8on"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
@@ -341,7 +545,7 @@
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Ain't No Mountain High Enough (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/5VhmPTh8i3AVMWlGS9qxUX"
@@ -361,7 +565,7 @@
       "url": "https://open.spotify.com/track/0PBtJBbPvkMqPDql30Ig7i"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Summer Dreaming",
         "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
@@ -381,7 +585,7 @@
       "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/4D7zQeGF6jNh2zaJmvVnuu"
@@ -409,7 +613,7 @@
       "url": "https://open.spotify.com/track/1KSknsaLLPqWKLlVRSu8BA"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
         "url": "https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ"
@@ -433,7 +637,7 @@
       "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "True Colours",
         "url": "https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3"
@@ -453,7 +657,7 @@
       "url": "https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "feelings don't lie",
         "url": "https://open.spotify.com/album/7Dl3d5p3H4vp1DKkXifeRm"
@@ -473,7 +677,7 @@
       "url": "https://open.spotify.com/track/3lqamRh4EILIDACnAbl35t"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Another Lover (feat. Adam Lambert)",
         "url": "https://open.spotify.com/album/7tmVuvGN1c60CZqIKehVlD"
@@ -493,7 +697,7 @@
       "url": "https://open.spotify.com/track/67rYj7BSJhALJXlvAabmyx"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
         "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
@@ -509,7 +713,7 @@
       "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Go Back (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
@@ -533,7 +737,7 @@
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "La dadi",
         "url": "https://open.spotify.com/album/2RpsmC0H0Ozk7wUmTsbbhD"
@@ -549,23 +753,7 @@
       "url": "https://open.spotify.com/track/5kbHPzyUI8hvNWGP6xBKcV"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Rental",
         "url": "https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da"
@@ -581,7 +769,7 @@
       "url": "https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
@@ -601,7 +789,7 @@
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/5B5bNotk4KQ4MlwZfzBtXM"
@@ -617,7 +805,7 @@
       "url": "https://open.spotify.com/track/15vFR8puc7KZ1YvTWP23A7"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Here For You",
         "url": "https://open.spotify.com/album/1tSna2Pmy70jXDKkDyDEgC"
@@ -637,7 +825,7 @@
       "url": "https://open.spotify.com/track/786y4wbIGJbKului9oWr1l"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE"
@@ -657,7 +845,7 @@
       "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Rx",
         "url": "https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx"
@@ -677,7 +865,7 @@
       "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Supposed To Be",
         "url": "https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x"
@@ -693,7 +881,7 @@
       "url": "https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Believe It (with Madeon)",
         "url": "https://open.spotify.com/album/19wYBYcGqvKbpmuUz8YFuA"
@@ -713,7 +901,7 @@
       "url": "https://open.spotify.com/track/5glaxT4IXZtym1ea6RFW49"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "From the Islands (kompa pasi\u00f3n)",
         "url": "https://open.spotify.com/album/4puJZ96BIL5HkYnx8lhe6J"
@@ -737,7 +925,7 @@
       "url": "https://open.spotify.com/track/6a6nqomE4fMYo0ESHhKZRv"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/40kco9oNW5oNHXyUXf1TUF"
@@ -757,7 +945,7 @@
       "url": "https://open.spotify.com/track/3QzY4x5erz3p64k9KNukV4"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "cuz of you",
         "url": "https://open.spotify.com/album/3mQvHPus1LaiRBZVM07Zwu"
@@ -777,7 +965,7 @@
       "url": "https://open.spotify.com/track/3wPfvHpzDLXyyEW33KFFis"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/2TDDTSE6n30E0ZYgBGeIRL"
@@ -793,7 +981,7 @@
       "url": "https://open.spotify.com/track/0WlbKq1FQCKTpP82jSc37u"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Unsure",
         "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
@@ -813,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0QUavh8qOxWeGutYZHgymz"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Feel The Way I Do",
         "url": "https://open.spotify.com/album/4uvV6jwAhBG8asvByRkZ0Y"
@@ -829,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5Bhj1Piso0TmUsmkyvy6kG"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "BET",
         "url": "https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ"
@@ -845,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/3jAzhfivp48sZJRnB1P87z"
@@ -865,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3y5k4YAFvknch51j0UtMIA"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Take The Night",
         "url": "https://open.spotify.com/album/2tY6pCWVOpgsg1jXiQaxFf"
@@ -881,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1TEDQhTzHs7RSi0jN78pgT"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
@@ -897,7 +1085,7 @@
       "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/0LWP67zCgd6X3cP7dcSMMB"
@@ -917,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2EVfXWxhsdR4izZEhfJNRq"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Bambola",
         "url": "https://open.spotify.com/album/4yuvVNeV3g2eavxqmut25m"
@@ -937,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5RTtx4D4w29MlufofiIikv"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/7uwiI4UQzJztCVZROBvdAZ"
@@ -953,7 +1141,7 @@
       "url": "https://open.spotify.com/track/0ovbxIsoy2Wh39QUuz1F3X"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Enjoy Youth",
         "url": "https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6"
@@ -973,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6spRj05xhTIuZQK9l8XQMO"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Fire (Official UEFA EURO 2024 Song)",
         "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
@@ -997,7 +1185,7 @@
       "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Youngblood (feat. Josh Breaks)",
         "url": "https://open.spotify.com/album/31LNPzSfHfwCyKqSEJr3KP"
@@ -1017,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1FgMrAXjFDiTYf9uzoFYLg"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Waiting For Tonight",
         "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
@@ -1037,7 +1225,7 @@
       "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K"
@@ -1053,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Locked In Your Love",
         "url": "https://open.spotify.com/album/3BipOxC6qIGHbO9RjQmGV3"
@@ -1073,7 +1261,7 @@
       "url": "https://open.spotify.com/track/7mGChOdF97ReKEDZmxQk8B"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Spin Me Round",
         "url": "https://open.spotify.com/album/01RdH7Z0VmRNZnQsM7WAgV"
@@ -1093,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4MgX84B2zGTkyUMt31cB3i"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/6BfoGzmHPWCL2DqWhehAcv"
@@ -1113,7 +1301,7 @@
       "url": "https://open.spotify.com/track/70H0AMIuTm0brh3hznKvFu"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Sacrifice Tomorrow",
         "url": "https://open.spotify.com/album/0GVkcfu3pkAdakG3oIt5cu"
@@ -1129,7 +1317,7 @@
       "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "So High (feat. Jake Neumar)",
         "url": "https://open.spotify.com/album/1eVu0SrVlIWX3DZ2Dv3ukq"
@@ -1149,7 +1337,7 @@
       "url": "https://open.spotify.com/track/71sRb28zCnX53agrl1nerV"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS"
@@ -1165,7 +1353,7 @@
       "url": "https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
@@ -1185,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "BIG UP",
         "url": "https://open.spotify.com/album/0iTK7j6vohHdBI7DwdUf1d"
@@ -1201,7 +1389,7 @@
       "url": "https://open.spotify.com/track/78QfJ1zk7Tae5gTOHFI6I2"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Out My Head",
         "url": "https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln"
@@ -1221,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
@@ -1241,7 +1429,7 @@
       "url": "https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "dive /stay/",
         "url": "https://open.spotify.com/album/40F183249X27nHVY2QmCal"
@@ -1261,7 +1449,7 @@
       "url": "https://open.spotify.com/track/41nkDiPZ1lOq90wnmJoL1L"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
@@ -1277,7 +1465,7 @@
       "url": "https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ"
@@ -1301,7 +1489,7 @@
       "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ"
@@ -1321,7 +1509,7 @@
       "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Cicadas",
         "url": "https://open.spotify.com/album/514A89AJBBRebXUNUTVlES"
@@ -1341,71 +1529,7 @@
       "url": "https://open.spotify.com/track/3vtqI9PL64e3QEZNH7M6yF"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Know Me Better",
-        "url": "https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u"
-      },
-      "artists": [
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        },
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        }
-      ],
-      "duration_ms": 176148,
-      "name": "Know Me Better",
-      "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "MAGIC (feat. babyidontlikeyou)",
-      "url": "https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Animal (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "My Oh My",
         "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
@@ -1421,7 +1545,7 @@
       "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
@@ -1441,7 +1565,7 @@
       "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "To The Beat",
         "url": "https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au"
@@ -1477,7 +1601,7 @@
       "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3kjxjnNjxrMK8vdiy7Mpfo"
@@ -1501,39 +1625,7 @@
       "url": "https://open.spotify.com/track/1nk18tNMS3nNWutUXGicMb"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Girls Love Boys Love",
-        "url": "https://open.spotify.com/album/5Thi8M2B5gDh5lpe85Jt6b"
-      },
-      "artists": [
-        {
-          "name": "secs on the beach",
-          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
-        }
-      ],
-      "duration_ms": 122628,
-      "name": "Girls Love Boys Love",
-      "url": "https://open.spotify.com/track/4Rt4EPBXM47YNOjIy5xysR"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/6DGrI713EXcK6yTZkjIEQt"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/5ZZgCoy0Bvg6HUA1PaWzcA"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Sinceramente (Bob Sinclar Remix)",
         "url": "https://open.spotify.com/album/5y2I08N9BypHRsNn7SVemy"
@@ -1553,7 +1645,7 @@
       "url": "https://open.spotify.com/track/2wTnyWk09U8VFejv19FNRR"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"

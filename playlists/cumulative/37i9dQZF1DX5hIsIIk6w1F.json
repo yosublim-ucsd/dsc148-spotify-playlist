@@ -885,6 +885,32 @@
     },
     {
       "album": {
+        "name": "ARES KLEIN",
+        "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158321,
+      "name": "ANDAMOS READY",
+      "url": "https://open.spotify.com/track/0zjbdxsST2dPmVTWDutQMI"
+    },
+    {
+      "album": {
         "name": "Ando",
         "url": "https://open.spotify.com/album/3zlobv78HYPcEBY1nyxy89"
       },
@@ -2073,6 +2099,32 @@
     },
     {
       "album": {
+        "name": "ARES KLEIN",
+        "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "BLANKITA COMO NIEVE",
+      "url": "https://open.spotify.com/track/0UijbXPClcW3n0rQdpnNL4"
+    },
+    {
+      "album": {
         "name": "Blin Blin",
         "url": "https://open.spotify.com/album/5lohF4YnICasTqorEvlX2z"
       },
@@ -2476,7 +2528,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 147857,
       "name": "CAPTION",
       "url": "https://open.spotify.com/track/5M3PYdk3uyB1mSljV94InD"
@@ -3406,6 +3458,48 @@
       "duration_ms": 164915,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/75CMYG8b6GRW8kBRqXMCni"
+    },
+    {
+      "album": {
+        "name": "Dandole",
+        "url": "https://open.spotify.com/album/20C828K5mJd8PJBcg9rMMI"
+      },
+      "artists": [
+        {
+          "name": "Son Gotten",
+          "url": "https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Andrehbred",
+          "url": "https://open.spotify.com/artist/3XpIrqVeY0I0kItCCUMuY1"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        },
+        {
+          "name": "El Supersonico",
+          "url": "https://open.spotify.com/artist/6K3gAKUNClrEFYK2LGXhNB"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Dandole",
+      "url": "https://open.spotify.com/track/3u4w2xjvOXYlDow7k8poaU"
     },
     {
       "album": {
@@ -7201,6 +7295,28 @@
     },
     {
       "album": {
+        "name": "LAS BABIES",
+        "url": "https://open.spotify.com/album/4ygSwyB4du298zoNXMBNZN"
+      },
+      "artists": [
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "LAS BABIES",
+      "url": "https://open.spotify.com/track/1FLv1DI0dv8wqzSzEhg8e5"
+    },
+    {
+      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -8964,7 +9080,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162485,
       "name": "ME GUSTO",
       "url": "https://open.spotify.com/track/5awj2SDKxIm3lFMOYaUON3"
@@ -9556,7 +9672,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 180000,
       "name": "Milano",
       "url": "https://open.spotify.com/track/66ZwaRPa6Jl7iJSzY3ckEw"
@@ -11925,6 +12041,28 @@
     },
     {
       "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/6zh3JY36C6fRrE2vbJQBjw"
+      },
+      "artists": [
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178142,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/0nMQi4r84bkq8hFnFJNaaL"
+    },
+    {
+      "album": {
         "name": "Perdidos",
         "url": "https://open.spotify.com/album/64uPiuBBTJEDqjC7FKc781"
       },
@@ -12668,6 +12806,36 @@
       "duration_ms": 147706,
       "name": "PRIORIDAD",
       "url": "https://open.spotify.com/track/6EfJMTo0FRqKTo3zatGUF0"
+    },
+    {
+      "album": {
+        "name": "Privado (Remix)",
+        "url": "https://open.spotify.com/album/4GNLembnMB6qDUQ6Pn0lze"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252631,
+      "name": "Privado - Remix",
+      "url": "https://open.spotify.com/track/3yfB2VspVzG0yRiYPhhoAL"
     },
     {
       "album": {
@@ -14630,7 +14798,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 131422,
       "name": "Solin Solita",
       "url": "https://open.spotify.com/track/5uUD7mX0H85Og1kkLbL1l7"
@@ -15664,6 +15832,28 @@
       "duration_ms": 318246,
       "name": "Te Robo a Lo Maldito - Remix",
       "url": "https://open.spotify.com/track/7mUAYiaFPBDfB6xoLQJMwH"
+    },
+    {
+      "album": {
+        "name": "TE SALI A BUSCAR",
+        "url": "https://open.spotify.com/album/0dddB9oae9Llo05rqYIldA"
+      },
+      "artists": [
+        {
+          "name": "CRISMOLAVISION",
+          "url": "https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM"
+        },
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "TE SALI A BUSCAR",
+      "url": "https://open.spotify.com/track/01wGuoeNwRjGGWjpHFrB9X"
     },
     {
       "album": {
@@ -16772,7 +16962,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 203651,
       "name": "UNDERWATER",
       "url": "https://open.spotify.com/track/6cy8lRkS9jvgL9P7Z3h2Tx"

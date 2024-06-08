@@ -4827,6 +4827,24 @@
     },
     {
       "album": {
+        "name": "Individ",
+        "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/3Si7z1LZ90YE3OzkPfMJAS"
+    },
+    {
+      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/0RT6O74XxjRbsGtDK84p7x"
       },
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 172500,
       "name": "Casino",
       "url": "https://open.spotify.com/track/5achgxVwwMmSzH7QbSfixw"

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,373 songs - 3 day 14 hr 3 min
+1,375 songs - 3 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [DING DONG](https://open.spotify.com/track/1ZhF6KKByVAwx5oratB8M9) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [DING DONG](https://open.spotify.com/album/6B00Xs16IeBA6PYMUoo5aC) | 3:54 | 2022-07-28 | 2022-08-03 |
 | [DISCOTHEQUE \- from CrosSing](https://open.spotify.com/track/540Tpu2fgkS5FXuColwqiT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [DISCOTHEQUE \- from CrosSing](https://open.spotify.com/album/5mBBlBfeXjKV0psB1jx0vA) | 3:57 | 2024-05-28 |  |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-13 | 2023-01-11 |
+| [Don't Stay](https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [Don't Stay](https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW) | 3:54 | 2024-06-07 |  |
 | [door](https://open.spotify.com/track/0TF4op8eQkheQdlWQM9Bgl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールエンディングテーマ door（Special Edition）](https://open.spotify.com/album/1FgvZygYK6UfpleMuwyQ4r) | 4:12 | 2023-07-25 | 2023-07-27 |
 | [door](https://open.spotify.com/track/2jhWhT9t7S2m2B8U9i02wP) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Ending Theme Song "door" \(Special Edition\)](https://open.spotify.com/album/1cZzq5dsP3xZlPKgYfCd5J) | 4:12 | 2023-07-25 | 2023-08-09 |
 | [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 | 2023-10-24 | 2023-11-13 |
@@ -200,7 +201,7 @@
 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 | 2022-08-05 | 2022-10-05 |
 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 | 2023-01-03 | 2023-04-09 |
 | [fam](https://open.spotify.com/track/1QRCIe2ViATfzwz37Fyfrm) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [fam](https://open.spotify.com/album/2WUdT0tdJaRCXzfCuuHUaf) | 3:56 | 2023-10-05 | 2023-11-08 |
-| [fam!](https://open.spotify.com/track/4MjiNr9rIzr0J8MBFl57MC) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [fam!](https://open.spotify.com/album/4I9XT7pjaMY7k58Y8DkQSq) | 3:38 | 2024-04-16 |  |
+| [fam!](https://open.spotify.com/track/4MjiNr9rIzr0J8MBFl57MC) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [fam!](https://open.spotify.com/album/4I9XT7pjaMY7k58Y8DkQSq) | 3:38 | 2024-04-16 | 2024-06-08 |
 | [Fanfare](https://open.spotify.com/track/4Vdov2ST1VEZhRTVETYJ2T) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Fanfare](https://open.spotify.com/album/4cgG5W8JYUij1nLOekVBEZ) | 4:14 | 2023-07-04 | 2023-10-04 |
 | [Fantastic Future \- From CrosSing](https://open.spotify.com/track/6KiiBKRjWspZhQqdX1Oavb) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic Future \- From CrosSing](https://open.spotify.com/album/33aLRnXBdJJ80iVk3bPDv5) | 4:15 | 2023-01-17 | 2023-02-08 |
 | [Fantastic future \- from CrosSing](https://open.spotify.com/track/2L4IMezZdogiY0ndeYNitp) | [諏訪ななか](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Fantastic future \- from CrosSing](https://open.spotify.com/album/0kMgI0rrMO9cnNMyPvrOAq) | 4:15 | 2023-01-17 | 2023-01-19 |
@@ -221,6 +222,7 @@
 | [Fly Alive](https://open.spotify.com/track/7cxpZzDRjx3LHocgQwNOry) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Fly Alive](https://open.spotify.com/album/39R3hxUMqdRAEJFOpe4xQF) | 3:41 | 2024-01-23 | 2024-01-31 |
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-01 | 2023-05-24 |
 | [Fly Away](https://open.spotify.com/track/60P9cFDj9TMUZpiUc0O1Rm) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/6qe4u576emFA48psNmvU4e) | 3:01 | 2023-04-01 | 2023-04-03 |
+| [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-06-07 |  |
 | [Follow You!](https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Follow You!](https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP) | 3:40 | 2023-05-30 | 2023-07-07 |
 | [Follow your arrows](https://open.spotify.com/track/21oF2n3RXx9pUkXC5q1VYz) | [SSGIRLS（歌：笹倉かな）](https://open.spotify.com/artist/5PdAtSCSED44ZWs9eNxUOj) | [Follow your arrows](https://open.spotify.com/album/6p1d06FpoPwDGlCfO28aT1) | 3:41 | 2024-04-16 | 2024-04-24 |
 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 | 2024-01-23 | 2024-05-21 |
@@ -1066,7 +1068,7 @@
 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 | 2024-04-18 |  |
 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 | 2023-07-06 | 2023-10-06 |
 | [ユートピア](https://open.spotify.com/track/2dTqP0VXe0G6cbVagyeJ8a) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ユートピア](https://open.spotify.com/album/7ANloblGKzLe7AlCIrJGL1) | 2:55 | 2024-01-09 | 2024-04-11 |
-| [ユートピア学概論](https://open.spotify.com/track/6bo2Lr6KPodGwroJnYqwGg) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [ユートピア学概論](https://open.spotify.com/album/3AzBdKJMOUJ5hTpUWnmpvV) | 4:07 | 2024-04-18 |  |
+| [ユートピア学概論](https://open.spotify.com/track/6bo2Lr6KPodGwroJnYqwGg) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [ユートピア学概論](https://open.spotify.com/album/3AzBdKJMOUJ5hTpUWnmpvV) | 4:07 | 2024-04-18 | 2024-06-08 |
 | [ヨダカ](https://open.spotify.com/track/1pENjqVLkeZDBXqausOwtY) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [ヨダカ](https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 | 2023-01-10 | 2023-04-09 |
 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-04-11 |  |

@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-150 songs - 8 hr 47 min
+151 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-13 |  |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-10 |  |
 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 | 2024-04-05 |  |
+| [Flip It \- ÆON:MODE Remix](https://open.spotify.com/track/6zw7s3znqtUvU90Q5blgEj) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(ÆON:MODE Remix\)](https://open.spotify.com/album/2SQt6DV4BmY6XonaNZCPOg) | 2:32 | 2024-06-07 |  |
 | [Flow](https://open.spotify.com/track/1jiPHdx1jxAHxkdWVrmIMY) | [Audioscribe](https://open.spotify.com/artist/1zCwEEtlGUmFFAEvQ9jW6D) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:24 | 2024-01-26 | 2024-02-10 |
 | [Forest Catcher](https://open.spotify.com/track/7yRMwQAGpzLnAUEY6BAATi) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [Forest Catcher](https://open.spotify.com/album/4eYDVMTk2bvJljV85IyODK) | 4:13 | 2023-10-06 | 2024-05-17 |
 | [Freak Da Funk](https://open.spotify.com/track/4jUgAf3OoD7TwUyaeSjIaY) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn) | [NOTE KEEPERS AA](https://open.spotify.com/album/6aB9UGE5JOmzBD28s4yfvy) | 4:01 | 2024-02-20 | 2024-05-17 |

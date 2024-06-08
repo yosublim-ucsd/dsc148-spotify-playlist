@@ -1,13 +1,29 @@
 {
   "description": "Our favorite subject? Their chemistry. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.",
-  "num_followers": 43078,
+  "num_followers": 43844,
   "original_name": "Maxton Hall Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmH/fQAAAAAXSWHXd5GBbumOr7nr1fsw",
+  "snapshot_id": "ZmNdfwAAAAAz7wC96X+MeUyN74cgfYQe",
   "tracks": [
+    {
+      "added_at": "2024-06-07 19:19:42",
+      "album": {
+        "name": "Sea of Love",
+        "url": "https://open.spotify.com/album/3pC4dLfRhyk390dtRq4cpa"
+      },
+      "artists": [
+        {
+          "name": "Eli Riccardi",
+          "url": "https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Sea of Love - Extended Album Version - from \"Maxton Hall\"",
+      "url": "https://open.spotify.com/track/2VezVJwF8oW67QTS5SB8E2"
+    },
     {
       "added_at": "2024-06-06 18:25:38",
       "album": {

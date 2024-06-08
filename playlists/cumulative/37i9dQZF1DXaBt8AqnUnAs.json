@@ -1551,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/6VjfpJUyy02xp3rG6pQxKV"
+      },
+      "artists": [
+        {
+          "name": "Kid Lovi",
+          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
+        },
+        {
+          "name": "Tlust",
+          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150871,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/1IrWkM2KJykBuTXn3lyPQh"
+    },
+    {
+      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -3532,6 +3554,40 @@
       "duration_ms": 152232,
       "name": "Escolhas",
       "url": "https://open.spotify.com/track/4AvW4aAIOmDZAq5J4VwFtl"
+    },
+    {
+      "album": {
+        "name": "Espinhos",
+        "url": "https://open.spotify.com/album/6L36eWVj8txKhuddzIQOPo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT"
+        },
+        {
+          "name": "MC ANNINO",
+          "url": "https://open.spotify.com/artist/58tbpbnDSUZr97ufm8rpcd"
+        },
+        {
+          "name": "PMM",
+          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
+        },
+        {
+          "name": "Matt",
+          "url": "https://open.spotify.com/artist/4l1lw74M2WiTks3caXBtl9"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "Espinhos",
+      "url": "https://open.spotify.com/track/60FtkPpCvs0gZ111AD2BHC"
     },
     {
       "album": {
@@ -10900,6 +10956,24 @@
       "duration_ms": 188571,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5zHgKTl9uTZqUfdbszAU3W"
+    },
+    {
+      "album": {
+        "name": "Sua Localiza\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6On1f9E2cDfJmHOof460N3"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142495,
+      "name": "Sua Localiza\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0swlLBRzjh5CMJLnE65IBi"
     },
     {
       "album": {

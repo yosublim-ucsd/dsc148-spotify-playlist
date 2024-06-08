@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/4yC6ASgRwxZXsPLi7rrRXV"
+      },
+      "artists": [
+        {
+          "name": "Simone Morelli",
+          "url": "https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/4ZAb57aSLA2sf0YBqkfm29"
+    },
+    {
+      "album": {
         "name": "Dancing With A Stranger",
         "url": "https://open.spotify.com/album/1hXPgb69uhDHdFttRkOgBZ"
       },
@@ -3365,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR"
+      },
+      "artists": [
+        {
+          "name": "Elin Porsinger",
+          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137434,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB"
+    },
+    {
+      "album": {
         "name": "Just Give Me A Reason",
         "url": "https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM"
       },
@@ -4208,6 +4244,24 @@
       "duration_ms": 181122,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/6OLLQaDugvYbVgdMFySyXM"
+    },
+    {
+      "album": {
+        "name": "Murder On The Dancefloor",
+        "url": "https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn"
+      },
+      "artists": [
+        {
+          "name": "Bea Westphal",
+          "url": "https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy"
     },
     {
       "album": {
@@ -5832,6 +5886,24 @@
       "duration_ms": 192833,
       "name": "Sweet Child of Mine",
       "url": "https://open.spotify.com/track/2VXu2KAwVH5CIRqQPEADQw"
+    },
+    {
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/3THSFFs2GV2Xf7MQFuCooP"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Eastwood",
+          "url": "https://open.spotify.com/artist/66ZGHF0SFR1UiRnaZe5XNJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232293,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/3JE3OAl0dhRZ6bCm3GivbY"
     },
     {
       "album": {

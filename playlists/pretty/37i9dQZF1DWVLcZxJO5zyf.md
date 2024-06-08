@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Agnes Nunes
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: IZA ❤️ Yuri
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,374,991 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,374,931 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bobagem Amor](https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:21 |
-| 2 | [Exclusiva](https://open.spotify.com/track/6ZayYFgk4cfVRgGEsDxWmY) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [EXCLUSIVA: As mais românticas da IZA](https://open.spotify.com/album/4EAZe1EZ9aJWWPHFcAWkpJ) | 3:13 |
+| 1 | [Exclusiva](https://open.spotify.com/track/6ZayYFgk4cfVRgGEsDxWmY) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [EXCLUSIVA: As mais românticas da IZA](https://open.spotify.com/album/4EAZe1EZ9aJWWPHFcAWkpJ) | 3:13 |
+| 2 | [Bobagem Amor](https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:21 |
 | 3 | [to bem](https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Ontem Eu Tinha Certeza \(Hoje Eu Tenho Mais\)](https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo) | 2:35 |
 | 4 | [Língua dos Anjos](https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [PORCELANA](https://open.spotify.com/album/4o1zqfzFJCsgIstBtZXlx3) | 2:14 |
 | 5 | [Recomeço](https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Recomeço](https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
 | 50 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 
-Snapshot ID: `ZmCeIwAAAAB+qN1B57/DEwC7PcU8sdN7`
+Snapshot ID: `ZmJ3sAAAAADj9bDgQhqieulVndMPZgO3`

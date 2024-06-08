@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Estoy bien",
+        "url": "https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163070,
+      "name": "Estoy bien",
+      "url": "https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn"
+    },
+    {
+      "album": {
         "name": "Morro",
         "url": "https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE"
       },
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 207881,
       "name": "No Me Quedo Quieto",
       "url": "https://open.spotify.com/track/5a6CjjQM0CGprOWWrqMi7j"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 468 likes - 222 songs - 9 hr 35 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 469 likes - 222 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 221 | [Secret Island Story \(Piano\)](https://open.spotify.com/track/4zyPQPc9nEcJsCw1dQu1mR) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 2:09 |
 | 222 | [The Soul](https://open.spotify.com/track/4bb9ZHJFbG7LXz6byYoLFe) | [David Redding](https://open.spotify.com/artist/5FRnsphqNLrZB0XuzdSx4H) | [The Soul](https://open.spotify.com/album/2sNud9Y15tXDXNdbRP85tl) | 2:57 |
 
-Snapshot ID: `AAAEKMfQqMarCvkjaHRR7tGWu8VtbH3h`
+Snapshot ID: `AAAELuSIIpzSjLDcOSgVwS6/GQ3kPneg`

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-474 songs - 1 day 1 hr 6 min
+475 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [She Got It \(with Rafa Pabön\)](https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [She Got It \(with Rafa Pabön\)](https://open.spotify.com/album/6t9SPVEh2WUu9UWDIjbPm6) | 2:50 | 2021-12-16 | 2022-02-23 |
 | [Short up Shorts](https://open.spotify.com/track/15DxGcmXWDZhaFUyz1Kh1y) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:34 | 2023-02-23 | 2023-04-13 |
 | [Show Them](https://open.spotify.com/track/0F0gYhu89PlecJB3XUi5Jf) | [Sam Dutchy](https://open.spotify.com/artist/4ZDwxw2U2vf0kGbgBF8QMP) | [Show Them](https://open.spotify.com/album/626DRnpftmOKOEIzVZ4dEK) | 3:18 | 2021-12-16 | 2022-07-29 |
+| [Sign Language](https://open.spotify.com/track/4GCdBfCCQsI9H7Yu0Ok2K5) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [Sign Language](https://open.spotify.com/album/1ZlX2ihrYQrXLPpuUl8Afa) | 2:38 | 2024-06-06 |  |
 | [Silly Games](https://open.spotify.com/track/6JiCJrN8tsjG1TLmIL2xRM) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Silly Games](https://open.spotify.com/album/2EbfLEv2xLxdfKI42K4Pdg) | 3:52 | 2021-12-16 | 2022-05-17 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-12-16 |  |
 | [Skeleton Cartier](https://open.spotify.com/track/0ONJRBtjpdlfvyz1jJFHUp) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/1Ei9rdh0ZaUuNjPpFpXwS9) | 3:41 | 2022-12-20 | 2023-01-11 |
@@ -438,7 +439,7 @@
 | [Toxic](https://open.spotify.com/track/6p8dKNFYoXk4Lb9XGoJoKJ) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Toxic](https://open.spotify.com/album/36lTlB0c2ExS1RszhQMb07) | 2:55 | 2021-12-16 | 2022-01-26 |
 | [Toxic Love](https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Toxic Love](https://open.spotify.com/album/401ZkPLClE3UGAn7DepicP) | 3:27 | 2021-12-16 | 2022-01-26 |
 | [Tropical](https://open.spotify.com/track/11Hq9IduxlW65vxVEzqyIr) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Tropical](https://open.spotify.com/album/28sIFh62xbvrc7n27GKFnS) | 2:32 | 2021-12-16 | 2023-03-03 |
-| [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-21 |  |
+| [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/track/54seQV7MCcppBrznALCdlT) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [Tshwala Bam \(feat\. S.N.E, EeQue\)](https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY) | 6:30 | 2024-03-21 |  |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-09-14 |  |
 | [Tunup \(feat\. Konshens & Bokoesam\)](https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Highest Grade Vol\. 2.0 \- Caribbean Kush](https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5) | 2:29 | 2022-05-26 |  |
 | [U Me Luv](https://open.spotify.com/track/0qKpwaNffHcDjHkAN0BAXd) | [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [U Me Luv \- Single](https://open.spotify.com/album/26mI7gZZpLqZG07xE4R8vA) | 3:39 | 2021-12-16 | 2022-02-24 |

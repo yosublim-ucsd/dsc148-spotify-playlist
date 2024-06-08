@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ozoyo on cover. Artwork by Thami Nabil",
-  "num_followers": 162770,
+  "num_followers": 162846,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
-      },
-      "artists": [
-        {
-          "name": "Emahoy Tsege Mariam Gebru",
-          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
-        }
-      ],
-      "duration_ms": 208484,
-      "name": "Ready to Leave",
-      "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "jacarandas",
@@ -367,6 +351,22 @@
       "duration_ms": 138480,
       "name": "jacarandas",
       "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
+      },
+      "artists": [
+        {
+          "name": "Emahoy Tsege Mariam Gebru",
+          "url": "https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Ready to Leave",
+      "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/0UCAZcLhQS9MuzbzGCbTnG"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "the mould",
-        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
-      },
-      "artists": [
-        {
-          "name": "mui zyu",
-          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "the mould",
-      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "Other Means",
@@ -527,6 +511,22 @@
       "duration_ms": 264000,
       "name": "Other Means",
       "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "the mould",
+        "url": "https://open.spotify.com/album/03WZKJv7yuVrpUxbIleIco"
+      },
+      "artists": [
+        {
+          "name": "mui zyu",
+          "url": "https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "the mould",
+      "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
     },
     {
       "added_at": "2024-03-13 03:47:45",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "Derrwut",
-        "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
-      },
-      "artists": [
-        {
-          "name": "Rogelio the IIIrd",
-          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Derrwut",
-      "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
         "name": "i've seen a way",
         "url": "https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 256949,
       "name": "Injury Detail",
       "url": "https://open.spotify.com/track/5yVieAuVqsun1xDUcqipvb"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Derrwut",
+        "url": "https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7"
+      },
+      "artists": [
+        {
+          "name": "Rogelio the IIIrd",
+          "url": "https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Derrwut",
+      "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -869,6 +869,30 @@
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Spiralis Aurea Trio",
+        "url": "https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl"
+      },
+      "artists": [
+        {
+          "name": "Stefano Pilia",
+          "url": "https://open.spotify.com/artist/4v3YpaAOE8k0271vV6Wg8v"
+        },
+        {
+          "name": "Adrian Utley",
+          "url": "https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA"
+        },
+        {
+          "name": "Alessandra Novaga",
+          "url": "https://open.spotify.com/artist/42BB0rGDAghojUlrJhIJrG"
+        }
+      ],
+      "duration_ms": 366549,
+      "name": "CRUX",
+      "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
+    },
+    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "Sweat",
@@ -1049,22 +1073,6 @@
       "url": "https://open.spotify.com/track/53efsv7kZof3mTNGTiuJ8F"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "Miyazaki",
-        "url": "https://open.spotify.com/album/03NTSojv6yMN8w3lX9br2u"
-      },
-      "artists": [
-        {
-          "name": "Nike Polo",
-          "url": "https://open.spotify.com/artist/4RR6YWqLTPKGDgTLhgIMaZ"
-        }
-      ],
-      "duration_ms": 132005,
-      "name": "Miyazaki",
-      "url": "https://open.spotify.com/track/2v1PAU4jkaz6IKSYMP9GQ6"
-    },
-    {
       "added_at": "2024-01-24 03:58:32",
       "album": {
         "name": "something that lasts",
@@ -1087,6 +1095,22 @@
       "duration_ms": 238750,
       "name": "something that lasts",
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/03NTSojv6yMN8w3lX9br2u"
+      },
+      "artists": [
+        {
+          "name": "Nike Polo",
+          "url": "https://open.spotify.com/artist/4RR6YWqLTPKGDgTLhgIMaZ"
+        }
+      ],
+      "duration_ms": 132005,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/2v1PAU4jkaz6IKSYMP9GQ6"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -1153,6 +1177,22 @@
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
     },
     {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
+      },
+      "artists": [
+        {
+          "name": "Sui Zhen",
+          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
+        }
+      ],
+      "duration_ms": 781460,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "Seedling (Me Lost Me Remix)",
@@ -1171,22 +1211,6 @@
       "duration_ms": 227920,
       "name": "Seedling - Me Lost Me Remix",
       "url": "https://open.spotify.com/track/6Ut4itwtkL9imP9esqJV0X"
-    },
-    {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Sleepless",
-        "url": "https://open.spotify.com/album/10zkZJRQmq7wM1g9jD3Vni"
-      },
-      "artists": [
-        {
-          "name": "Sui Zhen",
-          "url": "https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5"
-        }
-      ],
-      "duration_ms": 781460,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1347,6 +1371,22 @@
     {
       "added_at": "2024-04-03 15:21:45",
       "album": {
+        "name": "PATTI SMITH",
+        "url": "https://open.spotify.com/album/2fuQ3W0hHAJ1IhOrkDW0F2"
+      },
+      "artists": [
+        {
+          "name": "DeepFaith",
+          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
+        }
+      ],
+      "duration_ms": 201759,
+      "name": "PATTI SMITH",
+      "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
         "name": "the REAL (HAAi Remix)",
         "url": "https://open.spotify.com/album/4a3Ry7yO3FMCJSY3sWay1j"
       },
@@ -1363,22 +1403,6 @@
       "duration_ms": 336600,
       "name": "the REAL - HAAi Remix",
       "url": "https://open.spotify.com/track/77osvGSRvaYOrZZC5xCx4Q"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "PATTI SMITH",
-        "url": "https://open.spotify.com/album/2fuQ3W0hHAJ1IhOrkDW0F2"
-      },
-      "artists": [
-        {
-          "name": "DeepFaith",
-          "url": "https://open.spotify.com/artist/0b6qpgf9acyHi3PwV18Dyc"
-        }
-      ],
-      "duration_ms": 201759,
-      "name": "PATTI SMITH",
-      "url": "https://open.spotify.com/track/7FtjGAVTS5eIJWNpNQ5jaT"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1429,22 +1453,6 @@
       "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Unknown Fate",
-        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
-      },
-      "artists": [
-        {
-          "name": "UF",
-          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Unknown Fate",
-      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "The 39 Steps",
@@ -1459,6 +1467,22 @@
       "duration_ms": 288509,
       "name": "Medio Viva",
       "url": "https://open.spotify.com/track/6fgq7eXGRDQY5ZI0sQN6sD"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Unknown Fate",
+        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
+      },
+      "artists": [
+        {
+          "name": "UF",
+          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Unknown Fate",
+      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1495,30 +1519,6 @@
       "duration_ms": 100869,
       "name": "zen jam",
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Spiralis Aurea Trio",
-        "url": "https://open.spotify.com/album/3pAn52TnZBJf3amx9haAyl"
-      },
-      "artists": [
-        {
-          "name": "Stefano Pilia",
-          "url": "https://open.spotify.com/artist/4v3YpaAOE8k0271vV6Wg8v"
-        },
-        {
-          "name": "Adrian Utley",
-          "url": "https://open.spotify.com/artist/6jDiXQFNb5UYscCSghzEEA"
-        },
-        {
-          "name": "Alessandra Novaga",
-          "url": "https://open.spotify.com/artist/42BB0rGDAghojUlrJhIJrG"
-        }
-      ],
-      "duration_ms": 366549,
-      "name": "CRUX",
-      "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1569,30 +1569,6 @@
       "url": "https://open.spotify.com/track/0Hjd5PfLJYEKEb6G4RIXqG"
     },
     {
-      "added_at": "2024-03-13 03:47:45",
-      "album": {
-        "name": "Sweety Chant",
-        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
-      },
-      "artists": [
-        {
-          "name": "Tiny Griffi",
-          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
-        },
-        {
-          "name": "DE DE MOUSE",
-          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
-        },
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 164083,
-      "name": "Sweety Chant",
-      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
-    },
-    {
       "added_at": "2024-03-06 06:00:00",
       "album": {
         "name": "REINTERPRETED WORKS VOL.2",
@@ -1631,6 +1607,30 @@
       "duration_ms": 198490,
       "name": "Balloons",
       "url": "https://open.spotify.com/track/7vgV6b2LYHPhBPD9IlQ2Pg"
+    },
+    {
+      "added_at": "2024-03-13 03:47:45",
+      "album": {
+        "name": "Sweety Chant",
+        "url": "https://open.spotify.com/album/0ynwOThhjp8pKqI0QGUwsp"
+      },
+      "artists": [
+        {
+          "name": "Tiny Griffi",
+          "url": "https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0"
+        },
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "Sweety Chant",
+      "url": "https://open.spotify.com/track/7zCe5HqES3Y5z23EZLq0gA"
     },
     {
       "added_at": "2024-03-06 06:00:00",

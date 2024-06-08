@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan hits in one playlist. Cover: Winnie Nwagi",
+  "description": "Homegrown Ugandan hits in one playlist. Cover: Vinka",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Afuga",
+        "url": "https://open.spotify.com/album/4qVoYoXL7DHnWHRwTPKJMs"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173156,
+      "name": "Afuga",
+      "url": "https://open.spotify.com/track/3P0CYp0zKEMcIHelj3p97s"
+    },
+    {
+      "album": {
         "name": "Awo",
         "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
       },
@@ -293,6 +311,28 @@
     },
     {
       "album": {
+        "name": "Ata Nte",
+        "url": "https://open.spotify.com/album/2JFeqaadtqaw0bqDr08i0Z"
+      },
+      "artists": [
+        {
+          "name": "SKOOL WUGI",
+          "url": "https://open.spotify.com/artist/0g67DEBEy61mfnVKXE5efY"
+        },
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176979,
+      "name": "Ata Nte",
+      "url": "https://open.spotify.com/track/6s9oPzxVihiBjCzXR2R9vu"
+    },
+    {
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
       },
@@ -352,7 +392,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 165250,
       "name": "Back",
       "url": "https://open.spotify.com/track/3hf9XdQz2JETTL489EiI6b"
@@ -1230,7 +1270,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 194219,
       "name": "Chop Life",
       "url": "https://open.spotify.com/track/67C63vdbFde7T1Mj1QH4Jq"
@@ -2556,7 +2596,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200907,
       "name": "Kwete Kwete",
       "url": "https://open.spotify.com/track/6e6y8lswqMRbRYiCFLyLLW"
@@ -2614,7 +2654,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 192835,
       "name": "Kyabazinga",
       "url": "https://open.spotify.com/track/1dXe4sn2nqtlf5N85sGfp5"
@@ -4064,7 +4104,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 150000,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj"
@@ -4384,7 +4424,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 153652,
       "name": "Over",
       "url": "https://open.spotify.com/track/0dUQnaFf8mn6ts1gI5Pb89"
@@ -4504,6 +4544,24 @@
       "duration_ms": 188529,
       "name": "Phobia",
       "url": "https://open.spotify.com/track/4f8UClRXe2WvUIy8G9alTq"
+    },
+    {
+      "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/2OBWZY4po5Iz1NG8R6hvkE"
+      },
+      "artists": [
+        {
+          "name": "Mambo Yo",
+          "url": "https://open.spotify.com/artist/20r5jEZhPbG7Rsnq8UNQk7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2zpIwVEQbpGkcrbJx9L8YE"
     },
     {
       "album": {
@@ -4874,7 +4932,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 109000,
       "name": "save me",
       "url": "https://open.spotify.com/track/7hZAxrcjBKR0F3MdWmUavI"
@@ -5177,6 +5235,28 @@
     },
     {
       "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/1ejJGAXCYrOooZwBsiB9nq"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        },
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/3jz26JiyTxs2YHaFuPFNkn"
+    },
+    {
+      "album": {
         "name": "Sumagiza",
         "url": "https://open.spotify.com/album/62EA7ktWVkqJSodSQgxtv8"
       },
@@ -5332,6 +5412,24 @@
       "duration_ms": 169565,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/1v2zfd8CnREWjWPNGw4OAu"
+    },
+    {
+      "album": {
+        "name": "Take My Love",
+        "url": "https://open.spotify.com/album/2Xd544b5tCF8tZGLL53Q4N"
+      },
+      "artists": [
+        {
+          "name": "KabiKabi",
+          "url": "https://open.spotify.com/artist/5DrRCNTpS5z6OYS8BRg147"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Take My Love",
+      "url": "https://open.spotify.com/track/476bgLwtOervN9Rrm8ThpY"
     },
     {
       "album": {
@@ -5572,6 +5670,28 @@
       "duration_ms": 156055,
       "name": "Tok Tok",
       "url": "https://open.spotify.com/track/3ec8B63feV7XSlJ2qgKJK1"
+    },
+    {
+      "album": {
+        "name": "Tompa",
+        "url": "https://open.spotify.com/album/1NsrqpQKmh3uWkHV1pt3Q9"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        },
+        {
+          "name": "K&K",
+          "url": "https://open.spotify.com/artist/0u1iQxzpvXUIc2U6uQttEn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Tompa",
+      "url": "https://open.spotify.com/track/6MopLDu0gQs38srcOJyWqv"
     },
     {
       "album": {
@@ -5961,6 +6081,36 @@
     },
     {
       "album": {
+        "name": "Pleasure Pack (241)",
+        "url": "https://open.spotify.com/album/67fcCi35ZS1liV0w75eAK2"
+      },
+      "artists": [
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "Zagazillions",
+          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
+        },
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Denesi",
+          "url": "https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "WEEKENDI",
+      "url": "https://open.spotify.com/track/3hNKoxy3BOUWKNuqVY0G7p"
+    },
+    {
+      "album": {
         "name": "Where I Go",
         "url": "https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L"
       },
@@ -6086,7 +6236,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 214673,
       "name": "Your Sky Has No Limit(Remix)",
       "url": "https://open.spotify.com/track/5w5nAChJ1GYZbZkG7KmBKS"

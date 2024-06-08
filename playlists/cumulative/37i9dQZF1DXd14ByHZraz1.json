@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Rooftime",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Alok \u2764\ufe0f Romana",
   "name": "mint brasil",
   "tracks": [
     {
@@ -852,6 +852,24 @@
       "duration_ms": 183360,
       "name": "Contente",
       "url": "https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm"
+    },
+    {
+      "album": {
+        "name": "Cuerpo Pegado EP",
+        "url": "https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Cuerpo Pegado",
+      "url": "https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA"
     },
     {
       "album": {
@@ -2387,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Make It Loud",
+        "url": "https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Make It Loud",
+      "url": "https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN"
+    },
+    {
+      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/2d02o3jAuy4Rnyd7bdy8PO"
       },
@@ -2650,10 +2686,32 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 209516,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/7eByPAx572J3cclC8y3mkp"
+    },
+    {
+      "album": {
+        "name": "Nossos Dias",
+        "url": "https://open.spotify.com/album/7tKjDAziaGsgERy2q4nvEb"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Nossos Dias",
+      "url": "https://open.spotify.com/track/50uEFZ86rXLP30bCtrNUFQ"
     },
     {
       "album": {
@@ -2792,7 +2850,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 196000,
       "name": "Piece of Mind",
       "url": "https://open.spotify.com/track/6cLQl5lTr1TcLl2Gb4U8Od"
@@ -2850,6 +2908,28 @@
       "duration_ms": 160650,
       "name": "Please Press Play - Radio Edit",
       "url": "https://open.spotify.com/track/5Yt6s7FCstom8doCNvDn0J"
+    },
+    {
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170471,
+      "name": "Pleasure Chasers",
+      "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
     },
     {
       "album": {
@@ -2986,7 +3066,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 132236,
       "name": "QUE T\u00da QUIERES",
       "url": "https://open.spotify.com/track/5ADDkBla6hmJsvvPxeV8Pg"
@@ -3128,6 +3208,28 @@
       "duration_ms": 191859,
       "name": "Road To Nowhere",
       "url": "https://open.spotify.com/track/4MZPKuMk4zZnpRKvvhBgu1"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7H9Zk7eP2W1C3XFhRIOsPC"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353497,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS"
     },
     {
       "album": {
@@ -3642,7 +3744,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 140000,
       "name": "The Sound Of San Francisco - 2023 Brazil Mix",
       "url": "https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO"

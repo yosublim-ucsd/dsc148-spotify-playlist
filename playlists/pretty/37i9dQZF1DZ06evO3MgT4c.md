@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 ### [This Is Migos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c)
 
-> This Is Migos\. Los temas esenciales, todos en una lista.
+> This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,094 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,108 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Oh Me Oh My](https://open.spotify.com/track/56urRCfhQX5H3tfGt6q3uU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 4:16 |
 | 50 | [Hannah Montana](https://open.spotify.com/track/3SnLc0bQjQeE3HgGdNfb8u) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Young Rich N\*ggas](https://open.spotify.com/album/4YmTZjHk8SmTFTiVMXBN1A) | 3:32 |
 
-Snapshot ID: `Zl+qgAAAAABhROeRj5kj4SDRMpaovqrQ`
+Snapshot ID: `Zl+qgAAAAABF4bWJvaknam8gH17Y53+I`

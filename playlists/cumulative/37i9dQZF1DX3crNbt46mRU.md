@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Aitch, Luciano
 
-12,469 songs - 25 day 23 hr 52 min
+12,471 songs - 25 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7653,6 +7653,7 @@
 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 | 2022-07-21 | 2022-07-29 |
 | [never have i ever \(with Caleb Hearn\)](https://open.spotify.com/track/5Snt7rqsGK0elbTqmOypit) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [never have i ever \(with Caleb Hearn\)](https://open.spotify.com/album/1ulsCLifkHPepwBRraIuGK) | 2:30 | 2024-04-11 | 2024-04-19 |
 | [Never Leaving the House](https://open.spotify.com/track/6Nl4KHSEjz8G5xjgxpWQ97) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Never Leaving the House](https://open.spotify.com/album/4Uv3gRuIOcYVkz3I63sb9L) | 2:57 | 2022-09-29 | 2022-10-07 |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-06 |  |
 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 | 2023-03-02 | 2023-03-10 |
 | [Never Let Me Go](https://open.spotify.com/track/0is16qyUIdsx0WwXXnfdaj) | [Sam Himself](https://open.spotify.com/artist/6jD03eJOPbjHAaCCYGALLT) | [Never Let Me Go](https://open.spotify.com/album/62gG624rrBBfr2UFdKFCLJ) | 3:40 | 2022-07-21 | 2022-07-29 |
 | [Never Let You Down](https://open.spotify.com/track/2Q2Md34uxHcRvSNzbCAgLH) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Never Let You Down](https://open.spotify.com/album/65I2WkH3rAmgb1E4ef55he) | 3:08 | 2023-08-03 | 2023-08-11 |
@@ -9986,6 +9987,7 @@
 | [Somewhere in Between](https://open.spotify.com/track/28Md4QAt1UceyovDOLe1GG) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/1Dxfq2WMWe48f7YSO5DzSp) | 2:36 | 2023-01-05 | 2023-01-13 |
 | [Sommer](https://open.spotify.com/track/5pUhMwmYr4gf6Lt3U5qsHz) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Sommer](https://open.spotify.com/album/2zl5g045U3qSeeScr0aVuT) | 3:13 | 2022-08-04 | 2022-08-12 |
 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 | 2023-07-06 | 2023-07-14 |
+| [Sommer meines Lebens](https://open.spotify.com/track/5GCa1hWZ40820t9nPnotpo) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Sommer meines Lebens](https://open.spotify.com/album/1nqGoRZmRV5D6zlHflc0ga) | 3:15 | 2024-06-06 |  |
 | [Sommer ohne dich](https://open.spotify.com/track/19OPp8O6AEg2g00tFRvtN4) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Sommer ohne dich](https://open.spotify.com/album/3Br9iTXn7WEllDMv5Xw7TD) | 2:08 | 2023-06-01 | 2023-06-09 |
 | [Sommer voll mit Love](https://open.spotify.com/track/5B3VBdmtOmnlmU7KG0gSNS) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp) | [Sommer voll mit Love](https://open.spotify.com/album/24o1q8wE791rEcctAzfQfR) | 2:29 | 2022-08-12 | 2022-08-19 |
 | [Sommerhaus](https://open.spotify.com/track/7sfyB0K2McbVeaTCeWnBkU) | [Sharaktah](https://open.spotify.com/artist/6AVkYjGMj3XVS2unAVeKSU), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Sommerhaus](https://open.spotify.com/album/2ZykhykbPiXm9tvneKVAT4) | 3:10 | 2023-08-17 | 2023-08-25 |

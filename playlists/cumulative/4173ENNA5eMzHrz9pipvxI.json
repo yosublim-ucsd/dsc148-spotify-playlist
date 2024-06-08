@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Kryder",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: GUZ &amp; Millean.",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 270720,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/7DBEWi8wCOKiZbXP52yPFo"
@@ -1364,6 +1364,28 @@
       "duration_ms": 140220,
       "name": "Animal",
       "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
+    },
+    {
+      "album": {
+        "name": "Animal (with Jason Derulo) [R3HAB VIP Remix]",
+        "url": "https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Animal (R3HAB VIP Remix)",
+      "url": "https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E"
     },
     {
       "album": {
@@ -2421,6 +2443,28 @@
     },
     {
       "album": {
+        "name": "Believin'",
+        "url": "https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Believin'",
+      "url": "https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7"
+    },
+    {
+      "album": {
         "name": "Bells Keep Ringin'",
         "url": "https://open.spotify.com/album/4JVmFm0Tf58gZX0BgTmmHA"
       },
@@ -2806,6 +2850,28 @@
       "duration_ms": 154940,
       "name": "Better with You",
       "url": "https://open.spotify.com/track/0TpXy0gvSuaJcPaG6o9XcM"
+    },
+    {
+      "album": {
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "album": {
@@ -4532,7 +4598,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
@@ -5636,7 +5702,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 161029,
       "name": "Dance To The Beat (Pitchin')",
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
@@ -8184,7 +8250,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 179769,
       "name": "Fade Till Sunrise (Club Mix)",
       "url": "https://open.spotify.com/track/6TLMvGmFGS1V7cnuQ6pVmS"
@@ -8772,7 +8838,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 154015,
       "name": "Feel What You Want",
       "url": "https://open.spotify.com/track/38TvZjyie683nvVIxR0mDi"
@@ -11872,7 +11938,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 176250,
       "name": "I Got To Move",
       "url": "https://open.spotify.com/track/615byThVUrcnzb9trhe7yy"
@@ -13755,6 +13821,28 @@
     },
     {
       "album": {
+        "name": "Keep On Pushin'",
+        "url": "https://open.spotify.com/album/3xnck3BnidThyeWGPtUVXH"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        },
+        {
+          "name": "Roc Dubloc",
+          "url": "https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173363,
+      "name": "Keep On Pushin'",
+      "url": "https://open.spotify.com/track/7aqBYVm4D4VrylUyAHZ3qw"
+    },
+    {
+      "album": {
         "name": "Keep On Rising (feat. Michelle Shellers) [KVSH & Gancci Remix]",
         "url": "https://open.spotify.com/album/0QFqKYBN6BqCE7mp6KwYTV"
       },
@@ -13884,7 +13972,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 166917,
       "name": "Kill The Vibe",
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
@@ -14570,6 +14658,32 @@
       "duration_ms": 193809,
       "name": "Let It Drop",
       "url": "https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/2I2I645AIvlOM49lUYQPlW"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR"
     },
     {
       "album": {
@@ -15748,6 +15862,24 @@
       "duration_ms": 174192,
       "name": "Lost Your Love - Sped Up",
       "url": "https://open.spotify.com/track/1BHXHikOFSaaGiEeBh2vGI"
+    },
+    {
+      "album": {
+        "name": "Lotus (PAROOKAVILLE Anthem 2024)",
+        "url": "https://open.spotify.com/album/7qyuA3NETBJ3gNvUWxHha6"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214687,
+      "name": "Lotus (PAROOKAVILLE Anthem 2024)",
+      "url": "https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ"
     },
     {
       "album": {
@@ -17302,6 +17434,28 @@
       "duration_ms": 222071,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/7sJdjALeEOXSIIvlMPdJAe"
+    },
+    {
+      "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/13IRjcJZ3QWHtT3Ck0sms5"
+      },
+      "artists": [
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/5Bv1BaqZV9MW1UEZTEXZFq"
     },
     {
       "album": {
@@ -19310,6 +19464,28 @@
       "duration_ms": 161904,
       "name": "Not Over Yet (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "album": {
+        "name": "Not Sorry",
+        "url": "https://open.spotify.com/album/13ZYF3xIwjble8MwsHKd2O"
+      },
+      "artists": [
+        {
+          "name": "STRAAW",
+          "url": "https://open.spotify.com/artist/6FnEjhHUAZWtBdH0kZqlkS"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129213,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/7flYA7GiLu0N0seaNWWkeb"
     },
     {
       "album": {
@@ -23725,6 +23901,28 @@
     },
     {
       "album": {
+        "name": "Slow Me",
+        "url": "https://open.spotify.com/album/5RG4IUTzPs3NGcsAnrrYEw"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "NEO",
+          "url": "https://open.spotify.com/artist/1xRkqbylXWViBHJyO8qs1Y"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Slow Me",
+      "url": "https://open.spotify.com/track/7Hmbq2y3TGUSZFkcPCcEd7"
+    },
+    {
+      "album": {
         "name": "SLS (feat. Alex Price)",
         "url": "https://open.spotify.com/album/2CbFv2dQOFra4nV6V2uTQI"
       },
@@ -24770,7 +24968,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174374,
       "name": "Stumblin\u2019 In (NewEra Remix)",
       "url": "https://open.spotify.com/track/5Kfpk5v9agDddawbERjbiu"
@@ -30064,6 +30262,28 @@
       "duration_ms": 187559,
       "name": "Zombie (feat. Sam Stray Wood & Kiirah)",
       "url": "https://open.spotify.com/track/1DzhpS9SP57PHHVO5HEewk"
+    },
+    {
+      "album": {
+        "name": "Zouka",
+        "url": "https://open.spotify.com/album/6LuwKha0UnxqI5wa9ADgzB"
+      },
+      "artists": [
+        {
+          "name": "DAMIANO",
+          "url": "https://open.spotify.com/artist/6YFtrkySuHfAKmrFG9KqfO"
+        },
+        {
+          "name": "Bang La Decks",
+          "url": "https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215322,
+      "name": "Zouka",
+      "url": "https://open.spotify.com/track/2vJwO7KW4IbEGo9OOjt7Rl"
     }
   ],
   "url": "https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI"

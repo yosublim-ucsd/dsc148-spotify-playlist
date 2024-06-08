@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 151574,
       "name": "Flight to Polaris",
       "url": "https://open.spotify.com/track/22M3gpI0en4ZYrhK1JBt8X"
@@ -3506,6 +3506,24 @@
       "duration_ms": 145524,
       "name": "Prieks",
       "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+    },
+    {
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/26HLAmiLrUEgmltira0L3V"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fragments",
+          "url": "https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178719,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/7gGrm4d0lofhpPuZeLrXjN"
     },
     {
       "album": {

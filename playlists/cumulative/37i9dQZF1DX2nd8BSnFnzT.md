@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ananda, DAY LIMNS
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Leonardo Ramos ❤️ Isa Salles, Andre Déa ❤️ Carol Navarro, Paulo Vaz ❤️ 🕯️😬
 
-469 songs - 1 day 2 hr 11 min
+471 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [E Foi Assim](https://open.spotify.com/track/7elsjWBo5jzqJQ3SLePYBj) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [E Foi Assim](https://open.spotify.com/album/35I7xwlS2UKao7pU9GSQt0) | 2:17 | 2024-01-19 | 2024-04-27 |
 | [Ela Traiu o Rock And Roll \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/5GhZ6FWfK82xnQWc5qX9en) | [Pedra Leticia](https://open.spotify.com/artist/3RizejcAkXH07quZqFCtpU), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Pedra Letícia ilumina Sonastério](https://open.spotify.com/album/5H7T27oIJGXx9JX7GwOkIR) | 3:40 | 2022-01-14 | 2022-04-16 |
 | [Encoleirado \- Ao Vivo](https://open.spotify.com/track/1ktNQyJr4ZvUBGhNFIjDhT) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla \- Audio Sp 2020 \(Ao Vivo\)](https://open.spotify.com/album/2spQsNyVQ3vZuOXED6kwz7) | 2:23 | 2023-02-17 | 2023-10-21 |
-| [Enfrente](https://open.spotify.com/track/3wmOTnWCQhf6URs91lxjFi) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/4CNy6VgZdz0YW4hKFWbKpa) | 3:44 | 2024-05-03 |  |
+| [Enfrente](https://open.spotify.com/track/3wmOTnWCQhf6URs91lxjFi) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/4CNy6VgZdz0YW4hKFWbKpa) | 3:44 | 2024-05-03 | 2024-06-08 |
 | [Enquanto houver um tempo e um troco](https://open.spotify.com/track/6wgbLCBFMvXiuBcQqdQvgw) | [Wander B.](https://open.spotify.com/artist/5ZFZFNtxUpjBuLM2u2Tayu) | [Enquanto houver um tempo e um troco](https://open.spotify.com/album/2kSJgaX9BAuPjvUir1EbCJ) | 3:25 | 2023-01-27 | 2023-03-11 |
 | [Então Falou](https://open.spotify.com/track/7pSShzMg7PqEmRHbuQe63j) | [Primittivo](https://open.spotify.com/artist/4W41tDziy1sqkYpmg3m2zg) | [Então Falou](https://open.spotify.com/album/0VEVzIL7B0w7x2K3nolgeT) | 2:45 | 2022-02-25 | 2022-03-12 |
 | [Espelho](https://open.spotify.com/track/51240EZPieH7ahE2B7IFJv) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Espelho](https://open.spotify.com/album/5zn0vUxrEK2ffmPFKl41Nw) | 2:11 | 2023-12-08 | 2024-01-13 |
@@ -258,7 +258,7 @@
 | [Meu Funeral](https://open.spotify.com/track/0nwbEO0x8BsTOytFMHiEwk) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X) | [Tropicore Hardcal](https://open.spotify.com/album/2ZoeMMRAmtpvfJBj7ieso6) | 2:28 | 2022-05-13 | 2022-05-28 |
 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 | 2022-01-14 | 2022-11-19 |
 | [Minha Essência é Essa](https://open.spotify.com/track/1nfY3lPdBRWKpcUD0IIes8) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN) | [Minha Essência é Essa](https://open.spotify.com/album/7BhRjF9uhRpzx6qgpXVeRm) | 3:49 | 2022-01-14 | 2022-10-01 |
-| [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/track/4FF04gTcWUXNme7g5FEEhp) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/album/3mwUKuY9J1GlhiEMJNwlNw) | 3:20 | 2024-05-31 |  |
+| [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/track/4FF04gTcWUXNme7g5FEEhp) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Minha Mulher \(Demo Aa 2002\)](https://open.spotify.com/album/3mwUKuY9J1GlhiEMJNwlNw) | 3:20 | 2024-05-31 | 2024-06-08 |
 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 | 2022-11-04 | 2024-01-27 |
 | [Musica Urbana](https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Capital Inicial 4.0 \(Deluxe\)](https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv) | 6:10 | 2022-11-11 |  |
 | [Musketeer \- Live](https://open.spotify.com/track/2IU774DbOINGPQHfNavI0I) | [Forgotten Boys](https://open.spotify.com/artist/3iXovebRefBCpxdCw7x7Ms) | [Gimme More and More](https://open.spotify.com/album/6PHUhrrhq7VQHf3cVMK0ax) | 2:59 | 2023-08-04 | 2023-10-28 |
@@ -335,6 +335,7 @@
 | [PECECITO O TIBURÓN?](https://open.spotify.com/track/5Io1rnM3J7YbGnKjw8QdHp) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [HASTA EL FINAL](https://open.spotify.com/album/4rDajNYg25j2giydotJTIq) | 4:01 | 2024-05-10 |  |
 | [Pedra Polida](https://open.spotify.com/track/2Kc293UYOGPGIt9AmrBw5h) | [Silvério Pessoa](https://open.spotify.com/artist/5sUkqENZZVzvZrlCjMRQVe), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Sangue de Amor](https://open.spotify.com/album/2WGtQ9Mgnjw1mycBqZp3US) | 3:29 | 2022-04-08 | 2022-04-16 |
 | [Pegada Colada](https://open.spotify.com/track/0iQCjbuMMyeOCZtnKJcdQu) | [Camarones Orquestra Guitarrística](https://open.spotify.com/artist/1lgCw7strGg0tVjf13Ou4Q) | [Pegada Colada](https://open.spotify.com/album/04siOqdLoFOK4eUyA1FacT) | 2:01 | 2022-01-14 | 2022-02-19 |
+| [Pegasus Fantasy](https://open.spotify.com/track/5ljfOnPqCGc6iXqdIE0eN7) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Pegasus Fantasy](https://open.spotify.com/album/5QfODrMnD85VwCcrKb8GrN) | 3:54 | 2024-06-07 |  |
 | [Pensando No Oceano](https://open.spotify.com/track/4r7Et3GKyFxbzwJqMU7Whs) | [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [As Cartas Que Eu Nunca Enviei](https://open.spotify.com/album/2uvRk0Wve4Ga73wA4ecbh4) | 4:38 | 2023-06-02 | 2024-01-27 |
 | [Perfeição](https://open.spotify.com/track/6JKjPmMTx4RVcGw9oZOVqx) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Perfeição](https://open.spotify.com/album/3c1IScAFMFyk408EFVfPqF) | 4:15 | 2022-10-14 | 2023-08-05 |
 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 | 2022-01-14 | 2023-04-06 |
@@ -422,6 +423,7 @@
 | [Te Louvarei](https://open.spotify.com/track/6dKHmRsN74LZ7BiMdC0znb) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Te Louvarei](https://open.spotify.com/album/2VurG8NqUWqYArLdPA4pik) | 4:36 | 2023-11-10 | 2024-03-02 |
 | [Te Odeio](https://open.spotify.com/track/7lIkAqZttsDeShLOLyVhyk) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Cura](https://open.spotify.com/album/4tJs1uXBKXv7rP3w3XpbvE) | 2:33 | 2023-03-31 |  |
 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 | 2022-01-14 | 2022-07-02 |
+| [Tempo de Tela](https://open.spotify.com/track/2kHdQMiVVY3rlYo6H3x2Np) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Tempo de Tela](https://open.spotify.com/album/3pK1obFYj3IV7HgEDhww6g) | 3:20 | 2024-06-07 |  |
 | [Temporal](https://open.spotify.com/track/6UONgsITLnZIHzZEuuPVo0) | [Dkukas](https://open.spotify.com/artist/2QfmJhZmW6Z9m1hIryoAT5) | [Temporal](https://open.spotify.com/album/3HSvPoG3igvbQ4qOTmUIK7) | 2:23 | 2022-09-30 | 2022-10-22 |
 | [Tenho](https://open.spotify.com/track/2hsIagU1eyyvJ4clxjn0BX) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Tenho](https://open.spotify.com/album/61IbbRFO2Y1aB2qHkRZS9O) | 2:17 | 2022-08-05 | 2022-08-13 |
 | [Teoria](https://open.spotify.com/track/5ZzUvhcOhtN4tZNoipJ7WW) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Teoria](https://open.spotify.com/album/3QrGBgooYRaA0XYQQJH1Yf) | 1:53 | 2024-03-08 |  |

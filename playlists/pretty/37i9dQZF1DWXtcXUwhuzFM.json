@@ -1,12 +1,12 @@
 {
   "description": "Viikon parhaat uutuusbiisit samassa paketissa. Kannessa Cledos.",
-  "num_followers": 93309,
+  "num_followers": 93388,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmIjUAAAAABGwqLA/QUzjf+CD/oQCkmk",
+  "snapshot_id": "ZmLLdwAAAAAMDeJtziNEWxigeMYvBhzB",
   "tracks": [
     {
       "added_at": "2024-06-06 21:00:00",
@@ -361,6 +361,26 @@
       "url": "https://open.spotify.com/track/1A2yC2Opj4mwlEZcfk1K1g"
     },
     {
+      "added_at": "2024-06-07 08:57:27",
+      "album": {
+        "name": "Sprit & Blondiner",
+        "url": "https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK"
+      },
+      "artists": [
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Sprit & Blondiner",
+      "url": "https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV"
+    },
+    {
       "added_at": "2024-06-06 21:00:00",
       "album": {
         "name": "Luchtballon",
@@ -543,6 +563,38 @@
       "duration_ms": 155173,
       "name": "PPP",
       "url": "https://open.spotify.com/track/17CrgUrrHKhlC9hAdJrxT6"
+    },
+    {
+      "added_at": "2024-06-07 07:00:37",
+      "album": {
+        "name": "don't forget about me",
+        "url": "https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 172801,
+      "name": "don't forget about me",
+      "url": "https://open.spotify.com/track/7zrGDodwUZ2yU0ZgzV78DF"
+    },
+    {
+      "added_at": "2024-06-06 21:00:00",
+      "album": {
+        "name": "Muistan kaiken",
+        "url": "https://open.spotify.com/album/7M0dXsoanbKyhEAErC904Q"
+      },
+      "artists": [
+        {
+          "name": "Frans Harju",
+          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
+        }
+      ],
+      "duration_ms": 176106,
+      "name": "Muistan kaiken",
+      "url": "https://open.spotify.com/track/0UP0Ku0Fbbpinu6VZqVqYO"
     },
     {
       "added_at": "2024-06-06 21:00:00",
@@ -831,6 +883,22 @@
     {
       "added_at": "2024-06-06 21:00:00",
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
+    },
+    {
+      "added_at": "2024-06-06 21:00:00",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
       },
@@ -879,6 +947,26 @@
       "duration_ms": 157310,
       "name": "P\u00e4in naamaa",
       "url": "https://open.spotify.com/track/4Kzsugah469tShqjLLZaR3"
+    },
+    {
+      "added_at": "2024-06-07 07:00:37",
+      "album": {
+        "name": "Polvo de tu Vida",
+        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 172105,
+      "name": "Polvo de tu Vida",
+      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
     },
     {
       "added_at": "2024-06-06 21:00:00",
@@ -1045,20 +1133,20 @@
       "url": "https://open.spotify.com/track/4j8c4FzylrJtT4hrKtTtE5"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-07 07:00:37",
       "album": {
-        "name": "Muistan kaiken",
-        "url": "https://open.spotify.com/album/7M0dXsoanbKyhEAErC904Q"
+        "name": "loverboy",
+        "url": "https://open.spotify.com/album/0wAxyNLcIbQBJGU5u10kVL"
       },
       "artists": [
         {
-          "name": "Frans Harju",
-          "url": "https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5"
+          "name": "Cleme",
+          "url": "https://open.spotify.com/artist/34bBpJxnHQpGOQpDPs4F7e"
         }
       ],
-      "duration_ms": 176106,
-      "name": "Muistan kaiken",
-      "url": "https://open.spotify.com/track/0UP0Ku0Fbbpinu6VZqVqYO"
+      "duration_ms": 160645,
+      "name": "Petoksii",
+      "url": "https://open.spotify.com/track/0MPfYcIHJKWVJWElcaQ7JR"
     },
     {
       "added_at": "2024-06-06 21:00:00",

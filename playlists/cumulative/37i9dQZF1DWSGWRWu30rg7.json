@@ -7387,6 +7387,28 @@
     },
     {
       "album": {
+        "name": "Biarkan",
+        "url": "https://open.spotify.com/album/2nQJHNnSZdg8ZOJgkM7xer"
+      },
+      "artists": [
+        {
+          "name": "Akalav",
+          "url": "https://open.spotify.com/artist/7JrjwEeVTHyWzg2TCQna7U"
+        },
+        {
+          "name": "Julord",
+          "url": "https://open.spotify.com/artist/5hzUFHrP6U9kg1TmaGYyD7"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205110,
+      "name": "Biarkan",
+      "url": "https://open.spotify.com/track/3DOeoedewFU2Di1mQgQthB"
+    },
+    {
+      "album": {
         "name": "Act Two",
         "url": "https://open.spotify.com/album/3kkx4Der3EudUlp3fVIhHc"
       },
@@ -16633,6 +16655,24 @@
     },
     {
       "album": {
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/6coNV6SkdRXDZ6tFtroG0K"
+      },
+      "artists": [
+        {
+          "name": "Reisha",
+          "url": "https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3gGug2kQBgoTekHvgXeQJ2"
+    },
+    {
+      "album": {
         "name": "even the day will return",
         "url": "https://open.spotify.com/album/16D352uQuO408bmmwNVm4B"
       },
@@ -21246,6 +21286,24 @@
       "duration_ms": 226158,
       "name": "Harapan Palsu",
       "url": "https://open.spotify.com/track/0Zeuj06HUUP9vzciBfyizt"
+    },
+    {
+      "album": {
+        "name": "Harapan",
+        "url": "https://open.spotify.com/album/5Me8TkPJQLbJGt1WzOizpQ"
+      },
+      "artists": [
+        {
+          "name": "The Cottons",
+          "url": "https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266282,
+      "name": "Harapan, Pt. 3",
+      "url": "https://open.spotify.com/track/42stYHbwsVEe8hpgoiHozN"
     },
     {
       "album": {

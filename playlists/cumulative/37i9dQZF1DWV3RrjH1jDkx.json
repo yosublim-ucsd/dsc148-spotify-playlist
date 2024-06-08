@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 131428,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1Rf6GheVCYLynmXryOlYJP"
@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/6s5YhUflC4eptXYG16vdQs"
+      },
+      "artists": [
+        {
+          "name": "Noss\u00e1n",
+          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/3Rr1hUbn2bNVCGw4jLGoxg"
+    },
+    {
+      "album": {
         "name": "All The Way / Bizarre",
         "url": "https://open.spotify.com/album/2hhP1KXUIcu5zt6wEDSi9R"
       },
@@ -1817,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "album": {
         "name": "Bysommer",
         "url": "https://open.spotify.com/album/6vg0S3pcBJYLVbacuTp0nt"
       },
@@ -1886,6 +1922,28 @@
       "duration_ms": 198815,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/6Q6L7cVxWfU6c57nKTgkNL"
+    },
+    {
+      "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0YgeUPvb3HcCt4zgUuGgFs"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Eberdean",
+          "url": "https://open.spotify.com/artist/23E6p7XjlcNUPPpC05oJT0"
+        },
+        {
+          "name": "Nelly Moar",
+          "url": "https://open.spotify.com/artist/5oNyGm52m8QxqV8EjA23Gk"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193935,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/551XjlBjDDPFQKarc1qE8z"
     },
     {
       "album": {
@@ -5236,6 +5294,24 @@
       "duration_ms": 181840,
       "name": "HE KNOWS (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
+    },
+    {
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/0BOg03MsSbL14jaCn2miPl"
+      },
+      "artists": [
+        {
+          "name": "This Daze",
+          "url": "https://open.spotify.com/artist/1tSxt67IaHa3JWkkfXdobf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159946,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/4n9nFiqG7tYa9hfdFRWWqZ"
     },
     {
       "album": {
@@ -8955,6 +9031,24 @@
     },
     {
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
+    },
+    {
+      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -9170,6 +9264,24 @@
       "duration_ms": 187333,
       "name": "No Trouble",
       "url": "https://open.spotify.com/track/7K9z5RVlGfg019paRe8DRf"
+    },
+    {
+      "album": {
+        "name": "NOKAS",
+        "url": "https://open.spotify.com/album/5cCAUJWwctH5q0LfVytvne"
+      },
+      "artists": [
+        {
+          "name": "Cely",
+          "url": "https://open.spotify.com/artist/6nO9wNLqmQMnIl3EPi0k6E"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160718,
+      "name": "NOKAS",
+      "url": "https://open.spotify.com/track/0OC3VLntVvewqd8WQo4luY"
     },
     {
       "album": {
@@ -11517,7 +11629,7 @@
         },
         {
           "name": "ALMA",
-          "url": "https://open.spotify.com/artist/0L8kitfQ1k27oGf5WH6ChU"
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         }
       ],
       "date_added": "2024-06-06",
@@ -14140,6 +14252,24 @@
       "duration_ms": 126556,
       "name": "Who Would I Be",
       "url": "https://open.spotify.com/track/0eSZbdHaaHKQ1nizBbCeyw"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148898,
+      "name": "Whoops",
+      "url": "https://open.spotify.com/track/7DNxeu7afBHfykb9SiSCeJ"
     },
     {
       "album": {

@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Prism of Pleasure",
+        "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234231,
+      "name": "Air Tight",
+      "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
+    },
+    {
+      "album": {
         "name": "Always Been",
         "url": "https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs"
       },
@@ -128,7 +150,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 365007,
       "name": "Amber Rush",
       "url": "https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt"
@@ -367,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw"
+      },
+      "artists": [
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0"
+    },
+    {
+      "album": {
         "name": "Angelica",
         "url": "https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI"
       },
@@ -426,7 +466,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
@@ -542,7 +582,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 202388,
       "name": "Cherubim",
       "url": "https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM"
@@ -704,7 +744,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
@@ -1028,7 +1068,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 253701,
       "name": "Drunken Clouds",
       "url": "https://open.spotify.com/track/3XWCKVGT137CUdNDYm3waR"
@@ -1170,7 +1210,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 226206,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/1eyLFH7hE2nekDclVJTUuE"
@@ -1482,7 +1522,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 241406,
       "name": "Hands - Edit",
       "url": "https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK"
@@ -1570,7 +1610,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 269559,
       "name": "Harder Now",
       "url": "https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs"
@@ -1711,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Hot Dog & Hot Bitch",
+        "url": "https://open.spotify.com/album/7I1N0DwZHBrCmm8xSDLYma"
+      },
+      "artists": [
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Hot Dog & Hot Bitch",
+      "url": "https://open.spotify.com/track/6c30iAw5Zm2eEK1RwmPKua"
+    },
+    {
+      "album": {
         "name": "Human Sound",
         "url": "https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg"
       },
@@ -1782,7 +1844,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E"
@@ -1862,7 +1924,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 199356,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/7d5CdPCDQdFgG580YM2yhU"
@@ -2061,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Lesbians <3",
+        "url": "https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126511,
+      "name": "Lesbians <3",
+      "url": "https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY"
+    },
+    {
+      "album": {
         "name": "Let A Bitch Know",
         "url": "https://open.spotify.com/album/7MrGtbX1GlNUU3a3uYm4qc"
       },
@@ -2072,7 +2152,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 329820,
       "name": "Let A Bitch Know",
       "url": "https://open.spotify.com/track/3cuC10phh07XQrztcNWreU"
@@ -2650,7 +2730,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 213937,
       "name": "Obliterate",
       "url": "https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5"
@@ -2741,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Party Girl",
+        "url": "https://open.spotify.com/album/15gqZCOktgECtbzEM8ObBc"
+      },
+      "artists": [
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133700,
+      "name": "Party Girl",
+      "url": "https://open.spotify.com/track/6GWc48keF18hgbfWimJhRA"
+    },
+    {
+      "album": {
         "name": "Melbourne Street",
         "url": "https://open.spotify.com/album/62kIRslwee4b9HnwS74GTS"
       },
@@ -2806,7 +2904,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 163348,
       "name": "Prada",
       "url": "https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH"
@@ -2864,7 +2962,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 306857,
       "name": "Real Hawt",
       "url": "https://open.spotify.com/track/7s12v8WY72vTwpbBGjCrN3"
@@ -3250,7 +3348,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 219999,
       "name": "Slay 4 Me (feat. Jesse Fields) - Edit",
       "url": "https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON"

@@ -6297,6 +6297,24 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1JPzuJooF32x2yFtY4h2o4"
+      },
+      "artists": [
+        {
+          "name": "Lupambo",
+          "url": "https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139316,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/3ebbm6tt4dalmeHyp3C5QI"
+    },
+    {
+      "album": {
         "name": "Sufri",
         "url": "https://open.spotify.com/album/4VAr6Sgblk74GHpakDjZuq"
       },

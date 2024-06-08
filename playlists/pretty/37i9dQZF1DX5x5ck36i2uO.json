@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 2932,
+  "num_followers": 2942,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-16 10:25:07",
       "album": {
-        "name": "HESITATING",
-        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
-      },
-      "artists": [
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "WITHOUT ME",
-      "url": "https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO"
-    },
-    {
-      "added_at": "2024-05-16 10:25:07",
-      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2024-05-16 10:25:07",
+      "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "duration_ms": 173946,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO"
     },
     {
       "added_at": "2024-05-16 10:25:07",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-05-16 10:25:07",
       "album": {
-        "name": "roaming.",
-        "url": "https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX"
-      },
-      "artists": [
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        },
-        {
-          "name": "CHOILB",
-          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "LIFE LOVE LAZY (Feat. CHOILB)",
-      "url": "https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh"
-    },
-    {
-      "added_at": "2024-05-16 10:25:07",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 168216,
       "name": "Good night night (Feat. pH-1)",
       "url": "https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE"
+    },
+    {
+      "added_at": "2024-05-16 10:25:07",
+      "album": {
+        "name": "roaming.",
+        "url": "https://open.spotify.com/album/6eLVFuisUwXug4uhRcQosX"
+      },
+      "artists": [
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "LIFE LOVE LAZY (Feat. CHOILB)",
+      "url": "https://open.spotify.com/track/6elDiM0qVAMqtYa7J4dWNh"
     },
     {
       "added_at": "2024-05-16 10:25:07",
@@ -959,26 +959,18 @@
     {
       "added_at": "2024-05-16 10:25:07",
       "album": {
-        "name": "Research Daily 1",
-        "url": "https://open.spotify.com/album/7u0x542RAwuZZcROvpSjKT"
+        "name": "Green Thumb",
+        "url": "https://open.spotify.com/album/6dC3Lpvf5aEGVzdYaY3iwV"
       },
       "artists": [
         {
-          "name": "Q the trumpet",
-          "url": "https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW"
-        },
-        {
-          "name": "JUNHA PARK",
-          "url": "https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y"
-        },
-        {
-          "name": "Meego",
-          "url": "https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy"
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 228866,
-      "name": "Relativity of Time (Feat. J.UNA, Meego)",
-      "url": "https://open.spotify.com/track/7bfUtySREIyXPoKuSRYxvY"
+      "duration_ms": 185213,
+      "name": "Green Thumb",
+      "url": "https://open.spotify.com/track/1AF238PPGmau0Y9AV13Fp2"
     }
   ],
   "unique_name": "\uc7ac\uc988\ub9db \ud799\ud569",

@@ -1,6 +1,6 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 255609,
+  "num_followers": 255668,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH"
-      },
-      "artists": [
-        {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "We Just Disagree",
-      "url": "https://open.spotify.com/track/7qpuECko60EoztznowMWj1"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Endless Flight",
         "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
@@ -763,22 +747,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "What's Wrong with This Picture?",
-        "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
-      },
-      "artists": [
-        {
-          "name": "Andrew Gold",
-          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
-        }
-      ],
-      "duration_ms": 264893,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "The Pretender",
         "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
       },
@@ -791,6 +759,38 @@
       "duration_ms": 351000,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH"
+      },
+      "artists": [
+        {
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/7qpuECko60EoztznowMWj1"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "What's Wrong with This Picture?",
+        "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "duration_ms": 264893,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp"
     },
     {
       "added_at": "2022-06-29 18:01:05",

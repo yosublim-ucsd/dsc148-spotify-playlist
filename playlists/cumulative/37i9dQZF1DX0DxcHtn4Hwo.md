@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-832 songs - 1 day 0 hr 51 min
+838 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [De gelukkige olifant](https://open.spotify.com/track/6NlNhFxuE70uhafa8qII6f) | [Lorijn Engberts](https://open.spotify.com/artist/4GNuW8wZPsRhjBcNAnMXVw) | [De gelukkige olifant](https://open.spotify.com/album/3ZaIAOUKqw44FQJz4IrmXt) | 1:27 | 2022-05-12 | 2023-06-03 |
 | [Dear friend](https://open.spotify.com/track/6OlAeouZ2LpqWm0xfIuIla) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Dear friend](https://open.spotify.com/album/3xLQqYtb1EzWLigJTIjpI7) | 1:39 | 2023-04-07 | 2024-05-24 |
 | [Deerling](https://open.spotify.com/track/31UeN68d7ptFRmYkiuMGPc) | [Angela Simone](https://open.spotify.com/artist/57tm8rfEJMqvodKLqeoJpW) | [Wonderous](https://open.spotify.com/album/3mOYLczPc895azDE6q21AB) | 2:26 | 2023-05-05 |  |
+| [Delicate](https://open.spotify.com/track/5EJ0n1uUon8I2IdOweJD8b) | [Fröe](https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ) | [Delicate](https://open.spotify.com/album/5mEPlZ57YcIwGsIoJrBgWe) | 1:45 | 2024-06-07 |  |
 | [Den Finurliga Humlan](https://open.spotify.com/track/0SwL4QnOkrOLrigdCUlIn4) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Den Finurliga Humlan](https://open.spotify.com/album/6eqbBYqruKx9FTGOBHbLbf) | 2:27 | 2021-10-05 | 2023-02-25 |
 | [Den Visslande Valen](https://open.spotify.com/track/5NPZY6q7EffxPGX8VMjJC4) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Den Visslande Valen](https://open.spotify.com/album/7hBxYd5Zzos67NPhTbXJAu) | 2:13 | 2022-11-18 | 2023-08-11 |
 | [Ding dong](https://open.spotify.com/track/7aytpVhnbyhSk2SMYJyJ8F) | [Charlton Mynatt](https://open.spotify.com/artist/0BhoCPIZlDHUMMC8mXpCqU) | [Ding dong](https://open.spotify.com/album/6cckM8YGNmoqkleN5X6H4Z) | 1:25 | 2021-10-05 | 2024-03-29 |
@@ -234,6 +235,7 @@
 | [Frances My Furry Friend](https://open.spotify.com/track/0w2QlM4SIRqCUfiwNOGPQ0) | [Joanna Carlton](https://open.spotify.com/artist/7dXo2q3715N1By7UKzdBkN) | [Frances My Furry Friend](https://open.spotify.com/album/4RsU57LZ5ncHr7DfxagMvd) | 1:56 | 2022-06-30 | 2024-05-24 |
 | [Free Like A Bird](https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Free Like A Bird](https://open.spotify.com/album/4gs7itVM92J52UHqILnbIJ) | 2:16 | 2024-03-22 |  |
 | [Friendly Butterflies](https://open.spotify.com/track/40rMlrU1agJEz6HShxFwm8) | [Heloiza Parker](https://open.spotify.com/artist/4YbX63mGu2M59K9wqtijdy) | [Friendly Butterflies](https://open.spotify.com/album/1QxR8Vk2mli52I6LhRH0U0) | 1:31 | 2022-10-07 | 2023-04-09 |
+| [Friends Forever](https://open.spotify.com/track/4cnV7Q3qYtJ1AaCozMpDR4) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [Friends Forever](https://open.spotify.com/album/5pg8c5EWXXLsRcPImMMIRW) | 2:14 | 2024-06-07 |  |
 | [Frog On A Leaf](https://open.spotify.com/track/1ljnxWnU5FnfBGS7JNtRut) | [Anita Nightingale](https://open.spotify.com/artist/2k7EJjhofUBtbOosFYuiCQ) | [Frog On A Leaf](https://open.spotify.com/album/4NrH1RwY1aQWPxBMrqHxI5) | 1:05 | 2023-08-10 |  |
 | [From Head to Toe](https://open.spotify.com/track/6Qd9yQDg4SSaijJsJYk3dh) | [Bente Schultz](https://open.spotify.com/artist/0Ylc8FsQMFHOfc65S2ykPJ) | [From Head to Toe](https://open.spotify.com/album/6ySkCcqM4M8BCqJFSnmIoD) | 2:05 | 2022-07-27 | 2024-04-17 |
 | [Fun Adventure](https://open.spotify.com/track/3LwAe77XnL0B49uC6jDVTh) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [Fun Adventure](https://open.spotify.com/album/4r7cP73njueNrU9a95TVhT) | 2:26 | 2023-12-08 |  |
@@ -262,7 +264,7 @@
 | [Grand\-père le pirate](https://open.spotify.com/track/2mbliew6kCBxW2OJ8lUKJW) | [Fifine Lambert](https://open.spotify.com/artist/5NGndt3Ai0J5S6pQODYt3M) | [Grand\-père le pirate](https://open.spotify.com/album/6u0GZoQ3sru1NkWWJSy74s) | 1:50 | 2021-10-05 | 2022-10-29 |
 | [Grandma's Joy](https://open.spotify.com/track/5TddR8gnRf2e98VxraYKrB) | [Shena Weaver](https://open.spotify.com/artist/4MgXupxIIXZXDau5cIhL2M) | [Grandma's Joy](https://open.spotify.com/album/3Rxzsi4T0o3v2Y99mo5wNH) | 2:00 | 2022-12-16 | 2024-05-24 |
 | [Grandma's Lullaby](https://open.spotify.com/track/1xJuVKQ3DURGaNKDUCm3WS) | [Mio Moi](https://open.spotify.com/artist/6RQl4S8pqVOU10Su7Y1R0o) | [Grandma's Lullaby](https://open.spotify.com/album/17zuWwQ4oOYPBh6IXTXtSZ) | 1:53 | 2022-06-08 | 2023-10-06 |
-| [Group Hug](https://open.spotify.com/track/26EokHosQnMaElrnE2MJf0) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [The Moon Looks Like A Cake](https://open.spotify.com/album/4bsuR68E2sJNY6fvFOVQzN) | 1:16 | 2022-06-08 |  |
+| [Group Hug](https://open.spotify.com/track/26EokHosQnMaElrnE2MJf0) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [The Moon Looks Like A Cake](https://open.spotify.com/album/4bsuR68E2sJNY6fvFOVQzN) | 1:16 | 2022-06-08 | 2024-06-08 |
 | [Gubben i lådan](https://open.spotify.com/track/4QwTU7lEFSeFHDIMhwj7sS) | [Mia Sander](https://open.spotify.com/artist/0LnIcNhu7arRU9zzbCuYA7) | [Gubben i lådan](https://open.spotify.com/album/7KyEaQl2UHEjqX3O1xoJxz) | 0:49 | 2022-11-18 | 2023-06-03 |
 | [Gummi Bears Theme](https://open.spotify.com/track/00pGcGk7HvDQdleoLkel4l) | [Lullaby Panda](https://open.spotify.com/artist/4snCdKvo0v65k09GXhOO9R) | [Gummi Bears Theme](https://open.spotify.com/album/3KWddVYGEkSIYGfqIYllqF) | 2:13 | 2023-02-25 |  |
 | [Gute Nacht mein Kind](https://open.spotify.com/track/1kzyrRsnjUk0v1jCqZ1Es2) | [Katrin Bauer](https://open.spotify.com/artist/59Y2eW7PPRJAO53sxZ3Bvd) | [Gute Nacht mein Kind](https://open.spotify.com/album/7J8SBjSlBoclMcEz6TUrMQ) | 1:56 | 2021-10-05 | 2022-06-09 |
@@ -406,6 +408,7 @@
 | [Little Jack Horner](https://open.spotify.com/track/4E4WPKft2WloG16jooo7po) | [Jake the Caterpillar](https://open.spotify.com/artist/1v5MENumid8rTCRoFmt8cv) | [Little Jack Horner](https://open.spotify.com/album/7xFxYvag2mw6hdpRQx8yn2) | 1:47 | 2021-10-05 | 2022-02-11 |
 | [Little Jack Horner](https://open.spotify.com/track/5327ijcJLfIFjWPR0KRvYY) | [Rose Robertson](https://open.spotify.com/artist/2rTeg3p3Bk2PkXjGmdETsn) | [Little Jack Horner](https://open.spotify.com/album/4HdcFTsmId8JPaTZoIkskz) | 1:06 | 2023-02-17 |  |
 | [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 |  |
+| [Little Man In The Drawer](https://open.spotify.com/track/5q0mBe0wYcxIrwLXCKjiWs) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Little Man In The Drawer](https://open.spotify.com/album/3OBDmr68E4VR7Sqe0eFrbK) | 1:28 | 2024-06-07 |  |
 | [Little Miss Muffet](https://open.spotify.com/track/5E0dLWKa34CD8rVcOUVjo8) | [Maria Nevradka](https://open.spotify.com/artist/1Sb4V0G6h38ODoNu7dXTnn) | [Little Miss Muffet](https://open.spotify.com/album/2Qq76At3oFq0KNw0huVtVx) | 1:36 | 2022-12-16 | 2024-04-17 |
 | [Little Nap](https://open.spotify.com/track/7h9z7IKi8Ul6YF8mSHpj3b) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Little Nap](https://open.spotify.com/album/7FS1M0fr7GvyjwGGjHF6XH) | 1:37 | 2023-02-17 | 2023-05-05 |
 | [Little Peter Rabbit](https://open.spotify.com/track/5ttHAlmM8KqEx0mKYN7MQd) | [Nellie Willis](https://open.spotify.com/artist/6uYMCXqOmlp8m8aYybT858) | [Little Peter Rabbit](https://open.spotify.com/album/5uN4LwuBjajB5LsX6D81Pu) | 1:51 | 2023-01-27 |  |
@@ -568,6 +571,7 @@
 | [Quiet Raindrops](https://open.spotify.com/track/74jmhJrLxKmQPElZ5JuPAW) | [Sarah Schiller](https://open.spotify.com/artist/5Kk7ZNS9w8EaDLa7XUFH4v) | [Quiet Raindrops](https://open.spotify.com/album/6ubXUgE89yHymtc2eXC7kq) | 3:18 | 2021-10-05 | 2022-10-08 |
 | [Rainbow Bridge](https://open.spotify.com/track/1aNcIynXOBK6VXiG02L8Ix) | [Elma Korn](https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q) | [Rainbow Bridge](https://open.spotify.com/album/2XyDTjEnzPUPiFoOSXn5QW) | 2:13 | 2024-03-29 |  |
 | [Rainbow Whisperer](https://open.spotify.com/track/3DOZLaK5hDW2pAkJH1kzlk) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [The Rabbit and The Sparrow](https://open.spotify.com/album/3GbHYS7cr3dGKOBf4gvTlc) | 1:51 | 2022-08-10 |  |
+| [Raindrop Lullaby](https://open.spotify.com/track/3aCOZYJ9K8hMcVYnO4W2Y6) | [Claude Jules](https://open.spotify.com/artist/10twoL9Dyh3maVzU0zGcAJ) | [Raindrop Lullaby](https://open.spotify.com/album/7mSPZmjjaaHPP90sjmkHHF) | 1:56 | 2024-06-07 |  |
 | [Raining Tacos](https://open.spotify.com/track/4F7LwBolP2KB77EsEnzAD3) | [Lille Björn](https://open.spotify.com/artist/0rNj1fH9usXxEK48SfcR6K) | [Lullabies For The Small Stars](https://open.spotify.com/album/0zTA2iaUJRChmY458nhXd5) | 1:52 | 2023-02-17 |  |
 | [Rat In The Hat](https://open.spotify.com/track/3GZUhpSu3G5zhMRWC4k5ma) | [Stella Maria](https://open.spotify.com/artist/4RdgDdU3tQ2qvzToDFoQ36) | [Rat In The Hat](https://open.spotify.com/album/7p8i5EqvUcTzLKlYZR8QId) | 0:59 | 2023-12-08 |  |
 | [Ready for Bedtime](https://open.spotify.com/track/6KLsKhBDRZWnvgRUA0gDOt) | [Lisa Rast](https://open.spotify.com/artist/2auBmAJhZHsFFqN4OdeZK4) | [Ready for Bedtime](https://open.spotify.com/album/22fMh49ygU6sspPJQ8CyJz) | 2:08 | 2021-10-05 | 2022-10-29 |
@@ -723,6 +727,7 @@
 | [The Softest Teddy Bear](https://open.spotify.com/track/6NjvAvyyRAwHhrqRHKMVcS) | [Isla Fischer](https://open.spotify.com/artist/1nIb5VYXlWMQBYdg1a5wWg) | [Curious James](https://open.spotify.com/album/5BQBFaL41FTNmZEc7gcOq6) | 1:46 | 2021-10-05 | 2022-10-08 |
 | [The Squirrel in the Tree](https://open.spotify.com/track/281nk7IRScZJrj3veskbDW) | [Lily Hush](https://open.spotify.com/artist/0wNGyQjD4nIlMI7TJSNOhf) | [The Squirrel in the Tree](https://open.spotify.com/album/7J8tgOUusp9ps3W2vfc7bO) | 1:45 | 2022-12-16 |  |
 | [The star dream](https://open.spotify.com/track/1OCBLAXdExzlR7WsR1gxfg) | [Rhett Seabrooke](https://open.spotify.com/artist/0v6BFTew675c3thVxTTPne) | [The star dream](https://open.spotify.com/album/1bUAmOl70UXa2pwfHFqAgc) | 1:45 | 2021-10-05 | 2022-02-11 |
+| [The stars above](https://open.spotify.com/track/3KM4QDmp7zz2AnlFkbRwxT) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [The stars above](https://open.spotify.com/album/0BXJjzmGuVfajzwnM4uw0i) | 1:32 | 2024-06-07 |  |
 | [The Stars Above](https://open.spotify.com/track/4SwvSIQv33vIYY2p9TTFJF) | [Blaise Mildred](https://open.spotify.com/artist/3miyFGrqBnU5jV3VobEnu6) | [The Stars Above](https://open.spotify.com/album/19cUmdchoacoZTsbKe0nDU) | 1:14 | 2021-10-05 | 2022-11-19 |
 | [The Stars Above](https://open.spotify.com/track/1WY6rpRhyd0RFFiHUkYjRb) | [Luna Lullaby](https://open.spotify.com/artist/536tWPZqsyMSqSLXbftqg1) | [The Stars Above](https://open.spotify.com/album/7pHXhZ3mHRPj5Go0nlCmBD) | 1:40 | 2023-04-07 |  |
 | [The Sun And The Moon](https://open.spotify.com/track/672ddiOXkfFEohz6kDsQr7) | [Mio Niño](https://open.spotify.com/artist/6fQXNz8OKXCDBLdTepU6un) | [The Sun And The Moon](https://open.spotify.com/album/37WU53dkBC0QYdYNRb7FMU) | 1:53 | 2023-02-17 |  |
@@ -814,6 +819,7 @@
 | [When you go to sleep](https://open.spotify.com/track/77oq0SsarpDzdOG0WEbpBR) | [Chris Kit](https://open.spotify.com/artist/7vUPayHWsTGCFW37N8frG4) | [When you go to sleep](https://open.spotify.com/album/781AN8nnvGY7qh1BoOCAWk) | 1:50 | 2021-10-05 | 2023-03-10 |
 | [When You Hug Me](https://open.spotify.com/track/0tpCbJaLAyHiqqRi6nRPO5) | [Stan Curley](https://open.spotify.com/artist/2FjuSwXleCYb93E7k8NE2d) | [When You Hug Me](https://open.spotify.com/album/1UzdeKuKYjvVkKN4e0ztPb) | 1:45 | 2022-04-20 | 2024-05-24 |
 | [When You Opened Up Your Eyes](https://open.spotify.com/track/37kjqjUgTdKgvvjgsExBKB) | [Lucille Shannon](https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN) | [When You Opened Up Your Eyes](https://open.spotify.com/album/6P3HYig1wH5WnwtxttXPgN) | 1:04 | 2021-10-05 | 2024-03-29 |
+| [Where Do You Live Little Rat?](https://open.spotify.com/track/2tHcwJBMIqcUWZM5VF9Wc0) | [Yoni Laurent](https://open.spotify.com/artist/3oNMmoFpVOIq8Ce7tBRDRI) | [Where Do You Live Little Rat?](https://open.spotify.com/album/53a5FLR3M6sU4y9AvtNOSa) | 1:33 | 2024-06-07 |  |
 | [Where’s My Teddy Bear?](https://open.spotify.com/track/7tbW6fDFa6tn95EG5waC7w) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Where’s My Teddy Bear?](https://open.spotify.com/album/4G9l3MhnXhirfJO7UqFVjR) | 2:02 | 2021-10-05 | 2022-10-29 |
 | [White Pyjamas](https://open.spotify.com/track/2Zgn3c9rmuS7NOahAyblqf) | [Will Booker](https://open.spotify.com/artist/6SpSWfQAEuJKZeuYQRSeZZ) | [White Pyjamas](https://open.spotify.com/album/6StNsCIS4UCXEbj2n6BXn4) | 1:31 | 2021-10-05 | 2023-02-18 |
 | [Wish Of A Toddler](https://open.spotify.com/track/37P1PTdztBS2EK2NkXkABm) | [Tiny Tunesmiths](https://open.spotify.com/artist/4NdwGU18xaJXlBATAgNOkd) | [Wish Of A Toddler](https://open.spotify.com/album/76QYzLr4WogXSvvW1t2RJA) | 2:40 | 2024-05-31 |  |
@@ -839,6 +845,6 @@
 | [Your Song](https://open.spotify.com/track/5Yq4h1h4Vn2OrVol0tAWKj) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Your Song](https://open.spotify.com/album/7vpUOWDjFXmj7ODqhdUdy6) | 1:54 | 2024-05-24 |  |
 | [Your Teddy Friend](https://open.spotify.com/track/1jbBpqvGdzSm7CHBW1Psrw) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [Dreams Made Of Happy Thoughts](https://open.spotify.com/album/753A0gjzaaLxcMo01TP24j) | 2:10 | 2023-04-07 |  |
 | [Zeit zu schlafen](https://open.spotify.com/track/45P9Ki6dqc5d6qyKw34dw2) | [Jana Bohm](https://open.spotify.com/artist/6ehqULwx1NwQNyO6fLGMjJ) | [Zeit zu schlafen](https://open.spotify.com/album/4qTIfxiRIrpB9k2DUn3uL4) | 1:49 | 2021-10-05 | 2022-12-16 |
-| [Édes Álmok](https://open.spotify.com/track/6rxQGuuJBepEgrfw3VSvDJ) | [Gerô Andor](https://open.spotify.com/artist/2w525WYQLhjjeA7mAgFfoJ) | [Édes Álmok](https://open.spotify.com/album/480Ax3pdWeZE5P4ItewJoG) | 1:32 | 2022-04-20 |  |
+| [Édes Álmok](https://open.spotify.com/track/6rxQGuuJBepEgrfw3VSvDJ) | [Gerô Andor](https://open.spotify.com/artist/2w525WYQLhjjeA7mAgFfoJ) | [Édes Álmok](https://open.spotify.com/album/480Ax3pdWeZE5P4ItewJoG) | 1:32 | 2022-04-20 | 2024-06-08 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

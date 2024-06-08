@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-783 songs - 1 day 18 hr 3 min
+784 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [Talk You Down](https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Talk You Down](https://open.spotify.com/album/40M7WLALxAIR61uXjJAcWD) | 2:36 | 2021-01-08 |  |
 | [Tango](https://open.spotify.com/track/24jrwTJSlYOCguuLa4j28A) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [MINT](https://open.spotify.com/album/5hUQgovUfTYN47QGQXF8k2) | 3:06 | 2019-08-27\* | 2019-11-11 |
 | [Team](https://open.spotify.com/track/1H8k9sqpRBC0ijK6ygyD71) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV) | [Team](https://open.spotify.com/album/5Dq5313nv8d2pkAR8TWss8) | 2:56 | 2020-06-29 | 2021-05-12 |
+| [Tear It Down](https://open.spotify.com/track/0LbCpfo4gQN1VPizldIssg) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Tear It Down](https://open.spotify.com/album/3xaoTNP5aSWZMxV6kJZ9c5) | 3:18 | 2024-06-07 |  |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 | 2021-12-17 |  |
 | [Tears In The Typing Pool](https://open.spotify.com/track/2xFELTbN4G0rgID5uQGLvP) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Tender Buttons](https://open.spotify.com/album/28RiDrxACWNtbrUNy9Ks1X) | 2:12 | 2022-10-21 | 2022-11-14 |
 | [Telescope](https://open.spotify.com/track/129j5W9RW7EvQqzUWnQkp1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Telescope](https://open.spotify.com/album/7dt1Q1pu5BNOHJgCnlpzuS) | 2:50 | 2020-01-17 | 2020-03-20 |

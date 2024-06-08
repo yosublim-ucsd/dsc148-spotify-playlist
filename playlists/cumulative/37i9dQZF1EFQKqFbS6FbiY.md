@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-540 songs - 1 day 2 hr 15 min
+541 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Arrochinha Suado](https://open.spotify.com/track/7hHxSShHSuwxzDt9EqTz4C) | [Marcelo Lima](https://open.spotify.com/artist/5IsTcgGoR99b0kZLVcue9A), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Arrochinha Suado](https://open.spotify.com/album/7a3P5W73FxYO0DmaGddOwl) | 2:58 | 2023-12-30 |  |
 | [As Fitas do Amado Batista \- Ao Vivo](https://open.spotify.com/track/2PlohnwQixMvgu70gqsozB) | [Enzo & Thiago](https://open.spotify.com/artist/0nIcJLDRRSsTkZ3rI7l6Pm) | [As Fitas do Amado Batista / Farinha do Mesmo Saco \(Ao Vivo\)](https://open.spotify.com/album/5yo4vuiYcFqt7wsMuLc6Fk) | 2:26 | 2023-12-30 |  |
 | [Assume Ou Desassume \- Acústico](https://open.spotify.com/track/7FQrgVEgPVOv8cjfxD8Sbo) | [Kelvin e Gustavo](https://open.spotify.com/artist/4fCTwWqQITi3mPswut2wF7) | [Lá Em Casa \(Acústico\)](https://open.spotify.com/album/5CQPbEyFncbu0jbsVauMH5) | 3:07 | 2023-12-30 |  |
-| [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 | 2023-12-31 | 2024-06-06 |
+| [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 | 2023-12-31 |  |
 | [Atrás de um Amor](https://open.spotify.com/track/4ZknlAcDU1YuLaWAJc9CtJ) | [Alexandre & Adriano](https://open.spotify.com/artist/2e7WOH0frTNVD05G8Qc3Ej) | [Eu Vou Direto ao Ponto](https://open.spotify.com/album/0ZGsStiyWqALnUGlPp7qK1) | 2:37 | 2023-12-30 |  |
 | [Até Ontem \- Ao Vivo](https://open.spotify.com/track/5Y9LqBrYYMoGL53E72fH3T) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 3:10 | 2023-12-30 |  |
 | [Autógrafo ou Vrau \- Ao Vivo](https://open.spotify.com/track/2aGoNy4WBJ957ePFi5Zo9z) | [Jay Lima](https://open.spotify.com/artist/1WDdji3E8tOxuswkux0Sta) | [Autógrafo ou Vrau \(Ao Vivo\)](https://open.spotify.com/album/5MoUbtijAdipy1NRD9wGqb) | 3:01 | 2023-12-30 |  |
@@ -395,7 +395,8 @@
 | [Prova pra Eu Ver \- Ao Vivo](https://open.spotify.com/track/1oF49UW9i72g2GJBmpxhp8) | [Débora Vitória](https://open.spotify.com/artist/01YaVyADj1RRc04lQ65QCy) | [Débora Vitória \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/3kMFsETlyrHhLqCDBQ94aC) | 2:37 | 2023-12-30 |  |
 | [Provas de Amor \(Psicografado\)](https://open.spotify.com/track/0lhaiy0jS0svOdvUEiaDdD) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Eu e Você](https://open.spotify.com/album/7h6CWCea9P6SLDkL9dhdiP) | 2:38 | 2023-12-30 |  |
 | [Pézin Na Rua \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/75qv4qnNhOyZXzq2fHBjdI) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [No Morro \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/5mgO08IoSpp5C1BrqdDVyr) | 2:41 | 2023-12-30 |  |
-| [Quebra Esse Gelo](https://open.spotify.com/track/2gv7ZKtzi7dHVoLFpAM6DE) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/5o6ge5nutV05dTdfP8wUF5) | 2:56 | 2023-12-30 |  |
+| [Quebra Esse Gelo](https://open.spotify.com/track/2gv7ZKtzi7dHVoLFpAM6DE) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/5o6ge5nutV05dTdfP8wUF5) | 2:56 | 2023-12-30 | 2024-06-08 |
+| [Quebra Esse Gelo](https://open.spotify.com/track/4zqD3641QULpTGKiQaGfqa) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/7FQLDUqC75tCfP6orsmoml) | 2:56 | 2024-06-07 |  |
 | [Quem Ama Não Enjoa](https://open.spotify.com/track/1bM5FYtACTXbvOXjmMFXAD) | [Ricardo e João Fernando](https://open.spotify.com/artist/150zwD7rTVIEK5wO25gYez) | [Sorte](https://open.spotify.com/album/6qA6sLVPiPqgPLkpQ1j0Oh) | 2:23 | 2023-12-30 |  |
 | [Quem Foi Que Disse](https://open.spotify.com/track/5daiKEwn3MEKjfW4GbERuU) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [O Cowboy Vai Te Pegar](https://open.spotify.com/album/0vi1Ub7UuFJppxd27Dy4df) | 2:50 | 2023-12-30 |  |
 | [Quem Traiu Levou \- Ao Vivo](https://open.spotify.com/track/17Ryox5vWKp92IDW87C5PI) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 2:34 | 2023-12-30 |  |

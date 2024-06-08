@@ -4,7 +4,7 @@
 
 > Geolier in cover + le migliori uscite di questa settimana!
 
-670 songs - 1 day 9 hr 39 min
+671 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [GAS](https://open.spotify.com/track/2Waj6VDsOn8BbVwb7UanAT) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [GAS](https://open.spotify.com/album/2y36afSzqPiNKHoW9ERjUX) | 2:53 | 2024-04-26 | 2024-05-03 |
 | [GAS](https://open.spotify.com/track/1vm8Lzx4Hd6vOKF5Q6GCXa) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [GAS](https://open.spotify.com/album/272OajDwr17InniWwa7BHj) | 2:36 | 2024-05-31 | 2024-06-07 |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-05-31 | 2024-06-07 |
-| [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 6:59 | 2024-06-06 |  |
+| [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-06 |  |
 | [Gentleman](https://open.spotify.com/track/7mQCONtuyTnXtRLrjalQTF) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Gentleman](https://open.spotify.com/album/7jMBkYuzUijl15SBT1lP34) | 2:48 | 2024-05-02 | 2024-05-10 |
 | [GESÙ BAMBINO](https://open.spotify.com/track/0SPITJflzWbXuGYy3XzpV2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [NOLOTOV](https://open.spotify.com/album/52BDJ4sqrkv91RUyvvaHds) | 2:33 | 2024-05-31 | 2024-06-07 |
 | [Get Lit](https://open.spotify.com/track/22U208xCU1Vhw7jVlhnMZu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Get Lit](https://open.spotify.com/album/5RanHiETaj1Cd50lUxCbde) | 3:26 | 2024-05-02 | 2024-05-10 |
@@ -411,6 +411,7 @@
 | [NEON](https://open.spotify.com/track/5mxvimD3oUGQdsxyTAF8mc) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [MANTISTECH VOL.3](https://open.spotify.com/album/6KIXtd5hXBvJedG2F2inCo) | 2:44 | 2024-05-02 | 2024-05-10 |
 | [NESSUNO](https://open.spotify.com/track/6nqD9le3Pu9pNgU1ZiAACs) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF) | [NESSUNO](https://open.spotify.com/album/0UdRODelO4kTJ6KhoyEJjP) | 2:31 | 2024-06-06 |  |
 | [NEVE AL SOLE](https://open.spotify.com/track/6z1RlIjlUjvzlxgl7Dufp7) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8) | 3:20 | 2024-05-16 | 2024-05-24 |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-06 |  |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-26 | 2024-05-03 |
 | [New London boy](https://open.spotify.com/track/4cICGoff2F8uTr8JbcGFwt) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nonetheless](https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj) | 4:52 | 2024-04-26 | 2024-05-03 |
 | [NEW YORK](https://open.spotify.com/track/5uXTF5ri6ONf3tPj75tECK) | [POPMINERALE](https://open.spotify.com/artist/4O5lO0bnj8YQ9wSsUPQejj) | [NEW YORK](https://open.spotify.com/album/7iyBLDb9RhQVyS2NXL8Xcs) | 3:07 | 2024-06-06 |  |

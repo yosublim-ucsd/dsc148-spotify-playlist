@@ -1,13 +1,37 @@
 {
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=5-3ltZAmQIajFl12I2zImA\">Early B</a> ",
-  "num_followers": 1576,
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=9PTEqsPxTgq3Vja7mAf6nA\">Ziggy4x</a> ",
+  "num_followers": 1578,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmIxYAAAAADEP85XRmzO5G3OhQt8QLwd",
+  "snapshot_id": "ZmLIQAAAAAAoTNs/rUCkZ/wnT0M3QaLZ",
   "tracks": [
+    {
+      "added_at": "2024-06-07 08:43:44",
+      "album": {
+        "name": "Slat Los",
+        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/2OfFDuuFAIhQZOAEfp0s5u"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Slat Los",
+      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+    },
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
@@ -49,6 +73,42 @@
       "url": "https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk"
     },
     {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
+      },
+      "artists": [
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        },
+        {
+          "name": "Young OG CPT",
+          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Dinge",
+        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "duration_ms": 132478,
+      "name": "Dinge",
+      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
+    },
+    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "HONNE",
@@ -77,40 +137,20 @@
       "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
     },
     {
-      "added_at": "2024-02-22 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Dinge",
-        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
+        "name": "When days are dark",
+        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
       },
       "artists": [
         {
-          "name": "C.M.T",
-          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
         }
       ],
-      "duration_ms": 132478,
-      "name": "Dinge",
-      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/3ug5SKrtKBpqI7Ni6xgivM"
-      },
-      "artists": [
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        },
-        {
-          "name": "Young OG CPT",
-          "url": "https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/73ypQOtbzrDIjtFqmS453f"
+      "duration_ms": 170657,
+      "name": "When days are dark",
+      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -127,22 +167,6 @@
       "duration_ms": 195361,
       "name": "Janneman",
       "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "When days are dark",
-        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 170657,
-      "name": "When days are dark",
-      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -223,22 +247,18 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Moola",
-        "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
+        "name": "Stap Soldaat",
+        "url": "https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ"
       },
       "artists": [
         {
           "name": "Loufi",
           "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        },
-        {
-          "name": "Jayms",
-          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
         }
       ],
-      "duration_ms": 184407,
-      "name": "Moola",
-      "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
+      "duration_ms": 190327,
+      "name": "Stap Soldaat",
+      "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
     },
     {
       "added_at": "2024-04-05 04:23:02",
@@ -259,26 +279,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Sundphazamisa",
-        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
-      },
-      "artists": [
-        {
-          "name": "Umlungu The Rapper",
-          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
-        },
-        {
-          "name": "Big Xhosa",
-          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
-        }
-      ],
-      "duration_ms": 192296,
-      "name": "Sundphazamisa",
-      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Die Way Sy",
         "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
       },
@@ -295,6 +295,26 @@
       "duration_ms": 158400,
       "name": "Die Way Sy",
       "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Spitbraai",
+        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Spitbraai",
+      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -331,38 +351,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Op Dai",
-        "url": "https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY"
+        "name": "Sundphazamisa",
+        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
       },
       "artists": [
         {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
-        }
-      ],
-      "duration_ms": 206928,
-      "name": "Op Dai",
-      "url": "https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Spitbraai",
-        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+          "name": "Umlungu The Rapper",
+          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
         },
         {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+          "name": "Big Xhosa",
+          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Spitbraai",
-      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
+      "duration_ms": 192296,
+      "name": "Sundphazamisa",
+      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     },
     {
       "added_at": "2024-04-05 04:23:02",
@@ -399,94 +403,38 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Stap Soldaat",
-        "url": "https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 190327,
-      "name": "Stap Soldaat",
-      "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Hie Kom Ons",
-        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 164927,
-      "name": "Hie Kom Ons",
-      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Blokfluit",
-        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
-      },
-      "artists": [
-        {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
-        },
-        {
-          "name": "Die Twaalf",
-          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
-        }
-      ],
-      "duration_ms": 192783,
-      "name": "Blokfluit",
-      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Lewe Soos 'n Laanie",
-        "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
-      },
-      "artists": [
-        {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "GBOY",
-          "url": "https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1"
-        }
-      ],
-      "duration_ms": 201126,
-      "name": "Lewe Soos 'n Laanie",
-      "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "JMHWB",
-        "url": "https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO"
+        "name": "Op Dai",
+        "url": "https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY"
       },
       "artists": [
         {
           "name": "Cream Machine",
           "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
-        },
-        {
-          "name": "Stuwi W",
-          "url": "https://open.spotify.com/artist/1I6vji9IXigkijAeej9pQO"
         }
       ],
-      "duration_ms": 227691,
-      "name": "JMHWB",
-      "url": "https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th"
+      "duration_ms": 206928,
+      "name": "Op Dai",
+      "url": "https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Moola",
+        "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "duration_ms": 184407,
+      "name": "Moola",
+      "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
     },
     {
       "added_at": "2024-04-28 17:02:43",
@@ -511,18 +459,78 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Gan Se Jou Mense",
-        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
+        "name": "Lewe Soos 'n Laanie",
+        "url": "https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb"
       },
       "artists": [
         {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "GBOY",
+          "url": "https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1"
         }
       ],
-      "duration_ms": 181480,
-      "name": "Wiggy",
-      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
+      "duration_ms": 201126,
+      "name": "Lewe Soos 'n Laanie",
+      "url": "https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Hie Kom Ons",
+        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "Hie Kom Ons",
+      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "JMHWB",
+        "url": "https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO"
+      },
+      "artists": [
+        {
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        },
+        {
+          "name": "Stuwi W",
+          "url": "https://open.spotify.com/artist/1I6vji9IXigkijAeej9pQO"
+        }
+      ],
+      "duration_ms": 227691,
+      "name": "JMHWB",
+      "url": "https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Blokfluit",
+        "url": "https://open.spotify.com/album/0yRERnFdpwqCaUpMdxSOp4"
+      },
+      "artists": [
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz"
+        },
+        {
+          "name": "Die Twaalf",
+          "url": "https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "Blokfluit",
+      "url": "https://open.spotify.com/track/654MqjCBnx1yaRBVyVJipk"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -567,6 +575,38 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Bishop Lavis",
+        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Lavis",
+      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Gan Se Jou Mense",
+        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "Wiggy",
+      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk"
       },
@@ -597,38 +637,6 @@
       "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Bishop Lavis",
-        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Lavis",
-      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "DIE LANIE",
-        "url": "https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe"
-      },
-      "artists": [
-        {
-          "name": "Madgas",
-          "url": "https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH"
-        }
-      ],
-      "duration_ms": 163526,
-      "name": "DIE LANIE",
-      "url": "https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1"
-    },
-    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Nou Wat Nou",
@@ -647,6 +655,22 @@
       "duration_ms": 222809,
       "name": "Nou Wat Nou",
       "url": "https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "DIE LANIE",
+        "url": "https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe"
+      },
+      "artists": [
+        {
+          "name": "Madgas",
+          "url": "https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH"
+        }
+      ],
+      "duration_ms": 163526,
+      "name": "DIE LANIE",
+      "url": "https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -747,26 +771,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hou Vas",
-        "url": "https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU"
-      },
-      "artists": [
-        {
-          "name": "Klein Fortuin",
-          "url": "https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5"
-        },
-        {
-          "name": "Illrow",
-          "url": "https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7"
-        }
-      ],
-      "duration_ms": 186409,
-      "name": "Hou Vas",
-      "url": "https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Sal Alright is",
         "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
       },
@@ -787,6 +791,26 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Hou Vas",
+        "url": "https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU"
+      },
+      "artists": [
+        {
+          "name": "Klein Fortuin",
+          "url": "https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5"
+        },
+        {
+          "name": "Illrow",
+          "url": "https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7"
+        }
+      ],
+      "duration_ms": 186409,
+      "name": "Hou Vas",
+      "url": "https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/3XFk6y7qOGBONEP0C7Vlme"
       },
@@ -799,6 +823,22 @@
       "duration_ms": 121208,
       "name": "Los Hom",
       "url": "https://open.spotify.com/track/7Iec6TaiOl3rOaqW3cTCfk"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Big Cee",
+        "url": "https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz"
+      },
+      "artists": [
+        {
+          "name": "Cee Jay Zondagh",
+          "url": "https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Trap In Die Hood",
+      "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -823,22 +863,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Big Cee",
-        "url": "https://open.spotify.com/album/59W9gdp4g28mnEy5KAXnmz"
-      },
-      "artists": [
-        {
-          "name": "Cee Jay Zondagh",
-          "url": "https://open.spotify.com/artist/4VmAlrF7izp3l9EaOzSedM"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Trap In Die Hood",
-      "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw"
       },
@@ -851,6 +875,30 @@
       "duration_ms": 188453,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Dus Okay",
+        "url": "https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt"
+      },
+      "artists": [
+        {
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+        },
+        {
+          "name": "Jovie",
+          "url": "https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37"
+        },
+        {
+          "name": "EmGee",
+          "url": "https://open.spotify.com/artist/7tztZahujREhfsctTM4czq"
+        }
+      ],
+      "duration_ms": 199485,
+      "name": "Dus Okay",
+      "url": "https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -887,46 +935,6 @@
       "duration_ms": 160000,
       "name": "So Laatie Dou",
       "url": "https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Dus Okay",
-        "url": "https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt"
-      },
-      "artists": [
-        {
-          "name": "Marky Futurekid",
-          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
-        },
-        {
-          "name": "Jovie",
-          "url": "https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37"
-        },
-        {
-          "name": "EmGee",
-          "url": "https://open.spotify.com/artist/7tztZahujREhfsctTM4czq"
-        }
-      ],
-      "duration_ms": 199485,
-      "name": "Dus Okay",
-      "url": "https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs"
-    },
-    {
-      "added_at": "2024-02-22 22:00:00",
-      "album": {
-        "name": "Wat Ek Moet Doen",
-        "url": "https://open.spotify.com/album/3N574squ1VAtisezwlbE8s"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        }
-      ],
-      "duration_ms": 142863,
-      "name": "Wat Ek Moet Doen",
-      "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Eugenio Esquivel, Sebastian Esquivel y Kevin AMF
+> Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta\. Cover: Luis R Conriquez, José Guicho, Tito Double P
 
-462 songs - 23 hr 52 min
+463 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [LA CONSE](https://open.spotify.com/track/1ex3L3v1cS3Lkt7F64j6bw) | [BabyGrec](https://open.spotify.com/artist/3qLmnqk0Y5RjGLGsgfmR0C), [David Valdez](https://open.spotify.com/artist/7nwzeLvPhUYgihlF8FgLt4) | [LA CONSE](https://open.spotify.com/album/6RBgWjeAUh7LJhj6zSH7mC) | 2:48 | 2024-02-24 | 2024-05-04 |
 | [La Dieta](https://open.spotify.com/track/057ybvJLKXxHmalgXR7jru) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [La Dieta](https://open.spotify.com/album/5h6bpaTTjza3Eqly1g3ggk) | 3:01 | 2023-08-04 | 2023-12-07 |
 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 | 2022-04-19 | 2022-07-09 |
+| [La Fiesta](https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [José Guicho](https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Fiesta](https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g) | 2:32 | 2024-06-07 |  |
 | [La Importante](https://open.spotify.com/track/3z6L8zlwNhkLiitfPc3nng) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [La Importante](https://open.spotify.com/album/5SQqI35jSvr45Aol3bN02B) | 3:30 | 2022-03-21 | 2022-04-20 |
 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 | 2022-03-21 | 2022-07-09 |
 | [La Mamá de la Mamá \(Remix\)](https://open.spotify.com/track/72LVZma2Bd7Y6imwoSecR6) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [La Mamá de la Mamá \(Remix\)](https://open.spotify.com/album/1ubYagKmXunmu8XSa3jVt2) | 4:18 | 2022-03-21 | 2022-04-26 |

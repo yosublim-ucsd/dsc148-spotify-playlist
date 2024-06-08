@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> & <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI</a> har den idag med <a href="spotify:track:5ehIhNQBMskl6sPE9Jf4TH">Eneste</a> den her fredag 🎶
 
-739 songs - 1 day 13 hr 48 min
+740 songs - 1 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [N o C h i l l \- Slowed](https://open.spotify.com/track/7Ke91DIYYMKPBxX9Hh4JoC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [N o C h i l l \(Slowed\)](https://open.spotify.com/album/06ULKFJSNvi7eo1VxGKtXn) | 4:37 | 2024-06-06 |  |
 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 | 2024-05-30 | 2024-06-07 |
 | [nepal](https://open.spotify.com/track/3Kbw7KnsGMTEBsxg8FrMIn) | [LONG ISLAND](https://open.spotify.com/artist/2wji8LCdhqiSHL4mtdzOuu) | [nepal](https://open.spotify.com/album/40SVqhwQ9oVRXN4WEuKPVo) | 2:54 | 2024-05-09 | 2024-05-17 |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-06 |  |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-04-26 | 2024-05-03 |
 | [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 | 2024-04-26 | 2024-05-03 |
 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-05-30 | 2024-06-07 |

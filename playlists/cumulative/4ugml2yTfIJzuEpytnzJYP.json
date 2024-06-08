@@ -2383,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Inori",
+        "url": "https://open.spotify.com/album/1rrz2jbxSKTl74PvTb75nr"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201538,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/2btpbaSMhB1y6Z1FczPY7o"
+    },
+    {
+      "album": {
         "name": "Is There Anybody Out There",
         "url": "https://open.spotify.com/album/7Krdabty2ZZ7sYeLmXA5ms"
       },

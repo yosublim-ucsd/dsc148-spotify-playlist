@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-383 songs - 23 hr 58 min
+384 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/36HaY0w1BAbM6w1zWxguPu) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/72ov5JIcL7C7DA3rOOVEtu) | 3:34 | 2023-09-29 | 2023-11-18 |
 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 | 2024-02-16 |  |
 | [Dare You to Move](https://open.spotify.com/track/4uyCECRGpW2NFsSaPvkkVm) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Dare You to Move](https://open.spotify.com/album/59Q0IT2MMPbO0psMj3oINn) | 3:44 | 2023-12-08 | 2024-01-30 |
-| [Dear Mama](https://open.spotify.com/track/76xYzFH13Kobw09L1moout) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dear Mama](https://open.spotify.com/album/4T6g2QJtyZtrBg7wbLnDE0) | 3:33 | 2024-05-03 |  |
+| [Dear Mama](https://open.spotify.com/track/76xYzFH13Kobw09L1moout) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Dear Mama](https://open.spotify.com/album/4T6g2QJtyZtrBg7wbLnDE0) | 3:33 | 2024-05-03 | 2024-06-08 |
 | [Desperado](https://open.spotify.com/track/3nkxbitSWz9zZrE7WDvNzE) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Desperado](https://open.spotify.com/album/1lC4GfcSMniIqTx9BckSFb) | 3:17 | 2021-12-10 | 2022-07-29 |
 | [Desperate Man](https://open.spotify.com/track/7aGILHwGlI1uZ1VTxAWPPf) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 4:53 | 2022-03-25 | 2022-04-21 |
 | [Die a Happy Man](https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Die a Happy Man](https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4) | 3:34 | 2022-01-07 | 2023-01-06 |
@@ -179,6 +179,7 @@
 | [In The Air Tonight](https://open.spotify.com/track/6j7MXYyyMQXHStKzBFAUez) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Uncovered](https://open.spotify.com/album/5hs99gvzSISGOEmncgy853) | 4:29 | 2021-12-10 | 2022-07-29 |
 | [In The Ghetto](https://open.spotify.com/track/0nbCaZiVcMymlmRiXo4cUp) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [In The Ghetto](https://open.spotify.com/album/3CiaaaS65DDkakXc8Seamm) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 | 2021-12-10 | 2023-08-19 |
+| [Iris](https://open.spotify.com/track/4T0NKEfBxsVsSjoMg5FsNV) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Iris](https://open.spotify.com/album/6kwvbPkXCbL0ywkLUlooKo) | 3:13 | 2024-06-07 |  |
 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 | 2021-12-10 |  |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-12-10 |  |
 | [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/track/7gwvx0fFiEQLSUhrZ4TQ3l) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It's A Great Day To Be Alive \(Live From The Ryman\)](https://open.spotify.com/album/2LLIkF8XJg15bZyGuHhjH0) | 3:58 | 2024-02-02 | 2024-06-02 |

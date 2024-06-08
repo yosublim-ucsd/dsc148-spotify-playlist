@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Jeff Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,793 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,898 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 16 | [anlatamam](https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [anlatamam](https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf) | 2:02 |
 | 17 | [King of Rap](https://open.spotify.com/track/3wbVrnev0g71xcrpQhzfRw) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [King of Rap](https://open.spotify.com/album/6b60t1x47eZhkbb2KEF44q) | 3:41 |
 | 18 | [Kaptan](https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kaptan](https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs) | 3:11 |
-| 19 | [Beni Yargılama](https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1) | [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Beni Yargılama](https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB) | 2:37 |
+| 19 | [Beni Yargılama](https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1) | [Narco](https://open.spotify.com/artist/2StPUwIBbp6J9gAPUMQptu), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Beni Yargılama](https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB) | 2:37 |
 | 20 | [Kimler Gelmiş](https://open.spotify.com/track/1hTGDVYNtZ5PEnJtawJz2o) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [Kimler Gelmiş](https://open.spotify.com/album/434v3QmLFWEO6tul6tLCbw) | 2:08 |
 | 21 | [Süzülerek](https://open.spotify.com/track/4c8GowvkAkbzC4RqdH0SQV) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [DÖNMEK İÇİN EVE](https://open.spotify.com/album/64fwU37sl4h3v0FpSBfQ5O) | 3:36 |
 | 22 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 47 | [Promilim Yüksek](https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Promilim Yüksek](https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC) | 2:13 |
 | 48 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
 | 49 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
-| 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
+| 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/2StPUwIBbp6J9gAPUMQptu) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
 Snapshot ID: `ZmIjUAAAAADHiulb5TduMDolkyY9LA8d`

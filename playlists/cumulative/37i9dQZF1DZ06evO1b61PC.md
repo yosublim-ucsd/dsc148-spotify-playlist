@@ -2,7 +2,7 @@
 
 ### [This Is Jai Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b61PC)
 
-> This is Jai Wolf\. The essential tracks, all in one playlist.
+> This Is Jai Wolf\. Les titres incontournables, réunis dans une seule et même playlist.
 
 27 songs - 1 hr 43 min
 

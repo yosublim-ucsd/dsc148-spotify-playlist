@@ -4,7 +4,7 @@
 
 > Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ?si=f4e302281419482f">Lclub Podcast</a>
 
-18 songs - 21 hr 19 min
+19 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Nvidia: La compañía que va ganando la carrera de AI y vale $2T USD](https://open.spotify.com/episode/7AdilwFQVutDukhhDrVj4x) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:19:45 | 2024-06-05 |  |
 | [RYANAIR: El Éxito y la Controversia](https://open.spotify.com/episode/3TsnomCCChKhSAgxgn4f5f) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 51:10 | 2024-06-05 |  |
 | [SANTA MUERTE, DUENDES Y FANTASMAS \| Invitado: Grecko 96](https://open.spotify.com/episode/3owJe7u8fOfUCBO82QOYVy) | [Paranormal](https://open.spotify.com/show/6uiXpyl749yOE2vs8sCrdW) | [Paranormal](https://open.spotify.com/album/6uiXpyl749yOE2vs8sCrdW) | 1:50:46 | 2022-06-23 | 2024-06-06 |
-| [T2 I EP.11 I ME ENAMORÉ DE MI AMIGA](https://open.spotify.com/episode/5o9fHAoh58W5tGK0m6brfa) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 57:25 | 2024-06-05 |  |
+| [T2 I EP.11 I ME ENAMORÉ DE MI AMIGA](https://open.spotify.com/episode/5o9fHAoh58W5tGK0m6brfa) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 57:25 | 2024-06-05 | 2024-06-08 |
 | [T2 I EP.13 I HAY QUE CHIGARLE!!! I FT\. KIKA EDGAR](https://open.spotify.com/episode/1vHdp8qzyIVCZwzgQMZYrd) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 1:15:30 | 2024-06-05 |  |
+| [T3 I EP.1 I LAS GRANDES GATADAS!](https://open.spotify.com/episode/4nan6dRWBzwh7cByevJey3) | [Lclub Podcast](https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ) | [Lclub Podcast](https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ) | 1:11:16 | 2024-06-07 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

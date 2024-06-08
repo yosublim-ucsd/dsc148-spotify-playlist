@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/5yLKMCgDAbbkY9KWWIdrNJ.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:54 |
-| 2 | [pockets \- mixtape version](https://open.spotify.com/track/2f11QFvUnZrr6PD6PyPvew) | [hard life](https://open.spotify.com/artist/4NBy8GrIuxe1EzQSS2YTmX) | [creature habits mixtape](https://open.spotify.com/album/7K9RSzP68p3vpNNDpySQQu) | 3:53 |
+| 2 | [pockets \- mixtape version](https://open.spotify.com/track/2f11QFvUnZrr6PD6PyPvew) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [creature habits mixtape](https://open.spotify.com/album/7K9RSzP68p3vpNNDpySQQu) | 3:53 |
 | 3 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 |
 | 4 | [Oh Devil \(feat\. Devin Di Dakta\) \[Radio Edit\]](https://open.spotify.com/track/7AaRrRigtRByXLRyY2rOn5) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs), [Devin Di Dakta](https://open.spotify.com/artist/2XoGO4QcRyFI1Df8exDo7Z) | [Oh Devil \(feat\. Devin Di Dakta\) \[Radio Edit\]](https://open.spotify.com/album/2j1CaQBnR5m5HomeYahvbh) | 3:37 |
 | 5 | [Cornerstone](https://open.spotify.com/track/5bsnLiT00hG37qd8p2jdVl) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:17 |

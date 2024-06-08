@@ -4,7 +4,7 @@
 
 > Welcome to the BTS's universe\. A.R.M.Y is unbeatable 💜
 
-495 songs - 1 day 5 hr 29 min
+497 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Look Here](https://open.spotify.com/track/0x4cMbCLC6L7aJQs3EiPaZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 3:38 | 2022-05-27 |  |
 | [Lost](https://open.spotify.com/track/2So2zLatKtnIP0cy3a4Fn0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 4:01 | 2022-05-27 | 2023-02-03 |
 | [Lost](https://open.spotify.com/track/6aDhj6RxOvQ4GFo9U7lZYi) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:01 | 2022-05-27 |  |
+| [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-06-07 |  |
 | [Louder than bombs](https://open.spotify.com/track/15xT6IkTumRGbbSim0t11u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/7HXqq0fokRpOKG0bQW4xnB) | 3:37 | 2022-06-10 | 2022-06-18 |
 | [Louder than bombs](https://open.spotify.com/track/4Aw8n6r2vuU0KUo1a2nftp) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:37 | 2022-06-03 |  |
 | [Love Is Not Over \(Full Length Edition\)](https://open.spotify.com/track/12MGUs7yIus6sU09ekZMjw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:41 | 2022-05-27 |  |
@@ -344,6 +345,7 @@
 | [N.O](https://open.spotify.com/track/2GEnvQgSJhedm2sqZlOP8o) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:29 | 2022-06-20 | 2022-06-22 |
 | [N.O](https://open.spotify.com/track/7JosxtkCqIQieNWXA2Dj3v) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 3:29 | 2022-05-27 |  |
 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 | 2024-03-29 |  |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-07 |  |
 | [No More Dream](https://open.spotify.com/track/4frlkLwlnm58ejpNwWjxyl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) | 3:41 | 2022-06-10 | 2022-06-18 |
 | [No More Dream](https://open.spotify.com/track/089PFeXotzDLNQz9NCk6pF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 3:42 | 2022-05-27 |  |
 | [No More Dream](https://open.spotify.com/track/27S8iOXD7Z58yvJtyk2S9j) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:42 | 2022-06-20 | 2022-06-22 |

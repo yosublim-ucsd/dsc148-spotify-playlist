@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 176883,
       "name": "Favorita",
       "url": "https://open.spotify.com/track/10aDvjUblBCmMSMfn9uk6T"
@@ -3533,6 +3533,32 @@
     },
     {
       "album": {
+        "name": "Ouvindo Oruam",
+        "url": "https://open.spotify.com/album/4I0y15Dbmbkl7s6wTc6ce0"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "HITZIN",
+          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Ouvindo Oruam",
+      "url": "https://open.spotify.com/track/7JXOnWAF1E45e12ZRZngbC"
+    },
+    {
+      "album": {
         "name": "Pai",
         "url": "https://open.spotify.com/album/3JNIowHsbDit9jd3Y5MI95"
       },
@@ -3718,7 +3744,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 163525,
       "name": "Perdi Na Moral - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6TMXvGzcUwcuEwl67req86"

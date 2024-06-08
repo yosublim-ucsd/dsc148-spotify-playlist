@@ -2781,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Shut Up & Play!",
+        "url": "https://open.spotify.com/album/2gW9afujHnMJH3XSKullg1"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267106,
+      "name": "I Hate Love",
+      "url": "https://open.spotify.com/track/7FPgVDH2V3uIX61q6Au8yN"
+    },
+    {
+      "album": {
         "name": "I Let My Guitar Do The Talking",
         "url": "https://open.spotify.com/album/1ldh55ODHFyehFYty8YEiq"
       },
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 244986,
       "name": "Internet Cowboys",
       "url": "https://open.spotify.com/track/0Q9T0EmJqzr0zc02fZopUx"
@@ -4137,6 +4155,24 @@
     },
     {
       "album": {
+        "name": "A Trip A Stumble A Fall Down On Your Knees",
+        "url": "https://open.spotify.com/album/0hlGgruCrAt6S7O28tnhxv"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292760,
+      "name": "Move to the Country",
+      "url": "https://open.spotify.com/track/5HbUq35R8wh1HYDlv0REwj"
+    },
+    {
+      "album": {
         "name": "Need Somebody",
         "url": "https://open.spotify.com/album/6C4AxHzymaKYTXER51I7xG"
       },
@@ -4580,7 +4616,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 215666,
       "name": "Payback Time (ft. Billy Gibbons)",
       "url": "https://open.spotify.com/track/1S129VbPDmmyHxYwYuwPqz"
@@ -4862,6 +4898,24 @@
       "duration_ms": 302053,
       "name": "Risin' Up",
       "url": "https://open.spotify.com/track/3SwzJIkMEbLjAK97hEaaLV"
+    },
+    {
+      "album": {
+        "name": "Bayport BBQ Blues",
+        "url": "https://open.spotify.com/album/1xXqW6V7aVyaTaAM5gv0dU"
+      },
+      "artists": [
+        {
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "River Picker",
+      "url": "https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S"
     },
     {
       "album": {
@@ -5418,7 +5472,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 155336,
       "name": "Stagger Lee",
       "url": "https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5"
@@ -5472,7 +5526,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 328000,
       "name": "Star",
       "url": "https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU"
@@ -5578,6 +5632,28 @@
       "duration_ms": 249106,
       "name": "Strong as Steel",
       "url": "https://open.spotify.com/track/2zurVB1sxDSgt2EdGjaICS"
+    },
+    {
+      "album": {
+        "name": "Struck Down By The Blues",
+        "url": "https://open.spotify.com/album/16zh4gBk2anspUfkCel3bW"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        },
+        {
+          "name": "Steve Strongman",
+          "url": "https://open.spotify.com/artist/07oB8UBTSptGWz3tu5nIVG"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Struck Down By The Blues (ft. Steve Strongman)",
+      "url": "https://open.spotify.com/track/18Mcw52EAQRlA4awyJby3r"
     },
     {
       "album": {

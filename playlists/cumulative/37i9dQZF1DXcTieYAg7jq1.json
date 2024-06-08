@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
@@ -5126,7 +5126,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162666,
       "name": "OUT OF CONTEXT",
       "url": "https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv"
@@ -5443,6 +5443,24 @@
     },
     {
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "album": {
         "name": "Poems",
         "url": "https://open.spotify.com/album/0U488y0DIX3TpYM9rjcHj9"
       },
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 192993,
       "name": "Radio Wave",
       "url": "https://open.spotify.com/track/7h1xpkSNbYaZWBx4xfHJfc"
@@ -5880,6 +5898,24 @@
       "duration_ms": 143880,
       "name": "Shook",
       "url": "https://open.spotify.com/track/15mlyFocsUp6NsURCb8MI4"
+    },
+    {
+      "album": {
+        "name": "Short Hair",
+        "url": "https://open.spotify.com/album/5Z1cEW2Oabkzp7dkkIJQw6"
+      },
+      "artists": [
+        {
+          "name": "Allie Dunn",
+          "url": "https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254243,
+      "name": "Short Hair",
+      "url": "https://open.spotify.com/track/5YuVDItjVSibb1A0DjD2J1"
     },
     {
       "album": {
@@ -7412,6 +7448,24 @@
       "duration_ms": 241057,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148898,
+      "name": "Whoops",
+      "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
     },
     {
       "album": {

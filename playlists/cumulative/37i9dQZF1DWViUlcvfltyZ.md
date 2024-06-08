@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie e punk dall'Italia\. FASK in cover.
 
-965 songs - 2 day 5 hr 32 min
+966 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Candles](https://open.spotify.com/track/6ofXiQnzy0h8HvOs3P8zdy) | [V/Z](https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Candles / Candles \(Version\)](https://open.spotify.com/album/64Hz6EpcFYvqvFxWYJiqXe) | 2:31 | 2023-05-18 | 2023-06-09 |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-05-23 |  |
 | [Cani+](https://open.spotify.com/track/28ctZ2myZj37wuXaZCAPs8) | [Dodo Quartet](https://open.spotify.com/artist/7JbowsTFL1dSlxZdcHfBU1) | [Cani+](https://open.spotify.com/album/7qny3hndlFkpNh4x1Jsrun) | 3:03 | 2024-02-29 | 2024-04-05 |
+| [CANTO](https://open.spotify.com/track/11oXiV5L5nd8XJAxXhpC2d) | [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Deserti](https://open.spotify.com/album/1xjsJ6u5qKVKascemrTtEL) | 3:29 | 2024-06-07 |  |
 | [canzo/paure](https://open.spotify.com/track/2ZUd2twmaOFOtLtzDtYDe2) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [glicine](https://open.spotify.com/album/3pVyV0QheNbKvAei5uV8lX) | 3:18 | 2022-06-23 | 2022-07-08 |
 | [Canzone 10](https://open.spotify.com/track/4kgotZC0lTFDC9VxshW705) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 10](https://open.spotify.com/album/0na7MpYLhqiienk3tW9uSg) | 4:18 | 2022-09-15 | 2023-01-27 |
 | [Canzone 7](https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 7](https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq) | 3:10 | 2022-09-01 | 2022-09-16 |
@@ -566,7 +567,7 @@
 | [Mostri](https://open.spotify.com/track/25sAqm9aLH5BAlHZrtHb6t) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Mostri](https://open.spotify.com/album/2RkMXYNhbHswtv5wlfoICj) | 2:50 | 2024-04-11 |  |
 | [Motherland](https://open.spotify.com/track/6CBh3mIbYC2QBAvcRPcosA) | [ANGLES](https://open.spotify.com/artist/3xQS0H7dzZrcMgP4HfJP1D) | [OBTUSE](https://open.spotify.com/album/4gs83HedaMK4UCNxpu00yh) | 2:52 | 2023-07-20 | 2023-08-24 |
 | [Moulin Rouge](https://open.spotify.com/track/73cjReNmAtBDm59fuTNzaF) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Moulin Rouge](https://open.spotify.com/album/5GdM5uruWJCaGL525mNNhU) | 2:50 | 2023-06-15 | 2023-07-19 |
-| [mozzicone](https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [mozzicone](https://open.spotify.com/album/2pASAiBUfL9NbwS8DSHwdN) | 2:45 | 2024-04-11 |  |
+| [mozzicone](https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [mozzicone](https://open.spotify.com/album/2pASAiBUfL9NbwS8DSHwdN) | 2:45 | 2024-04-11 | 2024-06-08 |
 | [Multiculti supermarket](https://open.spotify.com/track/1B2enYYrBLeUfDKBFv1faT) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Multiculti supermarket](https://open.spotify.com/album/4yxX7IQ7lT1njmkVgzCXtw) | 3:19 | 2022-05-09 | 2022-05-13 |
 | [Musica per aeroporti](https://open.spotify.com/track/2k4D2XNzM0VfRnUl9ts1RY) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Musica per aeroporti](https://open.spotify.com/album/2dDHNcqTbZMleDaLNpcqL6) | 2:41 | 2023-04-13 | 2023-05-12 |
 | [Mussolini](https://open.spotify.com/track/0Cyih16Jk1bhPG0fMlLHe7) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [Mussolini](https://open.spotify.com/album/5ncCI5SC7bo16a88z46woW) | 3:38 | 2023-09-07 | 2023-10-06 |

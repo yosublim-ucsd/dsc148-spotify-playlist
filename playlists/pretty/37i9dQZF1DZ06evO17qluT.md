@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This is BK\. Todos os maiores hits em uma só playlist.
+> This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,987 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,029 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 50 | [.38](https://open.spotify.com/track/5lrOv9KwtrUyW8Xgh3JJqs) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [.38](https://open.spotify.com/album/1PygS5WEMqHcu3LNJBne5f) | 2:06 |
 | 51 | [Luccas Carlos](https://open.spotify.com/track/3d9TLnvPX2IEJ0zvkIQBNU) | [Pirâmide Perdida](https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [CHS](https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Bril](https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a) | [Pirâmide Perdida \(Vol\. 7\)](https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE) | 4:09 |
 
-Snapshot ID: `Zl+qgAAAAABtyOenwHXW1bvFObF5zZlb`
+Snapshot ID: `Zl+qgAAAAADd6AKjnxTAt5GMKN0NrW8k`

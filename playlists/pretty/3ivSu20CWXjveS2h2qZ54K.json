@@ -1,13 +1,29 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6496,
+  "num_followers": 6500,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACXbvseP9C8urrsw9vGVOiQlFRaN4kI",
+  "snapshot_id": "AACXjpSsKmDo5YOxsQn33dhAk8kvUUtx",
   "tracks": [
+    {
+      "added_at": "2024-06-07 04:39:36",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
     {
       "added_at": "2024-06-06 21:34:43",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
     },
     {
+      "added_at": "2024-06-07 06:00:49",
+      "album": {
+        "name": "ELLE",
+        "url": "https://open.spotify.com/album/2WkOBSSlCPWyhDLRD2Tjcm"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 178718,
+      "name": "Somebody\u2019s Baby",
+      "url": "https://open.spotify.com/track/2zlnn6GVpzCAMytKurZVet"
+    },
+    {
       "added_at": "2024-06-06 21:34:48",
       "album": {
         "name": "Genesis.",
@@ -39,6 +71,38 @@
       "duration_ms": 420000,
       "name": "Genesis.",
       "url": "https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN"
+    },
+    {
+      "added_at": "2024-06-07 08:15:45",
+      "album": {
+        "name": "A Tear in Space (Airlock)",
+        "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 203989,
+      "name": "A Tear in Space (Airlock)",
+      "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+    },
+    {
+      "added_at": "2024-06-06 16:10:20",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 197062,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R"
     },
     {
       "added_at": "2024-06-06 21:35:05",
@@ -65,6 +129,22 @@
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
     },
     {
+      "added_at": "2024-06-07 04:44:50",
+      "album": {
+        "name": "El Entusiasmo",
+        "url": "https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "El Entusiasmo",
+      "url": "https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12"
+    },
+    {
       "added_at": "2024-06-06 21:35:00",
       "album": {
         "name": "I Hear You",
@@ -79,6 +159,22 @@
       "duration_ms": 298469,
       "name": "Back To One",
       "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
+    },
+    {
+      "added_at": "2024-06-07 04:42:37",
+      "album": {
+        "name": "Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7z7pDIZ6snsyjddw5oi3bB"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 187428,
+      "name": "Sue\u00f1o",
+      "url": "https://open.spotify.com/track/2uEchvRtFmNNvTiQQSi2am"
     },
     {
       "added_at": "2024-06-06 21:35:48",
@@ -97,6 +193,22 @@
       "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
     },
     {
+      "added_at": "2024-06-07 04:42:23",
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
+    },
+    {
       "added_at": "2024-06-06 21:35:18",
       "album": {
         "name": "Timeless",
@@ -113,6 +225,22 @@
       "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
     },
     {
+      "added_at": "2024-06-07 08:07:25",
+      "album": {
+        "name": "Para Toda La Eternidad",
+        "url": "https://open.spotify.com/album/5QEb1PkLGMrZ2QgoF7CDfm"
+      },
+      "artists": [
+        {
+          "name": "Marsella",
+          "url": "https://open.spotify.com/artist/1uqLcOFkfvX3TQfqaHzOJJ"
+        }
+      ],
+      "duration_ms": 187014,
+      "name": "Para Toda La Eternidad",
+      "url": "https://open.spotify.com/track/3iQCDuxdVRNYv6flaFnxxR"
+    },
+    {
       "added_at": "2024-06-06 16:07:21",
       "album": {
         "name": "Treat Each Other Right",
@@ -127,6 +255,22 @@
       "duration_ms": 240580,
       "name": "Treat Each Other Right",
       "url": "https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K"
+    },
+    {
+      "added_at": "2024-06-07 08:05:09",
+      "album": {
+        "name": "Deber\u00eda cuidarme un poco m\u00e1s",
+        "url": "https://open.spotify.com/album/6OjG1UqhDH9wMhmQVPMlm5"
+      },
+      "artists": [
+        {
+          "name": "Perd\u00f3n",
+          "url": "https://open.spotify.com/artist/6rvuyWGNXKoO2dyYy3VgM6"
+        }
+      ],
+      "duration_ms": 62181,
+      "name": "No te quiero olvidar",
+      "url": "https://open.spotify.com/track/4bAKImSMT1ik5Uq72HZBQP"
     },
     {
       "added_at": "2024-06-06 16:07:09",
@@ -177,20 +321,20 @@
       "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
-      "added_at": "2024-06-06 16:10:20",
+      "added_at": "2024-06-07 04:45:21",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI"
+        "name": "Reventarme",
+        "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "trashi",
+          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
         }
       ],
-      "duration_ms": 197062,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R"
+      "duration_ms": 186382,
+      "name": "Reventarme",
+      "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
     },
     {
       "added_at": "2024-06-06 16:09:28",
@@ -209,6 +353,38 @@
       "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
     },
     {
+      "added_at": "2024-06-07 08:06:57",
+      "album": {
+        "name": "s/t",
+        "url": "https://open.spotify.com/album/4GJN0PV6gccP1BGILJrwXr"
+      },
+      "artists": [
+        {
+          "name": "palmeras negras",
+          "url": "https://open.spotify.com/artist/6fwVPzeG3TV3jaOammAx1x"
+        }
+      ],
+      "duration_ms": 271716,
+      "name": "empezar (de nuevo)",
+      "url": "https://open.spotify.com/track/66tDsllFPm0rMuqsH2Dj6Q"
+    },
+    {
+      "added_at": "2024-06-07 04:45:47",
+      "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/5D35QfVprO5Nz16J8pjEuu"
+      },
+      "artists": [
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        }
+      ],
+      "duration_ms": 317939,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/3zP3GUeML163NQR1jMfcIp"
+    },
+    {
       "added_at": "2024-06-06 16:10:44",
       "album": {
         "name": "Baby Blue Movie",
@@ -223,6 +399,22 @@
       "duration_ms": 244733,
       "name": "Baby Blue Movie",
       "url": "https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc"
+    },
+    {
+      "added_at": "2024-06-07 04:44:39",
+      "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2024-06-06 16:08:10",
@@ -245,6 +437,122 @@
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
     },
     {
+      "added_at": "2024-06-07 08:05:44",
+      "album": {
+        "name": "Mandarinas",
+        "url": "https://open.spotify.com/album/6QcTcblqw9WX83uF7Y1GRX"
+      },
+      "artists": [
+        {
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+        }
+      ],
+      "duration_ms": 190183,
+      "name": "Mandarinas",
+      "url": "https://open.spotify.com/track/2lLnBNnbxcJCZ6oUxsKSIs"
+    },
+    {
+      "added_at": "2024-06-07 08:13:50",
+      "album": {
+        "name": "Vacany",
+        "url": "https://open.spotify.com/album/4aoIajtBlGLuRWHPIFJ0Oi"
+      },
+      "artists": [
+        {
+          "name": "Chris Viz",
+          "url": "https://open.spotify.com/artist/40jZHpxIT7SOkZF9YrxGYq"
+        }
+      ],
+      "duration_ms": 108837,
+      "name": "Vacany",
+      "url": "https://open.spotify.com/track/6RBxOsSZjBQNd2BCQYfiHC"
+    },
+    {
+      "added_at": "2024-06-07 04:42:46",
+      "album": {
+        "name": "COCOTASO",
+        "url": "https://open.spotify.com/album/34X4ptGdHMYHOt4gXj0inr"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "COCOTASO",
+      "url": "https://open.spotify.com/track/5PeVVgXO4ejaeHau4vGPix"
+    },
+    {
+      "added_at": "2024-06-06 16:08:39",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 136362,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
+    },
+    {
+      "added_at": "2024-06-07 04:45:57",
+      "album": {
+        "name": "Ay! Si al final...",
+        "url": "https://open.spotify.com/album/57ddCRGE1ySjOEBxeHUlOq"
+      },
+      "artists": [
+        {
+          "name": "TAURO",
+          "url": "https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN"
+        }
+      ],
+      "duration_ms": 190394,
+      "name": "Ay! Si al final...",
+      "url": "https://open.spotify.com/track/5JyhX36hWb4EeeZ0IGGSRh"
+    },
+    {
+      "added_at": "2024-06-06 16:11:55",
+      "album": {
+        "name": "Del Oro",
+        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 374122,
+      "name": "Del Oro",
+      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
+    },
+    {
+      "added_at": "2024-06-07 04:43:11",
+      "album": {
+        "name": "solo.mp3",
+        "url": "https://open.spotify.com/album/1kgSFkFlzbN0lk2e0NvbzL"
+      },
+      "artists": [
+        {
+          "name": "Soto Asa",
+          "url": "https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4"
+        }
+      ],
+      "duration_ms": 205050,
+      "name": "solo.mp3",
+      "url": "https://open.spotify.com/track/53pE4qYAIGjzgwWxGNmGbs"
+    },
+    {
       "added_at": "2024-06-06 21:36:00",
       "album": {
         "name": "Russian Roulette",
@@ -259,6 +567,46 @@
       "duration_ms": 388800,
       "name": "Russian Roulette",
       "url": "https://open.spotify.com/track/7G7d7blGgIsV9EVXJNZHBn"
+    },
+    {
+      "added_at": "2024-06-07 04:45:37",
+      "album": {
+        "name": "GiNGA",
+        "url": "https://open.spotify.com/album/7onrXtU0ycpBhY7GPfYEp8"
+      },
+      "artists": [
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "$kyhook",
+          "url": "https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "GiNGA",
+      "url": "https://open.spotify.com/track/30jS2pH1jqAIHNB5MUGXyh"
+    },
+    {
+      "added_at": "2024-06-07 04:43:41",
+      "album": {
+        "name": "Ciudad En Ruinas",
+        "url": "https://open.spotify.com/album/5n5CGDOcUVaUkM6mR93VSG"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        },
+        {
+          "name": "Belatransa",
+          "url": "https://open.spotify.com/artist/3LHA26A5brqorxjF95fh9n"
+        }
+      ],
+      "duration_ms": 227184,
+      "name": "Ciudad En Ruinas",
+      "url": "https://open.spotify.com/track/6bKbnlUikOPMTynGbVyEwH"
     },
     {
       "added_at": "2024-06-06 16:08:56",
@@ -277,6 +625,42 @@
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
     },
     {
+      "added_at": "2024-06-07 04:44:20",
+      "album": {
+        "name": "MENINAS",
+        "url": "https://open.spotify.com/album/5o8navfogGMcSbZk2Azggt"
+      },
+      "artists": [
+        {
+          "name": "GARC\u00cdA Picasso",
+          "url": "https://open.spotify.com/artist/7bmCrd2Hv5prpHeyTbGx0L"
+        },
+        {
+          "name": "Rafa Villalba",
+          "url": "https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm"
+        }
+      ],
+      "duration_ms": 183531,
+      "name": "MENINAS",
+      "url": "https://open.spotify.com/track/7FWDAj7Vi184Tr7dBkO9L8"
+    },
+    {
+      "added_at": "2024-06-07 04:45:10",
+      "album": {
+        "name": "No me devuelvas la palabra",
+        "url": "https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl"
+      },
+      "artists": [
+        {
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "No me devuelvas la palabra",
+      "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
+    },
+    {
       "added_at": "2024-06-06 16:11:22",
       "album": {
         "name": "COMBAT",
@@ -293,20 +677,40 @@
       "url": "https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi"
     },
     {
-      "added_at": "2024-06-06 16:08:39",
+      "added_at": "2024-06-07 04:41:39",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+        "name": "SORRY 4 THAT MUCH",
+        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 136362,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
+      "duration_ms": 207746,
+      "name": "SORRY 4 THAT MUCH",
+      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
+    },
+    {
+      "added_at": "2024-06-07 04:43:29",
+      "album": {
+        "name": "VISTO",
+        "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "VISTO",
+      "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
     },
     {
       "added_at": "2024-06-06 21:38:11",
@@ -327,22 +731,6 @@
       "duration_ms": 385074,
       "name": "That's Us/Wild Combination",
       "url": "https://open.spotify.com/track/1vaGkEkv1VfEYnFAjRJ7EY"
-    },
-    {
-      "added_at": "2024-06-06 16:11:55",
-      "album": {
-        "name": "Del Oro",
-        "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 374122,
-      "name": "Del Oro",
-      "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
     },
     {
       "added_at": "2024-06-06 21:37:47",
@@ -415,6 +803,26 @@
       "duration_ms": 147707,
       "name": "Drip Sweat (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/4r7e8yV4Xem3iC4hkkI4Hn"
+    },
+    {
+      "added_at": "2024-06-07 04:41:57",
+      "album": {
+        "name": "Polvo de tu Vida",
+        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 172105,
+      "name": "Polvo de tu Vida",
+      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
     },
     {
       "added_at": "2024-06-06 21:38:03",

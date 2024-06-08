@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Con Amore",
+        "url": "https://open.spotify.com/album/6ePub6XVRKOYZBuZLCFCvE"
+      },
+      "artists": [
+        {
+          "name": "Cristof Walters",
+          "url": "https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174609,
+      "name": "Con Amore",
+      "url": "https://open.spotify.com/track/3ddRRVM3eVeIAKUqF105Ch"
+    },
+    {
+      "album": {
         "name": "Confianza",
         "url": "https://open.spotify.com/album/6gKoezS6y9GGDzZFhNKIx9"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 175670,
       "name": "Fading Daylight",
       "url": "https://open.spotify.com/track/2wgl16cBADyWzzRVpwd919"
@@ -5514,7 +5532,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 188987,
       "name": "Waiting for you",
       "url": "https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF"
@@ -5914,6 +5932,24 @@
       "duration_ms": 272951,
       "name": "You Will Never Understand",
       "url": "https://open.spotify.com/track/2c5HAbpl8XOnc4a5LybluN"
+    },
+    {
+      "album": {
+        "name": "You Won't Let Go",
+        "url": "https://open.spotify.com/album/778RfK2nbu1ZTUMB5MZKGz"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oakfield",
+          "url": "https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213301,
+      "name": "You Won't Let Go",
+      "url": "https://open.spotify.com/track/78MdS8kr8w3sI2GhSx0sWk"
     },
     {
       "album": {

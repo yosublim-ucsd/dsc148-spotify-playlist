@@ -6533,6 +6533,32 @@
     },
     {
       "album": {
+        "name": "Don't Love U",
+        "url": "https://open.spotify.com/album/128rKjnMicAMwdszPs3zca"
+      },
+      "artists": [
+        {
+          "name": "RAYZEN",
+          "url": "https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId"
+        },
+        {
+          "name": "STV",
+          "url": "https://open.spotify.com/artist/4F1WiMuCRWlwrKk9mdVmlV"
+        },
+        {
+          "name": "UNVIZION",
+          "url": "https://open.spotify.com/artist/2mAd3aPOk5XiAt75mJWUDT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Don't Love U",
+      "url": "https://open.spotify.com/track/46InKjUqH3OGT6V4GlAO7X"
+    },
+    {
+      "album": {
         "name": "Don't Mistake (The Name)",
         "url": "https://open.spotify.com/album/1sG6gfczwE1Ci7BrXqq2q3"
       },

@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Ben Bizzy
+> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: POKMINDSET
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,272 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,293 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [RIFLE](https://open.spotify.com/artist/4hIIGlitHYepgaKi1aSKHn), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
 | 2 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
-| 3 | [One Day](https://open.spotify.com/track/4JjsTrUcrLM8OGuJjjfXKk) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [One Day](https://open.spotify.com/album/3jVjKSg3PSdq1shyMIa9Rz) | 2:15 |
+| 3 | [JEK](https://open.spotify.com/track/5PCtuA7sii6OLdaeRffmXB) | [POKMINDSET](https://open.spotify.com/artist/18twEd2PtcY8Nz2v6oKyNP) | [JEK](https://open.spotify.com/album/5tvUiLT74QE5Pjl4tY2eem) | 2:17 |
 | 4 | [W.R.U](https://open.spotify.com/track/3TNY1J6fOPVhiGcnMluLwL) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [W.R.U](https://open.spotify.com/album/1f2s3KUwsPLLy22vbOXg7g) | 4:17 |
-| 5 | [SKYLINE](https://open.spotify.com/track/4BdyVcjoNWqCOaAGirRsf0) | [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [SKYLINE](https://open.spotify.com/album/6ecz8WYaKvvSZNr4LOOmyq) | 3:52 |
-| 6 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
-| 7 | [ไม่รู้สึก](https://open.spotify.com/track/5kLO6iMxOxBpUKYBew11VW) | [NINJA](https://open.spotify.com/artist/2nVepyt8a78fnzBWwsemtw), [DAW](https://open.spotify.com/artist/3GcRmAFjv0E4SaisYqJHyp) | [ไม่รู้สึก](https://open.spotify.com/album/5IggPuH7gXM1bdKEP1KFkZ) | 3:06 |
+| 5 | [One Day](https://open.spotify.com/track/4JjsTrUcrLM8OGuJjjfXKk) | [Ben Bizzy](https://open.spotify.com/artist/7IFeTLxFc5Qn00yznSbNO6) | [One Day](https://open.spotify.com/album/3jVjKSg3PSdq1shyMIa9Rz) | 2:15 |
+| 6 | [SKYLINE](https://open.spotify.com/track/4BdyVcjoNWqCOaAGirRsf0) | [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [SKYLINE](https://open.spotify.com/album/6ecz8WYaKvvSZNr4LOOmyq) | 3:52 |
+| 7 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 |
 | 8 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 |
 | 9 | [ขอสักที](https://open.spotify.com/track/5i5phIWFygOD0Cpsc64Lui) | [MQT Squad](https://open.spotify.com/artist/7MhFtit9ul3ufsMwtUwiif), [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c), [FATBOII MQT](https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O), [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P) | [ขอสักที](https://open.spotify.com/album/4WJUsT31kSdgklvb15vSky) | 3:58 |
 | 10 | [ไร้รัก](https://open.spotify.com/track/7LQegHlWROlwRO1WgYfXVR) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ) | [ไร้รัก](https://open.spotify.com/album/4o4WWN1a3bH0Z7IxOKhNAa) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [9MARES4EVER](https://open.spotify.com/track/66U1dP3MYSEWcFiOfFlcKL) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ), [Vezeus](https://open.spotify.com/artist/2hNuCmSo9knZO2YJQeTboH) | [9MARES4EVER](https://open.spotify.com/album/6s9ROQT3iEe9Q1T5gNKIhA) | 3:24 |
 | 50 | [ฉบับท้ายสุด](https://open.spotify.com/track/6OTlqL40FtkkwBEjiQSiDT) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [ฉบับท้ายสุด](https://open.spotify.com/album/1mBxtzaoEjfBJrKoiDe8xi) | 2:31 |
 
-Snapshot ID: `Zlm1tAAAAABJX7JdpK0WcNLI9MAVoQpC`
+Snapshot ID: `ZmMMJAAAAABJvTfHLQwf6KdQtbslm2lG`

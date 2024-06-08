@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-342 songs - 19 hr 27 min
+343 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Ha Bas Tu](https://open.spotify.com/track/2xissAdak6viTlc3dUxKVS) | [Naman Goswami](https://open.spotify.com/artist/07HSVaNPl7nncH7T2yjKNi) | [Ha Bas Tu](https://open.spotify.com/album/7dAis6NusWiJzXuRWUviXS) | 4:22 | 2023-10-09 | 2023-11-30 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |
 | [Haq Hai Tujhe](https://open.spotify.com/track/0QeX9QuEdqUlC767B1DPul) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt) | [Haq Hai Tujhe](https://open.spotify.com/album/1GlOG03Zy4icRF2rxMA0GK) | 3:50 | 2024-03-22 | 2024-04-24 |
-| [Haqeeqat](https://open.spotify.com/track/2ws5qeW4BEsFP7Wnu16sjC) | [Vardaan Malhotra](https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q) | [Putla](https://open.spotify.com/album/2Ek73Hp1ifoM6xb7h7SLgb) | 4:16 | 2024-05-09 |  |
+| [Haqeeqat](https://open.spotify.com/track/2ws5qeW4BEsFP7Wnu16sjC) | [Vardaan Malhotra](https://open.spotify.com/artist/6lRDtA49QAi4epkE8Xw27Q) | [Putla](https://open.spotify.com/album/2Ek73Hp1ifoM6xb7h7SLgb) | 4:16 | 2024-05-09 | 2024-06-08 |
 | [Haseen Zindagi](https://open.spotify.com/track/0SJRKLymM7ElckDuzZyMq9) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haseen Zindagi](https://open.spotify.com/album/6QMhD0MzyqQgaYPXEsnGBB) | 2:39 | 2023-11-15 | 2024-02-20 |
 | [Haule Se](https://open.spotify.com/track/0cwluZ190b1ZPXG8jMBhwn) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Haule Se](https://open.spotify.com/album/3z3m2MnZZxweHa53fr9pT8) | 2:52 | 2023-12-18 |  |
 | [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 | 2023-05-17 | 2024-03-19 |
@@ -252,6 +252,7 @@
 | [Pyaar](https://open.spotify.com/track/1DvFc1hozo6IhBj8Ae4GfN) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Pyaar](https://open.spotify.com/album/1zJMlunXj3rYzXJ1KYBOWw) | 2:28 | 2024-03-11 | 2024-04-13 |
 | [Pyaar](https://open.spotify.com/track/0EVjhEnj83G6OUojSaBwok) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Pyaar](https://open.spotify.com/album/2gta6d9zUGZ7YU0wowtIOR) | 3:33 | 2024-02-13 | 2024-03-15 |
 | [Pyaar Tera](https://open.spotify.com/track/454wwgqDwt9GsAMPQO2SVf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2ZVdtecXaxrPhNTNoRwuzf) | 3:24 | 2023-06-02 | 2023-07-16 |
+| [Qaabil](https://open.spotify.com/track/2PwVCVkts7c7RxTNHL4wLf) | [Mohsin Akhtar](https://open.spotify.com/artist/1fspXrBL0yCyMD69krMnjj) | [Qaabil](https://open.spotify.com/album/63BKQAMGAeR7BUdj7C556A) | 4:39 | 2024-06-07 |  |
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-17 | 2023-07-15 |
 | [Raahain](https://open.spotify.com/track/4AO54xVKbDQroXgi2l7V9d) | [Peferd Da Costa](https://open.spotify.com/artist/00ubzRw4KemETUjdvwKqJp) | [Raahain](https://open.spotify.com/album/6pLKX0flGA3GoR3uhO0l1j) | 3:32 | 2023-09-15 | 2023-10-27 |
 | [Raat](https://open.spotify.com/track/4RtUdmzHtkdTYQ0Td5GGYc) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Raat](https://open.spotify.com/album/5g2ACwI9NwMQj9vZhansXs) | 3:13 | 2023-05-17 | 2023-06-09 |

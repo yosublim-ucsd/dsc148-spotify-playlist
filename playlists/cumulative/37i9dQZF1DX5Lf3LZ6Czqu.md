@@ -2,9 +2,9 @@
 
 ### [String Theory](https://open.spotify.com/playlist/37i9dQZF1DX5Lf3LZ6Czqu)
 
-> Instrumental guitar shreddery\. Cover: Angel Vivaldi
+> Instrumental guitar shreddery\. Cover: Marcin
 
-142 songs - 10 hr 48 min
+143 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Child of Bliss](https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Child of Bliss](https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9) | 6:12 | 2024-03-08 |  |
 | [Church of Xotic Dance](https://open.spotify.com/track/66eqvxloPSUswzFxgcyR9d) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Vibe Station](https://open.spotify.com/album/2mfI8M24SEgLZdbNdZowSC) | 7:20 | 2021-05-04 | 2022-10-12 |
 | [Circus Song](https://open.spotify.com/track/0rMZ3nVMzQQGfgtPVgCBlU) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [50 for 50](https://open.spotify.com/album/0u3IA8w2593g2hDgItae3F) | 2:46 | 2021-05-04 |  |
+| [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 | 2024-06-07 |  |
 | [Concrete](https://open.spotify.com/track/6yAnVsBfrw3mf40jBZiQX7) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Power Station](https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy) | 4:54 | 2022-10-11 |  |
 | [Crispy](https://open.spotify.com/track/2vk1jBINwK3jVquZ9RW84W) | [Prashant Aswani](https://open.spotify.com/artist/6SU64uhdQiF86cThcWLXy2) | [Visions](https://open.spotify.com/album/2sYv87uNv8EKyo3x5MFiIp) | 4:18 | 2021-05-04 |  |
 | [Dark Matter](https://open.spotify.com/track/3rjBROIs1VgeUPcAq6ALn2) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Modern Primitive](https://open.spotify.com/album/1QBwEou5SRg4nD9Ngd2loU) | 3:53 | 2021-05-04 |  |
@@ -111,7 +112,7 @@
 | [Samba Party](https://open.spotify.com/track/0eUyzOmDqoRNS65SQ3arbn) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Samba Party](https://open.spotify.com/album/16VbSzKOdKqSwT1uwFAMPz) | 3:38 | 2023-06-23 | 2024-02-08 |
 | [Same Sun Shines](https://open.spotify.com/track/36bYlpdbPfwne3ISGdC0P8) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/4UwAo136F4TE0qPp8imI77) | 4:44 | 2021-05-04 | 2024-04-19 |
 | [Same Sun Shines](https://open.spotify.com/track/3PcM0Wc601FYPjLNhbfUme) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/2kkD4GgJc9OxQ0vheXnCNL) | 4:44 | 2021-05-04 |  |
-| [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 | 2021-05-04 |  |
+| [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 | 2021-05-04 | 2024-06-08 |
 | [Sedosa](https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7Io8ELXFbB4KmyuOD3cUzL) | 3:45 | 2021-05-04 |  |
 | [Sedosa](https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z) | 3:45 | 2021-05-04 | 2024-04-19 |
 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 | 2021-05-04 |  |

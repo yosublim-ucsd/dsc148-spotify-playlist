@@ -11423,6 +11423,24 @@
     },
     {
       "album": {
+        "name": "Hold Hands",
+        "url": "https://open.spotify.com/album/1vkHevjCbUuMw66cu8u6IK"
+      },
+      "artists": [
+        {
+          "name": "Haneri",
+          "url": "https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224210,
+      "name": "Hold Hands",
+      "url": "https://open.spotify.com/track/3CikomFbSb4FiohC8VouxI"
+    },
+    {
+      "album": {
         "name": "Become",
         "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
       },

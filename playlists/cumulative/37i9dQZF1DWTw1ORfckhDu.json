@@ -3905,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "Kasvoin",
+        "url": "https://open.spotify.com/album/1Rmkmzh3angPiQeDugCqJE"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181425,
+      "name": "Kasvoin",
+      "url": "https://open.spotify.com/track/7fHjXu2eybzXaA1tmXv0Zp"
+    },
+    {
+      "album": {
         "name": "Kato alas",
         "url": "https://open.spotify.com/album/3Um6qItt1eqJ3BgKdAEHsn"
       },
@@ -7780,6 +7798,24 @@
       "duration_ms": 113588,
       "name": "Perus R\u00e4pp\u00e4ri",
       "url": "https://open.spotify.com/track/250KNG4ECaiNbnPh6c0JcP"
+    },
+    {
+      "album": {
+        "name": "loverboy",
+        "url": "https://open.spotify.com/album/0wAxyNLcIbQBJGU5u10kVL"
+      },
+      "artists": [
+        {
+          "name": "Cleme",
+          "url": "https://open.spotify.com/artist/34bBpJxnHQpGOQpDPs4F7e"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Petoksii",
+      "url": "https://open.spotify.com/track/0MPfYcIHJKWVJWElcaQ7JR"
     },
     {
       "album": {

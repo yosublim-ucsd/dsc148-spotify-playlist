@@ -11255,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "fuck (ich liebe dich)",
+        "url": "https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8"
+      },
+      "artists": [
+        {
+          "name": "Eli Preiss",
+          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144093,
+      "name": "Ich Such",
+      "url": "https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k"
+    },
+    {
+      "album": {
         "name": "PYROLYSE",
         "url": "https://open.spotify.com/album/5SAviVYGk0Koj6TmzahOuE"
       },
@@ -18146,6 +18164,24 @@
       "duration_ms": 194461,
       "name": "Places",
       "url": "https://open.spotify.com/track/3KDIIbqxuaTwsmPjXefx30"
+    },
+    {
+      "album": {
+        "name": "STEREO NOIR",
+        "url": "https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N"
+      },
+      "artists": [
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211123,
+      "name": "PLANET",
+      "url": "https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5"
     },
     {
       "album": {

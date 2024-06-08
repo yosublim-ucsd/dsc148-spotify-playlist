@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Almighty So 2",
+        "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328868,
+      "name": "1,2,3",
+      "url": "https://open.spotify.com/track/3BjJGSCE3bRU0Z7tZhLfkQ"
+    },
+    {
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/4qSxDZrZjNNpDzNVHhkOQz"
       },
@@ -698,6 +716,24 @@
       "duration_ms": 180673,
       "name": "ACAB (feat. 7000, redveil, Chance the Rapper)",
       "url": "https://open.spotify.com/track/5pUSYF0Ml7XtLCmGy2b8Wy"
+    },
+    {
+      "album": {
+        "name": "Accountability, Pt. 2",
+        "url": "https://open.spotify.com/album/5NAedvNylrTBLKNEHNPMTj"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103529,
+      "name": "Accountability, Pt. 2",
+      "url": "https://open.spotify.com/track/2L21Fp6dHOvzRB1Ju83aI3"
     },
     {
       "album": {
@@ -1568,6 +1604,24 @@
       "duration_ms": 125269,
       "name": "Backdoor",
       "url": "https://open.spotify.com/track/699kkSUZd5MljUFnaA18iD"
+    },
+    {
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/42ThvJIGp1XXLByq6LvkfR"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143103,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/6bMnotvdxhnbEy0ivTFT2O"
     },
     {
       "album": {
@@ -2616,6 +2670,24 @@
       "duration_ms": 108498,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+    },
+    {
+      "album": {
+        "name": "Cake",
+        "url": "https://open.spotify.com/album/7o28g2oX6BEE3dYWLttWyP"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/3wq0hE8rIDzypOSvEx4EQn"
     },
     {
       "album": {
@@ -6494,7 +6566,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 91076,
       "name": "I Did It",
       "url": "https://open.spotify.com/track/2MJhqFTUvDko02kknVHYFA"
@@ -8468,8 +8540,8 @@
           "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
         },
         {
-          "name": "Babytron",
-          "url": "https://open.spotify.com/artist/3CZBIUkUIsjvLnVclMIlHa"
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
         }
       ],
       "date_added": "2024-05-31",
@@ -12307,6 +12379,28 @@
     },
     {
       "album": {
+        "name": "SheSheMe (feat. Skilla Baby)",
+        "url": "https://open.spotify.com/album/4yh8Nwwj6U6cR3kCCbksz7"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158674,
+      "name": "SheSheMe (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/6uUuB5uj4kKusZ3nUrjl7l"
+    },
+    {
+      "album": {
         "name": "Shinin",
         "url": "https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP"
       },
@@ -14912,7 +15006,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"

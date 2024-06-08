@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200098,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/01Er69gC98QtvINyqv3az9"
@@ -3398,6 +3398,24 @@
       "duration_ms": 188000,
       "name": "Siesta De Verano",
       "url": "https://open.spotify.com/track/2C6Rz1DAiDkfIrK6AjmrO6"
+    },
+    {
+      "album": {
+        "name": "Siete mares",
+        "url": "https://open.spotify.com/album/2pRIS5kW88w2LwhKMKhFpK"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158173,
+      "name": "Siete mares",
+      "url": "https://open.spotify.com/track/1ZaeSo2JJZOElABqSv3qrr"
     },
     {
       "album": {

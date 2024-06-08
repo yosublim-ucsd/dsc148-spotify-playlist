@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-298 songs - 17 hr 50 min
+301 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bag Up](https://open.spotify.com/track/09byku50cegoKBqWdSvwDs) | [Master Plan Inc](https://open.spotify.com/artist/0IK9zUhxsyjg3EmMHk9rZp) | [Master Plan Inc](https://open.spotify.com/album/7tMPrjuAhmepGmaqVxNw7G) | 2:51 | 2023-10-18 |  |
 | [Bani](https://open.spotify.com/track/1edhO7oohKuhmkEGvDNXcR) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 4:51 | 2023-10-18 |  |
 | [Be Honest](https://open.spotify.com/track/0RK0zy2hrUcU89diqNkSot) | [Love Pulse Music](https://open.spotify.com/artist/7fC7wiRwJKnHzM5J5xC1F4), [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Infinite Cue Vol\. 1](https://open.spotify.com/album/4iiDcxVsYAFYNxka5sfJvu) | 3:05 | 2023-10-18 |  |
+| [Beautiful Madness](https://open.spotify.com/track/3KnDmVhWh2FvtbPjArxckA) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ) | 2:32 | 2024-06-07 |  |
 | [Best Advice](https://open.spotify.com/track/3X8VuAmGoBDh4NU2v7iILA) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Moved](https://open.spotify.com/album/036hmr7bSYXlwSId6GTtJk) | 3:56 | 2023-10-18 |  |
 | [Better Man](https://open.spotify.com/track/5yxtW1RhVybMDiFgHGGOiz) | [MoDre](https://open.spotify.com/artist/0KJuvEXiLRZ8H2Gz1CqKtw), [Freewill](https://open.spotify.com/artist/3bBpgrS9jtGE8dVNBjXgO8) | [Better Man](https://open.spotify.com/album/493S5NPtA5AT2rXlAGADvB) | 3:42 | 2023-10-18 |  |
 | [Big Bet](https://open.spotify.com/track/5O57PJ7kMlum2l3KdmGTbL) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu) | [Big Bet](https://open.spotify.com/album/4fUdGcc5bB7o7QhPBX62fc) | 2:49 | 2023-10-18 |  |
@@ -89,6 +90,7 @@
 | [Fall](https://open.spotify.com/track/6INqijEvx76YGUVYYRCyPE) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 6:40 | 2023-10-18 |  |
 | [Feelings](https://open.spotify.com/track/0uVoPJDA7uOuNHry5G7Ckp) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Feelings](https://open.spotify.com/album/2JtzK8PlSM4SQlXlO3saKa) | 3:19 | 2023-10-18 |  |
 | [Fefe On The Block](https://open.spotify.com/track/1s9hBKw37JvYV9KYiR9oef) | [Stunt Taylor](https://open.spotify.com/artist/6OlcRxdAiJfOY2SiexBMej) | [Stunt'n On Turbo](https://open.spotify.com/album/5c0SkmE80ufogBAVzgmcA5) | 2:53 | 2023-10-18 |  |
+| [Flex](https://open.spotify.com/track/6Jun9cqvycnlZVeeSIy0k4) | [Piff Marti](https://open.spotify.com/artist/4yJPiziKjwvjKUnsnsOixM) | [Flex](https://open.spotify.com/album/59AVuo3BYKxeL1d17gpQfn) | 2:27 | 2024-06-07 |  |
 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 | 2023-10-18 |  |
 | [For All We Know](https://open.spotify.com/track/6wA9gP5PIpnD5QRtUU2BUU) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:41 | 2023-10-18 |  |
 | [Forever](https://open.spotify.com/track/1RED6K6F0J0Kyi52mpxO2T) | [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg) | [The Sharecropper's Daughter](https://open.spotify.com/album/5WiaZ5aWUU73N473iFiuZ9) | 4:46 | 2024-05-31 |  |
@@ -272,6 +274,7 @@
 | [Too Much](https://open.spotify.com/track/1jP3M6DPaKEIP8GQpTdHNX) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 2:56 | 2023-10-18 |  |
 | [Troo](https://open.spotify.com/track/5VkGkl11NE2lw2z1yCqwXh) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Troo](https://open.spotify.com/album/1vq2vDPWT335QRVIk5oegb) | 2:26 | 2023-10-18 |  |
 | [Truth Tastes Good](https://open.spotify.com/track/7yPa4TS1M07r56E5Tyf432) | [Michaela](https://open.spotify.com/artist/6mtpKSObzegD6IITOBDcmW) | [Free Mickey Part 2](https://open.spotify.com/album/56sGIX9HXr2Zxjc3h7G3Ph) | 1:09 | 2023-10-18 |  |
+| [Try](https://open.spotify.com/track/4tyUOfJO4F1zoxOITM6bKq) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7), [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Military Mindset Productions](https://open.spotify.com/artist/0LAYLmZKxwwiEUaIE7Dhyn) | [Behind Enemy Lines](https://open.spotify.com/album/14nYTal2Bm96I4m6M5SDNh) | 3:08 | 2024-06-07 |  |
 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 | 2023-10-18 |  |
 | [Tunnel Vision](https://open.spotify.com/track/4F66QDs0ujbJLhphEatn9n) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Tunnel Vision](https://open.spotify.com/album/6rZnPmKnVp6BpkDyKNOdlB) | 3:53 | 2023-10-18 |  |
 | [Tunnel Vision](https://open.spotify.com/track/7BTt5fCGD9RCNrXYU6pc5k) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Moved](https://open.spotify.com/album/036hmr7bSYXlwSId6GTtJk) | 3:53 | 2023-10-18 |  |

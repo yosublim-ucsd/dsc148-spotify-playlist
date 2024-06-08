@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Silent Bob in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,510 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,516 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 18 | [Io e Te \(feat\. Néza\)](https://open.spotify.com/track/1xA7UTMMWgHQbkVKtDS7ds) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Isolamento Di Gruppo](https://open.spotify.com/album/0WxNhe7IRznAEeqgclmjlP) | 2:48 |
 | 19 | [Demoni & Bitches](https://open.spotify.com/track/5igR4ckUc31NrR5PaKKsTi) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [TITE LAVOZ](https://open.spotify.com/artist/7iVCUJA6rWV5yHo9P0b070) | [Demoni & Bitches](https://open.spotify.com/album/3VeZ1fZtMX9tpJqqc5xLgC) | 2:34 |
 | 20 | [Leanin'](https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Leanin'](https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega) | 2:26 |
-| 21 | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/track/3Qtj3JgmPqykqclbYIGsYe) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/album/5YYqzDuldow1G4ZTT8XNYM) | 2:42 |
+| 21 | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/track/3Qtj3JgmPqykqclbYIGsYe) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [Opera \(feat\. Rosa Chemical\)](https://open.spotify.com/album/5YYqzDuldow1G4ZTT8XNYM) | 2:42 |
 | 22 | [STAY ON BARS \#1](https://open.spotify.com/track/4qaJQlcJcn6NWlSrOgolDb) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [STAY ON BARS \#1](https://open.spotify.com/album/2KHagMF2ivCxgvajHZeFoU) | 1:58 |
 | 23 | [ZÉ](https://open.spotify.com/track/6Jt8OWHFEQa2gFzLhFvuJe) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [ZÉ](https://open.spotify.com/album/7wMjDkXgZ8VOJWDnMA8bla) | 2:34 |
 | 24 | [Dsquared2](https://open.spotify.com/track/12b9pPGmt1iQ0QhOAyIcxH) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [Dsquared2](https://open.spotify.com/album/2atXP9Nap5FoukWwItOJeT) | 2:32 |

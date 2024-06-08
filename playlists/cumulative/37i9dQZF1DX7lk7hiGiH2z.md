@@ -4,7 +4,7 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-374 songs - 17 hr 33 min
+375 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 | 2023-06-28 |  |
 | [Backe, Backe Kuchen](https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Tanzbare Weihnachtslieder für Kinder](https://open.spotify.com/album/3BNlUuy3J6zs1ZIJ6Cykzw) | 2:09 | 2023-12-08 | 2024-03-02 |
 | [Backe, backe Kuchen \(I\)](https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp) | [Kinderchor SingsalaSing](https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi), [Klaus Weigele](https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS) | [Kinderleicht\. Lieder und mehr für viele bunte Tage](https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH) | 1:26 | 2023-11-14 | 2024-03-02 |
-| [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 | 2023-08-04 |  |
+| [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 | 2023-08-04 | 2024-06-08 |
 | [Barfuß](https://open.spotify.com/track/5HvU0Hna8BVhv2jE4npxzh) | [Herr Jan](https://open.spotify.com/artist/4Uq7FqOxflFQVxsvTFIqhi) | [Barfuß](https://open.spotify.com/album/3xrtjEvVEDGuBe3fKfSAPM) | 4:04 | 2024-05-10 | 2024-06-03 |
 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 | 2023-06-28 |  |
 | [Boom Schakkalakka](https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:19 | 2023-06-28 |  |
@@ -104,6 +104,7 @@
 | [Endlich wieder Weihnachten \(feat\. Katharina Hirschberg, Harriet Herbig\-Matten\)](https://open.spotify.com/track/0o6QOa5hplEw5kmtHYoFID) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Katharina Hirschberg](https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu), [Harriet Herbig\-Matten](https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 3:13 | 2023-11-14 | 2023-12-30 |
 | [Ententanz \(Dance Little Bird\)](https://open.spotify.com/track/6zHr40EcGxX2nWKG0Z6dkk) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Partylieder für Kinder](https://open.spotify.com/album/1yu8g81F2kZ96GM5rw5Y5Y) | 2:34 | 2024-02-06 | 2024-02-16 |
 | [Es dauert nicht mehr lang](https://open.spotify.com/track/7yy6vkKP5JogHDYEidLFaN) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Es dauert nicht mehr lang](https://open.spotify.com/album/254SdsCj6CyNi9wkABoonn) | 2:31 | 2023-11-14 | 2023-12-30 |
+| [Es ist Sommer](https://open.spotify.com/track/1d8zn2LjqJU1rwuXXVjilB) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für den Urlaub](https://open.spotify.com/album/6CQgoIWe6KUYjNjzURpDSh) | 2:28 | 2024-06-07 |  |
 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 | 2023-08-31 | 2023-10-17 |
 | [Es schneit](https://open.spotify.com/track/4NhNX3C9Ue4gatgwHQobyY) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Winterkinder ...auf der Suche nach Weihnachten](https://open.spotify.com/album/7h4CEzgecVSP9JwpFepdx6) | 2:16 | 2023-12-27 | 2024-03-02 |
 | [Fiesta Mexicana \- Party Mix](https://open.spotify.com/track/5ZQwvlmLOyJbkEdeojxNOs) | [Die Partykapitäne](https://open.spotify.com/artist/6Gqid9ys2LpElX5QJnmzK1) | [Fiesta Mexicana](https://open.spotify.com/album/3m5htAX9IYtWTcdMf8YYo9) | 3:26 | 2024-02-06 | 2024-02-16 |

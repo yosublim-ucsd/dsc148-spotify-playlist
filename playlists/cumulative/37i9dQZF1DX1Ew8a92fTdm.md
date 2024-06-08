@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-284 songs - 7 hr 17 min
+286 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Auntie Elsie](https://open.spotify.com/track/4ALRNmKLlBtWR3estJPqYB) | [Annie Carr](https://open.spotify.com/artist/6EBgGvgb0VVGC7rOlBziTR) | [Auntie Elsie](https://open.spotify.com/album/5GeRufrHnQSPQQ4SdBhss5) | 1:00 | 2022-04-22 |  |
 | [Aurora's Dream](https://open.spotify.com/track/2uAKy47nXZKys23TydVmqU) | [Poppy's Box](https://open.spotify.com/artist/2y3fdY1Oj1x6YNbJB82THh) | [Aurora's Dream](https://open.spotify.com/album/09nhKTVX3WLxztIdxtgrrl) | 1:21 | 2024-01-05 |  |
 | [Baa Baa White Lamb](https://open.spotify.com/track/3YjKSyeVWUXrmnsUntqUdb) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [Baa Baa White Lamb](https://open.spotify.com/album/5A6IkOZLEO2c0xkUU71P6Y) | 1:35 | 2024-02-09 |  |
+| [Babblarnas vaggvisa](https://open.spotify.com/track/4sw1BjunB4P1rCTPanYKZV) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Babblarnas vaggvisa](https://open.spotify.com/album/589zc01dvPgdDOzzz5zBHd) | 2:28 | 2024-06-07 |  |
 | [Baby Bear](https://open.spotify.com/track/5UpHz8cxbWTNIwu0zbxSqk) | [Mette Enoksen](https://open.spotify.com/artist/3UjM6XtripEYdUAzSBCKmf) | [Baby Bear](https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok) | 1:25 | 2022-02-10 |  |
 | [Baby Dreams](https://open.spotify.com/track/2OCSQoa1w5dp3Qx14pD7VQ) | [Hillary Nic](https://open.spotify.com/artist/63ALojLOh3rjtkUEBUFITk) | [Baby Dreams](https://open.spotify.com/album/71xPRfWxOhGhZoRhErRbjr) | 0:58 | 2022-02-10 | 2022-04-23 |
 | [Baby Emanuel](https://open.spotify.com/track/5ewAfM8qnH8xzGmBCkPbZ8) | [Maurice Marsipano](https://open.spotify.com/artist/3kYoyPRiKgh8gEqKxXOWSr) | [Baby Emanuel](https://open.spotify.com/album/7gpqdB7cKzPjSbv7qEE7mn) | 1:14 | 2024-02-09 |  |
@@ -142,7 +143,7 @@
 | [Joy Of Life](https://open.spotify.com/track/1Sxo51aL87nB09fUMtFqN9) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [Joy Of Life](https://open.spotify.com/album/0TpOUKViK62E0UPMm7gNwb) | 1:28 | 2024-04-19 |  |
 | [Joyful Dreams](https://open.spotify.com/track/34vSdcmFgbjKihXgDumzZ2) | [Sarah Deville](https://open.spotify.com/artist/1MD5iwjDr1S6N8y0U81y2l) | [Joyful Dreams](https://open.spotify.com/album/48BRkijGa9KDMkWltUiuTp) | 1:19 | 2022-02-10 | 2023-05-19 |
 | [Klättermusens Vaggvisa](https://open.spotify.com/track/6H0ne2RkpMwJjiGN0jvRS6) | [Mika Nordlind](https://open.spotify.com/artist/6hnc50bJnPjV4YHbpz4ooq) | [Speldosans Vaggvisor 2](https://open.spotify.com/album/6v7RcI1Xqao7xI8xOyIieM) | 1:18 | 2022-02-10 | 2023-08-11 |
-| [Life is but a dream](https://open.spotify.com/track/6XLzwDwQzsX7gmKD6zZdie) | [Dagmar Park](https://open.spotify.com/artist/1FYboM4559UFLCS9IVXxio) | [Life is but a dream](https://open.spotify.com/album/0nnjifaoqsyGVLxbUWK7ey) | 1:20 | 2022-02-10 |  |
+| [Life is but a dream](https://open.spotify.com/track/6XLzwDwQzsX7gmKD6zZdie) | [Dagmar Park](https://open.spotify.com/artist/1FYboM4559UFLCS9IVXxio) | [Life is but a dream](https://open.spotify.com/album/0nnjifaoqsyGVLxbUWK7ey) | 1:20 | 2022-02-10 | 2024-06-08 |
 | [Litet bo jag sätta vill](https://open.spotify.com/track/5qEoofV0UUskhni4I1vfn1) | [Beatrice Björkman](https://open.spotify.com/artist/2SdRSEuy0pwKedI6cZyTPI) | [Litet bo jag sätta vill](https://open.spotify.com/album/4E9junRVt6IwKCr8IRH78c) | 1:23 | 2022-12-09 | 2023-08-25 |
 | [Little Bo Peep](https://open.spotify.com/track/2up0LGm75ZneCdHr8ngfKa) | [Jackie Leon](https://open.spotify.com/artist/0lnm8ajEZUtfdBN07KPn5b) | [Tommy Thumb](https://open.spotify.com/album/3xy4asbR8bGz43QEiwCYes) | 1:42 | 2022-02-10 | 2023-04-21 |
 | [Little Cat](https://open.spotify.com/track/6dHzijXrFnRCsCzPyiwLPJ) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Little Cat](https://open.spotify.com/album/2QsXtBg2CG4EAeto6zQMUC) | 1:07 | 2023-08-31 |  |
@@ -161,7 +162,7 @@
 | [Merrily We Roll Along](https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Merrily We Roll Along](https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW) | 0:41 | 2023-06-21 |  |
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 |  |
 | [Minuet in G major](https://open.spotify.com/track/1dbOTzFPfYfIjGeMKZG014) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Classics on Music Box](https://open.spotify.com/album/5bMZ8ncLdI2lF2nKzPgmPx) | 1:13 | 2022-02-10 | 2024-04-04 |
-| [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 |  |
+| [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 | 2024-06-08 |
 | [Morning Serenade](https://open.spotify.com/track/7KjaDUVneZEzICbkQc1yiz) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [Morning Serenade](https://open.spotify.com/album/6WxSfGCxXh8UkdejvuCnDO) | 1:28 | 2023-10-06 |  |
 | [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 | 2024-03-01 |  |
 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 | 2023-05-19 |  |
@@ -266,6 +267,7 @@
 | [Time To Go To Bed](https://open.spotify.com/track/20i09L7h245MkOJbcu00PC) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [Time To Go To Bed](https://open.spotify.com/album/5Q2H9KiBUMh4yRRUMncYVg) | 1:03 | 2022-02-10 | 2024-04-04 |
 | [Timeless](https://open.spotify.com/track/4tRMKKy14CBxDYSKOEi01n) | [Abel Lily](https://open.spotify.com/artist/6A8LLXdKurxX8ljnxzlS2Y) | [Timeless](https://open.spotify.com/album/5rs2SaiqFFg5ht1oYD8cou) | 1:52 | 2024-04-19 |  |
 | [To the stars and back](https://open.spotify.com/track/4KecvpSzjpYDyYZgO8sukR) | [Yasu Carter](https://open.spotify.com/artist/1a5lbgjd8frJ8UirtYdtpQ) | [To the stars and back](https://open.spotify.com/album/5rfYgK0cj2cTMysBZ4Bt5b) | 1:26 | 2022-02-10 | 2024-04-19 |
+| [Together With You](https://open.spotify.com/track/0cLMkhdYS3CXq4pENYgW4g) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [Together With You](https://open.spotify.com/album/3eIdDMPvGF9WkHDaFlazFz) | 1:43 | 2024-06-07 |  |
 | [Tuck You In](https://open.spotify.com/track/7BAOAgb7oHDU7c2px6Jr2w) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [Tuck You In](https://open.spotify.com/album/5qONknLa05F4T926ZHio4k) | 1:32 | 2022-05-17 |  |
 | [Twinkle twinkle little star](https://open.spotify.com/track/3Q1gKxJo0xAsI1TpXdYccs) | [Rene Roses](https://open.spotify.com/artist/221z7KkoNPAehx4DhjF33f) | [Baby Lullabies](https://open.spotify.com/album/5B5AuzHG2fLyxayH4SAKCf) | 1:23 | 2023-02-17 |  |
 | [Twinkle twinkle little star](https://open.spotify.com/track/0GpjHdTg8HUBqqjjbuyRZx) | [Sabelia Robles](https://open.spotify.com/artist/6rq2TupUat1Bqgh9KSmc1e) | [Twinkle twinkle little star](https://open.spotify.com/album/38kjDndrsXh2BuxXhvuOlo) | 0:54 | 2022-02-10 | 2022-04-23 |

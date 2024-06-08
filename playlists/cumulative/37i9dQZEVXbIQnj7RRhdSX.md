@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,849 songs - 3 day 22 hr 36 min
+1,850 songs - 3 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -976,7 +976,7 @@
 | [Luna](https://open.spotify.com/track/6okLJn60TbvQjnIX6Nv3WP) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Aka 7even](https://open.spotify.com/album/2bqAWd0VQTvIaAxIQSKe7i) | 2:19 | 2021-05-23 | 2021-05-24 |
 | [LUNA PIENA \(con IRAMA\)](https://open.spotify.com/track/6z7tGTD6yvyloEm6K2H8EX) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:46 | 2022-01-04 | 2022-02-04 |
 | [LUNA PIENA \(con IRAMA\)](https://open.spotify.com/track/7xtDBQTR47nZwpBRu6pOdO) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [TAXI DRIVER](https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp) | 2:46 | 2021-05-03 | 2022-01-05 |
-| [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 |  |
+| [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-08 |
 | [Lunedì Blu \(feat\. Salmo\)](https://open.spotify.com/track/4bQFspp8Feaj1wEPsysGLZ) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 4:01 | 2021-12-12 | 2021-12-19 |
 | [Léon \(The Professional\)](https://open.spotify.com/track/3khjpQtAQ4VkzqSe8moxo3) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 2:42 | 2023-01-15 | 2023-01-21 |
 | [m%n](https://open.spotify.com/track/5VSmYYZYuSCSlOweGMpM1A) | [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [m%n](https://open.spotify.com/album/6EkbZ11Pg8jQAViLSZ1o7y) | 2:54 | 2021-10-23 | 2022-01-08 |
@@ -1475,6 +1475,7 @@
 | [Salsa](https://open.spotify.com/track/5lHIcwvuMNAWRP8OQwpou7) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [SurreAle](https://open.spotify.com/album/03WKRe6qdUGLqnAnezEPIj) | 3:14 | 2021-08-29 | 2021-09-08 |
 | [Salsa](https://open.spotify.com/track/6VAdJCy8hFSxTNsxlBADSE) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Salsa](https://open.spotify.com/album/6KckQeeQQQQzRnXGTyJhP7) | 3:15 | 2021-06-03 | 2021-08-29 |
 | [Salvatore](https://open.spotify.com/track/1xDd0C4XAUalhg5cJylyXS) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:33 | 2022-03-12 | 2022-03-14 |
+| [Samba do Brasil](https://open.spotify.com/track/2yAjjqcHMy6qUI6NNzNoVD) | [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Festival](https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa) | 3:17 | 2024-06-07 |  |
 | [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-05-23 | 2024-05-25 |
 | [SANTA BANDANA \(64 Bars\)](https://open.spotify.com/track/4vq1Pfbh9gMq28q0u32qyB) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po) | 3:47 | 2021-05-30 | 2021-05-31 |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 2:51 | 2021-12-10 | 2022-12-28 |

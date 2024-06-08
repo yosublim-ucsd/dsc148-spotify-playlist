@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Selfi Yamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,493 likes - 88 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,529 likes - 88 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

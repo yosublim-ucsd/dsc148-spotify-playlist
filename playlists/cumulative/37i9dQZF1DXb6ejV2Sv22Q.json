@@ -780,10 +780,36 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "album": {
+        "name": "DON DIMADON 2",
+        "url": "https://open.spotify.com/album/7GzszsbfJQFtcI9MBcIBFy"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206774,
+      "name": "DON DIMADON 2",
+      "url": "https://open.spotify.com/track/6T1h955lYgvxQgVcezzZ91"
     },
     {
       "album": {
@@ -1743,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "Modo Gta",
+        "url": "https://open.spotify.com/album/4XqgGl1QDukBiMC4AEThPV"
+      },
+      "artists": [
+        {
+          "name": "Crack Sandwich",
+          "url": "https://open.spotify.com/artist/2B7Emp3BozfLel4hY9SvFk"
+        },
+        {
+          "name": "Exxflame",
+          "url": "https://open.spotify.com/artist/4aEGLusnE63RkDLdLVqo2Q"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111604,
+      "name": "Modo Gta",
+      "url": "https://open.spotify.com/track/6vH1Kq8YhJE4qIymoREKCZ"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -2584,7 +2632,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 210816,
       "name": "Tu Si Eres Real",
       "url": "https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ"

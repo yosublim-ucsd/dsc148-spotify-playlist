@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,726 likes - 55 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,824 likes - 55 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 4 | [Scilla E Cariddi \- TR3NACRIA Remix](https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Scilla E Cariddi \(TR3NACRIA Remix\)](https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR) | 3:05 |
 | 5 | [Udokotela](https://open.spotify.com/track/2hF8zj1pgjlzENfzqztU4b) | [Muzari](https://open.spotify.com/artist/5CKFDmOK1dzIqjxSoSyi6Y) | [Udokotela](https://open.spotify.com/album/5EzeLxe63DgICodZ1jsjPz) | 5:22 |
 | 6 | [Never](https://open.spotify.com/track/0OO9FgFioNaXMAJb6k4AqF) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Camerøn](https://open.spotify.com/artist/6DF72UNKeFlipp9UZ2vRXH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Never](https://open.spotify.com/album/2bKaMNe7DDjXRHlmdho0gv) | 3:59 |
-| 7 | [Usemindawonye](https://open.spotify.com/track/4teW3ZNwOtJAPl0526lmT4) | [Korie Minors](https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [DJ 84](https://open.spotify.com/artist/18FxQBT0taD8Fs7JNcBVH4), [Shona SA](https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk), [Native P.](https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr) | [Usemindawonye](https://open.spotify.com/album/3xQsL0si2XFnuq0sSmWuTb) | 5:47 |
+| 7 | [Usemindawonye](https://open.spotify.com/track/4teW3ZNwOtJAPl0526lmT4) | [Korie Minors](https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [DJ 84](https://open.spotify.com/artist/18FxQBT0taD8Fs7JNcBVH4), [Shona SA](https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk) | [Usemindawonye](https://open.spotify.com/album/3xQsL0si2XFnuq0sSmWuTb) | 5:47 |
 | 8 | [Hope](https://open.spotify.com/track/14CIfSKcEDtvZlMISR6D8W) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Hope](https://open.spotify.com/album/3vt9Sd6ztbPf2vQc6JszIh) | 4:00 |
 | 9 | [Takala](https://open.spotify.com/track/05V4AsCrdYDyZ9X3p52NDF) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Afrikan Roots](https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge), [Buckz](https://open.spotify.com/artist/69ZgYPASgseel4idpmIToo), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp) | [Takala](https://open.spotify.com/album/7E6v5YEJ5LaAHDMxSs0h0Q) | 6:32 |
 | 10 | [Humelela](https://open.spotify.com/track/5QfxioU6IeNNBlGof94u4T) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Papany](https://open.spotify.com/artist/2feALlzBXg5NciFhlm61Cd) | [Humelela](https://open.spotify.com/album/0QeVk0kVYr7W9yFzW041ZY) | 6:30 |

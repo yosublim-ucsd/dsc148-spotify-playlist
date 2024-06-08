@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Original Cast of Illinoise",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Hell's Kitchen",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -701,6 +701,40 @@
     },
     {
       "album": {
+        "name": "Suffs (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1R6nRTL81nROSLVJo2PDnl"
+      },
+      "artists": [
+        {
+          "name": "Kim Blanck",
+          "url": "https://open.spotify.com/artist/63aCVj25s2GBm3DYnVCE8a"
+        },
+        {
+          "name": "Ally Bonino",
+          "url": "https://open.spotify.com/artist/0QfBig2wRjlG3LMtXa566b"
+        },
+        {
+          "name": "Hannah Cruz",
+          "url": "https://open.spotify.com/artist/4Okl6bPzDlvptmDBdFwLJw"
+        },
+        {
+          "name": "Nadia Dandashi",
+          "url": "https://open.spotify.com/artist/7ng65Hm0TgSct87mErm5DS"
+        },
+        {
+          "name": "Shaina Taub",
+          "url": "https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "Great American Bitch",
+      "url": "https://open.spotify.com/track/2NaNUij0c1fBiFabH2LakC"
+    },
+    {
+      "album": {
         "name": "Dirty Rotten Scoundrels (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/7281FIYzfTKPQVyh2utJhS"
       },
@@ -782,6 +816,28 @@
       "duration_ms": 163000,
       "name": "Happy To Keep His Dinner Warm",
       "url": "https://open.spotify.com/track/7efy60XlIGQ10hK8rEjF6Z"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4lPI25dn6i33LCCzvczpei"
+      },
+      "artists": [
+        {
+          "name": "THE WIZ Cast",
+          "url": "https://open.spotify.com/artist/0J4zCN8sPmKkNxtAPaHqZR"
+        },
+        {
+          "name": "Nichelle Lewis",
+          "url": "https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210188,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3Y6TrexjQryeW8U9UN5kzn"
     },
     {
       "album": {
@@ -1112,6 +1168,28 @@
       "duration_ms": 245693,
       "name": "I'm The Greatest Star",
       "url": "https://open.spotify.com/track/7MxuUYqrCIy93h1EEHrIrL"
+    },
+    {
+      "album": {
+        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
+      },
+      "artists": [
+        {
+          "name": "Brandon Victor Dixon",
+          "url": "https://open.spotify.com/artist/3rIXaFZEmvRxMDdxvkg5g2"
+        },
+        {
+          "name": "Maleah Joi Moon",
+          "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268610,
+      "name": "If I Ain\u2019t Got You",
+      "url": "https://open.spotify.com/track/6pakSvNOuGZOLmzBHN3IXh"
     },
     {
       "album": {
@@ -1965,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Roaring On / My Green Light / Past is Catching Up to Me | The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0WOb0bOotTCHNGDsnLjpUL"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of The Great Gatsby - A New Musical",
+          "url": "https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315924,
+      "name": "Roaring On",
+      "url": "https://open.spotify.com/track/56oQFmaTWSQFocRNT6AYyA"
+    },
+    {
+      "album": {
         "name": "Chicago: A Musical Vaudeville (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4BhJZEZHcPJZfnJH8Y5An3"
       },
@@ -2254,7 +2350,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 130800,
       "name": "SPACES",
       "url": "https://open.spotify.com/track/79VOimR33VjBNi4ihuF4yY"

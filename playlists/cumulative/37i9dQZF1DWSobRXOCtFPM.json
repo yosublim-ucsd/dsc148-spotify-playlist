@@ -2823,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Let's Keep Floating",
+        "url": "https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A"
+      },
+      "artists": [
+        {
+          "name": "De Sluwe Vos",
+          "url": "https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461835,
+      "name": "Let's Keep Floating",
+      "url": "https://open.spotify.com/track/3Kt84nPo7IPy5cGrWAEdbH"
+    },
+    {
+      "album": {
         "name": "Light of the Universe",
         "url": "https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37"
       },

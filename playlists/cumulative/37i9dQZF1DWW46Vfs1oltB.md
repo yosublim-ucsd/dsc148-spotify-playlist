@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Chillin Homie\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: HOMIES\(호미들\)\)
 
-1,238 songs - 2 day 19 hr 13 min
+1,240 songs - 2 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Crimson \(Prod\. Czaer\)](https://open.spotify.com/track/19pgQAtjHTpDW8hq67uz8e) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 2:49 | 2023-08-29 | 2024-01-06 |
 | [d sign](https://open.spotify.com/track/40r2nTBaQ6nXp54mz26gvR) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [drugonline gate](https://open.spotify.com/album/3CymvXzT7vcDl9r69lTwcC) | 3:08 | 2021-12-29 | 2022-06-14 |
 | [d\-day \(feat\. unofficialboyy, RANCHIA\)](https://open.spotify.com/track/3vsjdV60htdQmaoMxzeavO) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [RANCHIA](https://open.spotify.com/artist/3GYiditX3EJXa22KvuSSaW) | [ARIA II : Vendetta](https://open.spotify.com/album/0mNJrHxXLpCvBmPfvWSLTf) | 3:04 | 2022-05-31 | 2022-06-30 |
+| [D.B.D.B DEEP](https://open.spotify.com/track/2Zjlp1wupG8jrZvqNiVArZ) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [HEAT TAPE](https://open.spotify.com/album/08afahAF1rhA54fXgOkMiw) | 3:21 | 2024-06-07 |  |
 | [D.R.E.A.M\. \(feat\. pH\-1\)](https://open.spotify.com/track/5OuTSgILh3Mkgj6ir9x9Pz) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:19 | 2022-10-27 | 2023-03-25 |
 | [DAEMUGA](https://open.spotify.com/track/5bGIMkueTLtAscHSrC4TcA) | [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [DAEMUGA](https://open.spotify.com/album/0lhisOKVmr8phsuEkvpvyi) | 3:44 | 2022-10-04 | 2023-01-03 |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2021-12-18 | 2022-07-08 |
@@ -894,6 +895,7 @@
 | [RicheyJames](https://open.spotify.com/track/62U83ojlJQPEJjaLq0Krvw) | [Ghvstclub](https://open.spotify.com/artist/3xZZnLrFVGNdJh0CMoBcwy) | [Enfant terrible](https://open.spotify.com/album/6kMITgzhq6i6cYJc5iqjLf) | 3:27 | 2024-03-19 | 2024-06-05 |
 | [ridah 7](https://open.spotify.com/track/6rEEyrCL3Z613rR7ejS2JY) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [lobonatune2¡](https://open.spotify.com/album/4lH36ZOYZO1P82wQbwiqN9) | 2:07 | 2022-03-26 | 2022-06-12 |
 | [Ride](https://open.spotify.com/track/3zc19kM0SD3H1Bi56NCUcj) | [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Ride](https://open.spotify.com/album/73hWhsjMjOJb8licVYN7sP) | 2:59 | 2022-07-24 | 2022-09-28 |
+| [RIDE OR DIE](https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J) | [KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [RIDE OR DIE](https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW) | 3:15 | 2024-06-07 |  |
 | [RIDERS \(Feat\. Chin, UNEDUCATED KID, Jay Park & Tiger JK\)](https://open.spotify.com/track/0VVB1l4jFUpXwBCUDIBTvo) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [RIDERS](https://open.spotify.com/album/5KH38MvGoRjseF0zEAH8aV) | 4:14 | 2021-12-18 | 2022-04-26 |
 | [RINDAMAN \(Feat\. ZICO\)](https://open.spotify.com/track/5zoGBq6N98J1NnLeB2OPPy) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 2:16 | 2023-04-20 | 2023-11-16 |
 | [Ring Ring](https://open.spotify.com/track/6Wu6Ee5c9n5s6g8xvK2cK3) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Ring Ring](https://open.spotify.com/album/6sy7z0niqeYj9ld25PeeYB) | 2:39 | 2022-01-14 | 2022-07-07 |

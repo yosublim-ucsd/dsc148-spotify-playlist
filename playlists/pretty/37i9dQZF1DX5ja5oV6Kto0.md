@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Odunsi \(the Engine\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,632 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,668 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
 | 2 | [Forever](https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:16 |
 | 3 | [SINK OR SWIM](https://open.spotify.com/track/6fB5xCqHjkLGud3ZPyNbq4) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt) | [SINK OR SWIM](https://open.spotify.com/album/34Db2WinZb68Nk0cvWirdt) | 3:10 |
-| 4 | [Therapy](https://open.spotify.com/track/2NUKs3hLGwWFufkaAfKlSQ) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Bena](https://open.spotify.com/artist/3MMcAzzdyVjFJvKEOCa9Fa) | [Therapy](https://open.spotify.com/album/15cDHNOnPdeaeeSIqtVwBp) | 1:53 |
+| 4 | [Therapy](https://open.spotify.com/track/2NUKs3hLGwWFufkaAfKlSQ) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BENA](https://open.spotify.com/artist/2AKgOlTQup8uEgaNqLrKGv) | [Therapy](https://open.spotify.com/album/15cDHNOnPdeaeeSIqtVwBp) | 1:53 |
 | 5 | [Let It Play](https://open.spotify.com/track/0DbRMauNkXY78bzmB1fa6B) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Play](https://open.spotify.com/album/1ucEK6a8nB1piGe2HGMtZW) | 2:20 |
 | 6 | [Que Sera](https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Que Sera](https://open.spotify.com/album/09vJd4nTEvLwwhgpOKnbAl) | 2:35 |
 | 7 | [Star](https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [Star](https://open.spotify.com/album/611t57rkpgi1z9kF76QnW0) | 2:18 |

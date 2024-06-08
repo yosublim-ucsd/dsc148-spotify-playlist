@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-2,183 songs - 4 day 13 hr 33 min
+2,184 songs - 4 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [DIE ZONA](https://open.spotify.com/track/5tafJmErKsdZKFtPWnCL82) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:25 | 2023-11-25 | 2023-11-27 |
 | [Die zwei kenn ich](https://open.spotify.com/track/5enpyouTxbz2pK3qZpH5Qw) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [King Khalil](https://open.spotify.com/artist/08ao8gzTHBtNf5Laf9jjwR) | [Die zwei kenn ich](https://open.spotify.com/album/7d7rkLtS6qUfZ2xqFb9d1h) | 2:28 | 2021-07-11 | 2021-07-18 |
 | [Diebe](https://open.spotify.com/track/4allObWlgZ21WeVKbxSIlk) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Diebe](https://open.spotify.com/album/5b5m4Kjx34zoQ8tguW4yyY) | 2:30 | 2021-04-03 | 2021-04-11 |
+| [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 | 2024-06-07 |  |
 | [DIESES EINE MAL](https://open.spotify.com/track/2Ia00WxA3ZINDzmj6rnsZF) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [BLACKOUT](https://open.spotify.com/album/2mm9MvJe7UhHpDZBvdM0R8) | 3:00 | 2023-04-01 | 2023-04-07 |
 | [Dieses Leben...](https://open.spotify.com/track/0HkUMcZ3HQTLZiAQzUHrEI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Dieses Leben...](https://open.spotify.com/album/2AJfLOSy2DXe0gyvaKqYZL) | 2:43 | 2022-09-17 | 2022-09-19 |
 | [DILEMMA](https://open.spotify.com/track/5a4BwnoE6D5bRmhMvITk0u) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [LOYALTY OVER LOVE](https://open.spotify.com/album/0VEuh3ku5EpMHrMYuGTSTR) | 4:47 | 2022-04-30 | 2022-05-02 |
@@ -1084,7 +1085,7 @@
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-11-28 | 2023-12-30 |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-17 | 2021-10-18 |
 | [Let U Go](https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR) | 2:08 | 2024-05-26 | 2024-05-28 |
-| [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-12-29 |  |
+| [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-12-29 | 2024-06-08 |
 | [letzter song](https://open.spotify.com/track/7EHEVPIFS6mOq4BOhlVL3i) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 3:02 | 2022-05-19 | 2022-07-15 |
 | [Letztes Mal](https://open.spotify.com/track/2ptG9ihX35aWmz7EnsYXBe) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Palmen aus Plastik 3](https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9) | 2:45 | 2022-09-10 | 2022-10-16 |
 | [Letztes Mal](https://open.spotify.com/track/7k6aVgrtJqNTMVqk5yMWKD) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Letztes Mal](https://open.spotify.com/album/0R5Kegf7xSgEDNiW6kswoE) | 2:45 | 2022-07-16 | 2022-09-11 |

@@ -2,9 +2,9 @@
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Ben Bizzy
+> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: POKMINDSET
 
-393 songs - 22 hr 1 min
+394 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [INTRO \[BABY FOREVER\]](https://open.spotify.com/track/7ajmjB7vQlhQi8bmGGD2C1) | [BABY ROCKY](https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX) | [INTRO \[BABY FOREVER\]](https://open.spotify.com/album/4qHFQaN419mQQgjDBINGJJ) | 1:24 | 2023-12-01 | 2023-12-16 |
 | [IOS](https://open.spotify.com/track/3KlA2l3A8acuOEXYVFr7h7) | [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK) | [IOS](https://open.spotify.com/album/1KYCgrmUFOsDytDgx0U8WA) | 1:54 | 2024-02-01 | 2024-02-09 |
 | [It's time to shine](https://open.spotify.com/track/1QFNQJ4kof6vgtwLvoO2oW) | [Dreamhigh](https://open.spotify.com/artist/6cSjl7Ui0afCZqfhyGozLt) | [It's time to shine](https://open.spotify.com/album/4ABorZI3cPchCyyqBX409i) | 5:27 | 2024-02-08 | 2024-02-17 |
+| [JEK](https://open.spotify.com/track/5PCtuA7sii6OLdaeRffmXB) | [POKMINDSET](https://open.spotify.com/artist/18twEd2PtcY8Nz2v6oKyNP) | [JEK](https://open.spotify.com/album/5tvUiLT74QE5Pjl4tY2eem) | 2:17 | 2024-06-07 |  |
 | [JUICY](https://open.spotify.com/track/1wkmKqvTX4ZxMNs71QDKg7) | [Smew](https://open.spotify.com/artist/3H9OFh5F04b3SCFASMKfjj) | [JUICY](https://open.spotify.com/album/26H96kkFR8cbD12vXodbNF) | 3:44 | 2024-03-22 | 2024-03-30 |
 | [Just Let Me Know](https://open.spotify.com/track/65vcHKKup4eQgzJ3X74Sn8) | [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [Just Let Me Know](https://open.spotify.com/album/6wmHJ69pHWlCeMiO6XM784) | 2:33 | 2024-02-16 | 2024-02-27 |
 | [K.U.A.Y](https://open.spotify.com/track/24z1AbC9gwYfN3oJgY7tnh) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Dennis Thaikoon](https://open.spotify.com/artist/2Q2YHYZ11DBbeJKmKLAcsO) | [UNDERDOG](https://open.spotify.com/album/59dUrZn6tENKO2Lg30QfLI) | 3:39 | 2023-10-12 | 2023-11-03 |
@@ -395,7 +396,7 @@
 | [ไม่มีใครแทนที่เธอ](https://open.spotify.com/track/6qNdSdcTASXbYZijNUHMlD) | [T\-BIGGEST](https://open.spotify.com/artist/3LW3TOMoNLelResUQ8w4UR), [GINO](https://open.spotify.com/artist/2G9j65Gu87aQxIdVVzJbXW) | [ไม่มีใครแทนที่เธอ](https://open.spotify.com/album/6KMejBCUkQ0zM1klInl0oI) | 2:44 | 2023-12-01 | 2023-12-16 |
 | [ไม่ยินดี](https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [ไม่ยินดี](https://open.spotify.com/album/0Ifu2SC417RilqteSg2vns) | 3:53 | 2023-09-22 | 2024-03-30 |
 | [ไม่รักก็ตามใจ](https://open.spotify.com/track/3dBqpSG0pWzgoYRj80jsLw) | [Pondering](https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2) | [ไม่รักก็ตามใจ](https://open.spotify.com/album/0UoDw9Y9RZ7VqKnrtlojRz) | 2:31 | 2023-12-15 | 2024-01-06 |
-| [ไม่รู้สึก](https://open.spotify.com/track/5kLO6iMxOxBpUKYBew11VW) | [NINJA](https://open.spotify.com/artist/2nVepyt8a78fnzBWwsemtw), [DAW](https://open.spotify.com/artist/3GcRmAFjv0E4SaisYqJHyp) | [ไม่รู้สึก](https://open.spotify.com/album/5IggPuH7gXM1bdKEP1KFkZ) | 3:06 | 2024-05-31 |  |
+| [ไม่รู้สึก](https://open.spotify.com/track/5kLO6iMxOxBpUKYBew11VW) | [NINJA](https://open.spotify.com/artist/2nVepyt8a78fnzBWwsemtw), [DAW](https://open.spotify.com/artist/3GcRmAFjv0E4SaisYqJHyp) | [ไม่รู้สึก](https://open.spotify.com/album/5IggPuH7gXM1bdKEP1KFkZ) | 3:06 | 2024-05-31 | 2024-06-08 |
 | [ไม่เข้าใจ](https://open.spotify.com/track/5rbS1DclteKX1kyKiaWOdz) | [BOSSSICK x 2T FLOW](https://open.spotify.com/artist/4hODyvJdUBe5y964lHy9qI), [DELAY.MQT](https://open.spotify.com/artist/3UtLRd4IG1mu2ZOLwJn2rq) | [ไม่เข้าใจ](https://open.spotify.com/album/1xeitljQelsO5D4OmkzSDg) | 2:54 | 2023-09-22 | 2024-03-30 |
 | [ไม่ได้คิด \(Rizz\)](https://open.spotify.com/track/3PsfQ7ev3x2cIdrkqRAhhr) | [Project M.O.N](https://open.spotify.com/artist/58jnr1VHhzoBq20AjK8Fzt), [Louis.](https://open.spotify.com/artist/6A3jhW8XSxXFdhaln3BHdf), [TATAM](https://open.spotify.com/artist/2M7005RIPbhTCIkF1BhLyD), [MEEPOOH](https://open.spotify.com/artist/4KskysSdBHpCARBnYvGzr0) | [ไม่ได้คิด \(Rizz\)](https://open.spotify.com/album/7uBNWpnmVpKd6jJcMsE1VP) | 2:43 | 2023-12-08 | 2023-12-16 |
 | [ไร้รัก](https://open.spotify.com/track/7LQegHlWROlwRO1WgYfXVR) | [Highhot](https://open.spotify.com/artist/7clhNqbmk9enpeaBH9ACiZ) | [ไร้รัก](https://open.spotify.com/album/4o4WWN1a3bH0Z7IxOKhNAa) | 3:33 | 2024-04-19 |  |

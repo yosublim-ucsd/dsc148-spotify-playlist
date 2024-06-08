@@ -4,7 +4,7 @@
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-84 songs - 5 hr 15 min
+86 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,10 +30,12 @@
 | [Dark Angel](https://open.spotify.com/track/4BjeWwffo5mBIeYlABaFlO) | [Funta7](https://open.spotify.com/artist/2krWYpg7HWSuDZjWkGXZTq) | [The Anthems](https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO) | 3:17 | 2021-05-26 |  |
 | [Dark Angel](https://open.spotify.com/track/69DYEtc8SCKzx4PK9FdK7f) | [Funta7](https://open.spotify.com/artist/2krWYpg7HWSuDZjWkGXZTq) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:17 | 2021-05-26 | 2024-04-19 |
 | [Dengeki Raigo](https://open.spotify.com/track/3ZMWZMwLCHsK4I4YNpigb7) | [Yaiba](https://open.spotify.com/artist/4WYmVBeDlNM4VzFLEA4QZK) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:03 | 2021-05-26 | 2024-04-19 |
+| [Don't Stay](https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [Don't Stay](https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW) | 3:54 | 2024-06-07 |  |
 | [Eccentric Parade](https://open.spotify.com/track/0neSATRBSylvwnttpqxUwK) | [Akinari Suzuki](https://open.spotify.com/artist/6BZSloar9skDGo2lVsveeC) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:37 | 2021-05-26 | 2024-04-19 |
 | [Eccentric Parade](https://open.spotify.com/track/6KSvtbmrUA5gYiFfvgP1Ve) | [鈴木暁也](https://open.spotify.com/artist/1KwSxMK9zQzeJD8j8ugFyG) | [ケンガンアシュラ オリジナル・サウンドトラック](https://open.spotify.com/album/6TX05waIEC6vIKHe51I7vV) | 3:37 | 2021-05-26 |  |
 | [Falling Down](https://open.spotify.com/track/1S1WY8NrmFtfXCcBVNR3VU) | [Sho from MY FIRST STORY](https://open.spotify.com/artist/1jKNfjAbRBcv3zF7IzMLs5) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 1:40 | 2021-05-26 | 2024-04-19 |
 | [Falling Down](https://open.spotify.com/track/4PY97Kx3Y5DPH45Ea0kw3M) | [Sho from MY FIRST STORY](https://open.spotify.com/artist/1jKNfjAbRBcv3zF7IzMLs5) | [The Anthems](https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO) | 1:40 | 2021-05-26 |  |
+| [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-06-07 |  |
 | [Future](https://open.spotify.com/track/5k3gl0N9fIhdQ8IzvBEmUP) | [SIRENT SCREEM](https://open.spotify.com/artist/1ECaxUFJDossYsI2sQDEIS) | [The Anthems](https://open.spotify.com/album/6tklBDKO8DLtbRGwpZ2tqO) | 4:42 | 2021-05-26 |  |
 | [Future](https://open.spotify.com/track/5rppHD1qvH3fkMSeyDlyYP) | [SIRENT SCREEM](https://open.spotify.com/artist/1ECaxUFJDossYsI2sQDEIS) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 4:42 | 2021-05-26 | 2024-04-19 |
 | [Future Destination](https://open.spotify.com/track/4MQYAcBPtoqzxRfjqfLdET) | [Kelly SIMONZ](https://open.spotify.com/artist/5a3m1liYxcUqUUy2PrLqrn) | [The Anthems](https://open.spotify.com/album/3IN2b696fNjU1amGL72mGX) | 3:15 | 2021-05-26 | 2024-04-19 |

@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
@@ -4886,6 +4886,28 @@
       "duration_ms": 210165,
       "name": "Tengo en Venta el Corazon",
       "url": "https://open.spotify.com/track/6rZZPJBaR0FyK54DZRH316"
+    },
+    {
+      "album": {
+        "name": "Tengo La Primicia",
+        "url": "https://open.spotify.com/album/5IhVFvT73oIh05LkASAYhI"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
+        },
+        {
+          "name": "El Adri Music",
+          "url": "https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144551,
+      "name": "Tengo La Primicia",
+      "url": "https://open.spotify.com/track/58lg8t1vkiFF7TKa9bMt5e"
     },
     {
       "album": {

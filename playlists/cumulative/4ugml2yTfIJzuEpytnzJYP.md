@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-259 songs - 16 hr 25 min
+260 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Immortals](https://open.spotify.com/track/2gSNgFzYBZMFzU7upbJIuU) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Immortals](https://open.spotify.com/album/6NyX2KnRzwp1zOK8s9JY53) | 3:46 | 2023-05-27 |  |
 | [Inferno](https://open.spotify.com/track/1MGrP7eLvfLDKMmAiEcufm) | [Ringtone Murder](https://open.spotify.com/artist/6DQVEV3tyaBDdb0Z7Z2cKh) | [Inferno](https://open.spotify.com/album/4cvjwU0s2yLAHmKDGbPcGY) | 3:01 | 2022-04-25 | 2022-08-23 |
 | [Inner Sanctum](https://open.spotify.com/track/5RZq9CmmzqmaJlodCeXMB6) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Gallows EP](https://open.spotify.com/album/2fZTG3TpT1oyuE9z5bMeV2) | 4:13 | 2022-09-30 | 2022-10-17 |
+| [Inori](https://open.spotify.com/track/2btpbaSMhB1y6Z1FczPY7o) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Inori](https://open.spotify.com/album/1rrz2jbxSKTl74PvTb75nr) | 3:21 | 2024-06-07 |  |
 | [Is There Anybody Out There](https://open.spotify.com/track/1R7z1ECtLCOHKRNUp4mTK7) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Is There Anybody Out There](https://open.spotify.com/album/7Krdabty2ZZ7sYeLmXA5ms) | 3:03 | 2022-04-01 | 2022-08-06 |
 | [Jello Robot](https://open.spotify.com/track/2cgcbmYQzQiEta9VrQVPb8) | [Dov1](https://open.spotify.com/artist/0Odv3FqI1OKTDBVS0FfR8W) | [20 Years of Muti](https://open.spotify.com/album/6tZifHF3s2qaqzlPLZ83Kg) | 3:02 | 2022-11-18 | 2023-05-27 |
 | [Jupiter](https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD), [JLEON](https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6) | [Jupiter](https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN) | 4:41 | 2023-05-31 | 2024-01-14 |

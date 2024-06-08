@@ -8637,6 +8637,32 @@
     },
     {
       "album": {
+        "name": "Congratulations",
+        "url": "https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186909,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
+    },
+    {
+      "album": {
         "name": "Consecrated Worship (Medley)",
         "url": "https://open.spotify.com/album/21DdHFFBlNcxRafrra4loM"
       },
@@ -23365,6 +23391,28 @@
     },
     {
       "album": {
+        "name": "I Worship",
+        "url": "https://open.spotify.com/album/5GRITao3nx7gyaAEn0tgYa"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231967,
+      "name": "I Worship",
+      "url": "https://open.spotify.com/track/2LLUDLGzrX9366WZOHiTNc"
+    },
+    {
+      "album": {
         "name": "I Worship Oji Oku Eri Ajah - Full Version",
         "url": "https://open.spotify.com/album/6Az9Xiqpg4U82zyzN3Gi2W"
       },
@@ -33516,6 +33564,24 @@
       "duration_ms": 522879,
       "name": "Mvelinqangi",
       "url": "https://open.spotify.com/track/0qBlNKXOSfZ1mWhc1gjIRX"
+    },
+    {
+      "album": {
+        "name": "My Advantage",
+        "url": "https://open.spotify.com/album/6KUzKB0pXkqRrtSxfWzog2"
+      },
+      "artists": [
+        {
+          "name": "Mudia Festking",
+          "url": "https://open.spotify.com/artist/02Ggk0ARM6F60EpY0Trloa"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279381,
+      "name": "My Advantage",
+      "url": "https://open.spotify.com/track/1WUhcFWdNTv6gYAIi1cmJt"
     },
     {
       "album": {

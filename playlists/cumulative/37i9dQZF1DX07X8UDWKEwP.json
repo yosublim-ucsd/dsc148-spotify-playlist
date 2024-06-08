@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Olga Ta\u00f1\u00f3n & Christian Alicea",
+  "description": "Lo nuevo del mundo tropical. Cover: FARIANA",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200629,
       "name": "Contacto",
       "url": "https://open.spotify.com/track/1GOFHt8jjPbafarU82Ihsj"
@@ -2314,6 +2314,28 @@
       "duration_ms": 184586,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM"
+    },
+    {
+      "album": {
+        "name": "El Caballito",
+        "url": "https://open.spotify.com/album/02Lqkj1doHSYSol3v5RH9R"
+      },
+      "artists": [
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181491,
+      "name": "El Caballito",
+      "url": "https://open.spotify.com/track/4VnxD9V3h0R6aCYjSrDYqJ"
     },
     {
       "album": {
@@ -3092,7 +3114,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 175355,
       "name": "Existo",
       "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
@@ -4100,6 +4122,28 @@
       "duration_ms": 162882,
       "name": "La Vida Da Vuelta",
       "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
+    },
+    {
+      "album": {
+        "name": "La Visualizo 2.0 (Remix)",
+        "url": "https://open.spotify.com/album/6Z1xgAyPSFeF2uD4ao9z3I"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rodriguez",
+          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
+        },
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196746,
+      "name": "La Visualizo 2.0 - Remix",
+      "url": "https://open.spotify.com/track/7phxoWBhAn7fxGbkqKpGds"
     },
     {
       "album": {
@@ -6660,7 +6704,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 163673,
       "name": "Quincea\u00f1era",
       "url": "https://open.spotify.com/track/5WhqFotjTNZgX3HjcGfKNw"
@@ -7626,6 +7670,24 @@
       "duration_ms": 216737,
       "name": "Sus Huellas",
       "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Por Un Rato",
+        "url": "https://open.spotify.com/album/7IPoPMe3rtkvPQWJ9vnzj7"
+      },
+      "artists": [
+        {
+          "name": "Bruno Romano",
+          "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "S\u00f3lo Por Un Rato",
+      "url": "https://open.spotify.com/track/3E26o2pC2pdnKew4V9LBFD"
     },
     {
       "album": {

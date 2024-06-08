@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/7D2txPn4ldkYa4t12wBHcc"
+      },
+      "artists": [
+        {
+          "name": "Josement",
+          "url": "https://open.spotify.com/artist/2Fue2rkq7Fya36fknD1EaC"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/4gu6PuExtQ9NkoMKX37yXR"
+    },
+    {
+      "album": {
         "name": "BASSLINE",
         "url": "https://open.spotify.com/album/1xD08oikiattfNZGhnredw"
       },
@@ -1564,6 +1582,28 @@
       "duration_ms": 123483,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/2CARgZ6KasNjGxIktGc9tP"
+    },
+    {
+      "album": {
+        "name": "Groove School",
+        "url": "https://open.spotify.com/album/5kGOA4qRR7Y5bU3MVG9Klm"
+      },
+      "artists": [
+        {
+          "name": "Thomas Anthony",
+          "url": "https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI"
+        },
+        {
+          "name": "Hypedelic",
+          "url": "https://open.spotify.com/artist/5zS6DPdUBOZFTKwIqzp2wR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Groove School",
+      "url": "https://open.spotify.com/track/0Md2Hi3rZSAGRAJ2QO5oqW"
     },
     {
       "album": {

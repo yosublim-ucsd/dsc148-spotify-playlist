@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-410 songs - 21 hr 43 min
+414 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dancing on my own](https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:38 | 2022-09-30 | 2023-04-29 |
 | [Dancing on my own](https://open.spotify.com/track/122XrAD5sOasFPY1eKUfCt) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Dancing on my own](https://open.spotify.com/album/0PiSxlbMEumz9h8WYM3zQJ) | 3:10 | 2023-11-17 |  |
 | [Dancing queen](https://open.spotify.com/track/2Ms4SBm3AnznOBX0n4Wrr8) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 4:10 | 2022-11-18 | 2023-04-15 |
+| [Dancing Queen](https://open.spotify.com/track/4ZAb57aSLA2sf0YBqkfm29) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Dancing Queen](https://open.spotify.com/album/4yC6ASgRwxZXsPLi7rrRXV) | 3:28 | 2024-06-07 |  |
 | [Dancing With A Stranger](https://open.spotify.com/track/2u2DHwVcSQZjxwYXjUYHgT) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Dancing With A Stranger](https://open.spotify.com/album/1hXPgb69uhDHdFttRkOgBZ) | 3:35 | 2023-02-03 | 2023-05-06 |
 | [Daylight](https://open.spotify.com/track/5rBKVZEtA8PK6nTQ3O0DlN) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Daylight](https://open.spotify.com/album/1bM7suwHGrwnaYMfVz1r6J) | 3:14 | 2023-08-10 |  |
 | [Days go By](https://open.spotify.com/track/0d3EGgegMoXW20DTbrNjL7) | [Brand Nor](https://open.spotify.com/artist/6K82W353kltBs93MJIf2Qq) | [Days go By](https://open.spotify.com/album/3sTJQCVLcCDRpcKlxpaSYW) | 2:32 | 2022-10-28 |  |
@@ -194,6 +195,7 @@
 | [It Must Have Been Love \- Piano version](https://open.spotify.com/track/4YACCGEjeX1LEpY5tIBb97) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 2](https://open.spotify.com/album/1Aa8a61At5CfuuidP6lZuK) | 4:15 | 2022-08-01 | 2023-05-06 |
 | [It's A Heartache](https://open.spotify.com/track/3lNgovZW5k6yasJqocDyKa) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [It's A Heartache](https://open.spotify.com/album/1tOdmnCWx6X1aZScGY51xz) | 3:04 | 2023-01-06 |  |
 | [Jolene](https://open.spotify.com/track/3Qy8L9VXIGqV51ZMqgqy8y) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Jolene](https://open.spotify.com/album/0esnlD3DW1GeM6321mL68H) | 3:11 | 2023-02-24 | 2023-04-29 |
+| [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2024-06-07 |  |
 | [Just Give Me A Reason](https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:42 | 2022-09-05 |  |
 | [Just The Way You Are](https://open.spotify.com/track/4yGO88bDsNyDloCxc8CVpP) | [Joshua Garland](https://open.spotify.com/artist/4uDakG3Fmg1CdRB1xvby7X) | [Just The Way You Are](https://open.spotify.com/album/467cv4fTtGeNJCFx3o0eRI) | 3:15 | 2022-08-01 | 2022-11-19 |
 | [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-14 |  |
@@ -241,6 +243,7 @@
 | [More Than Words](https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [More Than Words](https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE) | 3:04 | 2022-10-14 |  |
 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 | 2022-10-14 | 2023-06-23 |
 | [Morning Has Broken](https://open.spotify.com/track/6OLLQaDugvYbVgdMFySyXM) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Morning Has Broken](https://open.spotify.com/album/54iHJhnzX0Wx8LHZWbuQzo) | 3:01 | 2023-08-10 |  |
+| [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2024-06-07 |  |
 | [My Favorite Things](https://open.spotify.com/track/24pxMjslKW09Ew6LMUs0Og) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:18 | 2022-08-01 | 2023-04-15 |
 | [My Girl](https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5) | [My Girl](https://open.spotify.com/album/17VtHnIsNBJYn9Ym8hOzyG) | 3:23 | 2022-09-30 | 2023-08-11 |
 | [My Love](https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Love](https://open.spotify.com/album/6ogaIuwMfmufA8QopOSD8X) | 3:56 | 2023-04-14 |  |
@@ -331,6 +334,7 @@
 | [Sweet But Psycho](https://open.spotify.com/track/1mcOcZhZWi8gkxRgEDiip2) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Sweet But Psycho](https://open.spotify.com/album/06O0OrbbyXh9wbvkbMzxrL) | 3:26 | 2022-08-01 |  |
 | [Sweet Child Of Mine](https://open.spotify.com/track/1pHdcp6JpMyk1V5BO41C9r) | [Angie Goodham](https://open.spotify.com/artist/2UXaJJ11L0oeW9uCxQYxGl) | [Sweet Child Of Mine](https://open.spotify.com/album/4Gw2ScxvjGWYUygc961PbO) | 2:02 | 2022-09-05 | 2023-06-23 |
 | [Sweet Child of Mine](https://open.spotify.com/track/2VXu2KAwVH5CIRqQPEADQw) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [Sweet Child of Mine](https://open.spotify.com/album/5ShutfDiYapg3CcfB16fJ2) | 3:12 | 2022-08-01 | 2022-10-15 |
+| [Symphony](https://open.spotify.com/track/3JE3OAl0dhRZ6bCm3GivbY) | [Evelyn Eastwood](https://open.spotify.com/artist/66ZGHF0SFR1UiRnaZe5XNJ) | [Symphony](https://open.spotify.com/album/3THSFFs2GV2Xf7MQFuCooP) | 3:52 | 2024-06-07 |  |
 | [Take on Me](https://open.spotify.com/track/257xmlROejlHSYjLz9bqza) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Take on Me](https://open.spotify.com/album/3fCeHEHMNhVGcOvwKG87e3) | 2:51 | 2024-04-15 |  |
 | [Take On Me](https://open.spotify.com/track/3lYUVASPJuGCL68xJnD8sP) | [Sindre Terjeseth](https://open.spotify.com/artist/2cXvywrcAETXsxerQR4jEs) | [Take On Me](https://open.spotify.com/album/5alEotzlu1XpJyLm5UIP0j) | 3:27 | 2022-08-01 | 2023-06-14 |
 | [Talking To The Moon](https://open.spotify.com/track/7wtsP54umUm3MvvdRWBOrU) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Talking To The Moon](https://open.spotify.com/album/36kCoY0H6FV0aKKIMefH7r) | 3:09 | 2023-03-17 |  |

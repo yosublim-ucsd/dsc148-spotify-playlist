@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. legallyrxx en portada.
 
-167 songs - 8 hr 51 min
+168 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-04-21 |  |
 | [No Eres Tú](https://open.spotify.com/track/3vd1rLbxCxDTGbxazgW91I) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [No Eres Tú](https://open.spotify.com/album/5vi7SsbnspDHTMthxaVQh4) | 3:02 | 2022-04-25 |  |
 | [No Es Mía](https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O) | 3:08 | 2022-04-25 |  |
-| [No Estaría Tan Mal](https://open.spotify.com/track/4ttROL4K76305wGVsTczfU) | [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [No Estaría Tan Mal](https://open.spotify.com/album/51MAQT42Q0O9Gpel3LaRcj) | 2:54 | 2022-04-25 |  |
+| [No Estaría Tan Mal](https://open.spotify.com/track/4ttROL4K76305wGVsTczfU) | [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [No Estaría Tan Mal](https://open.spotify.com/album/51MAQT42Q0O9Gpel3LaRcj) | 2:54 | 2022-04-25 | 2024-06-08 |
 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 | 2022-04-25 |  |
 | [No Fui Capaz](https://open.spotify.com/track/1AVypZ5M1qJGeWQN5uoSfQ) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [No Fui Capaz](https://open.spotify.com/album/2CifF4Nqm1rpv6i3sNxFba) | 3:33 | 2022-04-25 |  |
 | [No Fui Capaz](https://open.spotify.com/track/6BPh0b1180nZsN3C9LJ8PN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:33 | 2022-07-23 | 2024-04-19 |
@@ -163,6 +163,7 @@
 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 | 2023-12-15 |  |
 | [TU MIRADA](https://open.spotify.com/track/467xudpj41ZyC8d143y0qp) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [TU MIRADA](https://open.spotify.com/album/1rPX6lU9odQwnPT8TNT43C) | 2:41 | 2024-05-31 |  |
 | [Tu risa es mi casa](https://open.spotify.com/track/12VNVDqo1R3DFArsPDh5nI) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Tu risa es mi casa](https://open.spotify.com/album/3dsqd656loLX6sc3VYFmY4) | 4:27 | 2024-05-31 |  |
+| [Tuuu](https://open.spotify.com/track/7LuHyWjXwdmxxmFl9g3H68) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 3:55 | 2024-06-07 |  |
 | [Ténis Nuevos](https://open.spotify.com/track/1ZP97vG2hQ3sCw6z2fEOJx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Ténis Nuevos](https://open.spotify.com/album/3JGQ7wVltDcYjVyQqTqIFV) | 3:07 | 2022-04-25 | 2024-04-06 |
 | [Túnel](https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Túnel](https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7) | 3:44 | 2022-04-25 | 2024-06-01 |
 | [Un Beso Más](https://open.spotify.com/track/2jZYhg9J0Oaupnqv9BcBlZ) | [Laranda](https://open.spotify.com/artist/7bE5OUC0Qr3LgqXBjvZPLO) | [Un Beso Más](https://open.spotify.com/album/79aNv7GinziKqhd89hgsQz) | 2:52 | 2022-04-25 | 2024-04-13 |

@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    {
+      "album": {
         "name": "Have A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR"
       },
@@ -3950,7 +3968,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 180000,
       "name": "Bohat\u00fd t\u00e1ta, chud\u00fd t\u00e1ta",
       "url": "https://open.spotify.com/track/4SCbXUhSovppyOpbctz3RA"
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 138980,
       "name": "Chitarele (feat. Satoshi)",
       "url": "https://open.spotify.com/track/0qI4Jgfq8KcRiHXDkGoxck"
@@ -10342,7 +10360,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -12344,6 +12362,28 @@
       "duration_ms": 190866,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7x9k2je3SpVSS5UIbAJ9rt"
+    },
+    {
+      "album": {
+        "name": "\u0160U\u0160\u0164AK BOY",
+        "url": "https://open.spotify.com/album/3KBcYeDeCp3qvZ63UW95mT"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221425,
+      "name": "HENZAP",
+      "url": "https://open.spotify.com/track/6K5eTU2oa9sfCmPOeGrhyd"
     },
     {
       "album": {
@@ -18826,7 +18866,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 207910,
       "name": "mamaididit",
       "url": "https://open.spotify.com/track/1bE7Xr3y4C817TAWunZlFm"
@@ -21558,7 +21598,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 193636,
       "name": "Nemam mood",
       "url": "https://open.spotify.com/track/1BnuGuGGEv1mIpJEmDZ5nq"
@@ -27646,7 +27686,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"

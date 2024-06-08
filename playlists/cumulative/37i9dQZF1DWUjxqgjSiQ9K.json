@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:39PYJNgoQuBHjE6LEn3ZdE\">Ingrid Rosario</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:27ulglTuwRXeQsKTNbUVe8\">Samuel Troc</a> y <a href=\"spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz\">Lizzy Parra</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -4738,7 +4738,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 204070,
       "name": "Fe",
       "url": "https://open.spotify.com/track/4ft3rwQR8NBX7NAGBKebAd"
@@ -4892,6 +4892,28 @@
       "duration_ms": 216089,
       "name": "Fuente",
       "url": "https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX"
+    },
+    {
+      "album": {
+        "name": "Full Color",
+        "url": "https://open.spotify.com/album/6rPs4EXBOmSGienNcx8rwa"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143214,
+      "name": "Full Color",
+      "url": "https://open.spotify.com/track/0exfmFzo0b90QsYiu4Db6h"
     },
     {
       "album": {
@@ -6430,6 +6452,24 @@
       "duration_ms": 202727,
       "name": "Loco Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3222yl84B3wPXBQ0VvEyux"
+    },
+    {
+      "album": {
+        "name": "Locumbia",
+        "url": "https://open.spotify.com/album/44v05UvKsiiI1fSbkxefb0"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195010,
+      "name": "Locumbia",
+      "url": "https://open.spotify.com/track/2poawM0VrjdTWqK9Ib2YdG"
     },
     {
       "album": {
@@ -8526,7 +8566,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 201250,
       "name": "Presencia Aqu\u00ed (Known)",
       "url": "https://open.spotify.com/track/4LMPG7K5kPF4keIqrncb2R"
@@ -9299,6 +9339,28 @@
     },
     {
       "album": {
+        "name": "Ruido!",
+        "url": "https://open.spotify.com/album/4q9D2wxN1NgSaqhXfigCeg"
+      },
+      "artists": [
+        {
+          "name": "Anthem Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A"
+        },
+        {
+          "name": "SioVera",
+          "url": "https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189078,
+      "name": "Ruido!",
+      "url": "https://open.spotify.com/track/134153YPVKNep495TmCqRm"
+    },
+    {
+      "album": {
         "name": "R\u00edo",
         "url": "https://open.spotify.com/album/6fWSXd0LUqDFVKZCP6TQaf"
       },
@@ -9486,7 +9548,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 159338,
       "name": "serendipia",
       "url": "https://open.spotify.com/track/4OuMOMTUWRpiv4D0ZB4syY"
@@ -10399,6 +10461,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/70D3cZKzdm0Lfs7wqgPblu"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301859,
+      "name": "Te Adorar\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5VXDbkksUiMghPs1HK4cIv"
+    },
+    {
+      "album": {
         "name": "\u00bfC\u00f3mo Me Ves?",
         "url": "https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3"
       },
@@ -10856,7 +10936,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 241000,
       "name": "Tu Autoridad",
       "url": "https://open.spotify.com/track/0ciNudJhfiMWE48PBGW0zB"

@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 322653,
       "name": "Never gone",
       "url": "https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
@@ -4217,6 +4217,28 @@
     },
     {
       "album": {
+        "name": "Le Petit Prince (Bande originale du film)",
+        "url": "https://open.spotify.com/album/6epIOxXmRWOLlxTjIgKG7k"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Suis-moi",
+      "url": "https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi"
+    },
+    {
+      "album": {
         "name": "Summer & Smoke",
         "url": "https://open.spotify.com/album/4in3xmG3lzfXEnlEmrVZik"
       },
@@ -4502,7 +4524,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 255800,
       "name": "The Conflict Of The Mind",
       "url": "https://open.spotify.com/track/2dy0PA2tbzKzae4LRnfTub"

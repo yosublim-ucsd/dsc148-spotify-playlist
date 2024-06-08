@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Karmento y Bewis de la Rosa.
 
-603 songs - 1 day 12 hr 8 min
+604 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Medio Camino](https://open.spotify.com/track/2vC9Mj3hcLo6gpLSKWONvR) | [Averías](https://open.spotify.com/artist/1IyoBgQQHhhmXKQBTbzpA8) | [A Medio Camino](https://open.spotify.com/album/3033huz0Hl5KYYPH0LXkQS) | 2:50 | 2021-12-24 | 2022-01-01 |
 | [A Mi Manera](https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [A Mi Manera](https://open.spotify.com/album/2LCxdI17sy3zG5FG7RwXHs) | 4:00 | 2022-04-25 |  |
 | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 |  |
+| [Abanicos negros](https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf) | [Belén Cuturi](https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr) | [Abanicos negros](https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR) | 2:42 | 2024-05-30 |  |
 | [abril y mayo](https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [abril y mayo](https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa) | 2:00 | 2023-02-24 | 2023-03-18 |
 | [Acantilado](https://open.spotify.com/track/2hTKVVpy3eZen3OVgfeIOR) | [Cala](https://open.spotify.com/artist/6g6FL64oqvd0338u2g7vZt) | [Acantilado](https://open.spotify.com/album/1c9zckSeWZnt4SOQgCPMJ3) | 3:53 | 2023-06-30 | 2023-08-05 |
 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 | 2022-04-01 | 2022-04-20 |
@@ -362,7 +363,7 @@
 | [Muchacha](https://open.spotify.com/track/7BbYBOuoHwbzezD03dbYBG) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Muchacha](https://open.spotify.com/album/3J1lkofDFSYTiIrMUvvvgD) | 3:30 | 2024-01-19 | 2024-03-08 |
 | [Multicolor](https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr) | [Suav](https://open.spotify.com/artist/6ikNnbnMCZksFowOy5W1qb) | [Bajamar](https://open.spotify.com/album/66mALxz49y81X2C3YjKTAh) | 4:46 | 2022-07-22 | 2022-08-02 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 |  |
-| [Mírame](https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Mírame](https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8) | 3:10 | 2024-03-01 |  |
+| [Mírame](https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Mírame](https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8) | 3:10 | 2024-03-01 | 2024-06-08 |
 | [NACE UNA MADRE](https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [NACE UNA MADRE](https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7) | 2:24 | 2023-12-01 | 2024-03-09 |
 | [Nada Importa](https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF) | [Lina de Sol](https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK) | [Nada Importa](https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b) | 3:16 | 2023-01-16 | 2023-05-20 |
 | [Nadie me lo enseñó](https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [La Certeza del Dolor](https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5) | 3:32 | 2023-07-21 | 2023-12-16 |

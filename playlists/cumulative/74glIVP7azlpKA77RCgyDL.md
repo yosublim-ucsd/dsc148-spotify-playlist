@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Bad Omens
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Poppy
 
-704 songs - 1 day 20 hr 44 min
+710 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-14 | 2024-02-03 |
 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-01-06 | 2024-02-03 |
 | [Fatal Reality](https://open.spotify.com/track/5t7EVml5qN27lkRhv4NibM) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/2qOeSLz1t8ht0MQaLOGzEC) | 2:40 | 2023-04-28 | 2024-02-03 |
+| [Fatalist](https://open.spotify.com/track/3w1pnSv8B46NVsias65E1L) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Fatalist](https://open.spotify.com/album/4I2112nHeCLwTEb4xkUowx) | 3:03 | 2024-06-07 |  |
 | [Fear in Non Fiction](https://open.spotify.com/track/48qldcY9MIstCu7JxcAGGj) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [Fear in Non Fiction](https://open.spotify.com/album/1wzFbbjthC4RwynzagKDJ1) | 3:24 | 2022-01-28 | 2023-07-15 |
 | [Feel It Linger](https://open.spotify.com/track/61mPF8FLWs0b88T4HXlAgs) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Learning To Dissolve](https://open.spotify.com/album/6fvt916VE3qmh2NPCyfOfl) | 4:39 | 2022-08-19 | 2023-07-15 |
 | [Fell Reigns](https://open.spotify.com/track/05YRqVuLTk3HNkcvrdKf78) | [Hand of Kalliach](https://open.spotify.com/artist/4KezOas66hmsEjQUt5O6hQ) | [Fell Reigns](https://open.spotify.com/album/301XBMA7ZUEUUuTqVmTJip) | 5:06 | 2024-01-26 |  |
@@ -278,7 +279,9 @@
 | [Heart Reformer](https://open.spotify.com/track/4bSTKeCvyLnXwsDc1Aw452) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Heart Reformer](https://open.spotify.com/album/04b6r0OaKUICdRbIacCRPa) | 3:26 | 2022-08-26 | 2023-07-15 |
 | [Hell's Half Acre](https://open.spotify.com/track/5UQIePOpp3Sltpk85Ynilv) | [Fugitive](https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL) | [Maniac](https://open.spotify.com/album/3eQj46K9ZQmQyUL1WVo6Gn) | 3:44 | 2022-08-12 | 2023-07-15 |
 | [Hellfire](https://open.spotify.com/track/1MjbvBUJannZpWRTqyCiwC) | [Haunted Shores](https://open.spotify.com/artist/6Zebs0nwJt4EUs36wgFisx) | [Hellfire](https://open.spotify.com/album/5joI436sP5dtjw8k5Z83iK) | 4:21 | 2022-01-14 | 2023-07-15 |
+| [Her Eyes](https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7) | [The Cost](https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Her Eyes](https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg) | 4:44 | 2024-06-07 |  |
 | [Hide](https://open.spotify.com/track/6C2odc2qG42ZbCyNZNxGKi) | [Druids](https://open.spotify.com/artist/6oQRvz9JHOHWtryh47KdOH) | [Hide](https://open.spotify.com/album/2KgDvPXVoyzQZDbMe1BH9S) | 6:07 | 2022-05-06 | 2023-07-15 |
+| [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 | 2024-06-07 |  |
 | [High Plains Drifter](https://open.spotify.com/track/4Eya9E3OOY9QCec2ssaG6T) | [Kirk Hammett](https://open.spotify.com/artist/2ePzbA0F0TD96Na0MEB2Cf) | [High Plains Drifter](https://open.spotify.com/album/26ZZ3Pr3U6OCzveywxauf2) | 4:45 | 2022-04-15 | 2023-07-15 |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-07-15 |
 | [Hollow Cry](https://open.spotify.com/track/1y7jsF2OeKTdZ1pDCk3ZNO) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 3:08 | 2023-09-29 | 2024-02-03 |
@@ -388,6 +391,7 @@
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-01 | 2023-07-15 |
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2022-09-16 | 2023-07-15 |
 | [New Reality](https://open.spotify.com/track/5Mz72qEJk1btZmPCasmS7Z) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [New Reality](https://open.spotify.com/album/6KPHDHJ2nRjyGHwICBkorf) | 4:41 | 2022-03-18 | 2023-07-15 |
+| [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-07 |  |
 | [Night Flight](https://open.spotify.com/track/2Y0SPSerR77eRSbHDM2Rim) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Night Flight](https://open.spotify.com/album/1v5HmQMkleI2DILizLGfiV) | 3:57 | 2023-05-26 | 2024-02-03 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-22 | 2023-07-15 |
 | [Nightfall \(feat\. Andy Doerner\)](https://open.spotify.com/track/4SwlfWWEpEtC0GiJVBvekl) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Andy Doerner](https://open.spotify.com/artist/5Sspaac7x9JZvvCjhgIopR) | [Nightfall](https://open.spotify.com/album/2MF7bUOAxxzHMTvNiBL5JK) | 3:42 | 2022-01-21 | 2023-07-15 |
@@ -673,6 +677,7 @@
 | [We Annihilate](https://open.spotify.com/track/1nUj9wJFvpdiJGh84uiGFv) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [We Annihilate](https://open.spotify.com/album/1uNPouaWqmH8VmFeFsbmhE) | 4:05 | 2024-02-16 |  |
 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 | 2023-07-15 |
 | [We Don’t Need Another Hero](https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:10 | 2023-05-19 | 2024-02-03 |
+| [We Know the Score](https://open.spotify.com/track/4QvqNvGxSXTywCFV03ALU4) | [Stand Still](https://open.spotify.com/artist/7Ep4mjRwM3fETDvQE9gZPb), [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [We Know the Score](https://open.spotify.com/album/3JCjnhwMA1BcnJtygujjIF) | 2:27 | 2024-06-07 |  |
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 | 2024-02-03 |
 | [We Share Blood \(Not Love\)](https://open.spotify.com/track/5GaBRiiXjAGvhfiVCs1U5W) | [Splitknuckle](https://open.spotify.com/artist/4IEv1LeXgymlFLG41BS4Kk), [Pest Control](https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y) | [Breathing Through The Wound](https://open.spotify.com/album/4N1QBT0JUgvZLEHQ5foSqQ) | 6:22 | 2024-01-12 |  |
 | [We Won't Sleep](https://open.spotify.com/track/4JQHxicFrjTMTfI6UQwtfw) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw) | [We Won't Sleep](https://open.spotify.com/album/1YxPve8eDSgqlXqyDaOTz7) | 3:33 | 2024-05-17 |  |
@@ -694,6 +699,7 @@
 | [Witch](https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [Witch](https://open.spotify.com/album/7jtLgmvH6nnulQ3mPZKzq6) | 3:39 | 2023-10-27 | 2024-02-03 |
 | [Words Fail](https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Words Fail](https://open.spotify.com/album/5vKiKQXUrAudV0tY61l8G7) | 1:36 | 2022-08-26 | 2023-07-15 |
 | [Working the Ditch](https://open.spotify.com/track/1BwLqfBVpAFExwqs2rXeGO) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Working the Ditch](https://open.spotify.com/album/6ifJtVcD6x6s906DZzW9cB) | 6:32 | 2024-02-09 |  |
+| [Wounds Never Healed](https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Wounds Never Healed](https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4) | 4:22 | 2024-06-07 |  |
 | [Wrath](https://open.spotify.com/track/088lNGrrwYCmZ3Y21RZfNl) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains](https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI) | 4:57 | 2022-10-14 | 2023-07-15 |
 | [Wrath/Plague](https://open.spotify.com/track/7maoibDcbc8aUeXDConVG1) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [Wrath/Plague](https://open.spotify.com/album/4rXaL0ilCRsrIov08lAcCX) | 2:36 | 2022-11-11 | 2023-07-15 |
 | [Written By The Victor](https://open.spotify.com/track/3H3AXbrRriA3W6AIb6n8zR) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96), [Todd Jones](https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR) | [Written By The Victor](https://open.spotify.com/album/3r9Jc3cdMAhLYfvhmDQYjw) | 3:04 | 2024-03-15 |  |

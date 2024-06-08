@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "ASI SON",
+        "url": "https://open.spotify.com/album/3gADTEzUGd80wmlfQ2SbtA"
+      },
+      "artists": [
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "ASI SON",
+      "url": "https://open.spotify.com/track/32QRZ9IiNW5Bgx0VGjDyNa"
+    },
+    {
+      "album": {
         "name": "ASI SOY YO",
         "url": "https://open.spotify.com/album/3TSbtvpFiHltd0FongpQIB"
       },
@@ -642,7 +660,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 140603,
       "name": "Bad Bxtch",
       "url": "https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R"
@@ -774,6 +792,32 @@
       "duration_ms": 175575,
       "name": "BANDIDO",
       "url": "https://open.spotify.com/track/4ZAc2X7oibUEWtDAvArJhN"
+    },
+    {
+      "album": {
+        "name": "Bandolero",
+        "url": "https://open.spotify.com/album/7FmSt2lG0NITHw2mIgZjCV"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "Xantos",
+          "url": "https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/6ZFnse2LtjvVbp1lxBdIx9"
     },
     {
       "album": {
@@ -1254,6 +1298,24 @@
       "duration_ms": 162711,
       "name": "Carlito",
       "url": "https://open.spotify.com/track/4vVUvduPNibrG84bOB3Rb5"
+    },
+    {
+      "album": {
+        "name": "Girasol",
+        "url": "https://open.spotify.com/album/19PInxdlgRHagoorod3nsd"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mvp",
+          "url": "https://open.spotify.com/artist/6YwVhxlzWmTYrvwYyjNAao"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174544,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/3BUSMWApqcl8RRtc7DBJTl"
     },
     {
       "album": {
@@ -5227,6 +5289,28 @@
     },
     {
       "album": {
+        "name": "Mas Glow",
+        "url": "https://open.spotify.com/album/4BJgQ0WwcZGInY1AJuqTGy"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Erick Darauch",
+          "url": "https://open.spotify.com/artist/4kOpxLFRkTkvFEDBLpMGvX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194750,
+      "name": "Mas Glow",
+      "url": "https://open.spotify.com/track/6lw6j6zz1HzeZC74GHDNxE"
+    },
+    {
+      "album": {
         "name": "Matense Por La Corona",
         "url": "https://open.spotify.com/album/2MHoSraRWUexi2RdZsZiEV"
       },
@@ -5484,7 +5568,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 148214,
       "name": "MI NENA",
       "url": "https://open.spotify.com/track/1zwJcQZN4GDgWRcmR2WYna"
@@ -6143,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/1v6FLdRFtDLkhNoONTCcPC"
+      },
+      "artists": [
+        {
+          "name": "Milo K",
+          "url": "https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108972,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/60nvCICAtLOvvgOvnMLRD7"
+    },
+    {
+      "album": {
         "name": "No Me Importa",
         "url": "https://open.spotify.com/album/6CFO0LOMt8KK9xKI6N8AF7"
       },
@@ -6670,6 +6772,28 @@
       "duration_ms": 192000,
       "name": "Pila de Cotorra",
       "url": "https://open.spotify.com/track/61tBJiWjeYJlfPokUcVJSb"
+    },
+    {
+      "album": {
+        "name": "Pila De Nota Freestyle",
+        "url": "https://open.spotify.com/album/1cDAeuWba52YKWpE3ZJlio"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        },
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497060,
+      "name": "Pila De Nota Freestyle",
+      "url": "https://open.spotify.com/track/6aKPB9CWENmORp4L9gXH7L"
     },
     {
       "album": {
@@ -7544,7 +7668,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 186937,
       "name": "Subi\u00f3 la temperatura",
       "url": "https://open.spotify.com/track/500SatnJ4UXXmPff0LulZh"
@@ -8006,7 +8130,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 176400,
       "name": "Te quiero - Special Version",
       "url": "https://open.spotify.com/track/1wRCb3pUMVPhXavUKSPuVI"
@@ -8696,7 +8820,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 130892,
       "name": "Vite Que No Es Lo Mismo",
       "url": "https://open.spotify.com/track/5ncbor51u5HvTIb67V5J7L"

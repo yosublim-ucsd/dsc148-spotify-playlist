@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "The Last Temptation",
+        "url": "https://open.spotify.com/album/5TKNjpazO9toaj3G8Gg7I0"
+      },
+      "artists": [
+        {
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Buck Fifty Freestyle",
+      "url": "https://open.spotify.com/track/2aeusVXjZQKXRd11DlM6fv"
+    },
+    {
+      "album": {
         "name": "Burnt Out",
         "url": "https://open.spotify.com/album/6ydurOZvMy7EAwCGVSGtGs"
       },

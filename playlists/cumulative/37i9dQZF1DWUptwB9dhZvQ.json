@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 75008,
       "name": "96 (Theme) - From \"96\"",
       "url": "https://open.spotify.com/track/0WTNNRu2BvmMA0nqXns1M6"
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 68000,
       "name": "Ace of Hearts - From \"Ace\"",
       "url": "https://open.spotify.com/track/0DQariHK8zf2HYZ7B7h2Cx"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 191435,
       "name": "Allia Ceaser",
       "url": "https://open.spotify.com/track/7yxJl6QoMEKGf3QveuGA7P"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 82500,
       "name": "Chill Theme",
       "url": "https://open.spotify.com/track/1clDa8XhJTTiivWDIuO5B9"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 143142,
       "name": "Con Man Theme (From \"Masss\")",
       "url": "https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b"
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Garudan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5znc6AjRR30yU7gS55tWAl"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124125,
+      "name": "Glimpse of Garudan",
+      "url": "https://open.spotify.com/track/6IJ1L1EEsgLuRSa39DaAyc"
+    },
+    {
+      "album": {
         "name": "Glimpse of Harold Das (From \"Leo\")",
         "url": "https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 99666,
       "name": "Ilamai Disco",
       "url": "https://open.spotify.com/track/4YuxeTwtriDuIM8JWZ9lVJ"
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 61714,
       "name": "Kaththi Theme\u2026 The Sword of Destiny",
       "url": "https://open.spotify.com/track/1m2PQa2vARopdOK8xGVkaX"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 104451,
       "name": "Kokkarako",
       "url": "https://open.spotify.com/track/1jdestcFzmrUNefnpH1UaZ"
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 83173,
       "name": "Manmadhan Theme Music",
       "url": "https://open.spotify.com/track/5Q0ffIynfGqumKoJuqjlEC"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 145062,
       "name": "PS vs VT",
       "url": "https://open.spotify.com/track/2s9xmFKi7AHRFPaGi1t7yU"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 73666,
       "name": "Rage for Vengeance",
       "url": "https://open.spotify.com/track/5nczEGOXX9j0BIkAaYxrTm"
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 147871,
       "name": "Rise of The Hero",
       "url": "https://open.spotify.com/track/4V0BZRitHOdT5ES5UhDjJU"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 111865,
       "name": "The Fall of Pandya",
       "url": "https://open.spotify.com/track/1VtExYv1dUAAZM2uIX1IYE"
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 110000,
       "name": "The Killing",
       "url": "https://open.spotify.com/track/6Cgkmsai7JA4fay7mJ3P66"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 96880,
       "name": "Yaanai Theme Satani Entry",
       "url": "https://open.spotify.com/track/7LLOVGdedSyh39E9dIswg9"

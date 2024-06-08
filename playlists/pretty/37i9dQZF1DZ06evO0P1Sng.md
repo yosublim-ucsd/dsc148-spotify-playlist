@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 ### [This Is Azzy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0P1Sng)
 
-> This is Azzy\. Todos os maiores hits em uma só playlist.
+> This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,881 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,884 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Robocop](https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 1:44 |
 | 50 | [Mete Ficha](https://open.spotify.com/track/5RpEk0ucLSn4TlaFZ0TxuE) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [tharealjuggboy](https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR), [Lc da 100](https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Mete Ficha](https://open.spotify.com/album/1GdQdCeWKMV8uKxxcFWf8L) | 2:19 |
 
-Snapshot ID: `Zl+qgAAAAAAb/TJJLcRmsPDtdpP83tzn`
+Snapshot ID: `Zl+qgAAAAAAqUe9njyyrkSLAWFW0eIsJ`

@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 202875,
       "name": "Aguilar",
       "url": "https://open.spotify.com/track/6tHi4fd8R9248pT7w050Un"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 203149,
       "name": "Alta y Delgadita",
       "url": "https://open.spotify.com/track/2Wz7F8J859cz1llKBwWune"
@@ -244,6 +244,24 @@
       "duration_ms": 219985,
       "name": "Amor Limosnero",
       "url": "https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx"
+    },
+    {
+      "album": {
+        "name": "Amores Con Mi Estilo",
+        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Amores Con Mi Estilo",
+      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
     },
     {
       "album": {
@@ -706,7 +724,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 249310,
       "name": "Dile",
       "url": "https://open.spotify.com/track/5yhq5FLTXUcj08LrU5J2vX"
@@ -836,6 +854,24 @@
       "duration_ms": 278866,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+    },
+    {
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1b13nnrWLne3BCW5vwUXzW"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150175,
+      "name": "El Amor De Tus Amores",
+      "url": "https://open.spotify.com/track/6smMHAavenL5H7lW7a6yVG"
     },
     {
       "album": {
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174293,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/18hxvcuc03AwwiLr7g4kAr"
@@ -1128,7 +1164,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 302282,
       "name": "El Oro Verde",
       "url": "https://open.spotify.com/track/7m3QSjfXFbYZzndQCJBwDR"
@@ -1164,7 +1200,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 164937,
       "name": "El Pisto es Primero",
       "url": "https://open.spotify.com/track/5KRRfHOsVuiK8ZB9d9CLa9"
@@ -1261,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "Puras Pa'Pistear (Septima Tanda) (En Vivo)",
+        "url": "https://open.spotify.com/album/4sE5tPuqvrytzBUVdQzLZ5"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        },
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203828,
+      "name": "El Tarasco (En Vivo)",
+      "url": "https://open.spotify.com/track/6zjCfifyl34i1LBv59sk9g"
+    },
+    {
+      "album": {
         "name": "El Valiente",
         "url": "https://open.spotify.com/album/3T0VfR68lFdvzrr9VpwDSA"
       },
@@ -1276,7 +1334,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 186413,
       "name": "El Valiente",
       "url": "https://open.spotify.com/track/5XDLUnGv37XHGzYLuxoGD3"
@@ -1316,6 +1374,24 @@
       "duration_ms": 186893,
       "name": "en Un Mundo Aparte",
       "url": "https://open.spotify.com/track/0YEBoxce5GMvwjHd9vIVcb"
+    },
+    {
+      "album": {
+        "name": "La Bestia Del Cuento",
+        "url": "https://open.spotify.com/album/0rGBoa9E9LWMWQOiYY4AZE"
+      },
+      "artists": [
+        {
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "en Un Mundo Aparte",
+      "url": "https://open.spotify.com/track/5BVWtsWddfPvpYmFo8RRPg"
     },
     {
       "album": {
@@ -1420,7 +1496,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 175217,
       "name": "Frente A Frente",
       "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
@@ -1496,7 +1572,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 189860,
       "name": "Huaraches de Ara\u00f1a",
       "url": "https://open.spotify.com/track/5OoVjESwJPNK4FNCcecBIH"
@@ -1662,7 +1738,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 234000,
       "name": "La Mas Bella Mujer",
       "url": "https://open.spotify.com/track/6yfH6f9o90ccQxkcbBTM7S"
@@ -1911,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Mi Presencia Cuenta",
+        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148122,
+      "name": "Mi Presencia Cuenta",
+      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
+    },
+    {
+      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
       },
@@ -2084,7 +2178,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162259,
       "name": "No Era Cuaresma",
       "url": "https://open.spotify.com/track/5zT3b9WcavOTppxN2UBzbC"
@@ -2199,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "Ojitos Negros",
+        "url": "https://open.spotify.com/album/2kQa0zqGpte9V3BepV3ChO"
+      },
+      "artists": [
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151074,
+      "name": "Ojitos Negros",
+      "url": "https://open.spotify.com/track/5pcL0RKxKYjfk6aCUT6QnL"
+    },
+    {
+      "album": {
         "name": "Ojos Negros Nunca Enganan",
         "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
       },
@@ -2307,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Pena Clavada",
+        "url": "https://open.spotify.com/album/4EVOcmLoTWsHf9Hrc17dKf"
+      },
+      "artists": [
+        {
+          "name": "Many Perez \u201cEl Canario\u201d",
+          "url": "https://open.spotify.com/artist/0mZnvhqA0m86pg2DfIMhtq"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169152,
+      "name": "Pena Clavada",
+      "url": "https://open.spotify.com/track/2s8rjW63lZVKp9ugZqzbD4"
+    },
+    {
+      "album": {
         "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
       },
@@ -2412,6 +2542,24 @@
       "duration_ms": 199053,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+    },
+    {
+      "album": {
+        "name": "Recordando A Mi Pueblo",
+        "url": "https://open.spotify.com/album/27J8ZgI5nKZ6Qvlfw59y0R"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295765,
+      "name": "Recordando A Mi Pueblo",
+      "url": "https://open.spotify.com/track/1vQJbzRxUhQMbcOtTiApy0"
     },
     {
       "album": {
@@ -2546,6 +2694,24 @@
     {
       "album": {
         "name": "Soy de Tierra Caliente",
+        "url": "https://open.spotify.com/album/54TrLZHTv7z6lAJqupzWXd"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical",
+          "url": "https://open.spotify.com/artist/4WwuxdSDqUS4SWk2AdA4yU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Soy de Tierra Caliente",
+      "url": "https://open.spotify.com/track/4fHcSHs20uolagQs70ma6t"
+    },
+    {
+      "album": {
+        "name": "Soy de Tierra Caliente",
         "url": "https://open.spotify.com/album/72PbyWCNgQ3WaRU9IRVGIc"
       },
       "artists": [
@@ -2618,6 +2784,24 @@
       "duration_ms": 169406,
       "name": "Suerte He Tenido",
       "url": "https://open.spotify.com/track/64LbugQLMBjEBG7KLeP77k"
+    },
+    {
+      "album": {
+        "name": "Te Cedo Mis Derechos",
+        "url": "https://open.spotify.com/album/5EB2Xyx5tg67Zr58dYLIWV"
+      },
+      "artists": [
+        {
+          "name": "La Mar-K De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1rjI82QFF2g7ZN3LiCZQ1x"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215551,
+      "name": "Te Cedo Mis Derechos",
+      "url": "https://open.spotify.com/track/3ha07AmF2TAiqcXmven9Hk"
     },
     {
       "album": {
@@ -2870,7 +3054,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 199343,
       "name": "Yo Soy de la Sierra",
       "url": "https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn"

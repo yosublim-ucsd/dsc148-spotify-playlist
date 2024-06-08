@@ -20656,7 +20656,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -31116,6 +31116,24 @@
       "duration_ms": 213560,
       "name": "Salvatore",
       "url": "https://open.spotify.com/track/1xDd0C4XAUalhg5cJylyXS"
+    },
+    {
+      "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa"
+      },
+      "artists": [
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Samba do Brasil",
+      "url": "https://open.spotify.com/track/2yAjjqcHMy6qUI6NNzNoVD"
     },
     {
       "album": {

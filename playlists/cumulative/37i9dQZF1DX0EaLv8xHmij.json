@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Big Bllakk",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow emba\u00e7ado. Foto: Major RD, Mago de Tarso",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -512,6 +512,32 @@
       "duration_ms": 194042,
       "name": "Antes Do Flash",
       "url": "https://open.spotify.com/track/0vMe8XxjQjc3lNxT2VGkzn"
+    },
+    {
+      "album": {
+        "name": "Aprendiz",
+        "url": "https://open.spotify.com/album/2YNWiYkAppU5Ozw4GN0gry"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147696,
+      "name": "Aprendiz",
+      "url": "https://open.spotify.com/track/631wc5L3ivNHtDKHcMFS83"
     },
     {
       "album": {
@@ -1503,6 +1529,40 @@
     },
     {
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/0xxoQzJK8XEpWJFukN7J9E"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Edubeatz",
+          "url": "https://open.spotify.com/artist/1uAxRk8YHpAKbwCG2xNlf8"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/4QDvm5ELYUTPXEDQpMQkGS"
+    },
+    {
+      "album": {
         "name": "Catequese",
         "url": "https://open.spotify.com/album/0jVj2HCC241nz91LlrjZDa"
       },
@@ -1840,7 +1900,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 215962,
       "name": "Corpo S\u00e3o Mente Muito",
       "url": "https://open.spotify.com/track/66XaDTshTk8weMHTH7MV2G"
@@ -2846,7 +2906,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 152423,
       "name": "Eu J\u00e1 Sei Disso",
       "url": "https://open.spotify.com/track/12mQWGgiEjYBYhSaofXVGp"

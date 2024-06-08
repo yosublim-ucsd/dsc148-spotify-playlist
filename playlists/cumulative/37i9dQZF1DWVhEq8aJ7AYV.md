@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVhEq8aJ7AYV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVhEq8aJ7AYV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVhEq8aJ7AYV)
 
-### [Rockabilly Surf](https://open.spotify.com/playlist/37i9dQZF1DWVhEq8aJ7AYV)
+### [Surf y Rockabilly ](https://open.spotify.com/playlist/37i9dQZF1DWVhEq8aJ7AYV)
 
-> Tengan a la mano las máscaras de lucha libre y la tabla de surf.
+> Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
 243 songs - 12 hr 7 min
 

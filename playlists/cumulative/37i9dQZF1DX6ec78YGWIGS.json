@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Paulo Londra\n",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Tiago PZK\n",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 148767,
       "name": "Canci\u00f3n 2",
       "url": "https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB"
@@ -1414,6 +1414,24 @@
       "duration_ms": 179258,
       "name": "De Nada - Remix",
       "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
+    },
+    {
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/23DNKXFVnRhY1Rlgod5Rc4"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149476,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/6cEZTst4c5B476S1bjxtQE"
     },
     {
       "album": {

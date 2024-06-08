@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-96 songs - 6 hr 7 min
+97 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Los Vino´](https://open.spotify.com/track/4t65nqFwjv921ocsNlhUg5) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Dos](https://open.spotify.com/album/2K6RrzfNNlFq8dUOLkpzL5) | 2:43 | 2023-08-04 |  |
 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 | 2023-08-04 |  |
 | [Madrugada](https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Revolución Beat](https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK) | 3:54 | 2023-08-04 |  |
+| [Melancolía](https://open.spotify.com/track/0pqWiwxviiWxlMOsfi04yn) | [Astr0kate](https://open.spotify.com/artist/4StNwiHyw87uEoiuJsdHtw), [GAUCHE](https://open.spotify.com/artist/2hVFYiot5Q7DChkPWXIoUQ) | [Melancolía](https://open.spotify.com/album/42rFR85uI8LptCvl34aMEH) | 2:18 | 2024-06-07 |  |
 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 | 2023-11-24 |  |
 | [Milonga Sentimental](https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Lautaro Greco](https://open.spotify.com/artist/54ob6kM8grbO4ymojmp804) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:38 | 2023-08-04 |  |
 | [Milonga Sentimental](https://open.spotify.com/track/0VwavJHr7O1yHBwQ7VtJVr) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Vivo en Otros Aires](https://open.spotify.com/album/17Ww9QMOZszSmfguKkUKWZ) | 3:53 | 2023-08-04 |  |
@@ -89,7 +90,7 @@
 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 | 2023-11-24 |  |
 | [Tango del Falluto](https://open.spotify.com/track/1iT5XNmkXSDBUSBoSk2LSD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tango del Falluto](https://open.spotify.com/album/065br6DY3VQsvlio0EHar2) | 3:09 | 2023-08-04 | 2023-12-10 |
 | [Tanguera](https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV) | [Diego Schissi Quinteto](https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ) | [Tanguera](https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX) | 4:14 | 2023-08-04 |  |
-| [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 | 2023-08-04 |  |
+| [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 | 2023-08-04 | 2024-06-08 |
 | [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/track/027J6JzyLXCWdG5dfuMLAd) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Tiempo \(Me Niego A Rendirme\) \[feat\. Abel Pintos\]](https://open.spotify.com/album/6ctAqEhLBzrUw3QytwLoh9) | 3:50 | 2023-08-04 | 2024-01-09 |
 | [Traje Unos Tangos](https://open.spotify.com/track/5NNgc8no4aMgbrCWQFkdZ7) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Traje Unos Tangos](https://open.spotify.com/album/3AcBHnQqIHtKEnUNaTPEIl) | 2:31 | 2023-08-04 | 2024-04-19 |
 | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \- Medley Premios Gardel](https://open.spotify.com/track/2kGq3Hvr0714szg3vpzkJa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \(Medley Premios Gardel\)](https://open.spotify.com/album/6oXwPnW5e2VN6A5A71XiFV) | 3:31 | 2023-08-04 |  |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu\. Cover: FILIPPA
 
-1,411 songs - 3 day 1 hr 26 min
+1,414 songs - 3 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 | 2024-04-19 | 2024-05-24 |
 | [Ikväll gör jag vad som helst...](https://open.spotify.com/track/0DDcohQ8MvYNZ114EYoudo) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Ikväll gör jag vad som helst...](https://open.spotify.com/album/4lyiMRIT2bhctP9hTJ2s3K) | 2:58 | 2024-06-06 |  |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
+| [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-07 |  |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In My Mind](https://open.spotify.com/track/4ywvtcOycSYXx7LOMQ2bW4) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [In My Mind](https://open.spotify.com/album/77ug7vI9azTaDP9fILrBHl) | 1:44 | 2024-04-18 | 2024-04-21 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
@@ -1113,7 +1114,7 @@
 | [Sover du själv?](https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Sover du själv?](https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP) | 3:03 | 2023-01-19 | 2023-10-06 |
 | [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 | 2022-12-25 |
 | [Springer](https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Springer](https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe) | 3:23 | 2023-11-09 | 2024-02-09 |
-| [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/0L8kitfQ1k27oGf5WH6ChU) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-06 |  |
+| [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-06 |  |
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |
 | [Starkare](https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Starkare](https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r) | 2:25 | 2023-05-04 | 2023-10-20 |
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
@@ -1123,6 +1124,7 @@
 | [Stigen](https://open.spotify.com/track/68HcHIRS7uahPafhE5a699) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 4:03 | 2023-10-19 | 2024-01-26 |
 | [Still Got the Blues från Sverige](https://open.spotify.com/track/5zCtffa9eit69GFSBkCkys) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Still Got the Blues från Sverige](https://open.spotify.com/album/4jHhoDYHM7wTN5EZHr4oRX) | 4:08 | 2023-10-19 | 2024-01-26 |
 | [Stilla](https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj) | [Dag Tolstoy](https://open.spotify.com/artist/3pqmSK0CTIQ5RGfGLm2d9y) | [Stilla](https://open.spotify.com/album/4O3mvAJiHJU0oBP35n3q8x) | 2:47 | 2022-06-16 | 2022-09-21 |
+| [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-07 |  |
 | [Stockholm i natt](https://open.spotify.com/track/57TT1KRWDS35o1M9kiw4Jf) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Stockholm i natt](https://open.spotify.com/album/1DRbmA5XjnBuTrN6sPcrDx) | 3:32 | 2021-12-16 | 2022-04-02 |
 | [Stockholm lämnar sår \- REMAZE Remix](https://open.spotify.com/track/3oEX4kXtOkHqtFr2Vj8KIK) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [REMAZE](https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB) | [Stockholm lämnar sår \(REMAZE Remix\)](https://open.spotify.com/album/5ZyicRFZ5ojBzcLP0GrGYf) | 3:30 | 2023-11-23 | 2024-02-09 |
 | [Stockholms dårar](https://open.spotify.com/track/4e394atn8SYK4bOrRbEfuJ) | [Oscar Ahlgren](https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob) | [Stockholms dårar](https://open.spotify.com/album/7nvenV5moQscgVQjBbbjSB) | 2:52 | 2024-03-28 | 2024-05-03 |
@@ -1306,6 +1308,7 @@
 | [Varför slutar allt i tårar](https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Varför slutar allt i tårar](https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv) | 4:04 | 2024-05-30 |  |
 | [Varför vill du ha mig?](https://open.spotify.com/track/19K0YAML7BKdfF7IL4c2Ry) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Varför vill du ha mig?](https://open.spotify.com/album/1vzabkKzWG69LQEUPJG3GA) | 2:56 | 2024-02-22 | 2024-03-17 |
 | [Varför väntade du till sommaren?](https://open.spotify.com/track/3QvHp2UMWG31LBxXdaMH3N) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Varför väntade du till sommaren?](https://open.spotify.com/album/0prvn493zXW0dpsNvdmK3z) | 3:00 | 2024-04-25 | 2024-05-24 |
+| [Varje efterfest](https://open.spotify.com/track/37J3laYFyXjjZWtshcQ4Rd) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Varje efterfest](https://open.spotify.com/album/33FL8rHNWFadOis2nvRhXO) | 2:35 | 2024-06-07 |  |
 | [Varje gång](https://open.spotify.com/track/5F63IuJAxScBwhGSO51N4r) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Varje gång](https://open.spotify.com/album/6aTU5aSCB5dahAWEvmBViu) | 2:53 | 2024-02-02 | 2024-04-05 |
 | [Vart jag mig än vänder](https://open.spotify.com/track/7LSJsHMkNJ10DLteRSvd0V) | [Emil Gustafsson](https://open.spotify.com/artist/0Xf175P93hI9EDPHsPJlQG), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [Vart jag mig än vänder](https://open.spotify.com/album/2uAKul7JL6BAboy4LGJ53F) | 3:12 | 2021-12-16 | 2022-03-02 |
 | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/track/5KuZCxniWptnXpmxR3asrA) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Vart Jag Varit \(Je Viens De Rien\) \[feat\. Maxida Märak\]](https://open.spotify.com/album/1g0LUBd086L86cj5X40hxl) | 3:21 | 2022-03-17 | 2022-07-29 |

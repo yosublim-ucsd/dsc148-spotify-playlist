@@ -11253,6 +11253,24 @@
     },
     {
       "album": {
+        "name": "Imagine Paradise",
+        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237655,
+      "name": "Imagine Paradise",
+      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
+    },
+    {
+      "album": {
         "name": "In i dimman",
         "url": "https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX"
       },
@@ -20685,7 +20703,7 @@
         },
         {
           "name": "ALMA",
-          "url": "https://open.spotify.com/artist/0L8kitfQ1k27oGf5WH6ChU"
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         }
       ],
       "date_added": "2024-06-06",
@@ -20856,6 +20874,24 @@
       "duration_ms": 167803,
       "name": "Stilla",
       "url": "https://open.spotify.com/track/7G7XjX6ELRTtlIfvcpOgKj"
+    },
+    {
+      "album": {
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "album": {
@@ -24290,6 +24326,24 @@
       "duration_ms": 180453,
       "name": "Varf\u00f6r v\u00e4ntade du till sommaren?",
       "url": "https://open.spotify.com/track/3QvHp2UMWG31LBxXdaMH3N"
+    },
+    {
+      "album": {
+        "name": "Varje efterfest",
+        "url": "https://open.spotify.com/album/33FL8rHNWFadOis2nvRhXO"
+      },
+      "artists": [
+        {
+          "name": "J1",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155529,
+      "name": "Varje efterfest",
+      "url": "https://open.spotify.com/track/37J3laYFyXjjZWtshcQ4Rd"
     },
     {
       "album": {

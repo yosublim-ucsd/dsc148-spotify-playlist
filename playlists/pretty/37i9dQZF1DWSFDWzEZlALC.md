@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Felix Herbst, Carla Ahad
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,276 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,341 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 65 | [dominik hartz](https://open.spotify.com/track/17nconovPtL9P1y5jOV2zE) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [dominik hartz](https://open.spotify.com/album/56FCch1qFLeR6exygAi9vr) | 2:26 |
 | 66 | [ich hass dich noch'n bisschen](https://open.spotify.com/track/2N5TDaTcnsEXP9vtCaTiDb) | [falcke](https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf) | [ich hass dich noch'n bisschen](https://open.spotify.com/album/6nQFyDVSdK7Wzr50bPnFcN) | 3:21 |
 | 67 | [Alles Perfekt](https://open.spotify.com/track/1VfhMUYSDlRkmlhWaHK9IW) | [Paul Gerlinger](https://open.spotify.com/artist/3Jh90nIsxexWk4CfSv8EBV) | [Alles Perfekt](https://open.spotify.com/album/7al7JYh8M2lQmiL8Sa6uen) | 3:03 |
-| 68 | [Gegengift](https://open.spotify.com/track/3dMU77BXGfEJ9EAzOLa0Mn) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Gegengift](https://open.spotify.com/album/4DNBrTSJjkXNbZWbbw3Xp5) | 2:47 |
+| 68 | [Gegengift](https://open.spotify.com/track/3dMU77BXGfEJ9EAzOLa0Mn) | [frytz](https://open.spotify.com/artist/7EZnBjmwfArHnbX8ApC03O) | [Gegengift](https://open.spotify.com/album/4DNBrTSJjkXNbZWbbw3Xp5) | 2:47 |
 | 69 | [Was Bleibt](https://open.spotify.com/track/49DZRUXxxRObftT4MMRPem) | [SIND](https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi) | [Was Bleibt](https://open.spotify.com/album/6tfUiF9NQw81aLKVnMdhI4) | 3:06 |
 | 70 | [Stockwerke](https://open.spotify.com/track/23YouZCICRRkMwn3LMw0OV) | [Jambus](https://open.spotify.com/artist/2QZXIiO5fcbdhq7JSaL8ma), [Fifteen](https://open.spotify.com/artist/5JPMHPJsiNNwG2bZu9qLlS) | [Damals war die Luft noch frischer](https://open.spotify.com/album/0hEG5ptRQMiYMasI0IKWoX) | 2:40 |
 | 71 | [Cruisen](https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Cruisen](https://open.spotify.com/album/456CPopRAisSeK6XfI4fy0) | 3:04 |

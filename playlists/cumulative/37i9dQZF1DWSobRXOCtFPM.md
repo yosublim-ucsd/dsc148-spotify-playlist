@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-283 songs - 1 day 3 hr 21 min
+284 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [I’ll Take You feat Xander](https://open.spotify.com/track/5fQyVGsvWKUJ2OUUt3fcsj) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Xander](https://open.spotify.com/artist/4uqX6ORyUQSdtqgcc8lr1w) | [In My Mind](https://open.spotify.com/album/3s1mUrfpGAY2kFoBC08tFk) | 3:59 | 2022-08-15 | 2023-02-14 |
 | [Keep the Pressure On](https://open.spotify.com/track/4LPfMqurTNTpdGl7OULJvW) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:16 | 2023-02-13 | 2023-08-04 |
 | [Lavapies \- Mixed](https://open.spotify.com/track/6R6x4SoNOpYqs5M4uFmPOD) | [Digital Afrika](https://open.spotify.com/artist/2FtoiNNAAX9Xd2UJwQ9Esw) | [ASW is Live Mixed by Carl Cox \(DJ Mix\)](https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv) | 3:23 | 2024-04-29 |  |
+| [Let's Keep Floating](https://open.spotify.com/track/3Kt84nPo7IPy5cGrWAEdbH) | [De Sluwe Vos](https://open.spotify.com/artist/6NOaZCnZyowwJiTHbh5dLS) | [Let's Keep Floating](https://open.spotify.com/album/6kHRvKCyPNFXOHNSS3J51A) | 7:41 | 2024-06-07 |  |
 | [Light of the Universe](https://open.spotify.com/track/3MbHnU1WGGpaF2SzMN58sX) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Light of the Universe](https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37) | 3:56 | 2023-05-05 | 2024-02-28 |
 | [Light of the Universe \(lofi version\)](https://open.spotify.com/track/2XClqZFy6LV51fDf5b7NC2) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Light of the Universe](https://open.spotify.com/album/5yTwUr6JPFUkAbZeJF1k37) | 3:44 | 2023-05-05 | 2024-02-28 |
 | [Line Lock](https://open.spotify.com/track/2F9vyt5uPi4Sy7iTDiTDqW) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Electronic Generations](https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z) | 4:17 | 2023-02-13 | 2023-08-04 |

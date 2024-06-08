@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Etta ja Turisti.
 
-574 songs - 1 day 3 hr 30 min
+576 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [KAPUT](https://open.spotify.com/track/2rQ7vdat1lnosFZ9qrs1Yp) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [KAPUT](https://open.spotify.com/album/0WTovyAkYlrsH7ul78gdA4) | 3:00 | 2023-09-21 | 2023-11-03 |
 | [Karma](https://open.spotify.com/track/4r0DJ4mXg1UYVW08FfEKda) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Karma](https://open.spotify.com/album/0GPV9sM3MYOTPpaxOGLux9) | 2:42 | 2023-09-21 | 2023-10-06 |
 | [Kasvanu tääl](https://open.spotify.com/track/663rcZNdSoM2aGJgQ49mNQ) | [Äänet Käskee](https://open.spotify.com/artist/6tYoCkla26VpGOZcUVCuT3), [Olli August](https://open.spotify.com/artist/5rNbjiCW5GOrb9nuSX91Xw) | [Kasvanu tääl](https://open.spotify.com/album/0dXYwsreUtjhf5KacLKgk2) | 2:23 | 2023-11-16 | 2023-11-24 |
+| [Kasvoin](https://open.spotify.com/track/7fHjXu2eybzXaA1tmXv0Zp) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kasvoin](https://open.spotify.com/album/1Rmkmzh3angPiQeDugCqJE) | 3:01 | 2024-06-07 |  |
 | [Kato alas](https://open.spotify.com/track/4rbyfnaHyL68hEecbw5vtY) | [Paha Matami](https://open.spotify.com/artist/0FOBDcNYCyLOUNjss9C8rn) | [Kato alas](https://open.spotify.com/album/3Um6qItt1eqJ3BgKdAEHsn) | 2:41 | 2024-05-02 | 2024-05-17 |
 | [Kattomatta takas](https://open.spotify.com/track/32TdIduhRPeevh5v7YjJKV) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Kattomatta takas](https://open.spotify.com/album/4MrZ0qvA9ZTynPfj8o02TD) | 2:30 | 2024-03-07 | 2024-06-01 |
 | [Katuvalot](https://open.spotify.com/track/48EOjmYvrOXuYUOVPTp2Z1) | [Ideaali & Jay Who?](https://open.spotify.com/artist/6wBW7sVv3o1EdGWLvgfLjd) | [Katuvalot](https://open.spotify.com/album/5VnzP78QpYmX1CQPIWkKjc) | 3:17 | 2024-03-07 | 2024-03-22 |
@@ -391,6 +392,7 @@
 | [Pelkkää <3](https://open.spotify.com/track/5sQX0pAZ79MQioFTKL4zrS) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Pelkkää <3](https://open.spotify.com/album/7mMoM49QO9zGKdkxBTORs7) | 2:11 | 2023-10-05 | 2023-11-24 |
 | [Penthouse](https://open.spotify.com/track/4fYhfbaSqq9U8ziRAUmqAj) | [Coozii & Zeno](https://open.spotify.com/artist/0qk9pt8n5hIwcgTIFVtaFa), [Seksikäs\-Suklaa](https://open.spotify.com/artist/2o2qKwPkfo0vDnyXnfgk0W), [Young Aaron](https://open.spotify.com/artist/2Z4aVoKueBCgSLaFGbj6nR), [Aamos Salovaara](https://open.spotify.com/artist/1yQGUcyThbaF7PWXSbFaqq) | [Penthouse](https://open.spotify.com/album/3SnViuxHGQTy8WFaXu8WW9) | 2:10 | 2023-09-21 | 2023-10-06 |
 | [Perus Räppäri](https://open.spotify.com/track/250KNG4ECaiNbnPh6c0JcP) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Bandolero](https://open.spotify.com/album/17vf7xwWM38qYGWP4hW4Gp) | 1:53 | 2024-04-25 |  |
+| [Petoksii](https://open.spotify.com/track/0MPfYcIHJKWVJWElcaQ7JR) | [Cleme](https://open.spotify.com/artist/34bBpJxnHQpGOQpDPs4F7e) | [loverboy](https://open.spotify.com/album/0wAxyNLcIbQBJGU5u10kVL) | 2:40 | 2024-06-07 |  |
 | [pidä huolta](https://open.spotify.com/track/7cLH502QGa8Ot2XCRrUJTv) | [Yrjänä](https://open.spotify.com/artist/4CmFTG3y5YXHlV7vQ3jvH7) | [pidä huolta](https://open.spotify.com/album/2f8oDlJAuvKycLPUyAbxm4) | 3:25 | 2024-05-16 |  |
 | [Piilota sun sydän](https://open.spotify.com/track/0jPPjiGzz5s5CJfB50EExw) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Piilota sun sydän](https://open.spotify.com/album/0jVIOrkWean9hjFyvYqBhD) | 3:18 | 2024-02-22 | 2024-04-19 |
 | [Pimee \(feat\. BESS\)](https://open.spotify.com/track/0HxPzvkpUhADgfRnXNF6zS) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Pimee \(feat\. BESS\)](https://open.spotify.com/album/634YAJrYaAofZGXDp8lHHG) | 2:38 | 2023-09-21 | 2023-10-06 |

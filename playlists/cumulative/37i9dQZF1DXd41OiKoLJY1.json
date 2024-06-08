@@ -24403,6 +24403,24 @@
     },
     {
       "album": {
+        "name": "MAD INLUV",
+        "url": "https://open.spotify.com/album/28U0Xt9QvCY7JJ9cUeZWiX"
+      },
+      "artists": [
+        {
+          "name": "Iyann",
+          "url": "https://open.spotify.com/artist/7yxN1vpq35MDcvRPn1JDhk"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "MAD INLUV",
+      "url": "https://open.spotify.com/track/7IZppnQVjjOVn80FAYBNLF"
+    },
+    {
+      "album": {
         "name": "Madaling Araw",
         "url": "https://open.spotify.com/album/4yJlBWimFUBZera3U1Zlwc"
       },
@@ -27902,6 +27920,24 @@
       "duration_ms": 325580,
       "name": "Night Bloom",
       "url": "https://open.spotify.com/track/5jwSZNxOQDvupDEFYEkGHU"
+    },
+    {
+      "album": {
+        "name": "Night Club",
+        "url": "https://open.spotify.com/album/1ngpNyWs4m6na1CujbnEZI"
+      },
+      "artists": [
+        {
+          "name": "SWKY Shins",
+          "url": "https://open.spotify.com/artist/4T9mQvyEgTGdKXKbHUosGl"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198379,
+      "name": "Night Club",
+      "url": "https://open.spotify.com/track/30vytrvYtDlNpticjEFNPg"
     },
     {
       "album": {

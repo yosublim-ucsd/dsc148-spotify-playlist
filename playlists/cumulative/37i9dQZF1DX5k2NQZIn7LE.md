@@ -2,7 +2,7 @@
 
 ### [Best of: Coke Studio Fusion](https://open.spotify.com/playlist/37i9dQZF1DX5k2NQZIn7LE)
 
-> Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
+> Fusion hits from Coke Studio Pakistan.
 
 121 songs - 13 hr 25 min
 

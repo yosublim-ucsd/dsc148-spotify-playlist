@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-337 songs - 18 hr 14 min
+338 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [HUBBALLI SONG](https://open.spotify.com/track/4epAvvYgRA0zRI90ud8jFD) | [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31), [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [HUBBALLI SONG](https://open.spotify.com/album/5QzcCrWpYxTmnw5UxlmF5R) | 3:52 | 2023-06-06 | 2023-08-24 |
 | [Hudukiruve](https://open.spotify.com/track/2hPhWXFEL2WO3nANRUp7xp) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Samuel Narendra](https://open.spotify.com/artist/0mlMH3WO33o79nD5Z1kHgh), [Creative Scenario](https://open.spotify.com/artist/4Zafxr6sEbqfLOivGNm6iI) | [Hudukiruve](https://open.spotify.com/album/4eIoKqU8zV6YHKk7ZSwPsT) | 3:48 | 2024-04-29 |  |
 | [Hyped Up](https://open.spotify.com/track/4tH7hhaSh7k1ClKbmBgzXI) | [TigerChandan](https://open.spotify.com/artist/5YCXb78tk6Pdn33LAuhqGe), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Hyped Up](https://open.spotify.com/album/1hbgDvnqdKwTPgDnOP1bdR) | 2:18 | 2023-06-12 | 2023-06-21 |
+| [I'M Believer](https://open.spotify.com/track/3KuefA47wSyDNFbFDDOdSJ) | [Ravi Basrur](https://open.spotify.com/artist/2WpKIaiVSpiMSF4gYBZrdE), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Airaa Udupi](https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR) | [I'M Believer](https://open.spotify.com/album/3SGKp99q4VXCUmINWQWqKf) | 3:29 | 2024-06-07 |  |
 | [Ibbani](https://open.spotify.com/track/1DkBaJyOG4T8JjCTdKMSb8) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Ibbani](https://open.spotify.com/album/5BObiTpBbLQlv6ydqZPIQ5) | 3:38 | 2022-11-02 | 2023-07-04 |
 | [Idhe Idhe Bengaluru](https://open.spotify.com/track/6igjJBcoQ98ZSfVs3fK0zb) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Prithviraj Naik](https://open.spotify.com/artist/31vmekSUvxse1Dr6BlKj1Z) | [Nachinavadu](https://open.spotify.com/album/1gDxZdntEMN96fR8kTga2p) | 2:22 | 2023-05-02 | 2023-11-29 |
 | [Idu Nammadu Gaali Neeru Usiru](https://open.spotify.com/track/3ggvwpKSmgktFC9uc3Rzs3) | [Sunitha Chandrakumar](https://open.spotify.com/artist/0Nl5DcjUiuMURUhE8S5Rox), [Rajnikanth C](https://open.spotify.com/artist/4rCX1ZhjKo8XtUbRAYxwcu), [Students of Raghuleela School of Music](https://open.spotify.com/artist/6gyUsrc1TQndjVOpHjTGY7), [Rashmi Rao](https://open.spotify.com/artist/1i3f3nB8Hhnyr8UsseEeXZ) | [Idu Nammadu Gaali Neeru Usiru](https://open.spotify.com/album/75ZlN6z9Hs5NQBAHLyOXHT) | 2:26 | 2023-06-19 | 2024-01-17 |

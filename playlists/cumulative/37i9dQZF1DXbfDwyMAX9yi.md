@@ -4,7 +4,7 @@
 
 > Our favorite subject? Their chemistry\. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.
 
-35 songs - 1 hr 35 min
+36 songs - 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ruby in a Rush \- from "Maxton Hall"](https://open.spotify.com/track/5K7HkvAxLtlDjCMizM4Yfu) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:04 | 2024-06-06 |  |
 | [Ruby's Dreams \- from "Maxton Hall"](https://open.spotify.com/track/2y8CKF1ovug4pBxj3BetRw) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:23 | 2024-06-06 |  |
 | [Run Like a River](https://open.spotify.com/track/3HoZ54Zo4ekv5ojTzhpiGT) | [JAMICA](https://open.spotify.com/artist/3SSupchUAX7ypE9vT9zj1e) | [Run Like a River](https://open.spotify.com/album/5YYIY9h3U0jZ8BaITEiEaN) | 3:01 | 2024-06-06 |  |
+| [Sea of Love \- Extended Album Version \- from "Maxton Hall"](https://open.spotify.com/track/2VezVJwF8oW67QTS5SB8E2) | [Eli Riccardi](https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg) | [Sea of Love](https://open.spotify.com/album/3pC4dLfRhyk390dtRq4cpa) | 3:08 | 2024-06-07 |  |
 | [Something's Off \- from "Maxton Hall"](https://open.spotify.com/track/2InEuGzKI41WCTMS4vnXUy) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 1:46 | 2024-06-06 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2024-06-06 |  |
 | [The Flagship Store \- from "Maxton Hall"](https://open.spotify.com/track/1MDaRpDNYFgWEHlDQCmmJ8) | [songs in cinema](https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6) | [Maxton Hall: The World Between Us \(Season 1\) \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt) | 2:07 | 2024-06-06 |  |

@@ -4,7 +4,7 @@
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-161 songs - 6 hr 58 min
+162 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Move It On Over](https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 | 2022-07-24 |  |
 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 | 2018-12-10 |  |
 | [Oh Lonesome Me](https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:29 | 2018-12-10 |  |
+| [Puppy Love](https://open.spotify.com/track/3IWF9k6ezeVFwG08nbB0gI) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Puppy Love / Girl Left Alone](https://open.spotify.com/album/7uTTF8NGOHQOgpqrJGESHH) | 1:42 | 2024-06-07 |  |
 | [Raunchy](https://open.spotify.com/track/0wZfUYCWJ2c57Xqpt7mIXr) | [Bill Justis](https://open.spotify.com/artist/0z16OEWcUEFzMRWBOGyOcF) | [Raunchy / The Midnite Man](https://open.spotify.com/album/0BAy0J5TiC20PJMn9tHVMq) | 2:20 | 2022-05-06 | 2022-11-13 |
 | [Raunchy](https://open.spotify.com/track/5gsVdCTBKYHzzGcYNg1TXT) | [Bill Justis](https://open.spotify.com/artist/0z16OEWcUEFzMRWBOGyOcF) | [Sun King Collection \- Bill Justis](https://open.spotify.com/album/3uzGSTvgx4oQb0qp1RCYmm) | 2:24 | 2018-12-10 | 2022-05-07 |
 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 | 2018-12-10 |  |
@@ -163,7 +164,7 @@
 | [Why Baby Why \- Single Version](https://open.spotify.com/track/2Nl4tN3rYAnnx8PpYOhQfN) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Best Of George Jones: 20th Century Masters: The Millennium Collection](https://open.spotify.com/album/37dkZUAgs2WWCpCQrPa3SF) | 2:17 | 2018-12-10 | 2022-07-29 |
 | [Why Don't You Love Me](https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Ramblin’ Man \(Undubbed Edition\)](https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh) | 2:26 | 2022-07-24 | 2024-04-19 |
 | [Why Don't You Love Me \- Single Version](https://open.spotify.com/track/2qHHCqqYJXrB959rYUmIMd) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Best Of Hank Williams 20th Century Masters The Millennium Collection](https://open.spotify.com/album/2fqbOE2q8uHMEIbOtABgGh) | 2:23 | 2018-12-10 | 2022-07-29 |
-| [Wildwood Flower \- Instrumental](https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Vintage Collections](https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5) | 2:57 | 2018-12-10 |  |
+| [Wildwood Flower \- Instrumental](https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Vintage Collections](https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5) | 2:57 | 2018-12-10 | 2024-06-08 |
 | [You Win Again](https://open.spotify.com/track/1rb3elJQHycoTWIqh80rew) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f) | 2:35 | 2018-12-10 | 2022-07-29 |
 | [You Win Again](https://open.spotify.com/track/6ZMHH9XpOSv0p9vl51nLO2) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:38 | 2023-01-02 | 2023-05-26 |
 | [Young Love](https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S) | [Sonny James](https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy) | [Capitol Collectors Series](https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr) | 2:32 | 2018-12-10 |  |

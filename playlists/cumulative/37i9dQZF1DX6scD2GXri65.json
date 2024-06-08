@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/58Cx7GPCzKlQkeyx9HwnLs"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/17C8Q8ECB08X2xgQWrxOsY"
+    },
+    {
+      "album": {
         "name": "AM-PM (Gluttony)",
         "url": "https://open.spotify.com/album/1Vg7DEavxBrb6vQJXaRY52"
       },
@@ -372,7 +394,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 219000,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33"
@@ -2453,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/2EXoDDu3nclWWNUYxDufeJ"
+      },
+      "artists": [
+        {
+          "name": "Inpulsa",
+          "url": "https://open.spotify.com/artist/3I15MHvYprvenj5oR3WHWM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/2dQ2AU5neEFf087FkYpytm"
+    },
+    {
+      "album": {
         "name": "Mind Of A Psycho",
         "url": "https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l"
       },
@@ -2592,7 +2632,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 208451,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Bibi Club",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: KAYTRANADA",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200626,
       "name": "Central Park La Fontaine",
       "url": "https://open.spotify.com/track/4sKRzvs3WsNQSyCOivbiSl"
@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Diamond Shovel",
+        "url": "https://open.spotify.com/album/0XduNeJLqZr4ql3WTd94vS"
+      },
+      "artists": [
+        {
+          "name": "Blue Hawaii",
+          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185611,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/268NeJoV7OsLvYY8v09WZs"
+    },
+    {
+      "album": {
         "name": "Engraisser",
         "url": "https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII"
       },
@@ -2640,7 +2658,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 192453,
       "name": "Fait du sens",
       "url": "https://open.spotify.com/track/1KWCsJZq5YjqBPqf1yOgiP"
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 202933,
       "name": "Highly Unrecommended",
       "url": "https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D"
@@ -3953,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Je suis entr\u00e9",
+        "url": "https://open.spotify.com/album/4aYwIxO2q1kubup7rs3hlX"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Je suis entr\u00e9",
+      "url": "https://open.spotify.com/track/1ZoQwSE1hr3JdzXxvcgGgm"
+    },
+    {
+      "album": {
         "name": "Juillet",
         "url": "https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a"
       },
@@ -4398,7 +4434,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 243026,
       "name": "Le Fleuve",
       "url": "https://open.spotify.com/track/7muEnAc7ijPmWwmYCM7iAG"
@@ -4604,6 +4640,24 @@
       "duration_ms": 186578,
       "name": "levels",
       "url": "https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf"
     },
     {
       "album": {
@@ -5063,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "Mile End",
+        "url": "https://open.spotify.com/album/1n01MB9o6KL92Qvk3m3HFS"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193939,
+      "name": "Mile End",
+      "url": "https://open.spotify.com/track/7mg1XnDX6ymHC8RDa87sBi"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm"
       },
@@ -5316,6 +5388,24 @@
       "duration_ms": 146000,
       "name": "N'importe O\u00f9 Sauf Ici",
       "url": "https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje"
+    },
+    {
+      "album": {
+        "name": "Nausia",
+        "url": "https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB"
+      },
+      "artists": [
+        {
+          "name": "Delachute",
+          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112094,
+      "name": "Nausia",
+      "url": "https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0"
     },
     {
       "album": {
@@ -6150,7 +6240,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 160426,
       "name": "Pause",
       "url": "https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf"
@@ -6518,6 +6608,28 @@
       "duration_ms": 202959,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/3qeQtEMW0HsxrN8qbvdr6b"
+    },
+    {
+      "album": {
+        "name": "Tu me vois comme je suis",
+        "url": "https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        },
+        {
+          "name": "Corail",
+          "url": "https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166096,
+      "name": "Poup\u00e9e russe",
+      "url": "https://open.spotify.com/track/3h2CXZ3Ax0kLDbUZTv2mSa"
     },
     {
       "album": {
@@ -7538,7 +7650,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
@@ -7712,7 +7824,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 222746,
       "name": "Sumerset",
       "url": "https://open.spotify.com/track/6MZUZERNxJdxGrktKIy8lQ"
@@ -8566,6 +8678,28 @@
       "duration_ms": 190284,
       "name": "veux veux pas",
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
+    },
+    {
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192017,
+      "name": "Video (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
     },
     {
       "album": {

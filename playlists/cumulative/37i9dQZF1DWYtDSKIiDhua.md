@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover:  cehryl
 
-746 songs - 1 day 16 hr 26 min
+748 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Hiding Away](https://open.spotify.com/track/3jX8KrdmVz1LrsPn0UP4mT) | [Gursi Hills](https://open.spotify.com/artist/65DxVcXahJBCmIbLx72Eeu), [Melanny Banda](https://open.spotify.com/artist/65MdXRlcYlGcsPP3gtfNgt) | [Hiding Away](https://open.spotify.com/album/0mSzhxwcvTkvBH59sjI7P8) | 2:24 | 2023-08-17 | 2023-11-03 |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-04 | 2022-08-19 |
 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 | 2022-11-17 | 2022-12-17 |
+| [Hold Hands](https://open.spotify.com/track/3CikomFbSb4FiohC8VouxI) | [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Hold Hands](https://open.spotify.com/album/1vkHevjCbUuMw66cu8u6IK) | 3:44 | 2024-06-07 |  |
 | [hold me](https://open.spotify.com/track/44rWxt3LrdLf0IclHzQe6v) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [hold me](https://open.spotify.com/album/0JfAcmBChLcmkVhI7cF2n2) | 3:31 | 2024-02-29 |  |
 | [Hold me Kiss me Love me](https://open.spotify.com/track/7eTrak4jRwWpUGJeahihH6) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [Hold me Kiss me Love me](https://open.spotify.com/album/3Z1f1a238dmmG3kG36F6A3) | 2:45 | 2023-09-21 | 2023-10-14 |
 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 | 2023-03-09 | 2023-03-18 |
@@ -737,6 +738,7 @@
 | [Witchy \(feat\. Childish Gambino\)](https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:47 | 2024-06-06 |  |
 | [WKM](https://open.spotify.com/track/6ySbWMKVdRBOVI8WTErZZV) | [HIMALAYA](https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU), [Sergy Mariano](https://open.spotify.com/artist/5PHlZZNDY1rC5hbU6kpkBn) | [WKM](https://open.spotify.com/album/6O9djLl2dKetj5Oye4Vhce) | 3:18 | 2022-06-08 | 2022-06-17 |
 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 | 2022-09-08 | 2023-04-21 |
+| [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 | 2024-06-06 |  |
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-01 |  |
 | [Yeah Yeah](https://open.spotify.com/track/07YxnC8dRtpiDKfVCclDcV) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Yeah Yeah](https://open.spotify.com/album/4Y4zPsh0u82jNI1LvkLDxO) | 3:15 | 2023-08-31 | 2024-03-16 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-17 | 2023-03-18 |

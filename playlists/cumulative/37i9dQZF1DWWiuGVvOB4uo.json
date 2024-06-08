@@ -2555,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
+      },
+      "artists": [
+        {
+          "name": "Alice Nordstrom",
+          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166554,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
+    },
+    {
+      "album": {
         "name": "I Get to Love You (Acoustic)",
         "url": "https://open.spotify.com/album/2SjgmfolAvjxYp6MBgAJOn"
       },

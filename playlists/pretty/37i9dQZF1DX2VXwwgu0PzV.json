@@ -1,6 +1,6 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover:   <a href=https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2?si=3-AhgJc0RfS7kJuSNQOZXQ>Tim Godfrey</a> and  <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=RDfM3zozQmO-Z1fBdrUa-g>EJ Newton</a> ",
-  "num_followers": 33548,
+  "num_followers": 33648,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,30 @@
       "duration_ms": 743333,
       "name": "Mesias - Live",
       "url": "https://open.spotify.com/track/2f76xe9iPZbab7nMXaUaNR"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Congratulations",
+        "url": "https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "duration_ms": 186909,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
     },
     {
       "added_at": "2023-12-11 00:01:00",

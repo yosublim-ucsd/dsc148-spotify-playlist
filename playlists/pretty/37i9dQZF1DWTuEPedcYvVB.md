@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEPedcYvVB.md) - [plain]
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,494 likes - 77 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,519 likes - 77 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Decisions](https://open.spotify.com/track/6OpMhAh3DTJwjAhjab028P) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 4:00 |
+| 1 | [Decisions](https://open.spotify.com/track/6OpMhAh3DTJwjAhjab028P) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 4:00 |
 | 2 | [Oti Bere](https://open.spotify.com/track/6yjEhMBfIzvYlA8Ay7ViwY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [2 in 1](https://open.spotify.com/album/6m3JcqnSzHmJhCMobWya2d) | 3:00 |
 | 3 | [Spirit](https://open.spotify.com/track/2vKVaAoTG6ag83gW3RHwIn) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Common Sense](https://open.spotify.com/album/6fUnZqjU3bwBOZIsQ4kN1Q) | 3:34 |
 | 4 | [U Get Me?](https://open.spotify.com/track/5FB5FaA0gWIYpJPv3yb8DX) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 2:45 |

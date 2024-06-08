@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 205241,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
@@ -2779,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "DEAD CHAMPIONS",
+        "url": "https://open.spotify.com/album/5QalP62bY1XzfOwcAXFW1D"
+      },
+      "artists": [
+        {
+          "name": "SISTO",
+          "url": "https://open.spotify.com/artist/2M1fROBYTycpAcvsi2zkPJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251586,
+      "name": "DEAD CHAMPIONS",
+      "url": "https://open.spotify.com/track/5ABJJpPO2v5yV5NHbSZFiH"
+    },
+    {
+      "album": {
         "name": "Dead Man Walking Pt. 1",
         "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
       },
@@ -3838,7 +3856,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 253200,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 225306,
       "name": "In your face!",
       "url": "https://open.spotify.com/track/7nkwHDpDkHGeJRX3PvMFIC"
@@ -6642,7 +6660,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 223624,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/3lbW7wlJRPIi1x5Sg9PKP8"
@@ -6792,7 +6810,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 171982,
       "name": "KNOCKOUT",
       "url": "https://open.spotify.com/track/4vUP3RvK7Sk0RpGvHsLYLr"
@@ -12047,6 +12065,46 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/1YZLSIwKqC5Z7x5c3ThUEh"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/2BiqLx4Aibr5iElQ7DCq3J"
+    },
+    {
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd"
+    },
+    {
+      "album": {
         "name": "Tear Jerker",
         "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
       },
@@ -12498,6 +12556,28 @@
       "duration_ms": 225103,
       "name": "The Pluck Song",
       "url": "https://open.spotify.com/track/7gTGDYmGSfSTLmrFw05ePe"
+    },
+    {
+      "album": {
+        "name": "The Code of Dreamz",
+        "url": "https://open.spotify.com/album/7CY0Rkh9lUuJRmwMdQ4NNj"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "Heyz",
+          "url": "https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "The Power of Everything",
+      "url": "https://open.spotify.com/track/0QCTSPch7uVA344JWcNlIu"
     },
     {
       "album": {
@@ -13196,6 +13276,24 @@
       "duration_ms": 186206,
       "name": "Turn The Tide",
       "url": "https://open.spotify.com/track/7r5s7HP6dJvcQjYrb0ZsoK"
+    },
+    {
+      "album": {
+        "name": "U Think Ur Hot",
+        "url": "https://open.spotify.com/album/4Fu99sUp9P3v60CsOfyRzS"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138404,
+      "name": "U Think Ur Hot",
+      "url": "https://open.spotify.com/track/4snqWdP8PAP7Z0Hn7AiGcq"
     },
     {
       "album": {

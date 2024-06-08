@@ -10289,6 +10289,28 @@
     },
     {
       "album": {
+        "name": "Beach Bars",
+        "url": "https://open.spotify.com/album/0ucTkzP2XUrQ1ADwr2Kll4"
+      },
+      "artists": [
+        {
+          "name": "Lowkey",
+          "url": "https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO"
+        },
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Beach Bars",
+      "url": "https://open.spotify.com/track/0AZWFFaznQQBh3COx61Nce"
+    },
+    {
+      "album": {
         "name": "Beach Date",
         "url": "https://open.spotify.com/album/1CnYVaau2HnDSuVoauPFUG"
       },
@@ -42870,7 +42892,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 121308,
       "name": "Friction",
       "url": "https://open.spotify.com/track/1xw3GyNsmDcNZb7Mayqqed"
@@ -47914,7 +47936,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 116785,
       "name": "Hakone",
       "url": "https://open.spotify.com/track/4MROAMHZoWne5mPwsBQld1"
@@ -70748,6 +70770,24 @@
       "duration_ms": 179318,
       "name": "Mazuku",
       "url": "https://open.spotify.com/track/5uOatfHkxx7D7jnBFyZQPb"
+    },
+    {
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2xOKK4chU6tABnT3iD1Ssn"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124750,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1Be6BhtTjQfvPZbx5H3k6t"
     },
     {
       "album": {
@@ -121490,7 +121530,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 125416,
       "name": "uma",
       "url": "https://open.spotify.com/track/29kWXackRzmPSegrcFVV43"
@@ -121838,6 +121878,24 @@
       "duration_ms": 88245,
       "name": "Under The Stars",
       "url": "https://open.spotify.com/track/2r0WLsamVimyYYy2kl0tt1"
+    },
+    {
+      "album": {
+        "name": "under the willows",
+        "url": "https://open.spotify.com/album/4IEv8x3wKyzcgiZ1jP457H"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227586,
+      "name": "under the willows",
+      "url": "https://open.spotify.com/track/6FbssyY2NcoqXtmvUM0i5Q"
     },
     {
       "album": {

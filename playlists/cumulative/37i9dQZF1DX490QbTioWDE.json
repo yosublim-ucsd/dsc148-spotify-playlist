@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 118083,
       "name": "A la mitad",
       "url": "https://open.spotify.com/track/65JceLr57WX9lbOg5DLc4x"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 184375,
       "name": "Amor Secreto",
       "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 122985,
       "name": "Hasta la Madre",
       "url": "https://open.spotify.com/track/1HBZMNyfxINzHjfkqSPmDx"
@@ -3603,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
+    },
+    {
+      "album": {
         "name": "Lamento Borincano",
         "url": "https://open.spotify.com/album/2FtEHp1FkZCugd7pKdgEic"
       },
@@ -3958,6 +3976,42 @@
       "duration_ms": 185844,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ"
+    },
+    {
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152536,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu"
+    },
+    {
+      "album": {
+        "name": "Luna - Prohibidox",
+        "url": "https://open.spotify.com/album/7gsdyNDBaBgt9eWZW8x7Nq"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Luna - Prohibidox",
+      "url": "https://open.spotify.com/track/08IZLOrhHD4jfqkguITnZT"
     },
     {
       "album": {
@@ -7262,7 +7316,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 152524,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf"
@@ -7446,7 +7500,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 210266,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"

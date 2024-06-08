@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Instrumental guitar shreddery. Cover: Angel Vivaldi",
+  "description": "Instrumental guitar shreddery. Cover: Marcin",
   "name": "String Theory",
   "tracks": [
     {
@@ -478,6 +478,28 @@
       "duration_ms": 166880,
       "name": "Circus Song",
       "url": "https://open.spotify.com/track/0rMZ3nVMzQQGfgtPVgCBlU"
+    },
+    {
+      "album": {
+        "name": "Classical Dragon (feat. Tim Henson)",
+        "url": "https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg"
+      },
+      "artists": [
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Classical Dragon (feat. Tim Henson)",
+      "url": "https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C"
     },
     {
       "album": {
@@ -2042,7 +2064,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 432333,
       "name": "Schizophrenic",
       "url": "https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc"

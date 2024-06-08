@@ -2,7 +2,7 @@
 
 ### [Reggaetón Argentino](https://open.spotify.com/playlist/37i9dQZF1DXdoVgSepr1uh)
 
-> Perreo hecho en Argentina\. Foto: TAICHU.
+> Perreo hecho en Argentina\. Foto: Salastkbron.
 
 242 songs - 11 hr 35 min
 

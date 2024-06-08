@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Kane Rodriguez",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Linea Personal",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 211904,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
@@ -1826,6 +1826,24 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "album": {
+        "name": "Bien Servida (En Vivo)",
+        "url": "https://open.spotify.com/album/2pVR6aKIr7cCK0XWeSLMJ4"
+      },
+      "artists": [
+        {
+          "name": "Neto Becerra",
+          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169888,
+      "name": "Bien Servida - En Vivo",
+      "url": "https://open.spotify.com/track/482EWLNHmzps9Xyy2bv4JV"
     },
     {
       "album": {
@@ -4464,7 +4482,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 150600,
       "name": "El Fuerte",
       "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 238241,
       "name": "Ella Minti\u00f3",
       "url": "https://open.spotify.com/track/1qvDFAfYOJcU57D3WurJfo"
@@ -7300,6 +7318,28 @@
       "duration_ms": 212253,
       "name": "Invitaciones",
       "url": "https://open.spotify.com/track/1qlVoMUKifgWjWdQ49FbWr"
+    },
+    {
+      "album": {
+        "name": "IVANA",
+        "url": "https://open.spotify.com/album/4BzXnqN9oVRTDCarl1Uwqz"
+      },
+      "artists": [
+        {
+          "name": "Santiago Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0oTQtUGLufiCsIqmTbAQGM"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "IVANA",
+      "url": "https://open.spotify.com/track/6AEh5Ungx1az2k2qEcgmq1"
     },
     {
       "album": {
@@ -10392,7 +10432,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 185106,
       "name": "Moreno \"El Emi\"",
       "url": "https://open.spotify.com/track/1XZG0Jz13M1bJ6c0VSNhX9"
@@ -13721,6 +13761,24 @@
     },
     {
       "album": {
+        "name": "Ser Tuyo Otra Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/34Mn9qSXecDEhwSq1LHfWp"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Ser Tuyo Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/5qvkn7Egmiwi5AKlwn5gBQ"
+    },
+    {
+      "album": {
         "name": "Si Ma\u00f1ana No Estoy",
         "url": "https://open.spotify.com/album/796lZ6cSKXDoHVSwYzbCgC"
       },
@@ -14486,6 +14544,28 @@
       "duration_ms": 204213,
       "name": "Substancias",
       "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o Americano",
+        "url": "https://open.spotify.com/album/20ZVDYn2j4irBzIPdd4OYP"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180117,
+      "name": "Sue\u00f1o Americano",
+      "url": "https://open.spotify.com/track/45ZBE4YMnDp1L4hh5lkuYE"
     },
     {
       "album": {
@@ -16072,7 +16152,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174087,
       "name": "Viaje A Paris",
       "url": "https://open.spotify.com/track/2EvftGDMUNEGe25wxjXdQl"
@@ -16590,6 +16670,28 @@
       "duration_ms": 119484,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/7GHq7ZgBjJFNJg2oyMThl5"
+    },
+    {
+      "album": {
+        "name": "YRUZ",
+        "url": "https://open.spotify.com/album/1LT0cN7lVdm9iNsP8gH9W8"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "Tony Herrera",
+          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234928,
+      "name": "YRUZ",
+      "url": "https://open.spotify.com/track/6NjXu49e6voDYvt1i4n4lk"
     },
     {
       "album": {

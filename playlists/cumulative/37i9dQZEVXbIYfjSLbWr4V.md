@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-187 songs - 8 hr 4 min
+188 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Song 404](https://open.spotify.com/track/4i65zW2W1sHvWjOQpl5hVe) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Song 404](https://open.spotify.com/album/3RcGBHZuXCRcPoajHshmJw) | 2:45 | 2024-05-03 | 2024-05-23 |
 | [Stress](https://open.spotify.com/track/3Dt7z7R0wCfSYqU5oqSpN2) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Stress](https://open.spotify.com/album/1FPkfqQDmrt2zpL87AIfcJ) | 2:51 | 2024-02-17 | 2024-03-03 |
 | [Take me back](https://open.spotify.com/track/7qG5XXyjO6CPeYOiriZ4Qb) | [DIMA SP](https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d) | [Daydream](https://open.spotify.com/album/3z417GZz3Blz83BSyaniDb) | 2:14 | 2024-06-01 | 2024-06-03 |
-| [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 | 2024-01-29 | 2024-04-27 |
+| [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 | 2024-01-29 |  |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-29 | 2024-02-25 |
 | [Yugoslavskiy Groove](https://open.spotify.com/track/0ouHWeg6AZtp5Gevot8B4m) | [Soft Blade](https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG) | [Softic](https://open.spotify.com/album/4NbqAiI9p6BzEvkGdSDcgI) | 4:04 | 2024-04-02 | 2024-04-04 |
 | [Ага, ну](https://open.spotify.com/track/0jeLXKyydn20d2IxSOIdYa) | [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Ага, ну](https://open.spotify.com/album/5FVyAdm8nI5mUEwWco8mPC) | 2:24 | 2024-05-09 | 2024-05-13 |
@@ -79,6 +79,7 @@
 | [БАС](https://open.spotify.com/track/43vEJEFIUdbxNOJehmIMLu) | [White Queen](https://open.spotify.com/artist/5p7nalNcqxK0NfexzkjTvs) | [БАС](https://open.spotify.com/album/1VLg4eFVRi8mxaSO0i06W9) | 1:52 | 2024-03-28 | 2024-04-05 |
 | [Бассок](https://open.spotify.com/track/4YxRxVKi7IYUOR5p7nsYcp) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 3:17 | 2024-04-06 | 2024-06-04 |
 | [Бетховен](https://open.spotify.com/track/6uK4mB7y8JHa87NuYxl3lQ) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 2:36 | 2024-04-06 | 2024-04-13 |
+| [БИЧЕС](https://open.spotify.com/track/0iWLbfz7ls2I2rzG3WlLuz) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Wipo](https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP) | [БИЧЕС](https://open.spotify.com/album/236GVpqYDi9bYFtHWC9UrZ) | 3:09 | 2024-06-07 |  |
 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 | 2024-05-20 |  |
 | [БРАТ](https://open.spotify.com/track/5998AmqMB04aCyNe92B0I7) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [БРАТ](https://open.spotify.com/album/0D0jRtbsXBdq5lBbgHwox7) | 1:36 | 2024-03-30 | 2024-04-01 |
 | [бэйслайн бизнес](https://open.spotify.com/track/7qndEgoazYMqEb6ooHKT3E) | [CMH](https://open.spotify.com/artist/4t8lDh2zuWn1d9cyJQkESe), [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD) | [бэйслайн бизнес](https://open.spotify.com/album/3NlzEnahSTXfCTDkWwQWC9) | 1:52 | 2024-06-03 |  |
@@ -125,7 +126,7 @@
 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 | 2024-05-23 |
 | [Монополия](https://open.spotify.com/track/2A2ltYcfg98g2oUkW1Xl86) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:37 | 2024-05-28 | 2024-06-02 |
 | [Моя девочка не верит мне](https://open.spotify.com/track/24loT1nK0uDc6wQ1Fjrng1) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Моя девочка не верит мне](https://open.spotify.com/album/3zA2K6nbV497Q337GDohnp) | 3:54 | 2024-04-27 | 2024-05-06 |
-| [Музыка](https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Музыка](https://open.spotify.com/album/019ObzKoY9F4A8NSLOLDra) | 2:24 | 2024-03-14 |  |
+| [Музыка](https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [Музыка](https://open.spotify.com/album/019ObzKoY9F4A8NSLOLDra) | 2:24 | 2024-03-14 | 2024-06-08 |
 | [На заре](https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU) | [Basta](https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H) | [На заре](https://open.spotify.com/album/0L83BLsfw7ftALYjVcOYmf) | 5:06 | 2024-01-29 | 2024-02-29 |
 | [На стол](https://open.spotify.com/track/3xWFh4THtkRjY2rSeookyK) | [LonelyStash](https://open.spotify.com/artist/2a8cXvjGFnJoXtGJN6NkoR), [Готлиб](https://open.spotify.com/artist/09rKYVR8DT7xM2V3CsD7SP) | [На стол](https://open.spotify.com/album/6aTdMS2zArvCEMbmdcjaDn) | 2:13 | 2024-05-31 |  |
 | [Не нужна](https://open.spotify.com/track/7IBHaN90t8OfkC6XHnfLj9) | [Heronwater](https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33) | [4 MONTHS NO SMOKE](https://open.spotify.com/album/1jZ1JncQIdNtRofQEhrMkf) | 2:40 | 2024-03-02 | 2024-03-04 |
@@ -171,7 +172,7 @@
 | [толстовка](https://open.spotify.com/track/79CYW9mDBGmCW4icaV4ITL) | [Mary Gu](https://open.spotify.com/artist/5w98ILth0uq2xi2am1vu5g), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [толстовка](https://open.spotify.com/album/6QlWE7hU9pIL4VrsSqvA0X) | 2:16 | 2024-02-03 | 2024-02-05 |
 | [ТЫ МЕНЯ РАЗЛЮБИ](https://open.spotify.com/track/3uo4UPVHxiVVLc2DjWKlnB) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [PSYCHEDELIC LOVE](https://open.spotify.com/album/3HOCSNvo6JGfDUuRzWssWe) | 1:51 | 2024-04-08 | 2024-04-30 |
 | [Ты так красива](https://open.spotify.com/track/73O5XIJJGhN7oFqkhffMi1) | [Quest Pistols](https://open.spotify.com/artist/21bKsZrHsq3UcdHgeaKH2l) | [The Best](https://open.spotify.com/album/10xHh7UDj8iGDNIMeurr4l) | 2:53 | 2024-01-29 | 2024-03-11 |
-| [У мамы есть секрет](https://open.spotify.com/track/1R9lVA21mGHXSsJ1LjbMSv) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:44 | 2024-05-27 |  |
+| [У мамы есть секрет](https://open.spotify.com/track/1R9lVA21mGHXSsJ1LjbMSv) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 2:44 | 2024-05-27 | 2024-06-08 |
 | [У мамы есть секрет](https://open.spotify.com/track/2d14PCvGkNZQ9oWzj27iBt) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [У мамы есть секрет](https://open.spotify.com/album/0d4DGxYF0uDiK2kl8BAnyC) | 2:44 | 2024-03-12 | 2024-03-15 |
 | [У меня свег, у меня стиль](https://open.spotify.com/track/0yieEy5KmWrGZZpijadoaX) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 1:47 | 2024-04-06 | 2024-04-08 |
 | [Универ](https://open.spotify.com/track/2ybOJtV8rIuktM8OXCNRV3) | [Baby Cute](https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc) | [Универ](https://open.spotify.com/album/2odHypry9PFeYEu72ROzJ2) | 1:57 | 2024-04-16 | 2024-04-19 |

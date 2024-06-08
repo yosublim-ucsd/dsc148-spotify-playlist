@@ -2,7 +2,7 @@
 
 ### [This Is Passion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MA8us)
 
-> This is Passion\. Todos os maiores hits em uma só playlist.
+> This is Passion\. The essential tracks, all in one playlist.
 
 94 songs - 8 hr 46 min
 

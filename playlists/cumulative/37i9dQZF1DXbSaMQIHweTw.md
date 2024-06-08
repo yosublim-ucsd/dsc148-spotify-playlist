@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Yashraj
 
-140 songs - 7 hr 34 min
+142 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Lonely](https://open.spotify.com/track/1LYB3WsXbT6pYrlEyFEQ0d) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w) | [Lonely](https://open.spotify.com/album/6k8yBB7gP23Bj9lGGJB0Et) | 3:34 | 2023-03-17 | 2023-04-25 |
 | [Maante Naahi Haar](https://open.spotify.com/track/6vXNKXDTkT2QDf6RtJqmWL) | [Minta](https://open.spotify.com/artist/7tda05HSCJgxnQLLqzfSNL), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MAANTE NAAHI HAAR](https://open.spotify.com/album/1KOyVm4Ej43o4mZTuW6Tlr) | 3:15 | 2023-03-17 | 2023-04-25 |
 | [MACHAYENGE 4](https://open.spotify.com/track/0TeH0rRFmef6eqk86MPyUA) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MACHAYENGE 4](https://open.spotify.com/album/0ceqAnBLEDesQ0leQZjDwz) | 10:05 | 2023-03-17 |  |
-| [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 |  |
+| [Masroor](https://open.spotify.com/track/4fKz9mqdGS6pqhv0F1VjGj) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Katoptris](https://open.spotify.com/artist/5Rtg50egrb0YqbkbNuxOgI) | [Masroor](https://open.spotify.com/album/28lPquTGiDRyQtWD1Wt9pJ) | 3:00 | 2023-07-04 | 2024-06-08 |
 | [Mazze Me](https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [Mazze Me](https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61) | 4:32 | 2023-03-17 | 2023-04-25 |
 | [Mehfooz](https://open.spotify.com/track/0ojrz3vVgmge8bGjnzZf5q) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 3:03 | 2024-02-07 |  |
 | [Mera](https://open.spotify.com/track/0hTqg0XBQqzVyyXKJzKAdF) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera](https://open.spotify.com/album/5tG8txHqfFoaVGep5gysrC) | 3:01 | 2023-03-17 | 2023-12-14 |
@@ -126,7 +126,7 @@
 | [Rx100](https://open.spotify.com/track/7i6WQRhgwXqWJ3CnpJIu0U) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/2SGg4AETclQYvFw0wT9tYW) | 5:20 | 2024-04-12 |  |
 | [Rx100](https://open.spotify.com/track/5coadHEWKzAeKK3Rp3PuoL) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/5XEnLwdHlMRvKequbRsQWt) | 5:28 | 2023-03-17 | 2024-04-19 |
 | [Samajh mein aaya kya?](https://open.spotify.com/track/2FcVvA6ltdOyvP4jUgOqfa) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Samajh mein aaya kya?](https://open.spotify.com/album/1FxCO5t2JevJGXQMgegUPK) | 4:33 | 2023-03-17 | 2024-04-19 |
-| [Sarvasva](https://open.spotify.com/track/5QIJhGo2jifLwIqrnkOYuz) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 2:43 | 2023-12-13 |  |
+| [Sarvasva](https://open.spotify.com/track/5QIJhGo2jifLwIqrnkOYuz) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 2:43 | 2023-12-13 | 2024-06-08 |
 | [Sath Mai](https://open.spotify.com/track/4oThKMygc8GyFYB82z8RAz) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Meme Machine](https://open.spotify.com/artist/08EMsXwlxsiyeC08Kjh2AS), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Sath Mai](https://open.spotify.com/album/6wlc1WXdX4kwGPCJ2hZBBe) | 3:17 | 2023-03-17 | 2023-10-23 |
 | [Satya](https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-17 |  |
 | [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-17 | 2023-08-04 |
@@ -136,8 +136,10 @@
 | [Shy](https://open.spotify.com/track/4oIAC4u2X5yti76y62twzs) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Shy](https://open.spotify.com/album/2DLeX2WeY7j5nQdJaRkAG6) | 2:49 | 2023-03-17 | 2024-01-20 |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2023-03-17 | 2023-04-25 |
 | [SOCH](https://open.spotify.com/track/6fexssu7i0gEbFcsm0U9ar) | [Dopeadelicz](https://open.spotify.com/artist/4HqaCsAhhMF8t4ExOwugpK), [Captain Fuse](https://open.spotify.com/artist/0k7mjIymx7jlsAvFziZk2W), [Dope Daddy](https://open.spotify.com/artist/6xuK3kfFTCwAzlKabusMfv) | [SOCH](https://open.spotify.com/album/748YA661UjhBabYijwUofu) | 3:10 | 2023-03-17 | 2023-04-25 |
+| [Talk Sick](https://open.spotify.com/track/5b0LdNlKEO11EfK2g23yeS) | [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Talk Sick](https://open.spotify.com/album/0AwaspSTBbiJKVcMZfPhjN) | 2:26 | 2024-06-07 |  |
 | [Thanks To My Haters](https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Thanks To My Haters](https://open.spotify.com/album/2zm6kuDvtaNiSxLlvEQkBX) | 2:46 | 2023-03-17 |  |
 | [That's How I Feel](https://open.spotify.com/track/6YO7q7qgFdDi4CtZq3vx5p) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [That's How I Feel](https://open.spotify.com/album/5pYcqsHfiXZYBeDv91WUZr) | 3:43 | 2023-03-17 | 2023-04-25 |
+| [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2024-06-07 |  |
 | [Top 5 D.O.A.](https://open.spotify.com/track/6357zclmWj0t0ZQj7Uo7Zl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 2:08 | 2023-03-17 | 2023-04-25 |
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2024-04-12 |  |
 | [Traffic Jam](https://open.spotify.com/track/5TFA0lRV0EtscGYI1784PL) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 3:31 | 2023-04-24 |  |

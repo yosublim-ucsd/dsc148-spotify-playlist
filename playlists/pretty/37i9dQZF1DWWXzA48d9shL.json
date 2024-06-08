@@ -1,13 +1,29 @@
 {
   "description": "Rap from hell. Cover: $uicideboy$",
-  "num_followers": 586569,
+  "num_followers": 586640,
   "original_name": "TIRADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl0vzwAAAADMVchD3fvkcEN7KJkqsncU",
+  "snapshot_id": "ZmKT0AAAAADQpySY35fNMBlHR4YM4Rxm",
   "tracks": [
+    {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
+        "name": "Plenty Guns",
+        "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 86928,
+      "name": "Plenty Guns",
+      "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
+    },
     {
       "added_at": "2024-05-24 05:00:00",
       "album": {
@@ -65,6 +81,26 @@
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
     },
     {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
+        "name": "PACKAPUNCH (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/1ETJcxo3S1uC4AmGI1aq1R"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 180580,
+      "name": "PACKAPUNCH (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/3bZXzHX8CkbMytaM3VGY3e"
+    },
+    {
       "added_at": "2024-05-24 05:00:00",
       "album": {
         "name": "BULLY",
@@ -115,6 +151,22 @@
       "duration_ms": 130682,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/2NE8pVJOkEsmPwSRDE6d2h"
+    },
+    {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
+        "name": "BLAME GAME",
+        "url": "https://open.spotify.com/album/0d7agnfE8Rh8gSTQVIso0U"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "BLAME GAME",
+      "url": "https://open.spotify.com/track/2kXZv8aJh8LVn1FxzSDPtp"
     },
     {
       "added_at": "2024-04-26 18:40:13",
@@ -1759,58 +1811,6 @@
       "duration_ms": 156658,
       "name": "Out Bound",
       "url": "https://open.spotify.com/track/743lAvxFeQ4urSb4Cy9eWV"
-    },
-    {
-      "added_at": "2023-06-30 07:33:00",
-      "album": {
-        "name": "HOLD THE MONEY",
-        "url": "https://open.spotify.com/album/6tuhCrlbC6l80USBMAWhJO"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 121966,
-      "name": "HOLD THE MONEY",
-      "url": "https://open.spotify.com/track/0IDnmk7esQTYWVbErDdJ7V"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "C\u00d8NE GANG TRAP",
-        "url": "https://open.spotify.com/album/1dYoO4BOW0EyuOqth0kF7E"
-      },
-      "artists": [
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        }
-      ],
-      "duration_ms": 117226,
-      "name": "C\u00d8NE GANG TRAP",
-      "url": "https://open.spotify.com/track/2ppWCAqL9rOeZPTnzqmaos"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "AFTERLIFE",
-        "url": "https://open.spotify.com/album/2hppa3RA8eRwtDStjZYqIF"
-      },
-      "artists": [
-        {
-          "name": "NIKKO",
-          "url": "https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC"
-        },
-        {
-          "name": "LxrdMxrty",
-          "url": "https://open.spotify.com/artist/2kZfdYwevTt4ohkARKl1Ql"
-        }
-      ],
-      "duration_ms": 127927,
-      "name": "AFTERLIFE",
-      "url": "https://open.spotify.com/track/3yM8pCJKpCuODNOf2aMRf7"
     }
   ],
   "unique_name": "TIRADE",

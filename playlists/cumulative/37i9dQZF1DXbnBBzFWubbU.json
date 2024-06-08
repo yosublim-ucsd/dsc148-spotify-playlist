@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Aaja",
+        "url": "https://open.spotify.com/album/37iXz5nyJJViHWbP3YFT4K"
+      },
+      "artists": [
+        {
+          "name": "Kahani",
+          "url": "https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb"
+        },
+        {
+          "name": "Anvaya",
+          "url": "https://open.spotify.com/artist/5Xmtvg99J5F7maYz0LpzKA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309843,
+      "name": "Aaja",
+      "url": "https://open.spotify.com/track/4K4nj54UdKtLMVkZxzngQK"
+    },
+    {
+      "album": {
         "name": "Aayati",
         "url": "https://open.spotify.com/album/24JdrtJs3tRUuHbQb71CWU"
       },
@@ -196,7 +218,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 538646,
       "name": "Balajori - Original Mix",
       "url": "https://open.spotify.com/track/0B1O9EgzkSTTPO3C7vG3qf"
@@ -646,7 +668,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 422000,
       "name": "Fly to India",
       "url": "https://open.spotify.com/track/6HTqqZKIFCashy9aoCi6qf"
@@ -1376,7 +1398,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 366253,
       "name": "MII (Made in India)",
       "url": "https://open.spotify.com/track/3ClRtctsBVNzN1STka61c1"
@@ -2189,6 +2211,28 @@
     },
     {
       "album": {
+        "name": "Sanson Ki Mala (RxB Edit)",
+        "url": "https://open.spotify.com/album/6kG4Q8xGqvwiXt9z6lJDpm"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130841,
+      "name": "Sanson Ki Mala - RxB Edit",
+      "url": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
+    },
+    {
+      "album": {
         "name": "Sauda",
         "url": "https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F"
       },
@@ -2404,6 +2448,36 @@
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
+    },
+    {
+      "album": {
+        "name": "TAKA (Taiki Nulight Remix)",
+        "url": "https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "TAKA - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
     },
     {
       "album": {

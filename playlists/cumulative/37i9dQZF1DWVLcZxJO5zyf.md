@@ -2,7 +2,7 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Agnes Nunes
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: IZA ❤️ Yuri
 
 296 songs - 13 hr 49 min
 

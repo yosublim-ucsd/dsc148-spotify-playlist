@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 387160,
       "name": "Baby, We're Ascending",
       "url": "https://open.spotify.com/track/3Nn6tQg6gYqCMZR0IpiiFJ"
@@ -7280,7 +7280,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 202931,
       "name": "I Hope You're Not Sleeping as Tightly as You Used to Be",
       "url": "https://open.spotify.com/track/5MIAzuX3MRkFJSf8Od4Dyy"
@@ -13049,6 +13049,24 @@
     },
     {
       "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/6WKtIzf5m5Gw8YVuXIph4v"
+      },
+      "artists": [
+        {
+          "name": "Elskavon",
+          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244893,
+      "name": "See Out Loud",
+      "url": "https://open.spotify.com/track/7j7Nf0friRoOV82W4k0CGd"
+    },
+    {
+      "album": {
         "name": "Futurist",
         "url": "https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9"
       },
@@ -15472,7 +15490,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 161951,
       "name": "The Last Dance - Synthapella",
       "url": "https://open.spotify.com/track/5aK6dgeUUB12XBgOryteAa"

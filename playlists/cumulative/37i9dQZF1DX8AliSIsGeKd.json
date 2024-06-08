@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 261428,
       "name": "A Long Time Coming",
       "url": "https://open.spotify.com/track/6eyy2xtkc6PutlL34VAeW8"
@@ -17840,7 +17840,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 292173,
       "name": "Drum Control",
       "url": "https://open.spotify.com/track/7wkx2AEsHeNAlnMZZD3rKB"
@@ -52595,6 +52595,24 @@
     },
     {
       "album": {
+        "name": "Retro Traveler",
+        "url": "https://open.spotify.com/album/6yWND5SdTfgbv7dgU8wxqa"
+      },
+      "artists": [
+        {
+          "name": "Flanko",
+          "url": "https://open.spotify.com/artist/45g5ClZMjUBX1qwQBSs843"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257538,
+      "name": "Retro Traveler",
+      "url": "https://open.spotify.com/track/7JxWu3bzRJjzCyiBooGZze"
+    },
+    {
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/0CuxBmp55XXHt3aBW3ev8M"
       },
@@ -55394,6 +55412,28 @@
       "duration_ms": 305199,
       "name": "SEX IN THE MACHINE TAKE 2",
       "url": "https://open.spotify.com/track/47WI22Vgwqm3LGxhAprPEI"
+    },
+    {
+      "album": {
+        "name": "sexo no tradicional",
+        "url": "https://open.spotify.com/album/7qCzV3c96bqQJEyK3pDx0o"
+      },
+      "artists": [
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147910,
+      "name": "sexo no tradicional",
+      "url": "https://open.spotify.com/track/0CMHfKO0BEyhhFfDSHfqqV"
     },
     {
       "album": {

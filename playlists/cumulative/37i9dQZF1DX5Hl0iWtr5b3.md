@@ -4,7 +4,7 @@
 
 > Even a wallflower can bloom...Listen to the music from Bridgerton, new season now streaming on Netflix.
 
-103 songs - 5 hr 22 min
+104 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Love Based on Friendship](https://open.spotify.com/track/465AIYmN1MtioHOxhw5YAV) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 4:19 | 2022-03-25 |  |
 | [abcdefu](https://open.spotify.com/track/1EWYwWJs8oa2oZnl6WUG5q) | [Vitula](https://open.spotify.com/artist/3ceAuexnCz3CpRRLqDI3jG) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:53 | 2024-05-16 |  |
 | [Accidental Eavesdropping \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/5SuINKcJeJOUcNjR28LZQi) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb) | 2:18 | 2022-03-25 |  |
+| [All I Want \(from the Netflix Series "Bridgerton"\)](https://open.spotify.com/track/4uuVa7YG5n5QxdVN2XM7hx) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All I Want \(from the Netflix Series "Bridgerton"\)](https://open.spotify.com/album/4HJ1f1jfoIzcfHTdKfbgA8) | 3:04 | 2024-06-07 |  |
 | [All is Fair in Love and War](https://open.spotify.com/track/1CnU8JfCkvgSE9bcLjfxpb) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 2:20 | 2022-03-25 |  |
 | [Almost Break Down](https://open.spotify.com/track/6LD9JOG2mCfJkFdBqoAf4Z) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:37 | 2023-05-04 |  |
 | [Almost Kiss](https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 1:23 | 2023-05-04 |  |

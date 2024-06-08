@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Basslevel",
+        "url": "https://open.spotify.com/album/2OdHr6Qn8JmGrLaFcZ4w5i"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Basslevel",
+      "url": "https://open.spotify.com/track/2BbacBpFmPnpeDmzNKbxfM"
+    },
+    {
+      "album": {
         "name": "Bassline Rumble",
         "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
@@ -1873,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Body To The Beat",
+        "url": "https://open.spotify.com/album/7qUkn7eWn3sZTnYJA3ffs4"
+      },
+      "artists": [
+        {
+          "name": "Riggi & Piros",
+          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139687,
+      "name": "Body To The Beat",
+      "url": "https://open.spotify.com/track/01a8kndu3BGQOBvMJk9HHK"
+    },
+    {
+      "album": {
         "name": "Bodymorph",
         "url": "https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3"
       },
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 144400,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1pSmm42A3SSpoUKBcFWHia"
@@ -2848,6 +2884,24 @@
       "duration_ms": 165445,
       "name": "Chamas",
       "url": "https://open.spotify.com/track/5DI4LqsvoASl2UELkJJaM9"
+    },
+    {
+      "album": {
+        "name": "Champion's Tune",
+        "url": "https://open.spotify.com/album/5lO0QbZmwDm5Pq2XousP6y"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Champion's Tune",
+      "url": "https://open.spotify.com/track/6dkQh144XcNRyK1THk31Pr"
     },
     {
       "album": {
@@ -4027,6 +4081,32 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/7CBxY0YrMMgsfPiYocqZr0"
+      },
+      "artists": [
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Kalan",
+          "url": "https://open.spotify.com/artist/7lqqUECLiWd1mDiG9cvQte"
+        },
+        {
+          "name": "Dashi",
+          "url": "https://open.spotify.com/artist/6cW18waxZ7bAWuNHbvGfQr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3k6j6cF5GmXRxd97YRlnE5"
+    },
+    {
+      "album": {
         "name": "Don't Talk To Me",
         "url": "https://open.spotify.com/album/0dnWVPoq8FCEjAlxNNWBX0"
       },
@@ -4330,7 +4410,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 192755,
       "name": "Dropping It",
       "url": "https://open.spotify.com/track/0WheKDBrHJ1IYJbhMncC5M"
@@ -10837,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "Pete On The Beat",
+        "url": "https://open.spotify.com/album/0vYjjG1C4LT3BG8rWllSzB"
+      },
+      "artists": [
+        {
+          "name": "Peter Kristensen",
+          "url": "https://open.spotify.com/artist/0yNS4ajB10O4Y2eA26ZM62"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187548,
+      "name": "Pete On The Beat",
+      "url": "https://open.spotify.com/track/29tAzclQs0eoZKNQgpVu09"
+    },
+    {
+      "album": {
         "name": "Pick Your Battles (Malaa Remix)",
         "url": "https://open.spotify.com/album/4qs4lxuG4zMkCQv1HL90Pb"
       },
@@ -11018,7 +11116,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 156190,
       "name": "Premeditated",
       "url": "https://open.spotify.com/track/0igfVSUP1TH7a9JIub36dY"
@@ -12059,6 +12157,28 @@
     },
     {
       "album": {
+        "name": "Run It Now",
+        "url": "https://open.spotify.com/album/5SA0TEs3ngH3BejswgvfNO"
+      },
+      "artists": [
+        {
+          "name": "Triple M",
+          "url": "https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT"
+        },
+        {
+          "name": "Blanee",
+          "url": "https://open.spotify.com/artist/7zCLvxAS1MLWRfXrXsBBB1"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Run It Now",
+      "url": "https://open.spotify.com/track/51RyFJOz0BbV979nxqDgvq"
+    },
+    {
+      "album": {
         "name": "RUNRUNRUN",
         "url": "https://open.spotify.com/album/29p8VgOkPJyTlZm7wQCGBW"
       },
@@ -12688,7 +12808,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 146000,
       "name": "SKELETON",
       "url": "https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA"
@@ -13746,7 +13866,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 176160,
       "name": "Ten Outta Ten",
       "url": "https://open.spotify.com/track/1qXUDkT5NiiwkK4T0FLYPt"
@@ -14518,7 +14638,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 149620,
       "name": "Tudum",
       "url": "https://open.spotify.com/track/5fSJFW86f6OZcmgjSlvZnS"

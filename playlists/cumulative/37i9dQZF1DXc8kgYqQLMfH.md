@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,157 songs - 1 day 19 hr 58 min
+1,158 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2021-11-10 | 2022-06-10 |
 | [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 |  |
 | [Cotton Cloud](https://open.spotify.com/track/0MF8Kt0jkvQAyGHumTc7CF) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Cotton Cloud](https://open.spotify.com/album/7jWSbj1bC222IlvFNTnosl) | 1:44 | 2023-02-17 |  |
-| [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 |  |
+| [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 | 2024-06-08 |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-11-10 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Cozy](https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5) | 2:28 | 2024-01-05 |  |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-12-08 |  |
@@ -762,6 +762,7 @@
 | [one step forward](https://open.spotify.com/track/4mHudJSC8ivQasfZIfFTRf) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [one step forward](https://open.spotify.com/album/7DseOJb5JvfjJiPyOaQJph) | 1:57 | 2022-05-13 | 2022-06-03 |
 | [One Way Ticket](https://open.spotify.com/track/1H4EVMTQldlyudpTIeNcR5) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [One Way Ticket](https://open.spotify.com/album/25fkF9nrzIabYIFBPqGpQQ) | 2:35 | 2022-07-29 | 2023-10-06 |
 | [one with the cube](https://open.spotify.com/track/4rYpweh6x3xGOKejHZOFLp) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [one with the cube](https://open.spotify.com/album/6HSEIuuQtNFbkqExwuu23m) | 2:06 | 2024-03-08 |  |
+| [Only Rain](https://open.spotify.com/track/2vaUnU3VBm2nQSBRRsvq8v) | [Violet Blanca](https://open.spotify.com/artist/2CeqZvB8v9HCGr2tVb42rj) | [Only Rain](https://open.spotify.com/album/2EyIiOcne80XZXClTQHHxe) | 2:17 | 2024-06-05 |  |
 | [Open Sea](https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Blocks EP](https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx) | 2:33 | 2023-09-29 |  |
 | [Opportunities](https://open.spotify.com/track/19jQGguVuGIFbMwltSUXee) | [Neo Era](https://open.spotify.com/artist/1Lczbyf24WccxMnd8Hj3qv) | [Opportunities](https://open.spotify.com/album/2N1dSFAThl6KmhoeZb9FAm) | 1:49 | 2023-05-19 |  |
 | [Orpheus](https://open.spotify.com/track/1T4FNr8eF3p4iVaHrjBGho) | [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Orpheus](https://open.spotify.com/album/5xW5OxzMG4n9efdkKgoxrT) | 2:48 | 2022-04-08 | 2022-12-10 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "10 to the Power",
+        "url": "https://open.spotify.com/album/0AKBLE99drUHK0BykqKNRh"
+      },
+      "artists": [
+        {
+          "name": "Cobi",
+          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "10 to the Power",
+      "url": "https://open.spotify.com/track/6hUN9ySJPJduHJKNB9ut0t"
+    },
+    {
+      "album": {
         "name": "3AM in Chicago",
         "url": "https://open.spotify.com/album/23VUe5ASQwqXtLWhMQgTpe"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 224680,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/17QfmXLHBHOJJqZV6eZSJO"
@@ -1420,6 +1438,24 @@
       "duration_ms": 278453,
       "name": "Dreaming Out Loud [Feat. Ivan Neville, Ruthie Foster]",
       "url": "https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK"
+    },
+    {
+      "album": {
+        "name": "Heavy Soul",
+        "url": "https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "Drowning In A Sea Of Love",
+      "url": "https://open.spotify.com/track/6dPOyhHhA1riKYN1Jh6b8j"
     },
     {
       "album": {
@@ -4516,7 +4552,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 209200,
       "name": "Sugar Man",
       "url": "https://open.spotify.com/track/0fxPI5BMCQYo0nPV7ysef4"

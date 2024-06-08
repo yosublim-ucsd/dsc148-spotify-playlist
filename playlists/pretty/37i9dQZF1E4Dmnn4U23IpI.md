@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [Radio The Midnight](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Timecop1983, Kalax and more
+> Avec FM\-84, Timecop1983, Kalax et bien d'autres artistes
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,708 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,713 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 |
 | 50 | [Wanting More](https://open.spotify.com/track/5aAEK6raY3K0S02HeKtCsO) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm) | [Unstable](https://open.spotify.com/album/0RTR4xxBltSYLonGGzZ6Y0) | 4:28 |
 
-Snapshot ID: `ZmJ4MQAAAADLlcqRhMJnfkCRKsC5B1sq`
+Snapshot ID: `ZmPHTQAAAACEqp2tBRBi7ZBIczvI776R`

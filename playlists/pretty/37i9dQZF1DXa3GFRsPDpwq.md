@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3GFRsPDpwq.md) - [plain]
 
 > This is Rkive of RM 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,475 likes - 47 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,792 likes - 47 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 |
-| 2 | [Nuts](https://open.spotify.com/track/2sR1e5YFAvXVN6EiIwR2is) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:14 |
-| 3 | [out of love](https://open.spotify.com/track/7zC89ef9MMffAGCnDMsatc) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 2:07 |
-| 4 | [Domodachi \(feat\. Little Simz\)](https://open.spotify.com/track/4MQBnk52HKbl59BX497xhM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:04 |
-| 5 | [? \(Interlude\)](https://open.spotify.com/track/6o5y1iNvg3ORGfHtBEB8U4) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:53 |
-| 6 | [Groin](https://open.spotify.com/track/4kBr5XX61vLb4tejJajOT8) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:10 |
-| 7 | [Heaven](https://open.spotify.com/track/1B9HE8h6ZnljGk0LZ2H30D) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:14 |
-| 8 | [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 |
+| 1 | [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 |
+| 2 | [Right People, Wrong Place](https://open.spotify.com/track/2ftb45L7iXYwp0WoTEuslG) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:57 |
+| 3 | [Nuts](https://open.spotify.com/track/2sR1e5YFAvXVN6EiIwR2is) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:14 |
+| 4 | [out of love](https://open.spotify.com/track/7zC89ef9MMffAGCnDMsatc) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 2:07 |
+| 5 | [Domodachi \(feat\. Little Simz\)](https://open.spotify.com/track/4MQBnk52HKbl59BX497xhM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:04 |
+| 6 | [? \(Interlude\)](https://open.spotify.com/track/6o5y1iNvg3ORGfHtBEB8U4) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:53 |
+| 7 | [Groin](https://open.spotify.com/track/4kBr5XX61vLb4tejJajOT8) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:10 |
+| 8 | [Heaven](https://open.spotify.com/track/1B9HE8h6ZnljGk0LZ2H30D) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:14 |
 | 9 | [Around the world in a day \(feat\. Moses Sumney\)](https://open.spotify.com/track/0AncHqGegHhP6teMUwLRWr) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 4:17 |
 | 10 | [ㅠㅠ \(Credit Roll\)](https://open.spotify.com/track/59KQAhHozpW5Tl6CbS1nMH) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 1:14 |
 | 11 | [Come back to me](https://open.spotify.com/track/62HKW77nt6tudsIHXT2A0M) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 6:28 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3GFRsPDpwq.md) - [plain]
 | 46 | [Buckubucku \(Feat\. EE, RM Of BTS, Dino\-J\)](https://open.spotify.com/track/4e3DIkvwzyWu3ZpZFZJb5o) | [MFBTY](https://open.spotify.com/artist/0YplwoXhpH25C92IduQ6RK), [EE](https://open.spotify.com/artist/4CzDpmJ3sq9cUDMX0p1g3E), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Dino\-J](https://open.spotify.com/artist/7EZqgfXkH28R2lDju3Shk5) | [WondaLand](https://open.spotify.com/album/58CvWtN9NU9MS80uPB026O) | 4:14 |
 | 47 | [A Song Make to You Smile](https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:09 |
 
-Snapshot ID: `ZlAkaAAAAAB2vKiQBLCDROtMSM6Do2hk`
+Snapshot ID: `ZmKLIQAAAABnpcjMWFjzm0DUJb3ikD5t`

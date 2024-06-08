@@ -29865,6 +29865,24 @@
     },
     {
       "album": {
+        "name": "THIRST TRAP",
+        "url": "https://open.spotify.com/album/4bdVPyx7blCAjl8YuaeSSk"
+      },
+      "artists": [
+        {
+          "name": "trxvis",
+          "url": "https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "THIRST TRAP",
+      "url": "https://open.spotify.com/track/61P6BhnejIQ0pzFnZdsTI0"
+    },
+    {
+      "album": {
         "name": "This Day",
         "url": "https://open.spotify.com/album/03KTsxpRk9Na5n1g8D6akw"
       },

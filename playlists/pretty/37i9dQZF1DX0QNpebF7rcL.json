@@ -1,13 +1,65 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 57256,
+  "num_followers": 57265,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAAAQw2byDZKozWrZU8Lq6klv",
+  "snapshot_id": "ZmKFwAAAAADBu6jJD/qtHEcBvw7HUBNx",
   "tracks": [
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Shut Up & Play!",
+        "url": "https://open.spotify.com/album/2gW9afujHnMJH3XSKullg1"
+      },
+      "artists": [
+        {
+          "name": "Toronzo Cannon",
+          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "I Hate Love",
+      "url": "https://open.spotify.com/track/7FPgVDH2V3uIX61q6Au8yN"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Struck Down By The Blues",
+        "url": "https://open.spotify.com/album/16zh4gBk2anspUfkCel3bW"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        },
+        {
+          "name": "Steve Strongman",
+          "url": "https://open.spotify.com/artist/07oB8UBTSptGWz3tu5nIVG"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Struck Down By The Blues (ft. Steve Strongman)",
+      "url": "https://open.spotify.com/track/18Mcw52EAQRlA4awyJby3r"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "A Trip A Stumble A Fall Down On Your Knees",
+        "url": "https://open.spotify.com/album/0hlGgruCrAt6S7O28tnhxv"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "Move to the Country",
+      "url": "https://open.spotify.com/track/5HbUq35R8wh1HYDlv0REwj"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -61,24 +113,20 @@
       "url": "https://open.spotify.com/track/72nKlhl1q9s7yCuP5DixYc"
     },
     {
-      "added_at": "2024-05-03 04:01:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Payback Time",
-        "url": "https://open.spotify.com/album/5TzbIVQa4RyUUtqIZILlvK"
+        "name": "Bayport BBQ Blues",
+        "url": "https://open.spotify.com/album/1xXqW6V7aVyaTaAM5gv0dU"
       },
       "artists": [
         {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        },
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+          "name": "Left Lane Cruiser",
+          "url": "https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Payback Time (ft. Billy Gibbons)",
-      "url": "https://open.spotify.com/track/1S129VbPDmmyHxYwYuwPqz"
+      "duration_ms": 258293,
+      "name": "River Picker",
+      "url": "https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -179,22 +227,6 @@
       "duration_ms": 229603,
       "name": "Human Decency",
       "url": "https://open.spotify.com/track/6FJuXe1j7UcQQmGKRoCtu4"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Internet Cowboys",
-        "url": "https://open.spotify.com/album/5GkHtJyAuPkBpANfyDOx3i"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "Internet Cowboys",
-      "url": "https://open.spotify.com/track/0Q9T0EmJqzr0zc02fZopUx"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1649,22 +1681,6 @@
       "url": "https://open.spotify.com/track/6y1Yxs016r9gSsZhBKszjW"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/68ZhKv7M3s5NGqIsdVQfQC"
-      },
-      "artists": [
-        {
-          "name": "Dana Fuchs",
-          "url": "https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "Livin' for the Ones",
@@ -1695,22 +1711,6 @@
       "duration_ms": 275957,
       "name": "Healing Time",
       "url": "https://open.spotify.com/track/1TnboUz1hVeZvqubDBQcHM"
-    },
-    {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Stagger Lee",
-        "url": "https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 155336,
-      "name": "Stagger Lee",
-      "url": "https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5"
     },
     {
       "added_at": "2022-04-05 19:11:05",

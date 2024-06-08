@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: La T y La M.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama, Migrantes & Flor Alvarez.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 532520,
       "name": "En Este Mundo / Ahora Regresas / Has Vuelto Mi Amor / Vuelve Mi Amor / Una Noche Mas / Regresa Mi Amor / La Que Me Pudo Enamorar",
       "url": "https://open.spotify.com/track/74RDHWgZXQcTGPQGwTyKZL"
@@ -3536,7 +3536,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 132568,
       "name": "Fui Feliz",
       "url": "https://open.spotify.com/track/6iRpzyn7D8K6Vw1EWVxanV"
@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 145056,
       "name": "La Dif\u00edcil",
       "url": "https://open.spotify.com/track/2tgImTwBcW1lOWRaUYUUx2"
@@ -4392,7 +4392,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 113427,
       "name": "LA NOCHE ME LLAMA",
       "url": "https://open.spotify.com/track/2QAlRJvK7NxJkVAC6YrhHX"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 151623,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT"
@@ -6483,6 +6483,32 @@
     },
     {
       "album": {
+        "name": "No Te Vayas (Remix)",
+        "url": "https://open.spotify.com/album/78XsJ5qvHNxyvXGUm18FPm"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "No Te Vayas - Remix",
+      "url": "https://open.spotify.com/track/1owmQGMgruRHTIQLGFCoEz"
+    },
+    {
+      "album": {
         "name": "No vas a cambiar",
         "url": "https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz"
       },
@@ -6678,7 +6704,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 135935,
       "name": "Nos Cruzamos - Remix",
       "url": "https://open.spotify.com/track/32DYZt0ENPQd7eZSn3FRaI"
@@ -6770,6 +6796,40 @@
       "duration_ms": 156097,
       "name": "Olvidate de Mi",
       "url": "https://open.spotify.com/track/7IiFMffmFIZQxqy6WuABkm"
+    },
+    {
+      "album": {
+        "name": "OTRA COPA M\u00c1S",
+        "url": "https://open.spotify.com/album/3vCusuv3lCOWNDm80NF9gm"
+      },
+      "artists": [
+        {
+          "name": "AGUI",
+          "url": "https://open.spotify.com/artist/1VjZe744ub9n8wqpe1CuzS"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158928,
+      "name": "OTRA COPA M\u00c1S",
+      "url": "https://open.spotify.com/track/0F5FCL8GDttbCy97UusxHx"
     },
     {
       "album": {
@@ -7174,7 +7234,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 296254,
       "name": "Persia / YO SE QUE TU / Millonario",
       "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
@@ -7778,7 +7838,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
@@ -8832,7 +8892,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 326437,
       "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
       "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
@@ -8894,7 +8954,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 177692,
       "name": "Tal Vez - Remix",
       "url": "https://open.spotify.com/track/0pzh7NqiJH9ETXAWaNMM4b"
@@ -9108,7 +9168,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 154912,
       "name": "Te Mentir\u00eda",
       "url": "https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk"
@@ -10090,7 +10150,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 164329,
       "name": "Un Segundo",
       "url": "https://open.spotify.com/track/6Y2kcA3zgF7NMlhqzSbtP9"
@@ -10872,7 +10932,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 140426,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH"
@@ -11066,7 +11126,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 128000,
       "name": "YO SE QUE ME AMAS I E15",
       "url": "https://open.spotify.com/track/1M86SXO8DVWzdtik3rnfSF"

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ammy Virk
 
-862 songs - 1 day 22 hr 52 min
+863 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,7 +737,7 @@
 | [SURREY AALE](https://open.spotify.com/track/37lPezjU5ZTTh0H06HEFKb) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [Karan Bhargava](https://open.spotify.com/artist/1YQWIIZgIWVP83VtNCAQRJ), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [SURREY AALE](https://open.spotify.com/album/1uoe77MG97LmOgFlNwM5Uf) | 2:22 | 2022-01-10 | 2022-02-01 |
 | [Sweet Teri Smile](https://open.spotify.com/track/0FzcmRE2A4IHVxxZl2zYZr) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2) | [Sweet Teri Smile](https://open.spotify.com/album/79Jh4jb1oHDu0xfhOHnby8) | 2:29 | 2022-04-25 | 2022-05-11 |
 | [Swipe Right Material](https://open.spotify.com/track/1iqvIcsgUfOGuqSltgPfQY) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Swipe Right Material](https://open.spotify.com/album/5PVTBm7DZXOXBfKdkDVFVN) | 3:23 | 2022-02-07 | 2022-02-12 |
-| [Taare](https://open.spotify.com/track/1T6916xSLOXuWyPUGwHVJ3) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Taare](https://open.spotify.com/album/6Jd2maQaN17DVeaoTzBD3O) | 3:21 | 2024-05-27 |  |
+| [Taare](https://open.spotify.com/track/1T6916xSLOXuWyPUGwHVJ3) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Taare](https://open.spotify.com/album/6Jd2maQaN17DVeaoTzBD3O) | 3:21 | 2024-05-27 | 2024-06-08 |
 | [Taare](https://open.spotify.com/track/7dWGTOqoWAXG8UbBb3Bmrj) | [Gitaz Bindrakhia](https://open.spotify.com/artist/7ezmUPZODtZdTK2Iu5TOVM), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix) | [Taare](https://open.spotify.com/album/4WFBtYtbUy2Z5xRLC48nNe) | 3:18 | 2022-03-15 | 2022-04-06 |
 | [Taare](https://open.spotify.com/track/3oWoAZ0Pe8PsI4A5SVVF3A) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Taare](https://open.spotify.com/album/0jwE7wNAlVPDUxem6bUXJ7) | 3:11 | 2024-04-01 |  |
 | [Taareyan Toh Paar](https://open.spotify.com/track/3qrK5TIkUbNxAUfATciMyt) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Main Viyah Nahi Karona Tere Naal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5q9U1dmh17HFjgwEwNdsGH) | 3:10 | 2022-11-09 | 2022-11-13 |
@@ -745,6 +745,7 @@
 | [Taareyan Toh Paar \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/5rjjXeJizYVzCFdYUkDHXC) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daoud Music](https://open.spotify.com/artist/25GIbgESjRMJaCTFjSK7e0) | [Taareyan Toh Paar \(From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/6gBteY722GhCnAi1Ac7Dmz) | 3:10 | 2022-07-28 | 2023-02-02 |
 | [Tabiat](https://open.spotify.com/track/7pBrCHgaC8Sch4TYuvOQDY) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 2:40 | 2022-01-10 | 2022-02-01 |
 | [Tainu Bhulna](https://open.spotify.com/track/2hdWOFAT1FUikzqnT7cXkd) | [Simar Dorraha](https://open.spotify.com/artist/4jHC6uvANw9rlBKFyWpzat), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Tainu Bhulna](https://open.spotify.com/album/7IBdGjJAN4CJRlI124AeLE) | 4:09 | 2022-06-30 | 2022-07-06 |
+| [Tainu Khabar Nahi \- From "Munjya"](https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tainu Khabar Nahi \(From "Munjya"\)](https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ) | 3:08 | 2024-06-07 |  |
 | [Tainu Milke](https://open.spotify.com/track/7gYoV5thU5R3iKUeerwdKs) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Tainu Milke](https://open.spotify.com/album/01GtPL35C6OwVPrNTCUR6M) | 3:27 | 2022-04-27 | 2022-07-06 |
 | [Takda Rava](https://open.spotify.com/track/07RmHcfHXMoouyEL9cRnN4) | [Da Banotra](https://open.spotify.com/artist/6qA494Mxl9DGij4HZmK9aH) | [Takda Rava](https://open.spotify.com/album/1L0mD1Fyyqu7OZwtIfaeK8) | 4:04 | 2022-04-04 | 2022-05-11 |
 | [Tareef](https://open.spotify.com/track/0S1Qsd33jxP2Q9TTuup4z6) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Tareef](https://open.spotify.com/album/2eje9luFSp6mQgP5oNyYLE) | 2:28 | 2022-06-23 | 2022-07-12 |

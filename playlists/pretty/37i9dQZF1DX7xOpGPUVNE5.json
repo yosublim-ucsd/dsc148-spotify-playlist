@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 180717,
-      "name": "Crowd Go Crazy",
-      "url": "https://open.spotify.com/track/0W58ZzQFWaZgRkKIbSFjde"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 244020,
       "name": "Best Thing Ever",
       "url": "https://open.spotify.com/track/28NUh4A55zjrDyW744dj4E"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
+        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 180717,
+      "name": "Crowd Go Crazy",
+      "url": "https://open.spotify.com/track/0W58ZzQFWaZgRkKIbSFjde"
     },
     {
       "added_at": "2023-08-18 10:08:43",

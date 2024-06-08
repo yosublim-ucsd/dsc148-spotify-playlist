@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Yeri Kang\(강예리\)\)
+> All about Korean Jazz hits & new \(Cover: Ahn Ye Sol\(안예솔\)\)
 
-188 songs - 13 hr 41 min
+192 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Snowy Field](https://open.spotify.com/track/1kjUqt4vCCjPgkEUM0cV81) | [LCY Project](https://open.spotify.com/artist/6X9H0aP7HNL2RKH6XKIX1i) | [A Snowy Field](https://open.spotify.com/album/1SOhk2ch54jORDdG7ZtPjv) | 3:24 | 2024-04-18 |  |
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 |  |
 | [actually i\`m from jazz](https://open.spotify.com/track/0r4ko5ssD3NFWed4YimMbW) | [Coa White](https://open.spotify.com/artist/6pE3JDwvWDbjv1TqLRDjiP) | [actually i\`m from jazz](https://open.spotify.com/album/1LoAeJfQAX6xh8jgXzRgwu) | 4:23 | 2023-02-07 |  |
+| [Align](https://open.spotify.com/track/1XiZbsFnjl1aKwNEpCVQCd) | [안예솔](https://open.spotify.com/artist/3OqUywgeOGuCnfA8P2XlKB) | [Align](https://open.spotify.com/album/3f1jSHpnppamEsMTYJYId8) | 5:35 | 2024-06-07 |  |
 | [Annual plant](https://open.spotify.com/track/3Odx622SRpsHSylBSbfsaw) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/0fa0ZARLeWnBSdaYQK1BaK) | 4:21 | 2023-02-07 |  |
 | [Annual plant](https://open.spotify.com/track/3TcPYJi9lSwwt350olQ3zB) | [MANIK](https://open.spotify.com/artist/4GuAt23tHwuuKLW2gRZAWc) | [Annual plant](https://open.spotify.com/album/5tiTWtLR5CEqNzpeEUqVm7) | 4:21 | 2023-07-24 | 2024-04-19 |
 | [Artemis In My Pluto](https://open.spotify.com/track/14rVKMBXB7yncPlstFwt8u) | [sun Lee](https://open.spotify.com/artist/0MpLSPJhglRKRhGoE689kS) | [In the eNd, i find MY heART](https://open.spotify.com/album/54NVZYARZKQhFC7QT6ldym) | 3:09 | 2023-02-07 |  |
@@ -58,9 +59,11 @@
 | [Desperate](https://open.spotify.com/track/4Bv3tVAF9tnusOb8POzngj) | [Zion](https://open.spotify.com/artist/2m5s6yCAoi5kvykCll3BLU) | [Desperate](https://open.spotify.com/album/2leypAJ4IVrcSHVAw7WQFc) | 3:28 | 2022-05-03 | 2023-02-08 |
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-18 | 2024-04-19 |
 | [Difference \(with Park Chan Young\)](https://open.spotify.com/track/6VuslUo78MrJiJTmlbPUhQ) | [Jinju Yi](https://open.spotify.com/artist/1wOcvOmQJOR1LUMF0cIQS5), [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Difference](https://open.spotify.com/album/6hroMp0MzJ4UThj5OehuZG) | 3:23 | 2022-11-11 |  |
+| [DUO](https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [DUO](https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi) | 3:10 | 2024-06-07 |  |
 | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/track/3P4vnvUu03m0kjoLWNWvTa) | [Youjin KO](https://open.spotify.com/artist/4DwpWXyj4LSXRDaB2zmfcj), [Nicola Sergio](https://open.spotify.com/artist/2bxce9EIkMF99r0baqX9Sy) | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr) | 5:59 | 2023-03-31 |  |
 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 | 2023-07-19 |  |
 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 | 2022-05-18 |  |
+| [Escape](https://open.spotify.com/track/3hdprjPbF5Hb40qLFSpwhD) | [Ellie Lee](https://open.spotify.com/artist/4tjf3R0z1fqvExRMTz5ZnC) | [Escape](https://open.spotify.com/album/32JWSvoDqowSj8wSITMslb) | 5:52 | 2024-06-07 |  |
 | [Escape from the city](https://open.spotify.com/track/1FGtv4md7PpOofoNF8V6pl) | [DOPEY](https://open.spotify.com/artist/1CXyr1fzlKCTjAVfvNGJgM) | [Escape from the city](https://open.spotify.com/album/6SfNyrW3v25cRcdDm7GLks) | 3:57 | 2022-11-11 |  |
 | [Eutopia](https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe) | [Mia](https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v), [Yeore](https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv) | [Eutopia](https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3) | 6:49 | 2023-12-12 |  |
 | [Every Little Step](https://open.spotify.com/track/61wwBgK2Ff5yao4QKhuPUX) | [Seon Dabin](https://open.spotify.com/artist/0JSuzK5w5DEDuxzs7ghqXL) | [Every Little Step](https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl) | 6:38 | 2023-02-07 |  |
@@ -147,6 +150,7 @@
 | [Standstill](https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu) | [Chin Sooyoung](https://open.spotify.com/artist/263UdmGyOJkZ6CGF5v7d4G) | [Paraphrase](https://open.spotify.com/album/7zysMr8JjfdgZO2GIAC0S0) | 4:26 | 2022-05-03 |  |
 | [START OVER](https://open.spotify.com/track/4gKHPsGzAZPQzGuuvIm8eX) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [START OVER](https://open.spotify.com/album/0ZwMsN7Rq0QcGrfqO1E8Dd) | 3:17 | 2022-05-03 | 2023-09-14 |
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-02-24 | 2024-04-19 |
+| [Sugar Sweet](https://open.spotify.com/track/5AByPt6g5Up72n6XKVJOda) | [Min Sei hui](https://open.spotify.com/artist/1l22lGI1hDbXE4F1iDFk7q) | [One latte](https://open.spotify.com/album/4WEKKqCVSgvbd25TaiJxOp) | 2:44 | 2024-06-07 |  |
 | [sun in my eyes](https://open.spotify.com/track/71wLiJRoaTUH6vpUgU7tYP) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Image \#4](https://open.spotify.com/album/0MkjQ5J3apbaP2LqxTX5bW) | 6:10 | 2024-03-08 |  |
 | [Sunflower](https://open.spotify.com/track/7tbyBVCqd0RPlJulWcz0bO) | [Choi Aim](https://open.spotify.com/artist/10iBhcYlA7mJ3VxkZdIl5i) | [Sunflower](https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo) | 4:09 | 2023-03-31 |  |
 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 | 2022-05-03 | 2023-02-08 |

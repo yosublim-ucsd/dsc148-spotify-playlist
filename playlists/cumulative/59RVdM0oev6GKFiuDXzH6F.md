@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-677 songs - 1 day 9 hr 47 min
+680 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,9 @@
 | [Be Shy](https://open.spotify.com/track/2WYvrMyqZwGogXkLEIenWG) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Be Shy](https://open.spotify.com/album/4Fn8CBNCqKSHeJyW7Xw9Cu) | 2:09 | 2023-12-01 |  |
 | [Be You](https://open.spotify.com/track/3DP7Vn2Oqw0ycl5IYb6NdO) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Cruisin' Down Crenshaw EP](https://open.spotify.com/album/08MQdiaBRvA9JtlU3f63D8) | 6:36 | 2024-05-24 |  |
 | [Beggin'](https://open.spotify.com/track/1odVbXqC4RIuT7YRJWmSzA) | [DJ Blighty](https://open.spotify.com/artist/3qAjjqNnd5dxyHl8sRJGeg) | [Beggin'](https://open.spotify.com/album/3iWfVWXxMjZph4eJTJCHaw) | 2:24 | 2023-09-22 | 2023-12-14 |
+| [Believin'](https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz) | [Believin'](https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c) | 2:22 | 2024-06-07 |  |
 | [Best Friend \(Never Let Me Down\) \[BLR Mix\]](https://open.spotify.com/track/7a2ZxSSWQRyK7jihIni8PW) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Best Friend \(Never Let Me Down\) \[BLR Mix\]](https://open.spotify.com/album/0AAPEgBSt4ERy3NCNYhikX) | 4:00 | 2024-01-12 |  |
+| [Bidi Bam](https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bidi Bam](https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7) | 2:00 | 2024-06-07 |  |
 | [Big Bad City](https://open.spotify.com/track/6xmOyNPiAfN1O1Zoq9txOZ) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Big Bad City](https://open.spotify.com/album/2L2L6vKqHKMNYjx0Kx74KK) | 3:03 | 2023-11-10 |  |
 | [Black Card](https://open.spotify.com/track/4qA00yEaKEC68iX6GScr8S) | [Patrick Whale](https://open.spotify.com/artist/5HPKe8B0YzqNGrpmYqSNeW) | [Black Card](https://open.spotify.com/album/6U69jHoucZZoLkYWpNQCxq) | 2:13 | 2023-11-10 |  |
 | [Blazin \(feat\. Enisa\)](https://open.spotify.com/track/75xnT9ZmnvbjdyCX3pwizB) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Blazin \(feat\. Enisa\)](https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ) | 2:07 | 2023-10-26 |  |
@@ -630,6 +632,7 @@
 | [Underground](https://open.spotify.com/track/6RsuZyv4VrEZcdAjAonEsN) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Underground](https://open.spotify.com/album/5rtgABh0j5MrK8EgDPkRpz) | 3:31 | 2024-02-16 |  |
 | [Underground](https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Underground](https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg) | 3:41 | 2023-07-20 | 2023-12-23 |
 | [Underwater](https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Underwater](https://open.spotify.com/album/4OZkLa9YRSDHvL0jQ8jwyv) | 3:00 | 2024-03-08 | 2024-04-13 |
+| [Until the Sun Comes Up](https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw) | [Pansil](https://open.spotify.com/artist/0jPFnkOW02ogcNH6PWnhUT) | [Until the Sun Comes Up](https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL) | 3:29 | 2024-06-07 |  |
 | [Up To No Good](https://open.spotify.com/track/6Dxvw735HPuIEHkmhc6r9M) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl) | [Up To No Good](https://open.spotify.com/album/4g4jrbnodImR4dcwN4yv9s) | 2:32 | 2023-02-12 | 2023-04-13 |
 | [Us \(What About\)](https://open.spotify.com/track/06oAzRyGawRparvGWs6Or5) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt) | [Us \(What About\)](https://open.spotify.com/album/3PEjdyGOrGVMMH6nAUcM8F) | 2:16 | 2024-03-08 | 2024-04-13 |
 | [Us \(What About\) \[SQWAD Remix\]](https://open.spotify.com/track/4V3YKG8rBT6eqJP1PWPz1O) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Us \(What About\) \[SQWAD Remix\]](https://open.spotify.com/album/7n22bMiSKevxOz3F1JMhiD) | 2:26 | 2024-04-19 | 2024-04-26 |

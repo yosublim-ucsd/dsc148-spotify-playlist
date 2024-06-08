@@ -1,15 +1,119 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Original Cast of Illinoise",
-  "num_followers": 109669,
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Hell's Kitchen",
+  "num_followers": 109674,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAADGuy6TZhhHnLVBgQH4f2M4",
+  "snapshot_id": "ZmKFwAAAAAC8+UuT5w5V3wOe23iLwD5g",
   "tracks": [
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
+      },
+      "artists": [
+        {
+          "name": "Brandon Victor Dixon",
+          "url": "https://open.spotify.com/artist/3rIXaFZEmvRxMDdxvkg5g2"
+        },
+        {
+          "name": "Maleah Joi Moon",
+          "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
+        }
+      ],
+      "duration_ms": 268610,
+      "name": "If I Ain\u2019t Got You",
+      "url": "https://open.spotify.com/track/6pakSvNOuGZOLmzBHN3IXh"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4lPI25dn6i33LCCzvczpei"
+      },
+      "artists": [
+        {
+          "name": "THE WIZ Cast",
+          "url": "https://open.spotify.com/artist/0J4zCN8sPmKkNxtAPaHqZR"
+        },
+        {
+          "name": "Nichelle Lewis",
+          "url": "https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7"
+        }
+      ],
+      "duration_ms": 210188,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3Y6TrexjQryeW8U9UN5kzn"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Suffs (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1R6nRTL81nROSLVJo2PDnl"
+      },
+      "artists": [
+        {
+          "name": "Kim Blanck",
+          "url": "https://open.spotify.com/artist/63aCVj25s2GBm3DYnVCE8a"
+        },
+        {
+          "name": "Ally Bonino",
+          "url": "https://open.spotify.com/artist/0QfBig2wRjlG3LMtXa566b"
+        },
+        {
+          "name": "Hannah Cruz",
+          "url": "https://open.spotify.com/artist/4Okl6bPzDlvptmDBdFwLJw"
+        },
+        {
+          "name": "Nadia Dandashi",
+          "url": "https://open.spotify.com/artist/7ng65Hm0TgSct87mErm5DS"
+        },
+        {
+          "name": "Shaina Taub",
+          "url": "https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Great American Bitch",
+      "url": "https://open.spotify.com/track/2NaNUij0c1fBiFabH2LakC"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Roaring On / My Green Light / Past is Catching Up to Me | The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0WOb0bOotTCHNGDsnLjpUL"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast of The Great Gatsby - A New Musical",
+          "url": "https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM"
+        }
+      ],
+      "duration_ms": 315924,
+      "name": "Roaring On",
+      "url": "https://open.spotify.com/track/56oQFmaTWSQFocRNT6AYyA"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "The Notebook (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
+      },
+      "artists": [
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "My Days",
+      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Illinoise: A New Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa"
@@ -29,23 +133,7 @@
       "url": "https://open.spotify.com/track/7aaQQCNoksyfd1fZAeG4Pa"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "The Notebook (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
-      },
-      "artists": [
-        {
-          "name": "Joy Woods",
-          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
-        }
-      ],
-      "duration_ms": 222239,
-      "name": "My Days",
-      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "No One (From the New Broadway Musical \"Hell's Kitchen\")",
         "url": "https://open.spotify.com/album/7AZCaDixctGbJL1E35urmu"
@@ -69,7 +157,7 @@
       "url": "https://open.spotify.com/track/2olxF7NN4aArCeNSUsw2vO"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
@@ -93,7 +181,7 @@
       "url": "https://open.spotify.com/track/6QMYeuubL00KcXBXxS5Zhn"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Stereophonic (Original Cast Recording)",
         "url": "https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB"
@@ -137,7 +225,7 @@
       "url": "https://open.spotify.com/track/1e5SVMJoqJAs6parbChLy8"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Merrily We Roll Along (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
@@ -165,7 +253,7 @@
       "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The March (We Demand Equality) [from the Broadway musical \u201cSuffs\u201d]",
         "url": "https://open.spotify.com/album/0t1TWC07YlrRIMq8B2Ryg4"
@@ -189,7 +277,7 @@
       "url": "https://open.spotify.com/track/1ODYl4yWYox1r2UsHFjIpD"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Wild (From Water For Elephants: Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6H4qsaBT1wiu3XKquJzjRZ"
@@ -213,7 +301,7 @@
       "url": "https://open.spotify.com/track/3phCLghVIsBjIGAfYxNpRz"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Cabaret (2021 London Cast Recording)",
         "url": "https://open.spotify.com/album/1fY0T7jcqYLYLBBsITaubJ"
@@ -233,7 +321,7 @@
       "url": "https://open.spotify.com/track/4TfIo8JDwLyNeyoWISZnhR"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Stereophonic (Original Cast Recording)",
         "url": "https://open.spotify.com/album/4yU3wb14uLpyi4pBFKtFXB"
@@ -277,7 +365,7 @@
       "url": "https://open.spotify.com/track/5FgQYIHI30oIUeJrInyXDq"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "New York (Studio Cast Recording)",
         "url": "https://open.spotify.com/album/6Io2LwUMNsYctQioWkAN5G"
@@ -305,7 +393,7 @@
       "url": "https://open.spotify.com/track/6zorFxuitBjS8H4otpjF3M"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Lempicka - The Musical (2022 Sessions)",
         "url": "https://open.spotify.com/album/22UlcdIxtmapTzhh6koX1o"
@@ -325,7 +413,7 @@
       "url": "https://open.spotify.com/track/0AqDuGW6j1RZ93r2n3DUGA"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "White Girl in Danger: A New Musical (Original Off-Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6vkyKRbAS1G8AbTjrQjdCo"
@@ -349,7 +437,7 @@
       "url": "https://open.spotify.com/track/0mpWBAYCOiIVLCJxEuwwz5"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Who's Tommy (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2TQsCLDUh4uTWUbd0G5qHh"
@@ -377,7 +465,7 @@
       "url": "https://open.spotify.com/track/3IHit4085hC8vzWiTFt6SO"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
@@ -397,7 +485,7 @@
       "url": "https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -421,7 +509,7 @@
       "url": "https://open.spotify.com/track/7kEzfZXbV63tlqkPyyRd7n"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Gutenberg! The Musical! (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1fceHn5xQFVxHPmPsIOzNF"
@@ -441,7 +529,7 @@
       "url": "https://open.spotify.com/track/61ij2dcHpaUYkFFFdAcdvr"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
@@ -469,7 +557,7 @@
       "url": "https://open.spotify.com/track/7LWsZlTRMnmjRxti9DOb8v"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Time Traveller's Wife The Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/072DP79HpK5c4q0HwZvzh7"
@@ -489,7 +577,7 @@
       "url": "https://open.spotify.com/track/3z9yK20vapo4mxeNDixBBJ"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "EPIC: The Circe Saga (Official Concept Album)",
         "url": "https://open.spotify.com/album/5a3uE0AyEWhLumIHo9WkWN"
@@ -509,7 +597,7 @@
       "url": "https://open.spotify.com/track/3MfTo3Q0ZCrhCsQJZ8u6iZ"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Guys & Dolls (The 2023 London Cast Recording)",
         "url": "https://open.spotify.com/album/1q3aeVfeRerkfJZHcpkGrm"
@@ -533,7 +621,7 @@
       "url": "https://open.spotify.com/track/2pqSzqZ8gMwq1t2GGyR2LE"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Back to the Future: The Musical",
         "url": "https://open.spotify.com/album/5cfiZFpFlkL6hazHrRV2Bi"
@@ -549,7 +637,7 @@
       "url": "https://open.spotify.com/track/1uYnCRBvnHmUFyymYkzjJn"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Notebook (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
@@ -569,7 +657,7 @@
       "url": "https://open.spotify.com/track/6Xw7FT1gMY1lVyYPsCHkwI"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Exit Music",
         "url": "https://open.spotify.com/album/04r1o9f2Gow9GzC6JwgASX"
@@ -585,7 +673,7 @@
       "url": "https://open.spotify.com/track/1zjkHkiGbFgdoE1PP9TSur"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Gardens of Anuncia (Original Cast Recording)",
         "url": "https://open.spotify.com/album/3LYPkemp67wPAiZEndhNKO"
@@ -609,7 +697,7 @@
       "url": "https://open.spotify.com/track/0RW3RUyEQGJCXSYDOL0xzb"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Little Big Things (Original West End Cast Recording)",
         "url": "https://open.spotify.com/album/7FUdcVrbpNnC6mDEqwNeHn"
@@ -629,7 +717,7 @@
       "url": "https://open.spotify.com/track/7i07v9Uf3jgHcSh2D2Zkjn"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "& Juliet (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
@@ -649,7 +737,7 @@
       "url": "https://open.spotify.com/track/4gpbXdxDIRmRnJccrjsXsh"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Some Like It Hot (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/0D4rHSdwa7yTUI6hH3P733"
@@ -669,7 +757,7 @@
       "url": "https://open.spotify.com/track/3Q6MFmutoKCc69hEVvX61k"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Kimberly Akimbo (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1X4panrbiKDmwkRQ2hfos8"
@@ -717,7 +805,7 @@
       "url": "https://open.spotify.com/track/5l4Uhz4UZ2OLtPOyGeyr7M"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Little Women - The Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1ZOWm21TS4MWUwvEAI7yob"
@@ -741,7 +829,7 @@
       "url": "https://open.spotify.com/track/6tRtygw4gCDSlAEQ6aqpOH"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Days of Wine and Roses (Original Cast Recording)",
         "url": "https://open.spotify.com/album/2CrLWV41nLTAuglnyV4Wbw"
@@ -761,7 +849,7 @@
       "url": "https://open.spotify.com/track/7c6PSBltQJ4UNMGwNPxAp5"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "How to Dance in Ohio (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/4XCEusht2rfxuNKx5IQ4t2"
@@ -777,7 +865,7 @@
       "url": "https://open.spotify.com/track/3lU3XxNcxJcDpu8nDnNi7n"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Cherry On Top",
         "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
@@ -793,7 +881,7 @@
       "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "This Time (from \"The Time Traveller's Wife The Musical\")",
         "url": "https://open.spotify.com/album/6McCmIvAEFASq3AquTAMzg"
@@ -809,7 +897,7 @@
       "url": "https://open.spotify.com/track/5wONhDccNj4ONVITWprJ1t"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "The Gospel According to Heather (Original Off Broadway Cast)",
         "url": "https://open.spotify.com/album/1ulMVtw2vvbRRvh0qYJ40C"
@@ -825,7 +913,7 @@
       "url": "https://open.spotify.com/track/51kR1dYXVfmfBLARCotaVK"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "17 Again (Studio Cast Recording)",
         "url": "https://open.spotify.com/album/6bgncM5GAlOf5R1zopeAN5"
@@ -845,7 +933,7 @@
       "url": "https://open.spotify.com/track/2fl1DErM255mxTv7c9MU26"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "42 Balloons (Studio Cast Recording) [Selected Tracks]",
         "url": "https://open.spotify.com/album/6c4IDwINPtczkNDWxPdhF1"
@@ -881,7 +969,7 @@
       "url": "https://open.spotify.com/track/1vvpleOg9j0eT5RYIfK8dB"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Millennials Are Killing Musicals (Original Off-Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/60YR9Eif4RFuWLv5PIVCH7"
@@ -901,7 +989,7 @@
       "url": "https://open.spotify.com/track/3L0SSHs036ksVY1Wr92ibc"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Wild About You (World Premiere Recording)",
         "url": "https://open.spotify.com/album/6cUSDnALTsDCfCUz7F1qi9"
@@ -917,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0AknRryO2t19Y1WgBDxsru"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "White Rose: The Musical (Original Off-Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2wYNbpl9rpHwHLFmA0pwZ7"
@@ -941,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2r00OW9OwUZTqY4OKvoUkc"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Figaro: An Original Musical (World Premiere Cast Recording)",
         "url": "https://open.spotify.com/album/755sxiW1Krgodlevh4rGed"
@@ -971,78 +1059,6 @@
       "duration_ms": 406956,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/2PpXdGIe2zDxnC2QwUURip"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Most Likely Not To... (The Official Cast Album of the Musical)",
-        "url": "https://open.spotify.com/album/31KFGnfIgYQ61N066uD6Ws"
-      },
-      "artists": [
-        {
-          "name": "Lauryn Adams",
-          "url": "https://open.spotify.com/artist/2tibJEPQykFQxKJGWmjfi4"
-        },
-        {
-          "name": "Sarah Dacey Charles",
-          "url": "https://open.spotify.com/artist/5kjzkLIgppiqTI3zTDfvKS"
-        },
-        {
-          "name": "Bryan Cortes",
-          "url": "https://open.spotify.com/artist/7omC6NZ9scavRXB0SVdysl"
-        },
-        {
-          "name": "James Ian",
-          "url": "https://open.spotify.com/artist/5oOFQ8WI7kQxsyTw2gkC8b"
-        },
-        {
-          "name": "Rory Max Kaplan",
-          "url": "https://open.spotify.com/artist/3H1Ss2suRIh4mEgzPlLgSw"
-        },
-        {
-          "name": "Cedric Leiba Jr.",
-          "url": "https://open.spotify.com/artist/2o9MJV4brCrm2JKqEVU6Zb"
-        },
-        {
-          "name": "Alexis Loiselle",
-          "url": "https://open.spotify.com/artist/4AqKQIM8Wv9fcGQwtus87y"
-        },
-        {
-          "name": "Joel Manuel",
-          "url": "https://open.spotify.com/artist/1Zvmlp1wpwCguQJ5TNta3P"
-        },
-        {
-          "name": "Phil Sloves",
-          "url": "https://open.spotify.com/artist/4zLGqQ29pu4M06ncdA7BfF"
-        },
-        {
-          "name": "Yasmeen Sulieman",
-          "url": "https://open.spotify.com/artist/7bT3gA8kbu36H45y3AHJMr"
-        },
-        {
-          "name": "Jesse Swimm",
-          "url": "https://open.spotify.com/artist/68D101i2LpvNmqGXwwSMbB"
-        },
-        {
-          "name": "Melvin Tunstall III",
-          "url": "https://open.spotify.com/artist/13zG3jJH7zCWQ9z6QR6t9J"
-        },
-        {
-          "name": "Natalie Weiss",
-          "url": "https://open.spotify.com/artist/4MZwP4l2VfGsYn8ERumSol"
-        },
-        {
-          "name": "Allie Williams",
-          "url": "https://open.spotify.com/artist/5KRDhTjllFoQxlL9ccVQZZ"
-        },
-        {
-          "name": "Jessy Yates",
-          "url": "https://open.spotify.com/artist/0KqimLpE1CMZjzFlObypxr"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "SPACES",
-      "url": "https://open.spotify.com/track/79VOimR33VjBNi4ihuF4yY"
     }
   ],
   "unique_name": "Broadway Rising",

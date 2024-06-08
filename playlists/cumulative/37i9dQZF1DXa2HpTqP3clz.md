@@ -2,9 +2,9 @@
 
 ### [Grass Roots](https://open.spotify.com/playlist/37i9dQZF1DXa2HpTqP3clz)
 
-> Today's Bluegrass and old time favorites\. Cover: Missy Raines
+> Today's Bluegrass and old time favorites\. Cover: Tony Trischka
 
-569 songs - 1 day 9 hr 51 min
+570 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,10 +127,11 @@
 | [Don't Make Me Get up and Go](https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Ink, Dust & Luck](https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA) | 3:10 | 2022-10-14 | 2024-01-27 |
 | [Don't Make Me Get up and Go](https://open.spotify.com/track/4jaalJMyXvPcvYVI3VoKtu) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Don't Make Me Get up and Go](https://open.spotify.com/album/7o4ZRAw9dSwk3jsFBaDLRH) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [Don't You Know I'm from Here](https://open.spotify.com/track/6TzKeFnvMOgfdzhoVPtanm) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Don't You Know I'm from Here](https://open.spotify.com/album/3PlfYSxMlOhkLmoSP9mL1P) | 4:22 | 2021-12-17 | 2022-07-28 |
+| [Dooley](https://open.spotify.com/track/2a00zfig1zAOU5aNytQgP2) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Earl Jam](https://open.spotify.com/album/1XvuX8TaK3bGUU80Ot741Q) | 3:19 | 2024-06-07 |  |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-08-11 | 2023-02-04 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2022-08-18 |
 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 | 2023-02-03 | 2023-06-24 |
-| [Dovetail Cabin](https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Dovetail Cabin](https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u) | 2:52 | 2024-05-10 |  |
+| [Dovetail Cabin](https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Dovetail Cabin](https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u) | 2:52 | 2024-05-10 | 2024-06-08 |
 | [Down the Road](https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Down the Road](https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8) | 3:15 | 2023-03-17 |  |
 | [Drivin' Nails In My Coffin \- Simply Bluegrass](https://open.spotify.com/track/0Wy7fpZxbslkaINmte0Rpc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Drivin' Nails In My Coffin \(Simply Bluegrass\)](https://open.spotify.com/album/67ILLZHENVDtXDVOz28dAa) | 3:10 | 2021-12-17 | 2022-06-13 |
 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 | 2023-06-23 | 2024-04-19 |

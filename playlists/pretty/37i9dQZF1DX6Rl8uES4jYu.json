@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238487,
+  "num_followers": 238480,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl4KLQAAAABnxJD1SJ92OaBzq9kLI+CD",
+  "snapshot_id": "ZmKFwAAAAAAL83NFCe3VSmR3ndDEVGcm",
   "tracks": [
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/3W39Lu0c7XhPAFwMQ5rsGp"
+      },
+      "artists": [
+        {
+          "name": "Quinn Sullivan",
+          "url": "https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J"
+        }
+      ],
+      "duration_ms": 216344,
+      "name": "Once Upon a Lie",
+      "url": "https://open.spotify.com/track/50c9Wgt3H27HfNrMYndIle"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/2QxhY2X1O0LLej9YzDaZcN"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/0eqefuVYbQCHFJ3TxFD9KA"
+    },
     {
       "added_at": "2024-06-03 18:23:41",
       "album": {
@@ -1441,22 +1473,6 @@
       "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "free me",
-        "url": "https://open.spotify.com/album/3pMK4vu9TW0y3FqZaoJNya"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "free me",
-      "url": "https://open.spotify.com/track/1scFwySIE5a0btwc1J2CHk"
-    },
-    {
       "added_at": "2023-03-03 05:01:00",
       "album": {
         "name": "Sugar Sweet",
@@ -1575,22 +1591,6 @@
       "duration_ms": 150004,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Be Alright // U Sometimes",
-        "url": "https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb"
     },
     {
       "added_at": "2023-03-03 05:01:00",

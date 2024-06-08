@@ -1,212 +1,240 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2353,
+  "num_followers": 2355,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAADtyScYn02BKGaGwmnV6iUpWgwIEiI",
+  "snapshot_id": "AAADusAdYw4hZt+ZARjA05utTdsSvWE0",
   "tracks": [
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Lost in Control",
-        "url": "https://open.spotify.com/album/2VGLanSqv0EwSkMMidYZd8"
+        "name": "Der du g\u00e5r",
+        "url": "https://open.spotify.com/album/1mu61T9PTtTETOPgNOksrp"
       },
       "artists": [
         {
-          "name": "Mustasch",
-          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
+          "name": "Tomgang",
+          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
         }
       ],
-      "duration_ms": 184624,
-      "name": "Lost in Control",
-      "url": "https://open.spotify.com/track/3kzE24PAzUyM0b4OuW9MC6"
+      "duration_ms": 210017,
+      "name": "Der du g\u00e5r",
+      "url": "https://open.spotify.com/track/2mXAscX3OMOA3U1mFzXtFa"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Allt Som Var Jag",
-        "url": "https://open.spotify.com/album/3hAvevGnkggqpQ3Aat6hVS"
+        "name": "23",
+        "url": "https://open.spotify.com/album/22TwgsebwwEQRtFceyfI1q"
       },
       "artists": [
         {
-          "name": "Py B\u00e4ckman",
-          "url": "https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3"
+          "name": "Feyesal",
+          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
+        }
+      ],
+      "duration_ms": 148043,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0d0fxW31DxScIglB0kVpkk"
+    },
+    {
+      "added_at": "2024-06-07 14:49:24",
+      "album": {
+        "name": "My Heart Still Breaks",
+        "url": "https://open.spotify.com/album/4LvUg2mLL6DSavZEBW5H0e"
+      },
+      "artists": [
+        {
+          "name": "Lena Nov\u00e1k",
+          "url": "https://open.spotify.com/artist/4MGfqzIzquPGvY7xWsQoLl"
+        }
+      ],
+      "duration_ms": 187566,
+      "name": "My Heart Still Breaks",
+      "url": "https://open.spotify.com/track/2jIUzvr9kp0ZKxBDjyNeKT"
+    },
+    {
+      "added_at": "2024-06-07 14:49:24",
+      "album": {
+        "name": "Luv 2 Me",
+        "url": "https://open.spotify.com/album/4Xwuw0Hmi2wEKwYzQvUz6F"
+      },
+      "artists": [
+        {
+          "name": "glide",
+          "url": "https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT"
         },
         {
-          "name": "G\u00f6ran Edman",
-          "url": "https://open.spotify.com/artist/4WCq3Qs2uSn5tycuBIPpt8"
+          "name": "Guru Griff",
+          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
         }
       ],
-      "duration_ms": 251626,
-      "name": "Allt Som Var Jag",
-      "url": "https://open.spotify.com/track/0uNkKcZuOmtd8XSh49WWl4"
+      "duration_ms": 128000,
+      "name": "Luv 2 Me",
+      "url": "https://open.spotify.com/track/5OtpYpylD2xyODSZyciIds"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Machete Romance",
-        "url": "https://open.spotify.com/album/0LJDXnMjugoF4OB09IkrO1"
+        "name": "Aurinko & Kuu",
+        "url": "https://open.spotify.com/album/1JNOfRYJ1R9Di2mgedgshE"
       },
       "artists": [
         {
-          "name": "heavy wild",
-          "url": "https://open.spotify.com/artist/6dxRf5XUwYZ12ecawKxuJ0"
+          "name": "Teukka",
+          "url": "https://open.spotify.com/artist/39sku8JiOeGoCZaNlsBing"
         }
       ],
-      "duration_ms": 250565,
-      "name": "Machete Romance",
-      "url": "https://open.spotify.com/track/6okmD2mOu35d2ViNtyH2xg"
+      "duration_ms": 195314,
+      "name": "Aurinko & Kuu",
+      "url": "https://open.spotify.com/track/5iqIvR4YSrBOwNdsM8Jftg"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Desconsiderada",
-        "url": "https://open.spotify.com/album/3lvVRdXecO5NcjDuW8DrD2"
+        "name": "Stockholm i juli (2024 Version)",
+        "url": "https://open.spotify.com/album/7xsvL86CkjtSZrgS0vkEvW"
       },
       "artists": [
         {
-          "name": "Bolsa De Moscas",
-          "url": "https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E"
+          "name": "Patrick El-Hag",
+          "url": "https://open.spotify.com/artist/5pboe5cbQJqyabgHC0rNS1"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Desconsiderada",
-      "url": "https://open.spotify.com/track/69fCExwmN9OqVjSdX3e2uk"
+      "duration_ms": 216062,
+      "name": "Stockholm i juli - 2024 Version",
+      "url": "https://open.spotify.com/track/21eT7DbQghUIf8LeRpAAQI"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "kes\u00e4 on aina my\u00f6h\u00e4ss\u00e4",
-        "url": "https://open.spotify.com/album/7EImzLR1kmSWRCAiPsd8u2"
+        "name": "From the Wreckage",
+        "url": "https://open.spotify.com/album/022bOL5Mo4FRBd96jazWIJ"
       },
       "artists": [
         {
-          "name": "1Tipe",
-          "url": "https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7"
-        },
-        {
-          "name": "Kvartetti",
-          "url": "https://open.spotify.com/artist/5NwUWGaVxBmQPvQrVu7zwi"
+          "name": "Heather Bartman",
+          "url": "https://open.spotify.com/artist/5HnLp3EcSwEJwE7CxaMM0K"
         }
       ],
-      "duration_ms": 211107,
-      "name": "ikaalisiin",
-      "url": "https://open.spotify.com/track/7hjG3nETl8rLmMCJiZ6GHd"
+      "duration_ms": 191829,
+      "name": "From the Wreckage",
+      "url": "https://open.spotify.com/track/6PjcCw5SPRVtv7ON8fRQ2M"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "HUR HON VA",
-        "url": "https://open.spotify.com/album/0cR5rZo9C7QINM8hkm4kRA"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/01J6nLn3HWk9iaiIXOY2ck"
       },
       "artists": [
         {
-          "name": "Angelina Pavanelli",
-          "url": "https://open.spotify.com/artist/2Q1zoh7mp07ods0rRoqL0i"
+          "name": "Geezerbomb",
+          "url": "https://open.spotify.com/artist/7cPlO6Ai5O8yDvqntDK7PF"
         }
       ],
-      "duration_ms": 196826,
-      "name": "HUR HON VA",
-      "url": "https://open.spotify.com/track/1eUeaS6fL2GemxbRMBTxCI"
+      "duration_ms": 174720,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2govU7hxeaMch8Lr2wiIAv"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Ohne dich",
-        "url": "https://open.spotify.com/album/41V49l2MEZq1UnZQ9S98vu"
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/7MhQoEYg8unsbMXw2iGBLr"
       },
       "artists": [
         {
-          "name": "Fabi",
-          "url": "https://open.spotify.com/artist/0qVf4hnvOJaTe2wiqF66Mg"
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/7yHxpT7YSJOHtVnCYnoC27"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Ohne dich",
-      "url": "https://open.spotify.com/track/3GFqdYPr81cb6zqOc9C9NR"
+      "duration_ms": 159758,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/6Lgj62EFbVilPyngek65Ni"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "YOU AND I",
-        "url": "https://open.spotify.com/album/17DuVubYmK0qwEdraZReyK"
+        "name": "Show No Mercy",
+        "url": "https://open.spotify.com/album/29FLhiVm56NXevGr4ZoGdB"
       },
       "artists": [
         {
-          "name": "LUKE",
-          "url": "https://open.spotify.com/artist/3JmMG7UlMMkOMWj4zYXTha"
+          "name": "GINAxC",
+          "url": "https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ"
         }
       ],
-      "duration_ms": 140176,
-      "name": "YOU AND I",
-      "url": "https://open.spotify.com/track/7lDNsueIbLe3lij2NTDc5q"
+      "duration_ms": 214569,
+      "name": "Show No Mercy",
+      "url": "https://open.spotify.com/track/1EK9Mi8RXx5mNJ4jf2V1gb"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Demo '24",
-        "url": "https://open.spotify.com/album/7nbS542L6b99znyzSyPfIA"
+        "name": "It makes no difference to me",
+        "url": "https://open.spotify.com/album/46thjHzORRCkjwBB7Y4rrW"
       },
       "artists": [
         {
-          "name": "Face The Pain",
-          "url": "https://open.spotify.com/artist/2rEBtb30C8KIrp8QzBAtMX"
+          "name": "ART-BAND UAmusic",
+          "url": "https://open.spotify.com/artist/7AXSvI9juBLUAOtgWsw2qH"
         }
       ],
-      "duration_ms": 128713,
-      "name": "Face the Pain",
-      "url": "https://open.spotify.com/track/2XR9VSX9kc1Ww0iiN0etm0"
+      "duration_ms": 169833,
+      "name": "It makes no difference to me",
+      "url": "https://open.spotify.com/track/2UizxwKzgevRpsI8SH8obn"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Broken hero",
-        "url": "https://open.spotify.com/album/2qWgW0LaFtIXxrSOYXLuyp"
+        "name": "Dusty Desert Road",
+        "url": "https://open.spotify.com/album/5SyQx4tq6F4rmiJmRBnxFf"
       },
       "artists": [
         {
-          "name": "Sofia Gustavsson",
-          "url": "https://open.spotify.com/artist/1HcKJT1IFyIX4JXs6PFGXW"
+          "name": "Diana Bolo",
+          "url": "https://open.spotify.com/artist/742H5tvCXPVVnLse9K7OpQ"
         }
       ],
-      "duration_ms": 195670,
-      "name": "Broken hero",
-      "url": "https://open.spotify.com/track/3xqSmFDAqnSCrSAeDP20hI"
+      "duration_ms": 204828,
+      "name": "Dusty Desert Road",
+      "url": "https://open.spotify.com/track/6fnozHQwhfKBcmpTjfAdqc"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "Bedwetters",
-        "url": "https://open.spotify.com/album/61rGx56QGeqDu2XgeBd6xV"
+        "name": "L\u00e4mnar stan",
+        "url": "https://open.spotify.com/album/39nx3xmqhR7H0FXu9PrN19"
       },
       "artists": [
         {
-          "name": "Seafarers",
-          "url": "https://open.spotify.com/artist/7dWWrUu4v70sxCnz2iIf2x"
+          "name": "Daniel Arteaga",
+          "url": "https://open.spotify.com/artist/1ff46hVkyIPKr6SdDgVgjO"
         }
       ],
-      "duration_ms": 256032,
-      "name": "Bedwetters",
-      "url": "https://open.spotify.com/track/18kHneXL3AlkWzVgGE0ujX"
+      "duration_ms": 212793,
+      "name": "L\u00e4mnar stan",
+      "url": "https://open.spotify.com/track/1WYPCS7jtYP0JthTKCM7c1"
     },
     {
-      "added_at": "2024-05-31 15:48:37",
+      "added_at": "2024-06-07 14:49:24",
       "album": {
-        "name": "ASHR004",
-        "url": "https://open.spotify.com/album/0mGefIPNpDlFB77Np5xy0u"
+        "name": "Midnight Drive",
+        "url": "https://open.spotify.com/album/2CTHSsqDba2w3KPF5c03xi"
       },
       "artists": [
         {
-          "name": "Dani Dur\u00e1n (ES)",
-          "url": "https://open.spotify.com/artist/6SPd8y2ZbQLsh5CNgYpjcd"
+          "name": "KennyR",
+          "url": "https://open.spotify.com/artist/07l4MIrDSaRouWJE6sayAh"
         }
       ],
-      "duration_ms": 333617,
-      "name": "Attirance",
-      "url": "https://open.spotify.com/track/4q2qTIdUhq3Ml1AVzVqsJH"
+      "duration_ms": 213062,
+      "name": "Midnight Drive",
+      "url": "https://open.spotify.com/track/01qWRsUTIH3dI0VJhGBaSl"
     }
   ],
   "unique_name": "Independent Music Friday",

@@ -2,7 +2,7 @@
 
 ### [O Melhor da MPB](https://open.spotify.com/playlist/37i9dQZF1DX9FSYmdU9mbT)
 
-> Os grandes artistas da MPB\. Foto: Silva
+> Os grandes artistas da MPB\. Foto: Gilberto Gil ❤️ Flora
 
 150 songs - 9 hr 37 min
 
@@ -146,7 +146,7 @@
 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 | 2021-12-31 |  |
 | [Toda Menina Baiana \- Ao Vivo](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano \(Ao Vivo No Projac, Rio De Janeiro / 2011\)](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 | 2021-12-31 |  |
 | [Toda Menina Baiana \- Live](https://open.spotify.com/track/0oTinlPq1IRtjP6n7ZsXjy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Inverno MPB](https://open.spotify.com/album/24xQXjLv8gfAe8ndJ1vyxb) | 3:22 | 2022-06-24 | 2023-08-11 |
-| [Tua Fera](https://open.spotify.com/track/6bOv2Ns9jgO9lXRM7QyJUd) | [Joanna](https://open.spotify.com/artist/3TbM7sfQ1oDiZVGScaKr02) | [Joanna '88](https://open.spotify.com/album/3Dyd7zVKxrtVYeSuSY5vnR) | 5:48 | 2023-10-20 |  |
+| [Tua Fera](https://open.spotify.com/track/6bOv2Ns9jgO9lXRM7QyJUd) | [Joanna](https://open.spotify.com/artist/3TbM7sfQ1oDiZVGScaKr02) | [Joanna '88](https://open.spotify.com/album/3Dyd7zVKxrtVYeSuSY5vnR) | 5:48 | 2023-10-20 | 2024-06-08 |
 | [Tá perdoado](https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:47 | 2021-12-31 |  |
 | [Vitoriosa](https://open.spotify.com/track/4CG3tZlqn6KjM4wGSRaO8e) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Meu Pai É um Romântico](https://open.spotify.com/album/7moS3MqWSLCfY7QKGUk2WJ) | 3:58 | 2022-11-09 | 2022-11-14 |
 | [Vitoriosa](https://open.spotify.com/track/3vJJqxkNLVHibD3gRttOHP) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Ivan Lins](https://open.spotify.com/album/3hXVmp2gOuoo2Oa3glN108) | 4:01 | 2022-06-24 | 2024-04-19 |

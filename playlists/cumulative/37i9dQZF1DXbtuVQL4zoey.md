@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-546 songs - 21 hr 2 min
+551 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [a little bossa](https://open.spotify.com/track/4LWlyRclaxRUscbVQQ3syw) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [beat tape](https://open.spotify.com/album/339fwdTWTnAcLAUxUdvWMm) | 1:20 | 2022-11-11 | 2023-09-23 |
 | [A Trip for You](https://open.spotify.com/track/67ZzZ5axS4vv3HKb4052Ju) | [Roboflex](https://open.spotify.com/artist/4EoR3Th3E98nSMzwPPeZZg) | [A Trip for You](https://open.spotify.com/album/0QKQialdrr80S3EMFupxHR) | 2:14 | 2022-05-20 | 2022-07-01 |
 | [Acrylic](https://open.spotify.com/track/5slcOZGvvt488R61ph95IP) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Acrylic](https://open.spotify.com/album/1v8SwfuVFz6qiNfceWzoaD) | 2:25 | 2022-06-24 | 2022-09-03 |
+| [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-06-07 |  |
 | [Afternoon Wind](https://open.spotify.com/track/2eMu2au8FVOaHemQfi7Sah) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Afternoon Wind](https://open.spotify.com/album/0t3OwwDp5vnzPig21TJsH8) | 2:04 | 2022-08-12 |  |
 | [Agua Clara](https://open.spotify.com/track/6bnhuU80WPonEPeS5Alskr) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Agua Clara](https://open.spotify.com/album/06J6FivKeqJty8XESLzAVA) | 2:11 | 2022-08-12 | 2023-09-29 |
 | [Agua de Coco](https://open.spotify.com/track/4lgsYg7OxR2vwtlZQ55CMK) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Agua de Coco](https://open.spotify.com/album/30QZOYyCdPZIlthnT29gla) | 2:37 | 2022-05-20 | 2022-09-17 |
@@ -146,6 +147,7 @@
 | [Crushin](https://open.spotify.com/track/0kzFqquPfU14JmkkUUHbX8) | [The Man from Mexico](https://open.spotify.com/artist/7ig2AJW5U845K57IhLZvdb) | [La Muchacha Ochentas](https://open.spotify.com/album/15rmla56JfHzwiuU4a9vyh) | 2:36 | 2022-07-01 |  |
 | [Cuban Espresso](https://open.spotify.com/track/018eCZOO9nxil7tpgSpGIe) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Cuban Espresso](https://open.spotify.com/album/6zQkhy5nZVSpTC6tgKX8ru) | 1:45 | 2022-07-29 | 2022-10-14 |
 | [Curated Light](https://open.spotify.com/track/3IpACziWRGwdAPA4BxoUo0) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Curated Light](https://open.spotify.com/album/4P6gdXh3u8854etdrkx8O5) | 3:32 | 2023-09-04 | 2023-09-23 |
+| [Cut Blue](https://open.spotify.com/track/5D5z2jGcd3ckGdsGlnWaA8) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [Cut Blue](https://open.spotify.com/album/2tTETR7nRSosdmscgsYIY7) | 2:12 | 2024-06-07 |  |
 | [cycle of life](https://open.spotify.com/track/5N6kN49QpZic3dBIvqQxRH) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [cycle of life](https://open.spotify.com/album/5NBahqPEEsIpyzWPHuzn1r) | 2:04 | 2024-01-05 |  |
 | [Da Roberta](https://open.spotify.com/track/5PSCnbrMwcLmal3eAIW0GB) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Da Roberta](https://open.spotify.com/album/2ORUYbFLMK8jLF9EBJgfNP) | 2:24 | 2022-10-14 |  |
 | [Daiquiri](https://open.spotify.com/track/4frKqpptdMc64k9rvkLYFD) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Cold Busted](https://open.spotify.com/artist/0uhd4ZyLS61oODSwmyhPfV) | [Daiquiri](https://open.spotify.com/album/2NLbM9792a08XFlMGTCoa4) | 2:26 | 2022-06-24 | 2022-08-19 |
@@ -336,6 +338,7 @@
 | [Nutmeg](https://open.spotify.com/track/5FdgWHIy3LsIoRzCOJ4jg1) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [flavors](https://open.spotify.com/album/37KIKJXw7K7YQP4LE8CbTd) | 2:04 | 2022-05-20 |  |
 | [Offshore Days](https://open.spotify.com/track/6pI9SrAMI2tv7adSshr6UV) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Offshore Days](https://open.spotify.com/album/3zNpShPRsmPn3Nv0Ed4Jh5) | 2:29 | 2022-07-22 | 2022-09-03 |
 | [One Day at a Time](https://open.spotify.com/track/3YzOBxLQQVvqKH8xR0XgNh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [One Day at a Time](https://open.spotify.com/album/7wqOTHoyjGvqRJ7ThxxdNk) | 2:01 | 2022-05-20 | 2023-05-02 |
+| [One For Bubs](https://open.spotify.com/track/5RHxHdpZvpaEYTdnvcanZy) | [Jasada](https://open.spotify.com/artist/6Z8DZJYoBbxLI1tNldwxhx), [Alfreð Jóhann](https://open.spotify.com/artist/0q96mJzTjFD3SzFU7aNdeK), [Jökull Logi](https://open.spotify.com/artist/2nA2IdGdoXBV7N1c43a4cq) | [One For Bubs](https://open.spotify.com/album/0W8Z5aiVTCw9rwhikZBW7P) | 2:54 | 2024-06-07 |  |
 | [One Hundred Masters](https://open.spotify.com/track/7cYTfi0NeI7zTNbOguui8H) | [Loaderror](https://open.spotify.com/artist/3zrZn5h0Mmx9aKdzhBX1lB) | [Broken Umbrella](https://open.spotify.com/album/4OUQJxukzSxjwlceCJVG1S) | 1:50 | 2022-05-20 | 2022-10-14 |
 | [One Two Tree](https://open.spotify.com/track/1tNwm7phOIMzGC1VO9Dggr) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [One Two Tree](https://open.spotify.com/album/6HxpoPkpORExzoxwu4QVXZ) | 2:01 | 2022-05-20 | 2022-09-17 |
 | [One4Winter](https://open.spotify.com/track/3XLOnz8xAlxTqVPSjy6mKr) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [One4Winter](https://open.spotify.com/album/4PgSskTm3qbJGWRaMqWvWe) | 2:06 | 2022-05-20 | 2022-06-17 |
@@ -418,6 +421,7 @@
 | [Shaken Stir](https://open.spotify.com/track/20bxpthQ6s3G9OMJTVJZVA) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [A Trip Downtown](https://open.spotify.com/album/7hE3MCzDJt5u0QufCEV4sI) | 3:13 | 2022-11-11 |  |
 | [Siesta](https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Siesta](https://open.spotify.com/album/4quzoBrFK8aKVuoQlMkSeW) | 2:04 | 2022-12-23 |  |
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-05-20 |  |
+| [sip at zibetto](https://open.spotify.com/track/26nx2DrmEhpfw67zsvLPgZ) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [sip at zibetto](https://open.spotify.com/album/3TVwc64dpqtucwupK2dFYR) | 2:20 | 2024-06-07 |  |
 | [Skating the Lake](https://open.spotify.com/track/5IKNbO4WNxnw6JYqyov0zD) | [David North](https://open.spotify.com/artist/2MoOvRAcAFdqZuArPg6qae) | [A Night in Hightown District](https://open.spotify.com/album/6NB7zKzxXcg8KoLk4a0fLk) | 2:11 | 2022-05-20 | 2023-05-02 |
 | [Skyline Moods](https://open.spotify.com/track/2xIMahPvRzDSnbSTHrEKNR) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Valentine Morell](https://open.spotify.com/artist/3l8NLw6POkjXQps81nd7mT) | [Skyline Moods](https://open.spotify.com/album/4Y45XeH0q8o8t9IesoEjsu) | 2:05 | 2023-06-15 | 2023-09-08 |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2022-05-20 |  |
@@ -496,6 +500,7 @@
 | [Tigertail](https://open.spotify.com/track/6buvhZse03pYKeBQCraktL) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Tigertail](https://open.spotify.com/album/6w1V5HODKwRNCpCRC6ViKT) | 2:02 | 2022-05-20 | 2022-11-26 |
 | [Tightrope Dancer](https://open.spotify.com/track/2KNjcNgghOZqNmfCGa5KuY) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Tightrope Dancer](https://open.spotify.com/album/3sHWJRv2zeA6aoc9Y5CeiH) | 2:22 | 2022-05-20 | 2023-01-07 |
 | [Times, Times](https://open.spotify.com/track/1CEeMld7h9WlsJBTobGPyu) | [Eric Goldander](https://open.spotify.com/artist/271Et84OFD9kd3AHKbjoEz) | [Times, Times](https://open.spotify.com/album/2PGffwBFMtFQqAOWPVERQj) | 2:13 | 2022-05-20 | 2022-09-09 |
+| [Tiramisu](https://open.spotify.com/track/0J5sw50qJ2zDXxhMArqDbQ) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Tiramisu](https://open.spotify.com/album/2Ofv9NdzLfhixtPYumV42p) | 2:18 | 2024-06-07 |  |
 | [Together We Rise](https://open.spotify.com/track/7dPy1jjF1wDcZGSdtNjAeO) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Together We Rise](https://open.spotify.com/album/1OKTb9azfDG2Ht9a8UMca4) | 2:31 | 2022-07-15 |  |
 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 | 2022-07-29 | 2024-04-19 |
 | [Tokyo Trainspotting](https://open.spotify.com/track/5BytyiwDLVxJS1x4vgaeli) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:00 | 2022-10-28 | 2022-11-14 |

@@ -2,9 +2,9 @@
 
 ### [This Is Jung Kook](https://open.spotify.com/playlist/37i9dQZF1DXdVUsw2RlcPf)
 
-> Are you ready to listen JK's songs for 7 DAYS?
+> Are you ready to listen JK's songs for 7 DAYS? 💜
 
-68 songs - 3 hr 14 min
+69 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Left and Right \(feat\. Jung Kook of BTS\) \- Sam Feldt Remix](https://open.spotify.com/track/17IVw95dOZSIiq7dz4UWaD) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Left and Right \(feat\. Jung Kook of BTS\) \[Sam Feldt Remix\]](https://open.spotify.com/album/2ABebFmcboCDooqDlNriEH) | 2:42 | 2023-07-14 |  |
 | [My Time](https://open.spotify.com/track/0YJFlxeHMUr9MxSDQVuQJA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:54 | 2023-07-14 | 2024-04-19 |
 | [My You](https://open.spotify.com/track/0pNFrM5L0te1EXGxveeYiR) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [My You](https://open.spotify.com/album/2JtVLn2oCVjOik77fh75uU) | 2:45 | 2023-07-14 |  |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-07 |  |
 | [Please Don't Change \(feat\. DJ Snake\)](https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:26 | 2023-11-03 |  |
 | [Seven \(David Guetta Remix \- Extended\)](https://open.spotify.com/track/0EGVwtzxVKpwRP30ydQ8mZ) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Seven \(feat\. Latto\) \(David Guetta Remix\)](https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH) | 3:36 | 2023-11-03 |  |
 | [Seven \(David Guetta Remix\)](https://open.spotify.com/track/1JedlGqkzYvVUITKsvhbPh) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Seven \(feat\. Latto\) \(David Guetta Remix\)](https://open.spotify.com/album/4a8HKe6jKdCemtBCh5LnYH) | 2:37 | 2023-11-03 |  |

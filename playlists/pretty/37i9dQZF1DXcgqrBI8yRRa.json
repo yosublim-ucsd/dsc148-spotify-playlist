@@ -1,6 +1,6 @@
 {
   "description": "6 +2 = ATE!",
-  "num_followers": 31887,
+  "num_followers": 31996,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
@@ -428,12 +428,12 @@
           "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
         },
         {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
           "name": "S.N.E",
           "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
         }
       ],
       "duration_ms": 390000,

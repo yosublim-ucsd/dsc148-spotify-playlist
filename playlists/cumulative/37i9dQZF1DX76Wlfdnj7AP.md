@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,353 songs - 3 day 1 hr 17 min
+1,354 songs - 3 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ball If I Want To](https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Ball If I Want To](https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu) | 1:52 | 2021-06-23 | 2023-03-09 |
 | [Ballie \(feat\. Kah\-Lo\) \- Destructo Remix](https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Ballie \(feat\. Kah\-Lo\) \[Destructo Remix\]](https://open.spotify.com/album/4KPLKJL2s9CIYXDA7gIM92) | 4:26 | 2020-09-15 | 2022-01-11 |
 | [Ballin With a Check](https://open.spotify.com/track/2czHmNpQcywFsmp4YqfMNS) | [Mesa](https://open.spotify.com/artist/01X8Clo7G0yTxbEOpUhiW2) | [You Either Win or Learn](https://open.spotify.com/album/6UHwjxU2DNhAAeO94fnGvB) | 2:49 | 2019-06-06 | 2020-03-07 |
+| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-07 |  |
 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 | 2021-02-17 | 2021-03-23 |
 | [Bandit \(with YoungBoy Never Broke Again\)](https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Bandit \(with YoungBoy Never Broke Again\)](https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH) | 3:09 | 2020-10-06 | 2022-08-09 |
 | [Bandz \(feat\. Yo Gotti, Kevin Gates & Denzel Curry\)](https://open.spotify.com/track/6tbhJje9chpqpYTXPq4TUh) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Bandz \(feat\. Yo Gotti, Kevin Gates & Denzel Curry\)](https://open.spotify.com/album/5m6cytm0NHu2t0k3Opj4YU) | 2:24 | 2020-04-04 | 2020-05-30 |
@@ -133,7 +134,7 @@
 | [Bill Murray](https://open.spotify.com/track/02Q7GcNPVgFNr8nNhq5oLg) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Bill Murreee](https://open.spotify.com/album/3bkmp58aIzvWZnmCBvryxF) | 8:09 | 2020-03-20 | 2020-09-15 |
 | [BILLIE EILISH.](https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 1:39 | 2023-04-21 | 2024-04-19 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-09-09 | 2023-05-08 |
-| [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2024-05-03 |  |
+| [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2024-05-03 | 2024-06-08 |
 | [Birdz \(with Smokepurpp\)](https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Birdz \(with Smokepurpp\)](https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai) | 2:42 | 2021-02-02 | 2022-07-29 |
 | [bitches](https://open.spotify.com/track/2cqscm1gWXZElrn48maeMe) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [bitches](https://open.spotify.com/album/2leobyqQarqugCXzuEzTAY) | 3:37 | 2021-06-09 | 2022-07-29 |
 | [Bite Your Lip](https://open.spotify.com/track/0auWmQ8dkRRXWTDTI6PMVz) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Bite Your Lip](https://open.spotify.com/album/4CCnn9ryKllMckHyKbEldn) | 3:32 | 2019-07-04 | 2019-10-23 |

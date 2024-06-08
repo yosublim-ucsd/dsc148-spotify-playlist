@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
@@ -1190,6 +1190,24 @@
       "duration_ms": 138000,
       "name": "CS_MAD",
       "url": "https://open.spotify.com/track/5I7QWwxBMwkvoAaknfDtbH"
+    },
+    {
+      "album": {
+        "name": "csgo",
+        "url": "https://open.spotify.com/album/0uqP8CuxPWhYkpkItOOOxj"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99775,
+      "name": "csgo",
+      "url": "https://open.spotify.com/track/5QNWMsROSD7NWMnDkA8WlY"
     },
     {
       "album": {
@@ -2871,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Lejos del ruido",
+        "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
+      },
+      "artists": [
+        {
+          "name": "Stormykid",
+          "url": "https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188903,
+      "name": "Lejos del ruido",
+      "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
+    },
+    {
+      "album": {
         "name": "LEYNDELL",
         "url": "https://open.spotify.com/album/7nPU0wxoboTA6KyW38fAbd"
       },
@@ -4230,7 +4266,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 87739,
       "name": "NUNCA M\u00c1S",
       "url": "https://open.spotify.com/track/7eOsby9WbPNAa19uV8FmJX"

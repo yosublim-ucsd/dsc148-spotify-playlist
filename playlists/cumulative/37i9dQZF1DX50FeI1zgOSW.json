@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "3PM in Chennai",
+        "url": "https://open.spotify.com/album/2xVByRUYQCKaHJOlrtgjeN"
+      },
+      "artists": [
+        {
+          "name": "JBE",
+          "url": "https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ"
+        },
+        {
+          "name": "Akroniim",
+          "url": "https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "3PM in Chennai",
+      "url": "https://open.spotify.com/track/4AoGxCTkCAGujIDzSeuOoI"
+    },
+    {
+      "album": {
         "name": "Aasa Dhan",
         "url": "https://open.spotify.com/album/6ynGIWcXwy4sD2VohRGM8p"
       },
@@ -2894,6 +2916,24 @@
       "duration_ms": 285055,
       "name": "Manase",
       "url": "https://open.spotify.com/track/5LUZ0deU7z2IxNc6wZzKfL"
+    },
+    {
+      "album": {
+        "name": "Manase",
+        "url": "https://open.spotify.com/album/3swHZKoMAmokLakWLNecto"
+      },
+      "artists": [
+        {
+          "name": "Kaushik Mahalengam",
+          "url": "https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164731,
+      "name": "Manase",
+      "url": "https://open.spotify.com/track/3y99gwxzYZAmDZSwStWD6N"
     },
     {
       "album": {

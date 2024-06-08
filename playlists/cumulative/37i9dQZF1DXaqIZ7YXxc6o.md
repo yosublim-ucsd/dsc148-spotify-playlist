@@ -2,9 +2,9 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Disclosure
+> Your weekly dose of new dance\. Cover: Peggy Gou
 
-2,317 songs - 5 day 8 hr 49 min
+2,318 songs - 5 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [Day Dreams](https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Day Dreams](https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU) | 3:45 | 2023-08-03 | 2023-08-25 |
 | [Daydreaming](https://open.spotify.com/track/03KKOOaiT06KVqRpw5VvBF) | [So Below](https://open.spotify.com/artist/2j551jqYq2HQH3R63vtSQi) | [Daydreaming](https://open.spotify.com/album/7JPhJVbw9qTphr4Y5k00LS) | 4:32 | 2024-01-18 | 2024-02-16 |
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-09-28 | 2023-11-03 |
-| [Days Of The Week](https://open.spotify.com/track/1tR8TOA5oiAQZ89N3kiRzV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Days Of The Week](https://open.spotify.com/album/3Mxp2vbDYmA1vtoQ5lAkwB) | 3:32 | 2024-05-02 |  |
+| [Days Of The Week](https://open.spotify.com/track/1tR8TOA5oiAQZ89N3kiRzV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Days Of The Week](https://open.spotify.com/album/3Mxp2vbDYmA1vtoQ5lAkwB) | 3:32 | 2024-05-02 | 2024-06-08 |
 | [De Carle \- KETTAMA Remix](https://open.spotify.com/track/20S0Uu2h1RZ4oVivYNdueF) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [De Carle \(KETTAMA Remix\)](https://open.spotify.com/album/3RAqyYwQf1WDTU3OgJPK1H) | 3:08 | 2023-05-11 | 2023-06-02 |
 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 | 2023-09-28 | 2023-10-20 |
 | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/track/4khQKeEOy202MjC5z3r1en) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7), [Manning](https://open.spotify.com/artist/1RKaA4DmhRXFTelAvV3Gen) | [Deadset 10 \- \(feat\. Manning\)](https://open.spotify.com/album/6Cl0RPUILQLnWuW3bF1H90) | 3:46 | 2023-03-03 | 2023-03-25 |
@@ -1955,6 +1955,7 @@
 | [Take You Back](https://open.spotify.com/track/3z3xd2EGeoShxJFqt51PzS) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Take You Back](https://open.spotify.com/album/3dgOWmYIB6SX0grUGi2myi) | 2:45 | 2023-09-07 | 2023-09-30 |
 | [Taking Care of You](https://open.spotify.com/track/0cbysxAOyCbv6g5tOMXC0m) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Strange Motions](https://open.spotify.com/album/7KtRO9Htcv5RWIYYDcxlNm) | 2:56 | 2024-03-07 | 2024-04-05 |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-02-23 | 2023-03-18 |
+| [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 |  |
 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-04-28 |
 | [Talk With Me \- Jamieson Shaw Remix](https://open.spotify.com/track/1udK3TgXJEZUdKllcl5wxY) | [Kira Puru](https://open.spotify.com/artist/4tqKQAZcPhjqMmHaVRGHaY), [Jamieson Shaw](https://open.spotify.com/artist/1lqJXtQ5gmLJN3gJEYj7e5) | [Talk With Me \(Jamieson Shaw Remix\)](https://open.spotify.com/album/4Mblq7cYTbuhuVNQ5YNW7u) | 4:28 | 2023-03-03 | 2023-03-25 |
 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 | 2023-10-26 | 2023-11-17 |

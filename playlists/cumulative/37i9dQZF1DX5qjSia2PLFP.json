@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:0ErzCpIMyLcjPiwT4elrtZ\">NLE Choppa</a> ",
+  "description": "New music breaking waves. Cover: Guess what? He's <a href=\"spotify:artist:6ygDlIilHZqielxxkvmIVH\">J.P. </a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -914,6 +914,24 @@
       "duration_ms": 174576,
       "name": "ALL 4 YOU",
       "url": "https://open.spotify.com/track/6PTEIszOGU733zIulViPjo"
+    },
+    {
+      "album": {
+        "name": "All On Me",
+        "url": "https://open.spotify.com/album/3bEauHkxRKzRDrd03hETc8"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134012,
+      "name": "All On Me",
+      "url": "https://open.spotify.com/track/0VNw1hLu0iVvSd6EFqlzcQ"
     },
     {
       "album": {
@@ -4172,7 +4190,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 229610,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/3HPMlKfHRUCfHiPHSLn2tf"
@@ -6052,7 +6070,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200834,
       "name": "Gang Gang (feat. Baby Kia)",
       "url": "https://open.spotify.com/track/2oaOfTI7My7xxojxHvob5L"
@@ -8792,7 +8810,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174991,
       "name": "LAND OF CAP",
       "url": "https://open.spotify.com/track/7pknvE1UW51NEz9dxx8VSa"
@@ -9513,6 +9531,28 @@
     },
     {
       "album": {
+        "name": "ERROR 404",
+        "url": "https://open.spotify.com/album/33X7CmFuM7WuVyTho420ZG"
+      },
+      "artists": [
+        {
+          "name": "Nasaan",
+          "url": "https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136492,
+      "name": "LUNCHROOM FREESTYLE (feat. BabyTron)",
+      "url": "https://open.spotify.com/track/0IdnpPAGtYbUH3TWHR9Egn"
+    },
+    {
+      "album": {
         "name": "LUV IS WAR",
         "url": "https://open.spotify.com/album/3nJ7UdqlyPf7nzlug8uimo"
       },
@@ -10204,7 +10244,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 127081,
       "name": "More Of Yah Love (Mhmm)",
       "url": "https://open.spotify.com/track/2NHNALfjfVxHjw1Ke1v7ql"
@@ -10476,7 +10516,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 138948,
       "name": "Naija Babes",
       "url": "https://open.spotify.com/track/1DCUYnbWTep8rmCcSywMQw"
@@ -11162,6 +11202,24 @@
       "duration_ms": 230214,
       "name": "OFF THE PORCH (feat. BigXthaPlug & Maxo Kream)",
       "url": "https://open.spotify.com/track/7Am9RFay6kI4ZBjipOG4GX"
+    },
+    {
+      "album": {
+        "name": "Coming Out Party",
+        "url": "https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "Oh Yeahhh",
+      "url": "https://open.spotify.com/track/2OGzLmhDaSZhQkJQf3VnW9"
     },
     {
       "album": {
@@ -12138,6 +12196,24 @@
       "duration_ms": 171133,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh"
+    },
+    {
+      "album": {
+        "name": "Pop It",
+        "url": "https://open.spotify.com/album/5Z0h3q1fHzPDmIJbG6FuiQ"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138749,
+      "name": "Pop It",
+      "url": "https://open.spotify.com/track/7uVc645aKDimYANWvNof3A"
     },
     {
       "album": {
@@ -13419,6 +13495,24 @@
     },
     {
       "album": {
+        "name": "Score",
+        "url": "https://open.spotify.com/album/6nCbwIgJDREfocOft96v2B"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162004,
+      "name": "Score",
+      "url": "https://open.spotify.com/track/32c876XfKWsYU5jGL3bI64"
+    },
+    {
+      "album": {
         "name": "ScoreGod",
         "url": "https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9"
       },
@@ -14012,7 +14106,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 159083,
       "name": "Situationships",
       "url": "https://open.spotify.com/track/4otFh3wXkWQnHDIu0WJTG5"
@@ -15335,6 +15429,24 @@
     },
     {
       "album": {
+        "name": "Talk My Shit 4",
+        "url": "https://open.spotify.com/album/5PLXaD02ib9yHizyR7CZRG"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124958,
+      "name": "Talk My Shit 4",
+      "url": "https://open.spotify.com/track/4LzfF7d5iWgGoBerbwOiXk"
+    },
+    {
+      "album": {
         "name": "Talk Show",
         "url": "https://open.spotify.com/album/2qalBZUtJcnoPZ9IUyn0il"
       },
@@ -16192,7 +16304,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 147020,
       "name": "Turn it up",
       "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
@@ -16376,6 +16488,24 @@
       "duration_ms": 149000,
       "name": "Unsigned Hype",
       "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
+    },
+    {
+      "album": {
+        "name": "Unthinkable",
+        "url": "https://open.spotify.com/album/68PgFSPyYXnClQ4tNVgGYb"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "Unthinkable",
+      "url": "https://open.spotify.com/track/5f6HjjquypJa3JOtAzdDpi"
     },
     {
       "album": {
@@ -16734,10 +16864,32 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 224000,
       "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
       "url": "https://open.spotify.com/track/2WaOQ9TCXEpoAMVzT9GUJt"
+    },
+    {
+      "album": {
+        "name": "Wanna Be (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/06VGCe5MitPzT9VuqH4u1C"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH"
     },
     {
       "album": {

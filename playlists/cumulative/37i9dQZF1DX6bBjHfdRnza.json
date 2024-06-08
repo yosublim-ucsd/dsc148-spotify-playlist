@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/2N6dmxDdXssCmKZ9CH6TMh"
+      },
+      "artists": [
+        {
+          "name": "sh4dows",
+          "url": "https://open.spotify.com/artist/4DPKSbupqoAbyidbz3SHTM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290322,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/6RYfj38hIUXZfuL1gw11fQ"
+    },
+    {
+      "album": {
         "name": "Around Me",
         "url": "https://open.spotify.com/album/4kriBhA9Kt03FJeNuPYebq"
       },
@@ -5756,7 +5774,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 213064,
       "name": "Can't Stop This Feeling",
       "url": "https://open.spotify.com/track/0ZQiRX0H2xcxMXovA2Lj8z"
@@ -6572,7 +6590,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 150061,
       "name": "Class",
       "url": "https://open.spotify.com/track/7f07okGBsdVLROcwsZNUK0"
@@ -8748,7 +8766,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 210461,
       "name": "Deep Eyes",
       "url": "https://open.spotify.com/track/4XTz4wAITZlLjOYtxYXv4Q"
@@ -10034,6 +10052,24 @@
       "duration_ms": 178405,
       "name": "Don't Really Care",
       "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
+    },
+    {
+      "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Don't Risk It",
+      "url": "https://open.spotify.com/track/2eO5PBPjJLW28WELR8JSbo"
     },
     {
       "album": {
@@ -12282,7 +12318,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 223314,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/1wICnj0tNvqfL2t7ZzJ782"
@@ -17086,6 +17122,24 @@
       "duration_ms": 170984,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/59EHV3Pq4npDGCBIWe3Aj2"
+    },
+    {
+      "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/5D35QfVprO5Nz16J8pjEuu"
+      },
+      "artists": [
+        {
+          "name": "GAZZI",
+          "url": "https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317939,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/3zP3GUeML163NQR1jMfcIp"
     },
     {
       "album": {
@@ -22576,7 +22630,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 173507,
       "name": "Magic Garden",
       "url": "https://open.spotify.com/track/2wZ061VVOcR5GeCIab6wj2"
@@ -29930,7 +29984,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 221104,
       "name": "Reticence",
       "url": "https://open.spotify.com/track/7CptMbH0I2zpm5yPYF70r9"
@@ -31649,6 +31703,32 @@
     },
     {
       "album": {
+        "name": "Show U",
+        "url": "https://open.spotify.com/album/4dXlOx92YhQm9EgJ2t6YLF"
+      },
+      "artists": [
+        {
+          "name": "Silent Boy",
+          "url": "https://open.spotify.com/artist/6mF4BkHXn187nmDfA7d9Mu"
+        },
+        {
+          "name": "defyer",
+          "url": "https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE"
+        },
+        {
+          "name": "yaego",
+          "url": "https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209303,
+      "name": "Show U",
+      "url": "https://open.spotify.com/track/34qVvGlPJBSj0tPvqkKTCL"
+    },
+    {
+      "album": {
         "name": "Solar Attachment EP",
         "url": "https://open.spotify.com/album/0E3UkAznodkKVEjKTOE9pp"
       },
@@ -31948,7 +32028,7 @@
       },
       "artists": [
         {
-          "name": "Kimswim",
+          "name": "KIM SWIM",
           "url": "https://open.spotify.com/artist/5wRR3aLJ5lZslvIQtugEGt"
         }
       ],
@@ -32644,6 +32724,24 @@
       "duration_ms": 224881,
       "name": "Solace",
       "url": "https://open.spotify.com/track/4JEAMMJYkYk6LwL2Pnamx7"
+    },
+    {
+      "album": {
+        "name": "SOLAIRE",
+        "url": "https://open.spotify.com/album/2SeniN6D6H6o7vcC0B18yI"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ALL FRIENDS",
+          "url": "https://open.spotify.com/artist/6Jy94E7pGZhtlx93qNkRaS"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136540,
+      "name": "SOLAIRE - Original Mix",
+      "url": "https://open.spotify.com/track/6QY7nLsEF0h4lqzZtgGzpt"
     },
     {
       "album": {
@@ -35396,6 +35494,24 @@
       "duration_ms": 153750,
       "name": "Tembleke",
       "url": "https://open.spotify.com/track/7Lndl6odK39VWQzy8q2YSe"
+    },
+    {
+      "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6aKGDyR5AGabrgoK72IspI"
+      },
+      "artists": [
+        {
+          "name": "GiGi FM",
+          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333913,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
     },
     {
       "album": {
@@ -40827,6 +40943,24 @@
     },
     {
       "album": {
+        "name": "WTP",
+        "url": "https://open.spotify.com/album/1027yPGO8D7GPGz0fmICux"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173712,
+      "name": "WTP",
+      "url": "https://open.spotify.com/track/2QFFM9WXVKhangOz59nEn0"
+    },
+    {
+      "album": {
         "name": "Wut I Gotta Fix?!",
         "url": "https://open.spotify.com/album/4S69ePIPsia30AvR4hTyo9"
       },
@@ -41620,7 +41754,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 393066,
       "name": "Yummy",
       "url": "https://open.spotify.com/track/4FhyW1Rhrj9S0hKE2gzZEE"

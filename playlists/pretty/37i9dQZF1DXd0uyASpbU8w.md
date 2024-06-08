@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=1no\-\_9A0RySzCGhZdGWScw">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,560 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,669 likes - 70 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 10 | [BMXXing](https://open.spotify.com/track/5xR8ngEQmlQ1U2xSE0KzTo) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [BMXXing](https://open.spotify.com/album/5cH3Lzm6kYM7sxkpDprzkd) | 2:35 |
 | 11 | [FIGURE IT OUT](https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl) | [ROLE MODEL](https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X) | 3:03 |
 | 12 | [KELENKETLA](https://open.spotify.com/track/03NzyWJ2gaHbdu8fULtt9O) | [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ), [Tshego Dee](https://open.spotify.com/artist/1DHog2MrNZNGV2T7EfCZO1), [Ocean Biller](https://open.spotify.com/artist/2os0iexM51EDevBsMrrBz9), [Tskay](https://open.spotify.com/artist/1DSSY6nF8Y22sSmQW8lSIM) | [KELENKETLA](https://open.spotify.com/album/4O7AGjGSb75mjMCvWsOzTQ) | 8:12 |
-| 13 | [Phumelela](https://open.spotify.com/track/28bNxEMScVw4ZjzFRYm9eK) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Kwakhanya](https://open.spotify.com/album/4wSUQRLxZdGyicxSuYlFaX) | 6:17 |
+| 13 | [BoGogo](https://open.spotify.com/track/4kydNoaTX4vfyCPeXE2bpt) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Kwakhanya](https://open.spotify.com/album/4wSUQRLxZdGyicxSuYlFaX) | 6:18 |
 | 14 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 |
 | 15 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 |
 | 16 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 69 | [Piece Of My Heart](https://open.spotify.com/track/7hQLLh5SFR5fwHDLvHt2wS) | [Faker Streets](https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV) | [Piece Of My Heart](https://open.spotify.com/album/6Y5HQN9lTvPFxiifewUSLu) | 3:03 |
 | 70 | [Waterfall](https://open.spotify.com/track/4NICj7uioHlHDAXN2MvAEv) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [Waterfall](https://open.spotify.com/album/2zWa8E1BttePq9x7mUcNDi) | 2:37 |
 
-Snapshot ID: `ZmJGeAAAAAD8OgBnsTS169aE5jqrAU5a`
+Snapshot ID: `ZmKyFQAAAADMhGWJW4wKYbB9SACmGWnn`

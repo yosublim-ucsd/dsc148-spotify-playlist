@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 水曜日のカンパネラ \*👉 <a href="https://spice.eplus.jp/articles/329104?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 水曜日のカンパネラ \*👉 <a href="https://spice.eplus.jp/articles/329287?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,416 likes - 79 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,452 likes - 79 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [Bad Week](https://open.spotify.com/track/5o0ZSmsE7nAO0LHWO07PRe) | [Puff](https://open.spotify.com/artist/5UhiiLdlZhWqyThTakJmkw) | [Bad Week](https://open.spotify.com/album/1zpwfwI7bq37oVKUAUEnFu) | 3:28 |
 | 79 | [Happy to be alone](https://open.spotify.com/track/1d8Whl0yAXZVNgTLOHxfdc) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Happy to be alone](https://open.spotify.com/album/3593u7WSksVJNhXjZ3XGT8) | 4:23 |
 
-Snapshot ID: `Zl/qawAAAAAAU17GtQeke2NF1XUzea1x`
+Snapshot ID: `ZmMJhgAAAAD3MBQ/WHIYNQ+hAVWEsJlj`

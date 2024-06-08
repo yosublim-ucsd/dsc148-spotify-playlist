@@ -1,13 +1,73 @@
 {
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
-  "num_followers": 63085,
+  "num_followers": 63115,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj2b/AAAAADIIkk4HgxRMOhw6lcd2QFz",
+  "snapshot_id": "ZmKFwAAAAADSiiEGFnaPiK/U7XfnQT8l",
   "tracks": [
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Born To Fly",
+        "url": "https://open.spotify.com/album/0xAbzVWIUCzVZjkQ7AKrum"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Arun Shenoy",
+          "url": "https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU"
+        },
+        {
+          "name": "Douglas Lira",
+          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+        },
+        {
+          "name": "Erik Fredriksen",
+          "url": "https://open.spotify.com/artist/5CcllNR4re2mZopKUwFoQl"
+        }
+      ],
+      "duration_ms": 224268,
+      "name": "Born To Fly",
+      "url": "https://open.spotify.com/track/0O4vv4lVhxzAaIj7RqFGo4"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Levante",
+        "url": "https://open.spotify.com/album/3es4r2kxay6xjDFi20KRMG"
+      },
+      "artists": [
+        {
+          "name": "Marc Antoine",
+          "url": "https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls"
+        }
+      ],
+      "duration_ms": 273979,
+      "name": "Levante",
+      "url": "https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "If Everything Is Written",
+        "url": "https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk"
+      },
+      "artists": [
+        {
+          "name": "Ludovic Louis",
+          "url": "https://open.spotify.com/artist/7dzml0MudQRS956whBQ455"
+        }
+      ],
+      "duration_ms": 177833,
+      "name": "A Beautiful Story",
+      "url": "https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo"
+    },
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
@@ -687,34 +747,6 @@
       "duration_ms": 155744,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/3TskladYjEgSqIZyrUCcTW"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "The Midnight Hour",
-        "url": "https://open.spotify.com/album/61ab02LuWOgobf26KFTzNt"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shell",
-          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
-        },
-        {
-          "name": "Kenny McNeil",
-          "url": "https://open.spotify.com/artist/2f4y9aaQv5kxA2xDdsXGEg"
-        },
-        {
-          "name": "Sami Turunen",
-          "url": "https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO"
-        },
-        {
-          "name": "Cord Martin",
-          "url": "https://open.spotify.com/artist/63cZyR7rLr6FUBcJXb7tXx"
-        }
-      ],
-      "duration_ms": 300331,
-      "name": "The Midnight Hour",
-      "url": "https://open.spotify.com/track/3jqojVnh48SfXj2habMRC3"
     },
     {
       "added_at": "2024-01-26 05:01:00",
@@ -1647,42 +1679,6 @@
       "duration_ms": 242181,
       "name": "Uluwatu",
       "url": "https://open.spotify.com/track/3qZWEsYLCRTR5YCArqIdra"
-    },
-    {
-      "added_at": "2023-02-03 05:01:00",
-      "album": {
-        "name": "All Love",
-        "url": "https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8"
-      },
-      "artists": [
-        {
-          "name": "Candy Dulfer",
-          "url": "https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa"
-        }
-      ],
-      "duration_ms": 192081,
-      "name": "All Love",
-      "url": "https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Stick It Out",
-        "url": "https://open.spotify.com/album/7BnIe8wSqy0cC3M96mZax5"
-      },
-      "artists": [
-        {
-          "name": "James 'PJ' Spraggins",
-          "url": "https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV"
-        },
-        {
-          "name": "Eric Dubose",
-          "url": "https://open.spotify.com/artist/4zY23YqtW0FKY67lqFhKqK"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/4ZkcYV2L5wz3a1VcmaAZ3t"
     },
     {
       "added_at": "2023-02-10 05:01:00",

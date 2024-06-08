@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Shanaia Gomez\. Artwork: Isu Kim
 
-2,378 songs - 5 day 20 hr 13 min
+2,380 songs - 5 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1279,6 +1279,7 @@
 | [Ma Orosa](https://open.spotify.com/track/22kB7ZLdZyL05JzahITkM1) | [Woochito](https://open.spotify.com/artist/52bAltwk2XQU59byS5lvkx) | [Ma Orosa](https://open.spotify.com/album/4C49U85BPtnbz8HhIrs6OF) | 3:35 | 2023-04-27 | 2023-05-12 |
 | [MAAARI BA](https://open.spotify.com/track/3D3wKeaHvsuet2mZbkscpA) | [Ron David](https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa), [JP Bacallan](https://open.spotify.com/artist/4FHrW1ts0EkPM27nmHtxQG) | [MAAARI BA](https://open.spotify.com/album/6cWj8bBEkN3GcJg5zmfvx8) | 3:27 | 2023-04-27 | 2023-05-19 |
 | [mactan mood](https://open.spotify.com/track/35vRPINUXxi6P8V83CcoKl) | [Raquel Lily](https://open.spotify.com/artist/52GCIFMn2sVO3wwj8EnQsG), [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa) | [mactan mood](https://open.spotify.com/album/7aqkwgNgHQZ2kvtKbxrdqF) | 3:26 | 2023-07-20 | 2023-08-11 |
+| [MAD INLUV](https://open.spotify.com/track/7IZppnQVjjOVn80FAYBNLF) | [Iyann](https://open.spotify.com/artist/7yxN1vpq35MDcvRPn1JDhk) | [MAD INLUV](https://open.spotify.com/album/28U0Xt9QvCY7JJ9cUeZWiX) | 3:05 | 2024-06-06 |  |
 | [Madaling Araw](https://open.spotify.com/track/5IMRgRqZ4kZuOhWncWbVer) | [Gabriel Tagadtad](https://open.spotify.com/artist/6CadRLbU858nkPpPPkA3KC) | [Madaling Araw](https://open.spotify.com/album/4yJlBWimFUBZera3U1Zlwc) | 3:39 | 2022-05-26 | 2022-06-17 |
 | [Madonna](https://open.spotify.com/track/3qtNqMA8AZzlImJtbai7J0) | [Knowa Lazarus](https://open.spotify.com/artist/2EcLLQZDUL6D0MrdnfcbTT), [Flava Matikz](https://open.spotify.com/artist/56rofFxvWiCECZYFrjmYCk), [Sheng Belmonte](https://open.spotify.com/artist/7HUmNO7rTvpCubxkBAcJUt) | [Madonna](https://open.spotify.com/album/0a68PviWe4lowdihSyIcBR) | 2:51 | 2023-05-25 | 2023-06-09 |
 | [Mafia $inatra](https://open.spotify.com/track/5257ou17nYNTdU8abCgm8K) | [RCRD](https://open.spotify.com/artist/0n0E2LmDA8i3mTeIIGrjWP), [Dank Puffs](https://open.spotify.com/artist/2bTRmUYk3HLOlmfaAFnHcg), [JomattzPRDG](https://open.spotify.com/artist/0C3RyM5YfI3g3lqwOe76I9) | [Mafia $inatra](https://open.spotify.com/album/5yB60zSF8RatRiRofG2mki) | 4:19 | 2023-06-29 | 2023-07-14 |
@@ -1462,6 +1463,7 @@
 | [Ngiti](https://open.spotify.com/track/6Hc9QD61sms24Wac2f8t0g) | [Love Eat Pray](https://open.spotify.com/artist/5P28DBsKBKrmUx7PQsC3Tp) | [Ngiti](https://open.spotify.com/album/07lnSNff8NoetfiSIPoKdq) | 5:36 | 2022-05-19 | 2022-06-17 |
 | [Nicole](https://open.spotify.com/track/1SicMZ4lFFOhfm4xgIqSPC) | [KOLAR!S](https://open.spotify.com/artist/4zjGJb2jgFthbymEY2lx3i) | [Nicole](https://open.spotify.com/album/2KBGcFnQL3USMCiITwu7Na) | 4:29 | 2022-10-13 | 2023-02-03 |
 | [Night Bloom](https://open.spotify.com/track/5jwSZNxOQDvupDEFYEkGHU) | [Mica Caldito](https://open.spotify.com/artist/6XdTCrSBB4lV5MVqZEuygi) | [Night Bloom](https://open.spotify.com/album/4FfVdOdCpeC01MlrDkn05e) | 5:25 | 2023-06-08 | 2023-06-23 |
+| [Night Club](https://open.spotify.com/track/30vytrvYtDlNpticjEFNPg) | [SWKY Shins](https://open.spotify.com/artist/4T9mQvyEgTGdKXKbHUosGl) | [Night Club](https://open.spotify.com/album/1ngpNyWs4m6na1CujbnEZI) | 3:18 | 2024-06-06 |  |
 | [Nights With You](https://open.spotify.com/track/6Cl3R8YOQo2gSXIPMBsdAs) | [Lance Panaguiton](https://open.spotify.com/artist/07mIgkwmP4ECPEBEoCzaQQ) | [Nights With You](https://open.spotify.com/album/2j7LIpsC5RMyUFvOuf6b72) | 4:30 | 2022-01-13 | 2022-03-11 |
 | [NIGHTSHIFT](https://open.spotify.com/track/6WHTqD4IyRUVrKhMG3Fsec) | [LilD](https://open.spotify.com/artist/0aP46vxM4W4zAKRhGeeaIq) | [NIGHTSHIFT](https://open.spotify.com/album/4Y8NN9Dh8Ms5m13ISWex1W) | 2:55 | 2023-03-02 | 2023-03-18 |
 | [Nil'wang Paruparo](https://open.spotify.com/track/0TPRtIN2vLGHQfVkypZZrT) | [The Color of Tears](https://open.spotify.com/artist/02QcpNGEjhuTLEMAPkHdwm) | [Nil'wang Paruparo](https://open.spotify.com/album/75p9QtOYAevaNd5O22JtGU) | 4:42 | 2024-05-30 |  |

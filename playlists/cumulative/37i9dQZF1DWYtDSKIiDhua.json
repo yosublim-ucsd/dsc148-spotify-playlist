@@ -5361,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Hold Hands",
+        "url": "https://open.spotify.com/album/1vkHevjCbUuMw66cu8u6IK"
+      },
+      "artists": [
+        {
+          "name": "Haneri",
+          "url": "https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224210,
+      "name": "Hold Hands",
+      "url": "https://open.spotify.com/track/3CikomFbSb4FiohC8VouxI"
+    },
+    {
+      "album": {
         "name": "hold me",
         "url": "https://open.spotify.com/album/0JfAcmBChLcmkVhI7cF2n2"
       },
@@ -14356,6 +14374,24 @@
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+    },
+    {
+      "album": {
+        "name": "would you be mine?",
+        "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190432,
+      "name": "would you be mine?",
+      "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
     },
     {
       "album": {

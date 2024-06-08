@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "1000 A\u00f1os de Soledad",
+        "url": "https://open.spotify.com/album/3FKF5HHeAUMx8vKfFdG2Vq"
+      },
+      "artists": [
+        {
+          "name": "EnSecreto",
+          "url": "https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198841,
+      "name": "1000 A\u00f1os de Soledad",
+      "url": "https://open.spotify.com/track/4uZxVRqtgcVtj6Fd9es9kg"
+    },
+    {
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz"
       },
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 173164,
       "name": "BALOTELLI",
       "url": "https://open.spotify.com/track/5yKTrdDTMcQREhIwBikjGI"
@@ -4549,6 +4567,32 @@
     },
     {
       "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/1gnIIZdFJVklWscOqe1qTs"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Awesome Pierre",
+          "url": "https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187669,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2N8kAHdidqn9oXgucjltl6"
+    },
+    {
+      "album": {
         "name": "Desde el Fin del Mundo",
         "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
       },
@@ -5281,6 +5325,32 @@
     },
     {
       "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/6a24wOgInfZRAAj9kOrEcj"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195130,
+      "name": "Como si n\u00e1",
+      "url": "https://open.spotify.com/track/6XUlQSRr5qE48RBYz2fe4I"
+    },
+    {
+      "album": {
         "name": "Como Soy",
         "url": "https://open.spotify.com/album/1cR6oJglM4lxGnB4btAAew"
       },
@@ -5744,7 +5814,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 216250,
       "name": "Coquette (Remix)",
       "url": "https://open.spotify.com/track/5HrjBJVKnfPOgDAIo3Wow4"
@@ -5880,7 +5950,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 233845,
       "name": "Corte Gangster",
       "url": "https://open.spotify.com/track/5IZsaDvrsmMJKgbNHyJpc2"
@@ -6331,6 +6401,24 @@
     },
     {
       "album": {
+        "name": "Daikiri",
+        "url": "https://open.spotify.com/album/6jMP8O6JrV5RsCl7DXqgBs"
+      },
+      "artists": [
+        {
+          "name": "Pablo Feliu",
+          "url": "https://open.spotify.com/artist/3cXTpQLIUC0ANH1Ne9THCG"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132765,
+      "name": "Daikiri",
+      "url": "https://open.spotify.com/track/1yHx7Mu7JfPEpR6yRAbtcq"
+    },
+    {
+      "album": {
         "name": "DAILY",
         "url": "https://open.spotify.com/album/617heENgtA9uMLuQMqGpTg"
       },
@@ -6350,6 +6438,24 @@
       "duration_ms": 144514,
       "name": "DAILY",
       "url": "https://open.spotify.com/track/3FalT15qUp8ONFqLt0Sz9D"
+    },
+    {
+      "album": {
+        "name": "DAKAR",
+        "url": "https://open.spotify.com/album/10qhWnLbVyuQgcdv4DxYaP"
+      },
+      "artists": [
+        {
+          "name": "Falke 912",
+          "url": "https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214464,
+      "name": "DAKAR",
+      "url": "https://open.spotify.com/track/0Go1oLj9k4wo1GqmKrSYFz"
     },
     {
       "album": {
@@ -8253,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "En el BM",
+        "url": "https://open.spotify.com/album/3npvqC8mPV00aouu1z8V54"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "En el BM",
+      "url": "https://open.spotify.com/track/5zqikRs8msVCFGmcNYvIVy"
+    },
+    {
+      "album": {
         "name": "En el Foco",
         "url": "https://open.spotify.com/album/3BPzC6Y0bfY8hrvSogtLAf"
       },
@@ -9114,7 +9238,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200000,
       "name": "FAMOSA",
       "url": "https://open.spotify.com/track/0OPNy6nWFwiMN9Sm4gsQTe"
@@ -14105,6 +14229,28 @@
     },
     {
       "album": {
+        "name": "LUCES LED",
+        "url": "https://open.spotify.com/album/7ypm63X7W7NDU0tdEQADF2"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205783,
+      "name": "LUCES LED",
+      "url": "https://open.spotify.com/track/4NLUPdPaw05ezEfnzB18tX"
+    },
+    {
+      "album": {
         "name": "Lucha",
         "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
       },
@@ -14974,7 +15120,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 160937,
       "name": "Mayor Que Yo",
       "url": "https://open.spotify.com/track/1v3PvIWxBzOCILSy0Kpweu"
@@ -17935,6 +18081,28 @@
     },
     {
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190239,
+      "name": "No Fue Culpa Mia",
+      "url": "https://open.spotify.com/track/5R8UcwccsUN90aEYDFTNnW"
+    },
+    {
+      "album": {
         "name": "No Hacen Nah",
         "url": "https://open.spotify.com/album/0RNWaxIqQjqlKgQKX9Agby"
       },
@@ -18852,7 +19020,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 233273,
       "name": "OCASO",
       "url": "https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF"
@@ -21311,6 +21479,36 @@
     },
     {
       "album": {
+        "name": "Privado (Remix)",
+        "url": "https://open.spotify.com/album/4GNLembnMB6qDUQ6Pn0lze"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252631,
+      "name": "Privado - Remix",
+      "url": "https://open.spotify.com/track/3yfB2VspVzG0yRiYPhhoAL"
+    },
+    {
+      "album": {
         "name": "Problemas y mujeres",
         "url": "https://open.spotify.com/album/1euetCbFCX2LY3yyYXFkcx"
       },
@@ -21620,7 +21818,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 138000,
       "name": "QUE DIR\u00c1S",
       "url": "https://open.spotify.com/track/03HhriyCSGGNWPZ9dX2NDg"
@@ -25592,7 +25790,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 155275,
       "name": "Toda Guapa",
       "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
@@ -27548,7 +27746,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 180000,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/40CY9etkHtzgD3MpjYG8d6"

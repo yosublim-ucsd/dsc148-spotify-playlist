@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza, Elena Rose",
-  "num_followers": 115010,
+  "num_followers": 115059,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAABxqo7iZo2tGjPbaSkYed9a",
+  "snapshot_id": "ZmKFwAAAAADvisewmBp9GmbtMWcmEHw3",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -87,6 +87,26 @@
       "duration_ms": 181714,
       "name": "Peleo con muchos monstruos",
       "url": "https://open.spotify.com/track/7bN1jrJDC0Qvk3yGWjaP4J"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2cU6ygGCAkk3xdOrMuKQq8"
+      },
+      "artists": [
+        {
+          "name": "YourBoyfriend",
+          "url": "https://open.spotify.com/artist/5ViZFETIGIgb0r5HFoyhRF"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5PnmbDZHWwSTzp0WH8Gk2s"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -177,20 +197,24 @@
       "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
     },
     {
-      "added_at": "2024-05-23 18:41:15",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Woman Business",
-        "url": "https://open.spotify.com/album/0TufuBspDAPobZvEN6bMNJ"
+        "name": "Oh Daddy",
+        "url": "https://open.spotify.com/album/4iGAhQkXrLbsOCFw6BfJp3"
       },
       "artists": [
         {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+          "name": "Caeli",
+          "url": "https://open.spotify.com/artist/6nwgvwdDA6fHehXCVbfonn"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Woman Business",
-      "url": "https://open.spotify.com/track/1KHVAiWGHWQW3Q6FBW8fjl"
+      "duration_ms": 159964,
+      "name": "Oh Daddy",
+      "url": "https://open.spotify.com/track/5qbXWAPYYAy7LVY7lVy9Ri"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -257,24 +281,24 @@
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Cosas Que Enamoran",
-        "url": "https://open.spotify.com/album/3cHgF5EuVjGVQ1P5f35k9J"
+        "name": "Pensamientos Locos",
+        "url": "https://open.spotify.com/album/0yzba755yWZ56UHjvm3BGE"
       },
       "artists": [
         {
-          "name": "BCA",
-          "url": "https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf"
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
         },
         {
-          "name": "CRBRO",
-          "url": "https://open.spotify.com/artist/6guLWnvW76oTo4AdSIMBFe"
+          "name": "Casanovaa Oficial",
+          "url": "https://open.spotify.com/artist/49o4wWai2XaO1R5ZcoWzpt"
         }
       ],
-      "duration_ms": 154105,
-      "name": "Cosas Que Enamoran",
-      "url": "https://open.spotify.com/track/1a49mR9cbwbgpEIZ1Wh20y"
+      "duration_ms": 200388,
+      "name": "Pensamientos Locos",
+      "url": "https://open.spotify.com/track/3SWjj9CTzRHxsTboc23gQS"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -329,6 +353,22 @@
       "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "CONFI",
+        "url": "https://open.spotify.com/album/7xH1uhe91QC06VFpz1d7F3"
+      },
+      "artists": [
+        {
+          "name": "Jorkan",
+          "url": "https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "CONFI",
+      "url": "https://open.spotify.com/track/4P62nQ6eUQxZIOANUR9HbY"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "POSE",
@@ -347,30 +387,6 @@
       "duration_ms": 195000,
       "name": "POSE",
       "url": "https://open.spotify.com/track/4qGgvcNoSLt3Q0ap5wWIuu"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Iluso (Remix)",
-        "url": "https://open.spotify.com/album/3Af8exgSAdtNoxxKRBxfBd"
-      },
-      "artists": [
-        {
-          "name": "At' Fat",
-          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
-        },
-        {
-          "name": "Yemil",
-          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
-        },
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        }
-      ],
-      "duration_ms": 181682,
-      "name": "Iluso - Remix",
-      "url": "https://open.spotify.com/track/1rNptUcqZ4gc6UCZsV8yjg"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -425,20 +441,28 @@
       "url": "https://open.spotify.com/track/03QMCESooLqQkjjbQBp1Fv"
     },
     {
-      "added_at": "2024-05-23 18:41:15",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "(OnlyhitsSession) #1 No se puede",
-        "url": "https://open.spotify.com/album/6urikSIjJjMyfSvKT1yklF"
+        "name": "Fala Fala",
+        "url": "https://open.spotify.com/album/17M9txW9mQ5sYlnZIadSye"
       },
       "artists": [
         {
-          "name": "Chief Garra",
-          "url": "https://open.spotify.com/artist/17otgIOpUqMth4aMxFAArV"
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Sherdon1zone",
+          "url": "https://open.spotify.com/artist/08seIsg0pTDGeRhEfMGrpU"
+        },
+        {
+          "name": "Bvlgarich",
+          "url": "https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R"
         }
       ],
-      "duration_ms": 179099,
-      "name": "(OnlyhitsSession) #1 No se puede",
-      "url": "https://open.spotify.com/track/2tFLj46HnW9KIBhf8C0ttQ"
+      "duration_ms": 198058,
+      "name": "Fala Fala",
+      "url": "https://open.spotify.com/track/0d00ap8BMDwc54AYZgOiA6"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -509,6 +533,38 @@
       "url": "https://open.spotify.com/track/7bkGJ5EGPf4x6MAnzG7TaA"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Piso 26",
+        "url": "https://open.spotify.com/album/7srjka4pJ8vH8XBOrb6FJs"
+      },
+      "artists": [
+        {
+          "name": "Fulo El Yeyo",
+          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "Aldair Productions",
+          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
+        },
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Bvlgarich",
+          "url": "https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R"
+        }
+      ],
+      "duration_ms": 219585,
+      "name": "Piso 26",
+      "url": "https://open.spotify.com/track/5wGG1JdfRYtcrhbkN2Ig4i"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "La del Tik Tok",
@@ -523,30 +579,6 @@
       "duration_ms": 257592,
       "name": "La del Tik Tok",
       "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "NO SON PA' SIEMPRE",
-        "url": "https://open.spotify.com/album/2B6Rx0Y4vMf6PiDlvJD0uC"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Ruso Beats",
-          "url": "https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "NO SON PA' SIEMPRE",
-      "url": "https://open.spotify.com/track/5KKVP1q1EoI7qJ8FSgvVUH"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -755,22 +787,6 @@
       "duration_ms": 251866,
       "name": "Por Ley",
       "url": "https://open.spotify.com/track/3Zb2735n7CfJ8ZwKd69O01"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Ni\u00f1a Mala",
-        "url": "https://open.spotify.com/album/4LUFDFtkwWHZhEPjy9OTh3"
-      },
-      "artists": [
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Ni\u00f1a Mala",
-      "url": "https://open.spotify.com/track/6jFhUbJjxlhfQmWmxbqRPB"
     },
     {
       "added_at": "2024-02-02 05:00:00",

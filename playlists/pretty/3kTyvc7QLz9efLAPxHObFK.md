@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,425 songs - 3 day 5 hr 58 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,426 songs - 3 day 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1433,5 +1433,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1423 | [Hot](https://open.spotify.com/track/4Rw6U9OuXIjcCUya3ybPBy) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [Hot](https://open.spotify.com/album/02Nqu8iIMZ8QZsrM764L72) | 2:27 |
 | 1424 | [Run For Cover](https://open.spotify.com/track/0LZ13SxBDtB4ANMRrVK6hO) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Run For Cover](https://open.spotify.com/album/3ZAtTEbwX4IS1XhTmS7u7A) | 3:02 |
 | 1425 | [Wildest Nightmares](https://open.spotify.com/track/1lCauJgMwhebXPBGHhZ8at) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [Wildest Nightmares](https://open.spotify.com/album/0PdE0C7OGIpTLKy9btK4fi) | 3:06 |
+| 1426 | [Don't Love U](https://open.spotify.com/track/46InKjUqH3OGT6V4GlAO7X) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId), [STV](https://open.spotify.com/artist/4F1WiMuCRWlwrKk9mdVmlV), [UNVIZION](https://open.spotify.com/artist/2mAd3aPOk5XiAt75mJWUDT) | [Don't Love U](https://open.spotify.com/album/128rKjnMicAMwdszPs3zca) | 3:03 |
 
-Snapshot ID: `AAAFvcshAypAycmkL7h4TzxsQAyt0IMJ`
+Snapshot ID: `AAAFvgHmagzMBebWJ5k/qVN9zxjXTqch`

@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-315 songs - 17 hr 10 min
+316 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [I Can't Make You Love Me \(feat\. Nick Dow\)](https://open.spotify.com/track/0ZO7pqOzDXJ6GVIWwqIc4n) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ), [Nick Dow](https://open.spotify.com/artist/5ASDYwBmnXrIZqsT47f8ca) | [I Can't Make You Love Me \(feat\. Nick Dow\) \[Live at the Auckland Town Hall, featuring Nick Dow on Piano\]](https://open.spotify.com/album/7imAwiURVUDw7Zsa0C9yV6) | 4:33 | 2022-08-26 | 2023-08-09 |
 | [I don't care](https://open.spotify.com/track/4v6GiciF50s2mX1FtqXpue) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [I don't care](https://open.spotify.com/album/2hsM55o3e7s7NH2fUgHHfO) | 3:30 | 2023-01-04 |  |
 | [I Don't Care](https://open.spotify.com/track/68Vnmq4o96QQ0aVSZm43eK) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK), [Aikani](https://open.spotify.com/artist/5pl9gF3NwPauryVFUyrjka) | [I Don't Care \(Acoustic Reggae\)](https://open.spotify.com/album/0WhYJlr2RggdNvYQ8075oD) | 3:49 | 2022-08-26 | 2023-02-03 |
+| [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 | 2024-06-07 |  |
 | [I Get to Love You \- Acoustic](https://open.spotify.com/track/1Pte35IwrE0KkvftaAofgw) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Get to Love You \(Acoustic\)](https://open.spotify.com/album/2SjgmfolAvjxYp6MBgAJOn) | 3:06 | 2023-04-14 | 2023-06-15 |
 | [I like me better](https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I like me better](https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz) | 3:12 | 2022-10-14 |  |
 | [I Like Me Better](https://open.spotify.com/track/3XhxKOiaCZcHb7YGmN4dvO) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [I Like Me Better](https://open.spotify.com/album/4vHrQ3IWPIZiaMyZ1ZXnjd) | 3:28 | 2022-08-26 | 2023-02-03 |

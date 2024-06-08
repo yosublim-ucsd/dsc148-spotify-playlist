@@ -2,12 +2,13 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Kaavish, Abdul Hannan
+> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Abdul Hannan
 
-271 songs - 15 hr 25 min
+273 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2hi2](https://open.spotify.com/track/4g7mhAfH1c607joUYfdCNi) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [2hi2](https://open.spotify.com/album/1hSAdssthgJyhgRbtx09yY) | 2:41 | 2024-06-07 |  |
 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 | 2023-02-12 |  |
 | [4U REMIX \- From "Wholeheartedly"](https://open.spotify.com/track/2YQB5Xm1TgF0grR2w0dgGj) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U REMIX \(From "Wholeheartedly"\)](https://open.spotify.com/album/1BdLTpgkyDSLlx14bhgqyQ) | 3:22 | 2024-02-16 |  |
 | [5 AM](https://open.spotify.com/track/0ZQigPrHtr8CkwDTZUU4mB) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [5 AM](https://open.spotify.com/album/3l1NHRIzFXaWLhzwZyAtik) | 3:54 | 2021-12-06 | 2023-03-13 |
@@ -76,6 +77,7 @@
 | [Double Game](https://open.spotify.com/track/1bike5aQ7ZndnBodizi1oi) | [Mooroo](https://open.spotify.com/artist/2RfI4XISnS6FG3xXryReUh), [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Qirdaar](https://open.spotify.com/album/1jqTs5oGoHXrcr9M3EWyho) | 3:46 | 2023-12-30 | 2024-02-17 |
 | [Down](https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Down](https://open.spotify.com/album/60BgpEaXzIBL91LhxeMgud) | 2:06 | 2021-12-06 | 2023-04-09 |
 | [Dukh](https://open.spotify.com/track/1pHGtZjWcMQjzNHlu0mTJA) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq) | [Dukh](https://open.spotify.com/album/5Q8NbEwRpK5YXQdza31MfD) | 3:41 | 2023-03-12 | 2023-04-09 |
+| [Dunya](https://open.spotify.com/track/3WGDOi0xw7qyPrPnjBg2iu) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Dunya](https://open.spotify.com/album/6EeQNbbIzoVQqQcrg7Tuyq) | 2:39 | 2024-06-07 |  |
 | [Dur Nahi](https://open.spotify.com/track/3hYsIM29iqaooKXdtzgfIt) | [Anna Salman](https://open.spotify.com/artist/2NGSwSwsSD1ik4xDJ4l582) | [Dur Nahi](https://open.spotify.com/album/5xo216GInwuzHZjns0x9yv) | 3:34 | 2021-12-06 | 2023-04-09 |
 | [Duur Se](https://open.spotify.com/track/3vHfL9YMHlx3VL6JcbDOkm) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:04 | 2023-09-15 |  |
 | [Duur Se](https://open.spotify.com/track/7vvdeN9CX9xhNtNeiGNgOT) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:04 | 2024-02-23 | 2024-04-19 |

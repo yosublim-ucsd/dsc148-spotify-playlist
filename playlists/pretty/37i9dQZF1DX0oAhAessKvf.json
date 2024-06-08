@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 117722,
+  "num_followers": 117760,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Ragga War II - Retro",
-        "url": "https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM"
-      },
-      "artists": [
-        {
-          "name": "Gaby",
-          "url": "https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k"
-        }
-      ],
-      "duration_ms": 221088,
-      "name": "El Meneaito (Panama)",
-      "url": "https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 191191,
       "name": "Medley",
       "url": "https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Ragga War II - Retro",
+        "url": "https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM"
+      },
+      "artists": [
+        {
+          "name": "Gaby",
+          "url": "https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k"
+        }
+      ],
+      "duration_ms": 221088,
+      "name": "El Meneaito (Panama)",
+      "url": "https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 262466,
-      "name": "Xplosion",
-      "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 275973,
       "name": "Las Pistolas Seguiran",
       "url": "https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 262466,
+      "name": "Xplosion",
+      "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
-      },
-      "artists": [
-        {
-          "name": "Tempo",
-          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Ven y Vuela",
-      "url": "https://open.spotify.com/track/1uiWVO2cKT6qVnaLvgeJ7q"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 181200,
       "name": "Metimos Las Patas",
       "url": "https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Ven y Vuela",
+      "url": "https://open.spotify.com/track/1uiWVO2cKT6qVnaLvgeJ7q"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1039,22 +1039,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
       },
       "artists": [
         {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Jimmy Bad Boy",
-          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 190589,
-      "name": "Luna y Estrellas",
-      "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
+      "duration_ms": 162061,
+      "name": "Al Escuchar Mi Coro",
+      "url": "https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Jimmy Bad Boy",
+          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
         }
       ],
-      "duration_ms": 162061,
-      "name": "Al Escuchar Mi Coro",
-      "url": "https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O"
+      "duration_ms": 190589,
+      "name": "Luna y Estrellas",
+      "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1160,13 +1160,13 @@
       },
       "artists": [
         {
-          "name": "Great Kilo",
-          "url": "https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA"
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov"
         }
       ],
-      "duration_ms": 116986,
-      "name": "Tira Un Ritmo Sandunguero",
-      "url": "https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5"
+      "duration_ms": 103706,
+      "name": "San Y\u00f3!",
+      "url": "https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1176,13 +1176,13 @@
       },
       "artists": [
         {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov"
+          "name": "Great Kilo",
+          "url": "https://open.spotify.com/artist/2p6d1gygQeO546afz3JKLA"
         }
       ],
-      "duration_ms": 103706,
-      "name": "San Y\u00f3!",
-      "url": "https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd"
+      "duration_ms": 116986,
+      "name": "Tira Un Ritmo Sandunguero",
+      "url": "https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5"
     },
     {
       "added_at": "2024-03-25 13:06:06",

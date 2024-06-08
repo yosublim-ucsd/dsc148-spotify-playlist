@@ -4,7 +4,7 @@
 
 > 
 
-1,426 songs - 3 day 6 hr 2 min
+1,427 songs - 3 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Dome Fight](https://open.spotify.com/track/5HV6hwqaSTWjUVQ2yC1nqm) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [BREAK OUT \-The Final\-](https://open.spotify.com/album/2WWZWSdE7qgWd3i13eg9sS) | 3:21 | 2023-05-01 |  |
 | [DON'T BE SCARED](https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [BLACK FREQUENCY](https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH) | [DON'T BE SCARED](https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn) | 3:06 | 2023-09-22 |  |
 | [Don't Care](https://open.spotify.com/track/5NqR9vuXuiaceuPpxe6bFu) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [IC3MANIA](https://open.spotify.com/artist/54z6HGc0bumE5NMraoykmq), [Kayliana](https://open.spotify.com/artist/3G6siqYCWmO40U16g4GG3j) | [Don't Care](https://open.spotify.com/album/5TWIgHuPW4hNDHe5JqYCGo) | 2:56 | 2022-12-15 |  |
+| [Don't Love U](https://open.spotify.com/track/46InKjUqH3OGT6V4GlAO7X) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId), [STV](https://open.spotify.com/artist/4F1WiMuCRWlwrKk9mdVmlV), [UNVIZION](https://open.spotify.com/artist/2mAd3aPOk5XiAt75mJWUDT) | [Don't Love U](https://open.spotify.com/album/128rKjnMicAMwdszPs3zca) | 3:03 | 2024-06-07 |  |
 | [Don't Mistake \(The Name\)](https://open.spotify.com/track/00wsJgrGevjgiCtzq6vkoZ) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [Don't Mistake \(The Name\)](https://open.spotify.com/album/1sG6gfczwE1Ci7BrXqq2q3) | 3:10 | 2024-04-19 |  |
 | [Don't Stop](https://open.spotify.com/track/6bohqUWLZSOGFkS3M5Py7Q) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Don't Stop](https://open.spotify.com/album/4lRerWFQ4Th7iHfxvAjNAP) | 2:50 | 2024-03-29 |  |
 | [Dopamine](https://open.spotify.com/track/3vfymWmy9pRcqFPPNsGhy9) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Dopamine](https://open.spotify.com/album/6fcRsHRYndldCq70TlQKYB) | 3:27 | 2023-06-09 |  |

@@ -1,28 +1,92 @@
 {
-  "description": "Underground indie rock gems. Cover: YULLOLA",
-  "num_followers": 295382,
+  "description": "Underground indie rock gems. Cover: Goat Girl",
+  "num_followers": 295406,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAACX1RwgEeu+qVVgRyamslmM",
+  "snapshot_id": "ZmKFwAAAAACOJO2y2cibVhupA0kYNo9q",
   "tracks": [
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Zen Maiden",
-        "url": "https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR"
+        "name": "words fell out",
+        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
       },
       "artists": [
         {
-          "name": "YULLOLA",
-          "url": "https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg"
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
         }
       ],
-      "duration_ms": 168598,
-      "name": "Sweet Lilac",
-      "url": "https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i"
+      "duration_ms": 181480,
+      "name": "words fell out",
+      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Inside the Marble",
+        "url": "https://open.spotify.com/album/6Tifn26BUT16VlQ3WG2khN"
+      },
+      "artists": [
+        {
+          "name": "Margaux",
+          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Dissolve / Resolve",
+      "url": "https://open.spotify.com/track/1PziOPbOgzoCNuPrZ1Xz5i"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Together We Are One, You and I",
+        "url": "https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "Born In Early May",
+      "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -39,6 +103,86 @@
       "duration_ms": 188979,
       "name": "Honeycrash",
       "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Weird Fishes/ Arpeggi",
+        "url": "https://open.spotify.com/album/4CX7ZEPr2FoVUN7KiW9bgB"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 358226,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/2YHd2jXLdvSL6Cfnw8URHO"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "drain",
+        "url": "https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f"
+      },
+      "artists": [
+        {
+          "name": "w1sh",
+          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "drain",
+      "url": "https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Lived Here For A While",
+        "url": "https://open.spotify.com/album/5y5fth4ycr3MuWRGSkIYZc"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Vaughn",
+      "url": "https://open.spotify.com/track/3QWLuJZ2A5TJ1BN6H0AMg7"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Imposing on a Hometown",
+        "url": "https://open.spotify.com/album/1dM8gZCaz3z6lj6eWnA1GL"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wolfson",
+          "url": "https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN"
+        }
+      ],
+      "duration_ms": 173043,
+      "name": "Hometown Hero",
+      "url": "https://open.spotify.com/track/2yFLZqpRnGWzLQ9MbZ6nSh"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Zen Maiden",
+        "url": "https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR"
+      },
+      "artists": [
+        {
+          "name": "YULLOLA",
+          "url": "https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg"
+        }
+      ],
+      "duration_ms": 168598,
+      "name": "Sweet Lilac",
+      "url": "https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1383,26 +1527,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Drive Baby",
-        "url": "https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 158460,
-      "name": "Drive Baby",
-      "url": "https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "TV on TV",
         "url": "https://open.spotify.com/album/5lOTLk4sQjCxpu1OjZDQ5R"
       },
@@ -1431,130 +1555,6 @@
       "duration_ms": 163775,
       "name": "Her Garden",
       "url": "https://open.spotify.com/track/2tHxMpPtSgu7NmGZULdNaU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "White Ribbons",
-        "url": "https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 264698,
-      "name": "White Ribbons",
-      "url": "https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Tell Me About It",
-        "url": "https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8"
-      },
-      "artists": [
-        {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
-        },
-        {
-          "name": "deary",
-          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Tell Me About It",
-      "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "it's all the same to me .",
-        "url": "https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1"
-      },
-      "artists": [
-        {
-          "name": "a blue room",
-          "url": "https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0"
-        },
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "it's all the same to me .",
-      "url": "https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Obstruction",
-        "url": "https://open.spotify.com/album/40x4bMBFOkIa7e7osQKZor"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 156073,
-      "name": "Obstruction",
-      "url": "https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Soft Landing",
-        "url": "https://open.spotify.com/album/4gxwYu9L7CNEn1RqHewXJx"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gebhardt",
-          "url": "https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA"
-        }
-      ],
-      "duration_ms": 173941,
-      "name": "Soft Landing",
-      "url": "https://open.spotify.com/track/62NdrxSg8YAdnnPikjZN8N"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "August 19",
-        "url": "https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP"
-      },
-      "artists": [
-        {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
-        }
-      ],
-      "duration_ms": 155177,
-      "name": "August 19",
-      "url": "https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Missy",
-        "url": "https://open.spotify.com/album/5ivstXjtxTx9UXLBN7KuZj"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        },
-        {
-          "name": "tormentatropica",
-          "url": "https://open.spotify.com/artist/7s5dEbXvzBdwVactVzuNOc"
-        }
-      ],
-      "duration_ms": 122149,
-      "name": "Missy",
-      "url": "https://open.spotify.com/track/2J1mMDgmYNZqUj6dMGTCcg"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1619,22 +1619,6 @@
       "duration_ms": 197770,
       "name": "Toad Mode",
       "url": "https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "All Over Again b/w Moon",
-        "url": "https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty"
-      },
-      "artists": [
-        {
-          "name": "Teethe",
-          "url": "https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI"
-        }
-      ],
-      "duration_ms": 162969,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0"
     }
   ],
   "unique_name": "undercurrents",

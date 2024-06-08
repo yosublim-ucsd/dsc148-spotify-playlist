@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Mi Amigo Slow Joy",
+        "url": "https://open.spotify.com/album/3GLPZqpHxiB1H2ayDNV1BS"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212003,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/2T1s4mN3JybGmimFX8zDTD"
+    },
+    {
+      "album": {
         "name": "The Myth of The Happily Ever After",
         "url": "https://open.spotify.com/album/79TV8acvMeGKGbsBUKvwCI"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 251081,
       "name": "After",
       "url": "https://open.spotify.com/track/0TLoVayT4L0wK8XqSJmcnN"
@@ -935,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Rosemont - EP",
+        "url": "https://open.spotify.com/album/3PDMl2E4oyJjuHr0t3BYxP"
+      },
+      "artists": [
+        {
+          "name": "Tarnish",
+          "url": "https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147158,
+      "name": "Bite The Knife",
+      "url": "https://open.spotify.com/track/4OyXflQMqMFOSVyYrAxoz6"
+    },
+    {
+      "album": {
         "name": "Black Sky",
         "url": "https://open.spotify.com/album/4lWTlSRJQ3ldM7o0qGqJGZ"
       },
@@ -1216,7 +1252,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200473,
       "name": "Bring Me the Head of My Enemy",
       "url": "https://open.spotify.com/track/5sV8nDtUfBR58sOrSOqMRr"
@@ -2015,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "FREAKING OUT",
+        "url": "https://open.spotify.com/album/3fQVuGIMarjBD54MxqMP22"
+      },
+      "artists": [
+        {
+          "name": "LOWLIVES",
+          "url": "https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289646,
+      "name": "CLOSER THAN YOU KNOW",
+      "url": "https://open.spotify.com/track/027JT6Q5U65J3gfGP57O04"
+    },
+    {
+      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -2221,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Where You Thought You Would Be",
+        "url": "https://open.spotify.com/album/38j0bsTgTymzXBdxfneVpt"
+      },
+      "artists": [
+        {
+          "name": "If Kansas Had Trees",
+          "url": "https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206677,
+      "name": "Constraint",
+      "url": "https://open.spotify.com/track/1anPIlAsRWg4vroWVAmZPe"
+    },
+    {
+      "album": {
         "name": "Core",
         "url": "https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g"
       },
@@ -2358,7 +2430,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 193846,
       "name": "Crumbling",
       "url": "https://open.spotify.com/track/0LrNlyjutQwOTcxjNThoYW"
@@ -4441,6 +4513,24 @@
     },
     {
       "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/1DCfcotrOWKjPt9XWM1CgN"
+      },
+      "artists": [
+        {
+          "name": "Daze",
+          "url": "https://open.spotify.com/artist/570hYppifPXSy1q9odRQwy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200460,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/2Zh1j3SxCa96zs35uyYbHd"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH"
       },
@@ -4690,6 +4780,24 @@
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/21FTXztYwIgPSE0dsSl20n"
+      },
+      "artists": [
+        {
+          "name": "Glimmer",
+          "url": "https://open.spotify.com/artist/4ldTJbQ7TIIjZYgUtH5RwT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233851,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0e1XGhjLynaRO0P3KxkxDs"
     },
     {
       "album": {
@@ -5364,7 +5472,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 279873,
       "name": "Just like always",
       "url": "https://open.spotify.com/track/3C5wUsfpsyU6BfVqKkNK4r"
@@ -5544,7 +5652,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 161966,
       "name": "King Cowboy",
       "url": "https://open.spotify.com/track/3WMiYUvvJqdkL8NrXP02wC"
@@ -7266,7 +7374,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 208421,
       "name": "Pain of Glass",
       "url": "https://open.spotify.com/track/5jJsqz7aMxtft8490mW6oC"
@@ -8627,6 +8735,24 @@
     },
     {
       "album": {
+        "name": "Soft Glow",
+        "url": "https://open.spotify.com/album/0eUzgbZHA9nwoHiKvT1zVF"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223683,
+      "name": "Soft Glow",
+      "url": "https://open.spotify.com/track/2KZsN4rkEtuL35yGuRsfr5"
+    },
+    {
+      "album": {
         "name": "Someone2Me",
         "url": "https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n"
       },
@@ -9770,7 +9896,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 201706,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/7LU08tcGTBpD2YNabUiYix"

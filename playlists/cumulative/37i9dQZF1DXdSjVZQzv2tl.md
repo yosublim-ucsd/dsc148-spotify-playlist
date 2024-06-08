@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Simone Mendes
+> O melhor do sertanejo em uma só playlist! Foto: Diego & Victor Hugo
 
-221 songs - 10 hr 26 min
+223 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [CHEIRO NA CAMISETA](https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [CHEIRO NA CAMISETA](https://open.spotify.com/album/1eJ0snHdRSAo3OgpwultI6) | 2:36 | 2023-11-17 |  |
 | [Chá De Casa Nova \- Ao Vivo](https://open.spotify.com/track/6wrkP23fHC8KDHCfs8MpJ9) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau) | 2:56 | 2021-12-31 | 2022-03-05 |
 | [Ciumentalmente \- Ao Vivo](https://open.spotify.com/track/3TjIlPeN80uNPLe42XaiGa) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv) | [Resolve Seus B.O \(Ao Vivo\)](https://open.spotify.com/album/6h5XIRAL67YuON2bQ7iYi0) | 2:16 | 2024-04-05 |  |
+| [Como Um Beijo](https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8) | [Como Um Beijo](https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4) | 3:25 | 2024-06-07 |  |
 | [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/4vWh6tEfcLzdvYWp2IlOJS) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 3:29 | 2022-08-12 | 2022-11-19 |
 | [Coração de Isca](https://open.spotify.com/track/2Nlf97QqqcZ2x9Qb4h1Qt2) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Último Beijo](https://open.spotify.com/album/4dI1v0jzbH7DsaxcfhEYpf) | 2:27 | 2021-12-31 | 2022-03-26 |
 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 | 2021-12-31 | 2022-03-05 |
@@ -198,6 +199,7 @@
 | [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 | 2023-07-17 | 2023-12-11 |
 | [Solteiro Frustrado \- Ao Vivo](https://open.spotify.com/track/4QqkNyWHUACzoT6isznHWS) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Solteiro Frustrado \(Ao Vivo\)](https://open.spotify.com/album/0zspJVASlzrBFFPbiazk46) | 3:00 | 2023-07-07 | 2023-09-02 |
 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 | 2023-01-27 | 2023-07-22 |
+| [Sonho Dela \(Cowboy\)](https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Félix](https://open.spotify.com/artist/3KdqkzCC6uPPxW3ZV9vLtT), [Léo Souzza](https://open.spotify.com/artist/32q95UvnNYSiflLio02DnS) | [Sonho Dela \(Cowboy\)](https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq) | 1:53 | 2024-06-07 |  |
 | [Sorte \- Ao Vivo](https://open.spotify.com/track/2SwE42tEBphHOejzZ9rKRa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Sorte \(Ao Vivo\)](https://open.spotify.com/album/1KOI7qxsWY35YPZALo2oTA) | 3:06 | 2021-12-31 | 2022-05-20 |
 | [Sorte Da Porra \- Ao Vivo](https://open.spotify.com/track/0mAYsM1VLBsYjiHLH3wm8Y) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Última Noite \(Ao Vivo\)](https://open.spotify.com/album/2sI9lVO5PJrw0XgR4ec1vq) | 2:35 | 2024-02-23 |  |
 | [Só Não Divulga](https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Só Não Divulga](https://open.spotify.com/album/007jctHYAC50QpRyU3Cnj2) | 2:40 | 2021-12-31 | 2022-03-18 |

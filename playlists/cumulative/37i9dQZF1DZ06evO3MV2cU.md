@@ -2,7 +2,7 @@
 
 ### [This Is Chris Tomlin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MV2cU)
 
-> This is Chris Tomlin\. The essential tracks, all in one playlist.
+> This is Chris Tomlin\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
 62 songs - 4 hr 31 min
 

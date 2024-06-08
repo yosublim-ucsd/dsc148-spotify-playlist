@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 372051,
+  "num_followers": 372145,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-04-01 20:18:26",
       "album": {
-        "name": "Winter Kills (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P"
-      },
-      "artists": [
-        {
-          "name": "DevilDriver",
-          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ"
-    },
-    {
-      "added_at": "2024-04-01 20:18:26",
-      "album": {
         "name": "Bloody Kisses",
         "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 289240,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI"
+    },
+    {
+      "added_at": "2024-04-01 20:18:26",
+      "album": {
+        "name": "Winter Kills (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P"
+      },
+      "artists": [
+        {
+          "name": "DevilDriver",
+          "url": "https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ"
     },
     {
       "added_at": "2024-04-01 20:18:26",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-04-01 20:18:26",
       "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
+    },
+    {
+      "added_at": "2024-04-01 20:18:26",
+      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 295440,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs"
-    },
-    {
-      "added_at": "2024-04-01 20:18:26",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9"
     },
     {
       "added_at": "2024-04-01 20:18:26",

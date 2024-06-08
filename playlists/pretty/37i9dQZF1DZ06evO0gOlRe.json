@@ -1,6 +1,6 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 30224,
+  "num_followers": 30243,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "bleeding heart",
         "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 214133,
-      "name": "all these years",
-      "url": "https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2"
+      "duration_ms": 186800,
+      "name": "said so",
+      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 186800,
-      "name": "said so",
-      "url": "https://open.spotify.com/track/20NwaHJSTOimYki0KmlMSo"
+      "duration_ms": 214133,
+      "name": "all these years",
+      "url": "https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2"
     },
     {
       "added_at": null,
@@ -739,86 +739,6 @@
       "duration_ms": 173195,
       "name": "Single",
       "url": "https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleeding Heart (with Track-by-Track Commentary)",
-        "url": "https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 39080,
-      "name": "Alexander Stewart on 'all these years'",
-      "url": "https://open.spotify.com/track/5aLdx4sS8uL8ysZgBkGSoM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleeding Heart (with Track-by-Track Commentary)",
-        "url": "https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 33408,
-      "name": "Alexander Stewart on 'how dare you'",
-      "url": "https://open.spotify.com/track/3aupwl4XHjM1l957jPs0fU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleeding Heart (with Track-by-Track Commentary)",
-        "url": "https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 39414,
-      "name": "Alexander Stewart on 'i wish you cheated'",
-      "url": "https://open.spotify.com/track/5jP8p57LNcS8wWFVeLMHn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleeding Heart (with Track-by-Track Commentary)",
-        "url": "https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 49382,
-      "name": "Alexander Stewart on 'blames on me'",
-      "url": "https://open.spotify.com/track/2V3hyIeAhJyQP9kAf51Bvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleeding Heart (with Track-by-Track Commentary)",
-        "url": "https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 45754,
-      "name": "Alexander Stewart on 'day i die'",
-      "url": "https://open.spotify.com/track/6jCzYITsTE5eiOXEiiAM3p"
     }
   ],
   "unique_name": "This Is Alexander Stewart",

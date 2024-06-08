@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "Inspired by African drums. Cover: Leigh-Anne \ud83c\uddef\ud83c\uddf2 \ud83c\udde7\ud83c\udde7 ",
+  "description": "Inspired by African drums. Cover: Ayra Starr \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 152941,
       "name": "Bare Gyal Want We",
       "url": "https://open.spotify.com/track/0kKZ4nL9tpDqAKPbSsjCnl"
@@ -6633,6 +6633,28 @@
     },
     {
       "album": {
+        "name": "Gungo Bwoy",
+        "url": "https://open.spotify.com/album/0vESVc3kiGl9pQOC12u46y"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "DJ Frass",
+          "url": "https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134693,
+      "name": "Gungo Bwoy",
+      "url": "https://open.spotify.com/track/0CW83BpsrEBa6y0pIrrmcJ"
+    },
+    {
+      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -8102,7 +8124,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 460009,
       "name": "Ingozi",
       "url": "https://open.spotify.com/track/1ZczCrsUb4kIVE5bQclD7l"
@@ -10326,6 +10348,24 @@
       "duration_ms": 146235,
       "name": "LumSum",
       "url": "https://open.spotify.com/track/22bgXkhzcJ3gqqhQw838Cx"
+    },
+    {
+      "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "album": {

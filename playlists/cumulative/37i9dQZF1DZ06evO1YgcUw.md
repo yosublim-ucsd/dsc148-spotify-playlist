@@ -2,7 +2,7 @@
 
 ### [This Is The Beach Boys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YgcUw)
 
-> This Is The Beach Boys\. Los temas esenciales, todos en una lista.
+> This is The Beach Boys\. Tutti i brani in un'unica playlist.
 
 124 songs - 5 hr 24 min
 

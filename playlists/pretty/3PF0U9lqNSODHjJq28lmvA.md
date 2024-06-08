@@ -4,21 +4,23 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,353 likes - 12 songs - 40 min 33 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,355 likes - 14 songs - 43 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lost in Control](https://open.spotify.com/track/3kzE24PAzUyM0b4OuW9MC6) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Lost in Control](https://open.spotify.com/album/2VGLanSqv0EwSkMMidYZd8) | 3:04 |
-| 2 | [Allt Som Var Jag](https://open.spotify.com/track/0uNkKcZuOmtd8XSh49WWl4) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3), [Göran Edman](https://open.spotify.com/artist/4WCq3Qs2uSn5tycuBIPpt8) | [Allt Som Var Jag](https://open.spotify.com/album/3hAvevGnkggqpQ3Aat6hVS) | 4:11 |
-| 3 | [Machete Romance](https://open.spotify.com/track/6okmD2mOu35d2ViNtyH2xg) | [heavy wild](https://open.spotify.com/artist/6dxRf5XUwYZ12ecawKxuJ0) | [Machete Romance](https://open.spotify.com/album/0LJDXnMjugoF4OB09IkrO1) | 4:10 |
-| 4 | [Desconsiderada](https://open.spotify.com/track/69fCExwmN9OqVjSdX3e2uk) | [Bolsa De Moscas](https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E) | [Desconsiderada](https://open.spotify.com/album/3lvVRdXecO5NcjDuW8DrD2) | 2:51 |
-| 5 | [ikaalisiin](https://open.spotify.com/track/7hjG3nETl8rLmMCJiZ6GHd) | [1Tipe](https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7), [Kvartetti](https://open.spotify.com/artist/5NwUWGaVxBmQPvQrVu7zwi) | [kesä on aina myöhässä](https://open.spotify.com/album/7EImzLR1kmSWRCAiPsd8u2) | 3:31 |
-| 6 | [HUR HON VA](https://open.spotify.com/track/1eUeaS6fL2GemxbRMBTxCI) | [Angelina Pavanelli](https://open.spotify.com/artist/2Q1zoh7mp07ods0rRoqL0i) | [HUR HON VA](https://open.spotify.com/album/0cR5rZo9C7QINM8hkm4kRA) | 3:16 |
-| 7 | [Ohne dich](https://open.spotify.com/track/3GFqdYPr81cb6zqOc9C9NR) | [Fabi](https://open.spotify.com/artist/0qVf4hnvOJaTe2wiqF66Mg) | [Ohne dich](https://open.spotify.com/album/41V49l2MEZq1UnZQ9S98vu) | 1:54 |
-| 8 | [YOU AND I](https://open.spotify.com/track/7lDNsueIbLe3lij2NTDc5q) | [LUKE](https://open.spotify.com/artist/3JmMG7UlMMkOMWj4zYXTha) | [YOU AND I](https://open.spotify.com/album/17DuVubYmK0qwEdraZReyK) | 2:20 |
-| 9 | [Face the Pain](https://open.spotify.com/track/2XR9VSX9kc1Ww0iiN0etm0) | [Face The Pain](https://open.spotify.com/artist/2rEBtb30C8KIrp8QzBAtMX) | [Demo '24](https://open.spotify.com/album/7nbS542L6b99znyzSyPfIA) | 2:08 |
-| 10 | [Broken hero](https://open.spotify.com/track/3xqSmFDAqnSCrSAeDP20hI) | [Sofia Gustavsson](https://open.spotify.com/artist/1HcKJT1IFyIX4JXs6PFGXW) | [Broken hero](https://open.spotify.com/album/2qWgW0LaFtIXxrSOYXLuyp) | 3:15 |
-| 11 | [Bedwetters](https://open.spotify.com/track/18kHneXL3AlkWzVgGE0ujX) | [Seafarers](https://open.spotify.com/artist/7dWWrUu4v70sxCnz2iIf2x) | [Bedwetters](https://open.spotify.com/album/61rGx56QGeqDu2XgeBd6xV) | 4:16 |
-| 12 | [Attirance](https://open.spotify.com/track/4q2qTIdUhq3Ml1AVzVqsJH) | [Dani Durán \(ES\)](https://open.spotify.com/artist/6SPd8y2ZbQLsh5CNgYpjcd) | [ASHR004](https://open.spotify.com/album/0mGefIPNpDlFB77Np5xy0u) | 5:33 |
+| 1 | [Der du går](https://open.spotify.com/track/2mXAscX3OMOA3U1mFzXtFa) | [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Der du går](https://open.spotify.com/album/1mu61T9PTtTETOPgNOksrp) | 3:30 |
+| 2 | [23](https://open.spotify.com/track/0d0fxW31DxScIglB0kVpkk) | [Feyesal](https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf) | [23](https://open.spotify.com/album/22TwgsebwwEQRtFceyfI1q) | 2:28 |
+| 3 | [My Heart Still Breaks](https://open.spotify.com/track/2jIUzvr9kp0ZKxBDjyNeKT) | [Lena Novák](https://open.spotify.com/artist/4MGfqzIzquPGvY7xWsQoLl) | [My Heart Still Breaks](https://open.spotify.com/album/4LvUg2mLL6DSavZEBW5H0e) | 3:07 |
+| 4 | [Luv 2 Me](https://open.spotify.com/track/5OtpYpylD2xyODSZyciIds) | [glide](https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT), [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8) | [Luv 2 Me](https://open.spotify.com/album/4Xwuw0Hmi2wEKwYzQvUz6F) | 2:08 |
+| 5 | [Aurinko & Kuu](https://open.spotify.com/track/5iqIvR4YSrBOwNdsM8Jftg) | [Teukka](https://open.spotify.com/artist/39sku8JiOeGoCZaNlsBing) | [Aurinko & Kuu](https://open.spotify.com/album/1JNOfRYJ1R9Di2mgedgshE) | 3:15 |
+| 6 | [Stockholm i juli \- 2024 Version](https://open.spotify.com/track/21eT7DbQghUIf8LeRpAAQI) | [Patrick El\-Hag](https://open.spotify.com/artist/5pboe5cbQJqyabgHC0rNS1) | [Stockholm i juli \(2024 Version\)](https://open.spotify.com/album/7xsvL86CkjtSZrgS0vkEvW) | 3:36 |
+| 7 | [From the Wreckage](https://open.spotify.com/track/6PjcCw5SPRVtv7ON8fRQ2M) | [Heather Bartman](https://open.spotify.com/artist/5HnLp3EcSwEJwE7CxaMM0K) | [From the Wreckage](https://open.spotify.com/album/022bOL5Mo4FRBd96jazWIJ) | 3:11 |
+| 8 | [With You](https://open.spotify.com/track/2govU7hxeaMch8Lr2wiIAv) | [Geezerbomb](https://open.spotify.com/artist/7cPlO6Ai5O8yDvqntDK7PF) | [With You](https://open.spotify.com/album/01J6nLn3HWk9iaiIXOY2ck) | 2:54 |
+| 9 | [Without Me](https://open.spotify.com/track/6Lgj62EFbVilPyngek65Ni) | [ANGELICA](https://open.spotify.com/artist/7yHxpT7YSJOHtVnCYnoC27) | [Without Me](https://open.spotify.com/album/7MhQoEYg8unsbMXw2iGBLr) | 2:39 |
+| 10 | [Show No Mercy](https://open.spotify.com/track/1EK9Mi8RXx5mNJ4jf2V1gb) | [GINAxC](https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ) | [Show No Mercy](https://open.spotify.com/album/29FLhiVm56NXevGr4ZoGdB) | 3:34 |
+| 11 | [It makes no difference to me](https://open.spotify.com/track/2UizxwKzgevRpsI8SH8obn) | [ART\-BAND UAmusic](https://open.spotify.com/artist/7AXSvI9juBLUAOtgWsw2qH) | [It makes no difference to me](https://open.spotify.com/album/46thjHzORRCkjwBB7Y4rrW) | 2:49 |
+| 12 | [Dusty Desert Road](https://open.spotify.com/track/6fnozHQwhfKBcmpTjfAdqc) | [Diana Bolo](https://open.spotify.com/artist/742H5tvCXPVVnLse9K7OpQ) | [Dusty Desert Road](https://open.spotify.com/album/5SyQx4tq6F4rmiJmRBnxFf) | 3:24 |
+| 13 | [Lämnar stan](https://open.spotify.com/track/1WYPCS7jtYP0JthTKCM7c1) | [Daniel Arteaga](https://open.spotify.com/artist/1ff46hVkyIPKr6SdDgVgjO) | [Lämnar stan](https://open.spotify.com/album/39nx3xmqhR7H0FXu9PrN19) | 3:32 |
+| 14 | [Midnight Drive](https://open.spotify.com/track/01qWRsUTIH3dI0VJhGBaSl) | [KennyR](https://open.spotify.com/artist/07l4MIrDSaRouWJE6sayAh) | [Midnight Drive](https://open.spotify.com/album/2CTHSsqDba2w3KPF5c03xi) | 3:33 |
 
-Snapshot ID: `AAADtyScYn02BKGaGwmnV6iUpWgwIEiI`
+Snapshot ID: `AAADusAdYw4hZt+ZARjA05utTdsSvWE0`

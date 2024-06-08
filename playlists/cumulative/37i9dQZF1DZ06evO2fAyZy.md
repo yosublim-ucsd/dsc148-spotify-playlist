@@ -2,7 +2,7 @@
 
 ### [This Is Kelsea Ballerini](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fAyZy)
 
-> This is Kelsea Ballerini\. The essential tracks, all in one playlist.
+> This is Kelsea Ballerini\. Tutti i brani in un'unica playlist.
 
 66 songs - 3 hr 23 min
 

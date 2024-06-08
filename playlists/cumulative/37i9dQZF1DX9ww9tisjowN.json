@@ -2977,6 +2977,28 @@
     },
     {
       "album": {
+        "name": "Midnight Mayoi",
+        "url": "https://open.spotify.com/album/69B75ZlQfe1meYEuTXwtDN"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "Kobo Kanaeru",
+          "url": "https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171013,
+      "name": "Midnight Mayoi",
+      "url": "https://open.spotify.com/track/7f7v2N5STXFIm2X7W0K5Cd"
+    },
+    {
+      "album": {
         "name": "MIND CIRCUS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/1npKTihmjBLLjWiZDBkTEu"
       },

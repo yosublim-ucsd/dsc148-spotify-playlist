@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 ### [This Is Harold Melvin & The Blue Notes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mDwdN)
 
-> This is Harold Melvin & The Blue Notes\. Todos os maiores hits em uma só playlist.
+> This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,444 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,440 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [Pucker Your Lips \- Outtake](https://open.spotify.com/track/4x9I7jwgaUnY2OU1uZWo7T) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:34 |
 | 50 | [Get Ready](https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Back To Back With Love](https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk) | 2:38 |
 
-Snapshot ID: `Zl+qgAAAAAAtR707A/6tdN3I3njJaM5v`
+Snapshot ID: `Zl+qgAAAAAAZ0fEFboazzyQA9VSO2+GS`

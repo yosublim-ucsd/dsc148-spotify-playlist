@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "Party piscine, Vol. 1",
+        "url": "https://open.spotify.com/album/5aqqq9TnuG20irlqhamWka"
+      },
+      "artists": [
+        {
+          "name": "pataugeoire",
+          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
+        },
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215060,
+      "name": "Besoin d'un 2",
+      "url": "https://open.spotify.com/track/6HYu8sfyARlBFZ0laTWL1G"
+    },
+    {
+      "album": {
         "name": "blood pareil",
         "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
       },
@@ -560,7 +582,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -748,7 +770,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 353094,
       "name": "Comme tu le souhaites (Ding Dong)",
       "url": "https://open.spotify.com/track/0jv4Qiw0H1OXb1FQ1Epirs"
@@ -2974,6 +2996,24 @@
       "duration_ms": 206746,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/5Q69nHzNXnU4jpmwUsB4DK"
+    },
+    {
+      "album": {
+        "name": "The Breaks",
+        "url": "https://open.spotify.com/album/1qG8RIhVtTNGZD9vvLz3BQ"
+      },
+      "artists": [
+        {
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269561,
+      "name": "The Breaks",
+      "url": "https://open.spotify.com/track/3PIwWBp3nJOFERbkWtZZO3"
     },
     {
       "album": {

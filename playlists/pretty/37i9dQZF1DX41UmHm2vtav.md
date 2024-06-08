@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,743 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,749 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 59 | [Hot Summer](https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Hot Summer](https://open.spotify.com/album/4wFTM9WLwSSq8nM30ckDYb) | 3:11 |
 | 60 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 | 61 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
-| 62 | [Foreplay \- Radio Edit](https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA) | [Flowavez](https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Foreplay \(Radio Edit\)](https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra) | 2:57 |
-| 63 | [Make Me Wanna](https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Alok Presents Brazilian Bass: Pt\. 1](https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z) | 2:53 |
+| 62 | [Make Me Wanna](https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Alok Presents Brazilian Bass: Pt\. 1](https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z) | 2:53 |
+| 63 | [Foreplay \- Radio Edit](https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA) | [Flowavez](https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Foreplay \(Radio Edit\)](https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra) | 2:57 |
 | 64 | [Manhã de Sol \- Zuffo Remix](https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Manhã de Sol \(Zuffo Remix\)](https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW) | 3:21 |
 | 65 | [Passe em Casa \(feat\. Margareth Menezes\) \- Eletrônica](https://open.spotify.com/track/3lnPNtiKdNG5kLhQD4A7XV) | [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Deeplick](https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY), [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD), [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [EletroTribalistas](https://open.spotify.com/album/1LVeI6iW6g7RvgQBLoSLpb) | 3:46 |
 | 66 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \(Overdriver Duo e Guz Zanotto Remix\)](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Frevo Mulher \(Remix\) \- Radio Mix](https://open.spotify.com/track/2pd4ZghZfqaFpp5d3kBrW8) | [FLAR](https://open.spotify.com/artist/3TmTT72nBrAzHsQ1KkBppa), [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Frevo Mulher \(Remixes\)](https://open.spotify.com/album/5MuVLg9WRgDmDo14nGJwS4) | 4:18 |
 | 70 | [O Xote Das Meninas \- Pontifexx Remix](https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [O Xote Das Meninas \(Pontifexx Remix\)](https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT) | 3:09 |
 
-Snapshot ID: `Zj2OZAAAAAAun6Nr/IswKYA09TKuWkNo`
+Snapshot ID: `ZmJ4ZAAAAACKrDmuBozxwQc1uCy94jNN`

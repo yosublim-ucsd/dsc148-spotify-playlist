@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 
 ### [This Is Black Eyed Peas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg)
 
-> This is Black Eyed Peas\. Todos os maiores hits em uma só playlist.
+> This Is Black Eyed Peas\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,969 likes - 52 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,074 likes - 52 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 | 51 | [DOUBLE D'Z](https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:20 |
 | 52 | [DOPENESS \(feat\. CL\)](https://open.spotify.com/track/1LYuXxdooUiWRNMPEPleqX) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 4:38 |
 
-Snapshot ID: `Zl+qgAAAAABsVrg8kfTegMoQuVJpQt2E`
+Snapshot ID: `Zl+qgAAAAADDWKMEUwLEis3E5upnWkIk`

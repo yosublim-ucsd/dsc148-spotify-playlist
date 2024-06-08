@@ -1,15 +1,15 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: Trio Mio",
-  "num_followers": 26484,
+  "num_followers": 26493,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZlkSxAAAAACdkoB0VOy1P6FGg7KY9GM8",
+  "snapshot_id": "ZmKZSAAAAAB9ebIRVpZwN9SPqwyiP6ZI",
   "tracks": [
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Dedi Dedilee",
         "url": "https://open.spotify.com/album/1KnlYboasv4DR1BsksHBv3"
@@ -25,31 +25,7 @@
       "url": "https://open.spotify.com/track/2TyeNaKpRKsQzQYP5D5i9i"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Rengwa",
-        "url": "https://open.spotify.com/album/1eG4tcXN6eyjOamXDDxO8B"
-      },
-      "artists": [
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Zzero Sufuri",
-          "url": "https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7"
-        }
-      ],
-      "duration_ms": 243037,
-      "name": "Rengwa",
-      "url": "https://open.spotify.com/track/5Tf6gjS5671prJFmydkq3i"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "KINARE",
         "url": "https://open.spotify.com/album/59RCYnLluTVay2gvf2VWa4"
@@ -69,43 +45,7 @@
       "url": "https://open.spotify.com/track/0B3KgzCTluFTPHsF54MbR6"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Pretty Girls Twerk",
-        "url": "https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO"
-      },
-      "artists": [
-        {
-          "name": "NDOVU KUU",
-          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Pretty Girls Twerk",
-      "url": "https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "LELE",
-        "url": "https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu"
-      },
-      "artists": [
-        {
-          "name": "YBW Smith",
-          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
-        },
-        {
-          "name": "Lufasa",
-          "url": "https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J"
-        }
-      ],
-      "duration_ms": 184464,
-      "name": "LELE",
-      "url": "https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Kudade (Fancy Fingers Refix)",
         "url": "https://open.spotify.com/album/5K9DKeLWrpVl5W0GzUA5ju"
@@ -141,7 +81,83 @@
       "url": "https://open.spotify.com/track/1R74ifptJ17EjVxpoqhBTP"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "LELE",
+        "url": "https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu"
+      },
+      "artists": [
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        },
+        {
+          "name": "Lufasa",
+          "url": "https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J"
+        }
+      ],
+      "duration_ms": 184464,
+      "name": "LELE",
+      "url": "https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Rengwa",
+        "url": "https://open.spotify.com/album/1eG4tcXN6eyjOamXDDxO8B"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Zzero Sufuri",
+          "url": "https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7"
+        }
+      ],
+      "duration_ms": 243037,
+      "name": "Rengwa",
+      "url": "https://open.spotify.com/track/5Tf6gjS5671prJFmydkq3i"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Pretty Girls Twerk",
+        "url": "https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO"
+      },
+      "artists": [
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Pretty Girls Twerk",
+      "url": "https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "DANCEHALLING",
+        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "DANCEHALLING",
+      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "KALE KA DANCE",
         "url": "https://open.spotify.com/album/4NgGgmVHcOm27bWhJobj0p"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/2Q5HUrhBWqswZO0v3GMaUE"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "NAKUDAI",
         "url": "https://open.spotify.com/album/1MOXbYPVwue2bYu972FlTT"
@@ -185,23 +201,7 @@
       "url": "https://open.spotify.com/track/2R0cPu8OCV9DMTQJANdXDL"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "DANCEHALLING",
-        "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
-      },
-      "artists": [
-        {
-          "name": "Uncojingjong",
-          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "DANCEHALLING",
-      "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Weather for Two",
         "url": "https://open.spotify.com/album/7giEL4Layeuo8DSErwuV1u"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/5C5tBOd9KzSRXNQmZjDkwi"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "BUBBLY BUBBLY (na niki)",
         "url": "https://open.spotify.com/album/2AQedaeVARNPXPRJ6fNDLh"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/1gc249pSRCtXKb3vezJwG8"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Maisha Ya Stunna",
         "url": "https://open.spotify.com/album/4eqe1F9Zy61KrOEZBQTszi"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0RorhnHkgmBKkam8tMkc2M"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Hio Imeenda",
         "url": "https://open.spotify.com/album/1YaOntGGmVf6ddvjjDsFHN"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/5wUWp6lEj893y1nJSP6mLY"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Dance Mpyai",
         "url": "https://open.spotify.com/album/0o748wq7XA9mmxXnGXlJae"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/3HuwUpN46jbDoiQirZexKC"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Kudonjo Kudunda",
         "url": "https://open.spotify.com/album/37hIKRBLIM3k4PIHPXrSZ9"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/4aJyHRdr4OyjVlkIalyG2T"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/20epc25lurXHDYB4nGzyEK"
@@ -349,87 +349,7 @@
       "url": "https://open.spotify.com/track/6oJdC8VQq6dejFHtnD8421"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Inadonjo",
-        "url": "https://open.spotify.com/album/0OSWc3eIZacpwv259SQoQk"
-      },
-      "artists": [
-        {
-          "name": "Kappy",
-          "url": "https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR"
-        },
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        },
-        {
-          "name": "Parroty",
-          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
-        }
-      ],
-      "duration_ms": 164336,
-      "name": "Inadonjo",
-      "url": "https://open.spotify.com/track/0n77HkdzptD2YA2xwUvqD1"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Adventures of Chris Kaiga",
-        "url": "https://open.spotify.com/album/1lib5N5QFDOCOWloEQ6vZP"
-      },
-      "artists": [
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        },
-        {
-          "name": "Mutoriah",
-          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
-        }
-      ],
-      "duration_ms": 191797,
-      "name": "I Want",
-      "url": "https://open.spotify.com/track/4QCjaBCCFbJmbwjRzt36Y2"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Kanashikia Wapi",
-        "url": "https://open.spotify.com/album/00DjM0lwYZuErSOlVfNqeA"
-      },
-      "artists": [
-        {
-          "name": "Nelly The Goon",
-          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Kanashikia Wapi",
-      "url": "https://open.spotify.com/track/2zBh5l14db5LdrB5mxNVSp"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/2oUuU5z4VoTcIqr6kWAGpl"
-      },
-      "artists": [
-        {
-          "name": "Boutross",
-          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
-        },
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        }
-      ],
-      "duration_ms": 154366,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/2N97etKcWdLigGpkwdUvag"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Kuna Kuna",
         "url": "https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT"
@@ -461,7 +381,107 @@
       "url": "https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Inadonjo",
+        "url": "https://open.spotify.com/album/0OSWc3eIZacpwv259SQoQk"
+      },
+      "artists": [
+        {
+          "name": "Kappy",
+          "url": "https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        }
+      ],
+      "duration_ms": 164336,
+      "name": "Inadonjo",
+      "url": "https://open.spotify.com/track/0n77HkdzptD2YA2xwUvqD1"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Adventures of Chris Kaiga",
+        "url": "https://open.spotify.com/album/1lib5N5QFDOCOWloEQ6vZP"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
+        }
+      ],
+      "duration_ms": 191797,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/4QCjaBCCFbJmbwjRzt36Y2"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Kanashikia Wapi",
+        "url": "https://open.spotify.com/album/00DjM0lwYZuErSOlVfNqeA"
+      },
+      "artists": [
+        {
+          "name": "Nelly The Goon",
+          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "Kanashikia Wapi",
+      "url": "https://open.spotify.com/track/2zBh5l14db5LdrB5mxNVSp"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Beshte Yangu",
+        "url": "https://open.spotify.com/album/2qKS6N4G9s6mb0f331RqDD"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Harry Craze",
+          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
+        }
+      ],
+      "duration_ms": 128681,
+      "name": "Beshte Yangu",
+      "url": "https://open.spotify.com/track/5d2ysP6ebjPYQFRkxacK3r"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2oUuU5z4VoTcIqr6kWAGpl"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "duration_ms": 154366,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/2N97etKcWdLigGpkwdUvag"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Tumerudiana",
         "url": "https://open.spotify.com/album/7h4bdZpmtVNN4xPgy0sjTE"
@@ -485,27 +505,7 @@
       "url": "https://open.spotify.com/track/54XeFjxAWsp6RiKB52uVHF"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Beshte Yangu",
-        "url": "https://open.spotify.com/album/2qKS6N4G9s6mb0f331RqDD"
-      },
-      "artists": [
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Harry Craze",
-          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
-        }
-      ],
-      "duration_ms": 128681,
-      "name": "Beshte Yangu",
-      "url": "https://open.spotify.com/track/5d2ysP6ebjPYQFRkxacK3r"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Rich",
         "url": "https://open.spotify.com/album/5QiNEorRaNhMsbKnj6Xjco"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/37ArS1kei108HBKhbYePT5"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Position",
         "url": "https://open.spotify.com/album/3hjz0n4uH86XEROsOuuJsC"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/3VrKl2d7BARsapf9IELR6x"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Ndiwike",
         "url": "https://open.spotify.com/album/4lRUfKVEB7fAC7NiE3Ecfv"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/2jnFTsVnjyfYM8khLyZSxA"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "ANAPIGA PIC",
         "url": "https://open.spotify.com/album/2fJiKbGJTmUrOtIRGafMCy"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/2D6A847d0AXOWhIBMGkycc"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "NGATA (Pi-Pi-Pi, Po-Po-Po)",
         "url": "https://open.spotify.com/album/3i0cSvK8XorHRWRu8YJXah"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/4qbLlnfGoRIsxPi2Jxw65E"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/6Rd9w0Q7nCRxbGmST6nkdf"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/2iEGCBXxRwMDoLEkfFljRE"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Miss Behavior",
         "url": "https://open.spotify.com/album/7qs2V9CF80wz2vlkeYPmgC"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/0d2WBQpBAgE5VZE1UeoIon"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Parapanda",
         "url": "https://open.spotify.com/album/5KfKwpJ5q5NkZoCzPiESJq"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/7bdXLS6siHEqbFG5krd6oI"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Every Dakika",
         "url": "https://open.spotify.com/album/2ThJWVXyqoBQvBQTTfmBnL"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/2ztLZ09IWt1B3c2tdvxder"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Tic Tac",
         "url": "https://open.spotify.com/album/6szvZyLvqUzmmuFzowzF1G"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/5ozgizyjmZws6tF5VAO9iG"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Kitu Mature",
         "url": "https://open.spotify.com/album/4vkjyzZYQK8mlqu7l5wSNx"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/0FR0LXiwgRGn65ELqU81HX"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Dem Mauru",
         "url": "https://open.spotify.com/album/5a9bIZ0OOkkm3QBjjEhnXj"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/60wD5VNwJuJo4osZ2JLPlM"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Sekete",
         "url": "https://open.spotify.com/album/4aS6CQftZqOE1TrZtUjUny"
@@ -777,7 +777,23 @@
       "url": "https://open.spotify.com/track/7ewht8ClVfHEwZTX53OHj9"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Lele",
+        "url": "https://open.spotify.com/album/4ateNzAHL5OsXC3WunUgbu"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "Lele",
+      "url": "https://open.spotify.com/track/1NlqheYPuFb5LveKKQA7dd"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Ndani",
         "url": "https://open.spotify.com/album/0RM88zwcCZg2ddfWI0vILg"
@@ -797,7 +813,23 @@
       "url": "https://open.spotify.com/track/3Wht3h50DH77cAQ3Vdve9f"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "KISHASH",
+        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "duration_ms": 159940,
+      "name": "KISHASH",
+      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Yumba Yumba",
         "url": "https://open.spotify.com/album/2y5GxDUYilgjJzCsGpSpif"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/32KrGlewkyG9pkRXXQ0tUH"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Yout Mkora",
         "url": "https://open.spotify.com/album/7J2ULXeKQIJ3cLIPdpteFi"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/6TvJ7Rmloh0wpO1xpHrnrx"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Nikuingize Box",
         "url": "https://open.spotify.com/album/0fZMPkrmaacAFdxW332mTb"
@@ -857,7 +889,7 @@
       "url": "https://open.spotify.com/track/185whrf3gT96ZR26CZGQPl"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Blue Ticks",
         "url": "https://open.spotify.com/album/7yUN9QojYlTRScLSQdSHfA"
@@ -877,39 +909,7 @@
       "url": "https://open.spotify.com/track/7FPdxcLYkwlHLgCSYNlLsT"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Lele",
-        "url": "https://open.spotify.com/album/4ateNzAHL5OsXC3WunUgbu"
-      },
-      "artists": [
-        {
-          "name": "Kushman",
-          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
-        }
-      ],
-      "duration_ms": 151456,
-      "name": "Lele",
-      "url": "https://open.spotify.com/track/1NlqheYPuFb5LveKKQA7dd"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "KISHASH",
-        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
-      },
-      "artists": [
-        {
-          "name": "Lilmaina",
-          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
-        }
-      ],
-      "duration_ms": 159940,
-      "name": "KISHASH",
-      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Pande Ile",
         "url": "https://open.spotify.com/album/7jAzig22ZqxAJzgncviWhz"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/3UPbsBz5rTewK0bfWLy6Wy"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Hatukai Sana",
         "url": "https://open.spotify.com/album/4Lhdmq2tD3wEHnIUfUhLvf"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/0TBvfpxaNgqufL1Zi9rMJC"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Balo Balo (Remix)",
         "url": "https://open.spotify.com/album/5PBO7lOsrZsuaks2mVvRvV"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/5gY3Xk1qyDyORfbHCfS2GH"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Ngwai",
         "url": "https://open.spotify.com/album/5CywYpe6tgVV1jhkNsRJ8b"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/1CfRqv98t4UmngWTWcgDZK"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Kaskie Vibaya",
         "url": "https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Kuja Ivo",
         "url": "https://open.spotify.com/album/6hLexLcCQzcYfT5qdpgTPF"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/3nh0ogd4RKZBYYP2plSKA7"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Pocahantas",
         "url": "https://open.spotify.com/album/4QaCeC55ghgtBFliu7SMtY"
@@ -1057,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2lKb0Zxafn6GLthqh3Fd3P"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Angela (Remix)",
         "url": "https://open.spotify.com/album/3R0Izl0KAG58L6RtxvBZ58"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6dsJk2F3gaCFmpHawBAg3t"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/6geiI1WVKe6r4WDmPKtr2a"
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1v9npX1JzqLnSvpziS6RoG"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Sababisha",
         "url": "https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q"
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Pesa Ndogo",
         "url": "https://open.spotify.com/album/7tgBbKwNZAGHLbqyVEZIXH"
@@ -1145,7 +1145,7 @@
       "url": "https://open.spotify.com/track/17SB8W5WdkVpsA6huzqu1X"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4"
@@ -1161,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "SHIKISHA",
         "url": "https://open.spotify.com/album/6KL7UuI8zLAudCNlqNlU7b"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/67onwGiAzAdJcOV34Selns"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "THE KONG EFFECT",
         "url": "https://open.spotify.com/album/6HfReOmZ0xgIZzktvTKW0v"
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5qFo47h5fM98znW7QTM6GI"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Weh Decide",
         "url": "https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Tit for Tat",
         "url": "https://open.spotify.com/album/5o7mfGHt7SJ4VkpH1MWq9g"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/0jzOQI1ZUrSuW1OH4FoDW6"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Kaveve Kazoze (Remix)",
         "url": "https://open.spotify.com/album/25u5Tg874oEWtwT1RYhkci"
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/4gh5zJb9IrOTtAWcmaJs4b"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Naipenda (Remix)",
         "url": "https://open.spotify.com/album/2Z3RxKuQWN6Cga3C5CHpE0"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/4DtO8nYfN2sXIWpyzWU4CM"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Makofi",
         "url": "https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC"
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "PUNGUZA EGO",
         "url": "https://open.spotify.com/album/66K9xtlzsdkOVnGg6kGVtq"
@@ -1365,7 +1365,7 @@
       "url": "https://open.spotify.com/track/7xv1IfCT79cFHzYYYVoQA6"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Nasikia Wah",
         "url": "https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh"
@@ -1385,7 +1385,7 @@
       "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "WANJAPI 2",
         "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
@@ -1401,7 +1401,7 @@
       "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot"
@@ -1425,7 +1425,7 @@
       "url": "https://open.spotify.com/track/2PrCP14dXcFeBsV4ksFi1C"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/5QGE7Gq5bxFa5jt8Y6vTIx"
@@ -1453,7 +1453,7 @@
       "url": "https://open.spotify.com/track/7bVpf6S7Uxd0khRwYnUkbu"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Naipenda",
         "url": "https://open.spotify.com/album/6kJHFGeQpJIjz2G9Ufy4kG"
@@ -1469,7 +1469,7 @@
       "url": "https://open.spotify.com/track/4zcZKjDkzrAqG1o8S1MG7U"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Chachisha",
         "url": "https://open.spotify.com/album/7wHBVQUeOi5P5a0l5AYAAw"
@@ -1489,7 +1489,7 @@
       "url": "https://open.spotify.com/track/0VJorjvhUSRFmLTMJtUX3W"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/5XYEw0QEAFJeN3JVyhaiyl"
@@ -1505,7 +1505,7 @@
       "url": "https://open.spotify.com/track/4M6r3xrzpD75ajUsUU3cPR"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Body Count",
         "url": "https://open.spotify.com/album/0Vr9Kp5Rb2kHwD3Eji29r7"
@@ -1529,27 +1529,7 @@
       "url": "https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Mishe Mishe",
-        "url": "https://open.spotify.com/album/1isTdiYXInBSxANK9MQbEi"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rayd",
-          "url": "https://open.spotify.com/artist/5gjuJ3cbWR2QWDOJy1av6x"
-        },
-        {
-          "name": "Juicekid Beats",
-          "url": "https://open.spotify.com/artist/2EA0HqonawtMg1hwEriVw7"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Mishe Mishe",
-      "url": "https://open.spotify.com/track/0NFk0fySmtmq3sGhb9kVcY"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Bestie Bestie",
         "url": "https://open.spotify.com/album/46oe1I6dhof7Fk15sM18Rf"
@@ -1565,27 +1545,7 @@
       "url": "https://open.spotify.com/track/3yvo1fzIADFYewf9McFjoN"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Yega Master (feat. Ucho)",
-        "url": "https://open.spotify.com/album/2sYqas6cknrMXwC2rhWYPd"
-      },
-      "artists": [
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        },
-        {
-          "name": "Ucho",
-          "url": "https://open.spotify.com/artist/6J9QXMUjA6sOoKXT1gZFQl"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Yega Master (feat. Ucho)",
-      "url": "https://open.spotify.com/track/4TeBKOiJxNhU1iiCWziVYq"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Three Wise Goats",
         "url": "https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR"
@@ -1629,31 +1589,7 @@
       "url": "https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
-      "album": {
-        "name": "Hatukosi Raha",
-        "url": "https://open.spotify.com/album/7Ek1PCCkkQlnUNNw5Vu86k"
-      },
-      "artists": [
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        },
-        {
-          "name": "Benzema",
-          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
-        },
-        {
-          "name": "Nelly The Goon",
-          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Hatukosi Raha",
-      "url": "https://open.spotify.com/track/0LH8cljkC5wtVR75Yb74Uc"
-    },
-    {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Si Unajua",
         "url": "https://open.spotify.com/album/2djH8uF4iqhv1AGAM5uBD0"
@@ -1673,7 +1609,7 @@
       "url": "https://open.spotify.com/track/0hIzn15rP82pk1b166xmKq"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Naskwambii Pole",
         "url": "https://open.spotify.com/album/0T02oHTSKUQHTZ2ghfRy0A"
@@ -1697,7 +1633,7 @@
       "url": "https://open.spotify.com/track/7r2VdMH4KBz8GCQyQP7gSV"
     },
     {
-      "added_at": "2024-05-30 23:59:00",
+      "added_at": "2024-06-07 05:23:20",
       "album": {
         "name": "Do Ri Me",
         "url": "https://open.spotify.com/album/0D9vnNfCEJ2IhRfgwRXHMA"
@@ -1723,6 +1659,70 @@
       "duration_ms": 202712,
       "name": "Do Ri Me",
       "url": "https://open.spotify.com/track/6nO5KlzzA3pq3DCtMCDC42"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Mishe Mishe",
+        "url": "https://open.spotify.com/album/1isTdiYXInBSxANK9MQbEi"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rayd",
+          "url": "https://open.spotify.com/artist/5gjuJ3cbWR2QWDOJy1av6x"
+        },
+        {
+          "name": "Juicekid Beats",
+          "url": "https://open.spotify.com/artist/2EA0HqonawtMg1hwEriVw7"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mishe Mishe",
+      "url": "https://open.spotify.com/track/0NFk0fySmtmq3sGhb9kVcY"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Yega Master (feat. Ucho)",
+        "url": "https://open.spotify.com/album/2sYqas6cknrMXwC2rhWYPd"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Ucho",
+          "url": "https://open.spotify.com/artist/6J9QXMUjA6sOoKXT1gZFQl"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Yega Master (feat. Ucho)",
+      "url": "https://open.spotify.com/track/4TeBKOiJxNhU1iiCWziVYq"
+    },
+    {
+      "added_at": "2024-06-07 05:23:20",
+      "album": {
+        "name": "Hatukosi Raha",
+        "url": "https://open.spotify.com/album/7Ek1PCCkkQlnUNNw5Vu86k"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        },
+        {
+          "name": "Nelly The Goon",
+          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Hatukosi Raha",
+      "url": "https://open.spotify.com/track/0LH8cljkC5wtVR75Yb74Uc"
     }
   ],
   "unique_name": "Gengetone Fire",

@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-430 songs - 1 day 0 hr 41 min
+431 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Somebody Like That](https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/6Jetxgkv7jYVQJhyOBqAPa) | 3:18 | 2021-06-13 |  |
 | [Somebody Like You](https://open.spotify.com/track/0qup7d7G2WffwARHKrqT2x) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 5:23 | 2019-06-26 | 2022-07-29 |
 | [Somebody to Thank](https://open.spotify.com/track/5fKbYBhU4iTm81YTqpYa0t) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Come Back Road](https://open.spotify.com/album/1xCo4ulACLVZ6lbYaQKQEL) | 3:31 | 2019-06-22 | 2022-04-18 |
-| [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 | 2021-07-25 |  |
+| [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 | 2021-07-25 | 2024-06-08 |
 | [Somethin' I'm Good At](https://open.spotify.com/track/6DRsEO5yuEGBF87qpyMB4d) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:37 | 2021-10-12 | 2022-04-19 |
 | [Something 'Bout You](https://open.spotify.com/track/2VdKelTyQHxQKyeTbimoHS) | [Sir Rosevelt](https://open.spotify.com/artist/36jGtr6jwJ2D7RVJBTRpsc) | [Sir Rosevelt](https://open.spotify.com/album/04qg9UzQONJod7bGdOIPOj) | 2:40 | 2019-05-25\* | 2022-04-21 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-05-18 |  |
@@ -436,6 +436,7 @@
 | [You're Gonna Miss This](https://open.spotify.com/track/5Ga2YBqKtetWgWL2pl3g3f) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Definitive Greatest Hits](https://open.spotify.com/album/5CFWkDEnKrS3Ar8Da5CGhR) | 3:43 | 2019-06-23 | 2022-07-29 |
 | [Young & Crazy](https://open.spotify.com/track/6ll39ALTlddWWQZLjSFlwM) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Sunshine & Whiskey](https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof) | 3:00 | 2022-03-25 | 2022-04-18 |
 | [Young Forever](https://open.spotify.com/track/4u6eRWSXvzVZtRP6m48Psx) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Young Forever](https://open.spotify.com/album/7hhV77g3kd5INnC8UA3ONo) | 3:17 | 2019-05-25\* | 2022-04-21 |
+| [Young Love & Saturday Nights](https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Young Love & Saturday Nights](https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu) | 3:15 | 2024-06-07 |  |
 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 | 2023-07-28 |  |
 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 | 2019-06-25 |  |
 

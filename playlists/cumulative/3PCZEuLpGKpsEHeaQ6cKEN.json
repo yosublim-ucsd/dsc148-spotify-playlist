@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 252301,
       "name": "1998 - Victor Ruiz Remix",
       "url": "https://open.spotify.com/track/3LwquNfvB0eYXYB5HOtpnk"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200475,
       "name": "A&S",
       "url": "https://open.spotify.com/track/4joJLer0vBve2ME4A0YU2i"
@@ -2604,7 +2604,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 230975,
       "name": "Carry On - Rezident Remix",
       "url": "https://open.spotify.com/track/5cGQY65jNWtW9s7RLi74jp"
@@ -2902,6 +2902,24 @@
       "duration_ms": 188000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/7bda2Oolx0yPguJMLAGCCz"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/79gA5BoC579kObUO6MnWmf"
+      },
+      "artists": [
+        {
+          "name": "Iman Hanzo",
+          "url": "https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151903,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1PPDSYmhB7DZPFSNVjYqdg"
     },
     {
       "album": {
@@ -4100,7 +4118,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 187000,
       "name": "Disappeared",
       "url": "https://open.spotify.com/track/4S5ocWLvzn2qlHtoDWJFJo"
@@ -4144,7 +4162,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 161333,
       "name": "Discohopping - Anna Tur Remix",
       "url": "https://open.spotify.com/track/1W0cld7fMBFPttUhZy10NM"
@@ -5530,7 +5548,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 158781,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/51i2k5wwoVJETU1Ki8Omjp"
@@ -5714,6 +5732,32 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "Fetish",
+        "url": "https://open.spotify.com/album/7J4EH4bP7h8oqmDVvpBPAz"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185478,
+      "name": "Fetish",
+      "url": "https://open.spotify.com/track/5iuVm0iFFVThDwJ1CC4HHl"
     },
     {
       "album": {
@@ -5908,6 +5952,28 @@
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/3PSEtooe8ePSXVNQ0sfNG2"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190147,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6yZauLY68KnSQrfAT9Q6mA"
     },
     {
       "album": {
@@ -6114,7 +6180,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162589,
       "name": "Forever Man (How Many Times) - Les Bisous Remix",
       "url": "https://open.spotify.com/track/2ODtL972CFsy8RupnO4Jzx"
@@ -6646,7 +6712,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 163510,
       "name": "God Is In The Soundwaves",
       "url": "https://open.spotify.com/track/51w0BMC24JALh8uzwRzjMB"
@@ -6664,7 +6730,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 194300,
       "name": "Going Deep - Evolution Edit",
       "url": "https://open.spotify.com/track/0iOWltWeiZvY33tDiio1QT"
@@ -8350,7 +8416,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 188714,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4zsa0eR7aUKsHVY9eKd2rX"
@@ -8372,7 +8438,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 358500,
       "name": "Hope - Brina Knauss Remix",
       "url": "https://open.spotify.com/track/6iEeA1hJ3TOT7rmJ24uEsv"
@@ -8412,7 +8478,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 112551,
       "name": "How I Fell In Love",
       "url": "https://open.spotify.com/track/0ciMj8GiQ2eKEAvH3FoMKZ"
@@ -8956,7 +9022,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 208108,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/3KR0V9bAcPrLzzjK4HkHaN"
@@ -9276,7 +9342,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 197142,
       "name": "If You Don't Mind",
       "url": "https://open.spotify.com/track/4gKFgHSP8l3rhUQHrrcqhz"
@@ -9706,7 +9772,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 158769,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1BnoG2KaNRuf7mZ88bFE0C"
@@ -10772,7 +10838,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 156498,
       "name": "Let's All Chant",
       "url": "https://open.spotify.com/track/1i8tYqDEnwS7RWF7tzeqZO"
@@ -10842,7 +10908,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 199000,
       "name": "Let's Really Have Some Fun",
       "url": "https://open.spotify.com/track/4rh90crEYx2AzwkX8w8gIX"
@@ -11416,7 +11482,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 146996,
       "name": "Lose This Feeling",
       "url": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
@@ -11456,7 +11522,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 186000,
       "name": "Lose This Feeling - Maddix Remix",
       "url": "https://open.spotify.com/track/4k6rfEGWGrv8rOHnjVcXVw"
@@ -11826,7 +11892,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 209571,
       "name": "Love Makes Me Feel Good",
       "url": "https://open.spotify.com/track/5SuLTqiJ9ibRFJ7zOEvBqD"
@@ -12064,7 +12130,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 142249,
       "name": "LUV",
       "url": "https://open.spotify.com/track/0xnttNgKqryVAbQXbGlGRO"
@@ -12320,6 +12386,28 @@
       "duration_ms": 280511,
       "name": "Million Times",
       "url": "https://open.spotify.com/track/7DFQk4y3R7z9s29GQLR86w"
+    },
+    {
+      "album": {
+        "name": "Mind Dimension (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/3CX2LjhZKJ0ERvdKW0t5YV"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Mind Dimension - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7aEivHwZvqNHoqsXoNKcWL"
     },
     {
       "album": {
@@ -13954,7 +14042,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 176924,
       "name": "One Last Dance - Acoustic Version",
       "url": "https://open.spotify.com/track/0ubUdKMc83hGyTiQqe4pz9"
@@ -14230,7 +14318,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 203809,
       "name": "Out Of Time",
       "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
@@ -14424,7 +14512,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 238200,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/2mFjUNz6k5MHnx0FlzjXnY"
@@ -14684,7 +14772,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 157440,
       "name": "Pasilda - Sunnery James & Ryan Marciano Remix",
       "url": "https://open.spotify.com/track/1yr0ApnuAXl04fRSz7ToRU"
@@ -15114,7 +15202,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 236546,
       "name": "Promised Land - 1-800 GIRLS Remix",
       "url": "https://open.spotify.com/track/4Z0r3xov0onZbbZyq3ZhlO"
@@ -15194,7 +15282,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 155408,
       "name": "Pull You Closer",
       "url": "https://open.spotify.com/track/6EUv3FQeCI8ty2EjxdRSpd"
@@ -17887,6 +17975,24 @@
     },
     {
       "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/0LPCndTNe6UwfyMXp1sODb"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208823,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/2ClJdYDfI8kjMadp5qTziB"
+    },
+    {
+      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/39KBFZHemCL8i2Smrkak4o"
       },
@@ -18484,7 +18590,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 210731,
       "name": "Subterranean",
       "url": "https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd"
@@ -18658,6 +18764,28 @@
       "duration_ms": 147096,
       "name": "Sunday Monday",
       "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
+    },
+    {
+      "album": {
+        "name": "Sunglasses at Night",
+        "url": "https://open.spotify.com/album/355umplV56zh1Or7ivsHj8"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Zyntherius",
+          "url": "https://open.spotify.com/artist/5OOeDUipuqJcBKJFEVvrSM"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Sunglasses at Night - Radio Edit",
+      "url": "https://open.spotify.com/track/1F8IWVxyW60Crr06qhEBsl"
     },
     {
       "album": {
@@ -19506,7 +19634,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 193152,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/5xuujJ9S8L8f9W2ERusk95"
@@ -20640,7 +20768,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 149516,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/54m4uPOVyjzxgh81Dr4rxS"
@@ -21796,7 +21924,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 159811,
       "name": "Waves",
       "url": "https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1"

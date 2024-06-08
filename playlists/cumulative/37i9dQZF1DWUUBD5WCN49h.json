@@ -1619,6 +1619,32 @@
     },
     {
       "album": {
+        "name": "BASSA",
+        "url": "https://open.spotify.com/album/3jnBopniBSlzdEfL6Y5PhA"
+      },
+      "artists": [
+        {
+          "name": "theSylk",
+          "url": "https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX"
+        },
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        },
+        {
+          "name": "Jake Cromwell",
+          "url": "https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "BASSA",
+      "url": "https://open.spotify.com/track/1KTXudaZZUN1St7KGUBCIt"
+    },
+    {
+      "album": {
         "name": "BEFORE THE ALBUM 2: a brief overview",
         "url": "https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd"
       },
@@ -2695,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
       },
@@ -3464,10 +3508,36 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 162953,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/126XUMPWUjPx2iRVhkaSjo"
+    },
+    {
+      "album": {
+        "name": "For Melanin Girlies",
+        "url": "https://open.spotify.com/album/2PrnZQQ9OyOCqFKaSnrTwA"
+      },
+      "artists": [
+        {
+          "name": "M\u0113l",
+          "url": "https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC"
+        },
+        {
+          "name": "Rie Osei",
+          "url": "https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv"
+        },
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128727,
+      "name": "Curbside",
+      "url": "https://open.spotify.com/track/21yQvM7joAjWuZhnT4KdoS"
     },
     {
       "album": {
@@ -4980,7 +5050,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 153191,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/5O9baSzMArK1dlWcqyxvds"
@@ -7332,6 +7402,24 @@
       "duration_ms": 167142,
       "name": "I No Go Blame You",
       "url": "https://open.spotify.com/track/0iDM7mg2VMCNwjalkXXkfN"
+    },
+    {
+      "album": {
+        "name": "I Regret",
+        "url": "https://open.spotify.com/album/7yMBUhBFLWmcf58qL9b9SQ"
+      },
+      "artists": [
+        {
+          "name": "Teswess",
+          "url": "https://open.spotify.com/artist/5f3qHCq4P6DLiWOrdI6Xeq"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "I Regret",
+      "url": "https://open.spotify.com/track/6LWzPiraT4yeHet4RvPICJ"
     },
     {
       "album": {
@@ -10640,7 +10728,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 196351,
       "name": "Mumu Na Forever",
       "url": "https://open.spotify.com/track/2ylp3aKsIp2ARWIIGKgEje"
@@ -11179,6 +11267,24 @@
     },
     {
       "album": {
+        "name": "NO GO LIE",
+        "url": "https://open.spotify.com/album/17rLjk1Ju70Rnhclnn0d5j"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "NO GO LIE",
+      "url": "https://open.spotify.com/track/4g9Ir7rXdtFNvdTC2tUikT"
+    },
+    {
+      "album": {
         "name": "No letting guh",
         "url": "https://open.spotify.com/album/1nW3aKGYni9OSGk2311kr9"
       },
@@ -11620,6 +11726,32 @@
       "duration_ms": 163369,
       "name": "Ogbono",
       "url": "https://open.spotify.com/track/7G16KcvbjNrrfyJ7u1Zovd"
+    },
+    {
+      "album": {
+        "name": "Ogechi",
+        "url": "https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "Ogechi",
+      "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
     },
     {
       "album": {
@@ -12700,7 +12832,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 143723,
       "name": "Philo",
       "url": "https://open.spotify.com/track/4QCAFS0e1fLtR4k8IQzweb"
@@ -12914,7 +13046,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 165600,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/4elqMh9ojfxBzk77bCZHcy"
@@ -12932,7 +13064,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 174545,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/40koVJVPscwPtadljPKMjq"
@@ -13034,7 +13166,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 138870,
       "name": "Pretty Girl Bop",
       "url": "https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA"
@@ -13284,6 +13416,28 @@
       "duration_ms": 167741,
       "name": "P\u00e8re",
       "url": "https://open.spotify.com/track/4yRZ3SAszB7vbemF24sZgM"
+    },
+    {
+      "album": {
+        "name": "Que Sera",
+        "url": "https://open.spotify.com/album/09vJd4nTEvLwwhgpOKnbAl"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        },
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "Que Sera",
+      "url": "https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK"
     },
     {
       "album": {
@@ -13768,7 +13922,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 187000,
       "name": "Right Here Right Now",
       "url": "https://open.spotify.com/track/23QQBPzq387FgvjbMVJK4A"
@@ -14052,6 +14206,24 @@
       "duration_ms": 176457,
       "name": "Saints Row",
       "url": "https://open.spotify.com/track/3OGKSo3gKQnQbG7d8GFLJE"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/1YnduPt4ggeHQRFwKtuv2C"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/4IxL4tYOGf6Q7jsv20DBgZ"
     },
     {
       "album": {
@@ -14430,6 +14602,24 @@
       "duration_ms": 163413,
       "name": "Sharp Attack",
       "url": "https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS"
+    },
+    {
+      "album": {
+        "name": "Shaye",
+        "url": "https://open.spotify.com/album/2AM5lUTJ1kFrzqBmHtRFZS"
+      },
+      "artists": [
+        {
+          "name": "Deentrg",
+          "url": "https://open.spotify.com/artist/1uJFvqAiaQfUjkHoGahWvR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160055,
+      "name": "Shaye",
+      "url": "https://open.spotify.com/track/1DHk3pzFOaVI3Z96ja1KRp"
     },
     {
       "album": {
@@ -16397,6 +16587,28 @@
     },
     {
       "album": {
+        "name": "Tonic No Lime (Remix)",
+        "url": "https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183170,
+      "name": "Tonic No Lime - Remix",
+      "url": "https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5"
+    },
+    {
+      "album": {
         "name": "Celine Vol. I",
         "url": "https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV"
       },
@@ -17890,7 +18102,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 154843,
       "name": "Xtacy",
       "url": "https://open.spotify.com/track/43dB4Pz7X2yf8nc85XPJDH"

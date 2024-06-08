@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,936 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,946 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [You Revive Me \- Live](https://open.spotify.com/track/6u11FVFbt4aNEXN6ft02Ot) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [You Revive Me \(Live From Keeper's Branch\)](https://open.spotify.com/album/3shNnK3y50olcCFqA4l9cJ) | 7:11 |
 | 50 | [As It Is In Heaven](https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:09 |
 
-Snapshot ID: `Zl5ZAAAAAAAZJk8kg9Rxd8Xy4lzP03G+`
+Snapshot ID: `Zl+qgAAAAAAnLZ20Pbo3TFEKjvE8CyZ7`

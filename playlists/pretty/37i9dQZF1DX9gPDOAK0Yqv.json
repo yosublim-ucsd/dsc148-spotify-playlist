@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 113703,
+  "num_followers": 113847,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 183524,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+        "name": "Queen's Gambit",
+        "url": "https://open.spotify.com/album/6rDGp7D3g7YfdrHy7VGKDC"
       },
       "artists": [
         {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        },
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
         }
       ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+      "duration_ms": 218174,
+      "name": "Queen's Gambit",
+      "url": "https://open.spotify.com/track/1Xspvf3cDTzevSzTLmxop3"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1415,42 +1419,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Queen's Gambit",
-        "url": "https://open.spotify.com/album/6rDGp7D3g7YfdrHy7VGKDC"
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
       },
       "artists": [
         {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
-        },
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
         }
       ],
-      "duration_ms": 218174,
-      "name": "Queen's Gambit",
-      "url": "https://open.spotify.com/track/1Xspvf3cDTzevSzTLmxop3"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "The Point Of Living (Omnya Remix)",
-        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Point Of Living (Omnya Remix)",
-      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1471,6 +1451,26 @@
       "duration_ms": 286451,
       "name": "Alone ft. braev",
       "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "The Point Of Living (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "The Point Of Living (Omnya Remix)",
+      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Phoenix (Saved My Life)",
+        "url": "https://open.spotify.com/album/5Uun2pL0ZfEWf4I7Vpliko"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "Phoenix (Saved My Life)",
+      "url": "https://open.spotify.com/track/2pXh6SdeJN0m420X8ekZSr"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Telepathic",
         "url": "https://open.spotify.com/album/1yLe2H0i64bqaH8dGYg70O"
       },
@@ -1635,6 +1655,30 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "In And Out Of Love (Innellea Remix)",
+        "url": "https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "In And Out Of Love - Innellea Remix",
+      "url": "https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Running Man",
         "url": "https://open.spotify.com/album/5f97vFiQaKNaPWJmm7wsCf"
       },
@@ -1663,30 +1707,6 @@
       "duration_ms": 203738,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "In And Out Of Love (Innellea Remix)",
-        "url": "https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        },
-        {
-          "name": "Sharon Den Adel",
-          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "In And Out Of Love - Innellea Remix",
-      "url": "https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1775,26 +1795,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Phoenix (Saved My Life)",
-        "url": "https://open.spotify.com/album/5Uun2pL0ZfEWf4I7Vpliko"
-      },
-      "artists": [
-        {
-          "name": "R3SPAWN",
-          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
-        },
-        {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "Phoenix (Saved My Life)",
-      "url": "https://open.spotify.com/track/2pXh6SdeJN0m420X8ekZSr"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Digital Dream",
         "url": "https://open.spotify.com/album/5Ndn8wz5skx5j1vBkN5WVr"
       },
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Sternstunde (Joris Voorn Edit)",
         "url": "https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG"
       },
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/28D9umTTAsMuEWuKj5WNAi"
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
       },
       "artists": [
         {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1951,22 +1967,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Ringo (Miss Monique Remix)",
         "url": "https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC"
       },
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+        "name": "Ludo",
+        "url": "https://open.spotify.com/album/3ove9LdrIbTwhPlz2mi7UN"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
         }
       ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+      "duration_ms": 260806,
+      "name": "Ludo - Radio Edit",
+      "url": "https://open.spotify.com/track/7JILgK41pMTIvaFAeTH9Ht"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Freyja",
         "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 229959,
       "name": "Freyja",
       "url": "https://open.spotify.com/track/50OqVeHgPhiVsoHaqWhBPd"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Ludo",
-        "url": "https://open.spotify.com/album/3ove9LdrIbTwhPlz2mi7UN"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        }
-      ],
-      "duration_ms": 260806,
-      "name": "Ludo - Radio Edit",
-      "url": "https://open.spotify.com/track/7JILgK41pMTIvaFAeTH9Ht"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Trust The Hours",
+        "url": "https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 371604,
+      "name": "Trust The Hours",
+      "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "My Cosmos Is Mine (ANNA Remix)",
         "url": "https://open.spotify.com/album/4uRqaAA83DA9CumodHfGW7"
       },
@@ -2243,18 +2259,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Trust The Hours",
-        "url": "https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 371604,
-      "name": "Trust The Hours",
-      "url": "https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub"
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -2279,18 +2295,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
+        "name": "The Silence",
+        "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
       },
       "artists": [
         {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
         }
       ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
+      "duration_ms": 263162,
+      "name": "The Silence",
+      "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -2311,26 +2331,6 @@
       "duration_ms": 251612,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/2lcxuqUUnRjIwHpzKrHwTC"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "The Silence",
-        "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 263162,
-      "name": "The Silence",
-      "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Meia Lua",
-        "url": "https://open.spotify.com/album/3lBx3M2hpoB1JOx4a8U5fT"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 377171,
-      "name": "Meia Lua",
-      "url": "https://open.spotify.com/track/0c8wD5hGVp3FVznjKZqjTv"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Club Vibes Part 05",
         "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Meia Lua",
+        "url": "https://open.spotify.com/album/3lBx3M2hpoB1JOx4a8U5fT"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 377171,
+      "name": "Meia Lua",
+      "url": "https://open.spotify.com/track/0c8wD5hGVp3FVznjKZqjTv"
     },
     {
       "added_at": "2024-06-06 22:00:00",

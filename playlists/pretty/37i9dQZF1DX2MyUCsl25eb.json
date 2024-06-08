@@ -1,13 +1,81 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 969288,
+  "num_followers": 969278,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAAAkHFGEZ6urWyIobZoeoDx6",
+  "snapshot_id": "ZmKFwAAAAABgNKdqqcT3xcr3bBtH4Xeg",
   "tracks": [
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 191554,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Give You the World",
+        "url": "https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 219349,
+      "name": "Give You the World",
+      "url": "https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "High Road (feat. Jessie Murph)",
+        "url": "https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "High Road (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -23,6 +91,22 @@
       "duration_ms": 209426,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -41,20 +125,20 @@
       "url": "https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "What Do You Believe In?",
-        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+        "name": "How to Say I Love You",
+        "url": "https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 190474,
-      "name": "What Do You Believe In?",
-      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
+      "duration_ms": 206506,
+      "name": "How to Say I Love You",
+      "url": "https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1029,26 +1113,6 @@
       "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Damage Gets Done",
-      "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
-    },
-    {
       "added_at": "2023-12-01 05:01:00",
       "album": {
         "name": "Lifeline (From the Original Motion Picture \u201cThe Color Purple\u201d)",
@@ -1383,22 +1447,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wish I Never Had to Say Goodbye",
-        "url": "https://open.spotify.com/album/6lEQ5YUdBoCloTOiWMyDgt"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 215735,
-      "name": "Wish I Never Had to Say Goodbye",
-      "url": "https://open.spotify.com/track/7yUA0vrNshPgwu7ppMT5kY"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
       },
@@ -1601,22 +1649,6 @@
       "url": "https://open.spotify.com/track/23DwQbHY3nDj1ego2cx1Q9"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "It Never Went Away (From the Netflix Documentary \u201cAmerican Symphony\u201d)",
-        "url": "https://open.spotify.com/album/5A6ONAnU3RT1vjOvqInUzm"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "It Never Went Away - From the Netflix Documentary \u201cAmerican Symphony\u201d",
-      "url": "https://open.spotify.com/track/2CcghfG9z26lruSjyRPZiK"
-    },
-    {
       "added_at": "2023-11-17 05:01:00",
       "album": {
         "name": "Glory",
@@ -1665,22 +1697,6 @@
       "url": "https://open.spotify.com/track/4JU2iK9bpsfGrd5UMvt0D7"
     },
     {
-      "added_at": "2023-12-08 05:01:00",
-      "album": {
-        "name": "Heaven, Pt. II",
-        "url": "https://open.spotify.com/album/0atXS0niSYhT7Dd0yP8oZS"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
-        }
-      ],
-      "duration_ms": 232304,
-      "name": "I'm Going To Love You",
-      "url": "https://open.spotify.com/track/4pc5bjb46APavK40b2LC6W"
-    },
-    {
       "added_at": "2023-12-15 05:00:00",
       "album": {
         "name": "Don't Need to Sleep",
@@ -1711,26 +1727,6 @@
       "duration_ms": 194262,
       "name": "Really Mean It",
       "url": "https://open.spotify.com/track/4vhC4RETf50LkuIAHMqb1f"
-    },
-    {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "Outta My Head",
-        "url": "https://open.spotify.com/album/6VUwD6FZ2b1wpL9PblefHo"
-      },
-      "artists": [
-        {
-          "name": "Brent Morgan",
-          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
-        },
-        {
-          "name": "Josh Kelley",
-          "url": "https://open.spotify.com/artist/1yLlQimDTRrACa45u50LXW"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Outta My Head",
-      "url": "https://open.spotify.com/track/1qGsNUvEula9l3dTBIPyLA"
     },
     {
       "added_at": "2024-01-26 05:01:00",

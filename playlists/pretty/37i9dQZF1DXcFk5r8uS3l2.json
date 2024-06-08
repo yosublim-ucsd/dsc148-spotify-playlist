@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 444177,
+  "num_followers": 444269,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllLQAAAAACzAcLiYjEEANJSfystvDsZ",
+  "snapshot_id": "ZmKFwAAAAABX24SArkNgcLL6f8NuCFxt",
   "tracks": [
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -559,22 +575,6 @@
       "duration_ms": 196130,
       "name": "Baby's Long Gone",
       "url": "https://open.spotify.com/track/708qzIZOYtob9OMFsxaDhI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Thunder Above You",
-        "url": "https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 225385,
-      "name": "American Cars",
-      "url": "https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV"
     },
     {
       "added_at": "2023-10-06 04:00:00",

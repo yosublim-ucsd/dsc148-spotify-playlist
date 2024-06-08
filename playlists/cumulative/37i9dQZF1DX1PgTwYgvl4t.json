@@ -543,6 +543,28 @@
     },
     {
       "album": {
+        "name": "I Worship",
+        "url": "https://open.spotify.com/album/5GRITao3nx7gyaAEn0tgYa"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231967,
+      "name": "I Worship",
+      "url": "https://open.spotify.com/track/2LLUDLGzrX9366WZOHiTNc"
+    },
+    {
+      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS"
       },

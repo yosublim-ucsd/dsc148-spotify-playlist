@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u4f0a\u85e4\u7f8e\u6765",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u6589\u85e4\u6731\u590f",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
     {
@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/7bJePWhLa2QvCgbccOVXOm"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216366,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1H2erkJADxZ5D1lt29p4gq"
+    },
+    {
+      "album": {
         "name": "Ashita no Katachi",
         "url": "https://open.spotify.com/album/145dJ4C6P0UOSzRO6PUCz6"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 245093,
       "name": "CHA\u221eIN",
       "url": "https://open.spotify.com/track/5IGE52g2no9Jsj1tQ5GGI3"
@@ -896,6 +914,24 @@
       "duration_ms": 187013,
       "name": "DGAF - S-quad",
       "url": "https://open.spotify.com/track/23KRMrBfqmPLnXVGlLTTYH"
+    },
+    {
+      "album": {
+        "name": "DISCOTHEQUE - from CrosSing",
+        "url": "https://open.spotify.com/album/5mBBlBfeXjKV0psB1jx0vA"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6c23\u3042\u305a\u672a",
+          "url": "https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237933,
+      "name": "DISCOTHEQUE - from CrosSing",
+      "url": "https://open.spotify.com/track/540Tpu2fgkS5FXuColwqiT"
     },
     {
       "album": {
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 224783,
       "name": "Freestyle Lover",
       "url": "https://open.spotify.com/track/2QwawnZ9rdnGhXWd7jJDIx"
@@ -3626,7 +3662,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 214666,
       "name": "Shut Out My Lie",
       "url": "https://open.spotify.com/track/0c4aGHH8AJnFsxv0DWtuRt"
@@ -3738,6 +3774,24 @@
       "duration_ms": 165253,
       "name": "Speak Out meets Giga",
       "url": "https://open.spotify.com/track/2lEO1KZiyh5gsSM10H2q4o"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u904a\u2606\u622f\u2606\u738b\u30b4\u30fc\u30e9\u30c3\u30b7\u30e5\uff01\uff01\u300f3\u5e74\u76ee\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30deSTAR RUSH(TV Size)",
+        "url": "https://open.spotify.com/album/6dLAIUUcvHeuNgvraJcbyk"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u702c\u5f69\u590f",
+          "url": "https://open.spotify.com/artist/5KigtrFAnqMlB7GpooOuXm"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90466,
+      "name": "STAR RUSH(TV Size)",
+      "url": "https://open.spotify.com/track/2dJ8N6BmUfVGrHSS1RGnXX"
     },
     {
       "album": {
@@ -4366,7 +4420,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 280502,
       "name": "White Lyrical Kingdom",
       "url": "https://open.spotify.com/track/06hl0y6Myq8rge0v9DgUCy"
@@ -4720,6 +4774,24 @@
       "duration_ms": 184403,
       "name": "\u3060\u304b\u3089\u5927\u4e08\u592b",
       "url": "https://open.spotify.com/track/2qT6vV4BEUPWg9qkphIxZV"
+    },
+    {
+      "album": {
+        "name": "\u3060\u3089\u3051\u3002",
+        "url": "https://open.spotify.com/album/2KqWfBx4exHse4O8RemB2v"
+      },
+      "artists": [
+        {
+          "name": "\u6589\u85e4 \u6731\u590f",
+          "url": "https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232876,
+      "name": "\u3060\u3089\u3051\u3002",
+      "url": "https://open.spotify.com/track/4fgQuGF8yThQkNGxf0cA1H"
     },
     {
       "album": {
@@ -5718,7 +5790,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 200893,
       "name": "\u30d2\u30ab\u30ea\u30cf\u30ca\u30c4",
       "url": "https://open.spotify.com/track/4dvKQ8ic2ifWOFH87FBQdV"
@@ -5902,6 +5974,24 @@
       "duration_ms": 232173,
       "name": "\u30eb\u30eb\u30ab\u30ef\u30a4\u30de",
       "url": "https://open.spotify.com/track/30y5c06JAfVrzYFOdzkthR"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u751f\u5206\u306e\u661f\u3068\u9003\u3052\u308b / \u6731\u304f\u67d3\u3081\u3066\u5fc3\u81d3\uff08TV Size ver.\uff09Single",
+        "url": "https://open.spotify.com/album/0IksDXUqYNM3tPcwnXukX0"
+      },
+      "artists": [
+        {
+          "name": "Nonoka Obuchi",
+          "url": "https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265733,
+      "name": "\u4e00\u751f\u5206\u306e\u661f\u3068\u9003\u3052\u308b",
+      "url": "https://open.spotify.com/track/1UiveK8YP1LKYWth0EFOcu"
     },
     {
       "album": {
@@ -6536,7 +6626,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 194733,
       "name": "\u6731\u304f\u67d3\u3081\u3066\u5fc3\u81d3",
       "url": "https://open.spotify.com/track/4X0gGAonBN5ACVi7vB93KO"
@@ -6945,6 +7035,24 @@
     },
     {
       "album": {
+        "name": "\u89e3\u653e",
+        "url": "https://open.spotify.com/album/1KI1n4WRZaOofehKlLWIiS"
+      },
+      "artists": [
+        {
+          "name": "Nagisa Aoyama",
+          "url": "https://open.spotify.com/artist/2A6FnpmlkgqdF6XQztRuhA"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "\u89e3\u653e",
+      "url": "https://open.spotify.com/track/6yPqogz5jNgJabImQGILD1"
+    },
+    {
+      "album": {
         "name": "\u8f2a\u5efb\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
         "url": "https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq"
       },
@@ -6960,6 +7068,24 @@
       "duration_ms": 262884,
       "name": "\u8f2a\u5efb\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
       "url": "https://open.spotify.com/track/4pse20eO6UxqETzbOQd86V"
+    },
+    {
+      "album": {
+        "name": "TOKYO-BYAKUYA",
+        "url": "https://open.spotify.com/album/76aGzlJ6Ml55E2eNQLPosj"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252306,
+      "name": "\u900f\u660e\u306a\u5408\u56f3",
+      "url": "https://open.spotify.com/track/60RE30MBh4Mri2kukYrcf8"
     },
     {
       "album": {
@@ -7028,7 +7154,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 218614,
       "name": "\u96e2\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4FXFXaXfUlIyiNJ04Ocwec"

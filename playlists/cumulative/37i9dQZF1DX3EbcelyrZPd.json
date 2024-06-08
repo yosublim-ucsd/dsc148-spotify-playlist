@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Phina",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 156651,
       "name": "Ex",
       "url": "https://open.spotify.com/track/2aKqtohPwH6iSJnil69Oix"
@@ -2781,6 +2781,28 @@
     },
     {
       "album": {
+        "name": "Muziki Wa Samia",
+        "url": "https://open.spotify.com/album/3JnsY2Il2yMASXxB21Kf5R"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258160,
+      "name": "Kazi Iendelee (feat. Awilo Longomba)",
+      "url": "https://open.spotify.com/track/6BU5S85SVEsB8CDkyMwawi"
+    },
+    {
+      "album": {
         "name": "Kibango (feat. Diamond Platnumz)",
         "url": "https://open.spotify.com/album/4KE7cYz611eP9Sip1kg1f7"
       },
@@ -3814,6 +3836,24 @@
       "duration_ms": 248999,
       "name": "Mapoz (feat. Mr. Blue & Jay Melody)",
       "url": "https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF"
+    },
+    {
+      "album": {
+        "name": "Mchuchu",
+        "url": "https://open.spotify.com/album/2wlhplBGSd8wewG9gPD5Ux"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191221,
+      "name": "Mchuchu",
+      "url": "https://open.spotify.com/track/4yDggExRPsd917Kewd2bP1"
     },
     {
       "album": {
@@ -4874,7 +4914,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 242123,
       "name": "Ndembe Ndembe",
       "url": "https://open.spotify.com/track/6j2HEYoVmkqzyaAqs6sopH"
@@ -5330,6 +5370,28 @@
       "duration_ms": 167272,
       "name": "Nitalia",
       "url": "https://open.spotify.com/track/0qLJfBbQLvgCBPSW4uGHfB"
+    },
+    {
+      "album": {
+        "name": "Nitambe",
+        "url": "https://open.spotify.com/album/6HAEhqWqMwSDTbTfgelysi"
+      },
+      "artists": [
+        {
+          "name": "Dayoo",
+          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
+        },
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218742,
+      "name": "Nitambe",
+      "url": "https://open.spotify.com/track/2jRdiYR17iX28FOumqhCxl"
     },
     {
       "album": {
@@ -6428,7 +6490,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 165599,
       "name": "Side Niggah",
       "url": "https://open.spotify.com/track/2P6dLx8C5m0byvNcpWoeLp"
@@ -7910,7 +7972,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 193894,
       "name": "Wewe",
       "url": "https://open.spotify.com/track/3KKWjl22OG6lEDQN2xDNn9"
@@ -8206,6 +8268,28 @@
       "duration_ms": 170000,
       "name": "Your Style",
       "url": "https://open.spotify.com/track/5n8bHFkGQyklpOqb2Swqca"
+    },
+    {
+      "album": {
+        "name": "Yule (Remix)",
+        "url": "https://open.spotify.com/album/5wfD1q45IeSUz5Tq8aQ42e"
+      },
+      "artists": [
+        {
+          "name": "Ay Masta",
+          "url": "https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191489,
+      "name": "Yule - Remix",
+      "url": "https://open.spotify.com/track/7t4SpN8c927O7Y3ymBsXnG"
     },
     {
       "album": {

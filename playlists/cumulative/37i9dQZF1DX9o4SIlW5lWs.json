@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Al coraz\u00f3n! Foto: Los \u00c1ngeles Azules & Emilia.",
+  "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
   "name": "Cumbia y Romance",
   "tracks": [
     {
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 168012,
       "name": "Como yo Nadie te ha Amado",
       "url": "https://open.spotify.com/track/7de5MsRdGAMPTFigekSonr"
@@ -1318,6 +1318,24 @@
       "duration_ms": 171930,
       "name": "Coraz\u00f3n Blindado",
       "url": "https://open.spotify.com/track/4of1mv2a6W8NO39ihoCcUW"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Partido",
+        "url": "https://open.spotify.com/album/4SodqHuqZTXiKzHmFFNMe5"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Coraz\u00f3n Partido",
+      "url": "https://open.spotify.com/track/4BYe8ElhYJgFdXBCZsKiv4"
     },
     {
       "album": {
@@ -3171,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Hoy Te Noto Cambiada",
+        "url": "https://open.spotify.com/album/5P5KfNuncMzk0UORLoC9xr"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255866,
+      "name": "Hoy Te Noto Cambiada",
+      "url": "https://open.spotify.com/track/3Unm7ymMfylvg2gkll40UH"
+    },
+    {
+      "album": {
         "name": "Hoy Te Vas",
         "url": "https://open.spotify.com/album/03cCnCHcgtarhC0BnZIGZ7"
       },
@@ -3643,6 +3679,28 @@
     },
     {
       "album": {
+        "name": "Le Hace Falta un Beso",
+        "url": "https://open.spotify.com/album/51Qfe89x4efECiaUiOjYgc"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Monolock",
+          "url": "https://open.spotify.com/artist/3UIBNXAuR6AYrhuIx9lca2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192429,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/65Bae8oBZOIvQqPLesZa71"
+    },
+    {
+      "album": {
         "name": "Grupo Play - Ahora juega en primera",
         "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
       },
@@ -3930,7 +3988,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 228069,
       "name": "Me Duele Perderte",
       "url": "https://open.spotify.com/track/6s4GOG6jGfsyUOOKeelV0K"
@@ -3974,7 +4032,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 175971,
       "name": "Me Equivoqu\u00e9 Otra Vez",
       "url": "https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk"
@@ -5134,7 +5192,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
@@ -5272,7 +5330,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 198620,
       "name": "Piel y Huesos",
       "url": "https://open.spotify.com/track/4xtRpCuA9EHceVZKERguSt"
@@ -6156,7 +6214,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
@@ -6614,6 +6672,28 @@
       "duration_ms": 200000,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/5hflrYILGtm3AA0tRuhuM1"
+    },
+    {
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170113,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/50WtswE20cDFRHe183OXkW"
     },
     {
       "album": {
@@ -7194,6 +7274,24 @@
       "duration_ms": 199444,
       "name": "Tu Me Obligaste",
       "url": "https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY"
+    },
+    {
+      "album": {
+        "name": "Tu Poeta",
+        "url": "https://open.spotify.com/album/1oUixzP0TwaYjsSBAZN9Sm"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "Tu Poeta",
+      "url": "https://open.spotify.com/track/60t05P6me4qnDI0kiwM8Bc"
     },
     {
       "album": {
@@ -8222,6 +8320,28 @@
       "duration_ms": 157666,
       "name": "\u00c1ngel de Amor",
       "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"
+    },
+    {
+      "album": {
+        "name": "\u00c9ramos los dos",
+        "url": "https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "\u00c9ramos los dos",
+      "url": "https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9o4SIlW5lWs"

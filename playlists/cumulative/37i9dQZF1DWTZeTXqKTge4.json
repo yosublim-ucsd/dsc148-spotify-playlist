@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 170174,
       "name": "DIGNIT\u00c9",
       "url": "https://open.spotify.com/track/4QKKKbdXAofomXFIcq9iCc"
@@ -6804,7 +6804,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 214588,
       "name": "La peine",
       "url": "https://open.spotify.com/track/2eqde2wm6T2EBRcI3oLKS0"
@@ -8916,6 +8916,24 @@
       "duration_ms": 129705,
       "name": "Oh lala",
       "url": "https://open.spotify.com/track/3jwmX9rBS74XmzDgtt6rKh"
+    },
+    {
+      "album": {
+        "name": "L'Osstidtour",
+        "url": "https://open.spotify.com/album/7xAbPL5CIEyi48EJSJPi8N"
+      },
+      "artists": [
+        {
+          "name": "D-Track",
+          "url": "https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162387,
+      "name": "Oh mah god",
+      "url": "https://open.spotify.com/track/3IdWwsWVyl4QvsuM6V8y87"
     },
     {
       "album": {
@@ -11948,7 +11966,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 182757,
       "name": "The Top",
       "url": "https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b"
@@ -12253,6 +12271,28 @@
     },
     {
       "album": {
+        "name": "Tower",
+        "url": "https://open.spotify.com/album/09dfqN6URH2XjpszKLy8S4"
+      },
+      "artists": [
+        {
+          "name": "2Z",
+          "url": "https://open.spotify.com/artist/7xIGXYdukawgOmDI5ihOnO"
+        },
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140268,
+      "name": "Tower",
+      "url": "https://open.spotify.com/track/2mlvh35Ofx1hvzVmC52ghG"
+    },
+    {
+      "album": {
         "name": "Trainer tard",
         "url": "https://open.spotify.com/album/7qgF8fV0CugusfofBOZGOq"
       },
@@ -12458,6 +12498,24 @@
       "duration_ms": 181428,
       "name": "Trop jeune",
       "url": "https://open.spotify.com/track/08ZC8YF01wYfrRSo441VrW"
+    },
+    {
+      "album": {
+        "name": "Trop sweet",
+        "url": "https://open.spotify.com/album/2HUxk6djhwvhEko7iM26X9"
+      },
+      "artists": [
+        {
+          "name": "YUYU",
+          "url": "https://open.spotify.com/artist/7AKP5OQLpIiuPLGQ7d4Seh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181053,
+      "name": "Trop sweet",
+      "url": "https://open.spotify.com/track/5xfXpnYSGY07pav2aoTFbZ"
     },
     {
       "album": {

@@ -1255,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "Believin'",
+        "url": "https://open.spotify.com/album/7equtWIDs3CnU9moplpF8c"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Believin'",
+      "url": "https://open.spotify.com/track/0LEAcMxFHe8WT8Lndix0f7"
+    },
+    {
+      "album": {
         "name": "Best Friend (Never Let Me Down) [BLR Mix]",
         "url": "https://open.spotify.com/album/0AAPEgBSt4ERy3NCNYhikX"
       },
@@ -1274,6 +1296,28 @@
       "duration_ms": 240000,
       "name": "Best Friend (Never Let Me Down) [BLR Mix]",
       "url": "https://open.spotify.com/track/7a2ZxSSWQRyK7jihIni8PW"
+    },
+    {
+      "album": {
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "album": {
@@ -12966,6 +13010,24 @@
       "duration_ms": 180000,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6pOSx27uLkZBE75JBEWFiE"
+    },
+    {
+      "album": {
+        "name": "Until the Sun Comes Up",
+        "url": "https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL"
+      },
+      "artists": [
+        {
+          "name": "Pansil",
+          "url": "https://open.spotify.com/artist/0jPFnkOW02ogcNH6PWnhUT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Until the Sun Comes Up",
+      "url": "https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw"
     },
     {
       "album": {

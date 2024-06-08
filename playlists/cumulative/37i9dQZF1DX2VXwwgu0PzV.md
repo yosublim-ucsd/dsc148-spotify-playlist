@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2?si=3\-AhgJc0RfS7kJuSNQOZXQ>Tim Godfrey</a> and  <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=RDfM3zozQmO\-Z1fBdrUa\-g>EJ Newton</a>
 
-706 songs - 1 day 16 hr 23 min
+707 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Confidence](https://open.spotify.com/track/1ZCgUvDTcHTRsl0SqZyWSw) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Confidence](https://open.spotify.com/album/2RDDk8NMdeCBnKNYXdMI27) | 3:25 | 2023-08-11 | 2023-09-15 |
 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 | 2023-10-13 | 2023-11-17 |
 | [Congratulations](https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 4:54 | 2023-12-05 | 2023-12-11 |
+| [Congratulations](https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [Congratulations](https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36) | 3:06 | 2024-06-07 |  |
 | [Congratulations](https://open.spotify.com/track/2lxAUhTqw3phdpVHJSHTMJ) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv) | [Congratulations](https://open.spotify.com/album/6Y7LaoeSXPsarZXQtD49xk) | 3:02 | 2023-02-10 | 2023-05-19 |
 | [Constantly](https://open.spotify.com/track/4lAOzZCEklb7KiZfDlUgLI) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Constantly](https://open.spotify.com/album/301oHOBnsCfFcaxekQK685) | 2:39 | 2023-09-01 | 2023-10-27 |
 | [Corner](https://open.spotify.com/track/1spriRONnTopsV5RMzoLH0) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Corner](https://open.spotify.com/album/24swiq8LPAY6wJiOHYj4OO) | 2:57 | 2023-03-23 | 2023-05-19 |

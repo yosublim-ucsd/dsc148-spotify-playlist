@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-588 songs - 1 day 5 hr 53 min
+592 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Dancing on my own](https://open.spotify.com/track/3x85o71j8PyDEhvnQJEtUn) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [All of me](https://open.spotify.com/album/5uMn4dATqQx38OCji41pYu) | 3:38 | 2022-09-30 | 2023-04-14 |
 | [Dancing on my own](https://open.spotify.com/track/122XrAD5sOasFPY1eKUfCt) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Dancing on my own](https://open.spotify.com/album/0PiSxlbMEumz9h8WYM3zQJ) | 3:10 | 2023-11-17 |  |
 | [Dancing queen](https://open.spotify.com/track/2Ms4SBm3AnznOBX0n4Wrr8) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 4:10 | 2022-12-02 | 2023-04-14 |
+| [Dancing Queen](https://open.spotify.com/track/4ZAb57aSLA2sf0YBqkfm29) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Dancing Queen](https://open.spotify.com/album/4yC6ASgRwxZXsPLi7rrRXV) | 3:28 | 2024-06-07 |  |
 | [Dancing With A Stranger](https://open.spotify.com/track/2u2DHwVcSQZjxwYXjUYHgT) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Dancing With A Stranger](https://open.spotify.com/album/1hXPgb69uhDHdFttRkOgBZ) | 3:35 | 2022-01-21 | 2023-06-03 |
 | [Danny Boy](https://open.spotify.com/track/5iX5XoYIjAtD4oLlfQlSuw) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Danny Boy](https://open.spotify.com/album/6WUgyBKlfD2KGBwWgv3NWM) | 4:17 | 2022-08-01 | 2023-05-12 |
 | [Daylight](https://open.spotify.com/track/5rBKVZEtA8PK6nTQ3O0DlN) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Daylight](https://open.spotify.com/album/1bM7suwHGrwnaYMfVz1r6J) | 3:14 | 2023-08-10 |  |
@@ -139,6 +140,7 @@
 | [Don´t Speak](https://open.spotify.com/track/4dHbpaYpTfoms8zFBLjJxC) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Don´t Speak](https://open.spotify.com/album/5F0qAUqoTQZbhjfyDkRyIx) | 3:42 | 2023-12-08 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/6xIidCUt8vNnGHYfXH9hVU) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Dream A Little Dream Of Me](https://open.spotify.com/album/482fvXp5PuWSHqR01zR0xd) | 3:15 | 2023-12-08 |  |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2022-01-21 |  |
+| [Drivers License](https://open.spotify.com/track/2EdN4I7srUp7OOkNwXBZwm) | [Adrienne Clotard](https://open.spotify.com/artist/48yNGJAgVQrkppL5jK0wn1) | [Drivers License](https://open.spotify.com/album/0Xnu91s6VhpY12MAPCX7Kj) | 3:14 | 2024-06-07 |  |
 | [Drivers License](https://open.spotify.com/track/1PgXOzu9gBTlDwuHBrS4gR) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Sour: Piano Instrumentals](https://open.spotify.com/album/7Gz4bLngGOjRyrkygaDL1O) | 4:20 | 2022-08-15 | 2022-10-29 |
 | [Drivers License](https://open.spotify.com/track/1KNY5yaClbVGYyeGQ9xPGC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Leave The Door Open](https://open.spotify.com/album/2wYXx1QLit8JRC9LB7QbHv) | 4:35 | 2022-10-28 | 2023-06-03 |
 | [Easy on me](https://open.spotify.com/track/5Qxt1qqgNGaoXUb0lSvaJJ) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Forever Young](https://open.spotify.com/album/2adgiBmCa5DHpfuXNyrexX) | 3:15 | 2022-10-28 |  |
@@ -286,6 +288,7 @@
 | [It's A Heartache](https://open.spotify.com/track/3lNgovZW5k6yasJqocDyKa) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [It's A Heartache](https://open.spotify.com/album/1tOdmnCWx6X1aZScGY51xz) | 3:04 | 2023-01-06 |  |
 | [Jealous Guy](https://open.spotify.com/track/3SBrKjO3J5hK33LkFUT5qu) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Jealous Guy](https://open.spotify.com/album/204pbznQh5kpkFiY2vVTe6) | 2:07 | 2023-03-17 | 2023-06-09 |
 | [Jolene](https://open.spotify.com/track/3Qy8L9VXIGqV51ZMqgqy8y) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Jolene](https://open.spotify.com/album/0esnlD3DW1GeM6321mL68H) | 3:11 | 2023-02-24 | 2023-06-09 |
+| [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 | 2024-06-07 |  |
 | [Jolene](https://open.spotify.com/track/7wEeJdVXXIhxqUFU3RriOn) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Jolene](https://open.spotify.com/album/33RySmFjwLy1DUUmMHIYyQ) | 1:51 | 2023-10-06 | 2024-02-21 |
 | [Just Give Me A Reason](https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Just Give Me A Reason](https://open.spotify.com/album/0FMrgE3K1VoA8Wv7p16xsM) | 3:42 | 2022-09-05 |  |
 | [Just The Way You Are \- Piano Version](https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:34 | 2022-12-02 |  |
@@ -348,6 +351,7 @@
 | [More Than Words](https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [More Than Words](https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE) | 3:04 | 2022-10-14 |  |
 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 | 2022-10-14 |  |
 | [Moves Like Jagger](https://open.spotify.com/track/6zc8GnAqooH79uEs2kZmTb) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Moves Like Jagger](https://open.spotify.com/album/5m3fTHK0aSuD0OBFtxYCsi) | 2:55 | 2023-10-20 |  |
+| [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2024-06-07 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-01-06 | 2023-03-18 |
 | [my future](https://open.spotify.com/track/3tj775u3IAgXrMxxMqtG8k) | [Diana Juliet](https://open.spotify.com/artist/1BlPnxWt0crhcYDCPS8GeV) | [my future](https://open.spotify.com/album/7ELa0S1mF1IAk6uTAaYv34) | 3:33 | 2022-01-21 | 2023-03-25 |
 | [My Girl](https://open.spotify.com/track/47roQazXWhrHvl61NVGTF2) | [Playing To Pitch In](https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5) | [My Girl](https://open.spotify.com/album/17VtHnIsNBJYn9Ym8hOzyG) | 3:23 | 2022-09-30 | 2022-10-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,898 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,107 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 5 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |
 | 6 | [Int 'o rione](https://open.spotify.com/track/0SbPMAgqOh6hi0xLa5gD8C) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe'mme](https://open.spotify.com/album/5MBHrsqGDt3aEMPvTcuvHt) | 4:27 |
 | 7 | [GAS](https://open.spotify.com/track/1vm8Lzx4Hd6vOKF5Q6GCXa) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [GAS](https://open.spotify.com/album/272OajDwr17InniWwa7BHj) | 2:36 |
-| 8 | [PRESIDENTE](https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:14 |
+| 8 | [PRESIDENTE](https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:14 |
 | 9 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 |
 | 10 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
 | 11 | [TE NE VAJE](https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a), [Stefania Lay](https://open.spotify.com/artist/1NNf3Zix93zZ6REk39stcD) | [Tredici](https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O) | 2:45 |

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,150 likes - 40 songs - 2 hr 47 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,149 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 |
 | 2 | [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 |
 | 3 | [Fugue In Twilight](https://open.spotify.com/track/1aOuKqVx4Myq3Ql4MqW1xK) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:24 |
-| 4 | [Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD) | 5:05 |
-| 5 | [Kyoto \(京都\)](https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:15 |
-| 6 | [Love In Our Hands](https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love In Our Hands](https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv) | 3:48 |
-| 7 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 |
-| 8 | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/track/7EQigqw8SToxlAXF2YMqjg) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 6:26 |
-| 9 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
-| 10 | [Autumn Leaves](https://open.spotify.com/track/1IMhurwZ1TdBQyXi9xz2H2) | [Stegonaute](https://open.spotify.com/artist/4ILyRrOiTzhF9hPDzYWcXs) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 2:34 |
-| 11 | [Anywhere \(Road Trippin'\) \- Unplugged](https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World Field Notes: Unplugged](https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M) | 3:52 |
-| 12 | [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 |
-| 13 | [Holding Me Back \- The Kite String Tangle's Stripped Back Version](https://open.spotify.com/track/1uAqwBlyVpdusW9Y4drUex) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back \(The Kite String Tangle's Stripped Back Version\)](https://open.spotify.com/album/10C4tAgChwZLtQ04Fd5nja) | 3:08 |
-| 14 | [Closer To You](https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Closer To You](https://open.spotify.com/album/3eTNzXkrhDwgL8IPDOa1Ax) | 3:12 |
+| 4 | [Closer To You](https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Closer To You](https://open.spotify.com/album/3eTNzXkrhDwgL8IPDOa1Ax) | 3:12 |
+| 5 | [Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD) | 5:05 |
+| 6 | [Kyoto \(京都\)](https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:15 |
+| 7 | [Love In Our Hands](https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love In Our Hands](https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv) | 3:48 |
+| 8 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 |
+| 9 | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/track/7EQigqw8SToxlAXF2YMqjg) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 6:26 |
+| 10 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
+| 11 | [Autumn Leaves](https://open.spotify.com/track/1IMhurwZ1TdBQyXi9xz2H2) | [Stegonaute](https://open.spotify.com/artist/4ILyRrOiTzhF9hPDzYWcXs) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 2:34 |
+| 12 | [Anywhere \(Road Trippin'\) \- Unplugged](https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World Field Notes: Unplugged](https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M) | 3:52 |
+| 13 | [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 |
+| 14 | [Holding Me Back \- The Kite String Tangle's Stripped Back Version](https://open.spotify.com/track/1uAqwBlyVpdusW9Y4drUex) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back \(The Kite String Tangle's Stripped Back Version\)](https://open.spotify.com/album/10C4tAgChwZLtQ04Fd5nja) | 3:08 |
 | 15 | [Slowly \- Instrumental](https://open.spotify.com/track/3GVLVaWkjpogFy7ZyjzXiI) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 3:33 |
 | 16 | [Altitudes](https://open.spotify.com/track/3vUqBuU7k1Ev75Rpb80daj) | [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Through The Mirror Glass](https://open.spotify.com/album/46rNTPpQNcoElCWGS4uZuY) | 3:50 |
 | 17 | [Wind Tempos](https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 6:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 39 | [Vanishing Point](https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 4:00 |
 | 40 | [Walking Slowly](https://open.spotify.com/track/59ALSzlla8jAzqD5Dhozoo) | [Maty Owl](https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:31 |
 
-Snapshot ID: `AAAKGvrW0us12sR4ZJkQk2tUkSSqEBOl`
+Snapshot ID: `AAAKHHjlfgsnvNu0HvSbCKAqkQi8QxLl`

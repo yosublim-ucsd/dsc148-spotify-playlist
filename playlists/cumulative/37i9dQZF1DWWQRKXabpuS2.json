@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u0627\u0635\u064a\u0644 \u0647\u0645\u064a\u0645",
+  "description": "\u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u0627\u0644\u063a\u0644\u0627\u0641:\u062d\u0646\u064a\u0646 \u062d\u0633\u064a\u0646",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 279083,
       "name": "Amer Alabik",
       "url": "https://open.spotify.com/track/6tV5ez4P7UDIt0BqL223Nq"
@@ -882,6 +882,24 @@
       "duration_ms": 284088,
       "name": "Ana Wa Anti",
       "url": "https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM"
+    },
+    {
+      "album": {
+        "name": "Ananya",
+        "url": "https://open.spotify.com/album/0hPgVuJbuXj0bZBoTzZDJh"
+      },
+      "artists": [
+        {
+          "name": "Haneen Hussain",
+          "url": "https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177572,
+      "name": "Ananya",
+      "url": "https://open.spotify.com/track/0STwpyh1bdUBDZxYxyDSG2"
     },
     {
       "album": {
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 296525,
       "name": "El Omor Mara",
       "url": "https://open.spotify.com/track/38uIJpJ96aL5yMijoGwEtC"
@@ -1632,6 +1650,24 @@
       "duration_ms": 201753,
       "name": "Eshtaqt",
       "url": "https://open.spotify.com/track/3CAwAK5kReh2G9Fh4J5zip"
+    },
+    {
+      "album": {
+        "name": "Estaslam Qalb",
+        "url": "https://open.spotify.com/album/291dphae9w4umV6vgSxEJc"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325038,
+      "name": "Estaslam Qalb",
+      "url": "https://open.spotify.com/track/3vji65yQ70Lkznq2sqlGtL"
     },
     {
       "album": {
@@ -2025,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Ham We Inzaah",
+        "url": "https://open.spotify.com/album/6g227LC1R1wY1PGRPRsPzv"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0637\u0631\u0641 \u0627\u0644\u0645\u0637\u0631\u0641",
+          "url": "https://open.spotify.com/artist/5aXMgkXcyM23iEx7ZyzNh9"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276886,
+      "name": "Ham We Inzaah",
+      "url": "https://open.spotify.com/track/64J16v8vzKE5TIniAZVIx0"
+    },
+    {
+      "album": {
         "name": "Hatet Yadak",
         "url": "https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7"
       },
@@ -2252,7 +2306,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 333531,
       "name": "Jeet Gablek",
       "url": "https://open.spotify.com/track/7uMCb7TtPSx5qdPCxpH05I"
@@ -2418,6 +2472,24 @@
       "duration_ms": 234824,
       "name": "Khair Il Kalam",
       "url": "https://open.spotify.com/track/0OJBY7oLHFxqksLVL9K2zw"
+    },
+    {
+      "album": {
+        "name": "Khajoola",
+        "url": "https://open.spotify.com/album/4AB5LQsjEfynEVrMy35Ysq"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Dashti",
+          "url": "https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250363,
+      "name": "Khajoola",
+      "url": "https://open.spotify.com/track/1cylMxQ5Y1lnQhD3fSbbZz"
     },
     {
       "album": {
@@ -4388,7 +4460,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 280776,
       "name": "Turfaa Alaqlam",
       "url": "https://open.spotify.com/track/4Z92Zmai7hrj1vPXDTCQhU"

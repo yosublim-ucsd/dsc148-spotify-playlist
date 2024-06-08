@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 150840,
       "name": "12 Pieces, Op.40: No.2 Chanson triste Allegro non troppo in G minor",
       "url": "https://open.spotify.com/track/7A3vj1xMqw1hgd8HDbwsWh"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 259519,
       "name": "Always on my mind - New version",
       "url": "https://open.spotify.com/track/3m2qqTisgw9PoILiMx5yHB"
@@ -1591,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348340,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
+    },
+    {
+      "album": {
         "name": "Am\u00e9rica",
         "url": "https://open.spotify.com/album/5zjHPacngqwkp75XzNZrrZ"
       },
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 348340,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/1fR1roNCRxQdbWJBovo6es"
@@ -1878,6 +1896,32 @@
       "duration_ms": 244090,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/0eF6n8Dl1aTmnF0u3yl4DD"
+    },
+    {
+      "album": {
+        "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+        "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        },
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240539,
+      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+      "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
     },
     {
       "album": {
@@ -5115,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "Count Me Out",
+        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252392,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
+    },
+    {
+      "album": {
         "name": "Countdown To Shutdown",
         "url": "https://open.spotify.com/album/7exlpnPOPjdUfwKwZ3tvQk"
       },
@@ -6445,6 +6507,32 @@
     },
     {
       "album": {
+        "name": "Don't Give Up (Grafix Remix)",
+        "url": "https://open.spotify.com/album/2Fdk5LR49i4X5WTtYvUU0f"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Don't Give Up - Grafix Remix",
+      "url": "https://open.spotify.com/track/6cJH8BO7B8Gl3n40q8Inh5"
+    },
+    {
+      "album": {
         "name": "Don't Listen To My Voicemail (feat. Pierre of Simple Plan)",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -6636,6 +6724,24 @@
       "duration_ms": 387853,
       "name": "Down To The Waterline - Live At The Rainbow / Dec 1979",
       "url": "https://open.spotify.com/track/2HgNLvtah8nkEbQvEKWyId"
+    },
+    {
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band - The Born in the U.S.A. Tour '84 - '85",
+        "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252366,
+      "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
+      "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
     },
     {
       "album": {
@@ -7992,7 +8098,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 151600,
       "name": "Everybody's Alone",
       "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
@@ -8535,6 +8641,24 @@
     },
     {
       "album": {
+        "name": "Fjord Focus",
+        "url": "https://open.spotify.com/album/7HylR9lbsDtGa1hxJXzc29"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264412,
+      "name": "Fjord Focus",
+      "url": "https://open.spotify.com/track/5sN163LUcybsb9gP4RzVdC"
+    },
+    {
+      "album": {
         "name": "Fliegen",
         "url": "https://open.spotify.com/album/1yRZFRNcCmyx8CHX4wTg6p"
       },
@@ -8970,7 +9094,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 282293,
       "name": "From Small Things (Big Things One Day Come) - Live at Malieveld, The Hague, Holland - 06/14/2016",
       "url": "https://open.spotify.com/track/5Nt0z9i8Can8wyQ28D7v6Y"
@@ -9332,6 +9456,24 @@
       "duration_ms": 402818,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
+    },
+    {
+      "album": {
+        "name": "London Session 1972",
+        "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199854,
+      "name": "Gimme Danger - Early Demo",
+      "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
     },
     {
       "album": {
@@ -9970,6 +10112,24 @@
       "duration_ms": 144072,
       "name": "Guitar Solo (Neal Schon) - Live",
       "url": "https://open.spotify.com/track/2NWbOuarPwAo7G3erN0xjI"
+    },
+    {
+      "album": {
+        "name": "Boston Tea Party, Boston 1970",
+        "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 899651,
+      "name": "Guitar Solo / Jam - Live",
+      "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
     },
     {
       "album": {
@@ -12250,7 +12410,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 108946,
       "name": "Imagination Annex",
       "url": "https://open.spotify.com/track/01T0dmvX0KTnSc4xug0VEP"
@@ -13152,6 +13312,24 @@
       "duration_ms": 263925,
       "name": "It's Called Paradise",
       "url": "https://open.spotify.com/track/645MkmRB7md78K9cIUemDn"
+    },
+    {
+      "album": {
+        "name": "A new bohemia",
+        "url": "https://open.spotify.com/album/6HRsZwU2RK31pMrVz7OXgF"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197452,
+      "name": "It's not a crime",
+      "url": "https://open.spotify.com/track/1oDqCB9okbzGoXgwMfbJEr"
     },
     {
       "album": {
@@ -15218,7 +15396,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 219346,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
@@ -15308,10 +15486,32 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 362908,
       "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) - Alternate Version",
       "url": "https://open.spotify.com/track/2JzqrOfcAtNz7pUZnkzJAt"
+    },
+    {
+      "album": {
+        "name": "Look At All the Things",
+        "url": "https://open.spotify.com/album/6QXU3uN1jniAg8PPbvt9Gx"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178609,
+      "name": "Look At All the Things",
+      "url": "https://open.spotify.com/track/5JcIqEaPTtCxXiF0ZwKLpq"
     },
     {
       "album": {
@@ -15981,6 +16181,24 @@
     },
     {
       "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "album": {
         "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
         "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
       },
@@ -16540,7 +16758,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 360234,
       "name": "Mind Games - Evolution Documentary",
       "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
@@ -18420,7 +18638,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 574634,
       "name": "One (feat. James Hetfield & Robert Trujillo)",
       "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
@@ -19063,6 +19281,24 @@
     },
     {
       "album": {
+        "name": "Parklife (Live at Wembley Stadium)",
+        "url": "https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230840,
+      "name": "Parklife - Live at Wembley Stadium",
+      "url": "https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS"
+    },
+    {
+      "album": {
         "name": "Rain in the Sun",
         "url": "https://open.spotify.com/album/5bNhaUhvtLw0Bqewfuxn21"
       },
@@ -19480,6 +19716,24 @@
       "duration_ms": 89306,
       "name": "Pictures at an Exhibition: Limoges, Le March\u00e9 (La Grande Nouvelle)",
       "url": "https://open.spotify.com/track/5ABTnhxDDJFR0atcICWIMR"
+    },
+    {
+      "album": {
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/7H0rjJQJ1QqQC9VLaOSEa5"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/5E5cy2Ns02oIxRL0STdLOP"
     },
     {
       "album": {
@@ -22891,6 +23145,32 @@
     },
     {
       "album": {
+        "name": "Bajo el Hechizo de la Resonancia: Explorando tu Reino de Paraguas",
+        "url": "https://open.spotify.com/album/64KURxmmxZDIpnmcMCL6Tj"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        },
+        {
+          "name": "Lluvia Relajante",
+          "url": "https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF"
+        },
+        {
+          "name": "Sonidos De Truenos y Lluvia",
+          "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108946,
+      "name": "Singular Ecstasy",
+      "url": "https://open.spotify.com/track/08eqsJQJFs5rAqyeqwJAoZ"
+    },
+    {
+      "album": {
         "name": "Sistema Solar",
         "url": "https://open.spotify.com/album/103jRkmfSxOPs2OqFWow8R"
       },
@@ -24667,6 +24947,24 @@
     },
     {
       "album": {
+        "name": "Endless Riddance",
+        "url": "https://open.spotify.com/album/0JBlgmqIsosVFIs55zFeyF"
+      },
+      "artists": [
+        {
+          "name": "Front 242",
+          "url": "https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287653,
+      "name": "Take One",
+      "url": "https://open.spotify.com/track/0slfUT2BP2tI5uIis9Z8Cb"
+    },
+    {
+      "album": {
         "name": "Take the World Apart",
         "url": "https://open.spotify.com/album/3rXiySdCNMOD2mB55SpNUd"
       },
@@ -25232,6 +25530,24 @@
       "duration_ms": 133903,
       "name": "The Bomb",
       "url": "https://open.spotify.com/track/2CJmT1vORtEBvi7vDzj9Uf"
+    },
+    {
+      "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446762,
+      "name": "The Call of Ktulu",
+      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
     },
     {
       "album": {
@@ -26247,6 +26563,24 @@
     },
     {
       "album": {
+        "name": "The Quest for Tanelorn (Revisited)",
+        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366906,
+      "name": "The Quest for Tanelorn - Revisited",
+      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
+    },
+    {
+      "album": {
         "name": "The Reckoning (feat. Amy Lee) [Live in Amsterdam]",
         "url": "https://open.spotify.com/album/6jALyqQddf992tgYntZITS"
       },
@@ -26340,6 +26674,28 @@
       "duration_ms": 237031,
       "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
       "url": "https://open.spotify.com/track/73HYJKK2trGgRT3PqSYfOV"
+    },
+    {
+      "album": {
+        "name": "The Seasons, Op. 37a: No. 6. June: Barcarolle",
+        "url": "https://open.spotify.com/album/34X1g6oi7Xh1yd85kP5p4q"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "German Kitkin",
+          "url": "https://open.spotify.com/artist/5HOVcgYQBn73abTDJP8MTy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295310,
+      "name": "The Seasons, Op. 37a: No. 6. June: Barcarolle",
+      "url": "https://open.spotify.com/track/70lPebrY7CGiZspaaLPufG"
     },
     {
       "album": {
@@ -28273,6 +28629,24 @@
     },
     {
       "album": {
+        "name": "V de Vendetta",
+        "url": "https://open.spotify.com/album/19EoBQStBV87G5qaKrb0Fv"
+      },
+      "artists": [
+        {
+          "name": "Dark Moor",
+          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300472,
+      "name": "V de Vendetta",
+      "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"
+    },
+    {
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/70Zug3bslmFJ7lccWDIo9J"
       },
@@ -28999,6 +29373,24 @@
     },
     {
       "album": {
+        "name": "We Have Heaven (Full Version) [Steven Wilson Mix]",
+        "url": "https://open.spotify.com/album/6an7DhNWYgq8oDWn8TFFVw"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141108,
+      "name": "We Have Heaven (Full Version) - Steven Wilson Mix",
+      "url": "https://open.spotify.com/track/0fvp6bQkSptkKcHedAjV8x"
+    },
+    {
+      "album": {
         "name": "We Love You",
         "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
       },
@@ -29036,6 +29428,24 @@
       "duration_ms": 275564,
       "name": "We Love You Moar (feat. Pussy Riot)",
       "url": "https://open.spotify.com/track/37pQPRmfsWA9HM7xMM6yXv"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195099,
+      "name": "We Made It Look Easy",
+      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
     },
     {
       "album": {
@@ -29506,6 +29916,32 @@
       "duration_ms": 279000,
       "name": "Where Do You Think You\u2019re Going? - Live At The Rainbow / Dec 1979",
       "url": "https://open.spotify.com/track/4Hy3YVSJAhUSDGUF9ASh69"
+    },
+    {
+      "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207992,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
     },
     {
       "album": {
@@ -30132,6 +30568,24 @@
       "duration_ms": 156000,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/2gfFcnPwV3MyI1Qq0jlanv"
+    },
+    {
+      "album": {
+        "name": "You Are Here (Ultimate Mix)",
+        "url": "https://open.spotify.com/album/6A0BDzSzJVKRVo42EVoyo8"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252648,
+      "name": "You Are Here - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2W9WA18G7wqsPNfDOE9tVT"
     },
     {
       "album": {

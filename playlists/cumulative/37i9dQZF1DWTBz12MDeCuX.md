@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Zartmann
 
-1,926 songs - 3 day 19 hr 1 min
+1,927 songs - 3 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [cro hat mir gesagt es wird easy](https://open.spotify.com/track/4wEMYoQ284TCWOEeEeL3TD) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [cro hat mir gesagt es wird easy](https://open.spotify.com/album/6hl9RsxvCWtNxnZeGqk0tH) | 3:01 | 2022-07-07 | 2022-09-16 |
 | [cross my heart](https://open.spotify.com/track/3nLSxpwZrU4ugAMVxYOHJe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/4NK2abDnkV5FqI0q32DLL9) | 2:26 | 2023-11-23 | 2024-02-09 |
 | [cross my heart](https://open.spotify.com/track/4yJ1fD1LvIVtTDOu4NyKLU) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [cross my heart](https://open.spotify.com/album/1MpZGsYzbDWKLwfJOijcVA) | 2:26 | 2023-10-19 | 2023-11-30 |
+| [Cumshot](https://open.spotify.com/track/3rkvPrlGZimE8x9VEQeTtI) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Cumshot](https://open.spotify.com/album/0jDEbTx2HflVGLelrIRKUM) | 2:02 | 2024-06-07 |  |
 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 | 2024-01-26 | 2024-05-24 |
 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-18 | 2023-08-30 |
 | [Daily](https://open.spotify.com/track/74WtxvNl1T1nOu0GPhl0Tp) | [Finity](https://open.spotify.com/artist/4L0lXiZj9QwPAw5z767fVX), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Daily](https://open.spotify.com/album/5fCB0xvQVpJOpdP1h4Y7EY) | 2:33 | 2024-02-01 | 2024-02-23 |

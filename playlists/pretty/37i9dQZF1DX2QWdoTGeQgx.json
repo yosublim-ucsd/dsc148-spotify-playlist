@@ -1,6 +1,6 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54263,
+  "num_followers": 54269,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "GRADIENT (Deluxe)",
-        "url": "https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM"
-      },
-      "artists": [
-        {
-          "name": "Josh Makazo",
-          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
-        }
-      ],
-      "duration_ms": 170864,
-      "name": "eclipse",
-      "url": "https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "It's Never Easy",
         "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 150720,
       "name": "Whiskey Bottle",
       "url": "https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "GRADIENT (Deluxe)",
+        "url": "https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "dear me,",
-        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 165967,
-      "name": "dear me,",
-      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "relationshit",
         "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 201818,
       "name": "talking to myself",
       "url": "https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "dear me,",
+        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 165967,
+      "name": "dear me,",
+      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "Who Do I Call?",
-        "url": "https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n"
-      },
-      "artists": [
-        {
-          "name": "Nathanie",
-          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Who Do I Call?",
-      "url": "https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "Bedroom (feat. Anne-Marie)",
         "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
       },
@@ -927,22 +911,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "i met you",
-        "url": "https://open.spotify.com/album/0RIR3aUzIxdGtiroIUOu3G"
-      },
-      "artists": [
-        {
-          "name": "Nathanie",
-          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
-        }
-      ],
-      "duration_ms": 97000,
-      "name": "i met you",
-      "url": "https://open.spotify.com/track/3q5gZai0nhaKr945z4ue9u"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "Emosi",
         "url": "https://open.spotify.com/album/3KcgxnKXrKeh21uUaP8ssS"
       },
@@ -955,6 +923,38 @@
       "duration_ms": 255493,
       "name": "Antara Anyer Dan Jakarta",
       "url": "https://open.spotify.com/track/5qCFwRlSV9Z8S35EYuQvDM"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "Who Do I Call?",
+        "url": "https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n"
+      },
+      "artists": [
+        {
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Who Do I Call?",
+      "url": "https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        }
+      ],
+      "duration_ms": 189931,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh"
-      },
-      "artists": [
-        {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
-        }
-      ],
-      "duration_ms": 189931,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 269893,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "i met you",
+        "url": "https://open.spotify.com/album/0RIR3aUzIxdGtiroIUOu3G"
+      },
+      "artists": [
+        {
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
+        }
+      ],
+      "duration_ms": 97000,
+      "name": "i met you",
+      "url": "https://open.spotify.com/track/3q5gZai0nhaKr945z4ue9u"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "Losing Game",
-        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
-      },
-      "artists": [
-        {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "Losing Game",
-      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "to be honest",
         "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 145298,
       "name": "confidence",
       "url": "https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/6Y5duGqNJhcuwQ4Rl79HgQ"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/2SXQSKKWv0lCx19Rzu555Q"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "dinner in bed",
-        "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
+        "name": "Same Mistakes",
+        "url": "https://open.spotify.com/album/57hj8borrNjzo4cfCMfCUD"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 197855,
-      "name": "dinner in bed",
-      "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
+      "duration_ms": 158289,
+      "name": "Same Mistakes",
+      "url": "https://open.spotify.com/track/1ZUGTfYnbyc7hB4Y2uXXf0"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "Same Mistakes",
-        "url": "https://open.spotify.com/album/57hj8borrNjzo4cfCMfCUD"
+        "name": "dinner in bed",
+        "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 158289,
-      "name": "Same Mistakes",
-      "url": "https://open.spotify.com/track/1ZUGTfYnbyc7hB4Y2uXXf0"
+      "duration_ms": 197855,
+      "name": "dinner in bed",
+      "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
     },
     {
       "added_at": "2024-05-30 00:26:38",

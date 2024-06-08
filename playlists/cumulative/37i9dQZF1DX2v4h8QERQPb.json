@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Trueno.",
+  "description": "Rimas argentinas. Foto: Homer El Mero Mero.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -3465,6 +3465,32 @@
     },
     {
       "album": {
+        "name": "me perd\u00ed",
+        "url": "https://open.spotify.com/album/3mqL3ZcanTiut60GBMPqFG"
+      },
+      "artists": [
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        },
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "Ayax",
+          "url": "https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245424,
+      "name": "me perd\u00ed",
+      "url": "https://open.spotify.com/track/11oA6aQCnLVtZy1m5jW6Ef"
+    },
+    {
+      "album": {
         "name": "Me Persigue",
         "url": "https://open.spotify.com/album/1kHi5vEAOoZrwV7TdptU7q"
       },
@@ -3992,7 +4018,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 279251,
       "name": "Og's",
       "url": "https://open.spotify.com/track/540CZIkFru9cSkIP2OddbM"
@@ -4226,6 +4252,28 @@
       "duration_ms": 152833,
       "name": "Perd\u00f3n Mam\u00e1",
       "url": "https://open.spotify.com/track/6Bo4B8mxqcy9MWwnbpCqTr"
+    },
+    {
+      "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/6obP0j3QiE8zclzohFE4rA"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127759,
+      "name": "Perm\u00edteme aplaudir",
+      "url": "https://open.spotify.com/track/4MnNlhp7YJ4AZJey7Ma1Fz"
     },
     {
       "album": {
@@ -4600,7 +4648,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 164708,
       "name": "REPRESENA",
       "url": "https://open.spotify.com/track/7b3gQL4a0Zf7rErbM0xcgv"

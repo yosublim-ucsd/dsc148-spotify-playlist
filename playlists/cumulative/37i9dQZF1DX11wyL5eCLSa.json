@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "All-Star Baseball",
+        "url": "https://open.spotify.com/album/7iO1m3sQU3qN1OgGv5YINc"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161410,
+      "name": "All-Star Baseball",
+      "url": "https://open.spotify.com/track/0C7MHhOMI62d7QvRNG635d"
+    },
+    {
+      "album": {
         "name": "All\u00ed Donde Sol\u00edamos Gritar",
         "url": "https://open.spotify.com/album/5FgUTMgWFhaxcL3MJUxwqx"
       },
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 232120,
       "name": "Como T\u00fa (Magic Music Box)",
       "url": "https://open.spotify.com/track/0E8qIw6KblOtDQYzzHQrxL"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 198622,
       "name": "Dame Una Oportunidad",
       "url": "https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 234000,
       "name": "El Club Internacional de Astronautas Fracasados",
       "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
@@ -2602,6 +2620,24 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "album": {
+        "name": "Estoy bien",
+        "url": "https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163070,
+      "name": "Estoy bien",
+      "url": "https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn"
     },
     {
       "album": {
@@ -4940,7 +4976,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-08",
       "duration_ms": 198558,
       "name": "Mismo Amor",
       "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
@@ -5260,6 +5296,24 @@
       "duration_ms": 209923,
       "name": "Nada Es Real",
       "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
+    },
+    {
+      "album": {
+        "name": "NADA QUE CELEBRAR",
+        "url": "https://open.spotify.com/album/2fKMFrZ2OZD1LGBNsndwrq"
+      },
+      "artists": [
+        {
+          "name": "Marc!",
+          "url": "https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184015,
+      "name": "NADA QUE CELEBRAR",
+      "url": "https://open.spotify.com/track/2SkZN0FmLD27eXDlkt67o3"
     },
     {
       "album": {
@@ -6534,6 +6588,24 @@
       "duration_ms": 276932,
       "name": "Rompecabezas (feat. NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
+    },
+    {
+      "album": {
+        "name": "Rosa Pastel",
+        "url": "https://open.spotify.com/album/2BgXIF0RwcuowQlfbjdR51"
+      },
+      "artists": [
+        {
+          "name": "Thermo",
+          "url": "https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216716,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/7bxCh7glDIF88qCo33Fcxm"
     },
     {
       "album": {
