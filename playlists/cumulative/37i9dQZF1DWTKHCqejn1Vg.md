@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-242 songs - 13 hr 14 min
+243 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Feature \(feat\. Cha Cha Malone\)](https://open.spotify.com/track/5m86qdISRdAeksZ1pSzI5h) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:50 | 2022-05-03 | 2022-07-19 |
 | [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 | 2022-08-19 | 2022-09-26 |
 | [First Time \(Feat\. BAYLEE\)](https://open.spotify.com/track/0nSTyJgjxiHSYwH0G4y0E9) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:04 | 2022-05-03 | 2022-07-24 |
+| [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 | 2024-03-08 |  |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2023-09-20 |  |
 | [FOR YOU](https://open.spotify.com/track/6ka6rd0mjjn0tAbbHZIm3U) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:43 | 2022-05-03 | 2022-07-29 |
 | [free](https://open.spotify.com/track/3FnIchDsti3r9sRyYOOiRt) | [h3re](https://open.spotify.com/artist/0smznozh1LvtEPKuUunm6c) | [myworld](https://open.spotify.com/album/3TCvBEad5CTLvGNDQQIyo4) | 2:52 | 2022-05-03 | 2022-07-28 |
@@ -233,7 +234,7 @@
 | [waves](https://open.spotify.com/track/7vkDQedL9mp2ItJM98N7zB) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [waves](https://open.spotify.com/album/3VQbyEZSFxmZveA9dabFJM) | 2:41 | 2022-05-03 | 2022-07-28 |
 | [WAY](https://open.spotify.com/track/2MCDkhPAa7FYexf8zkO4cR) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [LILOOP](https://open.spotify.com/artist/6iKrHUvFuVvoDPYb2AjtgS), [CLO￦D](https://open.spotify.com/artist/7uZssMIcJngQSZg1lyq7mB) | [QUESTIONS](https://open.spotify.com/album/3Jlslc3LjT6OKGv51O1g32) | 3:49 | 2022-05-03 | 2022-06-05 |
 | [Wet The Bed](https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:00 | 2022-05-03 |  |
-| [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 | 2024-03-08 |  |
+| [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 | 2024-03-08 | 2024-06-09 |
 | [White Lie \(feat\. GI$T\)](https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [White Lie](https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg) | 3:24 | 2022-08-09 | 2022-08-18 |
 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 | 2022-12-19 |  |
 | [Wild Dreams](https://open.spotify.com/track/2K0tO1NRmVdnPt5HIs8Q7w) | [V1VA](https://open.spotify.com/artist/04rkE835YxRm7UtD4ksItR) | [Wild Dreams](https://open.spotify.com/album/0RZRW5nSYteKyqKAfiCkGI) | 2:15 | 2022-05-03 | 2022-07-28 |

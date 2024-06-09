@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 553108,
+  "num_followers": 553097,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "Path of Least Resistance",
-        "url": "https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 170897,
-      "name": "Path of Least Resistance",
-      "url": "https://open.spotify.com/track/54nZbMoe196usom085LA0X"
-    },
-    {
-      "added_at": "2024-05-23 16:54:13",
-      "album": {
         "name": "Sometimes Why",
         "url": "https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 357773,
       "name": "Too Repressed - Explicit",
       "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"
+    },
+    {
+      "added_at": "2024-05-23 16:54:13",
+      "album": {
+        "name": "Path of Least Resistance",
+        "url": "https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 170897,
+      "name": "Path of Least Resistance",
+      "url": "https://open.spotify.com/track/54nZbMoe196usom085LA0X"
     },
     {
       "added_at": "2024-05-23 16:54:13",

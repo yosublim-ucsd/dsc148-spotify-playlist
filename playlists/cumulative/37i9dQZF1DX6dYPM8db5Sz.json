@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 193470,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc"
@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Devil Mode",
+        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184434,
+      "name": "Devil Mode",
+      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
+    },
+    {
+      "album": {
         "name": "Diamonds On The Sea",
         "url": "https://open.spotify.com/album/37xjNVuUVqS7T2aXTEc4NE"
       },
@@ -3902,6 +3920,28 @@
       "duration_ms": 226544,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU"
+    },
+    {
+      "album": {
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "4TUNAT",
+          "url": "https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183916,
+      "name": "FIGURE IT OUT",
+      "url": "https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s"
     },
     {
       "album": {
@@ -5030,7 +5070,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 187018,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy"
@@ -9404,7 +9444,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 185413,
       "name": "Riding",
       "url": "https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm"
@@ -10368,6 +10408,24 @@
       "duration_ms": 169062,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
+    },
+    {
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "album": {

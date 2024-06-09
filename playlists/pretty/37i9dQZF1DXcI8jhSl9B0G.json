@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75185,
+  "num_followers": 75178,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "duration_ms": 188149,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Oh My Girl",
-        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
-      },
-      "artists": [
-        {
-          "name": "Freight Train Foxes",
-          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
-        }
-      ],
-      "duration_ms": 168393,
-      "name": "Oh My Girl",
-      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Love Shack",
         "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 249489,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Oh My Girl",
+        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
+      },
+      "artists": [
+        {
+          "name": "Freight Train Foxes",
+          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
+        }
+      ],
+      "duration_ms": 168393,
+      "name": "Oh My Girl",
+      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
       "artists": [
         {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 191889,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+      "duration_ms": 191889,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1"
     },
     {
       "added_at": "2023-11-30 13:00:00",

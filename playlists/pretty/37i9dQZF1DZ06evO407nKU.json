@@ -1,12 +1,12 @@
 {
-  "description": "This Is Perdidos De Sinaloa. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 48798,
+  "description": "This Is Perdidos De Sinaloa. Los temas esenciales, todos en una lista.",
+  "num_followers": 48809,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAj/k7nf60b1ewdowOtx24f",
+  "snapshot_id": "ZmJNgAAAAABVIBP1ECFshggUSDfEmIYI",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
       "duration_ms": 219077,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/6E5PU4i61dEahmW37mTtk9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/3JwvTXXWnPqMmcqBF5isQW"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 218965,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5grP2ZBGyNSLH5q2ot9P2M"
     },
     {
       "added_at": null,
@@ -455,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ex de Verdad (En Vivo)",
-        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 218202,
-      "name": "Ex de Verdad (En Vivo)",
-      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -499,6 +503,22 @@
       "duration_ms": 182158,
       "name": "Ayer Ped\u00ed",
       "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ex de Verdad (En Vivo)",
+        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 218202,
+      "name": "Ex de Verdad (En Vivo)",
+      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
     },
     {
       "added_at": null,
@@ -539,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Idiota",
-        "url": "https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 173412,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -575,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 138658,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/6eokMJWQ6ndrLUfHGJQ0Vf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -587,6 +607,22 @@
       "duration_ms": 236493,
       "name": "La Pura Verdad",
       "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Idiota",
+        "url": "https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 173412,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye"
     },
     {
       "added_at": null,
@@ -623,30 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Llores Mas Mis Recuerdos",
-        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
-        }
-      ],
-      "duration_ms": 282671,
-      "name": "No Llores Mis Recuerdos",
-      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel El Sabroso",
         "url": "https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T"
       },
@@ -667,18 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p"
+        "name": "No Llores Mas Mis Recuerdos",
+        "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
         }
       ],
-      "duration_ms": 138658,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/6eokMJWQ6ndrLUfHGJQ0Vf"
+      "duration_ms": 282671,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
     },
     {
       "added_at": null,
@@ -739,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Ranchito",
-        "url": "https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Grupo X30",
-          "url": "https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Mi Ranchito - En Vivo",
-      "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Callando Bocas",
         "url": "https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z"
       },
@@ -815,6 +803,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Ranchito",
+        "url": "https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Grupo X30",
+          "url": "https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Mi Ranchito - En Vivo",
+      "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dar\u00eda Todo Por Ti",
         "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 198314,
       "name": "Cuidala (En Vivo)",
       "url": "https://open.spotify.com/track/1im5XPyQaApqcc37320tvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/3JwvTXXWnPqMmcqBF5isQW"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Ka\u00f1a",
-          "url": "https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 218965,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5grP2ZBGyNSLH5q2ot9P2M"
     },
     {
       "added_at": null,

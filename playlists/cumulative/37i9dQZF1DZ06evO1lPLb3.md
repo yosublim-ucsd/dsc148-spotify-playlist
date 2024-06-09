@@ -2,14 +2,16 @@
 
 ### [This Is Peggy Gou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
 
-> This is Peggy Gou\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Peggy Gou\. The essential tracks, all in one playlist.
 
-38 songs - 3 hr 23 min
+43 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-17 |  |
 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-08 |  |
+| [All That](https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:53 | 2024-06-09 |  |
+| [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-09 |  |
 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 | 2023-05-02 |  |
 | [Day Without Yesterday](https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 5:39 | 2023-12-13 |  |
 | [Day Without Yesterday \- Original Mix](https://open.spotify.com/track/3XZkzkdXOiw2DjvB6X50vV) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/3bxRoWmQKerV0JjO0TxfDa) | 5:39 | 2023-05-02 | 2023-12-14 |
@@ -25,7 +27,7 @@
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs) | 5:29 | 2023-12-13 |  |
 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 | 2023-12-13 |  |
 | [In Sum \- Original Mix](https://open.spotify.com/track/2Yh9N3MhhKfyLXhLwEIXuW) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 6:36 | 2023-05-02 | 2023-12-14 |
-| [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 | 2023-05-02 |  |
+| [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 | 2023-05-02 | 2024-06-09 |
 | [Jen High](https://open.spotify.com/track/5a7ukZt5n6y5iyWWXJTEH0) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 | 2023-12-13 |  |
 | [Jen High \- Original Mix](https://open.spotify.com/track/7AcjdWBhsM0pcYlm3go9Nu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War \(Part II\) EP](https://open.spotify.com/album/1awGHXEnKEn40VYbXFoE16) | 6:27 | 2023-05-02 | 2023-12-14 |
 | [Jigoo \- Radio Edit](https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo \(Radio Edit\)](https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf) | 4:03 | 2023-12-13 |  |
@@ -34,7 +36,9 @@
 | [Maktoop](https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:54 | 2023-05-02 |  |
 | [Nabi \(feat\. OHHYUK\)](https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi \(feat\. Ohhyuk\)](https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA) | 3:52 | 2023-12-13 |  |
 | [Nabi feat\. OHHYUK](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi feat\. OHHYUK](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2023-05-02 | 2023-12-14 |
+| [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 | 2024-06-09 |  |
 | [Rose](https://open.spotify.com/track/06iR09uUfFS3kVEAJHJyeB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:44 | 2023-05-02 |  |
+| [Seoulsi Peggygou \(서울시페기구\)](https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:37 | 2024-06-09 |  |
 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 | 2023-05-02 |  |
 | [Six O Six](https://open.spotify.com/track/01aXWzyH9y5prhVJ2tQLY9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 6:06 | 2023-12-13 |  |
 | [Six O Six \- Original Mix](https://open.spotify.com/track/4mhtOis1qkUr5e0SKNI1cs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/3bxRoWmQKerV0JjO0TxfDa) | 6:06 | 2023-05-02 | 2023-12-14 |
@@ -46,5 +50,6 @@
 | [Troop \- Original Mix](https://open.spotify.com/track/3RSkg1KZTTjBcVx1hAspxq) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art Of War EP](https://open.spotify.com/album/5qATchUQ9T0fAMPUZZ3Uk6) | 5:53 | 2023-05-02 | 2023-12-14 |
 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/0J79qvZLfVAABZ77mCVRPu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art Of War \(Part II\) EP](https://open.spotify.com/album/1awGHXEnKEn40VYbXFoE16) | 6:27 | 2023-05-02 | 2023-12-14 |
 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 | 2023-12-13 |  |
+| [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 | 2024-06-09 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

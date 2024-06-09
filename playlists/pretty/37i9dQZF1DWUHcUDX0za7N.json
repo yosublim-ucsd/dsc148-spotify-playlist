@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Falz",
-  "num_followers": 49630,
+  "num_followers": 49675,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 155019,
+      "name": "Jinja",
+      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Tony Montana",
         "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155019,
-      "name": "Jinja",
-      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 114419,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
@@ -415,22 +395,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Showcase (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
+      "duration_ms": 114419,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -451,6 +431,26 @@
       "duration_ms": 163685,
       "name": "Wrong Person (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Showcase (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Naija Funk",
-        "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
+        "name": "O.U.A.T",
+        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
       "artists": [
         {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 126213,
-      "name": "Naija Funk",
-      "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
+      "duration_ms": 141052,
+      "name": "O.U.A.T",
+      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -623,18 +619,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "O.U.A.T",
-        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
+        "name": "Naija Funk",
+        "url": "https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 141052,
-      "name": "O.U.A.T",
-      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
+      "duration_ms": 126213,
+      "name": "Naija Funk",
+      "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
-      },
-      "artists": [
-        {
-          "name": "Badsome",
-          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
-        }
-      ],
-      "duration_ms": 147183,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
+      },
+      "artists": [
+        {
+          "name": "Badsome",
+          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
+        }
+      ],
+      "duration_ms": 147183,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
     },
     {
       "added_at": "2024-06-07 00:01:00",

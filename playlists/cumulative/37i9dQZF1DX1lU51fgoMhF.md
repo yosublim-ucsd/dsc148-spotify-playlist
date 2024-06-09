@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-334 songs - 18 hr 23 min
+335 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [I'm so sick](https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm) | 3:19 | 2021-11-17 |  |
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-11 | 2023-05-17 |
 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-04-25 |  |
+| [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 | 2024-06-07 |  |
 | [In THE DaRk](https://open.spotify.com/track/6tIIRfmrgZnAaC1o7TvWxV) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:44 | 2021-11-17 | 2022-07-29 |
 | [Into the I\-LAND](https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [I\-LAND Part.1 Signal Song](https://open.spotify.com/album/5hytFjwacV5ObltOLMAqfA) | 3:37 | 2021-11-17 |  |
 | [ISLAND](https://open.spotify.com/track/1LEAO4bKSlclXPAFVGJibm) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [ISLAND](https://open.spotify.com/album/6JMJG0NGIfuv66NNSIZt4I) | 3:15 | 2022-01-09 | 2022-07-18 |
@@ -228,7 +229,7 @@
 | [One of Those Nights](https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:10 | 2021-11-17 |  |
 | [OXYGEN](https://open.spotify.com/track/128rj96Z6tTEU3h3awSMdB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:45 | 2021-11-17 | 2022-07-22 |
 | [Paeonia](https://open.spotify.com/track/1Unl2r6bKGsAV90WNNRJ2M) | [BUSTERS](https://open.spotify.com/artist/0BIHC8He3YfrhXeECyXSI4) | [Paeonia](https://open.spotify.com/album/1mycYAWkyGUDIMWMDLUJq0) | 3:13 | 2021-11-17 | 2022-07-18 |
-| [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-06-30 |  |
+| [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-06-30 | 2024-06-09 |
 | [Parade](https://open.spotify.com/track/0u2RxRjpM4rMvojoNqZHH0) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [RescuE](https://open.spotify.com/album/32n91KG3YeLMLJ9e64EfXy) | 3:13 | 2021-11-17 | 2022-07-29 |
 | [PARADISE](https://open.spotify.com/track/5oatmxCOgjKocmrUd5gM46) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL Summer Special Album ‘Hello Summer’](https://open.spotify.com/album/3LxHIjDaVAwzkagYX3dShh) | 3:33 | 2021-11-17 | 2022-07-04 |
 | [Paradise](https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:26 | 2021-11-17 | 2022-07-29 |

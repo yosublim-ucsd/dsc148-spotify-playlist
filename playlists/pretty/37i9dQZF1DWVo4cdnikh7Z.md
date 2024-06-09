@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Indian 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,830 likes - 94 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,869 likes - 94 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

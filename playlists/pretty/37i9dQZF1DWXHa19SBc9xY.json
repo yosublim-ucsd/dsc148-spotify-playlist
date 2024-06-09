@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 94126,
+  "num_followers": 94160,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 188210,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Gente",
+        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Que Sorte",
+      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "N\u00f3s Dois Aqui",
         "url": "https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 241572,
       "name": "N\u00f3s Dois Aqui",
       "url": "https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Gente",
-        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Que Sorte",
-      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -771,6 +771,30 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Balan\u00e7o de Amor",
+        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Curandeira",
+          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
+        },
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "duration_ms": 199231,
+      "name": "Balan\u00e7o de Amor",
+      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Rainha da Minha Bateria",
         "url": "https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu"
       },
@@ -787,22 +811,6 @@
       "duration_ms": 243850,
       "name": "Rainha da Minha Bateria",
       "url": "https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -827,6 +835,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Carnaval a Dois",
         "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 185865,
       "name": "Carnaval a Dois",
       "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Balan\u00e7o de Amor",
-        "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Curandeira",
-          "url": "https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp"
-        },
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        }
-      ],
-      "duration_ms": 199231,
-      "name": "Balan\u00e7o de Amor",
-      "url": "https://open.spotify.com/track/5ZXA3edMItRo9aRYH6woFx"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
-        }
-      ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Pode Acreditar",
         "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 286320,
       "name": "Dend\u00ea",
       "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+        }
+      ],
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2023-11-24 08:42:40",

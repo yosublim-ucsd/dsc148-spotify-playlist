@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
 
-649 songs - 1 day 10 hr 51 min
+650 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [DISTANCE](https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [DISTANCE](https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1) | 2:28 | 2023-07-14 | 2023-08-19 |
 | [Dmtri](https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Lamb Over Rice](https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm) | 4:34 | 2021-09-03 | 2022-08-06 |
 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 | 2022-10-21 | 2023-07-08 |
+| [DOIN GREAT](https://open.spotify.com/track/3uwTGCYleQp63OlweDUii0) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [APT 6E](https://open.spotify.com/album/3HDR2DFS1a5QbC1ZnGYiZF) | 2:36 | 2024-06-07 |  |
 | [Don't Condone 2](https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Don't Condone 2](https://open.spotify.com/album/4hb0mt3XZ4gbUePCMoPYeQ) | 4:24 | 2022-06-10 | 2022-06-18 |
 | [Don't Let The Devil \[Feat\. thankugoodsir\] \- Single Version](https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [Don't Let The Devil \[Feat\. thankugoodsir\]](https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M) | 2:44 | 2023-04-21 | 2023-08-12 |
 | [Don't Remind Me](https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Running From Time](https://open.spotify.com/album/38KIbLeS8hv57czsB0REq7) | 3:23 | 2023-02-17 | 2023-05-13 |
@@ -470,7 +471,7 @@
 | [Realest \(with Eminem\)](https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Realest \(with Eminem\)](https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P) | 3:37 | 2023-08-04 |  |
 | [Red Button](https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 2:40 | 2023-11-17 |  |
 | [Red Lobster Biscuits](https://open.spotify.com/track/7JcUYHmxHM6H9kjHOcTxuW) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [Red Lobster Biscuits](https://open.spotify.com/album/0nsjXVsIaE6dwUexKHDLjW) | 2:42 | 2021-09-03 | 2022-07-16 |
-| [REEKYOD](https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [REEKYOD](https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy) | 2:36 | 2024-05-05 |  |
+| [REEKYOD](https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [REEKYOD](https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy) | 2:36 | 2024-05-05 | 2024-06-09 |
 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 | 2023-05-12 | 2023-09-13 |
 | [Revolution](https://open.spotify.com/track/4RA1FD9a8WtyE4XTm08C4U) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Revolution](https://open.spotify.com/album/6AqHt9nnKhDCC9vcTTCQtV) | 3:33 | 2021-09-03 | 2022-01-06 |
 | [Rey Mysterio](https://open.spotify.com/track/7m2dMjululJjv4pRnOIDWv) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Rey Mysterio](https://open.spotify.com/album/0rOD4NWGXKxBpChErOkvXS) | 2:18 | 2021-09-03 | 2022-05-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo m\u00e1s nuevo de la M\u00fasica Mexicana. Cover: Christian Nodal",
-  "num_followers": 656906,
+  "num_followers": 657091,
   "original_name": "Nueva M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -239,7 +239,7 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Antolog\u00eda Vol. 2",
+        "name": "Antolog\u00eda, Vol. 2",
         "url": "https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM"
       },
       "artists": [
@@ -426,6 +426,10 @@
         {
           "name": "Ely Guerra",
           "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        },
+        {
+          "name": "Cumbia Machine",
+          "url": "https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc"
         }
       ],
       "duration_ms": 233042,
@@ -488,7 +492,7 @@
           "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         }
       ],
-      "duration_ms": 201750,
+      "duration_ms": 192250,
       "name": "IVANA",
       "url": "https://open.spotify.com/track/6AEh5Ungx1az2k2qEcgmq1"
     },

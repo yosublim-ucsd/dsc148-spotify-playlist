@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> It would be Messed Up to not be at Spotify House at CMA Fest! June 6\-8 from 10am \- 2am at Ole Red.
+> Two steppin' on the table, we don't need a dancefloor 🤠 Last day of Spotify House from 10am \- 12am at Ole Red!
 
 777 songs - 1 day 17 hr 56 min
 

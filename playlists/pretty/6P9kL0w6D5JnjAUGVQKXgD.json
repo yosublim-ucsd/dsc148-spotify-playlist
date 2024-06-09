@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47525,
+  "num_followers": 47524,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHsDoowsSLPbSLpu5jNbAmgVLasEii",
+  "snapshot_id": "AAAHseFsL47z8sBINMzV95/6ZdXhv5oZ",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/7aAWrDRy3T52A95bDNfdlO"
     },
     {
-      "added_at": "2023-12-08 11:28:03",
-      "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/4C4gVC19F33R3dqQUigTeg"
-      },
-      "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/4a2f4vrwllEtdifbu6nBdg"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Tell It To My Heart",
@@ -1595,6 +1579,26 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2024-03-08 11:28:03",
@@ -1619,22 +1623,22 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2024-05-08 00:38:06",
@@ -1653,24 +1657,24 @@
       "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
+      "added_at": "2023-06-12 09:23:03",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+        "name": "Know Your Worth",
+        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+      "duration_ms": 181436,
+      "name": "Know Your Worth",
+      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
     },
     {
       "added_at": "2024-03-29 11:27:06",
@@ -1695,22 +1699,18 @@
     {
       "added_at": "2023-06-12 09:23:03",
       "album": {
-        "name": "Know Your Worth",
-        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
+        "name": "Turn On the Bass",
+        "url": "https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Sheeqo Beat",
+          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
         }
       ],
-      "duration_ms": 181436,
-      "name": "Know Your Worth",
-      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
+      "duration_ms": 220560,
+      "name": "Turn On the Bass",
+      "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
     },
     {
       "added_at": "2023-10-13 12:01:03",
@@ -1731,22 +1731,6 @@
       "duration_ms": 171743,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/62Yf325p76wEBIvz5lzVIl"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Turn On the Bass",
-        "url": "https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o"
-      },
-      "artists": [
-        {
-          "name": "Sheeqo Beat",
-          "url": "https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Turn On the Bass",
-      "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1833,26 +1817,6 @@
       "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
     },
     {
-      "added_at": "2024-03-01 11:28:04",
-      "album": {
-        "name": "Crave Your Love",
-        "url": "https://open.spotify.com/album/4LBDFIy2ggp9I2QapYRz7Y"
-      },
-      "artists": [
-        {
-          "name": "Alvin Anthony",
-          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
-        },
-        {
-          "name": "Katie Coleman",
-          "url": "https://open.spotify.com/artist/55oQc2N7Exqb9w9Ya0HhIT"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "Crave Your Love",
-      "url": "https://open.spotify.com/track/0faJm8CQ7zFaXsxgvJ9wg7"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Ready For You (feat. Celeste)",
@@ -1871,6 +1835,26 @@
       "duration_ms": 268886,
       "name": "Ready For You (feat. Celeste)",
       "url": "https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9"
+    },
+    {
+      "added_at": "2024-03-01 11:28:04",
+      "album": {
+        "name": "Crave Your Love",
+        "url": "https://open.spotify.com/album/4LBDFIy2ggp9I2QapYRz7Y"
+      },
+      "artists": [
+        {
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
+        },
+        {
+          "name": "Katie Coleman",
+          "url": "https://open.spotify.com/artist/55oQc2N7Exqb9w9Ya0HhIT"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "Crave Your Love",
+      "url": "https://open.spotify.com/track/0faJm8CQ7zFaXsxgvJ9wg7"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -2031,6 +2015,26 @@
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
+    },
+    {
+      "added_at": "2024-06-09 00:41:06",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Roses (feat. ROZES)",
+      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     },
     {
       "added_at": "2022-07-15 15:42:02",

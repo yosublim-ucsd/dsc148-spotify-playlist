@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 222586,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 204339,
       "name": "Come Onn",
       "url": "https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 156732,
       "name": "Holdup (with Claud)",
       "url": "https://open.spotify.com/track/22cA60EuodgZxyIIOyHaQ8"
@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 272000,
       "name": "Scorpions Don't Live Forever",
       "url": "https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E"
@@ -8487,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "Wasting Your Love",
+        "url": "https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163611,
+      "name": "Wasting Your Love",
+      "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
+    },
+    {
+      "album": {
         "name": "Waving, Smiling",
         "url": "https://open.spotify.com/album/2S05gVrxrxqnbFEgjBHgQS"
       },
@@ -8538,6 +8556,24 @@
       "duration_ms": 424720,
       "name": "Weather Alive",
       "url": "https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY"
+    },
+    {
+      "album": {
+        "name": "Wella",
+        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169631,
+      "name": "Wella",
+      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
     },
     {
       "album": {

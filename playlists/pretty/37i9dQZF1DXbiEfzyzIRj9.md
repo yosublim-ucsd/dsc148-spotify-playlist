@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Rustie
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,039 likes - 99 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,038 likes - 99 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 43 | [Right Here](https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Right Here](https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp) | 3:49 |
 | 44 | [Prisma](https://open.spotify.com/track/7nw780TmnTZIRblMZEb6B0) | [Dazzle Drums](https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2) | [Prisma](https://open.spotify.com/album/56NlR27TfnwdnZMJ7BNcqd) | 3:12 |
 | 45 | [R.I.P\. Sunset（HIROSHI WATANABE aka KAITO MIX）](https://open.spotify.com/track/4s4oBN6h20F9iFyvqlE8Ux) | [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO), [Hiroshi Watanabe](https://open.spotify.com/artist/3YMGEE2v8JFucik7FvSndd) | [R.I.P\. Sunset（HIROSHI WATANABE aka KAITO MIX）](https://open.spotify.com/album/36rDd0T75cIF3txX3Tk5nw) | 9:42 |
-| 46 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [北村蕗](https://open.spotify.com/artist/2GLN8MIwNNkhgq2nNl2X0H) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 |
+| 46 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 |
 | 47 | [Carry Your Name](https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [The Learning of Urgency](https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED) | 3:17 |
 | 48 | [Babies](https://open.spotify.com/track/6Frcn5tjm500xmb3wCbKUx) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Babies](https://open.spotify.com/album/6YgpR6C7tDtNdBOTBgMzpD) | 3:46 |
 | 49 | [Highway](https://open.spotify.com/track/5mMSirkXiHRatbOQU7H8XZ) | [Eryyy](https://open.spotify.com/artist/05bLnicFOOWYmhoVx4FjMM) | [Highway](https://open.spotify.com/album/2iOm3SVYJ54KKutnA3dkak) | 4:33 |

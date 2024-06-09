@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7M7UXUwtz3Wb25PVS8dwHs">SEU Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,720 likes - 97 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,780 likes - 97 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 10 | [Highest Praise \- Live](https://open.spotify.com/track/7i0VDcrLmc8M39MN2i77qz) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Highest Praise \(Live\)](https://open.spotify.com/album/6oe0qlvrWEBwfVZCIqqTEz) | 6:57 |
 | 11 | [A Great Awakening \- Sunday Morning Edition](https://open.spotify.com/track/2I0ksTV0oY1hv4OIpIeORJ) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A Great Awakening](https://open.spotify.com/album/5NBjYFdlA6pIDnRQHP4O8H) | 4:09 |
 | 12 | [Unleash The Sound \(feat\. Gustavo Antonio\) \- Live](https://open.spotify.com/track/03YeOt07lOQX7YSNRh6q1o) | [Lakepointe Music](https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a), [Gustavo Antonio](https://open.spotify.com/artist/6ermy9eNrbYTRCQzbeXWpk) | [Unleash The Sound \(feat\. Gustavo Antonio\) \[Live\]](https://open.spotify.com/album/4bN9z2NHopfubQq7crcsVE) | 5:51 |
-| 13 | [Your Church \- Single Version](https://open.spotify.com/track/5MTrVZmB2s11vkbf0DczvZ) | [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Your Church \(Live\)](https://open.spotify.com/album/6o2Cjuwdek4LHNDHTmnQBt) | 4:17 |
+| 13 | [Your Church \- Single Version](https://open.spotify.com/track/5MTrVZmB2s11vkbf0DczvZ) | [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Your Church \(Live\)](https://open.spotify.com/album/6o2Cjuwdek4LHNDHTmnQBt) | 4:17 |
 | 14 | [Fragile \- Reimagined](https://open.spotify.com/track/1xXUBqzkcVqnt26WJLLl5k) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Fragile \(Reimagined\)](https://open.spotify.com/album/4JHezCs3CKgzWUTcaibLlo) | 3:11 |
 | 15 | [Reign Above It All](https://open.spotify.com/track/7eZObposDpGTCCqaXbvOI9) | [Lee Park Worship](https://open.spotify.com/artist/2gqep75ws6SMcHFl45cghA), [Parker Dearing](https://open.spotify.com/artist/1glUgYNZzTzGJpLPNPmsLh) | [Faithful Still](https://open.spotify.com/album/7xddmfsDyLcG1eJd1g6qk1) | 3:53 |
 | 16 | [To Be a Child Again](https://open.spotify.com/track/0ICZkdGTFKwB70Uffi1f23) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [To Be a Child Again](https://open.spotify.com/album/2DJHBtIlPsspHel7xi7Bcu) | 3:46 |

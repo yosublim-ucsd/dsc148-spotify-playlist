@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Like Lovers Do",
+        "url": "https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170794,
+      "name": "Like Lovers Do",
+      "url": "https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml"
+    },
+    {
+      "album": {
         "name": "Tear Your Heart Out",
         "url": "https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi"
       },

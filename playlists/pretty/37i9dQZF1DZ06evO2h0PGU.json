@@ -1,12 +1,12 @@
 {
-  "description": "This Is Yeah Yeah Yeahs. Los temas esenciales, todos en una lista.",
-  "num_followers": 44729,
+  "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
+  "num_followers": 44736,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAA/azqZ2Xna9GVgaxVtogjW",
+  "snapshot_id": "ZmJNgAAAAAAc+MNE8E/m75oyXzYAUds0",
   "tracks": [
     {
       "added_at": null,
@@ -27,58 +27,6 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Morning Music: Wake Up Workout",
-        "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
-      "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
     },
     {
       "added_at": null,
@@ -252,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 155320,
-      "name": "Date With The Night",
-      "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
+      "duration_ms": 216173,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
     },
     {
       "added_at": null,
@@ -316,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 216173,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
+      "duration_ms": 179240,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
     },
     {
       "added_at": null,
@@ -380,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Black Tongue",
-      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
+      "duration_ms": 109800,
+      "name": "Tick",
+      "url": "https://open.spotify.com/track/2NjbIZpz7YMyo8s0hgheqD"
     },
     {
       "added_at": null,
@@ -563,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
-        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
       "artists": [
         {
@@ -572,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+      "duration_ms": 109480,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/6LinqKaMUsazZ5NG2H1fyG"
     },
     {
       "added_at": null,
@@ -595,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Dull Life",
+      "url": "https://open.spotify.com/track/5AfDcCcS8fZVtimT1mGy08"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -607,6 +571,22 @@
       "duration_ms": 184126,
       "name": "Poor Song",
       "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
     },
     {
       "added_at": null,
@@ -627,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 120773,
-      "name": "Art Star",
-      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -655,6 +619,22 @@
       "duration_ms": 294013,
       "name": "Wedding Song",
       "url": "https://open.spotify.com/track/0EZELV7AI8v4KF6DErAgge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 120773,
+      "name": "Art Star",
+      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
     },
     {
       "added_at": null,
@@ -684,25 +664,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
+      "duration_ms": 224133,
+      "name": "10 x 10",
+      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
     },
     {
       "added_at": null,
@@ -723,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IS IS",
         "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
       },
@@ -732,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 224133,
-      "name": "10 x 10",
-      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
+      "duration_ms": 240106,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
     },
     {
       "added_at": null,

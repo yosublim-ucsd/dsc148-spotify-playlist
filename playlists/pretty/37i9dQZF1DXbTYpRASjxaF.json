@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Senndy",
-  "num_followers": 130756,
+  "num_followers": 130765,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -959,30 +959,6 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico Online",
         "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 208372,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/1zq1SispRxaFIKj3v9qOzN"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "Menino Barulhento",
+        "url": "https://open.spotify.com/album/0osJKRTACneLPJI3f5oQea"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pela Manh\u00e3",
+      "url": "https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
         "url": "https://open.spotify.com/album/3rXDB8PJWiuVSfkqYIELlV"
       },
@@ -1231,30 +1255,6 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
-        "name": "Menino Barulhento",
-        "url": "https://open.spotify.com/album/0osJKRTACneLPJI3f5oQea"
-      },
-      "artists": [
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "MC GH do 7",
-          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pela Manh\u00e3",
-      "url": "https://open.spotify.com/track/59kwXEmcc52rvxweb6we9p"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -1275,6 +1275,30 @@
       "duration_ms": 121540,
       "name": "Ambi\u00e7\u00f5es E V\u00edcios",
       "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
+        "name": "Geminiano Treinado",
+        "url": "https://open.spotify.com/album/3AZXsjU8BbondBCUQWdhkd"
+      },
+      "artists": [
+        {
+          "name": "Tavin 777",
+          "url": "https://open.spotify.com/artist/6n9j6RQkWMVhfG7Ob5k0mC"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 164891,
+      "name": "Geminiano Treinado",
+      "url": "https://open.spotify.com/track/6fp2YVZ3Iknafj7QfKM36h"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -1303,30 +1327,6 @@
       "duration_ms": 140283,
       "name": "Like What",
       "url": "https://open.spotify.com/track/35dBHqWrwqkKcZRXHCzFvZ"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "Geminiano Treinado",
-        "url": "https://open.spotify.com/album/3AZXsjU8BbondBCUQWdhkd"
-      },
-      "artists": [
-        {
-          "name": "Tavin 777",
-          "url": "https://open.spotify.com/artist/6n9j6RQkWMVhfG7Ob5k0mC"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 164891,
-      "name": "Geminiano Treinado",
-      "url": "https://open.spotify.com/track/6fp2YVZ3Iknafj7QfKM36h"
     },
     {
       "added_at": "2024-06-07 03:01:00",

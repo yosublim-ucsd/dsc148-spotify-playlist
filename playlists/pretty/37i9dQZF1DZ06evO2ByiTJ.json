@@ -1,12 +1,12 @@
 {
-  "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 14500,
+  "description": "This is Elaine Martins. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 14501,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAAZ9i786Obo6t7a0pxHdm0",
+  "snapshot_id": "ZmJNgAAAAAAm89Hp75Ag97nI9KT7t7jx",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "Lindo Presente",
+      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 281106,
       "name": "Eu Sei Quem Sou",
       "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "Lindo Presente",
-      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 298283,
-      "name": "Teu Querer",
-      "url": "https://open.spotify.com/track/7H74zMAlC3fZiIogelHllE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "H\u00e1 um Deus no C\u00e9u (Ao Vivo)",
         "url": "https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 235973,
       "name": "H\u00e1 um Deus no C\u00e9u (Ao Vivo)",
       "url": "https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 298283,
+      "name": "Teu Querer",
+      "url": "https://open.spotify.com/track/7H74zMAlC3fZiIogelHllE"
     },
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muda o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3"
-      },
-      "artists": [
-        {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 309150,
-      "name": "Muda o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cora\u00e7\u00e3o de Amor",
         "url": "https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 237586,
       "name": "Cora\u00e7\u00e3o de Amor",
       "url": "https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muda o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 309150,
+      "name": "Muda o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humilde Rei",
-        "url": "https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 331673,
-      "name": "Humilde Rei",
-      "url": "https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -471,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elaine Martins (Ao Vivo)",
         "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
@@ -503,6 +463,42 @@
       "duration_ms": 269360,
       "name": "Sobrevivi (Ao Vivo)",
       "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humilde Rei",
+        "url": "https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 331673,
+      "name": "Humilde Rei",
+      "url": "https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 249786,
+      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+        "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
       },
       "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 249786,
-      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
+      "duration_ms": 253000,
+      "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 257416,
-      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 294846,
       "name": "Minha Alma Canta",
       "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 257416,
+      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pode Descansar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2S0Y2yVezVgRpxoslsrLJ0"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Pode Descansar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0fcpopZX2R5ja524L5dlax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumpra o Seu Chamado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
@@ -879,30 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firme nas Promessas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos Falsetti",
-          "url": "https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "D\u00e9bora Cristina",
-          "url": "https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j"
-        }
-      ],
-      "duration_ms": 165653,
-      "name": "Firme nas Promessas",
-      "url": "https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minist\u00e9rio Sarando a Terra Ferida (Ao Vivo)",
         "url": "https://open.spotify.com/album/4nwCvJGaTRJkBHo8BDRAnz"
       },
@@ -923,18 +915,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pode Descansar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2S0Y2yVezVgRpxoslsrLJ0"
+        "name": "Firme nas Promessas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
       },
       "artists": [
         {
+          "name": "Carlinhos Falsetti",
+          "url": "https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7"
+        },
+        {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "D\u00e9bora Cristina",
+          "url": "https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Pode Descansar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0fcpopZX2R5ja524L5dlax"
+      "duration_ms": 165653,
+      "name": "Firme nas Promessas",
+      "url": "https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I"
     }
   ],
   "unique_name": "This Is Elaine Martins",

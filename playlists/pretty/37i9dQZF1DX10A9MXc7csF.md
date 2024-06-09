@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Linea Personal
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,078 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,148 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MALIBU](https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Vision](https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo) | 3:05 |
 | 2 | [Ojitos Rojos](https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Ojitos Rojos](https://open.spotify.com/album/6TYbBpHK1Tq0L7xcJl4YWU) | 3:01 |
 | 3 | [Los Cuadros](https://open.spotify.com/track/6kfXiwhfIxhyzkLamTyb6h) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Los Cuadros](https://open.spotify.com/album/6b5eVa9g8jV0J1qWd5xR9U) | 2:33 |
-| 4 | [IVANA](https://open.spotify.com/track/6AEh5Ungx1az2k2qEcgmq1) | [Santiago Jiménez](https://open.spotify.com/artist/0oTQtUGLufiCsIqmTbAQGM), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [IVANA](https://open.spotify.com/album/4BzXnqN9oVRTDCarl1Uwqz) | 3:21 |
+| 4 | [IVANA](https://open.spotify.com/track/6AEh5Ungx1az2k2qEcgmq1) | [Santiago Jiménez](https://open.spotify.com/artist/0oTQtUGLufiCsIqmTbAQGM), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [IVANA](https://open.spotify.com/album/4BzXnqN9oVRTDCarl1Uwqz) | 3:12 |
 | 5 | [Rockstar](https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Va En Serio](https://open.spotify.com/album/1IX7xMQ6ZRtsCU01kFyRXu) | 2:47 |
 | 6 | [Ser Tuyo Otra Vez \- En Vivo](https://open.spotify.com/track/5qvkn7Egmiwi5AKlwn5gBQ) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Ser Tuyo Otra Vez \(En Vivo\)](https://open.spotify.com/album/34Mn9qSXecDEhwSq1LHfWp) | 2:40 |
 | 7 | [YRUZ](https://open.spotify.com/track/6NjXu49e6voDYvt1i4n4lk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [Tony Herrera](https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk) | [YRUZ](https://open.spotify.com/album/1LT0cN7lVdm9iNsP8gH9W8) | 3:54 |

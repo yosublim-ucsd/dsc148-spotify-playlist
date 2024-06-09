@@ -12286,7 +12286,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 144001,
       "name": "Double appel",
       "url": "https://open.spotify.com/track/1O8JyjQbRtGDNCaKbyvWPl"
@@ -17914,6 +17914,24 @@
       "duration_ms": 135501,
       "name": "Hasni",
       "url": "https://open.spotify.com/track/6x6QrI8ihtRz4Eme7BiYnG"
+    },
+    {
+      "album": {
+        "name": "HASTA LA VISTA",
+        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "HASTA LA VISTA",
+      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
     },
     {
       "album": {
@@ -29930,6 +29948,24 @@
       "duration_ms": 209242,
       "name": "Me Da Igual",
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "album": {
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200360,
+      "name": "Me prends pas la t\u00eate",
+      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
     },
     {
       "album": {
@@ -43668,7 +43704,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 207335,
       "name": "T'oublier",
       "url": "https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI"

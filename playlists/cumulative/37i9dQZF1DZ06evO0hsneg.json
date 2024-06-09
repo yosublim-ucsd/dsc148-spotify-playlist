@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-03",
-  "description": "This is Ramengvrl. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Ramengvrl. The essential tracks, all in one playlist.",
   "name": "This Is Ramengvrl",
   "tracks": [
     {
@@ -598,6 +598,36 @@
       "duration_ms": 160000,
       "name": "Let Em Be",
       "url": "https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY"
+    },
+    {
+      "album": {
+        "name": "SUGARTOWN",
+        "url": "https://open.spotify.com/album/7McuiynMZiR1R3Ex8f0gqi"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        },
+        {
+          "name": "Chasu",
+          "url": "https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts"
+        },
+        {
+          "name": "Rafkyboy",
+          "url": "https://open.spotify.com/artist/0716HWuFnwWNErpKxn649R"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164093,
+      "name": "lollipop thug",
+      "url": "https://open.spotify.com/track/13vS5OU07nQ7xlaqFy4Nnc"
     },
     {
       "album": {

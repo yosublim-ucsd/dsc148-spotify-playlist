@@ -2,7 +2,7 @@
 
 ### [This Is Tom Petty and the Heartbreakers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
 
-> This Is Tom Petty and the Heartbreakers\. Los temas esenciales, todos en una lista.
+> This is Tom Petty and the Heartbreakers\. Todos os maiores hits em uma só playlist.
 
 99 songs - 6 hr 23 min
 
@@ -28,7 +28,7 @@
 | [Change the Locks](https://open.spotify.com/track/6LQ9h7vlBKg2AcPt5w1t2t) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 4:53 | 2022-01-11 | 2022-03-23 |
 | [Climb That Hill](https://open.spotify.com/track/5d3uVVKg38en0klxOycXJU) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:55 | 2022-01-11 | 2022-10-13 |
 | [Dogs On The Run](https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:40 | 2022-01-15 | 2022-11-28 |
-| [Don't Come Around Here No More](https://open.spotify.com/track/3BSoskNONnjn05yRO2tYFX) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:07 | 2022-01-11 |  |
+| [Don't Come Around Here No More](https://open.spotify.com/track/3BSoskNONnjn05yRO2tYFX) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:07 | 2022-01-11 | 2024-06-09 |
 | [Don't Do Me Like That](https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 2:41 | 2022-01-11 |  |
 | [Dreamville](https://open.spotify.com/track/0zG6crJiKpE4IIxSOtZXZs) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 3:47 | 2022-01-11 | 2022-10-13 |
 | [Echo](https://open.spotify.com/track/5BKc1D4DKDRjAg37HT7vLD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 6:36 | 2022-01-11 | 2022-02-16 |
@@ -50,7 +50,7 @@
 | [I Need to Know](https://open.spotify.com/track/26TpLkciA8vz3kAvSI5tHG) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [You're Gonna Get It!](https://open.spotify.com/album/5hULIIwBVNm3cinAAFmv1P) | 2:24 | 2022-01-11 |  |
 | [I Need You \- Live](https://open.spotify.com/track/1GWJ40AkC8D4ifxoteXzZF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Concert For George \(Live\)](https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu) | 3:00 | 2022-12-20 | 2023-01-01 |
 | [I Should Have Known It](https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:35 | 2022-01-11 |  |
-| [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [I Won't Back Down \(Live at the Fillmore, 1997\)](https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf) | 3:42 | 2022-10-29 | 2024-06-06 |
+| [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [I Won't Back Down \(Live at the Fillmore, 1997\)](https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf) | 3:42 | 2022-10-29 |  |
 | [I Won't Back Down \- Live at the Fillmore, 1997](https://open.spotify.com/track/6VI1XxF61Ny1Gb2m27XnaR) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 3:42 | 2022-12-09 | 2023-04-22 |
 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 | 2022-02-14 |  |
 | [Into The Great Wide Open](https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:43 | 2022-01-11 |  |

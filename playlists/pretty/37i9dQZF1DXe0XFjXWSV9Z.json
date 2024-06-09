@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 43274,
+  "num_followers": 43288,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/01kpcBNsQMDjkmIBbSHCrk"
     },
     {
-      "added_at": "2022-09-30 03:44:30",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Ag\u00fcita de Manantial",
-      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "El Gran Cacique",
@@ -823,6 +807,22 @@
       "duration_ms": 192232,
       "name": "Me Robaron Mi Runa Mula",
       "url": "https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a"
+    },
+    {
+      "added_at": "2022-09-30 03:44:30",
+      "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Ag\u00fcita de Manantial",
+      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
     },
     {
       "added_at": "2023-02-14 03:09:22",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
-      "added_at": "2023-12-20 04:46:22",
-      "album": {
-        "name": "Mar Iguana",
-        "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
-      },
-      "artists": [
-        {
-          "name": "\u00c9 Arenas",
-          "url": "https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC"
-        }
-      ],
-      "duration_ms": 197821,
-      "name": "Mar Iguana",
-      "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Savage Love",
@@ -1167,6 +1151,22 @@
       "duration_ms": 234812,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2023-12-20 04:46:22",
+      "album": {
+        "name": "Mar Iguana",
+        "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
+      },
+      "artists": [
+        {
+          "name": "\u00c9 Arenas",
+          "url": "https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC"
+        }
+      ],
+      "duration_ms": 197821,
+      "name": "Mar Iguana",
+      "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
     },
     {
       "added_at": "2023-05-25 19:15:17",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "La Era del GigaHertz",
-        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 306689,
-      "name": "La Era del GigaHertz",
-      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Dos Santos",
         "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 213186,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "La Era del GigaHertz",
+        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 306689,
+      "name": "La Era del GigaHertz",
+      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
     },
     {
       "added_at": "2022-07-01 02:22:57",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Me Duele Tu Partida",
-        "url": "https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 192474,
-      "name": "Me Duele Tu Partida",
-      "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
         "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216826,
       "name": "Lamento en la Selva - Remix",
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Me Duele Tu Partida",
+        "url": "https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 192474,
+      "name": "Me Duele Tu Partida",
+      "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1533,6 +1533,22 @@
       "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X"
+      },
+      "artists": [
+        {
+          "name": "Contento",
+          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
+    },
+    {
       "added_at": "2023-10-23 23:52:16",
       "album": {
         "name": "Virgen de Guadalupe",
@@ -1551,38 +1567,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Porrov\u00eda",
         "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 207000,
       "name": "Porrov\u00eda",
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb"
     },
     {
-      "added_at": "2022-09-03 04:03:52",
-      "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
-      },
-      "artists": [
-        {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Sonaja y Tambor",
@@ -1685,6 +1669,38 @@
       "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
     },
     {
+      "added_at": "2022-09-03 04:03:52",
+      "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Qu\u00e9malo",
+        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Que\u0301malo",
+      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
+    },
+    {
       "added_at": "2022-01-11 02:45:58",
       "album": {
         "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
@@ -1703,22 +1719,6 @@
       "duration_ms": 178887,
       "name": "Empecemos (Let's Start)",
       "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Qu\u00e9malo",
-        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 220986,
-      "name": "Que\u0301malo",
-      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
     }
   ],
   "unique_name": "TROPILOCO",

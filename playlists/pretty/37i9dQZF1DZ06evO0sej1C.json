@@ -1,12 +1,12 @@
 {
   "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
-  "num_followers": 38938,
+  "num_followers": 38954,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAejWyXpv5Z3i0c20NxQZhM",
+  "snapshot_id": "ZmJNgAAAAACdNiuSBF31y+7a0bJ/9E7a",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Vuelvas Mas A Mi",
+        "url": "https://open.spotify.com/album/02hGe8QdVFk6c7TYgda7Ho"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 243461,
+      "name": "No Vuelvas Mas A Mi",
+      "url": "https://open.spotify.com/track/7j3IPzmBPPSf3DeyhVhGMn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Sur de la Noche",
         "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 163100,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Vuelvas Mas A Mi",
-        "url": "https://open.spotify.com/album/02hGe8QdVFk6c7TYgda7Ho"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 243461,
-      "name": "No Vuelvas Mas A Mi",
-      "url": "https://open.spotify.com/track/7j3IPzmBPPSf3DeyhVhGMn"
     },
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Me Dijeron",
+        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187768,
+      "name": "No Me Dijeron",
+      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monstruos",
         "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
       },
@@ -427,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Dijeron",
-        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187768,
-      "name": "No Me Dijeron",
-      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -467,26 +467,6 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
-      },
-      "artists": [
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": null,
@@ -583,6 +563,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
     },
     {
       "added_at": null,
@@ -1079,6 +1079,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Calor y Fr\u00edo",
         "url": "https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 178064,
       "name": "Me Levant\u00e9",
       "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
     },
     {
       "added_at": null,

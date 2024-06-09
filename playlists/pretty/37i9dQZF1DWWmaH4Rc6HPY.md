@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Y regresaron las guitarras! José Madero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,730 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,740 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 55 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 |
 | 56 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
 | 57 | [Llórale a tu madre](https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Llórale a tu madre](https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f) | 3:27 |
-| 58 | [Cerca De Ti](https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 3:06 |
+| 58 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 |
 | 59 | [Cuando No Quedan Ganas](https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Cuando No Quedan Ganas](https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1) | 3:24 |
 | 60 | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Brillante Sobre el Mic \- EADDA9223](https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh) | 4:06 |
 | 61 | [El Nuevo Amor](https://open.spotify.com/track/4ewO4CRFVkcD0IcTvGCSGc) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Desandando Mis Pasos](https://open.spotify.com/album/2Murx2ffqeCVKyJhnVHjpC) | 2:27 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 65 | [Cerquita de Ti](https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Cerquita de Ti](https://open.spotify.com/album/62ZwyYS8G5aiN1lseBgoGc) | 3:15 |
 | 66 | [Te Arde](https://open.spotify.com/track/4pTBwkH4jQUUAtBKL2Npv7) | [Mar Rendón](https://open.spotify.com/artist/7Fk848MU19rSzUvRNwtpV8) | [Te Arde](https://open.spotify.com/album/28TfhtyFWwtxdNOYXi0EzL) | 2:42 |
 | 67 | [sobrenatural](https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [sobrenatural](https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE) | 2:37 |
-| 68 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 |
+| 68 | [Cerca De Ti](https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 3:06 |
 | 69 | [café hipnosis](https://open.spotify.com/track/06VBuaw8eD2U7PCpgsw9XA) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [café hipnosis](https://open.spotify.com/album/6oIxlPoctpmO5HzC7WQLSy) | 2:54 |
 | 70 | [Trebol](https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Trebol](https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7) | 2:42 |
 | 71 | [Habla Mal](https://open.spotify.com/track/0uoiez05RIe7pbR7AWcK0z) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Habla Mal](https://open.spotify.com/album/2gwP19vcS4TQiHCidOuGZC) | 2:54 |
 | 72 | [Rubia sol morena 🌙 v2](https://open.spotify.com/track/4MalLppLw1qEzTZc2DQuBl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Rubia sol morena 🌙 v2](https://open.spotify.com/album/0ogNTve0b52QReuS0fawx0) | 2:43 |
-| 73 | [Adictos](https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Adictos](https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN) | 3:57 |
-| 74 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 |
+| 73 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 |
+| 74 | [Adictos](https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Adictos](https://open.spotify.com/album/2ASS2Lr0zsC6UidDeAqqpN) | 3:57 |
 | 75 | [cada que...](https://open.spotify.com/track/0DxQ4wo5u9JtbTDGqcGO1h) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm), [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN), [Poder Fantasma](https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w), [Mariana Taylor](https://open.spotify.com/artist/3CCt5sS8zDpFbP9EKPH5Yt) | [cada que...](https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk) | 3:36 |
 
 Snapshot ID: `ZlpZ7AAAAAClUBXMdaVLLocQWelZfAXs`

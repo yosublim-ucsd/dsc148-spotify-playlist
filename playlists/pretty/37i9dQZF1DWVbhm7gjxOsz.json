@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 76678,
+  "num_followers": 76821,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
         "name": "Baby You Got It",
         "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 128546,
       "name": "Baby You Got It",
       "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Workin' On A Groovy Thing....The Best Of",
+        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
+      },
+      "artists": [
+        {
+          "name": "Patti Drew",
+          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -643,22 +659,6 @@
       "duration_ms": 377106,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Workin' On A Groovy Thing....The Best Of",
-        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
-      },
-      "artists": [
-        {
-          "name": "Patti Drew",
-          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 177946,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
         }
       ],
-      "duration_ms": 166732,
-      "name": "Two Lovers",
-      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
       },
       "artists": [
         {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+      "duration_ms": 166732,
+      "name": "Two Lovers",
+      "url": "https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "Show and Tell: The Best of Al Wilson",
         "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 207986,
       "name": "Show and Tell",
       "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Greatest Slow Jams",
-        "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
-      },
-      "artists": [
-        {
-          "name": "Thee Midniters",
-          "url": "https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "The Town I Live In",
-      "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Best Of The Manhattans: Kiss And Say Goodbye",
         "url": "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 279400,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Greatest Slow Jams",
+        "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
+      },
+      "artists": [
+        {
+          "name": "Thee Midniters",
+          "url": "https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "The Town I Live In",
+      "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
     },
     {
       "added_at": "2024-01-05 17:02:31",

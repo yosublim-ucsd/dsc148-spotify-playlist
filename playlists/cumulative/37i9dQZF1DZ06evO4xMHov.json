@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
+  "description": "This is N\u00edvea Soares. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is N\u00edvea Soares",
   "tracks": [
     {
@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Preto no Branco 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267170,
+      "name": "O Le\u00e3o E A Igreja (feat. N\u00edvea Soares) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z"
+    },
+    {
+      "album": {
         "name": "Preto No Branco 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41"
       },
@@ -884,7 +906,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 267170,
       "name": "O Le\u00e3o E A Igreja - Ao Vivo",
       "url": "https://open.spotify.com/track/1DZWhBkO9rIEX5IpyRDLgB"

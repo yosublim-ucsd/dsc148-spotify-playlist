@@ -1,13 +1,161 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 78,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 08 JUN",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 09 JUN",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIwwoSnETlKGEj2RRiipINuoIdigzU",
+  "snapshot_id": "AAAIyK7EpySN0jtFTl9K7uU7uV2uTsUI",
   "tracks": [
+    {
+      "added_at": "2024-06-08 22:02:20",
+      "album": {
+        "name": "\u0110\u1eebng L\u00e0m Tr\u00e1i Tim Anh \u0110au",
+        "url": "https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        }
+      ],
+      "duration_ms": 279208,
+      "name": "\u0110\u1eebng L\u00e0m Tr\u00e1i Tim Anh \u0110au",
+      "url": "https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt"
+    },
+    {
+      "added_at": "2024-06-08 22:02:20",
+      "album": {
+        "name": "Bewitched (Rework)",
+        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 262876,
+      "name": "Bewitched - Rework",
+      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
+    },
+    {
+      "added_at": "2024-06-08 22:02:20",
+      "album": {
+        "name": "espero que esse samba te encontre bem",
+        "url": "https://open.spotify.com/album/3ylo63ECk15nvZoTLaOHu8"
+      },
+      "artists": [
+        {
+          "name": "Jup do Bairro",
+          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
+        }
+      ],
+      "duration_ms": 61038,
+      "name": "espero que esse samba te encontre bem",
+      "url": "https://open.spotify.com/track/4UglGqbUEg1Y8yxvaiwWo1"
+    },
+    {
+      "added_at": "2024-06-08 22:02:20",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/3lvlKyYh5CBcMNrSbvu2ER"
+      },
+      "artists": [
+        {
+          "name": "Automhate",
+          "url": "https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf"
+        },
+        {
+          "name": "Daeya",
+          "url": "https://open.spotify.com/artist/0mbYVz9eUusAiuRotLpKQL"
+        }
+      ],
+      "duration_ms": 238344,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/6SgiZyha5z6oD0EhkWm4Cu"
+    },
+    {
+      "added_at": "2024-06-08 22:02:20",
+      "album": {
+        "name": "JUNGE BALLER",
+        "url": "https://open.spotify.com/album/573YDpCq1I93aebAWluexj"
+      },
+      "artists": [
+        {
+          "name": "6PM RECORDS",
+          "url": "https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "duration_ms": 130660,
+      "name": "JUNGE BALLER",
+      "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
+    },
+    {
+      "added_at": "2024-06-08 10:02:35",
+      "album": {
+        "name": "Fly As Hell",
+        "url": "https://open.spotify.com/album/7p0bDpgNYjCFyUGaScxTY1"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 124675,
+      "name": "Fly As Hell",
+      "url": "https://open.spotify.com/track/36DKSsIrZ3nLYmG5KQLgZQ"
+    },
+    {
+      "added_at": "2024-06-08 10:02:35",
+      "album": {
+        "name": "WORDS KILL",
+        "url": "https://open.spotify.com/album/7nXsmi2d35oZon5KExF14E"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "WORDS KILL",
+      "url": "https://open.spotify.com/track/2hVq1gNy55yOU1iEvRjSWL"
+    },
+    {
+      "added_at": "2024-06-08 10:02:35",
+      "album": {
+        "name": "crush (tom verlaine)",
+        "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 182498,
+      "name": "crush (tom verlaine)",
+      "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
+    },
     {
       "added_at": "2024-06-07 22:02:45",
       "album": {
@@ -299,136 +447,8 @@
       "duration_ms": 252442,
       "name": "Saraiman",
       "url": "https://open.spotify.com/track/79O1Cgf7etB3qAB7Qde5rN"
-    },
-    {
-      "added_at": "2024-06-06 22:03:03",
-      "album": {
-        "name": "PAYMEAGRIP",
-        "url": "https://open.spotify.com/album/3ITzR5E5QYiUrvOS9vRCUZ"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        }
-      ],
-      "duration_ms": 124392,
-      "name": "PAYMEAGRIP",
-      "url": "https://open.spotify.com/track/4TZlGoL2MMOYl6dNapmxHB"
-    },
-    {
-      "added_at": "2024-06-06 22:03:03",
-      "album": {
-        "name": "Fatalist",
-        "url": "https://open.spotify.com/album/4I2112nHeCLwTEb4xkUowx"
-      },
-      "artists": [
-        {
-          "name": "Half Me",
-          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Fatalist",
-      "url": "https://open.spotify.com/track/3w1pnSv8B46NVsias65E1L"
-    },
-    {
-      "added_at": "2024-06-06 22:03:03",
-      "album": {
-        "name": "there's a light",
-        "url": "https://open.spotify.com/album/5fdEADXcrVOns6lSt4oeon"
-      },
-      "artists": [
-        {
-          "name": "peace",
-          "url": "https://open.spotify.com/artist/5o4nlnlzin0Cc1GIRovq1Q"
-        }
-      ],
-      "duration_ms": 121845,
-      "name": "there's a light",
-      "url": "https://open.spotify.com/track/3IYbfszzTtDN1aTvQreFsE"
-    },
-    {
-      "added_at": "2024-06-06 22:03:03",
-      "album": {
-        "name": "STARBLAZE",
-        "url": "https://open.spotify.com/album/0WFn8xobTBPK5Zib09K6hc"
-      },
-      "artists": [
-        {
-          "name": "xaev",
-          "url": "https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL"
-        }
-      ],
-      "duration_ms": 186954,
-      "name": "STARBLAZE",
-      "url": "https://open.spotify.com/track/296UE3AygQKdzequJhUdGz"
-    },
-    {
-      "added_at": "2024-06-06 10:02:55",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/4CzCtsPM1jOgMW2grZHah6"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        }
-      ],
-      "duration_ms": 208984,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5"
-    },
-    {
-      "added_at": "2024-06-06 10:02:55",
-      "album": {
-        "name": "Plenty Guns",
-        "url": "https://open.spotify.com/album/3LwKxNjZlZhnAq6sHZnYhS"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 86928,
-      "name": "Plenty Guns",
-      "url": "https://open.spotify.com/track/29gNXaDSlzN4DJtjPjscIJ"
-    },
-    {
-      "added_at": "2024-06-06 10:02:55",
-      "album": {
-        "name": "MPH",
-        "url": "https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 119910,
-      "name": "MPH",
-      "url": "https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9"
-    },
-    {
-      "added_at": "2024-06-06 10:02:55",
-      "album": {
-        "name": "Boyfeel",
-        "url": "https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 149483,
-      "name": "Boyfeel",
-      "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 08 JUN",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 09 JUN",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

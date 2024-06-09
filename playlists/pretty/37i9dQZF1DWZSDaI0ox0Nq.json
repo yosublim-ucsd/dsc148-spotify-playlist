@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19055,
+  "num_followers": 19062,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
+        "name": "Morir de Amor",
+        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
+      },
+      "artists": [
+        {
+          "name": "Soledad Villamil",
+          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
+        }
+      ],
+      "duration_ms": 197973,
+      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
+      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 165982,
       "name": "La canci\u00f3n de Buenos Aires",
       "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Morir de Amor",
-        "url": "https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo"
-      },
-      "artists": [
-        {
-          "name": "Soledad Villamil",
-          "url": "https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD"
-        }
-      ],
-      "duration_ms": 197973,
-      "name": "La Canci\u00f3n y el Poema (Morir de Amor)",
-      "url": "https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Cabeza Negra",
-        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 154006,
-      "name": "Fuga de Ausencias",
-      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "Ofrenda Gaucha: Valsecito Amigo",
         "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 270791,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Cabeza Negra",
+        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 154006,
+      "name": "Fuga de Ausencias",
+      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -775,6 +775,34 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
+      },
+      "artists": [
+        {
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "Horacio Avilano",
+          "url": "https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E"
+        },
+        {
+          "name": "Hern\u00e1n Fredes",
+          "url": "https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj"
+        },
+        {
+          "name": "Hern\u00e1n Mastromarini",
+          "url": "https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -803,34 +831,6 @@
       "duration_ms": 213476,
       "name": "Mano a Mano",
       "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Buenos Aires",
-        "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
-      },
-      "artists": [
-        {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
-        },
-        {
-          "name": "Horacio Avilano",
-          "url": "https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E"
-        },
-        {
-          "name": "Hern\u00e1n Fredes",
-          "url": "https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj"
-        },
-        {
-          "name": "Hern\u00e1n Mastromarini",
-          "url": "https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Pobre Flor (Primera Ilusi\u00f3n)",
-        "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
-      },
-      "artists": [
-        {
-          "name": "Gisela Magri",
-          "url": "https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH"
-        },
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 126460,
-      "name": "Pobre Flor (Primera Ilusi\u00f3n)",
-      "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 236599,
       "name": "Marioneta",
       "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Pobre Flor (Primera Ilusi\u00f3n)",
+        "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
+      },
+      "artists": [
+        {
+          "name": "Gisela Magri",
+          "url": "https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH"
+        },
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 126460,
+      "name": "Pobre Flor (Primera Ilusi\u00f3n)",
+      "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
     },
     {
       "added_at": "2024-05-17 14:18:57",

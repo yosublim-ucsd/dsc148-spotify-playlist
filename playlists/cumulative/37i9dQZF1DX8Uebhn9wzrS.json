@@ -19896,7 +19896,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 148605,
       "name": "Meowtown",
       "url": "https://open.spotify.com/track/6Pm9etykP81ZPhwztUv8LQ"
@@ -20388,7 +20388,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 136551,
       "name": "Mistle",
       "url": "https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw"
@@ -24495,6 +24495,24 @@
     },
     {
       "album": {
+        "name": "pawsitive",
+        "url": "https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m"
+      },
+      "artists": [
+        {
+          "name": "misty tapes",
+          "url": "https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "pawsitive",
+      "url": "https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT"
+    },
+    {
+      "album": {
         "name": "Paxil",
         "url": "https://open.spotify.com/album/5RaCQRTMDToEM7czuQGTRA"
       },
@@ -26768,6 +26786,24 @@
       "duration_ms": 96000,
       "name": "Rocking Chair",
       "url": "https://open.spotify.com/track/2xbQ4xdV9FuN9VdCshaOcr"
+    },
+    {
+      "album": {
+        "name": "rodeo",
+        "url": "https://open.spotify.com/album/3cFp5vviCaISNjybqFHaH5"
+      },
+      "artists": [
+        {
+          "name": "lofi potato",
+          "url": "https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129475,
+      "name": "rodeo",
+      "url": "https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi"
     },
     {
       "album": {

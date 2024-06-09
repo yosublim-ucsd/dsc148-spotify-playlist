@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 459590,
+  "num_followers": 459632,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Umas E Outras",
-        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Jorge Maravilha",
-      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "O Canto da Cidade",
         "url": "https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 204093,
       "name": "O Canto da Cidade",
       "url": "https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Umas E Outras",
+        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Jorge Maravilha",
+      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Ao Vivo No Parque Madureira (Deluxe)",
-        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "O Show Tem Que Continuar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 189040,
       "name": "Swing de Campo Grande",
       "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Ao Vivo No Parque Madureira (Deluxe)",
+        "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "O Show Tem Que Continuar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Bis (Dois CDs)",
-        "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
-      },
-      "artists": [
-        {
-          "name": "Gonzaguinha",
-          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Lindo Lago Do Amor",
-      "url": "https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Bicho De 7 Cabe\u00e7as",
         "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 212160,
       "name": "Taxi Lunar",
       "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Bis (Dois CDs)",
+        "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
+      },
+      "artists": [
+        {
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Lindo Lago Do Amor",
+      "url": "https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Nos Botequins Da Vida",
-        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Olho por Olho",
-      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Vamos Pro Mundo",
         "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 209026,
       "name": "Na Cad\u00eancia Do Samba",
       "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
     },
     {
       "added_at": "2021-11-26 03:18:52",

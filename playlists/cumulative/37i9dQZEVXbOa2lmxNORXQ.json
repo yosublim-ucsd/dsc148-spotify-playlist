@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "1 of 1",
+      "url": "https://open.spotify.com/track/0S1qhPO7vac9xRzGnDPTrr"
+    },
+    {
+      "album": {
         "name": "100 A\u00f1os M\u00e1s",
         "url": "https://open.spotify.com/album/0BEl3RY1rgR1twNrhgDzcq"
       },
@@ -2506,7 +2528,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 246046,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq"
@@ -2702,6 +2724,28 @@
       "duration_ms": 151240,
       "name": "California",
       "url": "https://open.spotify.com/track/19iUrnYyBAG5LaxT72ajsM"
+    },
+    {
+      "album": {
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
     },
     {
       "album": {
@@ -3184,6 +3228,24 @@
       "duration_ms": 156533,
       "name": "CHIMBITA",
       "url": "https://open.spotify.com/track/5xwjEzvJ2OSdnHlzusKNYA"
+    },
+    {
+      "album": {
+        "name": "Chismofilia",
+        "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Chismofilia",
+      "url": "https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G"
     },
     {
       "album": {
@@ -12334,7 +12396,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -12498,7 +12560,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 186277,
       "name": "MIONCA",
       "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
@@ -13905,6 +13967,28 @@
     },
     {
       "album": {
+        "name": "Oe Beb\u00e9",
+        "url": "https://open.spotify.com/album/3L71xIS0NwOIMaM3OSWLPx"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186463,
+      "name": "Oe Beb\u00e9",
+      "url": "https://open.spotify.com/track/57pj5sOWSCAqZm088LMcE4"
+    },
+    {
+      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -13974,7 +14058,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 229026,
       "name": "Ojitos Chiquitos",
       "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
@@ -14458,7 +14542,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
@@ -18134,7 +18218,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 204649,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg"
@@ -18510,6 +18594,24 @@
       "duration_ms": 139977,
       "name": "SORNERITO",
       "url": "https://open.spotify.com/track/2gN4tTPjZceqOy2F0OJZQk"
+    },
+    {
+      "album": {
+        "name": "SORRY 4 THAT MUCH",
+        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207746,
+      "name": "SORRY 4 THAT MUCH",
+      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
       "album": {
@@ -19966,7 +20068,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 163200,
       "name": "TU$$I (with Dei V)",
       "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"

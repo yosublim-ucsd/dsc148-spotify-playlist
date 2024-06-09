@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:27ulglTuwRXeQsKTNbUVe8">Samuel Troc</a> y <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,257 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,301 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

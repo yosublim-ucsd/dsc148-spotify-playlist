@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 205446,
       "name": "Pupila",
       "url": "https://open.spotify.com/track/1DaAutoHzKChLZarAMfk2T"
@@ -2032,6 +2032,28 @@
       "duration_ms": 166837,
       "name": "Recairei - Ao Vivo",
       "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
+    },
+    {
+      "album": {
+        "name": "Evoluiu, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162176,
+      "name": "Romance Proibido - Ao Vivo",
+      "url": "https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC"
     },
     {
       "album": {

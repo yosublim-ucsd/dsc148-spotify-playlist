@@ -1,12 +1,12 @@
 {
-  "description": "This is Peggy Gou. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 46525,
+  "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
+  "num_followers": 46587,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAD3gNdo5QHrqJE2ZEic8Xpt",
+  "snapshot_id": "ZmJNgAAAAADtvWnP5LBj74pdTVUHUOgO",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 214315,
       "name": "Lobster Telephone - Edit",
       "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 298469,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
     },
     {
       "added_at": null,
@@ -91,22 +107,6 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Makes You Forget (Itgehane)",
-        "url": "https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "It Makes You Forget (Itgehane) - Edit",
-      "url": "https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day Without Yesterday / Six O Six",
-        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 339379,
-      "name": "Day Without Yesterday",
-      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
+      "duration_ms": 117236,
+      "name": "Your Art",
+      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
       "duration_ms": 464862,
       "name": "Rose",
       "url": "https://open.spotify.com/track/06iR09uUfFS3kVEAJHJyeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Day Without Yesterday / Six O Six",
+        "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 339379,
+      "name": "Day Without Yesterday",
+      "url": "https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz"
     },
     {
       "added_at": null,
@@ -319,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seek For Maktoop",
+        "url": "https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 474824,
+      "name": "Maktoop",
+      "url": "https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Day Without Yesterday / Six O Six",
         "url": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3"
       },
@@ -335,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seek For Maktoop",
-        "url": "https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX"
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
       "artists": [
         {
           "name": "Peggy Gou",
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 474824,
-      "name": "Maktoop",
-      "url": "https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu"
+      "duration_ms": 233917,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u"
     },
     {
       "added_at": null,
@@ -419,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
+      "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Art of War EP",
         "url": "https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo"
       },
@@ -431,6 +483,22 @@
       "duration_ms": 396571,
       "name": "In Sum",
       "url": "https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Purple Horizon",
+      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
     }
   ],
   "unique_name": "This Is Peggy Gou",

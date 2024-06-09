@@ -1,12 +1,12 @@
 {
-  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 665877,
+  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
+  "num_followers": 666015,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAACVPaTA9Z2Cx4E2t0rb1tE9",
+  "snapshot_id": "ZmJNgAAAAADcnS7/YUWdrMFsSZ0V5KSg",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metr\u00f3polis (Live)",
-        "url": "https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Rue Vieille Du Temple - Live",
-      "url": "https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -155,6 +135,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inv\u00e9ntame",
+        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
     },
     {
       "added_at": null,
@@ -191,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inv\u00e9ntame",
-        "url": "https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 195883,
       "name": "Se Portaba Mal",
       "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
     },
     {
       "added_at": null,
@@ -255,26 +255,6 @@
       "duration_ms": 231653,
       "name": "Primaveral",
       "url": "https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
     },
     {
       "added_at": null,
@@ -315,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "Flaco",
-      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -343,6 +307,22 @@
       "duration_ms": 250146,
       "name": "Aunque Te Mueras Por Volver",
       "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "Flaco",
+      "url": "https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb"
     },
     {
       "added_at": null,
@@ -459,22 +439,6 @@
       "duration_ms": 263533,
       "name": "Pornocracia",
       "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Caderas Blancas",
-      "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
     },
     {
       "added_at": null,
@@ -763,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Amigos Simplemente",
-      "url": "https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trenza (Deluxe)",
         "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
       },
@@ -791,6 +739,22 @@
       "duration_ms": 214120,
       "name": "Vendaval",
       "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Amigos Simplemente",
+      "url": "https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4"
     },
     {
       "added_at": null,
@@ -863,6 +827,90 @@
       "duration_ms": 179280,
       "name": "Que Se Sepa Nuestro Amor",
       "url": "https://open.spotify.com/track/7tXXKycluHP0078F0jnbzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Canto de Todos",
+        "url": "https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Isabel Parra",
+          "url": "https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt"
+        },
+        {
+          "name": "Tita Parra",
+          "url": "https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru"
+        },
+        {
+          "name": "Francesca Gagnon",
+          "url": "https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Roberto Marquez",
+          "url": "https://open.spotify.com/artist/0bGEitoGJUQPfiBhvzuScw"
+        },
+        {
+          "name": "Pancho Sazo",
+          "url": "https://open.spotify.com/artist/4cWDj4v7WAydE1CEl45G8w"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        },
+        {
+          "name": "Mapocho Orquesta",
+          "url": "https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu"
+        }
+      ],
+      "duration_ms": 41880,
+      "name": "El Canto de Todos - Bonus Track",
+      "url": "https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/6vKyXTggZFyTYQG8uoQt0q"
     }
   ],
   "unique_name": "This Is Mon Laferte",

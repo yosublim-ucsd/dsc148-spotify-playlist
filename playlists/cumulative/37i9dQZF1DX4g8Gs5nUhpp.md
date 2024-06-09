@@ -4,7 +4,7 @@
 
 > Những bông hoa nhỏ của làng nhạc Việt\. Ảnh bìa: \(đoán thử xem\)
 
-266 songs - 17 hr 3 min
+267 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [đứa nào làm em buồn?](https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [đứa nào làm em buồn?](https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM) | 4:12 | 2024-05-26 |  |
 | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/track/4JwEvm7fK1GxGSkiwzRZc2) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Đừng Dắt Em Đi Lòng Vòng](https://open.spotify.com/album/3aZXO8RnhN2yWTQh7W8u9s) | 3:25 | 2024-05-26 |  |
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Đừng kết thúc hôm nay](https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3) | 3:32 | 2023-12-10 | 2023-12-20 |
+| [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r) | 4:39 | 2024-06-09 |  |
 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 | 2024-05-26 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

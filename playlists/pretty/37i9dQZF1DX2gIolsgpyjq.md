@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: HILLARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,349 likes - 102 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,373 likes - 102 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

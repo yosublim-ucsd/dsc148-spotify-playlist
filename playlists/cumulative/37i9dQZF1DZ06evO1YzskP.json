@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Ciega X \u00c9l",
+        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235775,
+      "name": "Ciega X \u00c9l",
+      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
+    },
+    {
+      "album": {
         "name": "Cuando Alguien Me Amaba",
         "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },

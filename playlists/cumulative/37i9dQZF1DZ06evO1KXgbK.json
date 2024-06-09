@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 203026,
       "name": "Old Flames Can't Hold a Candle to You",
       "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
@@ -716,6 +716,24 @@
       "duration_ms": 165619,
       "name": "Powerful Women",
       "url": "https://open.spotify.com/track/043trFU53vB0CBmFszufZd"
+    },
+    {
+      "album": {
+        "name": "Puppy Love / Girl Left Alone",
+        "url": "https://open.spotify.com/album/7uTTF8NGOHQOgpqrJGESHH"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102779,
+      "name": "Puppy Love",
+      "url": "https://open.spotify.com/track/3IWF9k6ezeVFwG08nbB0gI"
     },
     {
       "album": {

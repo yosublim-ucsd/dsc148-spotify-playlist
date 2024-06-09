@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Fiera de Ojinaga en portada.",
-  "num_followers": 479678,
+  "num_followers": 479742,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "Lo Que La Gente Estaba Esperando",
+        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 166229,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 159530,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
-        "name": "Lo Que La Gente Estaba Esperando",
-        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 166229,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "No",
+        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "No",
+      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 204956,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "No",
-      "url": "https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
-        "name": "Arriba Las Manos",
-        "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 135960,
-      "name": "Arriba Las Manos",
-      "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
         "name": "Cuando Alguien Me Amaba",
         "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 144514,
       "name": "Cuando Alguien Me Amaba",
       "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
+        "name": "Arriba Las Manos",
+        "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 135960,
+      "name": "Arriba Las Manos",
+      "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
-        "name": "Malas Decisiones",
-        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
         "name": "El Fulano",
         "url": "https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "Malas Decisiones",
+        "url": "https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
-        "name": "TE AMAR\u00c9",
-        "url": "https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "LLEGASTE TARDE",
-      "url": "https://open.spotify.com/track/1vKtJwUH1OWqIP5DeyCpnf"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
         "name": "Qu\u00e9date Conmigo Esta Noche",
         "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 201706,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
+        "name": "TE AMAR\u00c9",
+        "url": "https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "LLEGASTE TARDE",
+      "url": "https://open.spotify.com/track/1vKtJwUH1OWqIP5DeyCpnf"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "Me Gustas \"Curiosa\"",
+        "url": "https://open.spotify.com/album/2acDzIkcpUDz0EECtj8mKq"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 243463,
+      "name": "Me Gustas \"Curiosa\"",
+      "url": "https://open.spotify.com/track/3EOvNgTt2ZDM6CPHrnHyeo"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 155818,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
-        "name": "Me Gustas \"Curiosa\"",
-        "url": "https://open.spotify.com/album/2acDzIkcpUDz0EECtj8mKq"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 243463,
-      "name": "Me Gustas \"Curiosa\"",
-      "url": "https://open.spotify.com/track/3EOvNgTt2ZDM6CPHrnHyeo"
     },
     {
       "added_at": "2024-05-31 18:54:27",

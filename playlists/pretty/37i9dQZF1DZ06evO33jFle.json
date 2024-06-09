@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jenni Rivera. Los temas esenciales, todos en una lista.",
-  "num_followers": 465348,
+  "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
+  "num_followers": 465473,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAACOrtxg9b5DFRtuzH4pV5bz",
+  "snapshot_id": "ZmJNgAAAAAAnwdmrFoDq752yAUam40Nr",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "No Me Pregunten por \u00c9l",
-      "url": "https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 160880,
       "name": "Cuanto Te Debo",
       "url": "https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "No Me Pregunten por \u00c9l",
+      "url": "https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Querida Socia",
-      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 238026,
       "name": "Mariposa de Barrio",
       "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Querida Socia",
+      "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
     },
     {
       "added_at": null,

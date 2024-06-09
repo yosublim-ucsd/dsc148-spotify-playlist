@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz?si=LL8Ok8uCS9SMSeTMKBleBA">Espiquet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,884 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,951 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kiki](https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Glody Kasongo](https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i) | [Kiki](https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9) | 2:54 |
 | 2 | [HARDER](https://open.spotify.com/track/5uS1m3Jn78w6l6eQZq6ZSx) | [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz), [Benlay](https://open.spotify.com/artist/33bcG30WfjE62cl3CJ7Pa4), [HYPE1108](https://open.spotify.com/artist/5immINU629aU0BHwmiRnnV) | [HARDER](https://open.spotify.com/album/6J1NN1s0f1qHMGw8BMcj6H) | 3:16 |
 | 3 | [Guluva \(feat\. Kwesta\)](https://open.spotify.com/track/0DXtoLvvPkIQu9CirJN4UE) | [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Imvelaphi](https://open.spotify.com/album/6Ey7WJyXa1YlzPw4DOV8lo) | 3:08 |
-| 4 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/2OfFDuuFAIhQZOAEfp0s5u), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
+| 4 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
 | 5 | [GODS TIMING](https://open.spotify.com/track/0NMYAGETitlHa3Jo0LLJRu) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Steveisfrench](https://open.spotify.com/artist/7hp0SnWWlw5OsqNbDQvmbB) | [THANK GOD FOR THE SUN](https://open.spotify.com/album/2bsEx0B5XsrmBrQCx0DEue) | 3:05 |
 | 6 | [Cheque](https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Cheque](https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr) | 2:24 |
 | 7 | [Tell \- A \- Friend](https://open.spotify.com/track/27zfVARnin6yqIicq7C2cA) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Tell \- A \- Friend](https://open.spotify.com/album/1VWs9zCwd2bc5Wjxmkwddi) | 2:40 |

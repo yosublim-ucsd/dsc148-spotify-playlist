@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 19265,
+  "num_followers": 19258,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "I Need Therapy 2.4 (alt_demo)",
-        "url": "https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05"
-      },
-      "artists": [
-        {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
-        }
-      ],
-      "duration_ms": 126450,
-      "name": "I Need Therapy 2.4 (alt_demo)",
-      "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "I LOVE THE INTERNET",
         "url": "https://open.spotify.com/album/4e2OFPbCzqEQfRIKnk1NoG"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 150533,
       "name": "npc",
       "url": "https://open.spotify.com/track/4Pr1T6HsveEYhcg4TqQVpB"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "I Need Therapy 2.4 (alt_demo)",
+        "url": "https://open.spotify.com/album/6YQvIFdk95oCIGcO4sCI05"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 126450,
+      "name": "I Need Therapy 2.4 (alt_demo)",
+      "url": "https://open.spotify.com/track/3kHfDibfmgiZR5eLodqjx8"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "When Horses Would Run",
-        "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 136697,
-      "name": "The Great American Picnic",
-      "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Don Lemon",
         "url": "https://open.spotify.com/album/10llpGOIEohzO6V2awCypr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 221692,
       "name": "Don Lemon",
       "url": "https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "When Horses Would Run",
+        "url": "https://open.spotify.com/album/4Zb3FQcdXKngObTXue6FZf"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "duration_ms": 136697,
+      "name": "The Great American Picnic",
+      "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "MAGNANIMITY",
-        "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
+        "name": "Spirit World Tour",
+        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
       },
       "artists": [
         {
-          "name": "Jaycov",
-          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
         }
       ],
-      "duration_ms": 194800,
-      "name": "perfume bottle",
-      "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
+      "duration_ms": 207618,
+      "name": "First Rule of the Bug",
+      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Spirit World Tour",
-        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
+        "name": "MAGNANIMITY",
+        "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
       },
       "artists": [
         {
-          "name": "Sword II",
-          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
+          "name": "Jaycov",
+          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
         }
       ],
-      "duration_ms": 207618,
-      "name": "First Rule of the Bug",
-      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
+      "duration_ms": 194800,
+      "name": "perfume bottle",
+      "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "WATER COMES OUT OF MY EYES",
+        "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        },
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "duration_ms": 202945,
+      "name": "water comes out of my eyes",
+      "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 180693,
       "name": "Raining All The Time",
       "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "WATER COMES OUT OF MY EYES",
-        "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        },
-        {
-          "name": "cehryl",
-          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
-        }
-      ],
-      "duration_ms": 202945,
-      "name": "water comes out of my eyes",
-      "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Art By You",
-        "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
-      },
-      "artists": [
-        {
-          "name": "Simon Russell",
-          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Worlds End FM",
         "url": "https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 163306,
       "name": "Full On",
       "url": "https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Art By You",
+        "url": "https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe"
+      },
+      "artists": [
+        {
+          "name": "Simon Russell",
+          "url": "https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Jurassic",
-        "url": "https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs"
-      },
-      "artists": [
-        {
-          "name": "NIKO NIKO TAN TAN",
-          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
-        }
-      ],
-      "duration_ms": 177999,
-      "name": "Jurassic",
-      "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Why Are You Not Scared Yet?",
         "url": "https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 154555,
       "name": "Why Are You Not Scared Yet?",
       "url": "https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Jurassic",
+        "url": "https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Jurassic",
+      "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "Top Fan",
+        "url": "https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX"
+      },
+      "artists": [
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        }
+      ],
+      "duration_ms": 190648,
+      "name": "Top Fan",
+      "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "baby, I do / IKWYDLS",
         "url": "https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 151875,
       "name": "IKWYDLS",
       "url": "https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "Top Fan",
-        "url": "https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX"
-      },
-      "artists": [
-        {
-          "name": "Yelle",
-          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
-        }
-      ],
-      "duration_ms": 190648,
-      "name": "Top Fan",
-      "url": "https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "LLTB",
+        "url": "https://open.spotify.com/album/1N99vpO9JITwhKxFPqvJLs"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "LLTB",
+      "url": "https://open.spotify.com/track/1fUZJxSuYEfOlYYknohfKO"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "LLTB",
-        "url": "https://open.spotify.com/album/1N99vpO9JITwhKxFPqvJLs"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        },
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "LLTB",
-      "url": "https://open.spotify.com/track/1fUZJxSuYEfOlYYknohfKO"
     }
   ],
   "unique_name": "Indie songs from 2023 you may have missed",

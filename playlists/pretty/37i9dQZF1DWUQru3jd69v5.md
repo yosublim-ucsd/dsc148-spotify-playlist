@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Silent Bob in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,516 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,525 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 23 | [ZÉ](https://open.spotify.com/track/6Jt8OWHFEQa2gFzLhFvuJe) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [ZÉ](https://open.spotify.com/album/7wMjDkXgZ8VOJWDnMA8bla) | 2:34 |
 | 24 | [Dsquared2](https://open.spotify.com/track/12b9pPGmt1iQ0QhOAyIcxH) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [Dsquared2](https://open.spotify.com/album/2atXP9Nap5FoukWwItOJeT) | 2:32 |
 | 25 | [Cocaina \(feat\. Don Pero\)](https://open.spotify.com/track/72raywHOW3sBZkcoXHuHkC) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Cocaina \(feat\. Don Pero\)](https://open.spotify.com/album/534APhNqtPZDcua3ALuqPt) | 2:34 |
-| 26 | [DATTERO](https://open.spotify.com/track/4CUE29IMZJE6epvXGeajVM) | [Fady](https://open.spotify.com/artist/1EeBagJ2amUXOSo5GQsfZN) | [DATTERO](https://open.spotify.com/album/5O1UEN0mzrHA8pqe2IcckR) | 2:02 |
+| 26 | [DATTERO](https://open.spotify.com/track/4CUE29IMZJE6epvXGeajVM) | [Fady](https://open.spotify.com/artist/2etwlN1B5JtMPqtHUKxkFQ), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [DATTERO](https://open.spotify.com/album/5O1UEN0mzrHA8pqe2IcckR) | 2:02 |
 | 27 | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/5V5If9EDJrHSDpM5bkcALZ) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/album/3H37JmWNvnEu27FP6IEh32) | 2:37 |
 | 28 | [FISCHIO](https://open.spotify.com/track/0B0qqVndmPmAmN4oNh4Z4v) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Quame](https://open.spotify.com/artist/0frGp17J0vNo3wjm8PShrp), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [FISCHIO](https://open.spotify.com/album/6Cl9je1gRfvNrexziQ9NXi) | 2:45 |
 | 29 | [Vita Diversa](https://open.spotify.com/track/2X7jLMQn3bfT3KvsrsrLiO) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Vita Diversa](https://open.spotify.com/album/7pDRCUQSkFfpvE1blKelXX) | 2:29 |

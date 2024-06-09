@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "7 minuuttii",
+        "url": "https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232040,
+      "name": "7 minuuttii",
+      "url": "https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL"
+    },
+    {
+      "album": {
         "name": "9 v\u00e4\u00e4r\u00e4\u00e4 k\u00e4tt\u00e4",
         "url": "https://open.spotify.com/album/1N02uDrR4Dmf3uqna9eUaG"
       },
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 195573,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/23rEMK4z3yVPLI0cg3tNzi"
@@ -13581,6 +13599,24 @@
     },
     {
       "album": {
+        "name": "#ULTRA",
+        "url": "https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179787,
+      "name": "Joku jonka tunsin",
+      "url": "https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx"
+    },
+    {
+      "album": {
         "name": "True Crime",
         "url": "https://open.spotify.com/album/1vBXMk1BcLIdFd2LrWGJQM"
       },
@@ -13944,6 +13980,28 @@
       "duration_ms": 168679,
       "name": "Juhannussimaa",
       "url": "https://open.spotify.com/track/3ij0v9XBzmFroP7HFuJPrk"
+    },
+    {
+      "album": {
+        "name": "Juhannusy\u00f6 / M\u00f6kkiel\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/41GFDVxUGZTYn18GLNlOZV"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        },
+        {
+          "name": "Kake Randelin",
+          "url": "https://open.spotify.com/artist/2ECoOJ3zAmnbZoCwTaf9A2"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "Juhannusy\u00f6",
+      "url": "https://open.spotify.com/track/2lwbCSDiToiRgz0W79aW3D"
     },
     {
       "album": {
@@ -15131,6 +15189,24 @@
     },
     {
       "album": {
+        "name": "Kasvoin",
+        "url": "https://open.spotify.com/album/1Rmkmzh3angPiQeDugCqJE"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181425,
+      "name": "Kasvoin",
+      "url": "https://open.spotify.com/track/7fHjXu2eybzXaA1tmXv0Zp"
+    },
+    {
+      "album": {
         "name": "Kateus",
         "url": "https://open.spotify.com/album/2t80O8QAYs8aNN1p9Ic580"
       },
@@ -15740,7 +15816,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 237133,
       "name": "Kes\u00e4y\u00f6",
       "url": "https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA"
@@ -17028,7 +17104,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 168750,
       "name": "Kusip\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11"
@@ -17420,6 +17496,24 @@
       "duration_ms": 166237,
       "name": "Kyyneleet (feat. ABREU)",
       "url": "https://open.spotify.com/track/1KqByb20JJCWZIobdSyLEm"
+    },
+    {
+      "album": {
+        "name": "Kyyneleet sateessa",
+        "url": "https://open.spotify.com/album/5lvrLlE64eXGmTVJ4WNBni"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168752,
+      "name": "Kyyneleet sateessa",
+      "url": "https://open.spotify.com/track/6LtPm6eJ3xywabrHNWdWPg"
     },
     {
       "album": {
@@ -20303,6 +20397,28 @@
     },
     {
       "album": {
+        "name": "Mama We Made It (feat. MELO)",
+        "url": "https://open.spotify.com/album/5jgLgWJeOG6QMJYKxH0tQM"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174634,
+      "name": "Mama We Made It (feat. MELO)",
+      "url": "https://open.spotify.com/track/4lENOvjyCPNfU2WIRjaFbb"
+    },
+    {
+      "album": {
         "name": "Mama \u0160\u010c!",
         "url": "https://open.spotify.com/album/2Z7f4V8Z7CcPPtPKXW6wbc"
       },
@@ -21218,6 +21334,28 @@
       "duration_ms": 168000,
       "name": "Metelii",
       "url": "https://open.spotify.com/track/3cJZ9rZio7DBd77TbXGf89"
+    },
+    {
+      "album": {
+        "name": "Mi Amore (feat. Ege Zulu)",
+        "url": "https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP"
+      },
+      "artists": [
+        {
+          "name": "Karim B",
+          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183721,
+      "name": "Mi Amore (feat. Ege Zulu)",
+      "url": "https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e"
     },
     {
       "album": {
@@ -23665,6 +23803,24 @@
     },
     {
       "album": {
+        "name": "Juhannusy\u00f6 / M\u00f6kkiel\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/41GFDVxUGZTYn18GLNlOZV"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "M\u00f6kkiel\u00e4m\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/1IybIjWmLhzjYDGgn5i2ze"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -24744,7 +24900,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 185169,
       "name": "Odota sua",
       "url": "https://open.spotify.com/track/4SGY2wCqhSIIaoS2Hs0WxY"
@@ -25918,7 +26074,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 143032,
       "name": "Paholainen",
       "url": "https://open.spotify.com/track/1vFLrSQ1zmDeNQimkEvKEh"
@@ -27840,6 +27996,24 @@
       "duration_ms": 283624,
       "name": "P\u00e4iv\u00e4 el\u00e4m\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/09dpPdXG538Wc1YcOf7tlb"
+    },
+    {
+      "album": {
+        "name": "Jotta muistaisin",
+        "url": "https://open.spotify.com/album/54iqUFv3oAuIWKcjsublrY"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Kulta",
+          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155834,
+      "name": "P\u00e4iv\u00e4kirja",
+      "url": "https://open.spotify.com/track/1SlXWvdCgVnyg5gNOMGdIy"
     },
     {
       "album": {
@@ -29976,7 +30150,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 152195,
       "name": "Sekasin",
       "url": "https://open.spotify.com/track/16PuZ41gLitc7vL0d08KOt"
@@ -30576,6 +30750,28 @@
       "duration_ms": 156523,
       "name": "Shotgun (feat. KERZA)",
       "url": "https://open.spotify.com/track/1yxJ4SoCjmxJWvI1pN7Qad"
+    },
+    {
+      "album": {
+        "name": "Showtime (feat. Turisti)",
+        "url": "https://open.spotify.com/album/4ZITEFlZ7rQvdAA3jYLMkQ"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "Showtime (feat. Turisti)",
+      "url": "https://open.spotify.com/track/3cjYY03q876FzLDCDi8IKf"
     },
     {
       "album": {
@@ -32088,7 +32284,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 178666,
       "name": "Stunttaa",
       "url": "https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO"
@@ -32142,7 +32338,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 183814,
       "name": "Sua sattuu",
       "url": "https://open.spotify.com/track/3UJLagt67XWKaEZbePUS88"
@@ -34942,7 +35138,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 179253,
       "name": "Tuhoaisti",
       "url": "https://open.spotify.com/track/0GAHNwEb8l7yt1ogGdDPkF"
@@ -35068,7 +35264,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 183806,
       "name": "Tulipalo",
       "url": "https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7"
@@ -36705,6 +36901,24 @@
     },
     {
       "album": {
+        "name": "Vanha min\u00e4 vainaa",
+        "url": "https://open.spotify.com/album/3ed0tanztixPImiSKTb1eA"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159873,
+      "name": "Vanha min\u00e4 vainaa",
+      "url": "https://open.spotify.com/track/5L4gnmM9v20Rb6HhFZGrVi"
+    },
+    {
+      "album": {
         "name": "Vapaa (Mestarit)",
         "url": "https://open.spotify.com/album/2N6IKjFt1z4xvd4bAPsI7W"
       },
@@ -37406,7 +37620,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 160560,
       "name": "Viikonloppufaijoi",
       "url": "https://open.spotify.com/track/7o9spcmp8OSa3PErVyx7St"
@@ -38390,7 +38604,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 200288,
       "name": "Weak",
       "url": "https://open.spotify.com/track/4B5w2ugkNbyrI9fXTfDb2w"
@@ -39716,6 +39930,28 @@
       "duration_ms": 144049,
       "name": "\u00c4l\u00e4 itke",
       "url": "https://open.spotify.com/track/0eHaa5IFc1XnfeZYsywcs0"
+    },
+    {
+      "album": {
+        "name": "\u00c4l\u00e4 Lopeta",
+        "url": "https://open.spotify.com/album/5DVOfAcvIHmnDtAcFgsw6b"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143538,
+      "name": "\u00c4l\u00e4 Lopeta",
+      "url": "https://open.spotify.com/track/4jEKDWQ8dVGLhr1ryA9cbl"
     },
     {
       "album": {

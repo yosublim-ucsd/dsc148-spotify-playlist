@@ -816,7 +816,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 118800,
       "name": "Barbaras Rhabarberbar 2",
       "url": "https://open.spotify.com/track/5U2S2FMYrZmF7Tnyr6XVLk"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 149884,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/36fl6dbYQOF5OUPlKG8Tbj"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
@@ -4986,6 +4986,24 @@
       "duration_ms": 246627,
       "name": "kleiner prinz",
       "url": "https://open.spotify.com/track/0iHJH23PcaWBjbgSWvehkw"
+    },
+    {
+      "album": {
+        "name": "Klimpa Klimpa",
+        "url": "https://open.spotify.com/album/4jKFE0VEvvWOAZDY8aKq7z"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123809,
+      "name": "Klimpa Klimpa",
+      "url": "https://open.spotify.com/track/5Mhcs48UfZn7CeNv1wgNyT"
     },
     {
       "album": {
@@ -9210,7 +9228,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"

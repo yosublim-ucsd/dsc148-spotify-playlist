@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 195733,
       "name": "en mis manos",
       "url": "https://open.spotify.com/track/13OamuEAWXnGQ0vhAcRPCn"
@@ -10416,6 +10416,24 @@
       "duration_ms": 176524,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT"
+    },
+    {
+      "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "album": {

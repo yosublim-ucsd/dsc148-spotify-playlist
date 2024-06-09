@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/6fRc7CdGEkG3w3NtclhxHP"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172936,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/3gv1CETVeiUGv8uTeh9W8h"
+    },
+    {
+      "album": {
         "name": "BONA FIDE",
         "url": "https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF"
       },
@@ -623,6 +641,32 @@
     },
     {
       "album": {
+        "name": "Great Escape",
+        "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj"
+    },
+    {
+      "album": {
         "name": "Locked In (feat. Slimmy B)",
         "url": "https://open.spotify.com/album/0Sc9tnZo7jPHqBgZ0tHKSv"
       },
@@ -734,7 +778,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 148459,
       "name": "My Bitch (feat. Kamaiyah)",
       "url": "https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf"
@@ -932,7 +976,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 118184,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ"

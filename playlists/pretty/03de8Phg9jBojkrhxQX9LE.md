@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,515 likes - 149 songs - 8 hr 15 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,560 likes - 149 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 12 | [Body Pop](https://open.spotify.com/track/2KU7zBNW1OYKUFIvidx8fx) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [Body Pop](https://open.spotify.com/album/2qSC8SWAUAsxsoMaxdWNSl) | 3:42 |
 | 13 | [Don't Speak](https://open.spotify.com/track/3iegKMcDwOdWtOUgwa4afJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Don't Speak](https://open.spotify.com/album/72AWK6AZ95LODDCjLJnoqX) | 2:46 |
 | 14 | [You Luv Me](https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [You Luv Me](https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw) | 4:08 |
-| 15 | [Carry The Fire](https://open.spotify.com/track/1VPCufndNrTXH21ocfjJMv) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Carry The Fire](https://open.spotify.com/album/60RXY5aw3n2zSxN4QMqAmw) | 3:26 |
+| 15 | [Carry The Fire](https://open.spotify.com/track/1VPCufndNrTXH21ocfjJMv) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Carry The Fire](https://open.spotify.com/album/60RXY5aw3n2zSxN4QMqAmw) | 3:26 |
 | 16 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 |
 | 17 | [Broke My Heart](https://open.spotify.com/track/7r2ysTQQLDP1aWOmTCeUQb) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/6b0Z6PZLKI7VKE90f7HtUT) | 2:46 |
 | 18 | [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 |

@@ -4823,6 +4823,24 @@
     },
     {
       "album": {
+        "name": "Their Very Best",
+        "url": "https://open.spotify.com/album/2b7w3rpDNctRQ1xhP2ykrc"
+      },
+      "artists": [
+        {
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252327,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/3l0eFaz2bSo64EyQrf1aZT"
+    },
+    {
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },

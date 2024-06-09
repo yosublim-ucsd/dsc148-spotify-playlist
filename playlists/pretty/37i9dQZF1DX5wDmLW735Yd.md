@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 > The world's biggest Drum 'n' Bass playlist! Cover: goddard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,423,263 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,496 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 | 7 | [Be No Rain](https://open.spotify.com/track/13GXo8z2wqy2B4MqDkuXiu) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Be No Rain](https://open.spotify.com/album/3ZC0mjUMcd88fvqq8jnJQv) | 3:41 |
 | 8 | [New Energy](https://open.spotify.com/track/7lg5Ub6z08aSDkPhhMbnGO) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Blaine Stranger](https://open.spotify.com/artist/4ZKZR4BBx5EaP4T3slUd1j), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [New Energy](https://open.spotify.com/album/3i2C52xQrpGrhw9kudEXSF) | 3:35 |
 | 9 | [Drowning Mind](https://open.spotify.com/track/2FD8e8lJgul2phNSMlOHDM) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Drowning Mind](https://open.spotify.com/album/6VOQfMjCoccGRvn5eP0gSw) | 2:50 |
-| 10 | [Firetime](https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Rudeboy Design](https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz) | 3:19 |
+| 10 | [Firetime](https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Rudeboy Design Soundtape](https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz) | 3:19 |
 | 11 | [My Type](https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [Dux n Bass](https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [My Type](https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2) | 3:04 |
 | 12 | [No One](https://open.spotify.com/track/4Z5LQ4h4lSAPjP5xOPk62c) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [No One](https://open.spotify.com/album/4pxWZbrt4xsKP1mpqSu5MI) | 2:26 |
 | 13 | [Sinner](https://open.spotify.com/track/7davhOXjwqodNIrR5Jt96U) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Sinner](https://open.spotify.com/album/69n3qTgvr99gPLX3kW2BVW) | 2:37 |

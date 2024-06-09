@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,504 songs - 2 day 21 hr 54 min
+1,506 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [bankai](https://open.spotify.com/track/6tlU1yG1HdSrbbbfQN3NH3) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [bankai](https://open.spotify.com/album/0OZXlr5uiKMAwFzyHbwXM9) | 1:57 | 2022-04-02 | 2022-04-19 |
 | [Banyak](https://open.spotify.com/track/7mwifeICJFfHpwKWPh4rjA) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 1:46 | 2022-08-20 | 2022-08-24 |
 | [BBTEAM FREESTYLE](https://open.spotify.com/track/6e7hcO8NGEmL1Gd0PH1LVz) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [BBTEAM FREESTYLE](https://open.spotify.com/album/6OJUjEBjQD84QWU5jKhAu6) | 2:55 | 2024-02-17 | 2024-02-19 |
-| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 |  |
+| [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 | 2024-06-09 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-07 | 2024-04-07 |
 | [Beauty](https://open.spotify.com/track/0ipVeLBnrx1oYyVLLR80mm) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [Showbiz School](https://open.spotify.com/artist/014QuYvSWcdqx4lhe17MX6) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 3:04 | 2021-04-11 | 2021-04-13 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-05-30 | 2021-10-23 |
@@ -229,7 +229,7 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-09 |
 | [ESCORT](https://open.spotify.com/track/52oUDxzoJlMcSx2mIQ7JnJ) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl), [FindMyName](https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2) | [LXVE SXMPLES](https://open.spotify.com/album/5WGLpfFp5AaADZXblBKGRL) | 2:10 | 2022-11-05 | 2022-11-20 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-30 |  |
-| [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-12 |  |
+| [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-12 | 2024-06-09 |
 | [Everything Is Fine](https://open.spotify.com/track/77hy1Umsp0q0MSAwcj1RL4) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE), [LILDRUGHILL](https://open.spotify.com/artist/4HVffUWlHdRmS5dpOvDVyJ) | [Everything Is Fine](https://open.spotify.com/album/3VMESYkOtoWUlcgYhxdbdp) | 1:32 | 2023-04-22 | 2023-04-28 |
 | [EXPLASAO RITMADA](https://open.spotify.com/track/5FSasTy8m8R5kLQi7AGzGe) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB), [GhostyPlaya](https://open.spotify.com/artist/0UqaNPPsQFoIIX7kX2wcTq) | [EXPLASAO RITMADA](https://open.spotify.com/album/1DiQ6Jd6TdxKW5NmKlhnJm) | 1:45 | 2023-11-23 | 2023-11-25 |
 | [F\*CK OFF](https://open.spotify.com/track/2rPdX03oo3WO9eAcDBZhhZ) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [F\*CK OFF](https://open.spotify.com/album/5xKZo06DGZNrl7kXmXXq61) | 1:43 | 2023-10-01 | 2023-10-29 |
@@ -518,6 +518,7 @@
 | [NEON BLADE](https://open.spotify.com/track/56aUyjq8nTiqcfPD5qBLfm) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE) | 4:25 | 2022-06-02 | 2022-06-09 |
 | [Never Broke Again](https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX) | [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [Never Broke Again](https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI) | 1:48 | 2022-06-25 | 2023-09-10 |
 | [never enough](https://open.spotify.com/track/48jRCynldeK3WQbvd3jr73) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [never enough](https://open.spotify.com/album/1x7nBWXp9m8qM6b8twdRND) | 2:22 | 2022-03-14 | 2022-07-24 |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 |  |
 | [new era](https://open.spotify.com/track/60pX9FvHlTE9PXRHLpmAYc) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [new era](https://open.spotify.com/album/3pCMw8AnDBNZ2PdqRR7XhY) | 2:00 | 2023-03-04 | 2023-05-15 |
 | [NEW PROFILE PIC](https://open.spotify.com/track/1gyRKqGojB0xbiommbjN32) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [NEW PROFILE PIC](https://open.spotify.com/album/5H1l5WjzOXeKYakngqyqRa) | 2:07 | 2021-04-18 | 2021-04-19 |
 | [NHL MONEY](https://open.spotify.com/track/0s6XU14rLFh4AfCdW2gKAE) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw), [THRILL PILL](https://open.spotify.com/artist/3pONzjQKqFrh3zTQBTMeWd) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:06 | 2021-03-27 | 2021-03-29 |
@@ -781,6 +782,7 @@
 | [Vony Bazaryatt](https://open.spotify.com/track/2oYEBUQiMYGUxLJlBzIHrm) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [MEDIV Luff N Sip](https://open.spotify.com/album/6oKn91CSNeDdZHyc2VQnyh) | 1:39 | 2022-08-20 | 2022-08-22 |
 | [WARLORD](https://open.spotify.com/track/2BuT8Njor0vbZul2TfCoSP) | [Dzhizus](https://open.spotify.com/artist/7kB4F3PktJEy9jbwI6ujjZ) | [WARLORD](https://open.spotify.com/album/0NiO0NJTCfoVvJAyxeKzE6) | 2:02 | 2022-01-29 | 2022-01-31 |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2022-11-03 | 2023-03-15 |
+| [Waste.](https://open.spotify.com/track/0Oq7CvdjMHesq53FMKxfsW) | [0msgdsya](https://open.spotify.com/artist/18umsxb9j25bcFXQkEpBsz) | [Waste.](https://open.spotify.com/album/2RtmlvrROAGPEuHEqsQxnJ) | 2:12 | 2024-06-08 |  |
 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-21 | 2023-02-25 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-06 |
 | [We Fell Apart \- Slowed](https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f) | [overrated](https://open.spotify.com/artist/5eZ9mxslGvxjRBTWbRfMfV), [Akucum](https://open.spotify.com/artist/4iNoUF5jEZLr28VHuxHN9y) | [We Fell Apart](https://open.spotify.com/album/3JyuOXGEoGuRSgJDDxwOCO) | 2:35 | 2024-03-04 | 2024-03-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: NATTI NATASHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,471 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,499 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 20 | [La Última Granada \(DQV Premium\)](https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Última Granada \(DQV Premium\)](https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1) | 3:02 |
 | 21 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 |
 | 22 | [Le Hace Falta un Beso](https://open.spotify.com/track/65Bae8oBZOIvQqPLesZa71) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Monolock](https://open.spotify.com/artist/3UIBNXAuR6AYrhuIx9lca2) | [Le Hace Falta un Beso](https://open.spotify.com/album/51Qfe89x4efECiaUiOjYgc) | 3:12 |
-| 23 | [Me Iré A Gozar Después](https://open.spotify.com/track/00p1wrLVvCWFCnyqWfPkVR) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Me Iré A Gozar Después](https://open.spotify.com/album/277aOOITUSYj1TOdmLZ62X) | 3:53 |
+| 23 | [Me Iré A Gozar Después](https://open.spotify.com/track/00p1wrLVvCWFCnyqWfPkVR) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ), [Cumbia Machine](https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc) | [Me Iré A Gozar Después](https://open.spotify.com/album/277aOOITUSYj1TOdmLZ62X) | 3:53 |
 | 24 | [Te Lo Digo En Cumbia](https://open.spotify.com/track/1HcFU8Ws0l5tu3lipWkW5t) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Te Lo Digo En Cumbia](https://open.spotify.com/album/3OUxd0dKXJVlSJcRjPYRE0) | 3:09 |
 | 25 | [La Visualizo 2.0 \- Remix](https://open.spotify.com/track/7phxoWBhAn7fxGbkqKpGds) | [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av), [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [La Visualizo 2.0 \(Remix\)](https://open.spotify.com/album/6Z1xgAyPSFeF2uD4ao9z3I) | 3:16 |
 | 26 | [Hoy Te Noto Cambiada](https://open.spotify.com/track/3Unm7ymMfylvg2gkll40UH) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Hoy Te Noto Cambiada](https://open.spotify.com/album/5P5KfNuncMzk0UORLoC9xr) | 4:15 |

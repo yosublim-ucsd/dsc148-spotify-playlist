@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,082 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,148 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 51 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/2cmSBwuHbYJvVEmDtZR2X0) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/0u37PeJMtmWiydx4SfHCC5) | 4:18 |
 | 52 | [I Adore You](https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Ulterior Motive](https://open.spotify.com/artist/711RACYACplatReI4JGaoa), [Natalie Williams](https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF) | [The Journey Man](https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt) | 6:06 |
 | 53 | [Makes Me Wanna Die](https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 4:01 |
-| 54 | [Original Bedroom Rockers](https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:07 |
-| 55 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
+| 54 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
+| 55 | [Original Bedroom Rockers](https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:07 |
 | 56 | [Spin Spin Sugar \- Armands Dark Garage Mix](https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Spin Spin Sugar](https://open.spotify.com/album/12GoFqpYnoVBbYy4XkU39u) | 9:04 |
 | 57 | [Toxygene \- 7" Edit](https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 3:31 |
 | 58 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
@@ -85,16 +85,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 75 | [Organ Donor](https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 1:57 |
 | 76 | [Battleflag](https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7) | [Lo Fidelity Allstars](https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs) | [Battleflag](https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj) | 5:41 |
 | 77 | [Windowlicker](https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 6:08 |
-| 78 | [Natural Blues](https://open.spotify.com/track/4qUVntQ46fmejnJDlRlJpw) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:13 |
-| 79 | [Red Alert \(Jaxx Radio Mix\)](https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC) | 3:38 |
-| 80 | [Glory Box](https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy \(Non UK Version\)](https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6) | 5:05 |
-| 81 | [Brown Paper Bag](https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr) | [New Forms](https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ) | 9:02 |
-| 82 | [Voodoo People](https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy) | 6:27 |
-| 83 | [From Rusholme with Love](https://open.spotify.com/track/4HWeiKfHdwn2hEgUQVfu2q) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [On the Ropes](https://open.spotify.com/album/33daQkvkB92gQPxu4O4ukC) | 5:06 |
+| 78 | [From Rusholme with Love](https://open.spotify.com/track/4HWeiKfHdwn2hEgUQVfu2q) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [On the Ropes](https://open.spotify.com/album/33daQkvkB92gQPxu4O4ukC) | 5:06 |
+| 79 | [Natural Blues](https://open.spotify.com/track/4qUVntQ46fmejnJDlRlJpw) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:13 |
+| 80 | [Red Alert \(Jaxx Radio Mix\)](https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [The Singles](https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC) | 3:38 |
+| 81 | [Glory Box](https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy \(Non UK Version\)](https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6) | 5:05 |
+| 82 | [Brown Paper Bag](https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr) | [New Forms](https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ) | 9:02 |
+| 83 | [Voodoo People](https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/3HpFr2EeE38hr706Rxtmjy) | 6:27 |
 | 84 | [High Noon](https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow \(Deluxe Edition\)](https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN) | 3:58 |
 | 85 | [History Repeating \- Knee Length Mix](https://open.spotify.com/track/4CiWchFxrlhqLxrkNFzd3p) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp), [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/0FJ4Yv9u3PSc1Fg5KnBzNz) | 4:02 |
-| 86 | [Bodyrock](https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 3:36 |
-| 87 | [Army Of Me](https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE) | 3:56 |
+| 86 | [Army Of Me](https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE) | 3:56 |
+| 87 | [Bodyrock](https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q) | 3:36 |
 | 88 | [Take California](https://open.spotify.com/track/6BepfRQPu3N9Ms3Y5pYsEM) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp) | [Decksandrumsandrockandroll](https://open.spotify.com/album/4Nt2YqpZ4Ls3isMeB6dF51) | 7:21 |
 
 Snapshot ID: `ZIxWygAAAABl47KDwxkFZz+paMlpF33h`

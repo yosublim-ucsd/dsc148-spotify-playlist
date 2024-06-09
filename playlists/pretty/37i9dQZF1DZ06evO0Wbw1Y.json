@@ -1,12 +1,12 @@
 {
-  "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 28780,
+  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
+  "num_followers": 28786,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAABY5AGBIhSrOI/6hMnVWJO3",
+  "snapshot_id": "ZmJNgAAAAADFI301UnUuKfp0P0ym4BMX",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 141558,
-      "name": "Cuesta Amarte",
-      "url": "https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp"
+      "duration_ms": 170253,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -424,25 +408,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 179311,
-      "name": "Dos Tequilas",
-      "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino",
-        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "La Vida Sin Ti",
-      "url": "https://open.spotify.com/track/382e4hfqVal6gfgYyLUHsp"
+      "duration_ms": 141558,
+      "name": "Cuesta Amarte",
+      "url": "https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp"
     },
     {
       "added_at": null,
@@ -463,6 +431,22 @@
       "duration_ms": 150650,
       "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/382e4hfqVal6gfgYyLUHsp"
     },
     {
       "added_at": null,
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 150356,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
+      "duration_ms": 179311,
+      "name": "Dos Tequilas",
+      "url": "https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j"
     },
     {
       "added_at": null,
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/1wb2CvisZL74qpzVbY31M0"
+      "duration_ms": 150356,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0"
     },
     {
       "added_at": null,
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 151893,
-      "name": "El Problema",
-      "url": "https://open.spotify.com/track/3L68zrHCPFrVtVOmQg1SKR"
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/1wb2CvisZL74qpzVbY31M0"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
       "duration_ms": 181253,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 151893,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/3L68zrHCPFrVtVOmQg1SKR"
     },
     {
       "added_at": null,

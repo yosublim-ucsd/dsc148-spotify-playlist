@@ -2,7 +2,7 @@
 
 ### [This Is Saosin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO10RDWw)
 
-> This is Saosin\. The essential tracks, all in one playlist.
+> This Is Saosin\. Los temas esenciales, todos en una lista.
 
 37 songs - 2 hr 9 min
 

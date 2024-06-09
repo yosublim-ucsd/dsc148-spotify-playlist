@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 106068,
+  "num_followers": 106115,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,30 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Alex Attias Presents Lillygood Party Vol. 2",
+        "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
+      },
+      "artists": [
+        {
+          "name": "Stacy Kidd",
+          "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
+        },
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        },
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 538744,
+      "name": "How Bad I Want Ya - Gu Peak True Time Mix",
+      "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "The Sound Is Yours",
         "url": "https://open.spotify.com/album/0SlkSWOSY63G2YhxEyTOBp"
       },
@@ -927,50 +951,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Stand (feat. Cor.Ece)",
-        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Cor.Ece",
-          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
-        }
-      ],
-      "duration_ms": 182821,
-      "name": "Stand (feat. Cor.Ece) - Edit",
-      "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Alex Attias Presents Lillygood Party Vol. 2",
-        "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
-      },
-      "artists": [
-        {
-          "name": "Stacy Kidd",
-          "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
-        },
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        },
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 538744,
-      "name": "How Bad I Want Ya - Gu Peak True Time Mix",
-      "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Stand (feat. Cor.Ece)",
+        "url": "https://open.spotify.com/album/1GgpM2DW7JDXqnyllrXGsf"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        }
+      ],
+      "duration_ms": 182821,
+      "name": "Stand (feat. Cor.Ece) - Edit",
+      "url": "https://open.spotify.com/track/6Ud0JDkQ2A08mck8vvLZdO"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Defined",
+        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "duration_ms": 342893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Listen To This Drum (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/4eksxhNnQ4TZHhEoiG9TB7"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 259838,
       "name": "Listen To This Drum - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6YgKtrXaRXcTP6NfDENdSp"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Defined",
-        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
-      },
-      "artists": [
-        {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
-        }
-      ],
-      "duration_ms": 342893,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1727,6 +1727,42 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "When The Morning Comes",
+        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
+      },
+      "artists": [
+        {
+          "name": "Alton Miller",
+          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
+        },
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        }
+      ],
+      "duration_ms": 475262,
+      "name": "When The Morning Comes - Main Vocal Mix",
+      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Reach Up",
+        "url": "https://open.spotify.com/album/0nIUCZYTx2DB6acEsp0paN"
+      },
+      "artists": [
+        {
+          "name": "Luis Radio",
+          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
+        }
+      ],
+      "duration_ms": 319060,
+      "name": "Reach Up - Original Mix",
+      "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Never Saw You Coming",
         "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
       },
@@ -1751,22 +1787,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Reach Up",
-        "url": "https://open.spotify.com/album/0nIUCZYTx2DB6acEsp0paN"
-      },
-      "artists": [
-        {
-          "name": "Luis Radio",
-          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
-        }
-      ],
-      "duration_ms": 319060,
-      "name": "Reach Up - Original Mix",
-      "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Avery*Sunshine Summer EP",
         "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
       },
@@ -1779,22 +1799,6 @@
       "duration_ms": 441600,
       "name": "Ugly Part of Me - Terry Hunter Mix",
       "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "I Never Knew Love",
-        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "I Never Knew Love - Made In Detroit Mix",
-      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1819,6 +1823,22 @@
       "duration_ms": 490466,
       "name": "Glad I Found You (feat. Louie Balo & Yasmeen) - Scott Wozniak Remix",
       "url": "https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2nIniMGpYsChZLPYNcvocw"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        }
+      ],
+      "duration_ms": 229464,
+      "name": "I Never Knew Love - Made In Detroit Mix",
+      "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1855,22 +1875,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "When The Morning Comes",
-        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
+        "name": "Best of the Last",
+        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
       },
       "artists": [
         {
-          "name": "Alton Miller",
-          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
+          "name": "Studio Apartment",
+          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
         },
         {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
         }
       ],
-      "duration_ms": 475262,
-      "name": "When The Morning Comes - Main Vocal Mix",
-      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
+      "duration_ms": 452439,
+      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
+      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1891,26 +1911,6 @@
       "duration_ms": 365395,
       "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
       "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Best of the Last",
-        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
-      },
-      "artists": [
-        {
-          "name": "Studio Apartment",
-          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
-        },
-        {
-          "name": "Monique Bingham",
-          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
-        }
-      ],
-      "duration_ms": 452439,
-      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
-      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Track 1 Revisited - Single",
-        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 348480,
-      "name": "Track 1 Revisited - Reel to Reel Mix",
-      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Forever Together (Closer To The Source Mix)",
         "url": "https://open.spotify.com/album/6TSxERJjCOI1TkX2k94OKH"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 205446,
       "name": "Forever Together - Closer To The Source Edit",
       "url": "https://open.spotify.com/track/3NNuDAzcpFWo3oIBSmwLJK"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Track 1 Revisited - Single",
+        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 348480,
+      "name": "Track 1 Revisited - Reel to Reel Mix",
+      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2111,6 +2111,26 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "There Is Soul in My House",
+        "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
+      },
+      "artists": [
+        {
+          "name": "YASS",
+          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
+        },
+        {
+          "name": "L.T. Brown",
+          "url": "https://open.spotify.com/artist/2ysRdZ0qk3lM9z1t8c4RSc"
+        }
+      ],
+      "duration_ms": 488266,
+      "name": "I'm Free - Main Mix",
+      "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Karizma Remixed",
         "url": "https://open.spotify.com/album/1jqwtVXVinpV8HVCpdiK00"
       },
@@ -2159,46 +2179,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "There Is Soul in My House",
-        "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
-      },
-      "artists": [
-        {
-          "name": "YASS",
-          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
-        },
-        {
-          "name": "L.T. Brown",
-          "url": "https://open.spotify.com/artist/2ysRdZ0qk3lM9z1t8c4RSc"
-        }
-      ],
-      "duration_ms": 488266,
-      "name": "I'm Free - Main Mix",
-      "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
-      },
-      "artists": [
-        {
-          "name": "Two Lee",
-          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
-        },
-        {
-          "name": "Michelle Weeks",
-          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
-        }
-      ],
-      "duration_ms": 302950,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Your Heaven (I Can Feel It) [feat. Pearl Mae] [Micky More & Andy Tee Remix]",
         "url": "https://open.spotify.com/album/3gqqc6MFqovyEdVQWUYCWg"
       },
@@ -2223,6 +2203,26 @@
       "duration_ms": 212151,
       "name": "Your Heaven (I Can Feel It) [feat. Pearl Mae] - Micky More & Andy Tee Remix",
       "url": "https://open.spotify.com/track/1G8PgtgyZYWyqugtGn5FMM"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
+      },
+      "artists": [
+        {
+          "name": "Two Lee",
+          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+        }
+      ],
+      "duration_ms": 302950,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 584040,
-      "name": "Love Calls - Darryl James Mix",
-      "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "My Prayer (Micky More & Andy Tee Mixes)",
         "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 228694,
       "name": "My Prayer - Micky More & Andy Tee Classic Edit",
       "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 584040,
+      "name": "Love Calls - Darryl James Mix",
+      "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
         "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
       },
@@ -2451,18 +2467,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+        "name": "Todd Terry's Rare Grooves Vol. VI",
+        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
       },
       "artists": [
         {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "INES Project",
+          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
         }
       ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+      "duration_ms": 669373,
+      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
+      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2491,22 +2511,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Todd Terry's Rare Grooves Vol. VI",
-        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/7z4tUYpkqZXsAw4pu8CSaX"
       },
       "artists": [
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Spiritchaser",
+          "url": "https://open.spotify.com/artist/05FYF8i0eXeZjLLLcgc8HJ"
         },
         {
-          "name": "INES Project",
-          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
+          "name": "Terry Grant",
+          "url": "https://open.spotify.com/artist/6msfT26DWbAopZgHC6M9VL"
         }
       ],
-      "duration_ms": 669373,
-      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
-      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
+      "duration_ms": 238000,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/7c48NsnACcNlYgkOltbFdn"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2527,26 +2547,6 @@
       "duration_ms": 376565,
       "name": "Good Inside",
       "url": "https://open.spotify.com/track/4Wg5xrNoixLwpVtghEDczg"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Be Free",
-        "url": "https://open.spotify.com/album/7z4tUYpkqZXsAw4pu8CSaX"
-      },
-      "artists": [
-        {
-          "name": "Spiritchaser",
-          "url": "https://open.spotify.com/artist/05FYF8i0eXeZjLLLcgc8HJ"
-        },
-        {
-          "name": "Terry Grant",
-          "url": "https://open.spotify.com/artist/6msfT26DWbAopZgHC6M9VL"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Be Free",
-      "url": "https://open.spotify.com/track/7c48NsnACcNlYgkOltbFdn"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2615,6 +2615,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 494066,
+      "name": "Heaven - Marlon D. & G.A. Club Mix",
+      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "African Spirits / Tribes (Fred P Interpretation)",
         "url": "https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh"
       },
@@ -2635,22 +2651,6 @@
       "duration_ms": 718048,
       "name": "African Spirits - Fred P Interpretation",
       "url": "https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 494066,
-      "name": "Heaven - Marlon D. & G.A. Club Mix",
-      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2767,6 +2767,26 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
+        "name": "If Luvin You Is Wrong",
+        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
+      },
+      "artists": [
+        {
+          "name": "Arnaud D",
+          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
+        },
+        {
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        }
+      ],
+      "duration_ms": 476097,
+      "name": "If Luvin You Is Wrong - Main Mix",
+      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
         "name": "How He Works (feat. Nico Vega) [Remixes]",
         "url": "https://open.spotify.com/album/1Qsr3G0Kw5Fhp5zA9FAMy2"
       },
@@ -2791,26 +2811,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "If Luvin You Is Wrong",
-        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
-      },
-      "artists": [
-        {
-          "name": "Arnaud D",
-          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
-        },
-        {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        }
-      ],
-      "duration_ms": 476097,
-      "name": "If Luvin You Is Wrong - Main Mix",
-      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Black Resurrection",
         "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
       },
@@ -2823,6 +2823,26 @@
       "duration_ms": 525130,
       "name": "Spiritually Speaking",
       "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Finesse Me",
+        "url": "https://open.spotify.com/album/54YYEj5sQE1M5PtLUfGhmw"
+      },
+      "artists": [
+        {
+          "name": "Boddhi Satva",
+          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+        },
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        }
+      ],
+      "duration_ms": 296347,
+      "name": "Finesse Me - Ancestral Soul Mix",
+      "url": "https://open.spotify.com/track/6nsms79M8ntBTXm3BRxWxX"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2871,22 +2891,26 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Finesse Me",
-        "url": "https://open.spotify.com/album/54YYEj5sQE1M5PtLUfGhmw"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9"
       },
       "artists": [
         {
-          "name": "Boddhi Satva",
-          "url": "https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn"
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
         },
         {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        },
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
         }
       ],
-      "duration_ms": 296347,
-      "name": "Finesse Me - Ancestral Soul Mix",
-      "url": "https://open.spotify.com/track/6nsms79M8ntBTXm3BRxWxX"
+      "duration_ms": 328000,
+      "name": "Beautiful - John Beltran Remix",
+      "url": "https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2927,26 +2951,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9"
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
       "artists": [
         {
-          "name": "Ezel",
-          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
         },
         {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        },
-        {
-          "name": "John Beltran",
-          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+          "name": "Imaani",
+          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Beautiful - John Beltran Remix",
-      "url": "https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr"
+      "duration_ms": 419400,
+      "name": "Wizeman (feat. Imaani)",
+      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -2971,26 +2991,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
-      },
-      "artists": [
-        {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Imaani",
-          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
-        }
-      ],
-      "duration_ms": 419400,
-      "name": "Wizeman (feat. Imaani)",
-      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/3RwDXsnqjYwdSKYnsm2xrM"
       },
@@ -3007,6 +3007,30 @@
       "duration_ms": 346853,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6VZGDCHjMs16OGAT1uP5sM"
+    },
+    {
+      "added_at": "2024-06-04 10:14:49",
+      "album": {
+        "name": "Upside (Bugz Upside Mix Edit)",
+        "url": "https://open.spotify.com/album/3Oz8Ws4p3g5jER7sP3ZSrB"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Darien Dean",
+          "url": "https://open.spotify.com/artist/1y4iouAQTN7juTUELlUp9V"
+        },
+        {
+          "name": "Bugz in the Attic",
+          "url": "https://open.spotify.com/artist/3UbnYRfDPL3L74oFrJJxxv"
+        }
+      ],
+      "duration_ms": 195468,
+      "name": "Upside - Bugz Upside Mix Edit",
+      "url": "https://open.spotify.com/track/6EMTsLVajVq0Emr450Xsbh"
     },
     {
       "added_at": "2024-06-04 10:14:49",
@@ -3035,26 +3059,6 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Defenders of Justice",
-        "url": "https://open.spotify.com/album/1b2ldZLK6wz09zyT70z6jB"
-      },
-      "artists": [
-        {
-          "name": "Harley&Muscle",
-          "url": "https://open.spotify.com/artist/7xD1o7BukHEZHTj6ITdfPn"
-        },
-        {
-          "name": "Marie Tweek",
-          "url": "https://open.spotify.com/artist/6fwewP9y9cXcYwp8hkO6iV"
-        }
-      ],
-      "duration_ms": 435520,
-      "name": "Games We Play",
-      "url": "https://open.spotify.com/track/3UNEEwqVInIFTCZBS46EfC"
-    },
-    {
-      "added_at": "2024-06-04 10:14:49",
-      "album": {
         "name": "Act Like You Know",
         "url": "https://open.spotify.com/album/0Vz5zwWx4yxpkIzBv9ayst"
       },
@@ -3071,30 +3075,22 @@
     {
       "added_at": "2024-06-04 10:14:49",
       "album": {
-        "name": "Virgin Ubiquity: Remixed",
-        "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
+        "name": "Defenders of Justice",
+        "url": "https://open.spotify.com/album/1b2ldZLK6wz09zyT70z6jB"
       },
       "artists": [
         {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+          "name": "Harley&Muscle",
+          "url": "https://open.spotify.com/artist/7xD1o7BukHEZHTj6ITdfPn"
         },
         {
-          "name": "Merry Clayton",
-          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
-        },
-        {
-          "name": "Sylvia Cox",
-          "url": "https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl"
-        },
-        {
-          "name": "Phil Asher",
-          "url": "https://open.spotify.com/artist/1TltGeYRJu8JbGgSoisLfO"
+          "name": "Marie Tweek",
+          "url": "https://open.spotify.com/artist/6fwewP9y9cXcYwp8hkO6iV"
         }
       ],
-      "duration_ms": 510280,
-      "name": "Brand New Feeling - Phil Asher Main Mix",
-      "url": "https://open.spotify.com/track/7GxJOGrNhObuU7D3JowwyR"
+      "duration_ms": 435520,
+      "name": "Games We Play",
+      "url": "https://open.spotify.com/track/3UNEEwqVInIFTCZBS46EfC"
     },
     {
       "added_at": "2024-06-04 10:14:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,063 likes - 141 songs - 4 hr 40 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,063 likes - 140 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 137 | [Serenade of Illusions](https://open.spotify.com/track/4pTOsbCnRIXpt9agLitHNV) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Melodic Phantasm](https://open.spotify.com/album/5t2nM6VQelYKAFm0NpceFZ) | 1:52 |
 | 138 | [Misty Solace](https://open.spotify.com/track/6bEjGMoeSx7bHZ1Qqh4c9V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:03 |
 | 139 | [Sleep in Your Dream](https://open.spotify.com/track/40bwXB8yC68sgKkxNeIyAL) | [aswellas](https://open.spotify.com/artist/6CuHbpF36W0v7cEsrzqCkn) | [Sleep in Your Dream](https://open.spotify.com/album/39iWkaM314iuC5KfxK3xfy) | 2:28 |
-| 140 | [Afternoon Land](https://open.spotify.com/track/0KZOjaq2rwBWemfh1DGAPR) | [QS Code](https://open.spotify.com/artist/1lrXTB4ZvNLal6JcYhryjH) | [Afternoon Land](https://open.spotify.com/album/4yuBbUndwYRhlzk395JtSW) | 2:38 |
-| 141 | [Visions](https://open.spotify.com/track/7w5yYf2qeUy0PKh9Zb1kKe) | [Light Skies](https://open.spotify.com/artist/6OUp6ipOCWmLsyzmviGrmn) | [Visions](https://open.spotify.com/album/4QNz7P01yHHv5CfbA6Dbqf) | 2:12 |
+| 140 | [Visions](https://open.spotify.com/track/7w5yYf2qeUy0PKh9Zb1kKe) | [Light Skies](https://open.spotify.com/artist/6OUp6ipOCWmLsyzmviGrmn) | [Visions](https://open.spotify.com/album/4QNz7P01yHHv5CfbA6Dbqf) | 2:12 |
 
-Snapshot ID: `AAAASM7AcRIc+zImmGz7w7ig/oiqFxL+`
+Snapshot ID: `AAAASVD+0XHMMlmO69B49y23jHX/wxMp`

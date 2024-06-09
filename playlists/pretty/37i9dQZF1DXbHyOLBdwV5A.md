@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,428 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,443 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 45 | [Sobre Todo Nome](https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Sobre Todo Nome](https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh) | 2:31 |
 | 46 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 |
 | 47 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
-| 48 | [Se Tu Creres \- Remix](https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Se Tu Creres \(Remix\)](https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD) | 2:51 |
-| 49 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
+| 48 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
+| 49 | [Se Tu Creres \- Remix](https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Xote Santo](https://open.spotify.com/artist/21AE6X9LHcLnPSsD4SaFmE) | [Se Tu Creres \(Remix\)](https://open.spotify.com/album/1rMNwPyAcYmLVFGcC2TIgD) | 2:51 |
 | 50 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
 | 51 | [Contramão](https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2) | [Contramão](https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp) | 2:13 |
 | 52 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |

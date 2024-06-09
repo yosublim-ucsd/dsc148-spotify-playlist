@@ -1,12 +1,12 @@
 {
-  "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 2601,
+  "description": "This is Auli'i Cravalho. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 2599,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAA+zOg/dy27yQTtVHiv0KMA",
+  "snapshot_id": "ZmJNgAAAAABiVetPFjigzYaoZjbIE4d5",
   "tracks": [
     {
       "added_at": null,
@@ -418,35 +418,11 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
         }
       ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whispering (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Whispering - Rise Cast Version",
-      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
     },
     {
       "added_at": null,
@@ -499,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hailey's On It! (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
       },
@@ -506,11 +502,15 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
         }
       ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,

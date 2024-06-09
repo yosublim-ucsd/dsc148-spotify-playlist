@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 295310,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/48791UfuvihI3pL5GX05WZ"
@@ -3390,6 +3390,24 @@
       "duration_ms": 259591,
       "name": "Ghost Ship",
       "url": "https://open.spotify.com/track/56N8p428pdGMvLHRWmklzH"
+    },
+    {
+      "album": {
+        "name": "Les Hautes",
+        "url": "https://open.spotify.com/album/1awPRyChm2Eo28qAz3FHh9"
+      },
+      "artists": [
+        {
+          "name": "Tjade",
+          "url": "https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366880,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1KvdLBSUT7SNxVZzn8M1cS"
     },
     {
       "album": {

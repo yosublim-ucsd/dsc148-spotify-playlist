@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:7z7byOJ4AJnMY2NHE66ZpW">DOE</a>
 
-480 songs - 1 day 4 hr 36 min
+481 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Mad Love Remix ft\. Tobe Nwigwe, Rapsody \- Remix](https://open.spotify.com/track/57aYK12Z6JuvqXg3n16683) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 3:05 | 2022-02-19 | 2022-06-26 |
 | [Make It](https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ) | [Josiah Russell](https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL), [Mod G](https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6) | [Make It](https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST) | 2:50 | 2022-06-25 | 2023-05-09 |
 | [Make It Alright](https://open.spotify.com/track/6INDyfmhqhJfAxWi84O6al) | [SAINT](https://open.spotify.com/artist/0TA3tF7JmKckxwD869HhEs), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Here At Last](https://open.spotify.com/album/2QBuw9lsZA3bOQfBzQx7dz) | 4:50 | 2022-02-27 | 2022-06-20 |
+| [Make It Home](https://open.spotify.com/track/50fyed0UsMlEUjJjFY9G3U) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Make It Home](https://open.spotify.com/album/1pWdKWolsyNJFXoQQN2lNf) | 2:42 | 2024-01-12 |  |
 | [MAN\-UH](https://open.spotify.com/track/4pzdkoQ6i0P1yApVwA8cuW) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [MAN\-UH](https://open.spotify.com/album/04foyPb4nLC1gaOimMYPFe) | 1:49 | 2023-01-20 |  |
 | [Manifest](https://open.spotify.com/track/3pbTHEZoomOPXINAp2Seht) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Purpose](https://open.spotify.com/artist/3uqT5AC2OSsfU6HZ1RqAHo), [John Mcclure](https://open.spotify.com/artist/5II5vxi6ROvaKrNefa8aUQ) | [Thank You Lord / Manifest](https://open.spotify.com/album/1eFT6N7PAMO6FjMPMyKbrs) | 6:11 | 2022-02-19 | 2022-02-28 |
 | [Me and You](https://open.spotify.com/track/4vO4V0CcvJZSK87zqJnvks) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Me and You](https://open.spotify.com/album/4r7HAPoBJPvNNQo7zZzmAw) | 3:19 | 2024-01-12 |  |
@@ -311,7 +312,7 @@
 | [Not Moved](https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z) | 4:33 | 2023-01-20 | 2023-11-01 |
 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 | 2022-06-25 | 2023-02-15 |
 | [Not Ready](https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Ready](https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf) | 3:56 | 2022-06-25 | 2023-11-05 |
-| [Nothing Above You](https://open.spotify.com/track/0U1RhZO8nv0KstubJ99ANA) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Messy To You, Perfect To Him](https://open.spotify.com/album/2UDGehTiLQXjKvVh4cReq6) | 3:06 | 2024-01-12 |  |
+| [Nothing Above You](https://open.spotify.com/track/0U1RhZO8nv0KstubJ99ANA) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Messy To You, Perfect To Him](https://open.spotify.com/album/2UDGehTiLQXjKvVh4cReq6) | 3:06 | 2024-01-12 | 2024-06-09 |
 | [Nothing Else](https://open.spotify.com/track/0bflIQnvaGK5USahQuvohu) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Nothing Else](https://open.spotify.com/album/673Mfe5edcp9Syyx7nMtu7) | 3:03 | 2022-03-05 | 2022-04-05 |
 | [Nothing To Something](https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Nothing To Something](https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY) | 4:17 | 2023-07-21 |  |
 | [Oil & Water \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/6vREtE2UPe78r9FfuoBtJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Oil & Water \(feat\. Anthony Hamilton\)](https://open.spotify.com/album/28MXle4STHNFbcx9qwreVY) | 4:13 | 2022-02-19 | 2022-06-26 |

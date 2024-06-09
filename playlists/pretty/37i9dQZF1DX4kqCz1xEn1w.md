@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,430 likes - 100 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,425 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 89 | [Nothing But the Blood](https://open.spotify.com/track/0lY7aTxHRprImCO03ueK5d) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 8](https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB) | 4:46 |
 | 90 | [Rock of Our Salvation](https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX) | [Bright City](https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR) | [Hello Maker](https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j) | 5:00 |
 | 91 | [All For Love \(Gethsemane\) \- Live](https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I), [Luke + Anna Hellebronth](https://open.spotify.com/artist/4WUF78qaUIBG0uH1JiDztL) | [All For Love \(Gethsemane\) \[Live\]](https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn) | 5:14 |
-| 92 | [Jesus Paid It All](https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ) | 5:46 |
+| 92 | [Just One Drop \- Live From New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live From New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 |
 | 93 | [My Victory](https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:28 |
-| 94 | [Just One Drop \- Live From New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live From New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 |
+| 94 | [Jesus Paid It All](https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ) | 5:46 |
 | 95 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 96 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
 | 97 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
-| 98 | [Our God Is Alive](https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [With/In](https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4) | 4:47 |
-| 99 | [My Hope Is In the Blood](https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 4:21 |
-| 100 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 |
+| 98 | [Jesus Victorious](https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm) | [Mozaiek Worship](https://open.spotify.com/artist/7h4EivNSDwUKAn0O2EVYqZ), [Kees Kraayenoord](https://open.spotify.com/artist/10WtuxUJ22JY0d03VCT070) | [Jesus Victorious](https://open.spotify.com/album/32SVBmVICRKdy1WMsReKZy) | 6:18 |
+| 99 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 |
+| 100 | [My Hope Is In the Blood](https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 4:21 |
 
 Snapshot ID: `ZfrK6wAAAAAPZslTx4+ibXVRAkPFAVza`

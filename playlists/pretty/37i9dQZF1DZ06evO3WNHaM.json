@@ -1,12 +1,12 @@
 {
-  "description": "This Is Deftones. Los temas esenciales, todos en una lista.",
-  "num_followers": 356452,
+  "description": "This is Deftones. The essential tracks, all in one playlist.",
+  "num_followers": 356605,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAzPOWjymDjEtcwJ/vkGsme",
+  "snapshot_id": "ZmJNgAAAAAAJQNzu9/3d6UCgMtjnLefT",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Eyes",
-        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ"
+      "duration_ms": 255373,
+      "name": "Digital Bath",
+      "url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 255373,
-      "name": "Digital Bath",
-      "url": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS"
+      "duration_ms": 218800,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Eyes",
-        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Diamond Eyes",
-      "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
+      "duration_ms": 299240,
+      "name": "Entombed",
+      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 299240,
-      "name": "Entombed",
-      "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5"
+      "duration_ms": 188266,
+      "name": "Diamond Eyes",
+      "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
       "duration_ms": 360666,
       "name": "Beware",
       "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamond Eyes",
-        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Beauty School",
-      "url": "https://open.spotify.com/track/5sUCU4eiyf0pplIJ7OGEoc"
     },
     {
       "added_at": null,
@@ -295,6 +279,22 @@
       "duration_ms": 164986,
       "name": "Swerve City",
       "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Beauty School",
+      "url": "https://open.spotify.com/track/5sUCU4eiyf0pplIJ7OGEoc"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Lhabia",
-      "url": "https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5"
+      "duration_ms": 278106,
+      "name": "Romantic Dreams",
+      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
     },
     {
       "added_at": null,
@@ -571,38 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 278106,
-      "name": "Romantic Dreams",
-      "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 250222,
-      "name": "Ohms",
-      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -612,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 237733,
-      "name": "Lotion",
-      "url": "https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA"
+      "duration_ms": 251173,
+      "name": "Lhabia",
+      "url": "https://open.spotify.com/track/28q0pUwcJRS2tGZsYH6xL5"
     },
     {
       "added_at": null,
@@ -667,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gore",
-        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
       "artists": [
         {
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 320546,
-      "name": "Hearts / Wires",
-      "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+      "duration_ms": 237733,
+      "name": "Lotion",
+      "url": "https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA"
     },
     {
       "added_at": null,
@@ -711,6 +679,22 @@
       "duration_ms": 365480,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "Hearts / Wires",
+      "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
     },
     {
       "added_at": null,

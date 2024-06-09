@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-336 songs - 18 hr 32 min
+337 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 | 2022-08-25 | 2023-08-07 |
 | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/track/6TCbTczOreXauNQMepPeuJ) | [Azira](https://open.spotify.com/artist/3uUYaYT9wbZFNL0iMv5LIP), [BUGGATINO](https://open.spotify.com/artist/43zou9f8vndQl2XZR5gAmR) | [Leeh \(feat\. BUGGATINO\)](https://open.spotify.com/album/0XwxYo7Gd8biv6yp2GIQgK) | 2:53 | 2021-12-16 | 2022-06-07 |
 | [Legend](https://open.spotify.com/track/2p4Pl6IzNlZ0lpZqGLbinC) | [Sons of Yusuf](https://open.spotify.com/artist/6Vptp9yQcvtgjwFt6GDQno), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [Legend](https://open.spotify.com/album/60O0ca9zcTXnFMyJxNyoVP) | 3:15 | 2021-12-16 | 2022-04-08 |
+| [LIARS CAN'T HIDE](https://open.spotify.com/track/0lVpfIsQ336HysPSP5PlPx) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [LIARS CAN'T HIDE](https://open.spotify.com/album/11hKCgN02XVRY1gDycGKDY) | 2:16 | 2024-06-08 |  |
 | [Like That](https://open.spotify.com/track/57ckc64pkdrinysXmErndL) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Like That](https://open.spotify.com/album/3tzNLXTx8mH1lPaFrIuKXx) | 3:19 | 2021-12-16 | 2022-03-08 |
 | [Lonely People](https://open.spotify.com/track/3fN7EGwo1y6qAQnT1U7IPn) | [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE) | [Lonely People](https://open.spotify.com/album/1j8KSKJtQwcjzdbylsGcAa) | 3:13 | 2022-03-18 | 2022-12-08 |
 | [Look At That](https://open.spotify.com/track/0F8gOhtQtS5qB3mt1fPYTY) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [N1YAH](https://open.spotify.com/artist/6ELQ5765WA0hjpXSriZfU7) | [Look At That](https://open.spotify.com/album/4K2HpZ7tLBxtub1KrfpRiV) | 3:42 | 2021-12-16 | 2022-10-09 |

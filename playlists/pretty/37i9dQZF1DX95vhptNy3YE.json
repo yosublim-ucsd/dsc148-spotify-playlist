@@ -1,6 +1,6 @@
 {
   "description": "MC Paulin da Capital, Mc Piedro, Dj GM, DJ WN, MC Ryan SP, Mc Daniel e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 363159,
+  "num_followers": 363416,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -520,6 +520,10 @@
           "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         },
         {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
           "name": "Turma do Pagode",
           "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
         },
@@ -538,10 +542,6 @@
         {
           "name": "DJ WN",
           "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
         }
       ],
       "duration_ms": 722305,
@@ -999,6 +999,42 @@
     {
       "added_at": "2024-06-07 16:10:25",
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 451284,
+      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
+    },
+    {
+      "added_at": "2024-06-07 16:10:25",
+      "album": {
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
+    },
+    {
+      "added_at": "2024-06-07 16:10:25",
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -1027,42 +1063,6 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
-    },
-    {
-      "added_at": "2024-06-07 16:10:25",
-      "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
-    },
-    {
-      "added_at": "2024-06-07 16:10:25",
-      "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 451284,
-      "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
     },
     {
       "added_at": "2024-06-07 16:10:25",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2024-06-07 16:10:25",
       "album": {
+        "name": "Energia Benzadeus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "Despedida De Solteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
+    },
+    {
+      "added_at": "2024-06-07 16:10:25",
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -1315,22 +1335,18 @@
     {
       "added_at": "2024-06-07 16:10:25",
       "album": {
-        "name": "Energia Benzadeus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
+        "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+        "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
       },
       "artists": [
         {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
         }
       ],
-      "duration_ms": 153045,
-      "name": "Despedida De Solteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
+      "duration_ms": 320199,
+      "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+      "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
     },
     {
       "added_at": "2024-06-07 16:10:25",
@@ -1367,18 +1383,66 @@
     {
       "added_at": "2024-06-07 16:10:25",
       "album": {
-        "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
-        "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
+        "name": "Set Vini JR. - Os Pretos No Devido Lugar",
+        "url": "https://open.spotify.com/album/1puoI6sbYwI2vx2gY6PaTS"
       },
       "artists": [
         {
-          "name": "Samba De Dom",
-          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Ice Blue",
+          "url": "https://open.spotify.com/artist/51u48Kw2ZXE9iyFWNvJRmT"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         }
       ],
-      "duration_ms": 320199,
-      "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
-      "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
+      "duration_ms": 1000192,
+      "name": "Set Vini JR. - Os Pretos No Devido Lugar",
+      "url": "https://open.spotify.com/track/7ksXMdL7ULEVfnknjoZC23"
     },
     {
       "added_at": "2024-06-07 16:10:25",
@@ -1411,38 +1475,6 @@
       "duration_ms": 348571,
       "name": "Fuga No Radar",
       "url": "https://open.spotify.com/track/1eK83OcKzky6k5WODgKe9E"
-    },
-    {
-      "added_at": "2024-06-07 16:10:25",
-      "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Quando Ela Passa",
-      "url": "https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp"
     },
     {
       "added_at": "2024-06-07 16:10:25",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Avenged Sevenfold. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 468609,
+  "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
+  "num_followers": 468772,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAB1RdkpqrLPvDjV6Hfgh0bA",
+  "snapshot_id": "ZmJNgAAAAAA91de7k+gOdO3ED0qO+hQ+",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+      "duration_ms": 323800,
+      "name": "Shepherd of Fire",
+      "url": "https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 323800,
-      "name": "Shepherd of Fire",
-      "url": "https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90"
+      "duration_ms": 526013,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf"
     },
     {
       "added_at": null,
@@ -171,38 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 526013,
-      "name": "M.I.A.",
-      "url": "https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Welcome to the Family",
-      "url": "https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -219,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },
       "artists": [
         {
@@ -228,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 393480,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3"
+      "duration_ms": 374453,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4UEo1b0wWrtHMC8bVqPiH8"
     },
     {
       "added_at": null,
@@ -247,6 +215,22 @@
       "duration_ms": 343600,
       "name": "Beast and the Harlot",
       "url": "https://open.spotify.com/track/6FVYwnVrnAEIRnY3bHJb46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 393480,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/2FML7gk7ac6quGFIjvkDb3"
     },
     {
       "added_at": null,
@@ -276,25 +260,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 404386,
-      "name": "Buried Alive",
-      "url": "https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Almost Easy",
-      "url": "https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU"
+      "duration_ms": 245573,
+      "name": "Welcome to the Family",
+      "url": "https://open.spotify.com/track/0jqblvsI9LBY4irmLVqqEO"
     },
     {
       "added_at": null,
@@ -315,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Almost Easy",
+      "url": "https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Is But a Dream\u2026",
         "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 353986,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 404386,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 315173,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/5o8OdhjVZSF2wCj7M8UpMN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waking The Fallen",
         "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 538333,
       "name": "I Won't See You Tonight Part 1",
       "url": "https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 315173,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/5o8OdhjVZSF2wCj7M8UpMN"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 656493,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/53jogSv23P6DFcOHcZrDs9"
+      "duration_ms": 298813,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/4bcN9riyILh4IXEdmLGa8m"
     },
     {
       "added_at": null,

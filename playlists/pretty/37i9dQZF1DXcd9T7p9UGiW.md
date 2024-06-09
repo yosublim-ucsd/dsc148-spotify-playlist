@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Jaz Karis & Reekado Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,926 likes - 89 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,004 likes - 89 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

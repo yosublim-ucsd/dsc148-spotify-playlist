@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 37303,
+  "num_followers": 37340,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -251,8 +251,8 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K"
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d"
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -355,8 +355,8 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Harlem Blues Operator",
-        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
-      },
-      "artists": [
-        {
-          "name": "Bob Gaddy",
-          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Love My Baby",
-      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 392600,
       "name": "West Side Woman",
       "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Harlem Blues Operator",
+        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
+      },
+      "artists": [
+        {
+          "name": "Bob Gaddy",
+          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "I Love My Baby",
+      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
     },
     {
       "added_at": "2024-05-30 16:22:42",

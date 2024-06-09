@@ -1,12 +1,12 @@
 {
-  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 65852,
+  "description": "This Is Mike Bah\u00eda. Los temas esenciales, todos en una lista.",
+  "num_followers": 65864,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAABQVyYSeT/Lkg+3Sm9ukcqB",
+  "snapshot_id": "ZmJNgAAAAADEVPb5WjocLnfXPJKePO1Z",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -99,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 206967,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -111,26 +143,6 @@
       "duration_ms": 70992,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Detente",
-      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
     },
     {
       "added_at": null,
@@ -159,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Si Dios Fuera Poeta",
-      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Tu Amor No Vuelve",
         "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
       },
@@ -195,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
@@ -204,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 206967,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP"
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
     },
     {
       "added_at": null,
@@ -223,22 +219,6 @@
       "duration_ms": 241684,
       "name": "Busc\u00e1ndote",
       "url": "https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 148723,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
     },
     {
       "added_at": null,
@@ -287,30 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe"
-      },
-      "artists": [
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -320,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+      "duration_ms": 148723,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
     },
     {
       "added_at": null,
@@ -390,19 +346,11 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Keityn",
-          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
         }
       ],
-      "duration_ms": 170471,
-      "name": "El Ego\u00edsmo",
-      "url": "https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY"
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": null,
@@ -462,11 +410,19 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+      "duration_ms": 170471,
+      "name": "El Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY"
     },
     {
       "added_at": null,
@@ -540,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 138000,
-      "name": "\u00bfQu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW"
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": null,
@@ -599,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame",
+        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 189679,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Enemiga",
         "url": "https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD"
       },
@@ -615,22 +587,6 @@
       "duration_ms": 206237,
       "name": "Tu Enemiga",
       "url": "https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame",
-        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 189679,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
     },
     {
       "added_at": null,
@@ -664,17 +620,21 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         },
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
         },
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 192207,
-      "name": "A D\u00f3nde Te Me Fuiste",
-      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
+      "duration_ms": 200547,
+      "name": "Ropa Interior (feat. Be\u00e9le)",
+      "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
     },
     {
       "added_at": null,
@@ -695,6 +655,22 @@
       "duration_ms": 198933,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 132112,
+      "name": "\u00bfC\u00f3mo Est\u00e1s?",
+      "url": "https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP"
     },
     {
       "added_at": null,
@@ -727,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 192207,
+      "name": "A D\u00f3nde Te Me Fuiste",
+      "url": "https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Darte Amor",
         "url": "https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W"
       },
@@ -743,30 +743,6 @@
       "duration_ms": 189250,
       "name": "Darte Amor",
       "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 221444,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
     },
     {
       "added_at": null,
@@ -807,22 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
       "artists": [
         {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Vine a Buscarte",
-      "url": "https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs"
+      "duration_ms": 221444,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Vine a Buscarte",
+      "url": "https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noche en Hawaii",
         "url": "https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM"
       },
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Siente Bien",
-        "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Se Siente Bien",
-      "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/5tkNolbHmwahGRepiHrold"
       },
@@ -903,22 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+        "name": "Se Siente Bien",
+        "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         },
         {
-          "name": "Stanley Jackson",
-          "url": "https://open.spotify.com/artist/3uoKSVmuDDItBqC4OceRgJ"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 170838,
-      "name": "Sola (feat. Stanley Jackson)",
-      "url": "https://open.spotify.com/track/2fFEvoOii2fviIeAbfBj4t"
+      "duration_ms": 237880,
+      "name": "Se Siente Bien",
+      "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
     },
     {
       "added_at": null,

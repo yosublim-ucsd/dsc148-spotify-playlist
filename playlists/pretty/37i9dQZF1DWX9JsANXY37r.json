@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121485,
+  "num_followers": 121490,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-05-17 14:00:56",
       "album": {
-        "name": "Over Now (with The Weeknd)",
-        "url": "https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 210795,
-      "name": "Over Now (with The Weeknd)",
-      "url": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR"
-    },
-    {
-      "added_at": "2024-05-17 14:00:56",
-      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
+    },
+    {
+      "added_at": "2024-05-17 14:00:56",
+      "album": {
+        "name": "Over Now (with The Weeknd)",
+        "url": "https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 210795,
+      "name": "Over Now (with The Weeknd)",
+      "url": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR"
     },
     {
       "added_at": "2024-05-17 14:00:56",
@@ -943,22 +943,18 @@
     {
       "added_at": "2024-05-17 14:00:56",
       "album": {
-        "name": "What You Don't Do (Tom Misch Remix)",
-        "url": "https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V"
+        "name": "Why Don't You",
+        "url": "https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 229958,
-      "name": "What You Don't Do - Tom Misch Remix",
-      "url": "https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm"
+      "duration_ms": 232258,
+      "name": "Why Don't You",
+      "url": "https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H"
     },
     {
       "added_at": "2024-05-17 14:00:56",
@@ -979,18 +975,22 @@
     {
       "added_at": "2024-05-17 14:00:56",
       "album": {
-        "name": "Why Don't You",
-        "url": "https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u"
+        "name": "What You Don't Do (Tom Misch Remix)",
+        "url": "https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 232258,
-      "name": "Why Don't You",
-      "url": "https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H"
+      "duration_ms": 229958,
+      "name": "What You Don't Do - Tom Misch Remix",
+      "url": "https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm"
     },
     {
       "added_at": "2024-05-17 14:00:56",

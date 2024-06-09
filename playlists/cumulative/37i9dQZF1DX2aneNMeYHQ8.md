@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: Ray LaMontagne
 
-402 songs - 1 day 0 hr 31 min
+405 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,11 +104,12 @@
 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 | 2023-08-26 | 2023-09-30 |
 | [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 | 2023-09-22 | 2024-04-19 |
 | [Exhausting Lover](https://open.spotify.com/track/0CddCJAM7uawhCezlJc2YK) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr) | 3:35 | 2023-06-09 | 2023-08-04 |
-| [Eyez](https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 3:40 | 2023-02-10 |  |
+| [Eyez](https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 3:40 | 2023-02-10 | 2024-06-09 |
 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 | 2021-11-05 | 2022-01-15 |
 | [Faithless](https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Faithless](https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh) | 4:10 | 2022-02-25 | 2024-06-08 |
 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 | 2022-04-08 | 2024-06-08 |
 | [Feel Good](https://open.spotify.com/track/5BUPmSpZnwMOmdhmm2kqRC) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Feel Good](https://open.spotify.com/album/0SZQ6wLElyi6n2BbPkkV0z) | 2:47 | 2021-10-01 | 2022-01-22 |
+| [Fill My Cup](https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Fill My Cup](https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ) | 3:48 | 2024-06-07 |  |
 | [Find Another Reason Why](https://open.spotify.com/track/69K5FXo7lvM6lyiudqJWni) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Find Another Reason Why](https://open.spotify.com/album/47dBDQRH04eRYA4lKByNMF) | 3:18 | 2021-11-12 | 2022-03-12 |
 | [First Day](https://open.spotify.com/track/0dbRGcPxCuv2l9l1V6OFFA) | [KidEyes](https://open.spotify.com/artist/1aS62nHtge1lUvAMWNm6zy) | [First Day](https://open.spotify.com/album/2Xsp1mnpvRBazUTi8ZYjSG) | 3:59 | 2021-08-20 | 2022-04-23 |
 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 | 2023-12-08 | 2024-04-19 |
@@ -280,7 +281,8 @@
 | [Ride On](https://open.spotify.com/track/7mEkQOIF0GtCWD4ch2EIjW) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn) | 4:44 | 2023-05-12 | 2024-04-23 |
 | [Rise](https://open.spotify.com/track/19NJUQciFoAil1YmMS6cNA) | [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Rise](https://open.spotify.com/album/2du5GpcGOv6BR9YrRGI7DK) | 4:11 | 2021-01-29 | 2022-01-15 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-07-01 | 2023-06-10 |
-| [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 | 2023-02-24 |  |
+| [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 | 2023-02-24 | 2024-06-09 |
+| [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-07 |  |
 | [Roll The Dice](https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Roll The Dice](https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN) | 3:14 | 2022-03-11 | 2022-07-29 |
 | [Rubberband Man](https://open.spotify.com/track/1vlP24MDUyUxBb7X0Q42AE) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Rubberband Man](https://open.spotify.com/album/2VpwH6aLll433843htWOL6) | 2:30 | 2022-11-11 | 2023-02-11 |
 | [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 | 2021-07-09 | 2024-06-08 |
@@ -301,7 +303,7 @@
 | [Shoulders](https://open.spotify.com/track/4FhkSP4yv0UANHdTnM49Es) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Shoulders](https://open.spotify.com/album/0o1pJt6hzRCX3iMQImmPQs) | 3:23 | 2022-04-22 | 2022-07-02 |
 | [Singing a Mountain Song](https://open.spotify.com/track/1nDeQ0ysBGI0jsYkx0149F) | [The High Hawks](https://open.spotify.com/artist/7dtgvlkHjSebqdESzFCh5E) | [The High Hawks](https://open.spotify.com/album/1QmTlgRXBeASO0Rq3XNdr9) | 3:25 | 2022-05-25 | 2022-06-30 |
 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 | 2024-04-22 |  |
-| [So Bad](https://open.spotify.com/track/2JlQro0lj7pbAZdO25imCx) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [So Bad](https://open.spotify.com/album/2z9MKtIFok9MeyqMHOxCxL) | 4:12 | 2024-06-07 |  |
+| [So Bad](https://open.spotify.com/track/2JlQro0lj7pbAZdO25imCx) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [So Bad](https://open.spotify.com/album/2z9MKtIFok9MeyqMHOxCxL) | 4:12 | 2024-06-07 | 2024-06-09 |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2022-08-28 | 2024-04-19 |
 | [So Caught Up](https://open.spotify.com/track/4hXyXsww7q7ETKeVKD034T) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [So Caught Up](https://open.spotify.com/album/4kZ4Zf5TpRzNQf79ijFdws) | 3:48 | 2021-01-29 | 2022-10-03 |
 | [So Happy It Hurts](https://open.spotify.com/track/3uUgytODjrj5CzRl01ALdk) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Kick Ass](https://open.spotify.com/album/2ZXbHxfZBohaSObTJPAYTh) | 3:35 | 2021-12-09 | 2022-07-27 |
@@ -317,6 +319,7 @@
 | [Spilt Salt](https://open.spotify.com/track/7BhkpF9Ns7hExArAv8E1X2) | [My Kid Brother](https://open.spotify.com/artist/2x6K5sYwi04Ev2zyGki2nu) | [Spilt Salt](https://open.spotify.com/album/2Y1Oxx76IZ3MF3ZehUiAW9) | 3:36 | 2022-07-01 | 2022-11-12 |
 | [Spirit](https://open.spotify.com/track/4At0MWVAHHBKyOBkyqWg3V) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Spirit](https://open.spotify.com/album/1K2rmMC661DhMwzUp6iuMk) | 4:03 | 2021-03-19 | 2022-11-12 |
 | [Spit Of You](https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spit Of You](https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ) | 4:33 | 2023-02-10 |  |
+| [Spotlight](https://open.spotify.com/track/1ZvUudh4rpo0a5WIbrwJoc) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Spotlight / Well Alright](https://open.spotify.com/album/1kgabmPhKLo4DRLIsFTjFs) | 2:47 | 2024-06-07 |  |
 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 | 2021-11-23 |  |
 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 | 2022-11-11 | 2023-05-07 |
 | [Starting Now](https://open.spotify.com/track/2ESJsIRGeB7gVU5X4HxANA) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [Starting Now](https://open.spotify.com/album/261HvAw6KFCzyHCHtRTsLI) | 3:46 | 2021-01-29 | 2022-03-12 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Azzy. The essential tracks, all in one playlist.",
+  "description": "This is Azzy. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 7884,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAqUe9njyyrkSLAWFW0eIsJ",
+  "snapshot_id": "ZmJNgAAAAAAfY9L94N6nExJxX2sD3LrO",
   "tracks": [
     {
       "added_at": null,
@@ -511,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Prepara",
-        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 182415,
-      "name": "Se Prepara",
-      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Intenso",
         "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
       },
@@ -559,22 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faixa Rosa",
-        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
+        "name": "Se Prepara",
+        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
       },
       "artists": [
         {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         },
         {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 182923,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
+      "duration_ms": 182415,
+      "name": "Se Prepara",
+      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 225882,
       "name": "Jogo de Sedu\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 182923,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 135517,
       "name": "Pra Te Envolver",
       "url": "https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": null,
@@ -699,6 +699,30 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
     },
     {
       "added_at": null,
@@ -1043,6 +1067,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coisa Fina",
         "url": "https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7"
       },
@@ -1059,22 +1099,6 @@
       "duration_ms": 176562,
       "name": "Coisa Fina",
       "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morango",
-        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
     },
     {
       "added_at": null,
@@ -1171,42 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eles N\u00e3o Ligam pra Gente",
-        "url": "https://open.spotify.com/album/0BuyFqzcRGzwprTN399tYm"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Ducon",
-          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Diomedes Chinaski",
-          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
-        },
-        {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Eles N\u00e3o Ligam pra Gente",
-      "url": "https://open.spotify.com/track/1c6VpSBIBNrDjEZusw6s4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
       },
@@ -1263,6 +1251,42 @@
       "duration_ms": 243112,
       "name": "Meio Dia",
       "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eles N\u00e3o Ligam pra Gente",
+        "url": "https://open.spotify.com/album/0BuyFqzcRGzwprTN399tYm"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Diomedes Chinaski",
+          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Eles N\u00e3o Ligam pra Gente",
+      "url": "https://open.spotify.com/track/1c6VpSBIBNrDjEZusw6s4u"
     },
     {
       "added_at": null,
@@ -1327,50 +1351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "R\u00edmel",
-        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
+        "name": "S\u00f3 Eu",
+        "url": "https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG"
       },
       "artists": [
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
         }
       ],
-      "duration_ms": 104750,
-      "name": "Robocop",
-      "url": "https://open.spotify.com/track/121AXIy1L6fxNKIGq6BKx3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mete Ficha",
-        "url": "https://open.spotify.com/album/1GdQdCeWKMV8uKxxcFWf8L"
-      },
-      "artists": [
-        {
-          "name": "Boca",
-          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "tharealjuggboy",
-          "url": "https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR"
-        },
-        {
-          "name": "Lc da 100",
-          "url": "https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25"
-        },
-        {
-          "name": "Drow Beats",
-          "url": "https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt"
-        }
-      ],
-      "duration_ms": 139350,
-      "name": "Mete Ficha",
-      "url": "https://open.spotify.com/track/5RpEk0ucLSn4TlaFZ0TxuE"
+      "duration_ms": 183157,
+      "name": "S\u00f3 Eu",
+      "url": "https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf"
     }
   ],
   "unique_name": "This Is Azzy",

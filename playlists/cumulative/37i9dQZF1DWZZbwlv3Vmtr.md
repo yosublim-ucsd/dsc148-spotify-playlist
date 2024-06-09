@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-921 songs - 1 day 11 hr 47 min
+923 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Glitch Flower](https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Glitch Flower](https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO) | 2:52 | 2024-02-09 |  |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-04-15 | 2022-06-03 |
 | [glossy window](https://open.spotify.com/track/2AG1nSGB6J9xEQOIm1Dyc8) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [glossy window](https://open.spotify.com/album/0AoH1D4zGLEW72v3xI91QR) | 2:10 | 2022-07-01 |  |
+| [Glowing Firefly Waltz](https://open.spotify.com/track/690nc3o39vROr09u2gpU6Q) | [Age of Departures](https://open.spotify.com/artist/6eLOG5NiDw8it9PbnC6WdF) | [Dusty Attic](https://open.spotify.com/album/3mVvMHn47oco4oIogZUXsA) | 2:36 | 2024-06-05 |  |
 | [Glowing Willow](https://open.spotify.com/track/4oEnDh6kO0qc92pFabcgEV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA) | 2:27 | 2022-11-11 | 2023-10-06 |
 | [Glowing Willow](https://open.spotify.com/track/6ixfQO0RwJFPJl2OsFeaGO) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/284PXQtDie95El3dbLDJya) | 2:27 | 2022-07-01 | 2022-11-21 |
 | [Glutenfree](https://open.spotify.com/track/2Xr7cfU7wSYFK0GNDGRtEU) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Glutenfree](https://open.spotify.com/album/1EGGxOpttUe27Dg7JZEhn9) | 2:28 | 2022-11-25 |  |
@@ -303,7 +304,7 @@
 | [Happy Rhythm](https://open.spotify.com/track/3rqXQZIaS8MJxg3ZH4U7PS) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Happy Rhythm](https://open.spotify.com/album/6kUm2VBgPparejM4cqiMOj) | 1:46 | 2022-11-11 | 2024-01-17 |
 | [Happy Vibes](https://open.spotify.com/track/756qohm4sXMyfHT6t0pPOK) | [Banker](https://open.spotify.com/artist/2VTXmYvdlvwrIQ0p2j2XfI) | [Happy Vibes](https://open.spotify.com/album/6emgwxBXdHUBvWy4y0XJwH) | 2:40 | 2022-11-11 | 2024-05-16 |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 |  |
-| [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 |  |
+| [have we met before?](https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [have we met before?](https://open.spotify.com/album/6MsQoiJdl6aC8QxybR4OF1) | 1:42 | 2022-06-24 | 2024-06-09 |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
 | [Head Down](https://open.spotify.com/track/6bK9DxZ3UOo1x6fpUTmhLr) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Head Down](https://open.spotify.com/album/00BtezqtTN1x9b252Lvc5P) | 2:29 | 2022-04-22 | 2022-12-10 |
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
@@ -511,7 +512,7 @@
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
 | [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 |  |
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
-| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 |  |
+| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 | 2024-06-09 |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 | 2023-09-29 |
 | [night waves](https://open.spotify.com/track/4Ymj9hO8ocX1wkA54kZMaM) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/0YY5a07WEQ4kEhbsNOWiWx) | 1:34 | 2022-11-25 | 2022-12-10 |
 | [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 | 2022-12-04 |
@@ -642,6 +643,7 @@
 | [river](https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [river](https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1) | 2:19 | 2023-11-17 |  |
 | [Roadburn](https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Roadburn](https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV) | 1:44 | 2023-04-03 | 2024-05-09 |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
+| [rodeo](https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [rodeo](https://open.spotify.com/album/3cFp5vviCaISNjybqFHaH5) | 2:09 | 2024-06-05 |  |
 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 | 2023-09-22 |  |
 | [Rooftop](https://open.spotify.com/track/4YLtJCjDkmw5dAbVuxpy7v) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Rooftop](https://open.spotify.com/album/5OOYTWekc4Zw1uQWvz9v0l) | 2:26 | 2022-04-15 | 2023-09-22 |
 | [Roronoa](https://open.spotify.com/track/1rMkIrW3SoR42ZLX3d26m0) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Roronoa](https://open.spotify.com/album/4ELgzCYaKWZ0ShzrH1mnKK) | 2:14 | 2022-12-09 | 2024-06-02 |

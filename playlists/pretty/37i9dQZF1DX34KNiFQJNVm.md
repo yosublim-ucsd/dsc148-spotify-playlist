@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana com Luan Pereira, Dilsinho, Charli XCX e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913,079 likes - 74 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,389 likes - 74 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 29 | [Respeito É Bom](https://open.spotify.com/track/7hBppdxoLAu1cyYcYFds0R) | [Gina Garcia](https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj), [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8), [Caio Prado](https://open.spotify.com/artist/5VR80ewg2Ki9zuaAkUkxxt), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Erika Hilton](https://open.spotify.com/artist/759Znl7AQ8D4YDno809oEW) | [Respeito É Bom](https://open.spotify.com/album/0r5VsZaFbq3x6wrkSRm5yb) | 3:36 |
 | 30 | [Flores Pa Ti](https://open.spotify.com/track/5mM6WC9fOpYKLjLBDlRynh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Bad Boys: Ride Or Die Soundtrack](https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l) | 1:39 |
 | 31 | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/track/2B6FmouvT6DchQ9F66K8Fs) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/album/0TBOkEVfhlnfQRK99DlpcT) | 2:56 |
-| 32 | [Peca Nova](https://open.spotify.com/track/7crVOqqLVWWPB41o3iSBFp) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Canetaria](https://open.spotify.com/artist/6Cldvl1RRZok8NdYLrQ7k1), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Peça Nova](https://open.spotify.com/album/3aCMpqf3zDK67wC6XZzZSd) | 2:23 |
+| 32 | [Peça Nova](https://open.spotify.com/track/7crVOqqLVWWPB41o3iSBFp) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Canetaria](https://open.spotify.com/artist/6Cldvl1RRZok8NdYLrQ7k1), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Peça Nova](https://open.spotify.com/album/3aCMpqf3zDK67wC6XZzZSd) | 2:23 |
 | 33 | [Não Me Defina \(Horóscopo\)](https://open.spotify.com/track/3uoOQHwHhhvkh76PbbCIT7) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Não Me Defina \(Horóscopo\)](https://open.spotify.com/album/7cETFnvsKKgZhN8PpXa3Mx) | 2:47 |
 | 34 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 |
 | 35 | [Palavras de Perdão \- Ao Vivo](https://open.spotify.com/track/1b4OldCIxTO7DcqYdvdlOM) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Maturidade \- EP 03 \(Ao Vivo\)](https://open.spotify.com/album/2b7k6A9xKfBrJ16UnXVXbP) | 3:06 |

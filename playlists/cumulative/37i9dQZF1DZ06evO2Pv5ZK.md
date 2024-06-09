@@ -2,7 +2,7 @@
 
 ### [This Is Vangelis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK)
 
-> This is Vangelis\. Tutti i brani in un'unica playlist.
+> This is Vangelis\. Todos os maiores hits em uma só playlist.
 
 83 songs - 6 hr 53 min
 

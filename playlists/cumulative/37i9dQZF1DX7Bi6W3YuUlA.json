@@ -108,13 +108,13 @@
           "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
         },
         {
-          "name": "Mariah Anae",
+          "name": "mariah anae",
           "url": "https://open.spotify.com/artist/25hDGQnara5RgwMDnUPJA1"
         }
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 241661,
       "name": "A Painting Of Peace (feat. Mariah Anae)",
       "url": "https://open.spotify.com/track/1CnBGNdzEq6lgyfLOoKyd3"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 165666,
       "name": "Dreamworld",
       "url": "https://open.spotify.com/track/33zUvNgfOVKXAVoclCrKhq"

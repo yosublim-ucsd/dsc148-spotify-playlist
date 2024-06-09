@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 97666,
+  "num_followers": 97674,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,22 @@
     {
       "added_at": "2024-05-14 13:47:01",
       "album": {
-        "name": "BLUE MOON",
-        "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
+        "name": "EASTERN NIGHT",
+        "url": "https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw"
       },
       "artists": [
         {
-          "name": "JAY",
-          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
+          "name": "KIMMUSEUM",
+          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
+        },
+        {
+          "name": "JEMN",
+          "url": "https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5"
         }
       ],
-      "duration_ms": 171880,
-      "name": "BLUE MOON",
-      "url": "https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf"
+      "duration_ms": 168626,
+      "name": "vestigial organ",
+      "url": "https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358"
     },
     {
       "added_at": "2024-05-14 13:47:01",
@@ -583,22 +587,18 @@
     {
       "added_at": "2024-05-14 13:47:01",
       "album": {
-        "name": "EASTERN NIGHT",
-        "url": "https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw"
+        "name": "BLUE MOON",
+        "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
       },
       "artists": [
         {
-          "name": "KIMMUSEUM",
-          "url": "https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V"
-        },
-        {
-          "name": "JEMN",
-          "url": "https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5"
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
         }
       ],
-      "duration_ms": 168626,
-      "name": "vestigial organ",
-      "url": "https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358"
+      "duration_ms": 171880,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf"
     },
     {
       "added_at": "2024-05-14 13:47:01",

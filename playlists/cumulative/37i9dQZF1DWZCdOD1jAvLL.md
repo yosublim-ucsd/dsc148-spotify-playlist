@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Dimension & Alison Wonderland
 
-696 songs - 1 day 14 hr 9 min
+697 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Ghost \- Cloverdale Remix](https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Ghost \- Cloverdale Remix](https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW) | 3:24 | 2022-05-06 | 2022-06-25 |
 | [Gimme More](https://open.spotify.com/track/34j6PD501kYByTTjWtYjOl) | [Jaksan](https://open.spotify.com/artist/62kJlPY22K322WwqspIIec) | [Gimme More](https://open.spotify.com/album/1iDSLPZqq0diRa0tMPFR97) | 3:35 | 2022-04-22 | 2022-08-06 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-10 |  |
+| [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-07 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-11-14 |  |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2022-01-14 | 2022-01-22 |
 | [Gladiator](https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG) | [Gladiator](https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI) | 2:16 | 2023-12-08 | 2024-02-11 |
@@ -295,7 +296,7 @@
 | [Human League](https://open.spotify.com/track/23urM0HEdculuZPJyhImwB) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Human League](https://open.spotify.com/album/3JSeeVJd5spZaA1o63WKj7) | 4:11 | 2022-01-14 | 2022-01-29 |
 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-02 | 2023-04-18 |
 | [HYPNOSIS](https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HYPNOSIS](https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q) | 2:38 | 2022-12-05 | 2023-10-14 |
-| [Hypnotic](https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Hypnotic](https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz) | 3:20 | 2023-11-24 |  |
+| [Hypnotic](https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Hypnotic](https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz) | 3:20 | 2023-11-24 | 2024-06-09 |
 | [Hypnotic \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Hypnotic \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN) | 3:27 | 2023-07-14 | 2023-11-11 |
 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 | 2022-05-20 | 2022-09-03 |
 | [I Don't Think U Do](https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [I Don't Think U Do](https://open.spotify.com/album/53t06XQarorEYsDJXjwjSg) | 3:23 | 2022-05-06 | 2022-09-03 |

@@ -77,6 +77,32 @@
     },
     {
       "album": {
+        "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+        "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        },
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240539,
+      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+      "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
+    },
+    {
+      "album": {
         "name": "As The Palaces Burn",
         "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
@@ -1540,7 +1566,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 146653,
       "name": "Straight For The Sun",
       "url": "https://open.spotify.com/track/7cqj8hfthKgGLy4cupPCGr"
@@ -1558,7 +1584,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 148653,
       "name": "Straight For The Sun",
       "url": "https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo"

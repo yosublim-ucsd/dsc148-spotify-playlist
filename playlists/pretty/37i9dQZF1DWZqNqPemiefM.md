@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,487 likes - 70 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,492 likes - 70 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 48 | [Dawn](https://open.spotify.com/track/5MHOn6Lsy0m4OtZr3Cjaln) | [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Dawn](https://open.spotify.com/album/0wh5AkPy23Aj3y75hiROGE) | 6:36 |
 | 49 | [Umi No Sunatsubu](https://open.spotify.com/track/64IcvG8Hba5MWv4C3IPUlF) | [Masahiro Sugaya](https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 1:12 |
 | 50 | [Mouthfeel 1](https://open.spotify.com/track/2hZ54Y3yFwPXtrqh0D2TOD) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Josiah Steinbrick](https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP) | [Mouthfeel / Serene](https://open.spotify.com/album/6nYVmyI2ZsMoFQJyB9bz1x) | 1:48 |
-| 51 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 |
-| 52 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 |
+| 51 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 |
+| 52 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 |
 | 53 | [Au couchant](https://open.spotify.com/track/7DozGDrYgAFPULqQNU7RMM) | [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Au couchant](https://open.spotify.com/album/5L2MRm6DXOTGEasWuOKta5) | 5:44 |
 | 54 | [Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD) | 5:05 |
 | 55 | [Dune](https://open.spotify.com/track/45qGrOnjFJsgmzjRv5LA2T) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [House in the Tall Grass](https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu) | 2:08 |

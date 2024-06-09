@@ -1,6 +1,6 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 53232,
+  "num_followers": 53233,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "IKAROS",
-      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "WELL DONE",
         "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 210416,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "IKAROS",
+      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Out Loud",
-        "url": "https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb"
+        "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+        "url": "https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 200466,
-      "name": "Out Loud",
-      "url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
+      "duration_ms": 152208,
+      "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "url": "https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-        "url": "https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo"
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 152208,
-      "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-      "url": "https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr"
+      "duration_ms": 200466,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "A Love International",
-        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
+        "name": "See you Soon",
+        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 255100,
-      "name": "A Love International",
-      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
+      "duration_ms": 206600,
+      "name": "See you Soon",
+      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "See you Soon",
-        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
+        "name": "A Love International",
+        "url": "https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 206600,
-      "name": "See you Soon",
-      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 94813,
-      "name": "\u042fO\u042f\u042fIM",
-      "url": "https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 220346,
       "name": "I Can't Tell You Why",
       "url": "https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 94813,
+      "name": "\u042fO\u042f\u042fIM",
+      "url": "https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "I Don't Love You",
-        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
       },
       "artists": [
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 251009,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

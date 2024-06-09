@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,814 songs - 10 day 18 hr 17 min
+6,815 songs - 10 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2034,7 +2034,7 @@
 | [Five Pants](https://open.spotify.com/track/2uEoDYyEG9LiR43vsnaoPm) | [Bezzix](https://open.spotify.com/artist/7wHZfDkun9PmNEJuh9wh69), [Fonsey](https://open.spotify.com/artist/5rHzvi8pBFTMdWhVbeisRR) | [DAY 1](https://open.spotify.com/album/5do6d6vP7D1hXkh4SaCeLj) | 2:18 | 2022-11-18 | 2022-11-25 |
 | [fiveyearsago](https://open.spotify.com/track/6B4qtjK5dvi1dof1iGmHlG) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S) | [Chillhop Timezones vol.1 – Saudades do Tempo](https://open.spotify.com/album/7IWZvSrhpBdOifP2HkyCnR) | 2:55 | 2021-05-20 | 2022-01-12 |
 | [Fix Something You Broke](https://open.spotify.com/track/11cXLYRRW0OAqlPN5lJzLO) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Fix Something You Broke](https://open.spotify.com/album/7CfLOP1GRrHi6GwLPMm2rV) | 1:49 | 2022-03-11 |  |
-| [fixed width](https://open.spotify.com/track/4cp6VuQ8JM3jHn6lyN28gz) | [SEIZMAN](https://open.spotify.com/artist/0cYriv4nFuLW6XRiWefFef) | [POPCORN](https://open.spotify.com/album/5tp12Oo32jLzYjOV9tYrXE) | 1:24 | 2022-01-07 |  |
+| [fixed width](https://open.spotify.com/track/4cp6VuQ8JM3jHn6lyN28gz) | [SEIZMAN](https://open.spotify.com/artist/0cYriv4nFuLW6XRiWefFef) | [POPCORN](https://open.spotify.com/album/5tp12Oo32jLzYjOV9tYrXE) | 1:24 | 2022-01-07 | 2024-06-09 |
 | [Fizzy Kombucha](https://open.spotify.com/track/2DvaGmLzj1q4YMLfKsqTm6) | [Knob Reflection](https://open.spotify.com/artist/64jX3OfGvQkiyRkxvuCWnv) | [Fizzy Kombucha](https://open.spotify.com/album/09rlTnLULOelxZ3kV38uKo) | 1:45 | 2024-03-29 |  |
 | [fizzy pop](https://open.spotify.com/track/1x0vuG5frwPlJ9FNwVwBRX) | [Leevs](https://open.spotify.com/artist/3HHCa5TohONStbWCA2rhEo) | [fizzy pop](https://open.spotify.com/album/7q3FJ623E6o7m0pV2cOMar) | 2:01 | 2023-10-06 |  |
 | [Flagstaff And Forest Fires](https://open.spotify.com/track/2PQ0EBpFcm9kaT11Zz4FAB) | [Charles Edison](https://open.spotify.com/artist/501lbswnZlQ04MdRpfsw1d), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Vista Point](https://open.spotify.com/album/6Ox5bWURnX5zs7WCuX5jil) | 2:10 | 2019-11-29 | 2020-10-28 |
@@ -3864,6 +3864,7 @@
 | [moonlights](https://open.spotify.com/track/2aH7PYX1vdr96PNXdBqmJs) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [moonlights](https://open.spotify.com/album/4QOo2Y2EE83J9l1QzEbuy8) | 2:01 | 2021-07-11 | 2022-03-12 |
 | [Moonlit Whispers](https://open.spotify.com/track/7LhSuxt5h2I9Kfs4bkoiAN) | [LiGe 力哥](https://open.spotify.com/artist/4XuX7xOI4bK8Rfpwu0WjV9), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Lush Lofi](https://open.spotify.com/artist/5JhRPnuIs99MvULl2ZcFiL) | [Moonlit Whispers](https://open.spotify.com/album/5FCiLkgnhw5I5HVoeRDbi6) | 2:22 | 2023-11-17 |  |
 | [Moonrise](https://open.spotify.com/track/3ou3qih65k7ZqoVN4ziXuG) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo) | [Moonrise](https://open.spotify.com/album/44LmbRxDhVJiu8lN0el8MN) | 2:16 | 2022-02-14 | 2022-07-22 |
+| [Moonrise](https://open.spotify.com/track/1IjfRgASFYlHRHYLuUrmsA) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Moonrise](https://open.spotify.com/album/2yffzTV7ikZP8CaDtrA9eb) | 2:12 | 2024-06-07 |  |
 | [Moons Of Neptune](https://open.spotify.com/track/3ytJslh6YkL4PwdH8NWxSC) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Moons Of Neptune](https://open.spotify.com/album/2wmOPcJfvbIRlgCcynAxhX) | 2:36 | 2022-07-15 | 2022-10-28 |
 | [Moonscape](https://open.spotify.com/track/4jf6xXgvgVnXDMUNBAXTQ2) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [A Quiet Place](https://open.spotify.com/album/6qddHV8GGqTuSawsntlL5k) | 2:25 | 2022-12-16 | 2023-03-25 |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2022-11-18 | 2023-09-30 |

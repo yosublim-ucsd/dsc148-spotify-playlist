@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
-  "num_followers": 40904,
+  "num_followers": 40912,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Quill\u00e9",
-        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
+        "name": "Nous on sait",
+        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
         }
       ],
-      "duration_ms": 180107,
-      "name": "Quill\u00e9",
-      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+      "duration_ms": 182546,
+      "name": "Nous on sait",
+      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Nous on sait",
-        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
+        "name": "Quill\u00e9",
+        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 182546,
-      "name": "Nous on sait",
-      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
+      "duration_ms": 180107,
+      "name": "Quill\u00e9",
+      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -359,22 +359,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Colis\u00e9e (feat. SDM)",
-        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
+        "name": "Lalla",
+        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         },
         {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 168746,
-      "name": "Colis\u00e9e (feat. SDM)",
-      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
+      "duration_ms": 187319,
+      "name": "Lalla",
+      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -399,22 +399,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Lalla",
-        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
+        "name": "Colis\u00e9e (feat. SDM)",
+        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
       },
       "artists": [
         {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 187319,
-      "name": "Lalla",
-      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
+      "duration_ms": 168746,
+      "name": "Colis\u00e9e (feat. SDM)",
+      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 143529,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Tout g\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         }
       ],
-      "duration_ms": 150029,
-      "name": "Tout g\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Allo",
-        "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
-      },
-      "artists": [
-        {
-          "name": "Youka",
-          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
-        },
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 136788,
-      "name": "Allo",
-      "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "DLPDA",
         "url": "https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 170946,
       "name": "YOMB",
       "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 136788,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Me prends pas la t\u00eate",
+      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "L'\u00e9cole des Stars",
         "url": "https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv"
       },
@@ -803,26 +819,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "SHE LIT",
-        "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
-      },
-      "artists": [
-        {
-          "name": "J9ueve",
-          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
-        },
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SHE LIT",
-      "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "GINGER BOY",
         "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
       },
@@ -843,6 +839,42 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "HASTA LA VISTA",
+        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "HASTA LA VISTA",
+      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "SHE LIT",
+        "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
+      },
+      "artists": [
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SHE LIT",
+      "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Sentiments",
         "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
       },
@@ -859,30 +891,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "47\u00b0",
-        "url": "https://open.spotify.com/album/2u1FFQgZEDlhdQtXVqjaw4"
-      },
-      "artists": [
-        {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 144001,
-      "name": "Double appel",
-      "url": "https://open.spotify.com/track/1O8JyjQbRtGDNCaKbyvWPl"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "IL LE FALLAIT",
         "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
       },
@@ -895,22 +903,6 @@
       "duration_ms": 153006,
       "name": "NO LACK",
       "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "T'oublier",
-        "url": "https://open.spotify.com/album/4rqWSfrrmZQDTicb0bqK5t"
-      },
-      "artists": [
-        {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        }
-      ],
-      "duration_ms": 207335,
-      "name": "T'oublier",
-      "url": "https://open.spotify.com/track/1s8V2V6pEa5T1LXcuOdrLI"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

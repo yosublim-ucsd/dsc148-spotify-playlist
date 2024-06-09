@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 72019,
+  "num_followers": 72057,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Trust the Universe",
-        "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
-      },
-      "artists": [
-        {
-          "name": "Chama Wijnen",
-          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Trust the Universe",
-      "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Moving Slow",
         "url": "https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 168000,
       "name": "Moving Slow",
       "url": "https://open.spotify.com/track/479TAluzixIctz5AiwnrA1"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Trust the Universe",
+        "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
+      },
+      "artists": [
+        {
+          "name": "Chama Wijnen",
+          "url": "https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Trust the Universe",
+      "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Sleepy Eyes",
-        "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 224791,
-      "name": "Sleepy Eyes",
-      "url": "https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Vibrational",
         "url": "https://open.spotify.com/album/7ItE1PpkbhDgDQQkmGEn7V"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 175460,
       "name": "Vibrational",
       "url": "https://open.spotify.com/track/0WPubOHAJO44JOIYpbaHd7"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Sleepy Eyes",
+        "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "duration_ms": 224791,
+      "name": "Sleepy Eyes",
+      "url": "https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Prieks",
-        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
+        "name": "Emerald Isles",
+        "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
       },
       "artists": [
         {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
         }
       ],
-      "duration_ms": 145524,
-      "name": "Prieks",
-      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
+      "duration_ms": 233383,
+      "name": "Emerald Isles",
+      "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Emerald Isles",
-        "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
+        "name": "Amoralis",
+        "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
       },
       "artists": [
         {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
         }
       ],
-      "duration_ms": 233383,
-      "name": "Emerald Isles",
-      "url": "https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5"
+      "duration_ms": 211948,
+      "name": "Amoralis",
+      "url": "https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Amoralis",
-        "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
+        "name": "Prieks",
+        "url": "https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
         }
       ],
-      "duration_ms": 211948,
-      "name": "Amoralis",
-      "url": "https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ"
+      "duration_ms": 145524,
+      "name": "Prieks",
+      "url": "https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Incorniciato",
         "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 164571,
       "name": "Incorniciato",
       "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Soft Meadow",
-        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Soft Meadow",
-      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Sphere",
         "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 179104,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Soft Meadow",
+        "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "duration_ms": 193492,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
-      },
-      "artists": [
-        {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
         "name": "Dreamgaze",
         "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 217000,
       "name": "Dreamgaze",
       "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1883,34 +1883,18 @@
     {
       "added_at": "2024-05-10 18:15:09",
       "album": {
-        "name": "Catch the Breeze",
-        "url": "https://open.spotify.com/album/5W1mWHI2pGdchMs77OPKM6"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv"
       },
       "artists": [
         {
-          "name": "The Future Sound of XYZ",
-          "url": "https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY"
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
         }
       ],
-      "duration_ms": 223994,
-      "name": "Catch the Breeze",
-      "url": "https://open.spotify.com/track/6NBmxK1yoYz7lRKM3Ecc52"
-    },
-    {
-      "added_at": "2024-05-10 18:15:09",
-      "album": {
-        "name": "Breath of Life",
-        "url": "https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 154069,
-      "name": "Breath Of Life",
-      "url": "https://open.spotify.com/track/0whxteXpbXv6WUTOfAtmZb"
+      "duration_ms": 126230,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn"
     },
     {
       "added_at": "2024-05-10 18:15:09",
@@ -1927,6 +1911,22 @@
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7"
+    },
+    {
+      "added_at": "2024-05-10 18:15:09",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4O4iGadAmoFYIUmvSCwZWK"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/2gx4p6ukiBy7SO4qRUI5NG"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

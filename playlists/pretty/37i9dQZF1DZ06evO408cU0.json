@@ -1,33 +1,13 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 55942,
+  "num_followers": 55954,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAalawy7V5jKMS5n6uaSxbF",
+  "snapshot_id": "ZmJNgAAAAADjUbbdsRqhNw4gmFuU+6tD",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Chulo",
-        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "El Chulo",
-      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
-    },
     {
       "added_at": null,
       "album": {
@@ -175,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Historia De Mis Manos",
+        "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "La Historia De Mis Manos",
+      "url": "https://open.spotify.com/track/1lAfPGUKAQ0tW1TZeRBLkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -215,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Lo Que Pienso De Ti",
+      "url": "https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed No Se Termina (En Vivo)",
         "url": "https://open.spotify.com/album/3XKUMGQOygep8Ssax2GLlK"
       },
@@ -231,22 +243,6 @@
       "duration_ms": 199464,
       "name": "Aqu\u00ed No Se Termina (En Vivo)",
       "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Lo Que Pienso De Ti",
-      "url": "https://open.spotify.com/track/12UqDbdI0cuw5FMGrjX59W"
     },
     {
       "added_at": null,
@@ -363,6 +359,26 @@
       "duration_ms": 138760,
       "name": "De Buen Perfil",
       "url": "https://open.spotify.com/track/6CphAFnRSF0N0Otke4uCBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chulo",
+        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "El Chulo",
+      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Volver\u00e1s A Ser Feliz",
-      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 219093,
       "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Volver\u00e1s A Ser Feliz",
+      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 136213,
-      "name": "El Pistolero - En Vivo",
-      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fibras Sensibles",
         "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 200720,
       "name": "Fibras Sensibles",
       "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 136213,
+      "name": "El Pistolero - En Vivo",
+      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
     },
     {
       "added_at": null,
@@ -839,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
+        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
+      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -867,26 +903,6 @@
       "duration_ms": 242786,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/5A5M4GH24OwRGtSbaIDLPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
-        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
-      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
     },
     {
       "added_at": null,
@@ -927,42 +943,6 @@
       "duration_ms": 215813,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "El Cajoncito - En Vivo",
-      "url": "https://open.spotify.com/track/3L3fOyV49wTqBU0BYu5cQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde La Yeguada El Cincuenta Volumen II (En Vivo)",
-        "url": "https://open.spotify.com/album/0xgfe9ltFKsEHxUMg7dLzk"
-      },
-      "artists": [
-        {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Palomas Que Andan Volando - En Vivo",
-      "url": "https://open.spotify.com/track/5mQlyULT3Kufkjzu78rlUO"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

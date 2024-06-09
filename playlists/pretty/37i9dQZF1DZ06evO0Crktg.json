@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 215738,
+  "num_followers": 216064,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAADntZenQDsJlKjm/1u7m7hL",
+  "snapshot_id": "ZmJNgAAAAAC9guuOYV89snu/Oisf59RZ",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,26 @@
       "duration_ms": 238016,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
     },
     {
       "added_at": null,
@@ -802,11 +822,19 @@
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Dance With Ghosts",
-      "url": "https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9"
+      "duration_ms": 226511,
+      "name": "5 AM",
+      "url": "https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN"
     },
     {
       "added_at": null,
@@ -882,19 +910,11 @@
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
         }
       ],
-      "duration_ms": 226511,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN"
+      "duration_ms": 161666,
+      "name": "Dance With Ghosts",
+      "url": "https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9"
     },
     {
       "added_at": null,
@@ -935,22 +955,6 @@
       "duration_ms": 214708,
       "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/3FULZo3F26XP00rsLrXTLE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Even Angels Cry",
-      "url": "https://open.spotify.com/track/6IubO8kA1YB2rxPMKqXK9N"
     }
   ],
   "unique_name": "This Is Jelly Roll",

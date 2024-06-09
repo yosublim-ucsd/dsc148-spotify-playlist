@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 2439,
+  "num_followers": 2453,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "That's It!",
         "url": "https://open.spotify.com/album/3rAVWhYGTctgroOsCv0YBe"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 201974,
       "name": "That's It!",
       "url": "https://open.spotify.com/track/4IuIQ8TAYJApSHastLROfY"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/3eneNYOKfTVdaGJbdGa0Rj"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "Sounds from the Ancestors",
         "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 313720,
       "name": "Hargrove",
       "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/3eneNYOKfTVdaGJbdGa0Rj"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Legend Legend",
-        "url": "https://open.spotify.com/album/4B008GCiu03AAvtCOxuU2B"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 218988,
-      "name": "30 Million",
-      "url": "https://open.spotify.com/track/1zeAgRxjzZFB1U3pa8Z55v"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "Agadez",
         "url": "https://open.spotify.com/album/3rTt2Gu71ktKEzfDumvuYG"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 274771,
       "name": "Adounia",
       "url": "https://open.spotify.com/track/0oF0943hvTFkA9oNyjedeV"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "Legend Legend",
+        "url": "https://open.spotify.com/album/4B008GCiu03AAvtCOxuU2B"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 218988,
+      "name": "30 Million",
+      "url": "https://open.spotify.com/track/1zeAgRxjzZFB1U3pa8Z55v"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "RW:AK",
-        "url": "https://open.spotify.com/album/5qITLQJh31disNrMxaVnp5"
-      },
-      "artists": [
-        {
-          "name": "Hologramme",
-          "url": "https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN"
-        }
-      ],
-      "duration_ms": 292542,
-      "name": "RW:AK",
-      "url": "https://open.spotify.com/track/0waM1hDqSzRyOtSv5wFWue"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "Train Coming",
         "url": "https://open.spotify.com/album/74X9PXhDtKBmJO0aaO0oMG"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 244404,
       "name": "Train Coming",
       "url": "https://open.spotify.com/track/0yaFx1VHsMM4qNRg3Sv21t"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "RW:AK",
+        "url": "https://open.spotify.com/album/5qITLQJh31disNrMxaVnp5"
+      },
+      "artists": [
+        {
+          "name": "Hologramme",
+          "url": "https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN"
+        }
+      ],
+      "duration_ms": 292542,
+      "name": "RW:AK",
+      "url": "https://open.spotify.com/track/0waM1hDqSzRyOtSv5wFWue"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        }
+      ],
+      "duration_ms": 300573,
+      "name": "New Mornings",
+      "url": "https://open.spotify.com/track/3QDM1qBd5dp8iJlbfeJvuD"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
         "name": "Songs From Home",
         "url": "https://open.spotify.com/album/2pSI826dRU8Gb5NH7UxSxN"
       },
@@ -2155,18 +2171,18 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7"
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
       "artists": [
         {
-          "name": "Lakecia Benjamin",
-          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 300573,
-      "name": "New Mornings",
-      "url": "https://open.spotify.com/track/3QDM1qBd5dp8iJlbfeJvuD"
+      "duration_ms": 241395,
+      "name": "Higher Self",
+      "url": "https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2191,18 +2207,22 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+        "name": "Don't Bring Me Down",
+        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "The Heavyweights Brass Band",
+          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
+        },
+        {
+          "name": "Ogguere",
+          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
         }
       ],
-      "duration_ms": 241395,
-      "name": "Higher Self",
-      "url": "https://open.spotify.com/track/7IMH2ITlILmprZFaHrUbVt"
+      "duration_ms": 176600,
+      "name": "Nueva Orleans",
+      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2223,22 +2243,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Diagnosis",
-        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
-      },
-      "artists": [
-        {
-          "name": "Sen Morimoto",
-          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "If the Answer Isn't Love",
-      "url": "https://open.spotify.com/track/4yJ1Q6up6HjWxT42p7w6fv"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "Revealer (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1"
       },
@@ -2255,22 +2259,18 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Don't Bring Me Down",
-        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
+        "name": "Diagnosis",
+        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
       },
       "artists": [
         {
-          "name": "The Heavyweights Brass Band",
-          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
-        },
-        {
-          "name": "Ogguere",
-          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
         }
       ],
-      "duration_ms": 176600,
-      "name": "Nueva Orleans",
-      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
+      "duration_ms": 171800,
+      "name": "If the Answer Isn't Love",
+      "url": "https://open.spotify.com/track/4yJ1Q6up6HjWxT42p7w6fv"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2307,18 +2307,18 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "HaricoT VerT (Radio Edit)",
-        "url": "https://open.spotify.com/album/4JaprUth0bRNOf6A48E0iA"
+        "name": "Hermetism (Commentary Version)",
+        "url": "https://open.spotify.com/album/4H1Ch0zFiUQcxcwu9ARMzX"
       },
       "artists": [
         {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
         }
       ],
-      "duration_ms": 182000,
-      "name": "HaricoT VerT",
-      "url": "https://open.spotify.com/track/2XQ1smWrmlLwKxmQfl1NP2"
+      "duration_ms": 354709,
+      "name": "Paris s'enflamme",
+      "url": "https://open.spotify.com/track/6GC9FilEe08p7LgwtXgO24"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Hermetism (Commentary Version)",
-        "url": "https://open.spotify.com/album/4H1Ch0zFiUQcxcwu9ARMzX"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 354709,
-      "name": "Paris s'enflamme",
-      "url": "https://open.spotify.com/track/6GC9FilEe08p7LgwtXgO24"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "Ma d\u00e9lire - Songs of love, lost & found",
         "url": "https://open.spotify.com/album/71hMv08jX4qp96OFiCyyWd"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 255880,
       "name": "Go Away From My Window",
       "url": "https://open.spotify.com/track/6ZE66j7R0MujkfdDllrIRO"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "HaricoT VerT (Radio Edit)",
+        "url": "https://open.spotify.com/album/4JaprUth0bRNOf6A48E0iA"
+      },
+      "artists": [
+        {
+          "name": "Jowee Omicil",
+          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "HaricoT VerT",
+      "url": "https://open.spotify.com/track/2XQ1smWrmlLwKxmQfl1NP2"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2683,22 +2683,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "CHANTE'S GROOVE",
-        "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 230649,
-      "name": "HANGING WITH YOU",
-      "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "Refract",
         "url": "https://open.spotify.com/album/5AI0KCzgLqhLxjRSF3ZhJW"
       },
@@ -2719,6 +2703,22 @@
       "duration_ms": 251153,
       "name": "Inward, Curve",
       "url": "https://open.spotify.com/track/5bMpTLFznBHWKFf5e9vFMt"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "CHANTE'S GROOVE",
+        "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 230649,
+      "name": "HANGING WITH YOU",
+      "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -2967,6 +2967,22 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
+        "name": "Terminal 9",
+        "url": "https://open.spotify.com/album/3bh4xSMdaaTKUL5Fcg9Bil"
+      },
+      "artists": [
+        {
+          "name": "The Fleeting Light of Love and Grief",
+          "url": "https://open.spotify.com/artist/79LTfQQ6Xu3hGya3PQltze"
+        }
+      ],
+      "duration_ms": 209157,
+      "name": "Terminal 9",
+      "url": "https://open.spotify.com/track/2RJByShgnBWfOVARqnyE35"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
         "name": "Act Three",
         "url": "https://open.spotify.com/album/4aX6rbXVRgSRZ8HSSukADD"
       },
@@ -2979,22 +2995,6 @@
       "duration_ms": 176074,
       "name": "Sonata",
       "url": "https://open.spotify.com/track/6Bz9i3Tgz78aXjls3EnX1O"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Steppin' Out!",
-        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
-      },
-      "artists": [
-        {
-          "name": "Mariel Bildsten",
-          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
-        }
-      ],
-      "duration_ms": 171824,
-      "name": "Downtown Uproar",
-      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -3031,6 +3031,22 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
+        "name": "Steppin' Out!",
+        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
+      },
+      "artists": [
+        {
+          "name": "Mariel Bildsten",
+          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
+        }
+      ],
+      "duration_ms": 171824,
+      "name": "Downtown Uproar",
+      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
         "name": "Love Will Be Reborn (Deluxe)",
         "url": "https://open.spotify.com/album/27vXJV6El2FMUGMGeRWTHp"
       },
@@ -3043,54 +3059,6 @@
       "duration_ms": 260560,
       "name": "Love Will Be Reborn",
       "url": "https://open.spotify.com/track/0QRJoHPfeELqE6sceqDobG"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Motewolonuwok",
-        "url": "https://open.spotify.com/album/5evC3RTGfXXhUekGgGSWuD"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Dutcher",
-          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
-        }
-      ],
-      "duration_ms": 222215,
-      "name": "Pomawsuwinuwok Wonakiyawolotuwok",
-      "url": "https://open.spotify.com/track/54RrPwnNwGk3XCIhPswkqo"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Walking Man",
-        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
-      },
-      "artists": [
-        {
-          "name": "YAMA//SATO",
-          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
-        }
-      ],
-      "duration_ms": 184620,
-      "name": "Walking Man",
-      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Parfum no.1",
-        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
-      },
-      "artists": [
-        {
-          "name": "Jacques Kuba Seguin",
-          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
-        }
-      ],
-      "duration_ms": 444706,
-      "name": "Promesse de souvenirs",
-      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -3111,6 +3079,74 @@
       "duration_ms": 376720,
       "name": "Ilanga Selishonile",
       "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "Parfum no.1",
+        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
+      },
+      "artists": [
+        {
+          "name": "Jacques Kuba Seguin",
+          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
+        }
+      ],
+      "duration_ms": 444706,
+      "name": "Promesse de souvenirs",
+      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "Walking Man",
+        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
+      },
+      "artists": [
+        {
+          "name": "YAMA//SATO",
+          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "Walking Man",
+      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "Motewolonuwok",
+        "url": "https://open.spotify.com/album/5evC3RTGfXXhUekGgGSWuD"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "duration_ms": 222215,
+      "name": "Pomawsuwinuwok Wonakiyawolotuwok",
+      "url": "https://open.spotify.com/track/54RrPwnNwGk3XCIhPswkqo"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "Gaz bar blues (Bande originale du film)",
+        "url": "https://open.spotify.com/album/14LnKoa1vVnUTSZCOSrsJS"
+      },
+      "artists": [
+        {
+          "name": "Guy B\u00e9langer",
+          "url": "https://open.spotify.com/artist/4AHd09tY5cKWoCpAVp0sHV"
+        },
+        {
+          "name": "Claude Fradette",
+          "url": "https://open.spotify.com/artist/1lbsueiuSXIxIygFLgkBnG"
+        }
+      ],
+      "duration_ms": 190573,
+      "name": "Sad Hours",
+      "url": "https://open.spotify.com/track/3fh33AHxRc8XcpSL3Tjea4"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -3139,6 +3175,38 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
+        "name": "Rez-de-chauss\u00e9e",
+        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
+      },
+      "artists": [
+        {
+          "name": "Greenhouse Ensemble",
+          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
+        }
+      ],
+      "duration_ms": 340002,
+      "name": "Beyond Me",
+      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barry Band",
+          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "Tired of Crying",
+      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
         "name": "When Is Ancient?",
         "url": "https://open.spotify.com/album/0x9bYUWfnORI1D42LdND94"
       },
@@ -3163,54 +3231,58 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/126VBRneAtKHVcgZCEPPvx"
       },
       "artists": [
         {
-          "name": "Stephen Barry Band",
-          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Tired of Crying",
-      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Gaz bar blues (Bande originale du film)",
-        "url": "https://open.spotify.com/album/14LnKoa1vVnUTSZCOSrsJS"
-      },
-      "artists": [
-        {
-          "name": "Guy B\u00e9langer",
-          "url": "https://open.spotify.com/artist/4AHd09tY5cKWoCpAVp0sHV"
+          "name": "Medicine Singers",
+          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
         },
         {
-          "name": "Claude Fradette",
-          "url": "https://open.spotify.com/artist/1lbsueiuSXIxIygFLgkBnG"
+          "name": "Jaimie Branch",
+          "url": "https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5"
         }
       ],
-      "duration_ms": 190573,
-      "name": "Sad Hours",
-      "url": "https://open.spotify.com/track/3fh33AHxRc8XcpSL3Tjea4"
+      "duration_ms": 378348,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6HuYUdj1H7tKm9l1xQClmR"
     },
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Rez-de-chauss\u00e9e",
-        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
+        "name": "FREEDOM FIRST",
+        "url": "https://open.spotify.com/album/47GbM3pAl1FCG2m8N5Cdkm"
       },
       "artists": [
         {
-          "name": "Greenhouse Ensemble",
-          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
+          "name": "Keith LaMar",
+          "url": "https://open.spotify.com/artist/6Oarfezg0RsQVzvEE8XmMy"
+        },
+        {
+          "name": "Albert Marqu\u00e8s",
+          "url": "https://open.spotify.com/artist/5tXmoyBqADc5z5k9U4rcqN"
+        },
+        {
+          "name": "Erin Corine",
+          "url": "https://open.spotify.com/artist/0yxsyE6xoFOUzaaYRVg6dX"
+        },
+        {
+          "name": "Milena Casado",
+          "url": "https://open.spotify.com/artist/6i3BwCBGwY56yDLDoNlbyD"
+        },
+        {
+          "name": "Manel Fortia",
+          "url": "https://open.spotify.com/artist/1FS2OIXODWm5j6eTdfu6Nf"
+        },
+        {
+          "name": "Marc Ayza",
+          "url": "https://open.spotify.com/artist/7w2mWN2V8dLyjlFW1KKeYJ"
         }
       ],
-      "duration_ms": 340002,
-      "name": "Beyond Me",
-      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
+      "duration_ms": 498899,
+      "name": "On Living",
+      "url": "https://open.spotify.com/track/4OdBllSXPo0MwPxMv94W5T"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -3227,22 +3299,6 @@
       "duration_ms": 266900,
       "name": "Austerity",
       "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Terminal 9",
-        "url": "https://open.spotify.com/album/3bh4xSMdaaTKUL5Fcg9Bil"
-      },
-      "artists": [
-        {
-          "name": "The Fleeting Light of Love and Grief",
-          "url": "https://open.spotify.com/artist/79LTfQQ6Xu3hGya3PQltze"
-        }
-      ],
-      "duration_ms": 209157,
-      "name": "Terminal 9",
-      "url": "https://open.spotify.com/track/2RJByShgnBWfOVARqnyE35"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -3295,62 +3351,6 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "FREEDOM FIRST",
-        "url": "https://open.spotify.com/album/47GbM3pAl1FCG2m8N5Cdkm"
-      },
-      "artists": [
-        {
-          "name": "Keith LaMar",
-          "url": "https://open.spotify.com/artist/6Oarfezg0RsQVzvEE8XmMy"
-        },
-        {
-          "name": "Albert Marqu\u00e8s",
-          "url": "https://open.spotify.com/artist/5tXmoyBqADc5z5k9U4rcqN"
-        },
-        {
-          "name": "Erin Corine",
-          "url": "https://open.spotify.com/artist/0yxsyE6xoFOUzaaYRVg6dX"
-        },
-        {
-          "name": "Milena Casado",
-          "url": "https://open.spotify.com/artist/6i3BwCBGwY56yDLDoNlbyD"
-        },
-        {
-          "name": "Manel Fortia",
-          "url": "https://open.spotify.com/artist/1FS2OIXODWm5j6eTdfu6Nf"
-        },
-        {
-          "name": "Marc Ayza",
-          "url": "https://open.spotify.com/artist/7w2mWN2V8dLyjlFW1KKeYJ"
-        }
-      ],
-      "duration_ms": 498899,
-      "name": "On Living",
-      "url": "https://open.spotify.com/track/4OdBllSXPo0MwPxMv94W5T"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/126VBRneAtKHVcgZCEPPvx"
-      },
-      "artists": [
-        {
-          "name": "Medicine Singers",
-          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
-        },
-        {
-          "name": "Jaimie Branch",
-          "url": "https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5"
-        }
-      ],
-      "duration_ms": 378348,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6HuYUdj1H7tKm9l1xQClmR"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
         "name": "Take 3",
         "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
       },
@@ -3363,22 +3363,6 @@
       "duration_ms": 212960,
       "name": "The Head Hunter's Dream",
       "url": "https://open.spotify.com/track/6yYIdQRZuDL7wfXjKH00yq"
-    },
-    {
-      "added_at": "2024-05-29 22:02:59",
-      "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
-        {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-05-29 22:02:59",
@@ -3403,6 +3387,22 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
+        "name": "Alzar la voz sin reclamar",
+        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
+      },
+      "artists": [
+        {
+          "name": "Papish",
+          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
+        }
+      ],
+      "duration_ms": 179464,
+      "name": "Alzar la voz sin reclamar",
+      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
+    },
+    {
+      "added_at": "2024-05-29 22:02:59",
+      "album": {
         "name": "Nou La",
         "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
       },
@@ -3419,18 +3419,18 @@
     {
       "added_at": "2024-05-29 22:02:59",
       "album": {
-        "name": "Alzar la voz sin reclamar",
-        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
       },
       "artists": [
         {
-          "name": "Papish",
-          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
         }
       ],
-      "duration_ms": 179464,
-      "name": "Alzar la voz sin reclamar",
-      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-05-29 22:02:59",

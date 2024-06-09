@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAWkBt13BqKjxw6ZYi6VoSu",
+  "snapshot_id": "AAAAAAAAAAC/1z0N8hTxZQgg8+EU/FwC",
   "tracks": [
     {
       "added_at": "2024-06-07 04:00:00",
@@ -119,50 +119,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "Kyivan Clouds",
+        "url": "https://open.spotify.com/album/68Bzzem57zx7bEoLgDR5hK"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Circa 54",
+          "url": "https://open.spotify.com/artist/7q2Ar9BEXkCDB52YWvTHTb"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
         }
       ],
-      "duration_ms": 230823,
-      "name": "Do 2 Me (feat. Anderson .Paak & SiR)",
-      "url": "https://open.spotify.com/track/5J75NvHDMTbJtLqym6CXuI"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "War Story",
-        "url": "https://open.spotify.com/album/4C7oXqnGPi6aDyhEGslzIx"
-      },
-      "artists": [
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Bub Styles",
-          "url": "https://open.spotify.com/artist/7B0U0z3LCFQdmXVpDkZDFU"
-        }
-      ],
-      "duration_ms": 252021,
-      "name": "Box Chevy 8",
-      "url": "https://open.spotify.com/track/0g5LQ3XQqQYxJiQzXSIRNh"
+      "duration_ms": 218000,
+      "name": "Kyivan Clouds",
+      "url": "https://open.spotify.com/track/7qvplgmAE2jWixibdMrVCo"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -183,26 +155,6 @@
       "duration_ms": 284456,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Kyivan Clouds",
-        "url": "https://open.spotify.com/album/68Bzzem57zx7bEoLgDR5hK"
-      },
-      "artists": [
-        {
-          "name": "Circa 54",
-          "url": "https://open.spotify.com/artist/7q2Ar9BEXkCDB52YWvTHTb"
-        },
-        {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Kyivan Clouds",
-      "url": "https://open.spotify.com/track/7qvplgmAE2jWixibdMrVCo"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -247,6 +199,30 @@
       "duration_ms": 274707,
       "name": "Cold Blues",
       "url": "https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 230823,
+      "name": "Do 2 Me (feat. Anderson .Paak & SiR)",
+      "url": "https://open.spotify.com/track/5J75NvHDMTbJtLqym6CXuI"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -299,6 +275,30 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "War Story",
+        "url": "https://open.spotify.com/album/4C7oXqnGPi6aDyhEGslzIx"
+      },
+      "artists": [
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Bub Styles",
+          "url": "https://open.spotify.com/artist/7B0U0z3LCFQdmXVpDkZDFU"
+        }
+      ],
+      "duration_ms": 252021,
+      "name": "Box Chevy 8",
+      "url": "https://open.spotify.com/track/0g5LQ3XQqQYxJiQzXSIRNh"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Del Oro",
         "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
       },
@@ -331,38 +331,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Mississippi Half-Step Uptown Toodeloo (Live at University of Nevada, Reno, NV, 5/12/74)",
-        "url": "https://open.spotify.com/album/6rtaawoZtYmEPI4IUrjGkT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 478471,
-      "name": "Mississippi Half-Step Uptown Toodeloo - Live at University of Nevada, Reno, NV, 5/12/74",
-      "url": "https://open.spotify.com/track/7vVfk9d94hKWjIKuyTxEHO"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Mid Spiral: Growth",
-        "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 333881,
-      "name": "Celestial Hands",
-      "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Talk Is Cheap",
         "url": "https://open.spotify.com/album/6CU3JMOQpcV38Wi2ajZZZE"
       },
@@ -383,6 +351,22 @@
       "duration_ms": 112546,
       "name": "Talk Is Cheap",
       "url": "https://open.spotify.com/track/5VoKHZaGCkkbnSvwM0plA9"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Mid Spiral: Growth",
+        "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 333881,
+      "name": "Celestial Hands",
+      "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -503,22 +487,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Burn for You (Extended Remix)",
-        "url": "https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 368240,
-      "name": "Burn for You - Extended Remix",
-      "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "wasted time re-mix",
         "url": "https://open.spotify.com/album/67EFBkdaaq4kJ9gUUYgRXe"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 139468,
       "name": "wasted time re-mix",
       "url": "https://open.spotify.com/track/09vOW9W5lC9O7tQZ73YtR5"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Burn for You (Extended Remix)",
+        "url": "https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 368240,
+      "name": "Burn for You - Extended Remix",
+      "url": "https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -579,26 +563,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Atavista",
-        "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 334880,
-      "name": "Time (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -635,138 +599,6 @@
       "duration_ms": 186790,
       "name": "One Cry (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "where is your pride?",
-        "url": "https://open.spotify.com/album/7cB7OeVAjXnDlNFzSP1lIl"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Benjamin Zephaniah",
-          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "where is your pride?",
-      "url": "https://open.spotify.com/track/4oeUEps9lJueoPlVDwTwFq"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "HE KNOWS (feat. Lil Nas X)",
-        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "HE KNOWS (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "My Year",
-        "url": "https://open.spotify.com/album/0Gt6nUt5yUD3I92B94tlAX"
-      },
-      "artists": [
-        {
-          "name": "Da Beatminerz",
-          "url": "https://open.spotify.com/artist/02AnZfp6mEFw5LprUPv8SD"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        },
-        {
-          "name": "Rasheed Chappell",
-          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
-        },
-        {
-          "name": "Corey Glover",
-          "url": "https://open.spotify.com/artist/1q43UYqmrt3prvsBUfuRdr"
-        }
-      ],
-      "duration_ms": 288603,
-      "name": "My Year",
-      "url": "https://open.spotify.com/track/11V0MfxII1ZmRatxtz0OyD"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Slant Face Killah",
-        "url": "https://open.spotify.com/album/0yWMIfdeeQntE7kssx1BwZ"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 295145,
-      "name": "Raw!",
-      "url": "https://open.spotify.com/track/5CLmYVbQ5KVYJlssmWFnzT"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Slant Face Killah",
-        "url": "https://open.spotify.com/album/2If4aVsZl3y3bzPT4lcvPh"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 416504,
-      "name": "The Red Moon In Osaka",
-      "url": "https://open.spotify.com/track/0q2wkUkaCy9tM9QzPVt97f"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Tales from the Loop (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/3n4efY5eK4rqFgcnMeV9OO"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Paul Leonard-Morgan",
-          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
-        }
-      ],
-      "duration_ms": 150662,
-      "name": "Walk to School",
-      "url": "https://open.spotify.com/track/1ONCLg6E9KVWkIovF1QYNU"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

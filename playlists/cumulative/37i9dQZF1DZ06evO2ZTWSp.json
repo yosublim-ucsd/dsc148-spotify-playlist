@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 222800,
       "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
       "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 218476,
       "name": "About Damn Time - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 236467,
       "name": "Ain't I",
       "url": "https://open.spotify.com/track/0uaeowtteE1XHrrC79oTfT"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 133058,
       "name": "Better in Color",
       "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 194751,
       "name": "Deep",
       "url": "https://open.spotify.com/track/7G4zqUWXpbRDc5ian2oos8"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 148490,
       "name": "I Love You Bitch",
       "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 191659,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN"
@@ -886,6 +886,24 @@
       "duration_ms": 226442,
       "name": "New Eyes (feat. Lizzo)",
       "url": "https://open.spotify.com/track/6xyJHp3nAJGOc2Xy7ACsg1"
+    },
+    {
+      "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191364,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/1criDzaWgUFbgT69WoqjjX"
     },
     {
       "album": {

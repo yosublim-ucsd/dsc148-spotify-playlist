@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-256 songs - 20 hr 51 min
+257 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Feels Like](https://open.spotify.com/track/0toIIfv4yFxvmJKXqdkt0c) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Les Geddit](https://open.spotify.com/artist/42EKMIU9LxY94lUTBDLW4e) | [Beats On Boat: illiterate](https://open.spotify.com/album/54oaiRZEeMNtZvOhYIIG20) | 2:52 | 2021-12-17 | 2022-04-27 |
 | [Flightmode On](https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 5:39 | 2021-12-17 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2022-06-02 |  |
-| [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 | 2024-04-19 |  |
+| [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 | 2024-04-19 | 2024-06-09 |
 | [Forgiveness](https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [AOC Records](https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy) | [Forgiveness](https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV) | 4:49 | 2024-04-19 |  |
 | [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 | 2024-04-19 | 2024-04-20 |
 | [Fry](https://open.spotify.com/track/08revyYzwNRYYkGSd2yhG5) | [Qnete](https://open.spotify.com/artist/6eHZuPnEu4u6l0pgV4yCEG) | [Fry](https://open.spotify.com/album/694VDVMaHPsH7BoGEIE1F4) | 2:26 | 2021-12-17 | 2022-07-26 |
@@ -129,6 +129,7 @@
 | [Kindness](https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar), [Nephews](https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ) | [LTDBLBL008](https://open.spotify.com/album/3qPngaI3gHhdep7JeGVEsY) | 6:36 | 2021-12-17 | 2022-10-21 |
 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 | 2021-12-17 |  |
 | [Kokiri Forest](https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Mind's Eye](https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1) | 6:21 | 2021-12-17 |  |
+| [Lies \- DJ Ross' Friendly Remix](https://open.spotify.com/track/5EH8ZhirwYoNHfDjQNXHC0) | [Temptress](https://open.spotify.com/artist/5I39KEsxUpLOVrWe1IYToI), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Lies \(DJ Ross' Friendly Remix\)](https://open.spotify.com/album/7H9Lis82mKKJGhRuFG9S1R) | 7:18 | 2024-05-10 |  |
 | [Locked in](https://open.spotify.com/track/0ES9JKpTteqkukxy1EAk44) | [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u) | [Forcefield](https://open.spotify.com/album/1g2xaqdp2BU3iM3mN7F0zT) | 6:36 | 2022-03-25 | 2022-04-20 |
 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 | 2021-12-17 |  |
 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 | 2022-04-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Marca MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,613 likes - 180 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,624 likes - 180 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 4 | [Gracias Mamá](https://open.spotify.com/track/78TCeV0u59L7eu3Ov8yhmw) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Trascendental](https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR) | 3:04 |
 | 5 | [Tatúe tu Corazón](https://open.spotify.com/track/1DjwxrkhGOuMmHANRblC03) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Trascendental](https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR) | 2:31 |
 | 6 | [Noche Bonita](https://open.spotify.com/track/2113pITEeRvo9nxyk9WiVB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Trascendental](https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR) | 3:34 |
-| 7 | [Costumbres](https://open.spotify.com/track/0jcWhiZcafq3B9g7vGJisC) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 4:13 |
-| 8 | [Un Adios](https://open.spotify.com/track/7MlrXsIDAC7T5GpJlhFUN3) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 3:04 |
-| 9 | [Tomame O Dejame](https://open.spotify.com/track/6JOVkk6CNRIVt0AaEkaaVn) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 2:54 |
+| 7 | [Costumbres](https://open.spotify.com/track/0jcWhiZcafq3B9g7vGJisC) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología, Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 4:13 |
+| 8 | [Un Adios](https://open.spotify.com/track/7MlrXsIDAC7T5GpJlhFUN3) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología, Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 3:04 |
+| 9 | [Tomame O Dejame](https://open.spotify.com/track/6JOVkk6CNRIVt0AaEkaaVn) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Antología, Vol\. 2](https://open.spotify.com/album/6rA4mZD64iHpO8IJ2ir5gM) | 2:54 |
 | 10 | [LAS FRESITAS](https://open.spotify.com/track/6RXtrclw0jZohPXITi5jio) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8) | [HAPPY BOYS](https://open.spotify.com/album/2raXBwphTkf6FRg4Vv0R8p) | 2:39 |
 | 11 | [COMO RAMBO](https://open.spotify.com/track/6lRIFRwMhQA8nXDoJTt6C1) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8) | [HAPPY BOYS](https://open.spotify.com/album/2raXBwphTkf6FRg4Vv0R8p) | 2:31 |
 | 12 | [TORTA POWER](https://open.spotify.com/track/2aaSMrblJZrLWH8MWvePN2) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8) | [HAPPY BOYS](https://open.spotify.com/album/2raXBwphTkf6FRg4Vv0R8p) | 2:46 |

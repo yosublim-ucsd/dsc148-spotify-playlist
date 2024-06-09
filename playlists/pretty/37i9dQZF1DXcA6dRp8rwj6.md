@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: OG BOBBY, Mega Perk\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,481 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,493 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 30 | [What For](https://open.spotify.com/track/1niSmXAqAJ5i7TX7kkui6k) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Jaswed](https://open.spotify.com/artist/715OWN4ZsuFHrgWEhUeCIS), [PLR](https://open.spotify.com/artist/0Q3pMsABEP19xGAUZ1WZuY) | [What For](https://open.spotify.com/album/6Kttw6LqYvkbao4VIjp8dA) | 2:11 |
 | 31 | [Pesona](https://open.spotify.com/track/2K7cU8llRvTv2dQEsLuW09) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Pesona](https://open.spotify.com/album/1p91c9Dj2Ub969VBQlIhrK) | 3:23 |
 | 32 | [陀螺 feat\. Gummy B](https://open.spotify.com/track/0AUqYLU3mAWP5xo6BcUJzY) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [PiNkChAiN紅粉鍊人](https://open.spotify.com/artist/57wojBlkVnzNOmOJZ6jKiw), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [王品流 Freestyle](https://open.spotify.com/album/5VeHWVz8TPoNMKUJhYmpyR) | 6:25 |
-| 33 | [懶球得處（越來越）](https://open.spotify.com/track/4ByIa5dl8qQ55b53fVLYMw) | [猴子lámpo](https://open.spotify.com/artist/46W41mwc8RfcIO7La1RPp1) | [懶球得處（越來越）](https://open.spotify.com/album/45cNqPcHBXq0XA4c2Ufu8M) | 2:47 |
+| 33 | [懶球得處（越來越）](https://open.spotify.com/track/4ByIa5dl8qQ55b53fVLYMw) | [猴子lámpo](https://open.spotify.com/artist/0vfsoVnBQOYG7V3K8Z3jYB) | [懶球得處（越來越）](https://open.spotify.com/album/45cNqPcHBXq0XA4c2Ufu8M) | 2:47 |
 | 34 | [SIDE EFFExT \(feat\. Lil Yachty\)](https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 3:42 |
 | 35 | [Fight For Love](https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Fight For Love](https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1) | 2:56 |
 | 36 | [Drug Tzar](https://open.spotify.com/track/01N3UDXUKUP6e2It26WAak) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Drug Tzar](https://open.spotify.com/album/23qmMpltFrD8EN1jgeZw2v) | 3:00 |

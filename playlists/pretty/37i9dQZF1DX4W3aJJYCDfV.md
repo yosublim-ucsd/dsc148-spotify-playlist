@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from RAYE \(pictured\), Charli XCX, Sabrina Carpenter and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,270 likes - 117 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,362 likes - 117 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 40 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 |
 | 41 | [Step](https://open.spotify.com/track/5xewKfFWqzScyAexsi72SE) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Step](https://open.spotify.com/album/2ZgwNJaq7UwUnNlCjJ3wuu) | 4:01 |
 | 42 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
-| 43 | [Friends \(feat\. Kah\-Lo\)](https://open.spotify.com/track/281msnqvknsXwGvEzrrDd5) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Friends \(feat\. Kah\-Lo\)](https://open.spotify.com/album/1dHV230S6HuUq6jLe7Lwl2) | 2:39 |
+| 43 | [Friends](https://open.spotify.com/track/281msnqvknsXwGvEzrrDd5) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Friends](https://open.spotify.com/album/1dHV230S6HuUq6jLe7Lwl2) | 2:39 |
 | 44 | [Hate Being Alone](https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 3:05 |
 | 45 | [Feels](https://open.spotify.com/track/1akSDgOrWqGhHy4ZWIM4nd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [Feels](https://open.spotify.com/album/7c9ijsXzppdoXA8OEdDA2k) | 3:03 |
 | 46 | [Not That Deep](https://open.spotify.com/track/1TrR6Lje004Yhdb4lBbbHk) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Not That Deep](https://open.spotify.com/album/07nrGRtcrHn9K2t3VCWyfz) | 2:20 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 49 | [Darling \- feat\. Libianca](https://open.spotify.com/track/4GFft8EPqOryJwqBdILFh0) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Darling \(feat\. Libianca\)](https://open.spotify.com/album/1jJvmrLChXeskjZc0rjs6c) | 2:21 |
 | 50 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
 | 51 | [007](https://open.spotify.com/track/0irziQosR3DwRbtFzjxfQF) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [007](https://open.spotify.com/album/3xS78i8CCZo9ei9eomNjeU) | 2:45 |
-| 52 | [Firetime](https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Rudeboy Design](https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz) | 3:19 |
+| 52 | [Firetime](https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Rudeboy Design Soundtape](https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz) | 3:19 |
 | 53 | [I.Y.D.K](https://open.spotify.com/track/3oDLvbyBW8obex0e3IlWGT) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [SHAYE](https://open.spotify.com/artist/5bPXhWvQooHOtG2BpoK6Da) | [I.Y.D.K](https://open.spotify.com/album/6ZQoPxyj0e0Qw7GxBslK4G) | 2:34 |
 | 54 | [You’re So Impatient](https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [You're So Impatient](https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X) | 2:08 |
 | 55 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 |

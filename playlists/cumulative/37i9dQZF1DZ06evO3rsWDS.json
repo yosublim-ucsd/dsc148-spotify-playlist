@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This Is Chiquis. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "description": "This Is Chiquis. Los temas esenciales, todos en una lista.",
   "name": "This Is Chiquis",
   "tracks": [
     {
@@ -506,6 +506,24 @@
       "duration_ms": 205840,
       "name": "Feliz de la vida",
       "url": "https://open.spotify.com/track/1hR8dT8YKiUP8gM9XbUa3F"
+    },
+    {
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "FUERTE",
+      "url": "https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN"
     },
     {
       "album": {
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 199746,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"

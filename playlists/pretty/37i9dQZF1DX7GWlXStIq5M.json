@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Pedro Sampaio \u2764\ufe0f Henrique",
-  "num_followers": 371292,
+  "num_followers": 371288,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
       "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
+      "duration_ms": 136037,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -551,22 +555,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "PRISCILLA",
-        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
       },
       "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 136037,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
-        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 155605,
-      "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
-      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "C\u00e9u Ros\u00e9",
         "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 164237,
       "name": "C\u00e9u Ros\u00e9",
       "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
+        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 155605,
+      "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
+      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "10 Minutos",
+      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Para De Dizer Que N\u00e3o Me Ama (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "10 Minutos",
-      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/3SSjCIMccH0zOtznuS3hyU"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 149302,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/3O4HxUk3JbhY0nut3RFjaF"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -927,22 +943,6 @@
       "duration_ms": 126000,
       "name": "Chapei",
       "url": "https://open.spotify.com/track/1hAtlSwwF45JtIBsDEli9X"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Te Procurei",
-        "url": "https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 161903,
-      "name": "Te Procurei",
-      "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Desculpa por Eu N\u00e3o Te Amar",
         "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186188,
       "name": "Desculpa por Eu N\u00e3o Te Amar",
       "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Te Procurei",
+        "url": "https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 161903,
+      "name": "Te Procurei",
+      "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "AGRIDOCE (PARTE 1)",
-        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "AGRIDOCE",
-      "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Sad Baile",
-        "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
       },
       "artists": [
         {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
         }
       ],
-      "duration_ms": 170614,
-      "name": "Sad Baile",
-      "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+      "duration_ms": 226000,
+      "name": "AGRIDOCE",
+      "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 129103,
       "name": "$UGAR DADDY",
       "url": "https://open.spotify.com/track/0mM985iWVInaVdYR0JzORR"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Sad Baile",
+        "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 170614,
+      "name": "Sad Baile",
+      "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Vai Vai Vai",
+        "url": "https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "Vai Vai Vai",
+      "url": "https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Sonhei com voc\u00ea / Me Amarro Nela",
         "url": "https://open.spotify.com/album/5jtqUMEDYPccKAPINHCm2o"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 127058,
       "name": "Espetacular",
       "url": "https://open.spotify.com/track/3XWnVWfwfb0IszI3X4CZrG"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Vai Vai Vai",
-        "url": "https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk"
-      },
-      "artists": [
-        {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "Vai Vai Vai",
-      "url": "https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Calor Dobrado",
-        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Calor Dobrado",
-      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Sem Drama",
         "url": "https://open.spotify.com/album/7u7PfUGWTzDdG8FuPj2BtI"
       },
@@ -1523,22 +1499,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Patipapa",
-        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Patipapa",
-      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "O Que Tem Por Vir",
         "url": "https://open.spotify.com/album/2mun0ycL4YeFEmdkmsOWGC"
       },
@@ -1559,6 +1519,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Patipapa",
+        "url": "https://open.spotify.com/album/7vy2f8OwWWBA4DKZkox2u5"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Patipapa",
+      "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/3GvbxHizeLdikCDuDJ29LB"
       },
@@ -1575,6 +1551,30 @@
       "duration_ms": 131076,
       "name": "Boom",
       "url": "https://open.spotify.com/track/42A4y8cnvDMh18i22aXQH7"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Calor Dobrado",
+        "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Calor Dobrado",
+      "url": "https://open.spotify.com/track/3xzAK3eh6npZsoCybDtKXh"
     },
     {
       "added_at": "2024-06-07 03:00:00",

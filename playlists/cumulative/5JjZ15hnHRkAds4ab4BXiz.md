@@ -4,7 +4,7 @@
 
 > 
 
-326 songs - 20 hr 30 min
+327 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 | 2024-04-09 |  |
 | [Dream \(Bonus Track\)](https://open.spotify.com/track/1rZjND3XQhSDIrGi78aWmZ) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:49 | 2024-05-22 |  |
 | [Drive](https://open.spotify.com/track/0lrYqe4ICHQEEn0K4eQ7d9) | [Kolektivo](https://open.spotify.com/artist/49KPk2yG5dFFH0Tnmob13T) | [Drive](https://open.spotify.com/album/2C0TUEdw7XJyNGcbO9Y4wZ) | 2:04 | 2024-01-18 |  |
+| [Echoes](https://open.spotify.com/track/6VqKN2BTlhpNFAFAMdXgHp) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf) | 3:06 | 2024-06-09 |  |
 | [ecstacy \(super slowed\)](https://open.spotify.com/track/4piafr7YSZHYgPvH4n4NeE) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(super slowed\)](https://open.spotify.com/album/686pnMMAj8CBNLjwIIJR1a) | 2:16 | 2023-11-16 | 2024-01-24 |
 | [Electricityscape](https://open.spotify.com/track/0bZdpukYLaMgtR4LCUhTDp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:33 | 2024-04-19 |  |
 | [Endors Toi](https://open.spotify.com/track/0YuePEX4KyfLIPMdNLPwgQ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:06 | 2024-04-16 |  |

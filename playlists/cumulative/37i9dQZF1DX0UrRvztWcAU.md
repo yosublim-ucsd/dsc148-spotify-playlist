@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-580 songs - 1 day 8 hr 42 min
+581 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 | 2023-06-30 |  |
 | [Come On Eileen](https://open.spotify.com/track/5uzNa0SBGOe5pPnstWHMCt) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay \(Deluxe Edition\)](https://open.spotify.com/album/2t3JY6Pch53HxDu7sipMP7) | 4:33 | 2022-04-11 | 2022-04-20 |
 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 | 2022-07-08 | 2024-04-19 |
+| [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 | 2024-01-22 |  |
 | [Conversation \(feat\. Kojo Funds\)](https://open.spotify.com/track/59E7kJadiZbcYhek0tEU9s) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Conversation \(feat\. Kojo Funds\)](https://open.spotify.com/album/3mTlZY6YabgcidFPTdwCqj) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [Costa Rica](https://open.spotify.com/track/6iM9PebIqd6fiUlcxm4Fkp) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Costa Rica](https://open.spotify.com/album/7IfaW9AntTR2FnbKVGCx9T) | 3:08 | 2021-12-16 | 2022-07-12 |
 | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2023-02-10 |  |
@@ -315,7 +316,7 @@
 | [Lady](https://open.spotify.com/track/3K1vIE8FlvmEy2oCPLQ1UZ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lady](https://open.spotify.com/album/6d83Yypl0Vd8oJFeAMLlmP) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:50 | 2021-12-16 |  |
 | [Last Time Love](https://open.spotify.com/track/2aBVR2kHDFocniQ0T1DUcG) | [Fancy Cars](https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem), [Myah Marie](https://open.spotify.com/artist/2bhKoNWwiNLxvkd1ynM8pV) | [Last Time Love](https://open.spotify.com/album/3BR2OFMYl0UQShwHm6Jihj) | 3:18 | 2021-12-16 | 2022-07-28 |
-| [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2022-10-07 |  |
+| [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2022-10-07 | 2024-06-09 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-12-14 |  |
 | [Lessons In Love](https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family](https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n) | 4:06 | 2022-11-17 | 2022-12-06 |
 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/01qMOMudbkIHZS9BFPUGNk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt) | 2:52 | 2022-11-11 | 2022-11-13 |

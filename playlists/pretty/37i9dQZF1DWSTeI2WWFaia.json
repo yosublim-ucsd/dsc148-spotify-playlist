@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Rapsody",
-  "num_followers": 1592981,
+  "num_followers": 1592988,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,30 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1"
+      },
+      "artists": [
+        {
+          "name": "Grafh",
+          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 197519,
       "name": "I Love This Feeling",
       "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Fight For Love",
-        "url": "https://open.spotify.com/album/09rUxAJMutrAki1KQra5m1"
-      },
-      "artists": [
-        {
-          "name": "Grafh",
-          "url": "https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Fight For Love",
-      "url": "https://open.spotify.com/track/6Dq8TlPc2kJwZoh2q2zZeo"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -975,26 +975,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "REEKYOD",
-        "url": "https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy"
+        "name": "APT 6E",
+        "url": "https://open.spotify.com/album/3HDR2DFS1a5QbC1ZnGYiZF"
       },
       "artists": [
         {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+          "name": "Mike & Keys",
+          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
         }
       ],
-      "duration_ms": 156035,
-      "name": "REEKYOD",
-      "url": "https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a"
+      "duration_ms": 156626,
+      "name": "DOIN GREAT",
+      "url": "https://open.spotify.com/track/3uwTGCYleQp63OlweDUii0"
     }
   ],
   "unique_name": "Spilled Ink",

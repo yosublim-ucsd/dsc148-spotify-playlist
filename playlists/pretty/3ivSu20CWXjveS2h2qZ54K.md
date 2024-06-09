@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,500 likes - 181 songs - 9 hr 59 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,499 likes - 181 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 33 | [solo.mp3](https://open.spotify.com/track/53pE4qYAIGjzgwWxGNmGbs) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4) | [solo.mp3](https://open.spotify.com/album/1kgSFkFlzbN0lk2e0NvbzL) | 3:25 |
 | 34 | [Russian Roulette](https://open.spotify.com/track/7G7d7blGgIsV9EVXJNZHBn) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Russian Roulette](https://open.spotify.com/album/7AQUdi9nNpE4AAfRKxh11t) | 6:28 |
 | 35 | [GiNGA](https://open.spotify.com/track/30jS2pH1jqAIHNB5MUGXyh) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [$kyhook](https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE) | [GiNGA](https://open.spotify.com/album/7onrXtU0ycpBhY7GPfYEp8) | 2:17 |
-| 36 | [Ciudad En Ruinas](https://open.spotify.com/track/6bKbnlUikOPMTynGbVyEwH) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW), [Belatransa](https://open.spotify.com/artist/3LHA26A5brqorxjF95fh9n) | [Ciudad En Ruinas](https://open.spotify.com/album/5n5CGDOcUVaUkM6mR93VSG) | 3:47 |
+| 36 | [Ciudad En Ruinas](https://open.spotify.com/track/6bKbnlUikOPMTynGbVyEwH) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Ciudad En Ruinas](https://open.spotify.com/album/5n5CGDOcUVaUkM6mR93VSG) | 3:47 |
 | 37 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 |
 | 38 | [MENINAS](https://open.spotify.com/track/7FWDAj7Vi184Tr7dBkO9L8) | [GARCÍA Picasso](https://open.spotify.com/artist/7bmCrd2Hv5prpHeyTbGx0L), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [MENINAS](https://open.spotify.com/album/5o8navfogGMcSbZk2Azggt) | 3:03 |
 | 39 | [No me devuelvas la palabra](https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [No me devuelvas la palabra](https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl) | 3:03 |

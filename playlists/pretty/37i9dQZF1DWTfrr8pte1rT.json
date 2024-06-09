@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 327983,
+  "num_followers": 328030,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "JUMP OUT",
-        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "JUMP OUT",
-      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -2299,6 +2279,26 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
         "name": "Black Velvet",
         "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
       },
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "Muted Blue",
-        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Just Thought You Should Know",
-      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
         "name": "Eyes Wide Shut",
         "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
       },
@@ -2371,22 +2355,18 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
         }
       ],
-      "duration_ms": 201818,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
     },
     {
       "added_at": "2024-05-31 15:39:10",
@@ -2407,6 +2387,26 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
     },
     {
       "added_at": "2024-05-31 15:39:10",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
+        "name": "Dead Man Walking Pt. 1",
+        "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
+    },
+    {
+      "added_at": "2024-05-31 15:39:10",
+      "album": {
         "name": "Cheerleader",
         "url": "https://open.spotify.com/album/6P1n6t28uJ48tzyKUIsbel"
       },
@@ -2483,38 +2499,18 @@
     {
       "added_at": "2024-05-31 15:39:10",
       "album": {
-        "name": "Walk On Water (with Danni Carra)",
-        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
       "artists": [
         {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        },
-        {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 182844,
-      "name": "Walk On Water (with Danni Carra)",
-      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
-    },
-    {
-      "added_at": "2024-05-31 15:39:10",
-      "album": {
-        "name": "Dead Man Walking Pt. 1",
-        "url": "https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     }
   ],
   "unique_name": "Rocktronic",

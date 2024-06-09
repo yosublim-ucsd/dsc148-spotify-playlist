@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> & <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI</a> har den idag med <a href="spotify:track:5ehIhNQBMskl6sPE9Jf4TH">Eneste</a> den her fredag 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,105 likes - 106 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,121 likes - 106 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 48 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 |
 | 49 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 |
 | 50 | [Danser Med Mig Selv](https://open.spotify.com/track/6x0Iu3CvHoKwIHawx1gJsh) | [Ung Tjerkel](https://open.spotify.com/artist/11pJlu18D5f9CYjAGGTnz0), [Kaka](https://open.spotify.com/artist/1gZsxNKQOP0Bu2Obdx1YNR) | [Danser Med Mig Selv](https://open.spotify.com/album/5arcDXJwYqGE87vH9ZX46h) | 2:46 |
-| 51 | [Again](https://open.spotify.com/track/1D2GEgOj2GkPSL7Pvwgw32) | [Tarick](https://open.spotify.com/artist/5okfcG5ILSySJxqMiaRwmH), [CarlloYABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie) | [Again](https://open.spotify.com/album/4XYD1p7DzqSt1JfIsSjteg) | 3:30 |
+| 51 | [Again](https://open.spotify.com/track/1D2GEgOj2GkPSL7Pvwgw32) | [CarlloYABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie), [Tarick](https://open.spotify.com/artist/5okfcG5ILSySJxqMiaRwmH) | [Again](https://open.spotify.com/album/4XYD1p7DzqSt1JfIsSjteg) | 3:30 |
 | 52 | [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [FELIX SANDMAN](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 |
 | 53 | [N o C h i l l \- Slowed](https://open.spotify.com/track/7Ke91DIYYMKPBxX9Hh4JoC) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [N o C h i l l \(Slowed\)](https://open.spotify.com/album/06ULKFJSNvi7eo1VxGKtXn) | 4:37 |
 | 54 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 94 | [Hasta La Pasta](https://open.spotify.com/track/4lRRKICK1lU5tCpDXyjK4E) | [Victor Sebastian](https://open.spotify.com/artist/2X3K4sRZDJ32RQs9hvh36r) | [Hasta La Pasta](https://open.spotify.com/album/4mgai7J7U9aIXOcUWj5wpT) | 2:31 |
 | 95 | [Hiding](https://open.spotify.com/track/1LI8RWdVS2RWTn3GPPhVsA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Hiding](https://open.spotify.com/album/1oFiCEgZ9T89OZmnej5tjf) | 2:45 |
 | 96 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
-| 97 | [Talk To Me \- feat\. Joe Jury](https://open.spotify.com/track/1QRMbwGnFE8QehwXrmE6Il) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Talk To Me \(feat\. Joe Jury\)](https://open.spotify.com/album/3wXUzhH9bJkqgm0eUtIN0u) | 2:25 |
+| 97 | [Talk To Me \(feat\. Joe Jury\)](https://open.spotify.com/track/1QRMbwGnFE8QehwXrmE6Il) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Talk To Me \(feat\. Joe Jury\)](https://open.spotify.com/album/3wXUzhH9bJkqgm0eUtIN0u) | 2:25 |
 | 98 | [Envuelvo](https://open.spotify.com/track/0m9ML0rLL7F271W7N88TpQ) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Envuelvo](https://open.spotify.com/album/7wpD5WXiirCvjLJZV6jL2y) | 3:06 |
 | 99 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 |
 | 100 | [Heart Of Stone](https://open.spotify.com/track/6u8V24fE3mcLUFQC2cC4Ar) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Groove Crackers](https://open.spotify.com/artist/0a68MOyqyR7N3HopSFgAo8), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Heart Of Stone](https://open.spotify.com/album/56ou02QTlIKNWdnfj2iok7) | 2:08 |

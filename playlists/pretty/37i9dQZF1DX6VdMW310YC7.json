@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3888606,
+  "num_followers": 3888748,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -795,30 +795,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Flown",
-        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 235702,
-      "name": "Flown",
-      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Flown",
+        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 235702,
+      "name": "Flown",
+      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 250920,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Waiting For The Sun",
         "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 195250,
       "name": "Prism",
       "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
-      },
-      "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 229484,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 324590,
       "name": "Under The Surface",
       "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/2P0ApHEYZEpv1qa6hzI7bM"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 229484,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Lost In The Melody",
         "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 262221,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Beautiful Life (Madism Remix)",
         "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 175609,
       "name": "Beautiful Life - Madism Remix",
       "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 262221,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1491,6 +1507,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U"
       },
@@ -1507,22 +1539,6 @@
       "duration_ms": 297803,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1647,6 +1663,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Summer Love (Jan Blomqvist Remix)",
         "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
       },
@@ -1663,22 +1695,6 @@
       "duration_ms": 349400,
       "name": "Summer Love - Jan Blomqvist Remix",
       "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 199682,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1763,26 +1779,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Highest Love",
-        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
-        }
-      ],
-      "duration_ms": 297374,
-      "name": "Highest Love",
-      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/03JjqwDRiH4zqkIwyUTxKo"
       },
@@ -1803,18 +1799,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
+        "name": "Highest Love",
+        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
       "artists": [
         {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
         }
       ],
-      "duration_ms": 267860,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
+      "duration_ms": 297374,
+      "name": "Highest Love",
+      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1843,22 +1843,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Still (Love You)",
-        "url": "https://open.spotify.com/album/0o8G6etVVOtEovOR8QPUZQ"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
       },
       "artists": [
         {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        },
-        {
-          "name": "Jane Good",
-          "url": "https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         }
       ],
-      "duration_ms": 183384,
-      "name": "Still (Love You)",
-      "url": "https://open.spotify.com/track/3qVRAMZ0JdxLoeCKxM2nnQ"
+      "duration_ms": 267860,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1875,6 +1871,26 @@
       "duration_ms": 193562,
       "name": "Feel You In Love",
       "url": "https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Still (Love You)",
+        "url": "https://open.spotify.com/album/0o8G6etVVOtEovOR8QPUZQ"
+      },
+      "artists": [
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        },
+        {
+          "name": "Jane Good",
+          "url": "https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE"
+        }
+      ],
+      "duration_ms": 183384,
+      "name": "Still (Love You)",
+      "url": "https://open.spotify.com/track/3qVRAMZ0JdxLoeCKxM2nnQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1911,26 +1927,6 @@
       "duration_ms": 201866,
       "name": "iwaly",
       "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
-      },
-      "artists": [
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 341409,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
     },
     {
       "added_at": "2024-06-07 04:00:00",

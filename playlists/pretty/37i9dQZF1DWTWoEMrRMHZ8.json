@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Samuel Rosa",
-  "num_followers": 344141,
+  "num_followers": 344169,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "FICA",
-        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 206781,
-      "name": "FICA",
-      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Caravana Sair\u00e9",
         "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 240834,
       "name": "Lembran\u00e7a de um Beijo",
       "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "FICA",
+        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 206781,
+      "name": "FICA",
+      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Sangue Latino",
+        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Spindel",
+          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 187934,
+      "name": "Sangue Latino",
+      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -583,22 +603,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Sangue Latino",
-        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
       "artists": [
         {
-          "name": "Roberta Spindel",
-          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         },
         {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
         }
       ],
-      "duration_ms": 187934,
-      "name": "Sangue Latino",
-      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -631,26 +651,6 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -835,22 +835,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Depois Da Meia Noite",
-        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
+        "name": "Vaga-Lumes",
+        "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
         },
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
         }
       ],
-      "duration_ms": 189015,
-      "name": "Depois Da Meia Noite",
-      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
+      "duration_ms": 181226,
+      "name": "Vaga-Lumes",
+      "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Depois Da Meia Noite",
+        "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Depois Da Meia Noite",
+      "url": "https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "O Meu Guri (Ao Vivo)",
         "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 228933,
       "name": "O Meu Guri",
       "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Cheguei pra ficar",
-        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Cheguei pra ficar",
-      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -943,22 +943,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Vaga-Lumes",
-        "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
+        "name": "Cheguei pra ficar",
+        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
       },
       "artists": [
         {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
         },
         {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Vaga-Lumes",
-      "url": "https://open.spotify.com/track/4tmiDNIEre4ltERgyXkhBK"
+      "duration_ms": 150394,
+      "name": "Cheguei pra ficar",
+      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Esque\u00e7a Tudo",
-        "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        }
-      ],
-      "duration_ms": 189206,
-      "name": "Esque\u00e7a Tudo",
-      "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Mar dos desejos",
         "url": "https://open.spotify.com/album/7t0rgbtuvmEb8s4ep1gnHC"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 222101,
       "name": "Amanh\u00e3 talvez",
       "url": "https://open.spotify.com/track/3PncaZwjzGlIIP4x7U86vy"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Esque\u00e7a Tudo",
+        "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
+      },
+      "artists": [
+        {
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        }
+      ],
+      "duration_ms": 189206,
+      "name": "Esque\u00e7a Tudo",
+      "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Camangada",
-        "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
-      },
-      "artists": [
-        {
-          "name": "Marco Bosco",
-          "url": "https://open.spotify.com/artist/1NHVeuIJo4UwNIkerMOfUb"
-        },
-        {
-          "name": "Wilson Simoninha",
-          "url": "https://open.spotify.com/artist/2xhtX9ufvSwDbiH9VQ8pHr"
-        },
-        {
-          "name": "Luis Vagner",
-          "url": "https://open.spotify.com/artist/7yYHTVQiPAbf63Clu5tVmS"
-        }
-      ],
-      "duration_ms": 268322,
-      "name": "Camangada",
-      "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "ME SURPREENDA",
         "url": "https://open.spotify.com/album/74YffXxNm2i84YVvc5R4X4"
       },
@@ -1287,38 +1263,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Alcione 50 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH"
+        "name": "Camangada",
+        "url": "https://open.spotify.com/album/0jPHoKSXL5Dai0XXWi6ktU"
       },
       "artists": [
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 225119,
-      "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Mal Acostumada",
-        "url": "https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi"
-      },
-      "artists": [
-        {
-          "name": "Alexia Bomtempo",
-          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+          "name": "Marco Bosco",
+          "url": "https://open.spotify.com/artist/1NHVeuIJo4UwNIkerMOfUb"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "Wilson Simoninha",
+          "url": "https://open.spotify.com/artist/2xhtX9ufvSwDbiH9VQ8pHr"
+        },
+        {
+          "name": "Luis Vagner",
+          "url": "https://open.spotify.com/artist/7yYHTVQiPAbf63Clu5tVmS"
         }
       ],
-      "duration_ms": 270186,
-      "name": "Mal Acostumada",
-      "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
+      "duration_ms": 268322,
+      "name": "Camangada",
+      "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1351,6 +1315,42 @@
       "duration_ms": 155100,
       "name": "Apressa",
       "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Alcione 50 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 225119,
+      "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Mal Acostumada",
+        "url": "https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi"
+      },
+      "artists": [
+        {
+          "name": "Alexia Bomtempo",
+          "url": "https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Mal Acostumada",
+      "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
     }
   ],
   "unique_name": "Divina MPB",

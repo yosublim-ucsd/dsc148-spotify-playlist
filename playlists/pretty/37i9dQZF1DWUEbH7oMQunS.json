@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 61071,
+  "num_followers": 61074,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "The Grunewald Church Session",
+        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Selke",
+          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
+        },
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 418995,
+      "name": "Without Shelter",
+      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 237466,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "The Grunewald Church Session",
-        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Selke",
-          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
-        },
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 418995,
-      "name": "Without Shelter",
-      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
     },
     {
       "added_at": "2023-07-28 04:02:00",

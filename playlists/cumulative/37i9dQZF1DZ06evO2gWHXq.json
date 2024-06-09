@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
+  "description": "This is MC Davo. The essential tracks, all in one playlist.",
   "name": "This Is MC Davo",
   "tracks": [
     {
@@ -38,10 +38,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 201733,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
+    },
+    {
+      "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
     },
     {
       "album": {
@@ -460,7 +478,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 184346,
       "name": "Juegos de pasi\u00f3n",
       "url": "https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM"
@@ -478,7 +496,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 179120,
       "name": "La Historia De Un Olvido",
       "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 268124,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 174666,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5KimPWcMnaqwwghXAxfYRX"
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 225978,
       "name": "Vive La Vida",
       "url": "https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Lenny Kravitz. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 259896,
+  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
+  "num_followers": 259987,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAXHaCnq5Hqt9kH8O/1Lsi+",
+  "snapshot_id": "ZmJNgAAAAABbHbAH205hKZB0vbLtQGey",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 231666,
       "name": "Again",
       "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
     },
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/2Mr2fNS6Jz0dGUA7hR6lNR"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 211000,
       "name": "Human - Single Version",
       "url": "https://open.spotify.com/track/5cHjWKnwhdfj1z7pSJJ4uD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": null,
@@ -175,38 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get You Off My Mind",
-      "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lenny",
-        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Stillness Of Heart",
-      "url": "https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Electric Light",
         "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
       },
@@ -219,6 +187,22 @@
       "duration_ms": 230237,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": null,
@@ -255,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 310937,
+      "name": "Stuck in the Middle",
+      "url": "https://open.spotify.com/track/3KOUSBKibyAQo5LbIJh8pS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ghetto Lenny's Love Songs",
         "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF"
       },
@@ -271,22 +271,6 @@
       "duration_ms": 233249,
       "name": "Borders [Feat. Lenny Kravitz]",
       "url": "https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 310937,
-      "name": "Stuck in the Middle",
-      "url": "https://open.spotify.com/track/3KOUSBKibyAQo5LbIJh8pS"
     },
     {
       "added_at": null,
@@ -327,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "Calling All Angels",
-      "url": "https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Electric Light",
         "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
       },
@@ -359,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Is Time For A Love Revolution",
-        "url": "https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb"
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
       "artists": [
         {
@@ -368,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 259186,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM"
+      "duration_ms": 312173,
+      "name": "Calling All Angels",
+      "url": "https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x"
     },
     {
       "added_at": null,
@@ -391,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
       },
       "artists": [
         {
@@ -400,9 +368,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 161293,
-      "name": "Where Are We Runnin'?",
-      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": null,
@@ -423,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
       "artists": [
         {
@@ -432,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+      "duration_ms": 161293,
+      "name": "Where Are We Runnin'?",
+      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
       "duration_ms": 280293,
       "name": "We Can Get It All Together",
       "url": "https://open.spotify.com/track/4VCvcqaN8JZUtArycNezHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

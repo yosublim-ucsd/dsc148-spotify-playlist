@@ -1,6 +1,6 @@
 {
   "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
-  "num_followers": 87383,
+  "num_followers": 87385,
   "original_name": "Neo Tango",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Muchacha (ojos de papel)",
-        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
+        "name": "Revoluci\u00f3n Beat",
+        "url": "https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK"
       },
       "artists": [
         {
-          "name": "Spinettango",
-          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
+          "name": "La Bomba de Tiempo",
+          "url": "https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8"
         },
         {
-          "name": "Litto Nebbia",
-          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        },
+        {
+          "name": "Tanghetto",
+          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
         }
       ],
-      "duration_ms": 198944,
-      "name": "Muchacha (ojos de papel)",
-      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
+      "duration_ms": 234150,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -511,26 +515,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Revoluci\u00f3n Beat",
-        "url": "https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK"
+        "name": "Muchacha (ojos de papel)",
+        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
       },
       "artists": [
         {
-          "name": "La Bomba de Tiempo",
-          "url": "https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8"
+          "name": "Spinettango",
+          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
         },
         {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        },
-        {
-          "name": "Tanghetto",
-          "url": "https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC"
+          "name": "Litto Nebbia",
+          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
         }
       ],
-      "duration_ms": 234150,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD"
+      "duration_ms": 198944,
+      "name": "Muchacha (ojos de papel)",
+      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Electro Dub Tango",
-        "url": "https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ"
-      },
-      "artists": [
-        {
-          "name": "Electro Dub Tango",
-          "url": "https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "La Del Subte",
-      "url": "https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Doce Milongas de Amor y un Tango Desesperado",
         "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 218052,
       "name": "Milonga Sentimental",
       "url": "https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Electro Dub Tango",
+        "url": "https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ"
+      },
+      "artists": [
+        {
+          "name": "Electro Dub Tango",
+          "url": "https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "La Del Subte",
+      "url": "https://open.spotify.com/track/2jH02gTgXEd8Uac7gMu22d"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -895,18 +895,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Limanueva",
-        "url": "https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy"
+        "name": "Libertango (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
       },
       "artists": [
         {
-          "name": "Narcotango",
-          "url": "https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9"
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+        },
+        {
+          "name": "Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
-      "duration_ms": 259519,
-      "name": "Mistela",
-      "url": "https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo"
+      "duration_ms": 206374,
+      "name": "Libertango - En Vivo en Luna Park",
+      "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -951,26 +959,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Libertango (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH"
+        "name": "Limanueva",
+        "url": "https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy"
       },
       "artists": [
         {
-          "name": "La Milonga Electrica",
-          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
-        },
-        {
-          "name": "Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+          "name": "Narcotango",
+          "url": "https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9"
         }
       ],
-      "duration_ms": 206374,
-      "name": "Libertango - En Vivo en Luna Park",
-      "url": "https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t"
+      "duration_ms": 259519,
+      "name": "Mistela",
+      "url": "https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Tanguera",
-        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
-      },
-      "artists": [
-        {
-          "name": "Diego Schissi Quinteto",
-          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "Tanguera",
-      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Fueye Mood",
         "url": "https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Ahora y Siempre",
-        "url": "https://open.spotify.com/album/7Detx05YysB5gIzv7Z3Fxd"
+        "name": "Tanguera",
+        "url": "https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX"
       },
       "artists": [
         {
-          "name": "Orquesta Tipica Fernandez Fierro",
-          "url": "https://open.spotify.com/artist/1wAtmDhWZHAQUcq1foSZXv"
+          "name": "Diego Schissi Quinteto",
+          "url": "https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ"
         }
       ],
-      "duration_ms": 128907,
-      "name": "Subrealidad",
-      "url": "https://open.spotify.com/track/04349i5UALrGIrKNGu1lPi"
+      "duration_ms": 254440,
+      "name": "Tanguera",
+      "url": "https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 291850,
       "name": "Oblivion - Instrumental",
       "url": "https://open.spotify.com/track/7HFLrJsVWyLK8AyUiRaytV"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/7Detx05YysB5gIzv7Z3Fxd"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Tipica Fernandez Fierro",
+          "url": "https://open.spotify.com/artist/1wAtmDhWZHAQUcq1foSZXv"
+        }
+      ],
+      "duration_ms": 128907,
+      "name": "Subrealidad",
+      "url": "https://open.spotify.com/track/04349i5UALrGIrKNGu1lPi"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Sebastian Barbui",
+        "url": "https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+        },
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Funky Tango (Remasterizado 2023)",
         "url": "https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 478742,
       "name": "Funky Tango - Remasterizado 2023",
       "url": "https://open.spotify.com/track/26w0kTFqcEkBN3rI0QIe5n"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Sebastian Barbui",
-        "url": "https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
-        },
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "El Dia Que Me Quieras",
-      "url": "https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1219,34 +1219,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Invierno",
-        "url": "https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa"
+        "name": "De Arrabal",
+        "url": "https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq"
       },
       "artists": [
         {
-          "name": "Godoy",
-          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+          "name": "Octavio Caruso",
+          "url": "https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP"
         }
       ],
-      "duration_ms": 177609,
-      "name": "Cuando nos reencontremos",
-      "url": "https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "This Is Richard Bona",
-        "url": "https://open.spotify.com/album/28rNJjo7RDgAV7Uscjv67T"
-      },
-      "artists": [
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Uprising Of Kindness",
-      "url": "https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2"
+      "duration_ms": 163989,
+      "name": "Taquito Militar",
+      "url": "https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 147911,
       "name": "Muero Sin Vos",
       "url": "https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Invierno",
+        "url": "https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa"
+      },
+      "artists": [
+        {
+          "name": "Godoy",
+          "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
+        }
+      ],
+      "duration_ms": 177609,
+      "name": "Cuando nos reencontremos",
+      "url": "https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR"
     }
   ],
   "unique_name": "Neo Tango",

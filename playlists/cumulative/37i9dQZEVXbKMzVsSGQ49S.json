@@ -4680,7 +4680,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 123576,
       "name": "B\u00ed b\u00ed og blaka",
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
@@ -11258,7 +11258,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 138026,
       "name": "Fresh Alla Daga",
       "url": "https://open.spotify.com/track/1T1aDXtPK3fxKR7Kp2VvHG"
@@ -11390,7 +11390,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -11598,6 +11598,28 @@
       "duration_ms": 129067,
       "name": "Fyrir B\u00e6inn",
       "url": "https://open.spotify.com/track/5xoeknIvrBZNDBoknp1OEL"
+    },
+    {
+      "album": {
+        "name": "H\u00c1SKASEASON",
+        "url": "https://open.spotify.com/album/3Lyt4TUevGBgGisx4bn72F"
+      },
+      "artists": [
+        {
+          "name": "H\u00e1ski",
+          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+        },
+        {
+          "name": "Thelma",
+          "url": "https://open.spotify.com/artist/6cI9WkOXC2TkdQ0AXb8FXg"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139938,
+      "name": "Fyrir mig",
+      "url": "https://open.spotify.com/track/5pbilN6VSOGcRULK5bJcli"
     },
     {
       "album": {
@@ -13024,7 +13046,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 259280,
       "name": "Gr\u00f6f",
       "url": "https://open.spotify.com/track/4gNtvoyYRQibx4kmIQFGNH"
@@ -13158,7 +13180,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 132446,
       "name": "G\u00f3\u00f0a n\u00f3tt",
       "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
@@ -15332,6 +15354,24 @@
       "duration_ms": 178946,
       "name": "H\u00e6kkum \u00ed botn",
       "url": "https://open.spotify.com/track/0LU4WGvqi88j2RjDhhN6Dm"
+    },
+    {
+      "album": {
+        "name": "H\u00fan er Engill",
+        "url": "https://open.spotify.com/album/3yPpp4nBRJeoHXjml1ESX9"
+      },
+      "artists": [
+        {
+          "name": "Baltigull",
+          "url": "https://open.spotify.com/artist/4yDnLeAUk6xeVKLGFuls4p"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165608,
+      "name": "H\u00fan er Engill",
+      "url": "https://open.spotify.com/track/7nnjPdwctAPVIWTN7sfg1X"
     },
     {
       "album": {
@@ -18212,7 +18252,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 195464,
       "name": "Krumla",
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
@@ -19290,6 +19330,24 @@
       "duration_ms": 195514,
       "name": "Lift Me Up - Instrumental",
       "url": "https://open.spotify.com/track/1Jb0BvBueT6TBcZKIRWoJ6"
+    },
+    {
+      "album": {
+        "name": "H\u00c1SKASEASON",
+        "url": "https://open.spotify.com/album/3Lyt4TUevGBgGisx4bn72F"
+      },
+      "artists": [
+        {
+          "name": "H\u00e1ski",
+          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168374,
+      "name": "Lifum alltof hratt",
+      "url": "https://open.spotify.com/track/54MCGLppn3Zbnc9Wjmn48c"
     },
     {
       "album": {
@@ -21398,7 +21456,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 68800,
       "name": "Millikafli",
       "url": "https://open.spotify.com/track/6eOkPlrX4xxjBC83wElKzG"
@@ -23702,7 +23760,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -25696,6 +25754,24 @@
       "duration_ms": 142500,
       "name": "please don't trust me",
       "url": "https://open.spotify.com/track/2OjHNAk9fzdpuoCv1gfQV8"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "album": {
@@ -30078,7 +30154,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -30292,6 +30368,28 @@
       "duration_ms": 153163,
       "name": "Son of a Gun",
       "url": "https://open.spotify.com/track/6TCiqKpdCHRGzwSYvv8sGU"
+    },
+    {
+      "album": {
+        "name": "H\u00c1SKASEASON",
+        "url": "https://open.spotify.com/album/3Lyt4TUevGBgGisx4bn72F"
+      },
+      "artists": [
+        {
+          "name": "H\u00e1ski",
+          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+        },
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122538,
+      "name": "Sorry baby",
+      "url": "https://open.spotify.com/track/685hLixL4fhuKbuBfkhUxe"
     },
     {
       "album": {
@@ -32191,6 +32289,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3linni",
+        "url": "https://open.spotify.com/album/23Y4b5qrZNx3GmtT5osZd1"
+      },
+      "artists": [
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186040,
+      "name": "S\u00f3linni",
+      "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
+    },
+    {
+      "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
@@ -32526,7 +32646,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 220293,
       "name": "Tel hvert spor",
       "url": "https://open.spotify.com/track/4J0YSHA9QFvVrI0419zgqM"

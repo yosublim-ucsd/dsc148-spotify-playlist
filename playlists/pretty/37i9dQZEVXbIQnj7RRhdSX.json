@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1065926,
+  "num_followers": 1066117,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LfZwmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LffEcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ"
@@ -29,23 +29,27 @@
       "url": "https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "Paprika",
-        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 148571,
-      "name": "Paprika",
-      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
+      "duration_ms": 200000,
+      "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
@@ -61,7 +65,67 @@
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "Paprika",
+        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "SI STAT\u2019 TU",
+      "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
@@ -81,27 +145,7 @@
       "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "RADIO SAKURA",
-        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "COME UN TUONO (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -121,7 +165,55 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "COME UN TUONO (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "IDEE CHIARE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/04fyqFKw0UeWRfFylNODYv"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -137,7 +229,7 @@
       "url": "https://open.spotify.com/track/0ZjxK3xSqyFEDKMMnA7fyl"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "SEXY SHOP",
         "url": "https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y"
@@ -157,10 +249,78 @@
       "url": "https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "EL PIBE DE ORO",
-        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "duration_ms": 228378,
+      "name": "L'ULTIMA POESIA (feat. Ultimo)",
+      "url": "https://open.spotify.com/track/5oJVfPUHsD7A8bZtKVqgL2"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "UNA VITA FA (feat. Shiva)",
+      "url": "https://open.spotify.com/track/362nbPmkrCtts9zhlLFfIR"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "PER SEMPRE",
+      "url": "https://open.spotify.com/track/1tIGa9fXqu3T3AikU5G8Ds"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
       "artists": [
         {
@@ -172,32 +332,56 @@
           "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
         }
       ],
-      "duration_ms": 155493,
-      "name": "EL PIBE DE ORO",
-      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
+      "duration_ms": 161773,
+      "name": "EMIRATES",
+      "url": "https://open.spotify.com/track/4ERO7nWPAAGo687R3gF4PZ"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "BBE (feat. Lazza)",
-        "url": "https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3"
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
         }
       ],
-      "duration_ms": 198750,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70"
+      "duration_ms": 194133,
+      "name": "PRESIDENTE",
+      "url": "https://open.spotify.com/track/78jAJtOnoKtpHvXM8ByleE"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "UNA COME TE",
+      "url": "https://open.spotify.com/track/6prylI8YOrVcvR2CKrM9w7"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -221,7 +405,47 @@
       "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "BBE (feat. Lazza)",
+        "url": "https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Michelangelo",
+          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+        }
+      ],
+      "duration_ms": 187881,
+      "name": "I P\u2019 ME, TU P\u2019 TE",
+      "url": "https://open.spotify.com/track/7BeZyW4hVjeCocSLwDrCME"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "Devastante",
         "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
@@ -241,7 +465,95 @@
       "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "EPISODIO D'AMORE",
+      "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "357 (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/6PBr7VubD4T2TqqIj7FaWw"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 134306,
+      "name": "NU PARL, NU SENT, NU VEC",
+      "url": "https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "DIO LO SA",
+      "url": "https://open.spotify.com/track/2ZKODik6QtY6IvCnbXLnWE"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
@@ -261,47 +573,7 @@
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Torcida",
-        "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Torcida",
-      "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "L'ULTIMA POESIA (feat. Ultimo)",
-        "url": "https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 228378,
-      "name": "L'ULTIMA POESIA (feat. Ultimo)",
-      "url": "https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "100 MESSAGGI",
         "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
@@ -317,10 +589,10 @@
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "I P\u2019 ME, TU P\u2019 TE",
-        "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
       "artists": [
         {
@@ -328,32 +600,156 @@
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "Michelangelo",
-          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
         }
       ],
-      "duration_ms": 187881,
-      "name": "I P\u2019 ME, TU P\u2019 TE",
-      "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
+      "duration_ms": 189293,
+      "name": "GI\u00c0 LO SAI (feat. Luch\u00e8)",
+      "url": "https://open.spotify.com/track/0SxncNbbzm0Sq8SBy5N0Np"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+        "name": "Torcida",
+        "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
         }
       ],
-      "duration_ms": 147241,
-      "name": "Mare Calmo",
-      "url": "https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532"
+      "duration_ms": 174628,
+      "name": "Torcida",
+      "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "BELLA E BRUTTA NOTIZIA (feat. Maria Becerra)",
+      "url": "https://open.spotify.com/track/5zNi9r8j00Fjte8a1z1om3"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "STORIE BREVI",
+        "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        },
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 175153,
+      "name": "STORIE BREVI",
+      "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "CLS (feat. Yung Snapp, MV Killa, Lele Blade)",
+      "url": "https://open.spotify.com/track/5EbuKgB6acYhza2WOztvXQ"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "SCUMPAR",
+      "url": "https://open.spotify.com/track/6jkUMOIkL1N0vOcD9mr25r"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 87360,
+      "name": "6 MILIONI DI EURO FA (skit)",
+      "url": "https://open.spotify.com/track/0DGMnFK2SMUg3bWlxuhEAt"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "pok\u00e9 melodrama",
         "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
@@ -369,7 +765,7 @@
       "url": "https://open.spotify.com/track/5y7dpbKf0E3TW93k5w0JIs"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "NEI LETTI DEGLI ALTRI",
         "url": "https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F"
@@ -385,7 +781,23 @@
       "url": "https://open.spotify.com/track/371l4ekF9cDC2D5WuuabU6"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 147241,
+      "name": "Mare Calmo",
+      "url": "https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "Popolari",
         "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
@@ -405,7 +817,7 @@
       "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "RADIO SAKURA",
         "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
@@ -421,7 +833,27 @@
       "url": "https://open.spotify.com/track/1HCwbTHBvC4XCIC417NB5k"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "FINCH\u00c8 NON SI MUORE",
+      "url": "https://open.spotify.com/track/62ZzWNju7R2pKvOuSNiR2i"
+    },
+    {
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -437,23 +869,27 @@
       "url": "https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+        "name": "ADDO STAJE (Ride it RMX)",
+        "url": "https://open.spotify.com/album/0AgNkyLhcAdShRsMt1gtVZ"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
         }
       ],
-      "duration_ms": 136956,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/4OqRBVQcEXwKCj5d7ztx6Z"
+      "duration_ms": 161694,
+      "name": "ADDO STAJE - Ride it RMX",
+      "url": "https://open.spotify.com/track/6UKPNShrYDQE32SBkrjfTj"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
@@ -477,179 +913,23 @@
       "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "ADDO STAJE (Ride it RMX)",
-        "url": "https://open.spotify.com/album/0AgNkyLhcAdShRsMt1gtVZ"
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
       },
       "artists": [
-        {
-          "name": "Le-one",
-          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
-        },
-        {
-          "name": "VTR",
-          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
-        }
-      ],
-      "duration_ms": 161694,
-      "name": "ADDO STAJE - Ride it RMX",
-      "url": "https://open.spotify.com/track/6UKPNShrYDQE32SBkrjfTj"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "E POI SIAMO FINITI NEL VORTICE",
-        "url": "https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 215714,
-      "name": "Sinceramente",
-      "url": "https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "ALTROVE",
-        "url": "https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "ALTROVE",
-      "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "First Day Out",
-        "url": "https://open.spotify.com/album/4wcgoc19ZVFRcX0JxnBKNG"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 171678,
-      "name": "First Day Out",
-      "url": "https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Black Nirvana",
-        "url": "https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Black Nirvana",
-      "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 134347,
-      "name": "00",
-      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Mezzo secondo",
-        "url": "https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 206242,
-      "name": "Mezzo secondo",
-      "url": "https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
         {
           "name": "Tedua",
           "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
-      "duration_ms": 164177,
-      "name": "Ancora Qua (feat. Tedua)",
-      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
+      "duration_ms": 136956,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/4OqRBVQcEXwKCj5d7ztx6Z"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "STORIE BREVI",
-        "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
-      },
-      "artists": [
-        {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
-        },
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 175153,
-      "name": "STORIE BREVI",
-      "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "MA CHE IDEA (feat. Pino D'Angi\u00f2)",
         "url": "https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI"
@@ -669,55 +949,39 @@
       "url": "https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        },
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        },
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "Vaz T\u00e8",
-          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 244281,
-      "name": "Jolly Roger (feat. Izi, Disme, Bresh & Vaz T\u00e8)",
-      "url": "https://open.spotify.com/track/5eV8XfvbR9bsFqG1jvvNmw"
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
       },
       "artists": [
         {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
         "name": "VIENI DALLA BADDIE (interlude)",
         "url": "https://open.spotify.com/album/1QkVXwwI2F9q54Xu3O3zib"
@@ -733,204 +997,20 @@
       "url": "https://open.spotify.com/track/6VpkhPUKnXxDsse0jnG64F"
     },
     {
-      "added_at": "2024-06-07 11:19:56",
+      "added_at": "2024-06-08 09:23:18",
       "album": {
-        "name": "VELENO",
-        "url": "https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel"
+        "name": "E POI SIAMO FINITI NEL VORTICE",
+        "url": "https://open.spotify.com/album/4GIt1yQFoBhEi3wOrgZDbg"
       },
       "artists": [
         {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
         }
       ],
-      "duration_ms": 198740,
-      "name": "VELENO",
-      "url": "https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "SOUVENIR",
-        "url": "https://open.spotify.com/album/1kR8WkIVdTVt0Bec7ccDvj"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "APNEA",
-      "url": "https://open.spotify.com/track/1F2rElyIiwgnq3TM2LN3ag"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Non so chi ha creato il mondo ma so che era innamorato",
-        "url": "https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Vai!",
-      "url": "https://open.spotify.com/track/2aptSWAkwTLva4188FFrjE"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 147366,
-      "name": "Al Limite (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Popolari",
-        "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 113737,
-      "name": "Petit Fou Fou (feat. ANNA)",
-      "url": "https://open.spotify.com/track/41sQhmjhPRrMv8jFKzJTRV"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 162411,
-      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
-      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "L'Angelo del Male",
-        "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Adrenalina (feat. BLANCO, Marracash)",
-      "url": "https://open.spotify.com/track/1ItU1iY6Dbrlikq2WGzzLN"
-    },
-    {
-      "added_at": "2024-06-07 11:19:56",
-      "album": {
-        "name": "Festival",
-        "url": "https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa"
-      },
-      "artists": [
-        {
-          "name": "Bellini",
-          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Samba do Brasil",
-      "url": "https://open.spotify.com/track/2yAjjqcHMy6qUI6NNzNoVD"
+      "duration_ms": 215714,
+      "name": "Sinceramente",
+      "url": "https://open.spotify.com/track/60QN1JrgYM7jcfW8pdQFqT"
     }
   ],
   "unique_name": "Top 50 - Italy",

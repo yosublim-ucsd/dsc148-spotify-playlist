@@ -5552,6 +5552,36 @@
     {
       "album": {
         "name": "Global Intimacy",
+        "url": "https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM"
+      },
+      "artists": [
+        {
+          "name": "Barney McAll",
+          "url": "https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9"
+        },
+        {
+          "name": "TQX",
+          "url": "https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7"
+        },
+        {
+          "name": "Sirah",
+          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
+        },
+        {
+          "name": "KOOL A.D.",
+          "url": "https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Text Me Back",
+      "url": "https://open.spotify.com/track/0SEA2Tin86daYsOzXTGmsQ"
+    },
+    {
+      "album": {
+        "name": "Global Intimacy",
         "url": "https://open.spotify.com/album/45LXVsjVyaMd0id37uo8MK"
       },
       "artists": [
@@ -5570,7 +5600,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 208000,
       "name": "Text Me Back",
       "url": "https://open.spotify.com/track/1F9D5OVJztyfkQPXNHY4un"
@@ -5731,6 +5761,32 @@
     },
     {
       "album": {
+        "name": "Global Intimacy",
+        "url": "https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM"
+      },
+      "artists": [
+        {
+          "name": "Barney McAll",
+          "url": "https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9"
+        },
+        {
+          "name": "TQX",
+          "url": "https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "The Day That You Moved On",
+      "url": "https://open.spotify.com/track/1CYMElUHejbDrAkPx6g7ZR"
+    },
+    {
+      "album": {
         "name": "The Day That You Moved On",
         "url": "https://open.spotify.com/album/0J2PEt4iZpDC460CqWRDXM"
       },
@@ -5768,7 +5824,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 201106,
       "name": "The Day That You Moved On",
       "url": "https://open.spotify.com/track/6R3mrMtCyymg1wLr3VU64Y"

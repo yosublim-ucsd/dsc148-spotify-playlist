@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABhVIzv5zTU6MpU/NAGVgbY",
+  "snapshot_id": "AAAAAAAAAACCzN6QCbL+q8RFKmj7paA3",
   "tracks": [
     {
       "added_at": "2024-06-07 04:00:00",
@@ -51,58 +51,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-        "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
       },
       "artists": [
         {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Kublai Khan TX",
-          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
-        },
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 240539,
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "The Quest for Tanelorn (Revisited)",
-        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 366906,
-      "name": "The Quest for Tanelorn - Revisited",
-      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
+      "duration_ms": 446762,
+      "name": "The Call of Ktulu",
+      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -116,9 +76,9 @@
           "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
         }
       ],
-      "duration_ms": 199854,
-      "name": "Gimme Danger - Early Demo",
-      "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
+      "duration_ms": 199947,
+      "name": "Search And Destroy - Early Demo",
+      "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -139,34 +99,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
+        "name": "The Quest for Tanelorn (Revisited)",
+        "url": "https://open.spotify.com/album/7vtUeoxwk5o5zSJ7IudmNY"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 446762,
-      "name": "The Call of Ktulu",
-      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Quer\u00eda Saber",
-        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 348340,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
+      "duration_ms": 366906,
+      "name": "The Quest for Tanelorn - Revisited",
+      "url": "https://open.spotify.com/track/2mAjUCgk5GowangZMlQJTa"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -187,18 +131,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
+        "name": "Quer\u00eda Saber",
+        "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 195099,
-      "name": "We Made It Look Easy",
-      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
+      "duration_ms": 348340,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -267,38 +211,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Look At All the Things",
-        "url": "https://open.spotify.com/album/6QXU3uN1jniAg8PPbvt9Gx"
+        "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+        "url": "https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         },
         {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 178609,
-      "name": "Look At All the Things",
-      "url": "https://open.spotify.com/track/5JcIqEaPTtCxXiF0ZwKLpq"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Count Me Out",
-        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
-      },
-      "artists": [
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        },
         {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
         }
       ],
-      "duration_ms": 252392,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
+      "duration_ms": 240539,
+      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+      "url": "https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -335,26 +267,34 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Don't Give Up (Grafix Remix)",
-        "url": "https://open.spotify.com/album/2Fdk5LR49i4X5WTtYvUU0f"
+        "name": "Count Me Out",
+        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
       },
       "artists": [
         {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
         }
       ],
-      "duration_ms": 193103,
-      "name": "Don't Give Up - Grafix Remix",
-      "url": "https://open.spotify.com/track/6cJH8BO7B8Gl3n40q8Inh5"
+      "duration_ms": 252392,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -375,6 +315,50 @@
       "duration_ms": 295310,
       "name": "The Seasons, Op. 37a: No. 6. June: Barcarolle",
       "url": "https://open.spotify.com/track/70lPebrY7CGiZspaaLPufG"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Look At All the Things",
+        "url": "https://open.spotify.com/album/6QXU3uN1jniAg8PPbvt9Gx"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "Look At All the Things",
+      "url": "https://open.spotify.com/track/5JcIqEaPTtCxXiF0ZwKLpq"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Don't Give Up (Grafix Remix)",
+        "url": "https://open.spotify.com/album/2Fdk5LR49i4X5WTtYvUU0f"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Don't Give Up - Grafix Remix",
+      "url": "https://open.spotify.com/track/6cJH8BO7B8Gl3n40q8Inh5"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -403,18 +387,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sound of the Crowd - Greatest Hits Live in Concert",
-        "url": "https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW"
       },
       "artists": [
         {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 263573,
-      "name": "The Lebanon (Live)",
-      "url": "https://open.spotify.com/track/5lbf0gy6mqpC7NeXeaCeAk"
+      "duration_ms": 195099,
+      "name": "We Made It Look Easy",
+      "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -451,6 +435,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Sound of the Crowd - Greatest Hits Live in Concert",
+        "url": "https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "The Things That Dreams Are Made of (Live)",
+      "url": "https://open.spotify.com/track/3HTn85at3ObUB2uYJT4Fhp"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Feedback",
         "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 273059,
       "name": "Money Changes Everything - Live at Irvine Meadows Amphitheater, Laguna Hills, CA - 09/22/1984 - Let The Canary Sing Edit",
       "url": "https://open.spotify.com/track/2ywYZp3rMpCIwLcj5YdjH8"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Chabuco Tango",
-        "url": "https://open.spotify.com/album/0BMBTesXi4eduzURLsPxHl"
-      },
-      "artists": [
-        {
-          "name": "Chabuco",
-          "url": "https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 202132,
-      "name": "P\u00e9talo de sal",
-      "url": "https://open.spotify.com/track/3whw0s4PXsfBIYOhW9erXX"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -551,26 +531,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "No Fun (ADF30 Rework)",
-        "url": "https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo"
-      },
-      "artists": [
-        {
-          "name": "Asian Dub Foundation",
-          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 258414,
-      "name": "No Fun - ADF30 Rework",
-      "url": "https://open.spotify.com/track/07eH74CD3b1pPxQHrXCP0m"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Schakal 1994 - 2024",
         "url": "https://open.spotify.com/album/7dw34BpCbtsSS3kWyuvVxu"
       },
@@ -603,22 +563,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "The Reckoning (feat. Amy Lee) [Live in Amsterdam]",
-        "url": "https://open.spotify.com/album/6jALyqQddf992tgYntZITS"
+        "name": "Hooked On A Feeling - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
       },
       "artists": [
         {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 322679,
-      "name": "The Reckoning (feat. Amy Lee) - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp"
+      "duration_ms": 134052,
+      "name": "Hooked On A Feeling - Spotify Singles",
+      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -639,22 +595,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+        "name": "The Reckoning (feat. Amy Lee) [Live in Amsterdam]",
+        "url": "https://open.spotify.com/album/6jALyqQddf992tgYntZITS"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         },
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 260625,
-      "name": "a bulleT w/ my namE On (feat. Underoath)",
-      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
+      "duration_ms": 322679,
+      "name": "The Reckoning (feat. Amy Lee) - Live in Amsterdam",
+      "url": "https://open.spotify.com/track/2DD2UFduTpt2vq8WefvFtp"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -675,18 +631,42 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Hooked On A Feeling - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
+        "name": "No Fun (ADF30 Rework)",
+        "url": "https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Asian Dub Foundation",
+          "url": "https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 134052,
-      "name": "Hooked On A Feeling - Spotify Singles",
-      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
+      "duration_ms": 258414,
+      "name": "No Fun - ADF30 Rework",
+      "url": "https://open.spotify.com/track/07eH74CD3b1pPxQHrXCP0m"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "a bulleT w/ my namE On (feat. Underoath)",
+      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -727,6 +707,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Rain (Stealing Sheep Remix)",
+        "url": "https://open.spotify.com/album/4dx49Nbdulv56hy04eFVaL"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        },
+        {
+          "name": "Stealing Sheep",
+          "url": "https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22"
+        }
+      ],
+      "duration_ms": 280854,
+      "name": "Rain - Stealing Sheep Remix",
+      "url": "https://open.spotify.com/track/6rFhoweBbzgopFIVwc3ZYz"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Silver Tongue",
         "url": "https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS"
       },
@@ -739,6 +739,34 @@
       "duration_ms": 262741,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/7pC2fK2Dpp3o2cUh9yL0j3"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        },
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Reasons - TDWP Version feat. L\u00d8L\u00d8",
+      "url": "https://open.spotify.com/track/2udXkSxzo6KziHfIVgOcoo"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -771,22 +799,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Rain (Stealing Sheep Remix)",
-        "url": "https://open.spotify.com/album/4dx49Nbdulv56hy04eFVaL"
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
       "artists": [
         {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Stealing Sheep",
-          "url": "https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 280854,
-      "name": "Rain - Stealing Sheep Remix",
-      "url": "https://open.spotify.com/track/6rFhoweBbzgopFIVwc3ZYz"
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -827,34 +859,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/7pC2fK2Dpp3o2cUh9yL0j3"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        },
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Reasons - TDWP Version feat. L\u00d8L\u00d8",
-      "url": "https://open.spotify.com/track/2udXkSxzo6KziHfIVgOcoo"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "The Shadow Club",
         "url": "https://open.spotify.com/album/7p9SacciT3Ul89WJAtIYGj"
       },
@@ -871,30 +875,6 @@
       "duration_ms": 330093,
       "name": "The Shadow Club",
       "url": "https://open.spotify.com/track/1Q2Gd6poiIQL1trKulQxXZ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -935,58 +915,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Once",
-      "url": "https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/58J1gfmMIdfOUYnqt7Qhtu"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Best of: Living the Dream (Tarja's Personal Favourites)",
-        "url": "https://open.spotify.com/album/6Lwb4EAr96txRoYtTbp2ce"
-      },
-      "artists": [
-        {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        },
-        {
-          "name": "Van Canto",
-          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
-        }
-      ],
-      "duration_ms": 251334,
-      "name": "Anteroom of Death - Edit Version",
-      "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Hi, Hi, Hi / Junior\u2019s Farm (One Hand Clapping Sessions)",
         "url": "https://open.spotify.com/album/2ACDSBFiRiuHejGGiBflWb"
       },
@@ -1003,6 +931,22 @@
       "duration_ms": 237520,
       "name": "Hi, Hi, Hi - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/6PjmshE9HbZY3ZakSEkF2v"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Here To Eternity",
+        "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 294840,
+      "name": "Keep It On Track",
+      "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1031,22 +975,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Here To Eternity",
-        "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 294840,
-      "name": "Keep It On Track",
-      "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Circular (BVSMV Sunset Mix)",
         "url": "https://open.spotify.com/album/1llzlwanfn739rdbRJzyO7"
       },
@@ -1063,122 +991,6 @@
       "duration_ms": 313988,
       "name": "Circular - BVSMV Sunset Mix",
       "url": "https://open.spotify.com/track/3HF3PWNCMzpS0vkRrG1ZUc"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "You Won't Go Before You're Supposed To",
-        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Chris Motionless",
-          "url": "https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd"
-        }
-      ],
-      "duration_ms": 183721,
-      "name": "Slaughterhouse 2 (feat. Chris Motionless)",
-      "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Morning View XXIII",
-        "url": "https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212739,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Carnaval",
-        "url": "https://open.spotify.com/album/61IkxYh1CPTSttGIpXaJb2"
-      },
-      "artists": [
-        {
-          "name": "KekoYoma",
-          "url": "https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V"
-        },
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        },
-        {
-          "name": "Murga la Mal Vista",
-          "url": "https://open.spotify.com/artist/2wKat01ZNwllRfkykkRgBx"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/5ta6pYaNvesXHJv7sq6DKC"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Stampede: Vol. 1",
-        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 251998,
-      "name": "Saturday Night's Alright (For Fighting)",
-      "url": "https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Seven / Pitiful (Live)",
-        "url": "https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 312149,
-      "name": "Seven - Live",
-      "url": "https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Hypnotize EP",
-        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

@@ -1,12 +1,12 @@
 {
   "description": "This Is Herencia de Patrones. Los temas esenciales, todos en una lista.",
-  "num_followers": 120554,
+  "num_followers": 120601,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAACr5dp7SVEdraO98coMAXDt",
+  "snapshot_id": "ZmJNgAAAAACqi5pFQel5d0D0ihV/mr9z",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 207898,
-      "name": "Con la Bola",
-      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corazon Tumbado",
         "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
@@ -335,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas",
-        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 165458,
-      "name": "Bien Pilas",
-      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' las Vibras 2",
         "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
@@ -362,15 +326,11 @@
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 152433,
-      "name": "Buena Vida Mala Fama",
-      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
+      "duration_ms": 207898,
+      "name": "Con la Bola",
+      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
     },
     {
       "added_at": null,
@@ -399,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Pilas",
+        "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 165458,
+      "name": "Bien Pilas",
+      "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
@@ -419,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152433,
+      "name": "Buena Vida Mala Fama",
+      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 158250,
       "name": "Historia De Los Barrios",
       "url": "https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Siempre Activo",
-      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Siempre Activo",
+      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reyes Magos",
         "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 128000,
       "name": "Reyes Magos",
       "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 187448,
-      "name": "Heisenbern",
-      "url": "https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W"
     },
     {
       "added_at": null,
@@ -567,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "99 Problemas",
-        "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
-      },
-      "artists": [
-        {
-          "name": "Los Del Puerto",
-          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 192718,
-      "name": "99 Problemas",
-      "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' las Vibras 2",
         "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
@@ -596,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 181033,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/2fcLXXBJ43R0vFDU06rL5N"
+      "duration_ms": 187448,
+      "name": "Heisenbern",
+      "url": "https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W"
     },
     {
       "added_at": null,
@@ -639,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+        "name": "99 Problemas",
+        "url": "https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA"
       },
       "artists": [
+        {
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 186118,
-      "name": "Chequen Los Datos",
-      "url": "https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u"
+      "duration_ms": 192718,
+      "name": "99 Problemas",
+      "url": "https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg"
     },
     {
       "added_at": null,
@@ -664,9 +632,25 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 193360,
-      "name": "Compa P",
-      "url": "https://open.spotify.com/track/0PF1gMMaMks94xvo2s4d8U"
+      "duration_ms": 181033,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/2fcLXXBJ43R0vFDU06rL5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 186118,
+      "name": "Chequen Los Datos",
+      "url": "https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 193651,
       "name": "T\u00e1ctico",
       "url": "https://open.spotify.com/track/6XIEuULRblmE0OINgI5dNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Compa P",
+      "url": "https://open.spotify.com/track/0PF1gMMaMks94xvo2s4d8U"
     },
     {
       "added_at": null,
@@ -967,18 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Laboratorio",
-        "url": "https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc"
+        "name": "Mi Escuela Fueron Las Calles",
+        "url": "https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK"
       },
       "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 185866,
-      "name": "En El Laboratorio",
-      "url": "https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ"
+      "duration_ms": 121785,
+      "name": "Mi Escuela Fueron Las Calles",
+      "url": "https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH"
     }
   ],
   "unique_name": "This Is Herencia de Patrones",

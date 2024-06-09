@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music every week! Cover: Jordan Rakei
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,126 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,180 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 26 | [Can't Run Away](https://open.spotify.com/track/4Ki2TOHssKp12BfZusqG1Q) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Can't Run Away](https://open.spotify.com/album/51G7lKy7EotQyxosGnuz8S) | 2:34 |
 | 27 | [Fly](https://open.spotify.com/track/4quZsJLhIEj1CwsJ15ski5) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [King Krab](https://open.spotify.com/artist/7bt5CUlC3R7zatM86wwLlU) | [Fly](https://open.spotify.com/album/670iJZp3uBCVMUvsxuhRsJ) | 3:19 |
 | 28 | [So In Love](https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [So In Love](https://open.spotify.com/album/1boCyrHryblqZSM5cbDXiQ) | 4:06 |
-| 29 | [My Art is Full of Life](https://open.spotify.com/track/2f8g0OgCnccYa87D8ecZne) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Animating The Machine \(Original Motion Picture Soundtrack\) Cre8ed in part by Udio](https://open.spotify.com/album/0ukJtGXodwNAfASzJWsTSe) | 3:45 |
+| 29 | [My Art is Full of Life](https://open.spotify.com/track/2f8g0OgCnccYa87D8ecZne) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Animating The Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ukJtGXodwNAfASzJWsTSe) | 3:45 |
 | 30 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
 | 31 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 |
 | 32 | [Greens](https://open.spotify.com/track/6X3eqOlk8aatOtVCMsVcR9) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Greens](https://open.spotify.com/album/3luBM373jJCrmgP9My6eLe) | 3:29 |

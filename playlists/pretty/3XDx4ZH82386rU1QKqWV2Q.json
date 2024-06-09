@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
-  "num_followers": 1076330,
+  "num_followers": 1076312,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "AAALnlZVe27O5vPBpE5YdP7qGaSYIojk",
+  "snapshot_id": "AAALoo2BRvjvYrNcgob7TDmig9rLpOZo",
   "tracks": [
     {
       "added_at": "2024-04-01 10:16:20",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-04-01 10:16:20",
       "album": {
+        "name": "BATSH!T",
+        "url": "https://open.spotify.com/album/06yR9hkbHlVRnOmPWfdefN"
+      },
+      "artists": [
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "duration_ms": 86582,
+      "name": "BATSH!T",
+      "url": "https://open.spotify.com/track/2ovN25hJdLKljhBDb3LuUg"
+    },
+    {
+      "added_at": "2024-04-01 10:16:20",
+      "album": {
         "name": "Kerosene (Slowed)",
         "url": "https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf"
       },
@@ -129,20 +145,24 @@
       "url": "https://open.spotify.com/track/2weO22kObPnyX1jKQStb40"
     },
     {
-      "added_at": "2024-04-01 10:16:20",
+      "added_at": "2024-06-08 14:43:02",
       "album": {
-        "name": "BATSH!T",
-        "url": "https://open.spotify.com/album/06yR9hkbHlVRnOmPWfdefN"
+        "name": "JUNBI",
+        "url": "https://open.spotify.com/album/4EMSvqstx2Dwo1Fe9HCjJK"
       },
       "artists": [
         {
-          "name": "cade clair",
-          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        },
+        {
+          "name": "Anar",
+          "url": "https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP"
         }
       ],
-      "duration_ms": 86582,
-      "name": "BATSH!T",
-      "url": "https://open.spotify.com/track/2ovN25hJdLKljhBDb3LuUg"
+      "duration_ms": 96986,
+      "name": "JUNBI",
+      "url": "https://open.spotify.com/track/6XlA9l2mv5czqDrMkR9wp2"
     },
     {
       "added_at": "2024-06-07 14:37:43",
@@ -243,6 +263,30 @@
       "duration_ms": 75428,
       "name": "DOMINIO DO ARENA",
       "url": "https://open.spotify.com/track/74vp2adEq00W8nbcrh7KDQ"
+    },
+    {
+      "added_at": "2024-06-08 14:44:40",
+      "album": {
+        "name": "NICOLE ANISTON",
+        "url": "https://open.spotify.com/album/7CjdFHKcKpu4ttUmo5rSsR"
+      },
+      "artists": [
+        {
+          "name": "thmpsn",
+          "url": "https://open.spotify.com/artist/4RguKaIgVQ9Iep7mYAJ6J4"
+        },
+        {
+          "name": "Kingpin Skinny Pimp",
+          "url": "https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj"
+        },
+        {
+          "name": "Nicole Aniston",
+          "url": "https://open.spotify.com/artist/7mwm8lLPIVdnmvMfshzTsV"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "NICOLE ANISTON",
+      "url": "https://open.spotify.com/track/07aYKX86UyaEJCtBFLKNlc"
     },
     {
       "added_at": "2024-04-11 07:24:37",

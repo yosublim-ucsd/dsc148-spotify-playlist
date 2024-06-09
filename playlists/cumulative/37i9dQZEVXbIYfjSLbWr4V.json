@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "I GOT U",
+        "url": "https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "I GOT U",
+      "url": "https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n"
+    },
+    {
+      "album": {
         "name": "Amor Et Memoria",
         "url": "https://open.spotify.com/album/0X7BfIp0NbQZVF4YnwrIQJ"
       },
@@ -937,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
+    },
+    {
+      "album": {
         "name": "Not the same",
         "url": "https://open.spotify.com/album/4nfVHwiNX7Hn8gEBfhC0qk"
       },
@@ -1238,7 +1274,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 112423,
       "name": "TryToFriend",
       "url": "https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh"
@@ -1462,7 +1498,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 189972,
       "name": "\u0411\u0418\u0427\u0415\u0421",
       "url": "https://open.spotify.com/track/0iWLbfz7ls2I2rzG3WlLuz"
@@ -1670,7 +1706,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 114924,
       "name": "\u0414\u0410, \u042f \u0420\u0423\u0421\u0421\u041a\u0418\u0419",
       "url": "https://open.spotify.com/track/62XPynwhhzYp7A0Q51MmYT"
@@ -3034,6 +3070,32 @@
       "duration_ms": 145217,
       "name": "\u0421\u043f\u043e\u0439",
       "url": "https://open.spotify.com/track/4h64grHEML9fbatKjFVHXr"
+    },
+    {
+      "album": {
+        "name": "Streets Echo 2052",
+        "url": "https://open.spotify.com/album/624pdV54PqxSh8xi1loGzb"
+      },
+      "artists": [
+        {
+          "name": "ALBLAK 52",
+          "url": "https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq"
+        },
+        {
+          "name": "Skryptonite",
+          "url": "https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn"
+        },
+        {
+          "name": "FRIENDLY THUG 52 NGG",
+          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207724,
+      "name": "\u0421\u043f\u043e\u043a\u043e\u0439\u043d\u043e\u0439 \u043d\u043e\u0447\u0438",
+      "url": "https://open.spotify.com/track/5XLN6w7VBOv3XGgWVVxbI2"
     },
     {
       "album": {

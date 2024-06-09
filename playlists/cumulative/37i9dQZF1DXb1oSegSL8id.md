@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-130 songs - 6 hr 58 min
+131 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Pot\-Pourri: Teu Segredo / Já Tentei](https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 6:22 | 2023-11-17 |  |
 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 | 2023-01-03 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2023-01-03 |  |
-| [Pupila](https://open.spotify.com/track/1DaAutoHzKChLZarAMfk2T) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Tô Achando Que É Amor \| Ep\. 3](https://open.spotify.com/album/5nHhClkNG3oL9aIJKgzwgx) | 3:25 | 2023-11-17 |  |
+| [Pupila](https://open.spotify.com/track/1DaAutoHzKChLZarAMfk2T) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Tô Achando Que É Amor \| Ep\. 3](https://open.spotify.com/album/5nHhClkNG3oL9aIJKgzwgx) | 3:25 | 2023-11-17 | 2024-06-09 |
 | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:21 | 2023-01-03 | 2024-04-19 |
 | [Quando Você Me Beija / Eternamente / Depois da Briga](https://open.spotify.com/track/5ruG18WndCCaU4f0ZMwehj) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Churrasquinho Menos É Mais, Vol\. 2](https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv) | 5:18 | 2023-01-03 |  |
 | [Quarta Cadeira \- Ao Vivo](https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:44 | 2023-01-03 |  |
@@ -109,6 +109,7 @@
 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 | 2023-01-03 |  |
 | [Quem Me Dera](https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:27 | 2023-01-03 |  |
 | [Recairei \- Ao Vivo](https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Conquistas \(Ao Vivo\)](https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f) | 2:46 | 2023-11-17 |  |
+| [Romance Proibido \- Ao Vivo](https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Evoluiu, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk) | 2:42 | 2023-11-17 |  |
 | [Saideira \- Ao Vivo](https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 2:58 | 2023-11-17 |  |
 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 | 2023-11-17 |  |
 | [SEU DOUTOR \- Ao Vivo](https://open.spotify.com/track/0WnraiegaS9uZbBi3J0UUB) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:53 | 2023-11-17 |  |

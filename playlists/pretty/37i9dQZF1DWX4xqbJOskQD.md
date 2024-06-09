@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,884 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,883 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Twilight Time \- Single Version](https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Flying Platters Around The World](https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH) | 2:48 |
 | 2 | [Way Back Home](https://open.spotify.com/track/2Mqggm27ZkH3EyscmCDnIg) | [Bob Crosby & The Bob Cats](https://open.spotify.com/artist/1EE8fj8itdenD88iAylcYh) | [Bob Crosby and the Bobcats: The Complete Standard Transcriptions](https://open.spotify.com/album/5Y8YZyknkRwJL5nJMjdU8o) | 2:54 |
 | 3 | [Boogie Woogie Bugle Boy](https://open.spotify.com/track/3axPhcbhVDOA9MnhkUrFcE) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Rarities](https://open.spotify.com/album/6KS6VWpM7TyBTqvTRUH0eX) | 2:41 |
-| 4 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
-| 5 | [Ac\-Cent\-Tchu\-Ate The Positive \- Single Version](https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 2:42 |
+| 4 | [Ac\-Cent\-Tchu\-Ate The Positive \- Single Version](https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 2:42 |
+| 5 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
 | 6 | [Let's Have Another Cup Of Coffee \(From "Face The Music"\) \- 2002 Remastered](https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc), [Ernie Caceres](https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc), [Marion Hutton](https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My), [The Modernaires](https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw) | [America's Bandleader](https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT) | 3:03 |
 | 7 | [Marie](https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT) | [The Bachelors](https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD) | [The Bachelors \- The Decca Years](https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab) | 2:19 |
 | 8 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |

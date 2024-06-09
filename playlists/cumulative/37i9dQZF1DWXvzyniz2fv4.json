@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
@@ -3910,6 +3910,28 @@
       "duration_ms": 133000,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
+    },
+    {
+      "album": {
+        "name": "Algu\u00e9m Tinha Que Falar De Amor",
+        "url": "https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC"
     },
     {
       "album": {

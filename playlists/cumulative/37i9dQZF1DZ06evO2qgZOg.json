@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 229933,
       "name": "Feel Invincible",
       "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 178013,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 220080,
       "name": "One Day Too Late",
       "url": "https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 197480,
       "name": "Psycho In My Head",
       "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 208233,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa"
@@ -726,6 +726,24 @@
       "duration_ms": 257467,
       "name": "Standing in the Storm",
       "url": "https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225853,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
     },
     {
       "album": {

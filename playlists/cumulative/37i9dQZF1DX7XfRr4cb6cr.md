@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-277 songs - 22 hr 51 min
+279 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Fantas for Saxophone and Voice](https://open.spotify.com/track/6t7dqTSiUgR0WANDNLyHFC) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Fantas for Saxophone and Voice](https://open.spotify.com/album/45focVBvv4bXhAfrJhj82J) | 7:16 | 2022-01-21 |  |
 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 | 2022-01-21 |  |
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-01-21 |  |
+| [Flares](https://open.spotify.com/track/281H1In7yvWliTGR2B2k9Q) | [George Rigby](https://open.spotify.com/artist/2UEHkOF3Huut1NMjnbE6MI) | [Flares](https://open.spotify.com/album/6Yv3ekSm9BZZUMNYGThQET) | 4:48 | 2024-05-28 |  |
 | [Floating Through Time and Space](https://open.spotify.com/track/28nJQ9XzkcAirC5edOewp5) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Digressions](https://open.spotify.com/album/5dzNjLlC4M35rakoVQr6SU) | 2:55 | 2023-12-01 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
 | [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 | 2024-05-22 |
@@ -207,12 +208,13 @@
 | [sentient](https://open.spotify.com/track/2JaBzgwkxZ2TVfCPZOlNOo) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [sentient](https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5) | 3:24 | 2023-10-02 |  |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 | 2024-06-08 |
-| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 |  |
+| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2024-06-09 |
 | [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 |  |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
 | [Snow Path](https://open.spotify.com/track/2LbQFXXIL6JRJodBGTJcXZ) | [Kylie Karlsson](https://open.spotify.com/artist/0YlpsaWcW0FShzeBUFIJQI) | [Snow Path](https://open.spotify.com/album/4t7m8bS6vq9OMXJz2iLQw0) | 5:44 | 2024-05-28 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 10:53 | 2023-12-01 | 2024-04-19 |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 | 2024-05-14 |
+| [Spectral Bed](https://open.spotify.com/track/2DcsWdWwtgobqxJsWo6A8o) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Spectral Bed](https://open.spotify.com/album/4AP055koJGcpDShMaLgxJo) | 4:14 | 2024-05-28 |  |
 | [Sternkarten](https://open.spotify.com/track/2zw1H7VhobTzxZebNfepSU) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/4JZlNx49SehfobUKwt2izd) | 3:56 | 2022-11-11 | 2024-04-19 |
 | [Sternkarten](https://open.spotify.com/track/314hSjWQO1s1IRW7jwOJdt) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/1OrrYsb4N2WMpINJrtrRBR) | 3:56 | 2022-01-21 | 2022-07-29 |
 | [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 | 2022-01-28 |  |
@@ -273,7 +275,7 @@
 | [Vi är överallt](https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG) | [Orphan Ann](https://open.spotify.com/artist/633FjCdzULVbn0CjE820vK) | [The Practice Of Surrender](https://open.spotify.com/album/5UprmCqRU9acn6C6oITQhL) | 5:00 | 2022-01-21 |  |
 | [Vilja](https://open.spotify.com/track/32CngTyROmI3rQzQly467Z) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Minnesmärke](https://open.spotify.com/album/2xqi6xom8eHt1GyEbidRm1) | 19:08 | 2022-01-21 | 2022-07-29 |
 | [Vow](https://open.spotify.com/track/59KxNMmQnuIMMoHsCu7vPX) | [TDSOM](https://open.spotify.com/artist/3DPfgW4qhyNleslbUz2Efn) | [Vow](https://open.spotify.com/album/3o9XrLC64TF8IjbyuSbmNy) | 3:56 | 2022-03-25 |  |
-| [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 |  |
+| [Wasa Stone Trio](https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:15 | 2022-01-21 | 2024-06-09 |
 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 | 2022-01-28 | 2024-05-19 |
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |
 | [Where Shadows Cross](https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d), [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh) | [Where Shadows Cross](https://open.spotify.com/album/1dk1O5iKnW1rcNogvKlqOi) | 2:36 | 2023-10-06 | 2024-05-01 |

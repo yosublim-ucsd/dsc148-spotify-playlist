@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 278506,
       "name": "100 Grandkids",
       "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 170360,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 232211,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3WfSNAoj2D8C9noPSGZZFM"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 256426,
       "name": "Congratulations (feat. Bilal)",
       "url": "https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
@@ -410,10 +410,36 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 256506,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/1OuN92HcVG6NVpWbeESNB3"
+    },
+    {
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Iman Omari",
+          "url": "https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301769,
+      "name": "Fight the Feeling (feat. Kendrick Lamar & Iman Omari)",
+      "url": "https://open.spotify.com/track/0jFxJ1US3dmwQn7DJi269h"
     },
     {
       "album": {
@@ -428,7 +454,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 342040,
       "name": "Good News",
       "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
@@ -500,7 +526,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 113217,
       "name": "Inside Outside",
       "url": "https://open.spotify.com/track/2EFqMCOdTTkcFYHoJH21Jr"
@@ -760,7 +786,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 215413,
       "name": "Perfecto",
       "url": "https://open.spotify.com/track/0Xcy81PsJCOO6mhLZaQyQ4"
@@ -840,7 +866,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 287871,
       "name": "Right",
       "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
@@ -858,7 +884,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 343213,
       "name": "ROS",
       "url": "https://open.spotify.com/track/388jD8ko9cvFM9cd9TYDrl"
@@ -948,7 +974,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 271733,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
@@ -966,7 +992,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 162008,
       "name": "Smile Back",
       "url": "https://open.spotify.com/track/6F9nsukvVbVSVGPCjrnHW4"
@@ -1002,7 +1028,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 326426,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4brX8MJs5hxErgq48f9REO"
@@ -1316,7 +1342,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 288640,
       "name": "What's the Use?",
       "url": "https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs"
@@ -1334,7 +1360,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 250120,
       "name": "Wings",
       "url": "https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo"
@@ -1370,7 +1396,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 304192,
       "name": "Yeah - bonus",
       "url": "https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 TINI, Ca7triel & Paco Amoroso",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Dani Ribba",
   "name": "piola",
   "tracks": [
     {
@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Vandalismo Comparado",
+        "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129945,
+      "name": "Bar de Playa",
+      "url": "https://open.spotify.com/track/1CFZZSdo35zhs2uZ9sFoXv"
+    },
+    {
+      "album": {
         "name": "Bar de Playa",
         "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
       },
@@ -814,10 +832,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 163482,
       "name": "CAMA KING (feat. Chita)",
       "url": "https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u"
+    },
+    {
+      "album": {
+        "name": "CANCI\u00d3N AL DOLOR",
+        "url": "https://open.spotify.com/album/7ifpnlIV75MM1UmKSR5Nx7"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141020,
+      "name": "CANCI\u00d3N AL DOLOR",
+      "url": "https://open.spotify.com/track/79mqphOzYvHLcvIcBZeVb8"
     },
     {
       "album": {
@@ -1086,6 +1122,24 @@
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+    },
+    {
+      "album": {
+        "name": "CRISTAL",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202913,
+      "name": "CRISTAL",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
     },
     {
       "album": {
@@ -1841,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Hijos del Mar",
+        "url": "https://open.spotify.com/album/6HIUSXAa22acCD5CtTr3Ed"
+      },
+      "artists": [
+        {
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+        },
+        {
+          "name": "Sebasti\u00e1n Teysera",
+          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211101,
+      "name": "Hijos del Mar",
+      "url": "https://open.spotify.com/track/3kJQBC699d773mxTQXO28z"
+    },
+    {
+      "album": {
         "name": "HULK",
         "url": "https://open.spotify.com/album/1iRvYnmy5Pf5f1Sny4gizy"
       },
@@ -1874,7 +1950,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 183242,
       "name": "Humo y Menta",
       "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
@@ -2537,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Mejor As\u00ed",
+        "url": "https://open.spotify.com/album/5siU1xeQBfoHuIX6b2Kmev"
+      },
+      "artists": [
+        {
+          "name": "Persse",
+          "url": "https://open.spotify.com/artist/6rKyjr2gRyn5roNM7QR6qT"
+        },
+        {
+          "name": "PADAWVN",
+          "url": "https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133922,
+      "name": "Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/4biLIaK7mnDP20vcbOyCcf"
+    },
+    {
+      "album": {
         "name": "MELANCOL\u00cdA",
         "url": "https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8"
       },
@@ -2690,7 +2788,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 188543,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
@@ -3678,7 +3776,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 71190,
       "name": "q haces?",
       "url": "https://open.spotify.com/track/75UAP2WWZFJQSOk06m1HPT"
@@ -3908,6 +4006,28 @@
       "duration_ms": 201640,
       "name": "Sauce",
       "url": "https://open.spotify.com/track/0KlXfxDmQqz4ajLc4cksyy"
+    },
+    {
+      "album": {
+        "name": "T\u00c1",
+        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213337,
+      "name": "Sencillo",
+      "url": "https://open.spotify.com/track/5Isi6kd1AbNbC27Lix8kD2"
     },
     {
       "album": {
@@ -4346,7 +4466,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 132111,
       "name": "trance ZZZ",
       "url": "https://open.spotify.com/track/5rBfUmYhDghCAOlsd8YXl8"
@@ -4496,7 +4616,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 222908,
       "name": "un d\u00eda",
       "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"

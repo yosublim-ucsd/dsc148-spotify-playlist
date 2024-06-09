@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Trascendental",
+        "url": "https://open.spotify.com/album/37348zTjM2xauDv6Kw2uNR"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151066,
+      "name": "Tat\u00fae tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1DjwxrkhGOuMmHANRblC03"
+    },
+    {
+      "album": {
         "name": "Ventanas Al Viento",
         "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
       },

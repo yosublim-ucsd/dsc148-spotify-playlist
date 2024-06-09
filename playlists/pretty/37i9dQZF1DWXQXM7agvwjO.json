@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: The Chairs (Taiwan)",
-  "num_followers": 96828,
+  "num_followers": 96842,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-06-06 17:19:30",
       "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "added_at": "2024-06-06 17:19:30",
+      "album": {
         "name": "Lola Amour",
         "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 200277,
       "name": "Perih Jerih",
       "url": "https://open.spotify.com/track/5FU11jfMr0J7tr2LJkb1S7"
-    },
-    {
-      "added_at": "2024-06-06 17:19:30",
-      "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-06-06 17:19:30",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2024-06-06 17:19:30",
       "album": {
-        "name": "Getaway (feat. Phum Viphurit)",
-        "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
+        "name": "\u0110\u1ea1i L\u1ed9 M\u1eb7t Tr\u1eddi",
+        "url": "https://open.spotify.com/album/5ysXBJHiqhcE5Pw8p1XDia"
       },
       "artists": [
         {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "Chillies",
+          "url": "https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4"
         }
       ],
-      "duration_ms": 247745,
-      "name": "Getaway (feat. Phum Viphurit)",
-      "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
+      "duration_ms": 271578,
+      "name": "\u0110\u1ea1i L\u1ed9 M\u1eb7t Tr\u1eddi",
+      "url": "https://open.spotify.com/track/0RRaMSF6sPNAvMTntUiv8m"
     },
     {
       "added_at": "2024-06-06 17:19:30",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2024-06-06 17:19:30",
       "album": {
-        "name": "\u0110\u1ea1i L\u1ed9 M\u1eb7t Tr\u1eddi",
-        "url": "https://open.spotify.com/album/5ysXBJHiqhcE5Pw8p1XDia"
+        "name": "Getaway (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
       },
       "artists": [
         {
-          "name": "Chillies",
-          "url": "https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4"
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
         }
       ],
-      "duration_ms": 271578,
-      "name": "\u0110\u1ea1i L\u1ed9 M\u1eb7t Tr\u1eddi",
-      "url": "https://open.spotify.com/track/0RRaMSF6sPNAvMTntUiv8m"
+      "duration_ms": 247745,
+      "name": "Getaway (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/5JfLK7hYOhU3fj2xCxEKQ5"
     },
     {
       "added_at": "2024-06-06 17:19:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-06 17:19:30",
       "album": {
-        "name": "People Never Change",
-        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "People Never Change - Radio Edit",
-      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
-    },
-    {
-      "added_at": "2024-06-06 17:19:30",
-      "album": {
         "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
         "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 130666,
       "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
       "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
+    },
+    {
+      "added_at": "2024-06-06 17:19:30",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
     },
     {
       "added_at": "2024-06-06 17:19:30",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-06-06 17:19:30",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
-      },
-      "artists": [
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
-    },
-    {
-      "added_at": "2024-06-06 17:19:30",
-      "album": {
         "name": "Toast",
         "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 208461,
       "name": "favourite jeans",
       "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
+    },
+    {
+      "added_at": "2024-06-06 17:19:30",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb"
     },
     {
       "added_at": "2024-06-06 17:19:30",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-06-06 17:19:30",
       "album": {
+        "name": "Museum of My Mess",
+        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 269048,
+      "name": "Museum of My Mess",
+      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+    },
+    {
+      "added_at": "2024-06-06 17:19:30",
+      "album": {
         "name": "The Greng Jai Piece",
         "url": "https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 228888,
       "name": "Loving And Letting Go",
       "url": "https://open.spotify.com/track/3Zv4HZiyM8TeAbYGdWysXw"
-    },
-    {
-      "added_at": "2024-06-06 17:19:30",
-      "album": {
-        "name": "\u8e05\u795e\u5922",
-        "url": "https://open.spotify.com/album/5E5BYywSmGzewKitL1WkUB"
-      },
-      "artists": [
-        {
-          "name": "Sorry Youth",
-          "url": "https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp"
-        }
-      ],
-      "duration_ms": 202325,
-      "name": "\u8e05\u795e\u5922",
-      "url": "https://open.spotify.com/track/0RQqs2wG3WHVSl8GF7jNHe"
     },
     {
       "added_at": "2024-06-06 17:19:30",
@@ -1623,38 +1623,6 @@
     {
       "added_at": "2024-06-06 17:19:30",
       "album": {
-        "name": "moon & stars",
-        "url": "https://open.spotify.com/album/6Hr5d75EQeHRSFU9tUQtjS"
-      },
-      "artists": [
-        {
-          "name": "Gabe Watkins",
-          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
-        }
-      ],
-      "duration_ms": 261875,
-      "name": "moon & stars",
-      "url": "https://open.spotify.com/track/3J6JDjIpQmJeRzmt4LhZ9O"
-    },
-    {
-      "added_at": "2024-06-06 17:19:30",
-      "album": {
-        "name": "Museum of My Mess",
-        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 269048,
-      "name": "Museum of My Mess",
-      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
-    },
-    {
-      "added_at": "2024-06-06 17:19:30",
-      "album": {
         "name": "Ode Matahari",
         "url": "https://open.spotify.com/album/6BtjSzF583B56ZvqFb7Oah"
       },
@@ -1671,6 +1639,38 @@
       "duration_ms": 199000,
       "name": "Bermekaran Dan Mewangi",
       "url": "https://open.spotify.com/track/66sMzBAgVVLsyZvJ3pYasC"
+    },
+    {
+      "added_at": "2024-06-06 17:19:30",
+      "album": {
+        "name": "moon & stars",
+        "url": "https://open.spotify.com/album/6Hr5d75EQeHRSFU9tUQtjS"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "duration_ms": 261875,
+      "name": "moon & stars",
+      "url": "https://open.spotify.com/track/3J6JDjIpQmJeRzmt4LhZ9O"
+    },
+    {
+      "added_at": "2024-06-06 17:19:30",
+      "album": {
+        "name": "\u8e05\u795e\u5922",
+        "url": "https://open.spotify.com/album/5E5BYywSmGzewKitL1WkUB"
+      },
+      "artists": [
+        {
+          "name": "Sorry Youth",
+          "url": "https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp"
+        }
+      ],
+      "duration_ms": 202325,
+      "name": "\u8e05\u795e\u5922",
+      "url": "https://open.spotify.com/track/0RQqs2wG3WHVSl8GF7jNHe"
     },
     {
       "added_at": "2024-06-06 17:19:30",

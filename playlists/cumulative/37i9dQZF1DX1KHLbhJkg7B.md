@@ -4,11 +4,11 @@
 
 > Unique covers by your favorite country artists\. Cover: Kane Brown
 
-384 songs - 1 day 0 hr 1 min
+385 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Can’t Get No\) Satisfaction](https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 3:53 | 2023-11-17 |  |
+| [\(I Can’t Get No\) Satisfaction](https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 3:53 | 2023-11-17 | 2024-06-09 |
 | [\(I Never Promised You A\) Rose Garden](https://open.spotify.com/track/3UB02E0dG5TZwEwpeXboFa) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [\(I Never Promised You A\) Rose Garden](https://open.spotify.com/album/7aJEXWVuoBbSkamzRmh3vt) | 3:16 | 2021-12-10 | 2022-07-29 |
 | [\(Sittin' On\) The Dock of the Bay](https://open.spotify.com/track/67sIOix8lfDyBEuoeLa1Zn) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [WWII](https://open.spotify.com/album/33Ln8ZRvitjDtLuW88luIP) | 3:22 | 2021-12-10 | 2022-07-29 |
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/3IUYqtBJqRBZoVliuNKGsg) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [The Barker Family Band](https://open.spotify.com/album/3vG7jde6SsvvX81H3PmhdN) | 3:02 | 2022-01-07 | 2022-07-25 |
@@ -197,6 +197,7 @@
 | [Jolene](https://open.spotify.com/track/6xU4ei3n99VRE7Hog5WZJw) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/5GP6INOrUkZJyXOqoTUlxZ) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Just a Girl](https://open.spotify.com/track/7d5TsfUb4ZTIwso4mGfPpz) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [Just a Girl](https://open.spotify.com/album/1Qufhr4hAi2pr7D8e4L0UD) | 3:23 | 2022-07-08 | 2023-01-06 |
 | [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 | 2021-12-10 | 2023-08-19 |
+| [Landslide](https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Landslide](https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n) | 3:38 | 2024-06-07 |  |
 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 | 2021-12-10 |  |
 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:40 | 2021-12-10 |  |
 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 | 2023-08-18 |  |

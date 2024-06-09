@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,445 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,548 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 9 | [Geldmachine](https://open.spotify.com/track/6YIZiFOhLfdEcI2jVM4rCP) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Geldmachine](https://open.spotify.com/album/3MUFgUWYaa3b4ybEkBnTpQ) | 3:28 |
 | 10 | [Telephone](https://open.spotify.com/track/2ComEzkj1haK6a6iUpV0kQ) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Telephone](https://open.spotify.com/album/022o3XqoWm4c2KfaWyz3jf) | 3:01 |
 | 11 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 |
-| 12 | [FLASH](https://open.spotify.com/track/43tHNO43Zdyw54afFqyG4A) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [FLASH](https://open.spotify.com/album/38bW7731W86Kjp9qwBSYEU) | 2:51 |
+| 12 | [FLASH](https://open.spotify.com/track/43tHNO43Zdyw54afFqyG4A) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [FLASH](https://open.spotify.com/album/38bW7731W86Kjp9qwBSYEU) | 2:51 |
 | 13 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 |
 | 14 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
 | 15 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 74 | [Decisions](https://open.spotify.com/track/6nnCcnnGVEro3Nv69bbGAQ) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Decisions](https://open.spotify.com/album/1gzXIdHdy9H5hO3xpDopW9) | 3:29 |
 | 75 | [Carry On](https://open.spotify.com/track/7hrxuQNDEIUFplq1sH7V8S) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Carry On](https://open.spotify.com/album/24vuN2rplhDYwKI17jwR2Z) | 3:45 |
 | 76 | [Grow Up](https://open.spotify.com/track/4DLDzrBkS6hP34imwHRKb3) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Grow Up](https://open.spotify.com/album/7hPk5gwOPd8LuR10r8FSPm) | 2:36 |
-| 77 | [Scenes from a rooftop](https://open.spotify.com/track/12FmPeSd352BilBmoraPTv) | [Black Tie Affair](https://open.spotify.com/artist/0Da7sIqlMiqvQWLfb6zc1u), [Dennis van Aarssen](https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi), [Marcel Tegelaar](https://open.spotify.com/artist/4K8dW0QvMBesAKXi1mxaDR) | [Scenes from a rooftop](https://open.spotify.com/album/2YA3vbQ8kFrc1PmvIzs4tG) | 2:55 |
+| 77 | [Scenes from a rooftop](https://open.spotify.com/track/12FmPeSd352BilBmoraPTv) | [Black Tie Affair](https://open.spotify.com/artist/0Da7sIqlMiqvQWLfb6zc1u), [Dennis van Aarssen](https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi) | [Scenes from a rooftop](https://open.spotify.com/album/2YA3vbQ8kFrc1PmvIzs4tG) | 2:55 |
 | 78 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 |
 | 79 | [SWEET SMILE](https://open.spotify.com/track/5BY8gNoD2CCzG2dqENJVtq) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [EELS TIME!](https://open.spotify.com/album/2lOHd8IPP9Zw79yL3y9P1f) | 3:28 |
 | 80 | [One Last Gift \- Edit](https://open.spotify.com/track/5yo3rL4CeUX5vYWoXF0txw) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [One Last Gift](https://open.spotify.com/album/2sUVYLvpfUO6ViV1IAwi2S) | 3:34 |

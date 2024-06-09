@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 124341,
+  "num_followers": 124336,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 191400,
       "name": "El Pich\u00f3n",
       "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 6)",
-        "url": "https://open.spotify.com/album/5ulGGeGlvyx9ugZ42cPuzm"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/7bLJ7Df6FLgzVjMzt9Tult"
-        }
-      ],
-      "duration_ms": 251435,
-      "name": "El Viejo del Sombrer\u00f3n",
-      "url": "https://open.spotify.com/track/25iCMmoIUHmuD3tQJ8Pplw"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Homenaje a una Leyenda Viva (Vol. 1)",
         "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 158727,
       "name": "Charanga Campesina",
       "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Colecci\u00f3n Oro la Sonora Dinamita (Vol. 6)",
+        "url": "https://open.spotify.com/album/5ulGGeGlvyx9ugZ42cPuzm"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/7bLJ7Df6FLgzVjMzt9Tult"
+        }
+      ],
+      "duration_ms": 251435,
+      "name": "El Viejo del Sombrer\u00f3n",
+      "url": "https://open.spotify.com/track/25iCMmoIUHmuD3tQJ8Pplw"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "La Decisi\u00f3n Vallenata: la Huella de Tu Amor",
-        "url": "https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr"
-      },
-      "artists": [
-        {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
-        },
-        {
-          "name": "Nayo Quintero",
-          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
-        }
-      ],
-      "duration_ms": 299744,
-      "name": "Toma de M\u00ed",
-      "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 216293,
       "name": "Qu\u00e9 Voy a Hacer Sin Ti",
       "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "La Decisi\u00f3n Vallenata: la Huella de Tu Amor",
+        "url": "https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr"
+      },
+      "artists": [
+        {
+          "name": "Erick Escobar",
+          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+        },
+        {
+          "name": "Nayo Quintero",
+          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
+        }
+      ],
+      "duration_ms": 299744,
+      "name": "Toma de M\u00ed",
+      "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Lo Mejor de los Melodicos Vol. 1",
-        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 200033,
       "name": "La Cinta Verde",
       "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Lo Mejor de los Melodicos Vol. 1",
+        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 162298,
-      "name": "El Ron de Vinola",
-      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "A Pulir la Hebilla",
         "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 176746,
       "name": "Baion de Madrid",
       "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 162298,
+      "name": "El Ron de Vinola",
+      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "\u00c9xitos los Golden Boys",
-        "url": "https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO"
-      },
-      "artists": [
-        {
-          "name": "Los Golden Boys",
-          "url": "https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh"
-        },
-        {
-          "name": "Benny Marquez",
-          "url": "https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J"
-        }
-      ],
-      "duration_ms": 158989,
-      "name": "Pirulino",
-      "url": "https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 219352,
       "name": "Tania",
       "url": "https://open.spotify.com/track/1LARS9cn21Y31d4iX0QsbW"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "\u00c9xitos los Golden Boys",
+        "url": "https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO"
+      },
+      "artists": [
+        {
+          "name": "Los Golden Boys",
+          "url": "https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh"
+        },
+        {
+          "name": "Benny Marquez",
+          "url": "https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J"
+        }
+      ],
+      "duration_ms": 158989,
+      "name": "Pirulino",
+      "url": "https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Guayaba Orquesta \u00c9xitos, Vol.1",
-        "url": "https://open.spotify.com/album/31X8VuNVdSUA3iiffn35FN"
-      },
-      "artists": [
-        {
-          "name": "Guayaba Orquesta",
-          "url": "https://open.spotify.com/artist/0fX4OxM4PrXfSh2ic9Fd7N"
-        }
-      ],
-      "duration_ms": 162430,
-      "name": "El Cuartetazo",
-      "url": "https://open.spotify.com/track/3bvtpzWXdVpU7EoVfoTlVt"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 173371,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/7oeWNxDXjmD6fLyunLunVa"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Guayaba Orquesta \u00c9xitos, Vol.1",
+        "url": "https://open.spotify.com/album/31X8VuNVdSUA3iiffn35FN"
+      },
+      "artists": [
+        {
+          "name": "Guayaba Orquesta",
+          "url": "https://open.spotify.com/artist/0fX4OxM4PrXfSh2ic9Fd7N"
+        }
+      ],
+      "duration_ms": 162430,
+      "name": "El Cuartetazo",
+      "url": "https://open.spotify.com/track/3bvtpzWXdVpU7EoVfoTlVt"
     },
     {
       "added_at": "2023-12-20 18:46:33",

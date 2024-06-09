@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 119392,
+  "num_followers": 119419,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAADCJw6u8kNABEjkPIHY9zkw",
+  "snapshot_id": "ZmJNgAAAAABhSr1YxEBzik6BktlDc4DV",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 200853,
-      "name": "Boom-Boom-Boom",
-      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
+      "duration_ms": 209826,
+      "name": "We\u2019re An American Band",
+      "url": "https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -364,25 +364,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 209826,
-      "name": "We\u2019re An American Band",
-      "url": "https://open.spotify.com/track/52XSq4ZU4Wu3IZ2wcaBhhD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Sick Bubblegum",
-      "url": "https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT"
+      "duration_ms": 200853,
+      "name": "Boom-Boom-Boom",
+      "url": "https://open.spotify.com/track/6GJ3dvNNkXEiGFaMqcVBoY"
     },
     {
       "added_at": null,
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+        "name": "Hellbilly Deluxe 2 (Special Edition)",
+        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
       },
       "artists": [
         {
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 148133,
-      "name": "Dead Girl Superstar",
-      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
+      "duration_ms": 224266,
+      "name": "Sick Bubblegum",
+      "url": "https://open.spotify.com/track/1cbNBIrRWP4PlJeyjb7ZmT"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 227986,
       "name": "American Witch",
       "url": "https://open.spotify.com/track/3ZDnQ5UGuPvRBfUUmTmwEC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "Dead Girl Superstar",
+      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "The Life And Times Of A Teenage Rock God",
-      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 208946,
       "name": "Foxy, Foxy",
       "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "The Life And Times Of A Teenage Rock God",
+      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
     },
     {
       "added_at": null,

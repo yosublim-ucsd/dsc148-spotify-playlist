@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 354102,
+  "num_followers": 354179,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZisjHQAAAAA1eKNmwMmmoBEtpY+b0G9T",
   "tracks": [
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Me Atraiu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 503635,
-      "name": "Me Atraiu - Ao Vivo",
-      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
-    },
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Me Atraiu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 503635,
+      "name": "Me Atraiu - Ao Vivo",
+      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 422333,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF"
       },
@@ -207,18 +191,34 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Isaias Saad",
-        "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
+        "name": "De Dentro Pra Fora",
+        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 333902,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
+      "duration_ms": 307213,
+      "name": "De Dentro Pra Fora",
+      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 422333,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -243,34 +243,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "De Dentro Pra Fora",
-        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+        "name": "Isaias Saad",
+        "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 307213,
-      "name": "De Dentro Pra Fora",
-      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+      "duration_ms": 333902,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -307,6 +291,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 290763,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "\u00danico (Live)",
         "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
       },
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
       "artists": [
         {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
         }
       ],
-      "duration_ms": 290763,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
+      "duration_ms": 297726,
+      "name": "Raridade",
+      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 297726,
-      "name": "Raridade",
-      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 261178,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 288995,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 261178,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -751,38 +751,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Pra que outros possam viver",
-        "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "Vai Valer a Pena",
-      "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Deus de Promessas",
         "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
       },
@@ -803,6 +771,38 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Pra que outros possam viver",
+        "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 386560,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Grande \u00c9 O Meu Deus",
         "url": "https://open.spotify.com/album/2ysGfbNjEcDLoCqP1u20cq"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 325533,
       "name": "Qu\u00e3o Grande \u00e9 o Meu Deus",
       "url": "https://open.spotify.com/track/7DhiPsmpu4kzIQyCtvWqzd"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "T\u00e1 Chorando Por Qu\u00ea?",
-        "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Lu\u00e3 Freitas",
-          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "T\u00e1 Chorando Por Qu\u00ea?",
-      "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -879,6 +859,26 @@
       "duration_ms": 629133,
       "name": "Tu \u00e9s Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "T\u00e1 Chorando Por Qu\u00ea?",
+        "url": "https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Lu\u00e3 Freitas",
+          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "T\u00e1 Chorando Por Qu\u00ea?",
+      "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Gratid\u00e3o (Gratitude)",
+        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 275841,
+      "name": "Gratid\u00e3o (Gratitude)",
+      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 437928,
       "name": "A Ele a Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Gratid\u00e3o (Gratitude)",
-        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 275841,
-      "name": "Gratid\u00e3o (Gratitude)",
-      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Pintor do Mundo",
-        "url": "https://open.spotify.com/album/6GjoyvpMj60P25HXcyPs0q"
+        "name": "Azeite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
       },
       "artists": [
         {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 291317,
-      "name": "Pintor do Mundo",
-      "url": "https://open.spotify.com/track/3Xu39iqbrhEkzGwMNeGKRL"
+      "duration_ms": 272786,
+      "name": "Azeite - Ao Vivo",
+      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Azeite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
+        "name": "Pintor do Mundo",
+        "url": "https://open.spotify.com/album/6GjoyvpMj60P25HXcyPs0q"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
         }
       ],
-      "duration_ms": 272786,
-      "name": "Azeite - Ao Vivo",
-      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
+      "duration_ms": 291317,
+      "name": "Pintor do Mundo",
+      "url": "https://open.spotify.com/track/3Xu39iqbrhEkzGwMNeGKRL"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Excel\u00eancia",
-        "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 333546,
-      "name": "Adorador por Excel\u00eancia",
-      "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Louve (Ao Vivo)",
         "url": "https://open.spotify.com/album/7geG63BdCpln7c2JcpFrKI"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 641142,
       "name": "Un\u00e7\u00e3o Pelo Ar - Ao Vivo",
       "url": "https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Excel\u00eancia",
+        "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 333546,
+      "name": "Adorador por Excel\u00eancia",
+      "url": "https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Ton Canta, Vol. 3",
-        "url": "https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 205282,
-      "name": "O Melhor De Deus",
-      "url": "https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Ton Canta, Vol. 3",
+        "url": "https://open.spotify.com/album/3xcT1zeUCojtJgbIMczyU7"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 205282,
+      "name": "O Melhor De Deus",
+      "url": "https://open.spotify.com/track/2YyQIxL1U8zyN09bxZnL5t"
     },
     {
       "added_at": "2024-04-26 03:44:28",

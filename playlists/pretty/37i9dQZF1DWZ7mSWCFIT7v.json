@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 225293,
+  "num_followers": 225334,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -305,6 +305,22 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
+      "added_at": "2022-12-20 22:24:39",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
       "added_at": "2022-09-27 23:17:09",
       "album": {
         "name": "1994",
@@ -321,20 +337,36 @@
       "url": "https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH"
     },
     {
-      "added_at": "2022-12-20 22:24:39",
+      "added_at": "2024-01-02 19:57:01",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
         }
       ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+      "duration_ms": 248758,
+      "name": "Before I Leave",
+      "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
+    },
+    {
+      "added_at": "2023-01-07 02:10:08",
+      "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -367,38 +399,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2023-01-07 02:10:08",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s"
-    },
-    {
-      "added_at": "2024-01-02 19:57:01",
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/0xnL6goTzcRFKzbrleXfpF"
-      },
-      "artists": [
-        {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        }
-      ],
-      "duration_ms": 248758,
-      "name": "Before I Leave",
-      "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
     },
     {
       "added_at": "2022-09-15 12:23:59",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
-      },
-      "artists": [
-        {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
-        }
-      ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "that day, on the beach",
         "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Ardour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 131709,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "1234,8",
         "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
       },
@@ -1233,20 +1217,20 @@
       "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
     },
     {
-      "added_at": "2023-03-22 17:48:40",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Los muertos no lloran",
-        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+        "name": "Ardour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
       },
       "artists": [
         {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
         }
       ],
-      "duration_ms": 340590,
-      "name": "Los muertos no lloran",
-      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
+      "duration_ms": 131709,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/2z90hHePkp4PufL1R4Y0Hx"
     },
     {
       "added_at": "2022-09-30 02:46:46",
@@ -1265,6 +1249,22 @@
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
+      "added_at": "2023-03-22 17:48:40",
+      "album": {
+        "name": "Los muertos no lloran",
+        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+      },
+      "artists": [
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 340590,
+      "name": "Los muertos no lloran",
+      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Blush",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
     },
     {
-      "added_at": "2022-08-13 02:22:47",
-      "album": {
-        "name": "Summering (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 88960,
-      "name": "Summer Lawns",
-      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
-    },
-    {
       "added_at": "2023-08-17 17:21:25",
       "album": {
         "name": "Circuit Current",
@@ -1311,22 +1295,6 @@
       "duration_ms": 247558,
       "name": "Circuit Current",
       "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Brainwave Technology",
-        "url": "https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf"
-      },
-      "artists": [
-        {
-          "name": "Michael Mayer",
-          "url": "https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI"
-        }
-      ],
-      "duration_ms": 407991,
-      "name": "Brainwave Technology",
-      "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
       "added_at": "2023-05-24 01:46:16",
@@ -1351,6 +1319,38 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
+    },
+    {
+      "added_at": "2022-08-13 02:22:47",
+      "album": {
+        "name": "Summering (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 88960,
+      "name": "Summer Lawns",
+      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Brainwave Technology",
+        "url": "https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf"
+      },
+      "artists": [
+        {
+          "name": "Michael Mayer",
+          "url": "https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI"
+        }
+      ],
+      "duration_ms": 407991,
+      "name": "Brainwave Technology",
+      "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1385,6 +1385,22 @@
       "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
+      "added_at": "2022-08-24 01:27:39",
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
+      },
+      "artists": [
+        {
+          "name": "Floatleaf",
+          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
       "added_at": "2022-01-12 18:40:19",
       "album": {
         "name": "E2-XO",
@@ -1401,20 +1417,20 @@
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
-      "added_at": "2022-08-24 01:27:39",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
+        "name": "Muckbirth",
+        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
       },
       "artists": [
         {
-          "name": "Floatleaf",
-          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Eve",
-      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+      "duration_ms": 197142,
+      "name": "Muckbirth",
+      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1435,22 +1451,6 @@
       "duration_ms": 316000,
       "name": "Attende",
       "url": "https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Muckbirth",
-        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
-      },
-      "artists": [
-        {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Muckbirth",
-      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1521,6 +1521,22 @@
       "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
     },
     {
+      "added_at": "2022-08-03 02:50:08",
+      "album": {
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+      },
+      "artists": [
+        {
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
+    },
+    {
       "added_at": "2023-10-28 00:12:45",
       "album": {
         "name": "Wiegenmusik / Constant Structure",
@@ -1537,20 +1553,36 @@
       "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
     },
     {
-      "added_at": "2022-08-03 02:50:08",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+        "name": "Obit For Sunshade",
+        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
       },
       "artists": [
         {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+          "name": "Hotspring",
+          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
+      "duration_ms": 171020,
+      "name": "Resounding",
+      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Nightwidth",
+        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
+      },
+      "artists": [
+        {
+          "name": "Anders Ilar",
+          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
+        }
+      ],
+      "duration_ms": 439786,
+      "name": "Riding Metal Mosquitos",
+      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1573,22 +1605,6 @@
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Obit For Sunshade",
-        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
-      },
-      "artists": [
-        {
-          "name": "Hotspring",
-          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
-        }
-      ],
-      "duration_ms": 171020,
-      "name": "Resounding",
-      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
-    },
-    {
       "added_at": "2023-03-03 04:07:38",
       "album": {
         "name": "Was Du Suchst",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Nightwidth",
-        "url": "https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q"
+        "name": "Black Toms",
+        "url": "https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l"
       },
       "artists": [
         {
-          "name": "Anders Ilar",
-          "url": "https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF"
+          "name": "Pedro Vian",
+          "url": "https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE"
         }
       ],
-      "duration_ms": 439786,
-      "name": "Riding Metal Mosquitos",
-      "url": "https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3"
+      "duration_ms": 339479,
+      "name": "Cops de Cap",
+      "url": "https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1635,22 +1651,6 @@
       "duration_ms": 301153,
       "name": "Rotating In Unison",
       "url": "https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Black Toms",
-        "url": "https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l"
-      },
-      "artists": [
-        {
-          "name": "Pedro Vian",
-          "url": "https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE"
-        }
-      ],
-      "duration_ms": 339479,
-      "name": "Cops de Cap",
-      "url": "https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY"
     },
     {
       "added_at": "2021-10-06 04:42:05",

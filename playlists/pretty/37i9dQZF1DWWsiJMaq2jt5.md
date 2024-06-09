@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4D22jVMhvZgzvt8Hh9AcKY">Brodka</a>, <a href="spotify:artist:6aGmKxXoKrSdovRUn8MBhZ">Margaret</a>, <a href="spotify:artist:65RQbLHJIWPfWwxYJ5a5BZ">Rosalie.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,639 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,688 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 56390,
+  "num_followers": 56498,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "4 The Wolves",
-        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
-      },
-      "artists": [
-        {
-          "name": "!Sooks",
-          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
-        }
-      ],
-      "duration_ms": 521682,
-      "name": "Eyesolation",
-      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 419465,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "4 The Wolves",
+        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "duration_ms": 521682,
+      "name": "Eyesolation",
+      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -455,18 +455,30 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
+        "name": "Phola Nhliziyo",
+        "url": "https://open.spotify.com/album/3CbBmHCZy9BJPPWVl7ZkSS"
       },
       "artists": [
         {
-          "name": "Hypaphonik",
-          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
         }
       ],
-      "duration_ms": 373448,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F"
+      "duration_ms": 376477,
+      "name": "Phola Nhliziyo",
+      "url": "https://open.spotify.com/track/0ziisLze9KEolVdFZTdMfM"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -519,22 +531,18 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Lost In Me",
-        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
       },
       "artists": [
         {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        },
-        {
-          "name": "Keziah Tehillah",
-          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
         }
       ],
-      "duration_ms": 387236,
-      "name": "Lost In Me",
-      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
+      "duration_ms": 373448,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -551,6 +559,26 @@
       "duration_ms": 419010,
       "name": "Life",
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Lost In Me",
+        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Keziah Tehillah",
+          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
+        }
+      ],
+      "duration_ms": 387236,
+      "name": "Lost In Me",
+      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -923,6 +951,22 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
+        "name": "Trace EP",
+        "url": "https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3"
+      },
+      "artists": [
+        {
+          "name": "The Godfathers Of Deep House SA",
+          "url": "https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND"
+        }
+      ],
+      "duration_ms": 428933,
+      "name": "Truth - Nostalgic Mix",
+      "url": "https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
         "name": "Old but New Last Episode",
         "url": "https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4"
       },
@@ -971,46 +1015,6 @@
       "duration_ms": 198000,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0WLa7Q0oy1MftXRRfDVnMK"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "Trace EP",
-        "url": "https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3"
-      },
-      "artists": [
-        {
-          "name": "The Godfathers Of Deep House SA",
-          "url": "https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND"
-        }
-      ],
-      "duration_ms": 428933,
-      "name": "Truth - Nostalgic Mix",
-      "url": "https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "The Whole Thing",
-        "url": "https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1"
-      },
-      "artists": [
-        {
-          "name": "Black Villain",
-          "url": "https://open.spotify.com/artist/3CUEUOOinhiFpSHYUNB43W"
-        },
-        {
-          "name": "!Sooks",
-          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
-        },
-        {
-          "name": "Lunga SA",
-          "url": "https://open.spotify.com/artist/5wr1vRS4fvNtOEG1S4zEAQ"
-        }
-      ],
-      "duration_ms": 412631,
-      "name": "The Whole Thing",
-      "url": "https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6"
     }
   ],
   "unique_name": "Deep House Session",

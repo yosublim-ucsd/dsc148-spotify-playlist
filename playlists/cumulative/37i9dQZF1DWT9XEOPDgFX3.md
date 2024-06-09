@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Ruby Waters
 
-491 songs - 1 day 6 hr 17 min
+493 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [bike again](https://open.spotify.com/track/2D7pGG31lR1WNjPY4x8gEY) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [bike again](https://open.spotify.com/album/0BPzUTfIjnEmv7nIg1RRxl) | 3:04 | 2022-11-11 | 2023-04-23 |
 | [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-04-04 |  |
 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 | 2024-02-16 |  |
-| [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 | 2022-01-21 |  |
+| [Blindsided](https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF) | 3:42 | 2022-01-21 | 2024-06-09 |
 | [bloomington](https://open.spotify.com/track/4Iyma8CFiTD2s2PGgOtsF6) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [what we leave behind](https://open.spotify.com/album/0WXOsTUPDIhkcG9JzWnpVM) | 4:19 | 2023-07-28 |  |
 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 | 2022-12-16 |  |
 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 | 2023-05-12 |  |
@@ -99,7 +99,7 @@
 | [Coffee](https://open.spotify.com/track/6Nar1OSCQBUqXQ7G6lUIq1) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coffee](https://open.spotify.com/album/6fUx09147ONG7cKZyHK1cC) | 2:43 | 2023-12-01 | 2023-12-25 |
 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 | 2024-05-31 |  |
 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 | 2023-07-21 |  |
-| [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 | 2024-06-07 |
+| [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 |  |
 | [Convention](https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:16 | 2022-04-13 | 2022-11-26 |
 | [Convention](https://open.spotify.com/track/2QnSMKFZw9dD2Fhp0bO3lb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 3:16 | 2022-12-16 | 2023-05-18 |
 | [Cool Dry Place](https://open.spotify.com/track/1dHDITnfhOShBOAqyqGJnw) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/19KzfzLfugS5xEMPOVUQuv) | 5:00 | 2022-01-21 | 2022-07-28 |
@@ -192,7 +192,7 @@
 | [Hold My Hand](https://open.spotify.com/track/1X5Skx2pTRXmaPblH3sKwW) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hold My Hand](https://open.spotify.com/album/1tMTEwX99b27pqjQj5XwDN) | 3:59 | 2023-10-06 | 2023-10-14 |
 | [Holding You There](https://open.spotify.com/track/2XkMwuRLWYaGfpNd9jpdDU) | [Georgia Duncan](https://open.spotify.com/artist/76QuBzf0cdwd8G8IMrbllG) | [The Light](https://open.spotify.com/album/6JsxLyhFwGTNFiM8ld8RJU) | 2:47 | 2022-04-13 | 2022-07-22 |
 | [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-05 | 2024-02-17 |
-| [Holdup \(with Claud\)](https://open.spotify.com/track/22cA60EuodgZxyIIOyHaQ8) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Holdup \(with Claud\)](https://open.spotify.com/album/4lqj5vbIr8AraiKAfmgZb9) | 2:36 | 2024-03-08 |  |
+| [Holdup \(with Claud\)](https://open.spotify.com/track/22cA60EuodgZxyIIOyHaQ8) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Holdup \(with Claud\)](https://open.spotify.com/album/4lqj5vbIr8AraiKAfmgZb9) | 2:36 | 2024-03-08 | 2024-06-09 |
 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-04-29 | 2023-06-26 |
 | [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 | 2023-07-28 | 2023-10-05 |
 | [Hoops](https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Less Ready to Go](https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa) | 4:27 | 2022-01-21 | 2023-06-03 |
@@ -366,7 +366,7 @@
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-21 | 2022-07-28 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-04-29 | 2024-04-19 |
 | [Say!](https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Popped Heart](https://open.spotify.com/album/7789tm9Qro5oSNkVgIUSQS) | 3:52 | 2024-04-12 | 2024-06-01 |
-| [Scorpions Don't Live Forever](https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Scorpions Don't Live Forever](https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM) | 4:32 | 2024-03-29 |  |
+| [Scorpions Don't Live Forever](https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Scorpions Don't Live Forever](https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM) | 4:32 | 2024-03-29 | 2024-06-09 |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2024-02-16 |  |
 | [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 | 2023-12-01 |  |
 | [Separate Bills](https://open.spotify.com/track/6vunTc3ElwejXHngcut7el) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj) | 2:18 | 2022-04-13 | 2022-07-27 |
@@ -469,9 +469,11 @@
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2022-01-21 | 2022-07-29 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2022-04-29 | 2024-04-19 |
 | [Wasted Time](https://open.spotify.com/track/3q9HEjBxDYlQJ4kBMDowVy) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Summer Quarter](https://open.spotify.com/album/5NM38tbdokav4kVK1JaUI5) | 3:36 | 2022-01-21 | 2022-07-26 |
+| [Wasting Your Love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Wasting Your Love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 | 2024-06-07 |  |
 | [Waving, Smiling](https://open.spotify.com/track/3livLiZ1PHLjeDsLb8CtOi) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Waving, Smiling](https://open.spotify.com/album/2S05gVrxrxqnbFEgjBHgQS) | 3:52 | 2022-01-21 | 2022-07-28 |
 | [Waving, Smiling](https://open.spotify.com/track/4hJEhCACCeA8U4CyTP4BDw) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Whole New Mess](https://open.spotify.com/album/1Y0nAMTZkFEU0cmSkk751e) | 3:52 | 2022-04-29 | 2023-01-19 |
 | [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 | 2022-05-31 | 2023-02-25 |
+| [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 | 2024-06-07 |  |
 | [Wet Road](https://open.spotify.com/track/0KCj0EwgRrQuRcdBgQPzjC) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Wet Road](https://open.spotify.com/album/5bysiVTvfUkDJ3YydbbYzu) | 3:24 | 2022-01-21 | 2022-04-14 |
 | [Whatever You Want](https://open.spotify.com/track/1RrxcexvncFGK8gniFrvty) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Whatever You Want](https://open.spotify.com/album/3LcMJUKvD40lP4a3AjQVzc) | 3:40 | 2024-02-23 | 2024-03-30 |
 | [What’s So Funny](https://open.spotify.com/track/01tAXoPSn8QK4O4CaJzdtb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:32 | 2023-04-07 | 2024-01-06 |

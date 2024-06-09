@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 209352,
       "name": "Brujas",
       "url": "https://open.spotify.com/track/0JapvpbFcgy3NzB8zeVAw9"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 153165,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 186982,
       "name": "Envuelvo",
       "url": "https://open.spotify.com/track/0m9ML0rLL7F271W7N88TpQ"
@@ -6800,7 +6800,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 123404,
       "name": "i wanna be yours.",
       "url": "https://open.spotify.com/track/5XNIBSzBjv2MWXoZHnxSlL"
@@ -7842,7 +7842,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 159957,
       "name": "Ladies Of The Fight",
       "url": "https://open.spotify.com/track/1JtafYgKoyS7ifGy0IGIdi"
@@ -8264,7 +8264,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 196011,
       "name": "Living In A Dream",
       "url": "https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR"
@@ -9724,6 +9724,24 @@
       "duration_ms": 201874,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/6clLjwILj0le56gUYtluYG"
+    },
+    {
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
     },
     {
       "album": {
@@ -12252,7 +12270,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 186589,
       "name": "Since the sun set down",
       "url": "https://open.spotify.com/track/4RRLuD2ULuTHzzIittaHB0"
@@ -13096,6 +13114,28 @@
       "duration_ms": 177773,
       "name": "Sunburnt Shoulders",
       "url": "https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC"
+    },
+    {
+      "album": {
+        "name": "Sunshine In Atalaya",
+        "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
+      },
+      "artists": [
+        {
+          "name": "Visti's Vinyl Collective",
+          "url": "https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl"
+        },
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262071,
+      "name": "Sunshine In Atalaya",
+      "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
     },
     {
       "album": {
@@ -15000,7 +15040,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 207916,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/0CSC8WLiktB23J7Y76fj1o"
@@ -15080,7 +15120,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 143437,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb"
@@ -15106,7 +15146,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 201521,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/0hpUFtpTBloBx2FFBtv1DI"

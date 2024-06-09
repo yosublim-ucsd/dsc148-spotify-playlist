@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 66280,
       "name": "Beauty Turns Men to Beasts",
       "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 110906,
       "name": "Fury Drives Into Camp",
       "url": "https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ"
@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "Still In This Fight",
+      "url": "https://open.spotify.com/track/1OlsfairNYKwZfCEmi8NcB"
+    },
+    {
+      "album": {
         "name": "The Swimmers (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4OzF2tJu8iUXybzcNJidMk"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 97106,
       "name": "The Clam Shell Challenge",
       "url": "https://open.spotify.com/track/5QUUxWpWBDOK1yTcDXB3Bp"
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 289320,
       "name": "We Took To The Skies",
       "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 102080,
       "name": "Who Are You Greeting My Love?",
       "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"

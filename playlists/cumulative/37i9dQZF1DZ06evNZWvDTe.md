@@ -2,7 +2,7 @@
 
 ### [This Is Sarkodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZWvDTe)
 
-> This is Sarkodie\. Tutti i brani in un'unica playlist.
+> This is Sarkodie\. The essential tracks, all in one playlist.
 
 168 songs - 10 hr 5 min
 
@@ -134,7 +134,7 @@
 | [Pon D Ting \(feat\. Banky W\)](https://open.spotify.com/track/6Zb7dUqj1DyGgJu90TMerQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:11 | 2021-12-28 | 2022-10-13 |
 | [Psalm 35](https://open.spotify.com/track/0SuVrH28fX2pHzKpFuYQny) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Shay On You](https://open.spotify.com/album/1hTBtOkNbOrwbHVieubMke) | 3:32 | 2022-10-16 | 2023-05-15 |
 | [Rns Rich Nigga Shit](https://open.spotify.com/track/4vKO4U7OCu9lcWnW7NkZmp) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Rns Rich Nigga Shit](https://open.spotify.com/album/1ToAS30v6lc1e7qAtqRliw) | 3:22 | 2022-10-19 | 2022-11-13 |
-| [Rollies and Cigars](https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:27 | 2021-12-28 |  |
+| [Rollies and Cigars](https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:27 | 2021-12-28 | 2024-06-09 |
 | [Round 2 \(feat\. Giggs\)](https://open.spotify.com/track/3DvvlGRUru088PLXlzlcEG) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 2:56 | 2022-01-01 | 2022-03-23 |
 | [Saa Okodie No \(feat\. Obrafour\)](https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:08 | 2022-02-09 |  |
 | [Saara](https://open.spotify.com/track/3386NCYBvMZAxIagIBIIRv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Saara](https://open.spotify.com/album/7LoPpiCoplyvf4dcVY91u9) | 3:19 | 2021-12-28 | 2022-04-18 |

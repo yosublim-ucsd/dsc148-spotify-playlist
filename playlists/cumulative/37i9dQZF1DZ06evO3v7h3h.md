@@ -2,7 +2,7 @@
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. Tutti i brani in un'unica playlist.
+> This is Rashid\. Todos os maiores hits em uma só playlist.
 
 65 songs - 4 hr 37 min
 

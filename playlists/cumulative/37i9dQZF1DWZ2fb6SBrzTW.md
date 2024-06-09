@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-414 songs - 21 hr 23 min
+415 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R) | 3:31 | 2023-03-17 | 2024-04-19 |
 | [Who Is Your Guy? \- Remix](https://open.spotify.com/track/5ZUMDhlhC6GmjQKdAkUxrh) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Who Is Your Guy? \(Remix\)](https://open.spotify.com/album/0ASoti9sg1ffkaHutFhATQ) | 3:31 | 2023-03-04 | 2023-03-29 |
 | [Whocup Boys Anthem](https://open.spotify.com/track/5wBWGzGqNMj1LwPdxY8q7a) | [Folami](https://open.spotify.com/artist/0TBMniRHfodVe0Tlciltr8) | [Whocup Boys Anthem](https://open.spotify.com/album/1unMZb7fvlXwRmdkAOOKjL) | 2:14 | 2024-03-08 | 2024-05-17 |
+| [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 | 2024-06-07 |  |
 | [Wild Party](https://open.spotify.com/track/1MPE4zErPnH2kCF5oqUO0q) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wild Party](https://open.spotify.com/album/6nSCa4VbVgAHdTrZee4vdQ) | 3:25 | 2022-06-23 | 2022-07-31 |
 | [Woman](https://open.spotify.com/track/0UYJi0cElsrmNF4iaa1MgM) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 3:58 | 2021-06-07 | 2022-07-28 |
 | [Woman](https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Woman](https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v) | 3:58 | 2021-06-07 | 2023-09-28 |
@@ -420,7 +421,7 @@
 | [Yenco!](https://open.spotify.com/track/25Cs1b7GV45uDa9XX82JFB) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Hassani Workout](https://open.spotify.com/album/3bBp5q26jEDLBueY371ps6) | 5:13 | 2024-01-12 | 2024-01-26 |
 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 | 2023-09-09 | 2023-10-18 |
 | [YOLO](https://open.spotify.com/track/5E6bsNA69z9SMXM6hOWqdU) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [YOLO](https://open.spotify.com/album/32XuYqGbCUBVWZaiMlTWdd) | 2:54 | 2023-06-02 | 2023-06-17 |
-| [Zazazela \(feat\. Zaba\)](https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU) | 4:39 | 2024-05-10 |  |
+| [Zazazela \(feat\. Zaba\)](https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU) | 4:39 | 2024-05-10 | 2024-06-09 |
 | [Ziyasha \(feat\. LeeMcKrazy, Amu Classic & Kappie\)](https://open.spotify.com/track/40uSx0ulTsWa9Gq0M2dqHT) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Amu Classic](https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H), [Kappie](https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC) | [Midnight In Sunnyside 3](https://open.spotify.com/album/5lY5qpLt6oEM8fBEP99FkR) | 6:21 | 2024-04-19 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

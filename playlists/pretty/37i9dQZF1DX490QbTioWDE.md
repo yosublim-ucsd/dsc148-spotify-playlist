@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Valentina Marquez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,619 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,750 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 35 | [Libertad Provisoria](https://open.spotify.com/track/7uipuYYQE5kAaiGVC4lxqM) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Libertad Provisoria](https://open.spotify.com/album/4qQBzFa6K1RLY2YQrfEgjQ) | 2:57 |
 | 36 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 |
 | 37 | [Luna](https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Luna](https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3) | 3:05 |
-| 38 | [Si Fuera Tan Fácil](https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Si Fuera Tan Fácil](https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ) | 3:27 |
+| 38 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
 | 39 | [Que Ironia](https://open.spotify.com/track/0E9YlthbJZ6WOPKi3LTBJc) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:11 |
-| 40 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |
+| 40 | [Si Fuera Tan Fácil](https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Si Fuera Tan Fácil](https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ) | 3:27 |
 | 41 | [Respetemos el duelo](https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dos Amantes](https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2) | 2:54 |
 | 42 | [Universo Paralelo](https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:37 |
 | 43 | [Tal Para Cual](https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Tal Para Cual](https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv) | 2:35 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 73 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 |
 | 74 | [Somos lo Que Fuimos \- Remix](https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Somos lo Que Fuimos \(Remix\)](https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx) | 3:53 |
 | 75 | [La Carta](https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Fiesta Inolvidable Con La Barra](https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW) | 4:05 |
-| 76 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
-| 77 | [La Pupera](https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5) | [La Mona Jimenez / los caligaris](https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf) | [La Pupera](https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U) | 2:28 |
+| 76 | [La Pupera](https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5) | [La Mona Jimenez / los caligaris](https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf) | [La Pupera](https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U) | 2:28 |
+| 77 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 |
 | 78 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 |
 | 79 | [Aguardiente](https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Aguardiente](https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR) | 3:19 |
 | 80 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512499,
+  "num_followers": 1512478,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
         "name": "Sei L\u00e1",
         "url": "https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 190363,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 198924,
       "name": "Aindas",
       "url": "https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2024-03-18 13:00:14",

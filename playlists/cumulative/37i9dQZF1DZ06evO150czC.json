@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Midian Lima. The essential tracks, all in one playlist.",
+  "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Midian Lima",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 206000,
       "name": "Nasci Pra Deus",
       "url": "https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU"
@@ -798,6 +798,28 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "album": {
+        "name": "Quando o Vento Soprar (Legado)",
+        "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
+      },
+      "artists": [
+        {
+          "name": "Beno C\u00e9sar",
+          "url": "https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262002,
+      "name": "Quando o Vento Soprar (Legado)",
+      "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
     },
     {
       "album": {

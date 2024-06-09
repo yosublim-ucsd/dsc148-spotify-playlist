@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is George Michael. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is George Michael. Los temas esenciales, todos en una lista.",
   "name": "This Is George Michael",
   "tracks": [
     {
@@ -98,7 +98,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 255733,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 278573,
       "name": "An Easier Affair - Remastered 2006",
       "url": "https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 323320,
       "name": "How Do You Keep the Music Playing? (with George Michael)",
       "url": "https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 309821,
       "name": "Through - Live",
       "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"

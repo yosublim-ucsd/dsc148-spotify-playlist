@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-578 songs - 1 day 0 hr 24 min
+580 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 | 2023-06-12 |  |
 | [Jeepers Creepers](https://open.spotify.com/track/57wxf2l2H1isSRVLf5JjN0) | [Slayloverboy](https://open.spotify.com/artist/03v1lj3scVQgZT2j60MtKN) | [Jeepers Creepers](https://open.spotify.com/album/5JZFCoN3UgZqrPItBeELe6) | 2:40 | 2023-06-12 | 2023-12-14 |
 | [Jump](https://open.spotify.com/track/15eRqPcU5fljo3m8tLkyfV) | [MNDLB5](https://open.spotify.com/artist/4dLZTad0O8DMQJTjUorTqk) | [Jump](https://open.spotify.com/album/3MEfKyZl5vDX7kvS3mM6n3) | 2:18 | 2024-04-01 | 2024-05-08 |
+| [JUNBI](https://open.spotify.com/track/6XlA9l2mv5czqDrMkR9wp2) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [JUNBI](https://open.spotify.com/album/4EMSvqstx2Dwo1Fe9HCjJK) | 1:36 | 2024-06-08 |  |
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2023-06-12 |  |
 | [Keraunos Killer](https://open.spotify.com/track/2rdSnAJHaASxsC8EwGaM7i) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [Keraunos Killer](https://open.spotify.com/album/76lI16y0j41xwPVpbYGT0V) | 2:07 | 2023-06-12 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2023-06-12 |  |
@@ -362,6 +363,7 @@
 | [NEON BLADE](https://open.spotify.com/track/56aUyjq8nTiqcfPD5qBLfm) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE) | 4:25 | 2023-06-12 |  |
 | [Netflix and Kill](https://open.spotify.com/track/3MrGoHZzskvzIZ6Lfe8v4v) | [BOOGEYMVN](https://open.spotify.com/artist/6PCexaOMXM5GALQuF1WgLV) | [ONE GOOD SCARE](https://open.spotify.com/album/2p0aDqg3nxHtYkH8atyTzo) | 2:12 | 2023-12-21 | 2024-03-09 |
 | [New Chain Leak](https://open.spotify.com/track/3MErOGmzTKf9e6Mz61KFZJ) | [Att!cus](https://open.spotify.com/artist/5Ew66gq1eIUqeQWZ7wt1k7), [4NZO](https://open.spotify.com/artist/2J3vLuQpjTalAOkZoqaT4h) | [4!](https://open.spotify.com/album/5Gn2RCN95GAiu656ENCgGb) | 2:11 | 2023-07-22 | 2023-08-28 |
+| [NICOLE ANISTON](https://open.spotify.com/track/07aYKX86UyaEJCtBFLKNlc) | [thmpsn](https://open.spotify.com/artist/4RguKaIgVQ9Iep7mYAJ6J4), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj), [Nicole Aniston](https://open.spotify.com/artist/7mwm8lLPIVdnmvMfshzTsV) | [NICOLE ANISTON](https://open.spotify.com/album/7CjdFHKcKpu4ttUmo5rSsR) | 2:36 | 2024-06-08 |  |
 | [NIGHT CITY](https://open.spotify.com/track/3YaLFZ52OqM3iNwQvnxThf) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4), [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [NIGHT CITY](https://open.spotify.com/album/2gOgXmUqCOBquQnOagcgDU) | 1:56 | 2023-06-12 |  |
 | [No Dissin](https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [No Dissin](https://open.spotify.com/album/6FkChT69eCHKp0E9omQ6nn) | 2:48 | 2023-09-21 | 2024-01-13 |
 | [NO MAN \- Remix](https://open.spotify.com/track/6Mvr0DEqSrJBe73pbRh8ry) | [MONSTR](https://open.spotify.com/artist/0mOH7YNTSXh14fVZ8EgHpn) | [NO MAN \(Remix\)](https://open.spotify.com/album/5RR61VWkWlmN4uF3SZrkkS) | 2:31 | 2024-03-06 | 2024-04-12 |

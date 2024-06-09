@@ -4,7 +4,7 @@
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Adrian Bello
 
-349 songs - 19 hr 7 min
+350 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Soy Un Bombón](https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Soy Un Bombón](https://open.spotify.com/album/1ZrKg7EXPJ787usjfGVzcY) | 3:36 | 2023-03-31 | 2023-06-03 |
 | [Space Caco](https://open.spotify.com/track/5VIsazAgDf3bouYwfArMaB) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [La Vanda](https://open.spotify.com/artist/2nITWw5w36jbeuUe0NzArh) | [Bairopolis](https://open.spotify.com/album/1IBYaybDDIcaJuNQDfYQZQ) | 2:57 | 2021-12-09 | 2022-06-01 |
 | [Sueño](https://open.spotify.com/track/2uEchvRtFmNNvTiQQSi2am) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Sueño](https://open.spotify.com/album/7z7pDIZ6snsyjddw5oi3bB) | 3:07 | 2024-06-07 |  |
-| [Sueños](https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Sueños](https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V) | 3:45 | 2023-11-17 |  |
+| [Sueños](https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Sueños](https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V) | 3:45 | 2023-11-17 | 2024-06-09 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2022-06-01 | 2023-01-25 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/64zeBVnG4AnN4gnNrKQEvX) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:39 | 2022-06-01 | 2023-01-25 |
 | [Súper Heroína](https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:30 | 2023-06-02 | 2023-08-24 |
@@ -327,6 +327,7 @@
 | [Todo Es Pasajero](https://open.spotify.com/track/2Kh4UPpNjymoCsiSiLwOIr) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Todo Es Pasajero](https://open.spotify.com/album/3NTwWb7ZcolL3oSP8kzJM3) | 3:10 | 2021-12-09 | 2022-06-01 |
 | [TODOELORO](https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [TODOELORO](https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV) | 2:51 | 2022-07-05 | 2023-01-25 |
 | [TODOELORO](https://open.spotify.com/track/3jSwGrzDjeTIgCEsxSCUkl) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [TODOELORO](https://open.spotify.com/album/6i7YAlim3n93EXo4UQj8YD) | 2:51 | 2022-06-01 | 2022-10-14 |
+| [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 | 2024-06-07 |  |
 | [Tomaza](https://open.spotify.com/track/5myXZpBUJCh0OQv3ix6bLs) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Piq Montano](https://open.spotify.com/artist/1nRQgqSXHnkam4AkIk1ou1) | [Tomaza](https://open.spotify.com/album/1uyLzDA4rSRLuB1BkGEDtd) | 3:13 | 2021-12-09 | 2022-06-01 |
 | [Toy en la Calle](https://open.spotify.com/track/7LWqY2F8ACMsVY0R778xMs) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 3:10 | 2021-12-09 | 2023-01-25 |
 | [Toy en la calle 90' \- Pomperó Versión](https://open.spotify.com/track/7gGZFs8zmZvG52xLEzUKwV) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Toy en la calle 90'](https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s) | 2:47 | 2022-06-01 | 2023-01-25 |

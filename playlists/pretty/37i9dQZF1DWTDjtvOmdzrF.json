@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 554852,
+  "num_followers": 554870,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "No-Dream Land",
-        "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
-      },
-      "artists": [
-        {
-          "name": "Float",
-          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Pulang",
-      "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
         "name": "Apa Mungkin (Demo Version)",
         "url": "https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 249097,
       "name": "Lebih Dari Egoku",
       "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
+        "name": "No-Dream Land",
+        "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
+      },
+      "artists": [
+        {
+          "name": "Float",
+          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Pernah Muda",
+      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
+    },
+    {
+      "added_at": "2024-06-05 07:57:22",
+      "album": {
         "name": "Tanpa Pamrih",
         "url": "https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
-    },
-    {
-      "added_at": "2024-06-05 07:57:22",
-      "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Pernah Muda",
-      "url": "https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT"
     },
     {
       "added_at": "2024-06-05 07:57:22",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-06-05 07:57:22",
       "album": {
-        "name": "Buktikan",
-        "url": "https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM"
+        "name": "Terus Bersinar",
+        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "VIDI",
-          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+          "name": "Lobow",
+          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Buktikan",
-      "url": "https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY"
+      "duration_ms": 284946,
+      "name": "Kau Cantik Hari Ini",
+      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
     }
   ],
   "unique_name": "Kopikustik",

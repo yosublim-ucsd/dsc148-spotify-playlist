@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,398 songs - 2 day 4 hr 40 min
+1,399 songs - 2 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -867,7 +867,7 @@
 | [Not Like This](https://open.spotify.com/track/7HY7caGt2kKJAtu756UcB8) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Not Like This](https://open.spotify.com/album/7eWBzYLHIvD6Tj1JeG8NUX) | 2:43 | 2023-09-22 |  |
 | [November Jam](https://open.spotify.com/track/7FQwK58IK5vKwEyLuZcsfo) | [Bauke Top](https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX) | [222](https://open.spotify.com/album/4QeTykuNbVZk6q2CdVlIAN) | 1:58 | 2022-03-18 |  |
 | [Now or Never](https://open.spotify.com/track/3KOdSAFAouynkqzRd5cNtT) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Now or Never](https://open.spotify.com/album/7jJicDiVXaWohB828hThv0) | 2:18 | 2022-11-25 | 2023-09-29 |
-| [Nyc By Train](https://open.spotify.com/track/2vYIBePZCOFnuxMzLY4AtH) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Nyc By Train](https://open.spotify.com/album/7pg5sER2qu1dN9trJaizv3) | 1:32 | 2023-09-22 |  |
+| [Nyc By Train](https://open.spotify.com/track/2vYIBePZCOFnuxMzLY4AtH) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Nyc By Train](https://open.spotify.com/album/7pg5sER2qu1dN9trJaizv3) | 1:32 | 2023-09-22 | 2024-06-09 |
 | [Oakman](https://open.spotify.com/track/7H61nTj0INqY1oXS4OMd6f) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [Oakman](https://open.spotify.com/album/0jBIlySAdTWJ96emamDarx) | 2:31 | 2022-01-27 | 2022-04-22 |
 | [oasis](https://open.spotify.com/track/7GIBH22qY9MFfnoZZtBn4P) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [oasis](https://open.spotify.com/album/0quVUjufhVdhBPiggdCl3k) | 2:10 | 2023-09-22 |  |
 | [Oasis](https://open.spotify.com/track/6GsBfkNYIF71yW65Ip7C8K) | [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6) | [Oasis](https://open.spotify.com/album/6gZKGLQLHUXCZLmslnvpj5) | 1:37 | 2022-01-27 | 2022-09-17 |
@@ -919,6 +919,7 @@
 | [Parlour](https://open.spotify.com/track/4u5w1JuCYy3taIwsQWlCqc) | [Jake Jurant](https://open.spotify.com/artist/1QzecXC3SU8A1CVqR4oJeD), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Parlour](https://open.spotify.com/album/3psjUfwmdNnCztTJ5qmrYV) | 2:05 | 2022-04-15 | 2022-11-12 |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-01-27 | 2022-11-12 |
 | [Passing Through](https://open.spotify.com/track/7ttge778TfRLBn7Rk7WlJr) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Passing Through](https://open.spotify.com/album/0ZaC7BkXJC8bQ5rUgcZctj) | 2:58 | 2022-01-27 | 2022-12-24 |
+| [pawsitive](https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [pawsitive](https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m) | 2:16 | 2024-06-05 |  |
 | [Peace of pancake](https://open.spotify.com/track/4Zh9sTklpob67NuVGWMWDS) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Peace of pancake](https://open.spotify.com/album/1QUts39AIyMrV87zmq5FEd) | 2:09 | 2023-02-07 | 2023-02-10 |
 | [Peach Ice Tea](https://open.spotify.com/track/1eSPjtVoRxnn1XekAE3qyA) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p), [Boom Mbappe](https://open.spotify.com/artist/7uLPNP0X5VwyZUesxZv9s7) | [Peach Ice Tea](https://open.spotify.com/album/5VKyNmyuwm2y8JReshgb1g) | 1:57 | 2022-07-08 | 2022-12-10 |
 | [Peanut Butter](https://open.spotify.com/track/3FGaTQ0PoGKi3GrrzNuk94) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Peanut Butter](https://open.spotify.com/album/4Ptym5GUg6PGORKUZSn7Jz) | 1:01 | 2022-01-27 | 2022-05-20 |

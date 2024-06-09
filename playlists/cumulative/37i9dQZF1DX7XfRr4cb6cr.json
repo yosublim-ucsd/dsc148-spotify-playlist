@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Flares",
+        "url": "https://open.spotify.com/album/6Yv3ekSm9BZZUMNYGThQET"
+      },
+      "artists": [
+        {
+          "name": "George Rigby",
+          "url": "https://open.spotify.com/artist/2UEHkOF3Huut1NMjnbE6MI"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "Flares",
+      "url": "https://open.spotify.com/track/281H1In7yvWliTGR2B2k9Q"
+    },
+    {
+      "album": {
         "name": "Digressions",
         "url": "https://open.spotify.com/album/5dzNjLlC4M35rakoVQr6SU"
       },
@@ -3794,7 +3812,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 380819,
       "name": "Sista Dagen",
       "url": "https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA"
@@ -3888,6 +3906,24 @@
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
+    },
+    {
+      "album": {
+        "name": "Spectral Bed",
+        "url": "https://open.spotify.com/album/4AP055koJGcpDShMaLgxJo"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Spectral Bed",
+      "url": "https://open.spotify.com/track/2DcsWdWwtgobqxJsWo6A8o"
     },
     {
       "album": {
@@ -5074,7 +5110,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 135062,
       "name": "Wasa Stone Trio",
       "url": "https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G"

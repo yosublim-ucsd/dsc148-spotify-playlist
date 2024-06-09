@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1578383,
+  "num_followers": 1578885,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Every Word",
-        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
-      },
-      "artists": [
-        {
-          "name": "Ercola",
-          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
-        },
-        {
-          "name": "Daniella",
-          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
-      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Army Of Two",
         "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 187500,
       "name": "Army Of Two - Radio Version",
       "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Every Word",
+        "url": "https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV"
+      },
+      "artists": [
+        {
+          "name": "Ercola",
+          "url": "https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb"
+        },
+        {
+          "name": "Daniella",
+          "url": "https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Every Word (feat. Daniella) - Wendel Kos Radio Edit",
+      "url": "https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X"
     },
     {
       "added_at": "2023-03-22 14:00:00",

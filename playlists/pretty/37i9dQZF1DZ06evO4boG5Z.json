@@ -1,12 +1,12 @@
 {
-  "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 27618,
+  "description": "This is Millencolin. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 27626,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAABmDmYgYinCSzAuvFv+ex2W",
+  "snapshot_id": "ZmJNgAAAAABe9QeoZhwFpIGeVC7zPXQn",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc"
+      "duration_ms": 157386,
+      "name": "Sense & Sensibility",
+      "url": "https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Sense & Sensibility",
-      "url": "https://open.spotify.com/track/0UaOzDAzZPiPfXP2AbIrpf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life On A Plate",
         "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 151506,
       "name": "Friends 'Til the End",
       "url": "https://open.spotify.com/track/00cjb9ge4OJllcoUN8l1jm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/2WbxknLnzzrg2C1l3tivqc"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Farewell My Hell",
-      "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On A Plate",
-        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 126893,
-      "name": "Vulcan Ears",
-      "url": "https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ"
+      "duration_ms": 171920,
+      "name": "Farewell My Hell",
+      "url": "https://open.spotify.com/track/1W18sciWbMzbsaK3OzcQoh"
     },
     {
       "added_at": null,
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 79533,
-      "name": "Silent Suicide",
-      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+      "duration_ms": 126893,
+      "name": "Vulcan Ears",
+      "url": "https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ"
     },
     {
       "added_at": null,
@@ -471,6 +455,38 @@
       "duration_ms": 184960,
       "name": "Man Or Mouse",
       "url": "https://open.spotify.com/track/7eIdwfEjqrMtfB7YOu3yBG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 79533,
+      "name": "Silent Suicide",
+      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 98426,
+      "name": "Domestic Subway",
+      "url": "https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7"
     },
     {
       "added_at": null,
@@ -523,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
       "artists": [
         {
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 98426,
-      "name": "Domestic Subway",
-      "url": "https://open.spotify.com/track/54lIoeGRSmMGExbgCsgVo7"
+      "duration_ms": 175640,
+      "name": "Twenty Two",
+      "url": "https://open.spotify.com/track/2xvDTagYO7g68Ap5dD77E1"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 219504,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
+      "duration_ms": 219504,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 168808,
       "name": "Yanny & Laurel",
       "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 132333,
-      "name": "Mooseman's Jukebox",
-      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -763,38 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 138002,
-      "name": "Biftek Supernova",
-      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 134173,
-      "name": "Entrance At Rudebrook",
-      "url": "https://open.spotify.com/track/0lodVk2uYM4UHyMBexlEHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Melancholy Collection",
         "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 115319,
       "name": "A Whole Lot Less",
       "url": "https://open.spotify.com/track/5bT1X7cPnnQHr7bUpsTsBI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 138002,
+      "name": "Biftek Supernova",
+      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
     }
   ],
   "unique_name": "This Is Millencolin",

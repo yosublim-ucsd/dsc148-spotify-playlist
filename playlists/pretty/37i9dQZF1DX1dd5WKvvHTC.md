@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:7y2o4IQi5QnL6PbsOYuNp5">Jeffrey Eli</a>, <a href="spotify:playlist:37i9dQZF1EFHZvY2t6fRcn">Trey Campbell</a>, Benchwarmer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,405 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,432 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

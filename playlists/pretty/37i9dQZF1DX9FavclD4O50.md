@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,578 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,582 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 29 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
 | 30 | [Young Louis](https://open.spotify.com/track/22LbkDlYI0E4F0ilXy9Mjx) | [Arthur Sharpe](https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H) | [The Electrical Life of Louis Wain \(Original Motional Picture Soundtrack\)](https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH) | 2:15 |
 | 31 | [Nousta\-Needad \(Ascent\-Descent\)](https://open.spotify.com/track/38MgLHj3Z6gEu7XNObMvZx) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Fantasias for Theremin and String Quartet](https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF) | 7:39 |
-| 32 | [Theremin in the Rain](https://open.spotify.com/track/1LWMnApLb8gugGjEuufAQ1) | [Gordon Monahan](https://open.spotify.com/artist/4hM8esOTyFH8grxXR27Afm) | [Theremin in the Rain](https://open.spotify.com/album/6n5vZ6yqWTMD5bv1Ybu3K1) | 3:57 |
+| 32 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
 | 33 | [Concerto for 2 Violins in D minor, BWV 1043: 2nd movement](https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 8:34 |
-| 34 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
+| 34 | [Theremin in the Rain](https://open.spotify.com/track/1LWMnApLb8gugGjEuufAQ1) | [Gordon Monahan](https://open.spotify.com/artist/4hM8esOTyFH8grxXR27Afm) | [Theremin in the Rain](https://open.spotify.com/album/6n5vZ6yqWTMD5bv1Ybu3K1) | 3:57 |
 | 35 | [Keler Tsoler](https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Plays the Theremin](https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq) | 5:10 |
 | 36 | [Remembrance](https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Elegies for Theremin & Voice](https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH) | 4:10 |
 | 37 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,788 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,791 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 178 | [What Do I Do With The Love](https://open.spotify.com/track/6qwotLZ6V1QGoSTc6bGCaZ) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:46 |
 | 179 | [Satisfaction](https://open.spotify.com/track/7twfQ9tExZor0CaC3FogKj) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:52 |
 | 180 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 |
-| 181 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
-| 182 | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/album/0GbRBLF2SLzDuEAUglyvzn) | 3:20 |
+| 181 | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/track/0tIhGHziGqxR3UurT5V3gy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [The Fire Inside \(From The Original Motion Picture "Flamin' Hot"\)](https://open.spotify.com/album/0GbRBLF2SLzDuEAUglyvzn) | 3:20 |
+| 182 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 |
 | 183 | [You Pulled Me Through](https://open.spotify.com/track/20wlQCBAmNzKw7hRJ7eQR1) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:39 |
 | 184 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
 | 185 | [\(You Make Me\) Rock Hard](https://open.spotify.com/track/4o09I7vLRVT9qe9rDTAMzG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:29 |
@@ -372,8 +372,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 362 | [Say What's In My Heart](https://open.spotify.com/track/3h54CP9giBXujwP7QH44dW) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [...To Make Me Who I Am](https://open.spotify.com/album/52TjEeeF9VQMBBtWcePxKy) | 4:20 |
 | 363 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
 | 364 | [Other People's Lives](https://open.spotify.com/track/5y9HLY26I0nytnGUKC913B) | [Don Johnson](https://open.spotify.com/artist/29gt8yNK2jFp21ZWXISskB) | [Let It Roll](https://open.spotify.com/album/3ugyPjTyWpPkiIOzCGNj9B) | 5:27 |
-| 365 | [You Can't Lose Me](https://open.spotify.com/track/5BHDp0MlIMLiD9CXh8yhu0) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [02](https://open.spotify.com/album/7iVHDgfwwIh0dfRT8AqghK) | 3:40 |
-| 366 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
+| 365 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
+| 366 | [You Can't Lose Me](https://open.spotify.com/track/5BHDp0MlIMLiD9CXh8yhu0) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [02](https://open.spotify.com/album/7iVHDgfwwIh0dfRT8AqghK) | 3:40 |
 | 367 | [How Does Your Heart Forget](https://open.spotify.com/track/0kHOohN33Xh0oU6lrrkQEM) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Elgin](https://open.spotify.com/album/0Zyh1GT3M5v6jqZYaaq5p1) | 3:34 |
 | 368 | [The Door to Your Heart \(feat\. Keith Washington\)](https://open.spotify.com/track/1OGSsXXBllCCApaVAuLKDG) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68), [Keith Washington](https://open.spotify.com/artist/5l0XyfQLHoWFvINcSaSrSx) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:10 |
 | 369 | [The Only Good Thing \(You Ever Said Was Goodbye\)](https://open.spotify.com/track/0AiTstGRHGrTNKqMisi2Rn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 4:26 |
@@ -405,8 +405,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 395 | [If This Time Is The Last Time](https://open.spotify.com/track/2ji3qfdV8NceFnmLiQAsbs) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [From Q, With Love](https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r) | 4:42 |
 | 396 | [Remedy](https://open.spotify.com/track/3bxzT4yaeRHQPT8CHEwpvB) | [Riker Lynch](https://open.spotify.com/artist/55V2PZSif52loZswGkBTeK) | [Remedy](https://open.spotify.com/album/7GzMp5E159jqdlQ4hJCBZi) | 3:23 |
 | 397 | [Daylight](https://open.spotify.com/track/4j2E0T6fsZAk6vMuIgMUcl) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Celebration: A Musical Journey](https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO) | 4:32 |
-| 398 | [Divine Intervention](https://open.spotify.com/track/743lgsVmLZO2GKihzpujjz) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Vulnerability](https://open.spotify.com/album/3BCRYCaw74NdHjjFnoyxap) | 3:47 |
-| 399 | [More Than Forever](https://open.spotify.com/track/540HEQbY9Zc7Y3B0SpGweo) | [Kru](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [The Way We Jam](https://open.spotify.com/album/4XLALu8f0eqEUEmivyqqZZ) | 4:57 |
+| 398 | [More Than Forever](https://open.spotify.com/track/540HEQbY9Zc7Y3B0SpGweo) | [Kru](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [The Way We Jam](https://open.spotify.com/album/4XLALu8f0eqEUEmivyqqZZ) | 4:57 |
+| 399 | [Divine Intervention](https://open.spotify.com/track/743lgsVmLZO2GKihzpujjz) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Vulnerability](https://open.spotify.com/album/3BCRYCaw74NdHjjFnoyxap) | 3:47 |
 | 400 | [My Heart's With You](https://open.spotify.com/track/1sRu5lflEcRB3Xi9EuQnxA) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:30 |
 | 401 | [I'm Not the Only One](https://open.spotify.com/track/3xZGfL0rWt7zFTzp6Xg7Sf) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan 2](https://open.spotify.com/album/7KYSQrbIraNspxKXbXoJ8e) | 3:23 |
 | 402 | [Kiss The Tears Away](https://open.spotify.com/track/4T1jx2xp7eMhHs5goliNrG) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Healing](https://open.spotify.com/album/0sPRYfrksFvUr6eq4jdgSe) | 4:02 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbTcwgAAAAD17glA5+k9ihaEW2uVWtoN`
+Snapshot ID: `AbTiogAAAAAwp0RrXwQrpJak4RpqeMuy`

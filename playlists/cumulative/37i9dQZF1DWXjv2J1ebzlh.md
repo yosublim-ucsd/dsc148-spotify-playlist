@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,330 songs - 6 day 13 hr 7 min
+2,331 songs - 6 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Ali Baba](https://open.spotify.com/track/3cGSUdtU5AOC25YD2r0YX7) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [His Story](https://open.spotify.com/album/36AROWz532zVNYNp6Uj1MT) | 2:38 | 2023-10-06 | 2024-02-07 |
 | [Ali Baba](https://open.spotify.com/track/6WF6PDqP61rFsUgD00NCcI) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [Like a Bolt \(Expanded Version\)](https://open.spotify.com/album/1l67YjSveSFg50ajxWcsHX) | 2:40 | 2022-07-12 | 2023-11-04 |
 | [Ali Baba](https://open.spotify.com/track/4lUqjfYRhR0u6CQneKvcQE) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/390tpQELbsoYfFRnwIDxuO) | 4:15 | 2022-07-12 | 2024-06-04 |
+| [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 | 2024-06-04 |  |
 | [Aloha Oe](https://open.spotify.com/track/5UBjN1ZYrpbwM9qPirac8e) | [Eddie Kamae](https://open.spotify.com/artist/0YwDXRxZeigiUM0FhtcoEf) | [Heart of the Ukulele](https://open.spotify.com/album/294OzntNXqRCKjxG9csDMg) | 2:53 | 2022-07-12 | 2024-06-04 |
 | [Aloha! \(Main Title Theme\) \- from “The White Lotus: Season 1”](https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:19 | 2022-06-09 | 2024-06-04 |
 | [Alteleyeshegnem](https://open.spotify.com/track/547fHlns6D8pUibw6C1sJd) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Alteleyeshegnem](https://open.spotify.com/album/144ZxBBOzKl0mq8d2mVrFW) | 4:54 | 2022-06-09 | 2024-06-04 |
@@ -220,7 +221,7 @@
 | [Atwer Abroba](https://open.spotify.com/track/1Xb0Oz9aunX1lpq9T29PWh) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg) | 8:12 | 2022-06-09 | 2022-07-29 |
 | [Atwer Abroba](https://open.spotify.com/track/4P7wLOCCB1kcjzA9gqKt1V) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/6vqY4CxUewSHoLPi2G0s99) | 8:12 | 2022-07-27 | 2024-06-04 |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-06-09 | 2024-06-04 |
-| [Autopsie d'un complot](https://open.spotify.com/track/0nJPzwRclRWEniqHGQxdUv) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 3:29 | 2022-10-31 |  |
+| [Autopsie d'un complot](https://open.spotify.com/track/0nJPzwRclRWEniqHGQxdUv) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F) | 3:29 | 2022-10-31 | 2024-06-09 |
 | [Autopsie d'un complot](https://open.spotify.com/track/3lmndIrz3j2las11QHsNza) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/6IbSMUM51EtNdEmXZ0BHPJ) | 3:29 | 2022-06-09 | 2022-11-20 |
 | [Avarandado](https://open.spotify.com/track/4HW3qBemcKJYaoW0iFqGJV) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Avarandado](https://open.spotify.com/album/6EyfiA9hNpoS7rIwSLyR3b) | 3:53 | 2022-06-09 | 2024-06-04 |
 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 | 2022-07-27 | 2024-06-04 |

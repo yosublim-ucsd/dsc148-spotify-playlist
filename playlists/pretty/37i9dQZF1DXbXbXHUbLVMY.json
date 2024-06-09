@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28089,
+  "num_followers": 28092,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
+        "name": "L\u00f8sningsorienterte",
+        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "L\u00f8sningsorienterte",
+      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+    },
+    {
+      "added_at": "2024-06-07 07:23:13",
+      "album": {
         "name": "S\u00e4g Mig",
         "url": "https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
-    },
-    {
-      "added_at": "2024-06-07 07:23:13",
-      "album": {
-        "name": "L\u00f8sningsorienterte",
-        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "L\u00f8sningsorienterte",
-      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
     },
     {
       "added_at": "2024-06-07 07:23:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
+        "name": "Utested",
+        "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Utested",
+      "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
+    },
+    {
+      "added_at": "2024-06-07 07:23:13",
+      "album": {
         "name": "Takket v\u00e6re livet",
         "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
@@ -1051,26 +1067,6 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
-        "name": "Boys I D Bl\u00e5",
-        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 133130,
-      "name": "Boys I D Bl\u00e5",
-      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
-    },
-    {
-      "added_at": "2024-06-07 07:23:13",
-      "album": {
         "name": "Konstn\u00e4rer",
         "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
       },
@@ -1107,22 +1103,22 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
-        "name": "TRILLE",
-        "url": "https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D"
+        "name": "Boys I D Bl\u00e5",
+        "url": "https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB"
       },
       "artists": [
         {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         },
         {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
         }
       ],
-      "duration_ms": 162017,
-      "name": "TRILLE",
-      "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
+      "duration_ms": 133130,
+      "name": "Boys I D Bl\u00e5",
+      "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
     },
     {
       "added_at": "2024-06-07 07:23:13",
@@ -1199,42 +1195,6 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
-        "name": "Fiende p\u00e5 hotell",
-        "url": "https://open.spotify.com/album/0IeHOhjegTHDgm8GMQnLqj"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        }
-      ],
-      "duration_ms": 122644,
-      "name": "Fiende p\u00e5 hotell",
-      "url": "https://open.spotify.com/track/0JwLtBGMgeLQTRMaCUpgIv"
-    },
-    {
-      "added_at": "2024-06-07 07:23:13",
-      "album": {
-        "name": "Slipp",
-        "url": "https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By"
-      },
-      "artists": [
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        },
-        {
-          "name": "Tshawe",
-          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
-        }
-      ],
-      "duration_ms": 179488,
-      "name": "Slipp",
-      "url": "https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ"
-    },
-    {
-      "added_at": "2024-06-07 07:23:13",
-      "album": {
         "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
         "url": "https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9"
       },
@@ -1255,6 +1215,46 @@
       "duration_ms": 178802,
       "name": "K\u00f8benhavn (feat. Arif Murakami & Bargee)",
       "url": "https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh"
+    },
+    {
+      "added_at": "2024-06-07 07:23:13",
+      "album": {
+        "name": "TRILLE",
+        "url": "https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 162017,
+      "name": "TRILLE",
+      "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"
+    },
+    {
+      "added_at": "2024-06-07 07:23:13",
+      "album": {
+        "name": "Slipp",
+        "url": "https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        },
+        {
+          "name": "Tshawe",
+          "url": "https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY"
+        }
+      ],
+      "duration_ms": 179488,
+      "name": "Slipp",
+      "url": "https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ"
     },
     {
       "added_at": "2024-06-07 07:23:13",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
+        "name": "Fiende p\u00e5 hotell",
+        "url": "https://open.spotify.com/album/0IeHOhjegTHDgm8GMQnLqj"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        }
+      ],
+      "duration_ms": 122644,
+      "name": "Fiende p\u00e5 hotell",
+      "url": "https://open.spotify.com/track/0JwLtBGMgeLQTRMaCUpgIv"
+    },
+    {
+      "added_at": "2024-06-07 07:23:13",
+      "album": {
         "name": "Slipp deg l\u00f8s",
         "url": "https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K"
       },
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 148284,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO"
-    },
-    {
-      "added_at": "2024-06-07 07:23:13",
-      "album": {
         "name": "Voksen Mann Uten Slips",
         "url": "https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk"
       },
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-06-07 07:23:13",
       "album": {
-        "name": "Du datt av",
-        "url": "https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV"
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl"
       },
       "artists": [
         {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 147843,
-      "name": "Du datt av",
-      "url": "https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK"
+      "duration_ms": 148284,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO"
     },
     {
       "added_at": "2024-06-07 07:23:13",

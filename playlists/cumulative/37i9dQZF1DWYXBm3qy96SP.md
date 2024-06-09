@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bon Jovi
 
-1,305 songs - 3 day 3 hr 0 min
+1,306 songs - 3 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [All I Need](https://open.spotify.com/track/0zfzw3G2UtqSTU0n9RsoJV) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Beholder](https://open.spotify.com/album/6U8qhQ6rctGIbYAlzS4Z3O) | 5:11 | 2024-02-29 | 2024-05-03 |
 | [All In My Head](https://open.spotify.com/track/23JwoPM8EvsHYYKikXNC9r) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW), [Dave Le’aupepe](https://open.spotify.com/artist/2hZim6SlX56ihBJRZnma62) | [Faith Crisis Pt 1](https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z) | 3:10 | 2024-02-15 | 2024-02-23 |
 | [All In My Head](https://open.spotify.com/track/5wN2jQWIrCGjWT5bOL2WFg) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW), [Dave Le’aupepe](https://open.spotify.com/artist/2hZim6SlX56ihBJRZnma62) | [Faith Crisis Pt 1](https://open.spotify.com/album/3gEc0u0fAAGwLJZsR2F39G) | 3:10 | 2024-02-15 | 2024-02-17 |
+| [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-06 |  |
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-09-21 | 2023-09-29 |
 | [Alligator](https://open.spotify.com/track/7Ji5WgryQfftdi7zN4BPUM) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [I Wish You Were Here](https://open.spotify.com/album/79rdMg18u6pvwJLTEFQ8cy) | 2:45 | 2023-03-23 | 2023-03-31 |
 | [Alma Mater](https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alma Mater](https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH) | 3:30 | 2023-11-16 | 2023-11-24 |
@@ -292,7 +293,7 @@
 | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk) | 4:52 | 2024-02-22 | 2024-03-01 |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-06 | 2023-04-14 |
 | [DARK](https://open.spotify.com/track/1qlsoHIuuOsrm1qGENz4RM) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [DARK](https://open.spotify.com/album/5hcEXufQsdqSx8Ik7oXXEm) | 2:59 | 2024-05-23 |  |
-| [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-15 |  |
+| [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-02-15 | 2024-06-09 |
 | [Dark Skies](https://open.spotify.com/track/72mLqLvPHY8RU0noE9CpKs) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Dark Skies](https://open.spotify.com/album/5NodXs8mlXnrAA0P6yu8n4) | 3:27 | 2024-01-11 | 2024-01-26 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-12 | 2024-02-09 |
 | [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-09-28 | 2023-10-13 |
@@ -904,7 +905,7 @@
 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-15 | 2023-09-22 |
 | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/track/31HQXEZFHCi93k44JoStvb) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Pushing Daisies \(Oh My My\)](https://open.spotify.com/album/0tQhPUgXN0N0fB8aKTZndT) | 2:57 | 2023-08-03 | 2023-08-11 |
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-11 | 2024-02-23 |
-| [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 |  |
+| [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2024-06-09 |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-30 | 2023-12-08 |
 | [Rain on the Graves](https://open.spotify.com/track/2DYquEUcjmMjxZYFKPON4L) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Rain on the Graves](https://open.spotify.com/album/13hB30MBr9lEVogRpiNBav) | 5:04 | 2024-01-25 | 2024-02-02 |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-05-16 |  |
@@ -1182,7 +1183,7 @@
 | [Two Kinds Of Trouble](https://open.spotify.com/track/0wUYmEDRdK185IVIIrtmjJ) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Death Of Randy Fitzsimmons](https://open.spotify.com/album/6agQKhrctciHD4QH7KufOS) | 2:44 | 2023-08-10 | 2023-08-18 |
 | [Typical Me](https://open.spotify.com/track/57IbDKMqYTdopZAxLiBMah) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Life’s Going Great](https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq) | 2:39 | 2024-02-29 | 2024-05-03 |
 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 | 2023-12-07 | 2023-12-15 |
-| [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-05-23 | 2024-06-07 |
+| [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-05-23 |  |
 | [umakemenotwannadie](https://open.spotify.com/track/5RlJOw0OQ3papYLfMeJFF0) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [umakemenotwannadie](https://open.spotify.com/album/1xV8htCjUIU8SeVD3mtd63) | 2:47 | 2024-01-11 | 2024-01-19 |
 | [Uncomplicated](https://open.spotify.com/track/3BKk1Ecq2z9PPoCl2qdh4t) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Uncomplicated](https://open.spotify.com/album/34MWgibb0EqYRe6LnP37LV) | 3:41 | 2024-02-15 | 2024-02-23 |
 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 | 2024-06-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-08",
-  "description": "This Is Kaliii. Los temas esenciales, todos en una lista.",
+  "description": "This is Kaliii. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Kaliii",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
@@ -1023,6 +1023,28 @@
     },
     {
       "album": {
+        "name": "Pull The Car Around (Remix)",
+        "url": "https://open.spotify.com/album/0q1ZX67Sh55tWUYvno1IpS"
+      },
+      "artists": [
+        {
+          "name": "Kodie Shane",
+          "url": "https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189879,
+      "name": "Pull The Car Around - Remix",
+      "url": "https://open.spotify.com/track/2yZkOMdtfGUgaoBCLr6vMA"
+    },
+    {
+      "album": {
         "name": "Rockers Dubstep Like Kelly",
         "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
       },
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 178714,
       "name": "Rockers Step Like Kelly",
       "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"
@@ -1122,6 +1144,32 @@
       "duration_ms": 193426,
       "name": "Say Too Much",
       "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
+    },
+    {
+      "album": {
+        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
+        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "SHAKE (feat. Kaliii and Stunna Girl)",
+      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
     },
     {
       "album": {
@@ -1372,7 +1420,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 148471,
       "name": "Toxic Chocolate",
       "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
@@ -1452,7 +1500,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 136980,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"

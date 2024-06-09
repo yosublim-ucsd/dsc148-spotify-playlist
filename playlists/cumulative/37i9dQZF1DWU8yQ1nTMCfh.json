@@ -3817,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
+    },
+    {
+      "album": {
         "name": "PORTARSE MAL",
         "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
       },
@@ -4106,7 +4124,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 126000,
       "name": "Regalao",
       "url": "https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Toser One y Dharius en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,003 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,020 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 22 | [31](https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [31](https://open.spotify.com/album/7eWeQJPoi5K9AznEBcKUNJ) | 2:36 |
 | 23 | [Mucho Wannabe](https://open.spotify.com/track/6yi2nyqJtGm630oXGHUYbM) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Mucho Wannabe](https://open.spotify.com/album/2CPbobxLI6HGnEGpDCmIo1) | 3:46 |
 | 24 | [La Misión \(Episodio 4\)](https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [La Misión \(Episodio 4\)](https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e) | 4:53 |
-| 25 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 |
+| 25 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 |
 | 26 | [Listos para Accionar](https://open.spotify.com/track/3IdRC8FCnQeUNrvPTxRL5x) | [Chikano Jcr](https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC) | [Listos para Accionar](https://open.spotify.com/album/4IXfyFhK7YAdjkMLT5dvdL) | 3:19 |
 | 27 | [Corren Con Suerte](https://open.spotify.com/track/4SevDviTh0QWWXMQz3JJYe) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Exitos](https://open.spotify.com/album/6HSQrTCUWwwv8HHIJkMHvD) | 3:58 |
 | 28 | [La Feria Drogas y Muerte](https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 4:12 |

@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Amélie Farren
 
-688 songs - 1 day 12 hr 34 min
+689 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [A song I wrote after therapy](https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song I wrote after therapy](https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG) | 3:05 | 2022-06-24 | 2022-07-16 |
 | [A Woman's World](https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [A Woman's World](https://open.spotify.com/album/6FARllTFyAyPTIhowt7GlX) | 2:38 | 2022-01-14 | 2022-02-12 |
 | [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-03 | 2023-12-14 |
+| [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:28 | 2024-06-08 |  |
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-04-27 |
 | [Again and Again](https://open.spotify.com/track/2ZvlfOqzdSDPpXFJL6ETNj) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Again and Again](https://open.spotify.com/album/3wxJOOmjsc7CMeCHnjo20b) | 3:27 | 2023-08-11 | 2023-12-14 |
 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 | 2023-06-12 | 2023-12-14 |
@@ -126,7 +127,7 @@
 | [cheater](https://open.spotify.com/track/6xpPSguO2bzapQNO2j23c3) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [cheater](https://open.spotify.com/album/4tTE6p1ed8F6OLGeRWRgMw) | 2:20 | 2023-08-04 | 2023-11-11 |
 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 | 2024-01-26 |  |
 | [Clean Cut](https://open.spotify.com/track/2M6MKfoKhOgIvkrg9NLbNT) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Clean Cut](https://open.spotify.com/album/0M2aQZBpqbnfi2M48AJpq1) | 3:11 | 2023-01-20 | 2023-02-25 |
-| [Cleveland](https://open.spotify.com/track/5JE0Fw3LPGOmZ1UCqhp9jw) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/3EOV98GZqdlAMYRCMSwMbG) | 3:10 | 2024-04-12 |  |
+| [Cleveland](https://open.spotify.com/track/5JE0Fw3LPGOmZ1UCqhp9jw) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/3EOV98GZqdlAMYRCMSwMbG) | 3:10 | 2024-04-12 | 2024-06-09 |
 | [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-11-10 | 2024-04-19 |
 | [clocks](https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt) | [Alayna Grace](https://open.spotify.com/artist/3Y6fsLnLUTNGc2BpscCdL1) | [clocks](https://open.spotify.com/album/2uUEmLQbqZMtgTdN6AkQ60) | 3:10 | 2024-02-16 |  |
 | [Clockwork](https://open.spotify.com/track/3DGJy61ZQHZJTfPtnMlU3Z) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [Clockwork](https://open.spotify.com/album/4aBRF9TW3Q7PSsuWSQcJEF) | 2:42 | 2023-03-31 | 2023-08-19 |

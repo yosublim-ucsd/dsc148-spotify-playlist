@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Yaima Cat y Ni\u00f1a Tormenta",
-  "num_followers": 121912,
+  "num_followers": 121910,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 140286,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Retazos de Diciembre",
         "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 180500,
       "name": "Retazos de Diciembre",
       "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 140286,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Ganas de Verte",
-        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
-      },
-      "artists": [
-        {
-          "name": "Reina Luisa",
-          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
-        },
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Ganas de Verte",
-      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Ganas de Verte",
+        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
+      },
+      "artists": [
+        {
+          "name": "Reina Luisa",
+          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
+        },
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ganas de Verte",
+      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Aves de papel",
-        "url": "https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB"
-      },
-      "artists": [
-        {
-          "name": "Reina Luisa",
-          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
-        },
-        {
-          "name": "Salares",
-          "url": "https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL"
-        }
-      ],
-      "duration_ms": 233422,
-      "name": "Aves de papel",
-      "url": "https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Fachada Continua",
         "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
       },
@@ -1067,6 +1047,22 @@
       "duration_ms": 246349,
       "name": "Fachada Continua",
       "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Espiral, Pt. 1",
+        "url": "https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft"
+      },
+      "artists": [
+        {
+          "name": "Ciudad N\u00f3made",
+          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
+        }
+      ],
+      "duration_ms": 174526,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1103,18 +1099,38 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Espiral, Pt. 1",
-        "url": "https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft"
+        "name": "Aves de papel",
+        "url": "https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB"
       },
       "artists": [
         {
-          "name": "Ciudad N\u00f3made",
-          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
+          "name": "Reina Luisa",
+          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
+        },
+        {
+          "name": "Salares",
+          "url": "https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL"
         }
       ],
-      "duration_ms": 174526,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm"
+      "duration_ms": 233422,
+      "name": "Aves de papel",
+      "url": "https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1CmeVB662WNqknJ78htsuB"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 221610,
       "name": "ELLA (CAE LA NOCHE)",
       "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn"
-      },
-      "artists": [
-        {
-          "name": "Charly Benavente",
-          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1CmeVB662WNqknJ78htsuB"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Poemas por DM",
-        "url": "https://open.spotify.com/album/1RinKYk7btVI8Bcan7PQqc"
-      },
-      "artists": [
-        {
-          "name": "Erich Guzm\u00e1n",
-          "url": "https://open.spotify.com/artist/4mMb9oJXzV2PtfbwDJIWQC"
-        }
-      ],
-      "duration_ms": 220856,
-      "name": "Poemas por DM",
-      "url": "https://open.spotify.com/track/1l4mucwox19VbCrLJKESoz"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Barreras de Cart\u00f3n",
         "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 228000,
       "name": "Barreras de Cart\u00f3n",
       "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Poemas por DM",
+        "url": "https://open.spotify.com/album/1RinKYk7btVI8Bcan7PQqc"
+      },
+      "artists": [
+        {
+          "name": "Erich Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/4mMb9oJXzV2PtfbwDJIWQC"
+        }
+      ],
+      "duration_ms": 220856,
+      "name": "Poemas por DM",
+      "url": "https://open.spotify.com/track/1l4mucwox19VbCrLJKESoz"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "qui\u00e9n llama a esta hora",
-        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 225932,
-      "name": "cuando pienses en el destino",
-      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Metatr\u00f3n",
         "url": "https://open.spotify.com/album/5ATddaIPfN60xIgidfZSEV"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 236022,
       "name": "Metatr\u00f3n",
       "url": "https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "qui\u00e9n llama a esta hora",
+        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 225932,
+      "name": "cuando pienses en el destino",
+      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Ella Me Dijo",
-        "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
+        "name": "es caprichoso el azar",
+        "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        },
+        {
+          "name": "t\u00edo pepe",
+          "url": "https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA"
         }
       ],
-      "duration_ms": 187062,
-      "name": "Ella Me Dijo",
-      "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
+      "duration_ms": 177309,
+      "name": "es caprichoso el azar",
+      "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "es caprichoso el azar",
-        "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
+        "name": "Ella Me Dijo",
+        "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
       },
       "artists": [
         {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        },
-        {
-          "name": "t\u00edo pepe",
-          "url": "https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA"
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 177309,
-      "name": "es caprichoso el azar",
-      "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
+      "duration_ms": 187062,
+      "name": "Ella Me Dijo",
+      "url": "https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "La Casa Gana",
-        "url": "https://open.spotify.com/album/6pawFPYHWVGitTT9iSqNcN"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 300272,
-      "name": "La Casa Gana",
-      "url": "https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
         "url": "https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 282060,
       "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
       "url": "https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "La Casa Gana",
+        "url": "https://open.spotify.com/album/6pawFPYHWVGitTT9iSqNcN"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 300272,
+      "name": "La Casa Gana",
+      "url": "https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "El Sol y T\u00fa",
+        "url": "https://open.spotify.com/album/69vYAPeaJrb4j2AY3acJAO"
+      },
+      "artists": [
+        {
+          "name": "palma",
+          "url": "https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3"
+        }
+      ],
+      "duration_ms": 186893,
+      "name": "El Sol y T\u00fa",
+      "url": "https://open.spotify.com/track/4I2W2aOUJlmaEbW19PxyYj"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "TAMAGOTCHI",
         "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 199453,
       "name": "TAMAGOTCHI",
       "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "El Sol y T\u00fa",
-        "url": "https://open.spotify.com/album/69vYAPeaJrb4j2AY3acJAO"
-      },
-      "artists": [
-        {
-          "name": "palma",
-          "url": "https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "El Sol y T\u00fa",
-      "url": "https://open.spotify.com/track/4I2W2aOUJlmaEbW19PxyYj"
     },
     {
       "added_at": "2024-06-07 03:00:00",

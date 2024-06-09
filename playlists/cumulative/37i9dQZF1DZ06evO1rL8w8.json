@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This Is El Komander. Los temas esenciales, todos en una lista.",
+  "description": "This is El Komander. The essential tracks, all in one playlist.",
   "name": "This Is El Komander",
   "tracks": [
     {
@@ -128,6 +128,28 @@
       "duration_ms": 162560,
       "name": "Borracho Y Escandaloso",
       "url": "https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui"
+    },
+    {
+      "album": {
+        "name": "Champagne O Cerveza",
+        "url": "https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Dany El Nise",
+          "url": "https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "Champagne O Cerveza",
+      "url": "https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S"
     },
     {
       "album": {

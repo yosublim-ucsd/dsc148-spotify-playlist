@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,628 songs - 4 day 15 hr 56 min
+1,629 songs - 4 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 | 2023-02-17 | 2023-06-17 |
 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 | 2020-03-18 | 2022-04-21 |
 | [Bunny](https://open.spotify.com/track/6ap5AekhAt3k6e0zAknDyV) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 3:34 | 2020-02-29\* | 2020-03-16 |
-| [Burnin'](https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Burnin'](https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK) | 5:41 | 2024-04-05 |  |
+| [Burnin'](https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Burnin'](https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK) | 5:41 | 2024-04-05 | 2024-06-09 |
 | [Burning Sun](https://open.spotify.com/track/1hZVwT6anxHeUnD3oVYhRt) | [Alkemie](https://open.spotify.com/artist/2CVA4ECnz8NFRpEMiShm4D) | [Burning Sun](https://open.spotify.com/album/09aPSX19C2Lm9uKRjZSb5S) | 3:26 | 2021-06-04 | 2022-07-28 |
 | [Burns \- Lane 8 Club Mix](https://open.spotify.com/track/6aBWNlLMeBjdtypqPOfveJ) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Burns \(Lane 8 Remixes\)](https://open.spotify.com/album/0EnyJALCORJdl4KR1ItWk3) | 4:40 | 2020-02-29\* | 2022-01-21 |
 | [Burns \- Moby Remix \(Edit\)](https://open.spotify.com/track/1kCpiMC5axrHlYNrvZjrEJ) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Burns \(Moby Remix\)](https://open.spotify.com/album/57hYtl3hDMCqRdPwVPChRW) | 3:59 | 2020-05-19 | 2020-07-03 |
@@ -1246,6 +1246,7 @@
 | [Sexual Healing \- Kygo Remix](https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Sexual Healing \(Kygo Remix\)](https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5) | 6:08 | 2020-05-22 | 2020-07-03 |
 | [Shadow \(Maceo Plex Remix\)](https://open.spotify.com/track/5BAJDNTutBFJL27pKunac1) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow \(Remixes\)](https://open.spotify.com/album/0UN2MKtYHmSYDOXTgWls4q) | 4:58 | 2021-03-06 | 2021-03-10 |
 | [Shadow Call](https://open.spotify.com/track/7x7rWPpbzBGNKZFqp3yGDn) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Shadow Call](https://open.spotify.com/album/0LWqVxGhu5Dn6mVeZDXzhg) | 4:21 | 2020-08-20 | 2020-10-09 |
+| [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-06-07 |  |
 | [Shallow Water \- Edit](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Shallow Water](https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl) | 2:56 | 2022-12-28 | 2023-01-06 |
 | [Shallow Water \- Extended](https://open.spotify.com/track/7MaOjWI7ykN9jU1TPV6smp) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Shallow Water](https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl) | 6:16 | 2022-12-28 | 2022-12-30 |
 | [Share A Mind](https://open.spotify.com/track/36Gx0iyRT5jcliW106GXBW) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Share A Mind](https://open.spotify.com/album/1Sway7GXif3aib9qq1rvWE) | 3:17 | 2022-03-18 | 2022-12-29 |

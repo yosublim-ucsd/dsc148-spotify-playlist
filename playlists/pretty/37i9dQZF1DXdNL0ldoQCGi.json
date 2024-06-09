@@ -1,6 +1,6 @@
 {
   "description": "aquela l\u00e1 que t\u00e1 viral no seu feed sabe",
-  "num_followers": 259928,
+  "num_followers": 259973,
   "original_name": "faz a trend",
   "owner": {
     "name": "Spotify",
@@ -192,6 +192,10 @@
           "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
           "name": "Mc Kanhoto",
           "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
         },
@@ -206,10 +210,6 @@
         {
           "name": "Mc Don Juan",
           "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
         }
       ],
       "duration_ms": 570352,

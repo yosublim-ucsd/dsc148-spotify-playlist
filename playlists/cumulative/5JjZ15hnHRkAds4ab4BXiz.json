@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf"
+      },
+      "artists": [
+        {
+          "name": "The Rapture",
+          "url": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6VqKN2BTlhpNFAFAMdXgHp"
+    },
+    {
+      "album": {
         "name": "ecstacy (super slowed)",
         "url": "https://open.spotify.com/album/686pnMMAj8CBNLjwIIJR1a"
       },

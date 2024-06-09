@@ -1,12 +1,12 @@
 {
-  "description": "This is Linked Horizon. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 7274,
+  "description": "This Is Linked Horizon. Los temas esenciales, todos en una lista.",
+  "num_followers": 7273,
   "original_name": "This Is Linked Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAtRBGJrsRET42FHuBX+/rg",
+  "snapshot_id": "ZmJNgAAAAAAe8+kvNvsicoWNSwFQZrO5",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9032\u6483\u306e\u8ecc\u8de1",
-        "url": "https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt"
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 349693,
-      "name": "\u81ea\u7531\u306e\u4ee3\u511f",
-      "url": "https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ"
+      "duration_ms": 306480,
+      "name": "Guren no Zahyou",
+      "url": "https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 306480,
-      "name": "Guren no Zahyou",
-      "url": "https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ"
+      "duration_ms": 349693,
+      "name": "Jiyuu no Daishou",
+      "url": "https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 687298,
-      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
-      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
+      "duration_ms": 311013,
+      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
+      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 311013,
-      "name": "\u98a8\u306e\u884c\u65b9 - Vocalized Version",
-      "url": "https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy"
+      "duration_ms": 687298,
+      "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
+      "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
     }
   ],
   "unique_name": "This Is Linked Horizon",

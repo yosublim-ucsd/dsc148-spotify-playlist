@@ -16502,7 +16502,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 92500,
       "name": "Nyc By Train",
       "url": "https://open.spotify.com/track/2vYIBePZCOFnuxMzLY4AtH"
@@ -17488,6 +17488,24 @@
       "duration_ms": 178875,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/7ttge778TfRLBn7Rk7WlJr"
+    },
+    {
+      "album": {
+        "name": "pawsitive",
+        "url": "https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m"
+      },
+      "artists": [
+        {
+          "name": "misty tapes",
+          "url": "https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "pawsitive",
+      "url": "https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 763161,
+  "num_followers": 763248,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "BASS DOWN LOW",
+        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        }
+      ],
+      "duration_ms": 166124,
+      "name": "BASS DOWN LOW",
+      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Sunglasses At Night",
         "url": "https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 159562,
       "name": "ABC",
       "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "BASS DOWN LOW",
-        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
-      },
-      "artists": [
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "BASS DOWN LOW",
-      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Whistle (feat. Bertie Scott)",
         "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2"
     },
     {
       "added_at": "2024-06-06 22:00:00",

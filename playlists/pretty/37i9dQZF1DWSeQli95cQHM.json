@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11621,
+  "num_followers": 11629,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Favela Garage Beats",
+        "url": "https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx"
+      },
+      "artists": [
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+        }
+      ],
+      "duration_ms": 187857,
+      "name": "Vavapo",
+      "url": "https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Rita Lee & Roberto - Classix Remix Vol. III",
         "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 421463,
       "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
       "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Favela Garage Beats",
-        "url": "https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx"
-      },
-      "artists": [
-        {
-          "name": "Brunoso",
-          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
-        }
-      ],
-      "duration_ms": 187857,
-      "name": "Vavapo",
-      "url": "https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Movimento Paralelo, Vol.1",
-        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
-      },
-      "artists": [
-        {
-          "name": "Guillerrrmo",
-          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
-        }
-      ],
-      "duration_ms": 248062,
-      "name": "Sarrafando Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Benzine EP",
         "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 406138,
       "name": "Benzine",
       "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Movimento Paralelo, Vol.1",
+        "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
+      },
+      "artists": [
+        {
+          "name": "Guillerrrmo",
+          "url": "https://open.spotify.com/artist/1FdmCrzayGeU9HYI5KOrmy"
+        }
+      ],
+      "duration_ms": 248062,
+      "name": "Sarrafando Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Maytrea",
-        "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
-      },
-      "artists": [
-        {
-          "name": "Art in Motion",
-          "url": "https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP"
-        }
-      ],
-      "duration_ms": 452106,
-      "name": "Maytrea",
-      "url": "https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Nocturnal Fear",
         "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 336400,
       "name": "Colapso",
       "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Maytrea",
+        "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
+      },
+      "artists": [
+        {
+          "name": "Art in Motion",
+          "url": "https://open.spotify.com/artist/4y3VghKwwjmfAUHo3G5rvP"
+        }
+      ],
+      "duration_ms": 452106,
+      "name": "Maytrea",
+      "url": "https://open.spotify.com/track/77xfpj0U5Bb8Am1gcx5Mbb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Easytiiger__001",
-        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
-      },
-      "artists": [
-        {
-          "name": "Mootron",
-          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "No Rave",
-      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Charme",
         "url": "https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 238032,
       "name": "Festa",
       "url": "https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Easytiiger__001",
+        "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
+      },
+      "artists": [
+        {
+          "name": "Mootron",
+          "url": "https://open.spotify.com/artist/3PpdTKOWOfHbQxB7Q2bFYv"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "No Rave",
+      "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
     },
     {
       "added_at": "2023-11-10 03:03:00",

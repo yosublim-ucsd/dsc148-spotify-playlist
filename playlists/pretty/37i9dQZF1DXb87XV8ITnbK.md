@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,289 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,345 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You & Me](https://open.spotify.com/track/56s9zc3mWOFpU8zj882CWD) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ryKXv8I2Eb2K3SKBtdnfQ) | 3:10 |
-| 2 | [Wherever](https://open.spotify.com/track/5IRFZZ9cUCdtV7YMSxPhRp) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
+| 2 | [Wherever](https://open.spotify.com/track/5IRFZZ9cUCdtV7YMSxPhRp) | [EightO](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
 | 3 | [My Song](https://open.spotify.com/track/428XOGB2hGO7eBdWZG5c8x) | [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/6cH55kGXjEjFw4VkOFkQ5w) | 4:06 |
 | 4 | [You’re Precious](https://open.spotify.com/track/0grAbqXDOJDerhzeYB4wy3) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/1UwKfiByjSWdIt2xGiE0Ig) | 3:17 |
 | 5 | [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 60 | [About loneliness \- Instrumental](https://open.spotify.com/track/3hIKQTSkysKIWfuehaX9c6) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 |
 | 61 | [You’re Precious \- Instrumental](https://open.spotify.com/track/3vfKwI37sjz161GNU7dv9A) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/1UwKfiByjSWdIt2xGiE0Ig) | 3:17 |
 | 62 | [My Song \- Instrumental](https://open.spotify.com/track/0ZftClO2NLnc3aUTSqwutB) | [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/6cH55kGXjEjFw4VkOFkQ5w) | 4:06 |
-| 63 | [Wherever \- Instrumental](https://open.spotify.com/track/52lTNIIPlsUkF0IL2n2430) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
+| 63 | [Wherever \- Instrumental](https://open.spotify.com/track/52lTNIIPlsUkF0IL2n2430) | [EightO](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
 | 64 | [You & Me \- Instrumental](https://open.spotify.com/track/1YtQ9PFgCydiPjpkzMIiT3) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ryKXv8I2Eb2K3SKBtdnfQ) | 3:10 |
 
 Snapshot ID: `ZVNE5QAAAACx1ZtBcU9JsNBm3UQ8FvAb`

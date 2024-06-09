@@ -2,14 +2,14 @@
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This is BK\. The essential tracks, all in one playlist.
+> This is BK\. Todos os maiores hits em uma só playlist.
 
 77 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ENHOR](https://open.spotify.com/track/1jBmW1fRXgLhy1XwE0SJTN) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [PADRIM](https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC) | 4:14 | 2023-09-18 | 2024-03-30 |
-| [.38](https://open.spotify.com/track/5lrOv9KwtrUyW8Xgh3JJqs) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [.38](https://open.spotify.com/album/1PygS5WEMqHcu3LNJBne5f) | 2:06 | 2024-05-16 |  |
+| [.38](https://open.spotify.com/track/5lrOv9KwtrUyW8Xgh3JJqs) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [.38](https://open.spotify.com/album/1PygS5WEMqHcu3LNJBne5f) | 2:06 | 2024-05-16 | 2024-06-09 |
 | [.38](https://open.spotify.com/track/3nobSbq9rggHUEbRBoZaDg) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [.38](https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO) | 2:06 | 2023-09-18 | 2024-05-16 |
 | [3 DA MADRUGA](https://open.spotify.com/track/6ippDdJ3ys868MznfOHiRI) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx) | 3:41 | 2023-12-18 |  |
 | [Almas](https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Antes dos Gigantes Chegarem, Vol\. 2](https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc) | 3:47 | 2023-09-18 |  |

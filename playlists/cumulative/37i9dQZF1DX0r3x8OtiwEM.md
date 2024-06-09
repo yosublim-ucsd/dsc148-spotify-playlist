@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-633 songs - 2 day 14 hr 49 min
+634 songs - 2 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Beirut](https://open.spotify.com/track/1QAukxDeTuctdK9O6IzyJv) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Beirut](https://open.spotify.com/album/1zuIiMG3WV5wVKe5iD2dQq) | 5:13 | 2022-07-01 | 2022-07-09 |
 | [Best of Me \- Radio Edit](https://open.spotify.com/track/3nQPkePHredC24hsQBmlbj) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Best of Me \(Radio Edit\)](https://open.spotify.com/album/4r3jo7rdIgbAbMXX6tkyTB) | 3:49 | 2020-09-26 | 2022-10-18 |
 | [Best of Me \- Radio Edit](https://open.spotify.com/track/4bJ7hDIjOucR0hGDEaVBOr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Best of Me \(Radio Edit\)](https://open.spotify.com/album/0JZhnQOj0GJqODT4NolPLv) | 3:49 | 2022-10-07 | 2022-11-26 |
-| [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 | 2022-07-08 |  |
+| [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 | 2022-07-08 | 2024-06-09 |
 | [Beyond](https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Aalson](https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY) | [Beyond](https://open.spotify.com/album/3KArNyUMUdAXmnwP72PQSz) | 5:24 | 2021-10-08 | 2022-07-27 |
 | [Bind](https://open.spotify.com/track/4R1VLK8KNVxrCYHHyD7GyX) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Bind](https://open.spotify.com/album/1oZhIPKjgIiWZiDYy2Lzdj) | 4:12 | 2020-05-04 | 2022-04-20 |
 | [Bird](https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec) | 5:50 | 2021-08-06 | 2022-07-02 |
@@ -346,6 +346,7 @@
 | [Morning Odyssey](https://open.spotify.com/track/1r5NaqCBOPwFFTQoNx7bN5) | [Wurtz](https://open.spotify.com/artist/1a7wiOiltJCrirpiJb0mA1), [Iberian Muse](https://open.spotify.com/artist/1u3g8PeUxNzaQmolXTwZRL) | [Morning Odyssey EP](https://open.spotify.com/album/4hGk60H6Odu1tTXxdtrqxH) | 7:14 | 2020-09-26 | 2020-11-28 |
 | [Mosaik](https://open.spotify.com/track/0b0IqdxnFSloffKBak9oOm) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Mosaik](https://open.spotify.com/album/16g7VqqG5hBQQOSZCmuQXD) | 7:52 | 2021-01-09 | 2022-04-21 |
 | [Motion](https://open.spotify.com/track/0iwIPwrDQs1oXODo8BcJiw) | [Chumbita](https://open.spotify.com/artist/3WbKIsCUdUMeLu2kouBDUh) | [Future Sound Of The Lucky Islands Vol\. 3](https://open.spotify.com/album/67odJER24QTODOcktZ7VYh) | 7:40 | 2021-02-20 | 2021-03-23 |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-07 |  |
 | [Mumbai](https://open.spotify.com/track/0fFArs57TxRy5iWTW9ZzhB) | [Alexander Alar](https://open.spotify.com/artist/4OfOyERIlrusog1D6Ue2Po), [Bakhova](https://open.spotify.com/artist/6VnT8famHHPF3EhUOr7IGW) | [Mumbai](https://open.spotify.com/album/6vLG6upLXP4vGLEWkRmRgP) | 8:31 | 2019-08-06\* | 2020-01-26 |
 | [Musica](https://open.spotify.com/track/4FoH1JTnWMZtciVi1V8ifa) | [Joy Kitikonti](https://open.spotify.com/artist/4JrU565LFXyKjDaHhdmPR6), [Luca Pechino](https://open.spotify.com/artist/2VhenOnDslFVCrnDN6KlsZ) | [Musica](https://open.spotify.com/album/4gpO4UMyIxvAOBWgOodgBi) | 6:42 | 2021-12-17 | 2022-07-11 |
 | [My Computer](https://open.spotify.com/track/0EFONrcgPNCnkQSJ7Y3PnI) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Glowal](https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ) | [Picture: Adana Twins](https://open.spotify.com/album/59Vuirk9qcwJkih26Uhei7) | 8:35 | 2019-09-06 | 2020-01-02 |

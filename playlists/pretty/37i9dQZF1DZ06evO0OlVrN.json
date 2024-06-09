@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7112,
+  "num_followers": 7117,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAADDKb2wR+/qWzbbLz9EaHgM",
+  "snapshot_id": "ZmJNgAAAAADU20jxDzGd/UjGYXf9aXfv",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Qu\u00e9 Es Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 137136,
-      "name": "Mis 20 Novias",
-      "url": "https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos Del Norte En Vivo (Live)",
         "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 243760,
       "name": "Podiosero De Amor - Live",
       "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Qu\u00e9 Es Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 137136,
+      "name": "Mis 20 Novias",
+      "url": "https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos Del Norte En Vivo (Live)",
         "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 158666,
       "name": "Prieta Mojina - Live",
       "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Roland Vs. Los Relampagos",
-        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
       },
       "artists": [
-        {
-          "name": "Country Roland Band",
-          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
-        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 197734,
-      "name": "Pancha La Contrabandista",
-      "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
+      "duration_ms": 129360,
+      "name": "Rogante",
+      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
     },
     {
       "added_at": null,
@@ -627,34 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+        "name": "Country Roland Vs. Los Relampagos",
+        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
       "artists": [
+        {
+          "name": "Country Roland Band",
+          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 129360,
-      "name": "Rogante",
-      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Que Bonita Chaparrita",
-      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+      "duration_ms": 197734,
+      "name": "Pancha La Contrabandista",
+      "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 142226,
       "name": "Solo quiero",
       "url": "https://open.spotify.com/track/2TG4wMLLyoGwxBDgE8feJu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Que Bonita Chaparrita",
+      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
     },
     {
       "added_at": null,

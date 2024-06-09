@@ -1,6 +1,6 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 1658,
+  "num_followers": 1670,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Wonderful World",
         "url": "https://open.spotify.com/album/36jkSaatEARkByil5kn9f6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 165801,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/5SQkpKQP4woq7R4kG53HAy"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "I Was Born To Love You",
         "url": "https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
-      },
-      "artists": [
-        {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        }
-      ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Seed of Joy",
         "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "A Very Lonely Solstice",
         "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 222133,
       "name": "Silver Dagger - Solstice Version",
       "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "A Prayer Of My Own",
-        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 273513,
-      "name": "A Prayer Of My Own",
-      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 195850,
       "name": "Real Peach - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "A Prayer Of My Own",
+        "url": "https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 273513,
+      "name": "A Prayer Of My Own",
+      "url": "https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Two Songs For Now",
         "url": "https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 233310,
       "name": "The Last Song On Earth",
       "url": "https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Patchwork Heart",
-        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
-      },
-      "artists": [
-        {
-          "name": "Justin Wade Tam",
-          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
-        }
-      ],
-      "duration_ms": 239152,
-      "name": "Patchwork Heart",
-      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Where is the Heart of My Country",
         "url": "https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 313615,
       "name": "Where is the Heart of My Country",
       "url": "https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Patchwork Heart",
+        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
+      },
+      "artists": [
+        {
+          "name": "Justin Wade Tam",
+          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
+        }
+      ],
+      "duration_ms": 239152,
+      "name": "Patchwork Heart",
+      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Nothing's Easy",
-        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
-      },
-      "artists": [
-        {
-          "name": "Tiz McNamara",
-          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
-        }
-      ],
-      "duration_ms": 186978,
-      "name": "Nothing's Easy",
-      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Telephone",
         "url": "https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 212320,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Nothing's Easy",
+        "url": "https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo"
+      },
+      "artists": [
+        {
+          "name": "Tiz McNamara",
+          "url": "https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS"
+        }
+      ],
+      "duration_ms": 186978,
+      "name": "Nothing's Easy",
+      "url": "https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The World Seen Through Your Eyes",
-        "url": "https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW"
-      },
-      "artists": [
-        {
-          "name": "Findlay Brown",
-          "url": "https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "The World Seen Through Your Eyes",
-      "url": "https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "The Ghost and the Wall (Acoustic)",
         "url": "https://open.spotify.com/album/0WmP9xbIqLm5vXFZXgLXSv"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 189500,
       "name": "Next to Me - Acoustic",
       "url": "https://open.spotify.com/track/5bSxRjgi1YMopg5HMUL2gU"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The World Seen Through Your Eyes",
+        "url": "https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW"
+      },
+      "artists": [
+        {
+          "name": "Findlay Brown",
+          "url": "https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "The World Seen Through Your Eyes",
+      "url": "https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv"
     },
     {
       "added_at": "2024-03-15 04:00:00",

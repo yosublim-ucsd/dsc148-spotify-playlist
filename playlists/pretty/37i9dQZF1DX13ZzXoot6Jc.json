@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Josh Meloy",
-  "num_followers": 455043,
+  "num_followers": 455029,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Without You (feat. Elle King)",
-        "url": "https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Without You (feat. Elle King)",
-      "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "I'll Be Here",
         "url": "https://open.spotify.com/album/4xbHSYI6hlGNwedfaXgSAk"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 247459,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Without You (feat. Elle King)",
+        "url": "https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Without You (feat. Elle King)",
+      "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
     },
     {
       "added_at": "2024-06-07 04:00:00",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,138 likes - 93 songs - 4 hr 55 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,149 likes - 93 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She Knows](https://open.spotify.com/track/3y1Rph556oNF0ihNrd6iIq) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [She Knows](https://open.spotify.com/album/5YkoSEj8ITLtDF0pgeZhYU) | 1:50 |
 | 2 | [Dreams](https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Dreams](https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I) | 2:21 |
-| 3 | [After Party \(Lens' Rowdy Rework\)](https://open.spotify.com/track/7prqwAn9DWSeEtdeKAT17h) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [After Party \(Lens' Rowdy Rework\)](https://open.spotify.com/album/6h77MfPNaxsSvx6sCNBeu7) | 2:59 |
+| 3 | [After Party](https://open.spotify.com/track/7prqwAn9DWSeEtdeKAT17h) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [After Party \(Lens' Rowdy Rework\)](https://open.spotify.com/album/6h77MfPNaxsSvx6sCNBeu7) | 2:59 |
 | 4 | [I.Y.D.K](https://open.spotify.com/track/3oDLvbyBW8obex0e3IlWGT) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [SHAYE](https://open.spotify.com/artist/5bPXhWvQooHOtG2BpoK6Da) | [I.Y.D.K](https://open.spotify.com/album/6ZQoPxyj0e0Qw7GxBslK4G) | 2:34 |
 | 5 | [Leaves](https://open.spotify.com/track/2Mc3jLnfMFdlMxAi87BV7d) | [NICOLOSI](https://open.spotify.com/artist/7fexYDMRWxJ25mYGdblXWW) | [Leaves](https://open.spotify.com/album/6tyM83ck5kyIXcgRZKji5s) | 2:51 |
 | 6 | [Too High To Cry](https://open.spotify.com/track/7lUIAkNykW5nQhCIBGiQ09) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Too High To Cry](https://open.spotify.com/album/5NL9W9396ky1o3QTRd8IFm) | 3:22 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 15 | [Witches Brew](https://open.spotify.com/track/4UpJT83CsP1ugmPiCWlkpy) | [Kiss Nuka](https://open.spotify.com/artist/3VXmLRdy5ho8J1Btv7zffg) | [Witches Brew](https://open.spotify.com/album/4IXBItZGCVh34y73SKTYXO) | 3:51 |
 | 16 | [Sexyy Red](https://open.spotify.com/track/7fdzlT2ylv7tsWyrb0Y0QS) | [Joresy](https://open.spotify.com/artist/1rZ0WCukFriYwv2z7goGwf), [T MULLA](https://open.spotify.com/artist/0yIMlboJ6DHovv1cKPVptn) | [Sexyy Red](https://open.spotify.com/album/2lbGoFPGKzmZ7SS1KjGCKT) | 2:37 |
 | 17 | [Blizzard](https://open.spotify.com/track/28VIalsJ9lb9JXKw6Sq8zE) | [Little Torment](https://open.spotify.com/artist/5HMjCvzpYeCoeUcpU5g93t), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Blizzard](https://open.spotify.com/album/6fNMlFnVl4TWX2R9cI2eAI) | 3:10 |
-| 18 | [Thank You \(Gratitude Is The Attitude Riddim\)](https://open.spotify.com/track/2CGfFGqNVDqIAxZAMDjJrR) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE), [THE1DEVOTION](https://open.spotify.com/artist/241ja1r38WsEbRB3qAlnTS) | [Where I Wanna Go \(Gratitude Is The Attitude Riddim\)](https://open.spotify.com/album/6PAWFzI2AOSNZ3ID5P6Qbn) | 3:09 |
+| 18 | [Thank You \(Gratitude Is The Attitude Riddim\)](https://open.spotify.com/track/2CGfFGqNVDqIAxZAMDjJrR) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE), [THE1DEVOTION](https://open.spotify.com/artist/241ja1r38WsEbRB3qAlnTS), [LEVi](https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ) | [Where I Wanna Go \(Gratitude Is The Attitude Riddim\)](https://open.spotify.com/album/6PAWFzI2AOSNZ3ID5P6Qbn) | 3:09 |
 | 19 | [it's okay](https://open.spotify.com/track/78dwZvcGGNEENRFuFB5AYy) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [it's okay](https://open.spotify.com/album/4JmZnQDTSaT0UGhsFR6Yh0) | 2:14 |
 | 20 | [Bunny](https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Bunny](https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm) | 3:29 |
 | 21 | [Borderlands](https://open.spotify.com/track/2bBFpwXcYZdJhJYDitXAnI) | [The Milk](https://open.spotify.com/artist/4sxtLUswMXhoDrec7zc6i0) | [Borderlands](https://open.spotify.com/album/5ADVODYZGzD9IjDIYn6ZaI) | 4:01 |

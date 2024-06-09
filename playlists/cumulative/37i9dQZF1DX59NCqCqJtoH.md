@@ -4,7 +4,7 @@
 
 > We hear you.
 
-676 songs - 1 day 9 hr 29 min
+677 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 | 2023-05-08 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-12 | 2024-05-29 |
 | [Every Fucking Time](https://open.spotify.com/track/3pcl1nwM7BkNaNcsojvPCz) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Every Fucking Time](https://open.spotify.com/album/5ZivRaxbqlajWwrhA92jAS) | 2:47 | 2023-05-05 | 2023-06-06 |
+| [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 | 2024-05-10 |  |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
 | [everything i couldn't be](https://open.spotify.com/track/0Fzt24jmCa6G0ED7pW3IM1) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [everything i couldn't be](https://open.spotify.com/album/0OO54Y1nTh8WeZBNuD4AMV) | 2:10 | 2021-04-02 | 2022-07-22 |
 | [everything will be okay...](https://open.spotify.com/track/3ocXeXohKnLDwSfzjWs1tE) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [everything will be okay...](https://open.spotify.com/album/6jcKxX5Huf3gOOLm98Lm6L) | 1:32 | 2021-04-02 | 2022-05-20 |
@@ -318,7 +319,7 @@
 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 | 2021-08-27 | 2022-07-23 |
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-11-08 | 2023-02-01 |
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2022-11-11 | 2023-04-27 |
-| [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 | 2024-03-07 |  |
+| [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 | 2024-03-07 | 2024-06-09 |
 | [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 | 2022-11-18 | 2023-02-15 |
 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 | 2023-04-26 | 2023-10-19 |
 | [infinity](https://open.spotify.com/track/1LKRq7700oFaulUp6MpIiW) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/6Av8IyC0LC2H11oSpvXKRF) | 2:54 | 2023-09-29 | 2024-04-19 |

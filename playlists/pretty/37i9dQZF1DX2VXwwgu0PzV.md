@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2?si=3\-AhgJc0RfS7kJuSNQOZXQ>Tim Godfrey</a> and  <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=RDfM3zozQmO\-Z1fBdrUa\-g>EJ Newton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,648 likes - 120 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,763 likes - 120 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

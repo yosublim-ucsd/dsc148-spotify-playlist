@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,713 likes - 137 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,722 likes - 137 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 6 | [Floating](https://open.spotify.com/track/1G4QmXMFFPKypYFfZaV3Mg) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Floating](https://open.spotify.com/album/7KTojG9yqTuKlodp0F69oK) | 3:37 |
 | 7 | [Skyjum](https://open.spotify.com/track/5UWXwaQAf0IADjmS2auqNj) | [Catedral Infinita](https://open.spotify.com/artist/4ZHk7eCeQ5Q4o4wWvxq26r) | [Skyjum](https://open.spotify.com/album/5KjQoy7EkLWickNQz3FCAj) | 2:46 |
 | 8 | [Seasons](https://open.spotify.com/track/2k4okcxh49oktYeFDo1hXZ) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Seasons](https://open.spotify.com/album/6f0GjbMUJGpZvMEJEdJuuf) | 2:30 |
-| 9 | [Whispering Grass](https://open.spotify.com/track/6V25zvd17P1V5LUVpDJpdb) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z) | [Whispering Grass](https://open.spotify.com/album/4lqCWrYUFxUJs2byQTB2U1) | 2:09 |
+| 9 | [Whispering Grass](https://open.spotify.com/track/6V25zvd17P1V5LUVpDJpdb) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Niavi](https://open.spotify.com/artist/2TK0VbmCbYAlr4m7n6wlkr), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z) | [Whispering Grass](https://open.spotify.com/album/4lqCWrYUFxUJs2byQTB2U1) | 2:09 |
 | 10 | [Dusty Star](https://open.spotify.com/track/18HkZKb3Q5nUdLE8a6mj8g) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Dusty Star](https://open.spotify.com/album/3n3mkl4mHxBJsIu1wQlX7o) | 4:43 |
 | 11 | [Leuer](https://open.spotify.com/track/7pbCBohVdoqOYHDybtc3mw) | [luminique Revox](https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX) | [Leuer](https://open.spotify.com/album/76PMsG9N2yaFMIVYPsgRpi) | 3:02 |
 | 12 | [Meditava](https://open.spotify.com/track/1qxWehKvD0HZvnXkwULcjV) | [Blissful Beyond](https://open.spotify.com/artist/2zuUN7ElpvbKEfxlyky0gP) | [Meditava](https://open.spotify.com/album/6RDaZ2fg0TeatoPxhyj6fv) | 3:12 |

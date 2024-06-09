@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-09",
-  "description": "This is HARDY. Tutti i brani in un'unica playlist.",
+  "description": "This is HARDY. The essential tracks, all in one playlist.",
   "name": "This Is HARDY",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 195720,
       "name": "Down to the Bar (feat. HARDY)",
       "url": "https://open.spotify.com/track/2G6I4a9iOgDNoU60F3Bb1z"
@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+        "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191437,
+      "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+      "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
+    },
+    {
+      "album": {
         "name": "SOLD OUT",
         "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 197666,
       "name": "The Worst Country Song Of All Time",
       "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
@@ -1448,6 +1466,28 @@
     {
       "album": {
         "name": "zombieland (feat. HARDY)",
+        "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192367,
+      "name": "zombieland (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
+    },
+    {
+      "album": {
+        "name": "zombieland (feat. HARDY)",
         "url": "https://open.spotify.com/album/1melLSxJUfXvY7sDZv1U6Z"
       },
       "artists": [
@@ -1466,28 +1506,6 @@
       "duration_ms": 192397,
       "name": "zombieland (feat. HARDY)",
       "url": "https://open.spotify.com/track/2RtIK8NXQr9hILPatp9qrh"
-    },
-    {
-      "album": {
-        "name": "zombieland (feat. HARDY)",
-        "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "date_added": "2024-05-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192397,
-      "name": "zombieland (feat. HARDY)",
-      "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT"

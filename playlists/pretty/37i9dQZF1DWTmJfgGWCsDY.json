@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 3814,
+  "num_followers": 3820,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,22 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Mama Samia",
-        "url": "https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk"
+        "name": "Cheusi Cheupe (feat. Meja Kunta)",
+        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
       },
       "artists": [
         {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         }
       ],
-      "duration_ms": 300698,
-      "name": "Mama Samia",
-      "url": "https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ"
+      "duration_ms": 279000,
+      "name": "Cheusi Cheupe (feat. Meja Kunta)",
+      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
     },
     {
       "added_at": "2024-05-16 23:59:00",
@@ -567,22 +571,18 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Cheusi Cheupe (feat. Meja Kunta)",
-        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
+        "name": "Mama Samia",
+        "url": "https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk"
       },
       "artists": [
         {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Cheusi Cheupe (feat. Meja Kunta)",
-      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+      "duration_ms": 300698,
+      "name": "Mama Samia",
+      "url": "https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ"
     },
     {
       "added_at": "2024-05-16 23:59:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Sina Stress",
-        "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
-      },
-      "artists": [
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Sina Stress",
-      "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
         "name": "Wapambe",
         "url": "https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie"
       },
@@ -695,22 +679,34 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Singeli Jungles",
-        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+        "name": "Sina Stress",
+        "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
       },
       "artists": [
         {
-          "name": "MC Palakata",
-          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
-        },
-        {
-          "name": "Tom Blip",
-          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
         }
       ],
-      "duration_ms": 280393,
-      "name": "Singeli Jungles",
-      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+      "duration_ms": 229920,
+      "name": "Sina Stress",
+      "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2024-05-16 23:59:00",
@@ -735,6 +731,26 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
+        "name": "Singeli Jungles",
+        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+      },
+      "artists": [
+        {
+          "name": "MC Palakata",
+          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
+        },
+        {
+          "name": "Tom Blip",
+          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+        }
+      ],
+      "duration_ms": 280393,
+      "name": "Singeli Jungles",
+      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+    },
+    {
+      "added_at": "2024-05-16 23:59:00",
+      "album": {
         "name": "Shobo",
         "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 186193,
       "name": "Shobo",
       "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2024-05-16 23:59:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/5dHJkC7n9FdTsA1pRFn3FV"
       },
       "artists": [
         {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+          "name": "JEUSI MC",
+          "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
         }
       ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+      "duration_ms": 301766,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/30v3qWfnXMmoJlXSq03ZQw"
     },
     {
       "added_at": "2024-05-16 23:59:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/5dHJkC7n9FdTsA1pRFn3FV"
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
       },
       "artists": [
         {
-          "name": "JEUSI MC",
-          "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
         }
       ],
-      "duration_ms": 301766,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/30v3qWfnXMmoJlXSq03ZQw"
+      "duration_ms": 243997,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
     },
     {
       "added_at": "2024-05-16 23:59:00",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Sikia",
-        "url": "https://open.spotify.com/album/4NfOHAHcx4K8PFGlsK4PjJ"
+        "name": "Uroda",
+        "url": "https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C"
       },
       "artists": [
         {
@@ -1156,13 +1156,13 @@
           "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
         },
         {
-          "name": "KIDOCHU MC",
-          "url": "https://open.spotify.com/artist/6rNwm38gcVvt435d6GH0Yu"
+          "name": "Sammy Donnar",
+          "url": "https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh"
         }
       ],
-      "duration_ms": 176186,
-      "name": "Sikia",
-      "url": "https://open.spotify.com/track/0DXvVx1D5XgvXKA2BQxSin"
+      "duration_ms": 215038,
+      "name": "Uroda",
+      "url": "https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w"
     },
     {
       "added_at": "2024-05-16 23:59:00",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2024-05-16 23:59:00",
       "album": {
-        "name": "Uroda",
-        "url": "https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C"
+        "name": "Sikia",
+        "url": "https://open.spotify.com/album/4NfOHAHcx4K8PFGlsK4PjJ"
       },
       "artists": [
         {
@@ -1328,13 +1328,13 @@
           "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
         },
         {
-          "name": "Sammy Donnar",
-          "url": "https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh"
+          "name": "KIDOCHU MC",
+          "url": "https://open.spotify.com/artist/6rNwm38gcVvt435d6GH0Yu"
         }
       ],
-      "duration_ms": 215038,
-      "name": "Uroda",
-      "url": "https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w"
+      "duration_ms": 176186,
+      "name": "Sikia",
+      "url": "https://open.spotify.com/track/0DXvVx1D5XgvXKA2BQxSin"
     },
     {
       "added_at": "2024-05-16 23:59:00",

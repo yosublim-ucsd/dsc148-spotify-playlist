@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 421567,
+  "num_followers": 421657,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAB8IUTuEKvmECBdagwoI5UI",
+  "snapshot_id": "ZmJNgAAAAABoy6/u2sJUmedyYAT5VW7v",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 124680,
-      "name": "Y No Me Lo Das",
-      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Les Pelo Baltazar",
         "url": "https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 238240,
       "name": "La Yaquesita",
       "url": "https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 124680,
+      "name": "Y No Me Lo Das",
+      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
     },
     {
       "added_at": null,

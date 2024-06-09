@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "magic",
-        "url": "https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 253312,
-      "name": "magic",
-      "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
-    },
-    {
       "added_at": "2024-06-07 07:56:34",
       "album": {
         "name": "Gary",
@@ -503,6 +487,22 @@
       "duration_ms": 150005,
       "name": "Gary",
       "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "magic",
+        "url": "https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 253312,
+      "name": "magic",
+      "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -539,6 +539,54 @@
       "duration_ms": 118500,
       "name": "honey~",
       "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
+    },
+    {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "Devil Mode",
+        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 184434,
+      "name": "Devil Mode",
+      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
+    },
+    {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -673,20 +721,20 @@
       "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
     },
     {
-      "added_at": "2024-06-07 07:56:34",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Piano Hands",
-        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
       },
       "artists": [
         {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 218031,
-      "name": "Piano Hands",
-      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+      "duration_ms": 144260,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -743,22 +791,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 144260,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj"
       },
@@ -771,6 +803,26 @@
       "duration_ms": 287200,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe"
+    },
+    {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "4TUNAT",
+          "url": "https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl"
+        }
+      ],
+      "duration_ms": 183916,
+      "name": "FIGURE IT OUT",
+      "url": "https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -787,54 +839,6 @@
       "duration_ms": 173876,
       "name": "Wishbone",
       "url": "https://open.spotify.com/track/0WAmA2PBpBgb6SR9iXI02C"
-    },
-    {
-      "added_at": "2024-05-31 03:54:23",
-      "album": {
-        "name": "Flying Away",
-        "url": "https://open.spotify.com/album/4j1AyvNomAzsaT9mi0VkNB"
-      },
-      "artists": [
-        {
-          "name": "Jon Muq",
-          "url": "https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Riding",
-      "url": "https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM"
-      },
-      "artists": [
-        {
-          "name": "We Are All Fossils",
-          "url": "https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw"
-        }
-      ],
-      "duration_ms": 187018,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 193470,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc"
     }
   ],
   "unique_name": "Indie GO",

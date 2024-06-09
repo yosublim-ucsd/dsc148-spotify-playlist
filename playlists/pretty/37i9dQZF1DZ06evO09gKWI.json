@@ -1,12 +1,12 @@
 {
-  "description": "This is Bivolt. The essential tracks, all in one playlist.",
+  "description": "This is Bivolt. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 342,
   "original_name": "This Is Bivolt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAACcqEbvGx9exHaDSPIDm6y8",
+  "snapshot_id": "ZmJNgAAAAAAueW827kPtdNp1EQH+OTs1",
   "tracks": [
     {
       "added_at": null,
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+          "name": "J\u00e9",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
         }
       ],
-      "duration_ms": 221176,
-      "name": "Nome e Sobrenome",
-      "url": "https://open.spotify.com/track/4PYHWK4Z301z9jPFwojK5Z"
+      "duration_ms": 219348,
+      "name": "Tipo Giroflex",
+      "url": "https://open.spotify.com/track/0L5ZZJcXPBljIjFQQqUcxG"
     },
     {
       "added_at": null,
@@ -699,30 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biodecon",
-        "url": "https://open.spotify.com/album/510pqgYX4s6yQ4TX5hIoqx"
+        "name": "Ela",
+        "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
       },
       "artists": [
         {
-          "name": "Bitrinho",
-          "url": "https://open.spotify.com/artist/0YHpmlQEZi5GpsGKl6O41V"
-        },
-        {
-          "name": "Ramiress",
-          "url": "https://open.spotify.com/artist/7wXVKeTUGqF7ifHM81SHmN"
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Dj Billy Mandela",
-          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 200176,
-      "name": "Biodecon",
-      "url": "https://open.spotify.com/track/7qBYwWajxFb0UQMfCtdnY5"
+      "duration_ms": 160687,
+      "name": "Ela",
+      "url": "https://open.spotify.com/track/1xFt2EA1GMkU4vJfac124M"
     },
     {
       "added_at": null,
@@ -736,13 +732,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "J\u00e9",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
         }
       ],
-      "duration_ms": 219348,
-      "name": "Tipo Giroflex",
-      "url": "https://open.spotify.com/track/0L5ZZJcXPBljIjFQQqUcxG"
+      "duration_ms": 221176,
+      "name": "Nome e Sobrenome",
+      "url": "https://open.spotify.com/track/4PYHWK4Z301z9jPFwojK5Z"
     },
     {
       "added_at": null,
@@ -787,26 +783,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ela",
-        "url": "https://open.spotify.com/album/6hgMAiw5faQUZgStrv3EDg"
+        "name": "Biodecon",
+        "url": "https://open.spotify.com/album/510pqgYX4s6yQ4TX5hIoqx"
       },
       "artists": [
         {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+          "name": "Bitrinho",
+          "url": "https://open.spotify.com/artist/0YHpmlQEZi5GpsGKl6O41V"
+        },
+        {
+          "name": "Ramiress",
+          "url": "https://open.spotify.com/artist/7wXVKeTUGqF7ifHM81SHmN"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "Dj Billy Mandela",
+          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
         }
       ],
-      "duration_ms": 160687,
-      "name": "Ela",
-      "url": "https://open.spotify.com/track/1xFt2EA1GMkU4vJfac124M"
+      "duration_ms": 200176,
+      "name": "Biodecon",
+      "url": "https://open.spotify.com/track/7qBYwWajxFb0UQMfCtdnY5"
     },
     {
       "added_at": null,
@@ -971,26 +971,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dose Dupla",
-        "url": "https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N"
+        "name": "Vista Loka",
+        "url": "https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs"
       },
       "artists": [
-        {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 194413,
-      "name": "Dose Dupla",
-      "url": "https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d"
+      "duration_ms": 208747,
+      "name": "Vista Loka",
+      "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"
     }
   ],
   "unique_name": "This Is Bivolt",

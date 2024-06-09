@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: KALEO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,283 likes - 127 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,378 likes - 127 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

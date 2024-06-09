@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-378 songs - 16 hr 57 min
+379 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Lighthouse \- Andrelli Remix](https://open.spotify.com/track/04CttTezSnv71USiiG9mIo) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Lighthouse \(Andrelli Remix\)](https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA) | 3:38 | 2023-12-28 |  |
 | [Lights](https://open.spotify.com/track/2BjLg9AE6mnRi3w1XomfUh) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Lights](https://open.spotify.com/album/4FrF6htdcJ27dUsBbumiAj) | 2:17 | 2024-05-10 |  |
 | [Like I Do](https://open.spotify.com/track/3JSCR3Zj2u7AoPMeJ7jFMs) | [Conner Fox](https://open.spotify.com/artist/5pzmyLQtEyHVHfz9snWDmn) | [Like I Do](https://open.spotify.com/album/61h7NkJQwPVYg2kv3NJPiu) | 2:14 | 2024-04-19 |  |
+| [Lingered Love \(feat\. Courtney Storm\)](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Lingered Love \(feat\. Courtney Storm\)](https://open.spotify.com/album/5FEDolmT92Ik0WScotb6rj) | 2:14 | 2024-06-08 |  |
 | [Little Hollywood](https://open.spotify.com/track/3tKZrYDtkte1E68aNozR75) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:03 | 2022-07-13 |  |
 | [Living the Day](https://open.spotify.com/track/78gMlIZUmlr5uNF1B02z4X) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [PRSM](https://open.spotify.com/artist/3sWBYLIL9PPIP2HvQW8gP9) | [Living the Day](https://open.spotify.com/album/6CLC2OjZ0D5NBrgDj4MXHW) | 2:34 | 2024-02-02 | 2024-03-02 |
 | [Lonely](https://open.spotify.com/track/4lC9JgTv45CzOChlLFWDyS) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Lonely](https://open.spotify.com/album/6qBoG1IM0RrksYqT3B8GEd) | 2:22 | 2024-05-31 |  |

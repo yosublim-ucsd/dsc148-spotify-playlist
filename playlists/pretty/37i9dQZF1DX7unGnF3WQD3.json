@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 77361,
+  "num_followers": 77431,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Ojos Verdes",
         "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Tus Mentiras",
         "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 407573,
       "name": "Adi\u00f3s Amor / Oye Mujer",
       "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -799,26 +799,18 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Bronceado (Remix)",
-        "url": "https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2"
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Bronceado - Remix",
-      "url": "https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi"
+      "duration_ms": 350760,
+      "name": "Amor de Madre",
+      "url": "https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -839,22 +831,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 350760,
-      "name": "Amor de Madre",
-      "url": "https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Felic\u00edtalo",
         "url": "https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 186226,
       "name": "Felic\u00edtalo",
       "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "Bronceado (Remix)",
+        "url": "https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Bronceado - Remix",
+      "url": "https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Merengues Con Gusto",
-        "url": "https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 291324,
-      "name": "Moviendo Las Caderas",
-      "url": "https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "Exitos Sonideros, Vol. 2",
         "url": "https://open.spotify.com/album/41dKt9tSQwLw5eDcY1CUFz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 196637,
       "name": "Cumbia Yemaya",
       "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "Merengues Con Gusto",
+        "url": "https://open.spotify.com/album/3cnNKDOYcchZ5Jl9aPxvKL"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 291324,
+      "name": "Moviendo Las Caderas",
+      "url": "https://open.spotify.com/track/4q6N9URYBLk9g1bUIWwnoR"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
-        "name": "Tuyo Siempre",
-        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Tuyo Siempre",
-      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
+        "name": "Tuyo Siempre",
+        "url": "https://open.spotify.com/album/5iWCGpIviT851tliidHWm7"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Tuyo Siempre",
+      "url": "https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m"
     },
     {
       "added_at": "2024-05-31 15:35:40",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-05-31 15:35:40",
       "album": {
+        "name": "Cumbia Lorana Wepa Sonido Pirata",
+        "url": "https://open.spotify.com/album/5WwYkiovXtif5EdeYajDw6"
+      },
+      "artists": [
+        {
+          "name": "Dj Yack",
+          "url": "https://open.spotify.com/artist/5HOxMIImatFw3BT7K9UX0S"
+        }
+      ],
+      "duration_ms": 200292,
+      "name": "Cumbia Lorana Wepa Sonido Pirata",
+      "url": "https://open.spotify.com/track/4djpP0CmX6a9I6U52dLG5r"
+    },
+    {
+      "added_at": "2024-05-31 15:35:40",
+      "album": {
         "name": "Con Musica Del Barrio y Para El Barrio",
         "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 219088,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL"
-    },
-    {
-      "added_at": "2024-05-31 15:35:40",
-      "album": {
-        "name": "Cumbia Lorana Wepa Sonido Pirata",
-        "url": "https://open.spotify.com/album/5WwYkiovXtif5EdeYajDw6"
-      },
-      "artists": [
-        {
-          "name": "Dj Yack",
-          "url": "https://open.spotify.com/artist/5HOxMIImatFw3BT7K9UX0S"
-        }
-      ],
-      "duration_ms": 200292,
-      "name": "Cumbia Lorana Wepa Sonido Pirata",
-      "url": "https://open.spotify.com/track/4djpP0CmX6a9I6U52dLG5r"
     },
     {
       "added_at": "2024-05-31 15:35:40",

@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 622398,
+  "num_followers": 622424,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "I Will Wait",
-        "url": "https://open.spotify.com/album/4esnfOM5BXKnlTcF61sdCa"
-      },
-      "artists": [
-        {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/5LLv0UnROhcRiqBmR6p9Us"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "When I Pray",
         "url": "https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 221915,
       "name": "When I Pray",
       "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "I Will Wait",
+        "url": "https://open.spotify.com/album/4esnfOM5BXKnlTcF61sdCa"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/5LLv0UnROhcRiqBmR6p9Us"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Place Called Victory - EP",
-        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
-      },
-      "artists": [
-        {
-          "name": "Deon Kipping",
-          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
-        }
-      ],
-      "duration_ms": 383552,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 275726,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Place Called Victory - EP",
+        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
+      },
+      "artists": [
+        {
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
+        }
+      ],
+      "duration_ms": 383552,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Speak Your Name",
-        "url": "https://open.spotify.com/album/2cidAYdXd5N47PfrCKmMTe"
-      },
-      "artists": [
-        {
-          "name": "Anthony Brown & group therAPy",
-          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
-        }
-      ],
-      "duration_ms": 321083,
-      "name": "Speak Your Name",
-      "url": "https://open.spotify.com/track/5YHQibx9nptsYC83u6kn2h"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 285106,
       "name": "Jesus (feat. Le'andria Johnson)",
       "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Speak Your Name",
+        "url": "https://open.spotify.com/album/2cidAYdXd5N47PfrCKmMTe"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "duration_ms": 321083,
+      "name": "Speak Your Name",
+      "url": "https://open.spotify.com/track/5YHQibx9nptsYC83u6kn2h"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Love & Other Dreams",
+        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        }
+      ],
+      "duration_ms": 290213,
+      "name": "Sunday Morning (Thinkin \u2018Bout You)",
+      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Tap Into It (The Source)",
         "url": "https://open.spotify.com/album/5jw01W5oU1yIznSc9tVSnn"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 313448,
       "name": "Tap Into It (The Source)",
       "url": "https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Love & Other Dreams",
-        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
-      },
-      "artists": [
-        {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        }
-      ],
-      "duration_ms": 290213,
-      "name": "Sunday Morning (Thinkin \u2018Bout You)",
-      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
     },
     {
       "added_at": "2024-02-02 06:37:59",

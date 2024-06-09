@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 10316,
+  "num_followers": 10318,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAACGEy6C7SP/CtMY+/kxSVEY",
+  "snapshot_id": "ZmJNgAAAAADzsVt+rzVLuPycIkOgSqv5",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Not Pretty Enough",
-      "url": "https://open.spotify.com/track/5fkp9yhvTJ3oJEFO1AnFzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -59,6 +43,30 @@
       "duration_ms": 222386,
       "name": "Rattlin' Bones",
       "url": "https://open.spotify.com/track/7M6oKJS7dCDQYgaViybJh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        }
+      ],
+      "duration_ms": 226446,
+      "name": "Walk a Country Mile",
+      "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
     },
     {
       "added_at": null,
@@ -91,30 +99,6 @@
       "duration_ms": 129053,
       "name": "We're All Gonna Die Someday",
       "url": "https://open.spotify.com/track/4Yzt8bQMvDk2YfKamGLAxR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        }
-      ],
-      "duration_ms": 226446,
-      "name": "Walk a Country Mile",
-      "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
     },
     {
       "added_at": null,
@@ -155,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "This Flower",
-      "url": "https://open.spotify.com/track/2rzPn4z4u7vtOqGwExY4Sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The South: Paul Kelly's Greatest Hits 1985-2019",
         "url": "https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a"
       },
@@ -187,6 +155,22 @@
       "duration_ms": 142688,
       "name": "When We\u2019re Both Old & Mad",
       "url": "https://open.spotify.com/track/4dx684GtAUi86s1bzstO65"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "This Flower",
+      "url": "https://open.spotify.com/track/2rzPn4z4u7vtOqGwExY4Sq"
     },
     {
       "added_at": null,
@@ -283,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "She Will Have Her Way - The Songs Of Tim & Neil Finn",
         "url": "https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD"
       },
@@ -311,6 +279,22 @@
       "duration_ms": 199333,
       "name": "Better Be Home Soon",
       "url": "https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
     },
     {
       "added_at": null,
@@ -567,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 236666,
-      "name": "Like A River",
-      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
+      "duration_ms": 220258,
+      "name": "If We Had a Child (with Keith Urban)",
+      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
     },
     {
       "added_at": null,
@@ -615,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
       "artists": [
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 220258,
-      "name": "If We Had a Child (with Keith Urban)",
-      "url": "https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0"
+      "duration_ms": 236666,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
     },
     {
       "added_at": null,
@@ -651,6 +635,38 @@
       "duration_ms": 175832,
       "name": "Whispering Voice",
       "url": "https://open.spotify.com/track/6KrH808OiGT7HiwofPkOEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 267906,
+      "name": "Nullarbor Song",
+      "url": "https://open.spotify.com/track/2YsYJWQmFnuHybbVsHQSs1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 257021,
+      "name": "Ain't No Little Girl",
+      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 257021,
-      "name": "Ain't No Little Girl",
-      "url": "https://open.spotify.com/track/7MKrHMyf57Lri1fMMMahMt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Bird",
         "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
@@ -735,46 +735,6 @@
       "duration_ms": 166026,
       "name": "Freight Train",
       "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleeping With The Blues",
-        "url": "https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY"
-      },
-      "artists": [
-        {
-          "name": "Bill Chambers",
-          "url": "https://open.spotify.com/artist/68E7ZdTcPlYToL9wzBGIgQ"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 149092,
-      "name": "Stories We Could Tell",
-      "url": "https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Adam and Eve",
-      "url": "https://open.spotify.com/track/2zqvygijtFwaeOtiohdu81"
     },
     {
       "added_at": null,
@@ -819,6 +779,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Wreck and Ruin",
+      "url": "https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleeping With The Blues",
+        "url": "https://open.spotify.com/album/4iA1rj6uq5L0YJ5aiQiUzY"
+      },
+      "artists": [
+        {
+          "name": "Bill Chambers",
+          "url": "https://open.spotify.com/artist/68E7ZdTcPlYToL9wzBGIgQ"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 149092,
+      "name": "Stories We Could Tell",
+      "url": "https://open.spotify.com/track/7Ct9D7hVGIY5tEnQ2CBXp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wayward Angel",
         "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
@@ -856,17 +856,17 @@
       },
       "artists": [
         {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        },
-        {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 148653,
-      "name": "Wreck and Ruin",
-      "url": "https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f"
+      "duration_ms": 185053,
+      "name": "Adam and Eve",
+      "url": "https://open.spotify.com/track/2zqvygijtFwaeOtiohdu81"
     },
     {
       "added_at": null,

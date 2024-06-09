@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-572 songs - 21 hr 51 min
+574 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [all the stars in the sky](https://open.spotify.com/track/2QJ3SfZuMA5nOi6LrDFJbs) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [all the stars in the sky](https://open.spotify.com/album/4iFeZo1H2srsSgeV5DLOrb) | 2:27 | 2024-01-05 |  |
 | [alley](https://open.spotify.com/track/59lzglOONvlnXfTarq1POU) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [alley](https://open.spotify.com/album/5ajbnD0oVAAmhKgKA92mtR) | 1:55 | 2024-01-05 |  |
 | [Allow It](https://open.spotify.com/track/4b6cxtbIeT6OwZSZkWUYuQ) | [Wizz Waxx](https://open.spotify.com/artist/3x0GWtlYHPByYQ4oHhu78v) | [Allow It](https://open.spotify.com/album/6J7qlSmP8puWinffn1sL2Q) | 2:36 | 2024-01-05 |  |
+| [amber lights](https://open.spotify.com/track/4xbJ6k1wNNLtw9ZvAdgApZ) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [amber lights](https://open.spotify.com/album/4AVJJggB3lvbTxNCBQVTng) | 2:00 | 2024-06-07 |  |
 | [american midsummer](https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [american midsummer](https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd) | 2:48 | 2024-01-05 |  |
 | [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2024-01-05 |  |
 | [And That Was It](https://open.spotify.com/track/3p3OPAGKwZVDX9wq6fRiQl) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [A Time for Dinosaurs](https://open.spotify.com/album/7uhhF93AA2bkzVxkmMK1cQ) | 3:00 | 2024-01-05 |  |
@@ -105,7 +106,7 @@
 | [Collecting Dust](https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Collecting Dust](https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH) | 2:10 | 2024-03-08 |  |
 | [Color Violet](https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA) | [Izzo Lizz](https://open.spotify.com/artist/7hTGpaTylPh9fDkmaR44Rr) | [Color Violet](https://open.spotify.com/album/2tmTKjBGtFNnSZqabuflcE) | 2:08 | 2024-01-05 |  |
 | [Colores](https://open.spotify.com/track/78nzT9F1FCU7f3Qg9tQU2E) | [Tufflo](https://open.spotify.com/artist/5NBNuJ9Yv7r01DfbhTCkR5) | [Green Tea](https://open.spotify.com/album/2dJ098DRzbBvIzoftA2E3x) | 2:26 | 2024-01-05 |  |
-| [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2024-01-05 |  |
+| [Coming Home](https://open.spotify.com/track/7EN48mPO2AJD1iKOItQgUk) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Coming Home](https://open.spotify.com/album/1NXR10O0pSgK506mnnzXpA) | 2:13 | 2024-01-05 | 2024-06-09 |
 | [Con Bajo Fidelidad](https://open.spotify.com/track/0Ti4yQxF7IyyhK3rIT1cdw) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Con Bajo Fidelidad](https://open.spotify.com/album/48DVavFPcUDBx8p5pN0YFg) | 2:10 | 2024-01-05 |  |
 | [Cosmetics](https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Cosmetics](https://open.spotify.com/album/3iv3djrrxI7UnqO7J2OrVT) | 1:44 | 2024-01-05 |  |
 | [Couch Vibes](https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Couch Vibes](https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5) | 2:34 | 2024-03-01 |  |
@@ -387,6 +388,7 @@
 | [patience](https://open.spotify.com/track/581rS6GEc0dfjRtCZVWuIt) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [patience](https://open.spotify.com/album/1xTdPMruyTcfBsp53Ot5ch) | 2:05 | 2024-01-05 |  |
 | [pato blanco](https://open.spotify.com/track/4qADdUyjAppU2XT7yKfBcg) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [pato blanco](https://open.spotify.com/album/6cHb1vrthw4soBUxtTGDH5) | 2:24 | 2024-01-05 |  |
 | [Paulie Walnut](https://open.spotify.com/track/6RInRXWilsEVQrob1Tunl9) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Paulie Walnut](https://open.spotify.com/album/3MbL1zYnCVR3SP5VetBQ07) | 2:10 | 2024-01-05 |  |
+| [pawsitive](https://open.spotify.com/track/67yrjUBrvkVHHZL0HgEJLT) | [misty tapes](https://open.spotify.com/artist/7I09e7RWQg4vV2aGVH3dqO) | [pawsitive](https://open.spotify.com/album/300lKvpSauIkOedahVmQ4m) | 2:16 | 2024-06-07 |  |
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2024-01-05 | 2024-06-08 |
 | [Peaches And Cream](https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s) | [Extatics](https://open.spotify.com/artist/4iGRANB0bQlyjiewj4ZFs6) | [Peaches And Cream](https://open.spotify.com/album/35UfPfsj9bf6I90OS16Xqe) | 2:20 | 2024-01-05 |  |
 | [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 | 2024-01-05 | 2024-04-19 |
@@ -522,7 +524,7 @@
 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 | 2024-01-05 |  |
 | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/track/2Jtxx7JTFeEq7vGG5mxgMV) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Tiger Tales \(of the Concrete Jungle\)](https://open.spotify.com/album/6FfMLwzNxswjsR5tlM0YGV) | 3:10 | 2024-01-05 |  |
 | [till the morning](https://open.spotify.com/track/1U20PKesBLfYS0mwnZI89Z) | [fluffy](https://open.spotify.com/artist/4OqfSWELqg0RW8Ab9blfaA) | [till the morning](https://open.spotify.com/album/0tYSTPNkyYaegXf9HBRKtk) | 2:48 | 2024-01-05 |  |
-| [Time and Time Again](https://open.spotify.com/track/5aMyRc257zukcKz1IKYVqj) | [Vacant Clinic](https://open.spotify.com/artist/069LYwxcFj7gaqBl2cEUGS) | [Time and Time Again](https://open.spotify.com/album/5rQ9mNwMeqR4a8tJ3OohTU) | 3:11 | 2024-01-05 |  |
+| [Time and Time Again](https://open.spotify.com/track/5aMyRc257zukcKz1IKYVqj) | [Vacant Clinic](https://open.spotify.com/artist/069LYwxcFj7gaqBl2cEUGS) | [Time and Time Again](https://open.spotify.com/album/5rQ9mNwMeqR4a8tJ3OohTU) | 3:11 | 2024-01-05 | 2024-06-09 |
 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 | 2024-01-05 |  |
 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 | 2024-01-05 |  |
 | [Timing](https://open.spotify.com/track/6XdulSZx2waNFqtpZE1hL3) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Timing](https://open.spotify.com/album/23dtHzD8bRAg4oN58li4Hp) | 2:21 | 2024-01-05 |  |

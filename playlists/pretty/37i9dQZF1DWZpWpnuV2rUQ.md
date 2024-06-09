@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,879 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,950 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 29 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 |
 | 30 | [Convéncete](https://open.spotify.com/track/5UyH584f99c7qErZifyaHy) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Convéncete](https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP) | 3:36 |
 | 31 | [Corte Caco \- Remix](https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Corte Caco \(Remix\)](https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN) | 3:34 |
-| 32 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/2pX7mTbVFlbojNogeVs5G1), [El negro tecla](https://open.spotify.com/artist/7Hom0kx4MtW8NsLO5jB0NE) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
+| 32 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
 | 33 | [ADICTO](https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [ADICTO](https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ) | 3:14 |
 | 34 | [Mil Preguntas](https://open.spotify.com/track/4YntVuBqggRsASIbBoWT3F) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Mil Preguntas](https://open.spotify.com/album/5ougKjEm8bDDKJQSEsWSSR) | 2:57 |
 | 35 | [COLOMBIANA HOODTRAP](https://open.spotify.com/track/06SdqiJE5RXiqCWWuaWZuw) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [COLOMBIANA HOODTRAP](https://open.spotify.com/album/4ZwII8g800xpsE8bTJ2LnC) | 1:15 |

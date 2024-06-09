@@ -5095,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Dusty Attic",
+        "url": "https://open.spotify.com/album/3mVvMHn47oco4oIogZUXsA"
+      },
+      "artists": [
+        {
+          "name": "Age of Departures",
+          "url": "https://open.spotify.com/artist/6eLOG5NiDw8it9PbnC6WdF"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Glowing Firefly Waltz",
+      "url": "https://open.spotify.com/track/690nc3o39vROr09u2gpU6Q"
+    },
+    {
+      "album": {
         "name": "Eunoia",
         "url": "https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA"
       },
@@ -5638,7 +5656,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 102500,
       "name": "have we met before?",
       "url": "https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7"
@@ -9602,7 +9620,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 131211,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm"
@@ -12038,6 +12056,24 @@
       "duration_ms": 139714,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
+    },
+    {
+      "album": {
+        "name": "rodeo",
+        "url": "https://open.spotify.com/album/3cFp5vviCaISNjybqFHaH5"
+      },
+      "artists": [
+        {
+          "name": "lofi potato",
+          "url": "https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129475,
+      "name": "rodeo",
+      "url": "https://open.spotify.com/track/1tCNCWswBD2eoaYnrQGKFi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
+  "description": "This Is Manuel Medrano. Los temas esenciales, todos en una lista.",
   "name": "This Is Manuel Medrano",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 185533,
       "name": "Hay Una Luz Dentro De Ti",
       "url": "https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 200186,
       "name": "Regresa Por Favor",
       "url": "https://open.spotify.com/track/1WCfUUDSLsqm6b7gSAO647"

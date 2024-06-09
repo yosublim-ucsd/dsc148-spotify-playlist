@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 574716,
+  "num_followers": 574715,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmAbygAAAAD9xlLD9Z4xj+H9oiakGzDw",
+  "snapshot_id": "ZmPXQAAAAADYU63XW2uWxMfVn/yF1xoc",
   "tracks": [
     {
       "added_at": "2024-06-05 08:03:22",
@@ -23,6 +23,26 @@
       "duration_ms": 210782,
       "name": "Maharani",
       "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
+    },
+    {
+      "added_at": "2024-06-08 04:00:00",
+      "album": {
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -43,26 +63,6 @@
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Sunny When I'm With You",
-        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
-      },
-      "artists": [
-        {
-          "name": "Ysanygo",
-          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
-        },
-        {
-          "name": "Purplecat",
-          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sunny When I'm With You",
-      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -95,22 +95,6 @@
       "duration_ms": 211764,
       "name": "Cavite's Poison",
       "url": "https://open.spotify.com/track/0HDHCK3IGLgSFZpE8hvsa9"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Akong Addiction",
-        "url": "https://open.spotify.com/album/37egJXzirS9te7NSlbxndI"
-      },
-      "artists": [
-        {
-          "name": "Will Mikhael",
-          "url": "https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Akong Addiction",
-      "url": "https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -171,26 +155,6 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "Hoodie (feat. Alisson Shore)",
-        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Hoodie (feat. Alisson Shore)",
-      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
@@ -203,22 +167,6 @@
       "duration_ms": 310708,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Patutunguhan",
-        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Patutunguhan",
-      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -243,6 +191,42 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Patutunguhan",
+        "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Patutunguhan",
+      "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Hoodie (feat. Alisson Shore)",
+        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "Hoodie (feat. Alisson Shore)",
+      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -319,22 +303,6 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
@@ -367,6 +335,22 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
         "name": "Byahe",
         "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "o ninanais",
-        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 252214,
-      "name": "o ninanais",
-      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
+      "duration_ms": 269250,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -415,6 +399,22 @@
       "duration_ms": 194442,
       "name": "Bakit?",
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "o ninanais",
+        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 252214,
+      "name": "o ninanais",
+      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -447,22 +447,6 @@
       "duration_ms": 281296,
       "name": "tila tala",
       "url": "https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 269250,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
       "added_at": "2024-06-05 08:03:22",
@@ -691,6 +675,26 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
@@ -747,22 +751,6 @@
     {
       "added_at": "2024-06-05 08:03:22",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg"
-      },
-      "artists": [
-        {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
-    },
-    {
-      "added_at": "2024-06-05 08:03:22",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
@@ -779,6 +767,22 @@
       "duration_ms": 273493,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
+    },
+    {
+      "added_at": "2024-06-05 08:03:22",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
     },
     {
       "added_at": "2024-06-05 08:03:22",

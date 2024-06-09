@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
-  "num_followers": 57519,
+  "num_followers": 57530,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
-        "name": "Throw Your Hands Up",
-        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 159103,
-      "name": "Throw Your Hands Up",
-      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
-    },
-    {
-      "added_at": "2024-06-07 19:04:52",
-      "album": {
         "name": "DIOSA </3",
         "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 164129,
       "name": "DIOSA </3",
       "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
+    },
+    {
+      "added_at": "2024-06-07 19:04:52",
+      "album": {
+        "name": "Throw Your Hands Up",
+        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 159103,
+      "name": "Throw Your Hands Up",
+      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
     },
     {
       "added_at": "2024-06-07 19:04:52",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
-        "name": "GPI (Remix)",
-        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
-    },
-    {
-      "added_at": "2024-06-07 19:04:52",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-06-07 19:04:52",
+      "album": {
+        "name": "GPI (Remix)",
+        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
     },
     {
       "added_at": "2024-06-07 19:04:52",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
-        "name": "Hanging Tree",
-        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Hanging Tree",
-      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
-    },
-    {
-      "added_at": "2024-06-07 19:04:52",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j"
       },
@@ -1763,22 +1747,38 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
-        "name": "La Ciudad De Las Sombras",
-        "url": "https://open.spotify.com/album/1xJx2EpCiwBj5gxrVKUien"
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
       },
       "artists": [
         {
-          "name": "W.O.L.F.",
-          "url": "https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC"
-        },
-        {
-          "name": "Adrian Bluper",
-          "url": "https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6"
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
         }
       ],
-      "duration_ms": 372595,
-      "name": "La Ciudad De Las Sombras",
-      "url": "https://open.spotify.com/track/6Uv0ZcSZP9An4pj0dbvYdj"
+      "duration_ms": 173760,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+    },
+    {
+      "added_at": "2024-06-07 19:04:52",
+      "album": {
+        "name": "CLAR%SCURO (Remixes)",
+        "url": "https://open.spotify.com/album/1TpfXHCeJIkK4zGI2VOXzQ"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        },
+        {
+          "name": "MZCLBR",
+          "url": "https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t"
+        }
+      ],
+      "duration_ms": 285663,
+      "name": "Du\u00e9rmete Clavel - Mzclbr Remix",
+      "url": "https://open.spotify.com/track/2BeiDGmAUqpF18Y5ufTAxw"
     },
     {
       "added_at": "2024-06-07 19:04:52",
@@ -1799,22 +1799,22 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
-        "name": "Tall White",
-        "url": "https://open.spotify.com/album/5hKuVw8t98yhuhleUBs9qe"
+        "name": "La Ciudad De Las Sombras",
+        "url": "https://open.spotify.com/album/1xJx2EpCiwBj5gxrVKUien"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "W.O.L.F.",
+          "url": "https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC"
         },
         {
-          "name": "Graze",
-          "url": "https://open.spotify.com/artist/0Lv6sRZpd8OoTtg1doweYx"
+          "name": "Adrian Bluper",
+          "url": "https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Tall White",
-      "url": "https://open.spotify.com/track/1sQ3e85Yz7NdtKXhIhldWr"
+      "duration_ms": 372595,
+      "name": "La Ciudad De Las Sombras",
+      "url": "https://open.spotify.com/track/6Uv0ZcSZP9An4pj0dbvYdj"
     }
   ],
   "unique_name": "EDM\u00e9xico",

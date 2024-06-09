@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 221628,
+  "num_followers": 221802,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     },
     {
-      "added_at": "2024-02-18 00:00:00",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Drop Stop Roll",
@@ -551,6 +535,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2024-02-18 00:00:00",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
-      "added_at": "2024-03-22 16:44:40",
-      "album": {
-        "name": "Shakes",
-        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Shakes",
-      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Cub",
@@ -647,6 +631,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2024-03-22 16:44:40",
+      "album": {
+        "name": "Shakes",
+        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Shakes",
+      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
     },
     {
       "added_at": "2023-07-04 22:20:24",
@@ -1169,6 +1169,22 @@
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
+      "added_at": "2024-05-31 19:59:04",
+      "album": {
+        "name": "Brian Cox",
+        "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Brian Cox",
+      "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
+    },
+    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Up Granville",
@@ -1201,6 +1217,22 @@
       "url": "https://open.spotify.com/track/3rnWd8tja5FuJaeIf4Y4Mz"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -1219,22 +1251,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "How Beautiful Life Can Be",
         "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2024-05-31 19:59:04",
-      "album": {
-        "name": "Brian Cox",
-        "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Brian Cox",
-      "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1281,22 +1281,6 @@
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Sink Into Me",
-        "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
-      },
-      "artists": [
-        {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
-        }
-      ],
-      "duration_ms": 158789,
-      "name": "Sink Into Me",
-      "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
-    },
-    {
       "added_at": "2024-02-18 00:00:00",
       "album": {
         "name": "Synthetic Flowers For A Romantic Comedy",
@@ -1311,6 +1295,22 @@
       "duration_ms": 279984,
       "name": "The Brown Eyed Driver",
       "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Sink Into Me",
+        "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
+      },
+      "artists": [
+        {
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+        }
+      ],
+      "duration_ms": 158789,
+      "name": "Sink Into Me",
+      "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
       "added_at": "2024-03-22 14:38:07",

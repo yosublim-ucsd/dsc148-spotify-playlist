@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain](/playlists/plain/37i9dQZF1EVHGWrwldPRtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVHGWrwldPRtj)
 
-### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+### [Mix de chill](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> y más
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 57 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 49 | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/track/5C1O3fpMsiisJpHiB1uuDf) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [ĐỢI \(Prod\. RIO\)](https://open.spotify.com/album/1lUZ3071nJ3asd2DBQy6dm) | 3:17 |
 | 50 | [Yebba’s Heartbreak](https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:13 |
 
-Snapshot ID: `AAAAAAAAAAA2PN/vnbBXrb83+mRg2xtR`
+Snapshot ID: `AAAAAAAAAAC0iC1xPsUlpjzl+mHh8kLz`

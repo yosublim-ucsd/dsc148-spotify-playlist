@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house with Julian Jordan",
-  "num_followers": 444514,
+  "num_followers": 444536,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1289,6 +1289,26 @@
       "url": "https://open.spotify.com/track/6Kipu6y1dNwNrP3dvlw7Q9"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Get It Now",
+        "url": "https://open.spotify.com/album/24TWQdus1y6gjYbWzTLja8"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        }
+      ],
+      "duration_ms": 168937,
+      "name": "Get It Now",
+      "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Droppin' It (La La La)",
@@ -1309,24 +1329,24 @@
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Get It Now",
-        "url": "https://open.spotify.com/album/24TWQdus1y6gjYbWzTLja8"
+        "name": "Get Hype",
+        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
       },
       "artists": [
         {
-          "name": "Galoski",
-          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+          "name": "Rob Vice",
+          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
         },
         {
-          "name": "Almero",
-          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+          "name": "MNRVA",
+          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
         }
       ],
-      "duration_ms": 168937,
-      "name": "Get It Now",
-      "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
+      "duration_ms": 155437,
+      "name": "Get Hype",
+      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1351,26 +1371,6 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Get Hype",
-        "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
-      },
-      "artists": [
-        {
-          "name": "Rob Vice",
-          "url": "https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv"
-        },
-        {
-          "name": "MNRVA",
-          "url": "https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1"
-        }
-      ],
-      "duration_ms": 155437,
-      "name": "Get Hype",
-      "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Rawthentic",
-        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bill",
-          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
-        },
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        }
-      ],
-      "duration_ms": 221918,
-      "name": "Rawthentic",
-      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Rawthentic",
+        "url": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bill",
+          "url": "https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "duration_ms": 221918,
+      "name": "Rawthentic",
+      "url": "https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Dare (Gimme 5)",
+        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Dare (Gimme 5)",
+      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
       },
@@ -1591,34 +1607,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dare (Gimme 5)",
-        "url": "https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw"
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
       },
       "artists": [
         {
-          "name": "Tim Hox",
-          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Dare (Gimme 5)",
-      "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Young Money",
-        "url": "https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr"
-      },
-      "artists": [
+          "name": "Luxo",
+          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
+        },
         {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+          "name": "PINEO & LOEB",
+          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Young Money",
-      "url": "https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq"
+      "duration_ms": 161428,
+      "name": "Chrome",
+      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1649,42 +1653,6 @@
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
-      },
-      "artists": [
-        {
-          "name": "Luxo",
-          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
-        },
-        {
-          "name": "PINEO & LOEB",
-          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
-        }
-      ],
-      "duration_ms": 161428,
-      "name": "Chrome",
-      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "No Competition",
@@ -1703,6 +1671,62 @@
       "duration_ms": 193258,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Young Money",
+        "url": "https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr"
+      },
+      "artists": [
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Haus of Panda",
+          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
+        },
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1727,26 +1751,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Sport Mode",
-        "url": "https://open.spotify.com/album/6o4RnKkaBVisoatPeA2gX7"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Full Speed (feat. Aviella)",
-      "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Stereo Function",
         "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
@@ -1763,22 +1767,6 @@
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1803,6 +1791,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
@@ -1819,6 +1823,22 @@
       "duration_ms": 201904,
       "name": "Goons",
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1843,22 +1863,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "CASH",
-        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CASH",
-      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "HABANERO",
         "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
       },
@@ -1871,6 +1875,42 @@
       "duration_ms": 135000,
       "name": "HABANERO",
       "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/41Fj5MCDZiuNpK6EqtK0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Neal",
+          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Sport Mode",
+        "url": "https://open.spotify.com/album/6o4RnKkaBVisoatPeA2gX7"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 210400,
+      "name": "Full Speed (feat. Aviella)",
+      "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1911,42 +1951,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR"
+        "name": "Let's Rock",
+        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
       },
       "artists": [
         {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Haus of Panda",
-          "url": "https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/41Fj5MCDZiuNpK6EqtK0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Neal",
-          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW"
+      "duration_ms": 209062,
+      "name": "Let's Rock",
+      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Let's Rock",
-        "url": "https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 209062,
-      "name": "Let's Rock",
-      "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Certified",
         "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
       },
@@ -1999,22 +1999,6 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 126720,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2041,6 +2025,38 @@
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3s3X1n94zpVxVRuUygWOYZ"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        }
+      ],
+      "duration_ms": 230977,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Drinks & Pills",
@@ -2059,22 +2075,6 @@
       "duration_ms": 180000,
       "name": "Drinks & Pills",
       "url": "https://open.spotify.com/track/2iUALxU5pXPWRS8Qs9j8k8"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3s3X1n94zpVxVRuUygWOYZ"
-      },
-      "artists": [
-        {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2221,30 +2221,6 @@
       "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Toxic Joy",
-          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
-        },
-        {
-          "name": "NEIV",
-          "url": "https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Don't Need U",
@@ -2279,6 +2255,30 @@
       "duration_ms": 212100,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        },
+        {
+          "name": "NEIV",
+          "url": "https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2319,30 +2319,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Sara Thing EP",
-        "url": "https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw"
-      },
-      "artists": [
-        {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        },
-        {
-          "name": "James Cole",
-          "url": "https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sara Tonin feat. James Cole",
-      "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -2363,6 +2339,30 @@
       "duration_ms": 196000,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Sara Thing EP",
+        "url": "https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
+        },
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sara Tonin feat. James Cole",
+      "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
     },
     {
       "added_at": "2024-04-19 04:00:00",

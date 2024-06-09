@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Junior \u2764\ufe0f Monica",
-  "num_followers": 433520,
+  "num_followers": 433509,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 207110,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -259,18 +239,38 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+      "duration_ms": 207110,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Depois do Fim (Deluxe)",
+        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 132439,
+      "name": "C\u00f3cegas",
+      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -287,22 +287,6 @@
       "duration_ms": 168064,
       "name": "Efeito Voc\u00ea",
       "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -327,6 +311,38 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 219306,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Cear\u00e1",
-        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 132636,
-      "name": "Cear\u00e1",
-      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Cear\u00e1",
+        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 132636,
+      "name": "Cear\u00e1",
+      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "que mal que tem?",
         "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 157708,
       "name": "que mal que tem?",
       "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Depois do Fim (Deluxe)",
-        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
         }
       ],
-      "duration_ms": 132439,
-      "name": "C\u00f3cegas",
-      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "FICA",
-        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 206781,
-      "name": "FICA",
-      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 169250,
       "name": "Cortejo",
       "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "FICA",
+        "url": "https://open.spotify.com/album/7auYdm6FW9UqaPXqfFvbIn"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 206781,
+      "name": "FICA",
+      "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "DEJAVU",
+        "url": "https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 183679,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Rom\u00e3",
         "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "DEJAVU",
-        "url": "https://open.spotify.com/album/3aqafowqLbPeovkfLtbdxJ"
+        "name": "Existe Amor Aqui",
+        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Julia Smith",
+          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
         }
       ],
-      "duration_ms": 183679,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/4xC41bv1fU1BXaO6cdmEAy"
+      "duration_ms": 199681,
+      "name": "Sem Me Preocupar",
+      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -707,22 +723,6 @@
       "duration_ms": 163298,
       "name": "Dan\u00e7ando na Beira",
       "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Existe Amor Aqui",
-        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
-      },
-      "artists": [
-        {
-          "name": "Julia Smith",
-          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
-        }
-      ],
-      "duration_ms": 199681,
-      "name": "Sem Me Preocupar",
-      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Lindo Dom",
         "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Novela Favorita",
-        "url": "https://open.spotify.com/album/3r39DApTPOHHPxG3CwaFBk"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 144663,
-      "name": "Novela Favorita",
-      "url": "https://open.spotify.com/track/3AUhe6kIitZF2hrxZ32CKp"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Planeta Para",
         "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+        "name": "Novela Favorita",
+        "url": "https://open.spotify.com/album/3r39DApTPOHHPxG3CwaFBk"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
+      "duration_ms": 144663,
+      "name": "Novela Favorita",
+      "url": "https://open.spotify.com/track/3AUhe6kIitZF2hrxZ32CKp"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -879,6 +879,22 @@
       "duration_ms": 304068,
       "name": "N\u00d3S NUS",
       "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Beijos de artif\u00edcio",
+        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 232331,
+      "name": "Beijos de artif\u00edcio",
+      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -935,34 +951,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Beijos de artif\u00edcio",
-        "url": "https://open.spotify.com/album/3CFAqEIXUM7AFu4gngcwQw"
+        "name": "Tenta",
+        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 232331,
-      "name": "Beijos de artif\u00edcio",
-      "url": "https://open.spotify.com/track/7ePoRoOa6Xl2IsvaZfyeeA"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
-        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
-      },
-      "artists": [
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        },
         {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+          "name": "Annalu",
+          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
         }
       ],
-      "duration_ms": 290502,
-      "name": "Teu Ch\u00e1",
-      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
+      "duration_ms": 197560,
+      "name": "Tenta",
+      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -983,22 +987,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Tenta",
-        "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
+        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
+        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        },
-        {
-          "name": "Annalu",
-          "url": "https://open.spotify.com/artist/1c8U1j1guUw7cKv5AzzkQx"
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Tenta",
-      "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
+      "duration_ms": 290502,
+      "name": "Teu Ch\u00e1",
+      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 160000,
       "name": "Eu Sinto Muito",
       "url": "https://open.spotify.com/track/5lgsS8jO4AVZnaM9j9IwgT"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Concreto (2024 Rework)",
-        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 194196,
-      "name": "Recome\u00e7o - Bonus Track",
-      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "\u00danica Op\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3vB743HwA5YsvyRLfnhjSH"
       },
@@ -1159,6 +1143,26 @@
       "duration_ms": 130272,
       "name": "\u00danica Op\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5rpodz6JCSBZi07wn3OxRU"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Dan\u00e7a Comigo",
+        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "Nanda",
+          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
+        }
+      ],
+      "duration_ms": 82380,
+      "name": "Dan\u00e7a Comigo",
+      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1199,6 +1203,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "V\u00e1rios Tipos de Amor",
         "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
       },
@@ -1211,22 +1231,6 @@
       "duration_ms": 164594,
       "name": "Tento Decifrar",
       "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Embeleza o Meu Dia",
-        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Embeleza o Meu Dia",
-      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1247,22 +1251,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Sem Saber Seu Nome",
-        "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
-      },
-      "artists": [
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Sem Saber Seu Nome",
-      "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Nosso Carnaval",
         "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
@@ -1275,6 +1263,38 @@
       "duration_ms": 165490,
       "name": "Nosso Carnaval",
       "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Embeleza o Meu Dia",
+        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Embeleza o Meu Dia",
+      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Sem Saber Seu Nome",
+        "url": "https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh"
+      },
+      "artists": [
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Sem Saber Seu Nome",
+      "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1307,26 +1327,6 @@
       "duration_ms": 124212,
       "name": "Cart\u00f5es Postais",
       "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Dan\u00e7a Comigo",
-        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "Nanda",
-          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
-        }
-      ],
-      "duration_ms": 82380,
-      "name": "Dan\u00e7a Comigo",
-      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Quando a Gente Existe",
-        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Quando a Gente Existe",
-      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Segue o Jogo",
         "url": "https://open.spotify.com/album/77KghYmKDbtCyEff33pZOM"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 222714,
       "name": "Segue o Jogo",
       "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Quando a Gente Existe",
+        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Quando a Gente Existe",
+      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
     }
   ],
   "unique_name": "Pop Leve",

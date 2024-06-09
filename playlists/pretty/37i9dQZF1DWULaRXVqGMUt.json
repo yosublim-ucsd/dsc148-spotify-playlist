@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 50334,
+  "num_followers": 50360,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,38 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Battin' The Boogie",
+        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
+      },
+      "artists": [
+        {
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Killer Miller",
+      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Let's Have A Party! (The Aladdin Recordings)",
+        "url": "https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Let Me Go Home Whiskey",
+      "url": "https://open.spotify.com/track/33343QHpDEcf022acPZMw8"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -591,38 +623,6 @@
       "duration_ms": 208067,
       "name": "501 Boogie",
       "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Let's Have A Party! (The Aladdin Recordings)",
-        "url": "https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Let Me Go Home Whiskey",
-      "url": "https://open.spotify.com/track/33343QHpDEcf022acPZMw8"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Battin' The Boogie",
-        "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
-      },
-      "artists": [
-        {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Killer Miller",
-      "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Boogie Woogie Motel Swing",
+        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+      },
+      "artists": [
+        {
+          "name": "Sue Palmer",
+          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+        }
+      ],
+      "duration_ms": 123626,
+      "name": "Sue's Boogie",
+      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Boogie Stomp",
         "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Boogie Woogie Motel Swing",
-        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
-      },
-      "artists": [
-        {
-          "name": "Sue Palmer",
-          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
-        }
-      ],
-      "duration_ms": 123626,
-      "name": "Sue's Boogie",
-      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "Boogie Woogie - Mono",
-      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 160795,
+      "name": "Boogie Woogie - Mono",
+      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -831,22 +831,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Boogie Woogie Trio vol. 1",
-        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
+        "name": "Omniboogie 2012",
+        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
       },
       "artists": [
         {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        },
-        {
-          "name": "Albert Ammons",
-          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
+          "name": "Rob Rio",
+          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
         }
       ],
-      "duration_ms": 125320,
-      "name": "Boogie Woogie Prayer",
-      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
+      "duration_ms": 115582,
+      "name": "Quarter Bass Boogie",
+      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -867,18 +863,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Omniboogie 2012",
-        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
+        "name": "The Boogie Woogie Trio vol. 1",
+        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
       "artists": [
         {
-          "name": "Rob Rio",
-          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+        },
+        {
+          "name": "Albert Ammons",
+          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
         }
       ],
-      "duration_ms": 115582,
-      "name": "Quarter Bass Boogie",
-      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
+      "duration_ms": 125320,
+      "name": "Boogie Woogie Prayer",
+      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
-        "url": "https://open.spotify.com/album/468gPPcEUsiaFqQgTDidDb"
-      },
-      "artists": [
-        {
-          "name": "Charles \"Cow Cow\" Davenport",
-          "url": "https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd"
-        },
-        {
-          "name": "Ivy Smith",
-          "url": "https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "State Street Jive",
-      "url": "https://open.spotify.com/track/13tAODj2iJ7dvkCpuQfjnl"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Boogie Woogie & Blues",
         "url": "https://open.spotify.com/album/2iNiNSnPYpT3zNFEbWvRvL"
       },
@@ -1287,6 +1267,22 @@
       "duration_ms": 165619,
       "name": "Twelfth St. Boogie",
       "url": "https://open.spotify.com/track/54Yn0omLZ35iMhBZNKUrSj"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Dreaming The Blues: The Best Of Charlie Spand",
+        "url": "https://open.spotify.com/album/7hBy7gNE6ilG7drOEx2g4q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Spand",
+          "url": "https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Hastings St.",
+      "url": "https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG"
     }
   ],
   "unique_name": "Boogie-woogie Blues",

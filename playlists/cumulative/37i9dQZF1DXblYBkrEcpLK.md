@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: JELEE \("Jellyfish Can't Swim in the Night"\)
 
-663 songs - 1 day 20 hr 12 min
+664 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Overload \- 「境界戦機」第二部オープニングテーマ](https://open.spotify.com/track/5V6AiDZLS838X2NceqiPja) | [富金原佑菜](https://open.spotify.com/artist/75pZmt1oHpu1jO8so1wp6P) | [Overload \(「境界戦機」第二部オープニングテーマ\)](https://open.spotify.com/album/5MOXYB3C7QOlVg2cuppRTT) | 3:49 | 2022-06-09 | 2022-07-29 |
 | [Page for Tomorrow](https://open.spotify.com/track/0AC2WKeZWyxxitrM78OkpK) | [NOW ON AIR](https://open.spotify.com/artist/5eUTQcO6GqD1gwFzJOUkmH) | [Page for Tomorrow](https://open.spotify.com/album/0G652lNFzwUxTQdUZu6YzC) | 4:12 | 2022-07-07 | 2022-07-25 |
 | [PARADOX](https://open.spotify.com/track/1yyCK06zEaRQQwKBjh87Ji) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Paint it, BLUE](https://open.spotify.com/album/27YtqPFAUHBT7Kg00GUifk) | 4:14 | 2022-06-09 | 2022-07-22 |
+| [Paradoxes](https://open.spotify.com/track/0j6QFgRZKMHEkvdoOUFG6d) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Paradoxes](https://open.spotify.com/album/3T8XP1r8dAT0SqKQcizLy2) | 4:36 | 2024-05-28 |  |
 | [Parallel World feat\. Ayasa](https://open.spotify.com/track/0zDhjdrcqEMggm0Atc6CL3) | [Lonesome\_Blue](https://open.spotify.com/artist/0RJTzBuPtpWubOBc2XUz95), [AYASA](https://open.spotify.com/artist/0NuwqSXiHKqdHbHpuz1jsI) | [First Utterance](https://open.spotify.com/album/0m5EcD8X9xRz03sTDSvcZ0) | 5:29 | 2022-07-07 | 2022-07-23 |
 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 | 2022-06-09 | 2022-07-22 |
 | [Party!!](https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ) | 4:18 | 2024-02-13 |  |
@@ -511,7 +512,7 @@
 | [リテラチュア](https://open.spotify.com/track/1Oc8AYDtd0Hcpz8Ijl4JaT) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [リテラチュア](https://open.spotify.com/album/2PTMl1FagFSWwFFwA98SOP) | 4:00 | 2022-06-14 | 2022-07-29 |
 | [リトルソルジャー](https://open.spotify.com/track/4ESR8uG70TFcWKqtePEJpo) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [リトルソルジャー](https://open.spotify.com/album/4Uya9qHP63dE9wf0VQNMQJ) | 3:53 | 2022-06-09 | 2022-07-19 |
 | [リナリア](https://open.spotify.com/track/6BoQEDKLDRG1HrwtGecGmg) | [友希](https://open.spotify.com/artist/2Fd3nN9J9geFilaeOdCwfE) | [リナリア](https://open.spotify.com/album/7ILv4JYFhy16quHxrkN7HP) | 3:55 | 2022-06-24 | 2022-07-05 |
-| [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 | 2024-02-13 |  |
+| [ロックオン](https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [巡巡](https://open.spotify.com/artist/37gq7KFHsAIEuEuRFT8RNl) | [ロックオン](https://open.spotify.com/album/0J8A7J3iEm0umNxT38O7lx) | 2:47 | 2024-02-13 | 2024-06-09 |
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/2VSP5LdDJsMNEdASO07PHb) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ / UFOを呼ぶダンス / メデューサ / 月の踊り子](https://open.spotify.com/album/6wgWmznoimZdSy6lpzFfja) | 4:31 | 2023-02-14 | 2023-03-29 |
 | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/track/4TuSvwEIqhBHcYxEYkbvyZ) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [ローリンソウル・ハッピーデイズ](https://open.spotify.com/album/0kG9v9GX4Ibm2UStcFWf8s) | 4:31 | 2023-02-14 | 2023-02-16 |
 | [七色の絵の具で](https://open.spotify.com/track/268LIixdVDrn4FY99ktG9Y) | [NANALAND](https://open.spotify.com/artist/50LJWpfb50Or2UZo6PgAcx) | [七色の絵の具で \(Special Edition\)](https://open.spotify.com/album/3u0BsVBrwRBHRbhnQLBS9m) | 4:18 | 2023-05-10 | 2023-06-14 |

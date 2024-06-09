@@ -1,12 +1,12 @@
 {
-  "description": "This is Meg Smith. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 216,
+  "description": "This is Meg Smith. The essential tracks, all in one playlist.",
+  "num_followers": 217,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAADX+dKj3Zh6igjVTUdik8te",
+  "snapshot_id": "ZmJNgAAAAAA2lAJXAO5MHgPXeCOggTiA",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuck Friday",
         "url": "https://open.spotify.com/album/6kHPQWYCCp1iky3B2w4snD"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 188218,
       "name": "Fuck Friday",
       "url": "https://open.spotify.com/track/2Pp6DTAzahkBjtQZvuunre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
     },
     {
       "added_at": null,

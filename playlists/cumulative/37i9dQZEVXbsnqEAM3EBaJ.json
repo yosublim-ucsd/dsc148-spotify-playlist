@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 251334,
       "name": "Anteroom of Death - Edit Version",
       "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 207750,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/5ta6pYaNvesXHJv7sq6DKC"
@@ -9470,7 +9470,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 199854,
       "name": "Gimme Danger - Early Demo",
       "url": "https://open.spotify.com/track/2PhmNY1Kr3RgDTFseVX0cj"
@@ -11420,7 +11420,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 153387,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
@@ -16888,7 +16888,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 215066,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/58J1gfmMIdfOUYnqt7Qhtu"
@@ -18594,7 +18594,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 298133,
       "name": "Once",
       "url": "https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn"
@@ -20450,7 +20450,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 202132,
       "name": "P\u00e9talo de sal",
       "url": "https://open.spotify.com/track/3whw0s4PXsfBIYOhW9erXX"
@@ -22152,7 +22152,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 251998,
       "name": "Saturday Night's Alright (For Fighting)",
       "url": "https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D"
@@ -22350,6 +22350,24 @@
       "duration_ms": 187408,
       "name": "Screams - Live",
       "url": "https://open.spotify.com/track/6IL4Ev4bnsUbwLIWrSvJKo"
+    },
+    {
+      "album": {
+        "name": "London Session 1972",
+        "url": "https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199947,
+      "name": "Search And Destroy - Early Demo",
+      "url": "https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm"
     },
     {
       "album": {
@@ -22636,7 +22654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 312149,
       "name": "Seven - Live",
       "url": "https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74"
@@ -23248,7 +23266,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 183721,
       "name": "Slaughterhouse 2 (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
@@ -26022,7 +26040,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 263573,
       "name": "The Lebanon (Live)",
       "url": "https://open.spotify.com/track/5lbf0gy6mqpC7NeXeaCeAk"
@@ -26958,6 +26976,24 @@
       "duration_ms": 220567,
       "name": "The Thing That Wrecks You",
       "url": "https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I"
+    },
+    {
+      "album": {
+        "name": "Sound of the Crowd - Greatest Hits Live in Concert",
+        "url": "https://open.spotify.com/album/7lXqvRFxM03tnV45Ihfe4V"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241973,
+      "name": "The Things That Dreams Are Made of (Live)",
+      "url": "https://open.spotify.com/track/3HTn85at3ObUB2uYJT4Fhp"
     },
     {
       "album": {
@@ -30262,7 +30298,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 212739,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH"

@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Juanpalitoschinos",
-  "num_followers": 49289,
+  "num_followers": 49301,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-05-31 17:43:36",
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2024-05-31 17:43:36",
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 201625,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
-    },
-    {
-      "added_at": "2024-05-31 17:43:36",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2024-05-31 17:43:36",

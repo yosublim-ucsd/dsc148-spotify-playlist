@@ -1,13 +1,33 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 9483,
+  "num_followers": 9494,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAmrZOeqbewW2LkfdTFRUC/",
+  "snapshot_id": "ZmJNgAAAAAAUiqaZlCpmWmMGJNsIrWQe",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me Chance",
+        "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 255735,
+      "name": "Give Me Chance",
+      "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
+    },
     {
       "added_at": null,
       "album": {
@@ -291,18 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Oil on My Head (Remix)",
+        "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
       },
       "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 405890,
-      "name": "Incredible God",
-      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
+      "duration_ms": 217391,
+      "name": "Oil on My Head (Remix)",
+      "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
     },
     {
       "added_at": null,
@@ -323,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oil on My Head (Remix)",
-        "url": "https://open.spotify.com/album/75MASrjuVKPaIUdKErSFrU"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 217391,
-      "name": "Oil on My Head (Remix)",
-      "url": "https://open.spotify.com/track/5bBXbEHWTv1ixEDSCIaMWG"
+      "duration_ms": 405890,
+      "name": "Incredible God",
+      "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
     },
     {
       "added_at": null,
@@ -363,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Fiokee",
-          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
         }
       ],
-      "duration_ms": 237479,
-      "name": "Regular (feat. Fiokee)",
-      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
+      "duration_ms": 209916,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1wDhZTUmUjQqc19lJx8WEz"
     },
     {
       "added_at": null,
@@ -403,18 +419,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
         }
       ],
-      "duration_ms": 209916,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1wDhZTUmUjQqc19lJx8WEz"
+      "duration_ms": 237479,
+      "name": "Regular (feat. Fiokee)",
+      "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 334393,
+      "name": "More Than Gold (feat. Mercy Chinwo)",
+      "url": "https://open.spotify.com/track/7ImaABjt1NzhwO9KhABkG4"
     },
     {
       "added_at": null,
@@ -455,26 +495,6 @@
       "duration_ms": 262321,
       "name": "COME AND SEE",
       "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Than Gold (feat. Mercy Chinwo)",
-        "url": "https://open.spotify.com/album/4QP90L3ERwtmYKHlAeGgya"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 338688,
-      "name": "More Than Gold (feat. Mercy Chinwo)",
-      "url": "https://open.spotify.com/track/2IZCXvstPOgnhxAu57cl89"
     },
     {
       "added_at": null,
@@ -639,26 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oyoyo Chukwu",
-        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
       },
       "artists": [
         {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        },
-        {
-          "name": "EeZee Tee",
-          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Oyoyo Chukwu",
-      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+      "duration_ms": 206808,
+      "name": "Do Something",
+      "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
     },
     {
       "added_at": null,
@@ -679,22 +695,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
+        "name": "Oyoyo Chukwu",
+        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
       "artists": [
         {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        },
-        {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        },
+        {
+          "name": "EeZee Tee",
+          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 206808,
-      "name": "Do Something",
-      "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
+      "duration_ms": 317986,
+      "name": "Oyoyo Chukwu",
+      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
     },
     {
       "added_at": null,
@@ -763,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cross: My Gaze",
-        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
+        "name": "Power Belongs To Jesus",
+        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
       },
       "artists": [
         {
@@ -772,9 +792,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 266140,
-      "name": "My Responsibility",
-      "url": "https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc"
+      "duration_ms": 256120,
+      "name": "Power Belongs To Jesus",
+      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
     },
     {
       "added_at": null,
@@ -795,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Belongs To Jesus",
-        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
+        "name": "The Cross: My Gaze",
+        "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
       "artists": [
         {
@@ -804,9 +824,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 256120,
-      "name": "Power Belongs To Jesus",
-      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
+      "duration_ms": 266140,
+      "name": "My Responsibility",
+      "url": "https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc"
     },
     {
       "added_at": null,

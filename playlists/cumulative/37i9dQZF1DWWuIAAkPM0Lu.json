@@ -370,12 +370,12 @@
       },
       "artists": [
         {
-          "name": "Tarick",
-          "url": "https://open.spotify.com/artist/5okfcG5ILSySJxqMiaRwmH"
-        },
-        {
           "name": "CarlloYABOY",
           "url": "https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie"
+        },
+        {
+          "name": "Tarick",
+          "url": "https://open.spotify.com/artist/5okfcG5ILSySJxqMiaRwmH"
         }
       ],
       "date_added": "2024-06-06",
@@ -12404,7 +12404,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145833,
-      "name": "Talk To Me - feat. Joe Jury",
+      "name": "Talk To Me (feat. Joe Jury)",
       "url": "https://open.spotify.com/track/1QRMbwGnFE8QehwXrmE6Il"
     },
     {

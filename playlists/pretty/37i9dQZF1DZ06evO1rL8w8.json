@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Komander. Los temas esenciales, todos en una lista.",
-  "num_followers": 200664,
+  "description": "This is El Komander. The essential tracks, all in one playlist.",
+  "num_followers": 200749,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAMFstz1tmKgdIf6/bSlShr",
+  "snapshot_id": "ZmJNgAAAAADaiOJloKTg/6Bh1n8ZySE8",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 140750,
       "name": "Amado Carrillo",
       "url": "https://open.spotify.com/track/227X7GnGSMjX57IbSTSZmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Champagne O Cerveza",
+        "url": "https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Dany El Nise",
+          "url": "https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8"
+        }
+      ],
+      "duration_ms": 148860,
+      "name": "Champagne O Cerveza",
+      "url": "https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S"
     },
     {
       "added_at": null,
@@ -563,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "El Katch",
-      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
         "url": "https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT"
       },
@@ -591,6 +595,22 @@
       "duration_ms": 153855,
       "name": "No Ocupa La Banda Pa\u2019 Bailar Mi Cuaco",
       "url": "https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 133466,
+      "name": "El Katch",
+      "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
     },
     {
       "added_at": null,
@@ -623,26 +643,6 @@
       "duration_ms": 142933,
       "name": "El Tamarindo",
       "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy de Parral (En Vivo)",
-        "url": "https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "Soy de Parral - En Vivo",
-      "url": "https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy de Parral (En Vivo)",
+        "url": "https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "Soy de Parral - En Vivo",
+      "url": "https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Noche En Culiac\u00e1n",
-        "url": "https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 173125,
-      "name": "Una Noche En Culiac\u00e1n",
-      "url": "https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+        "name": "Una Noche En Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+      "duration_ms": 173125,
+      "name": "Una Noche En Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/22Ksg2wzl7xXZ8rnq8x4qr"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/1Y98KIXwNLbkxxCVp23Nqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Golden Boy",
         "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
       },
@@ -867,8 +851,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Zapopan (En Vivo)",
-        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/22Ksg2wzl7xXZ8rnq8x4qr"
       },
       "artists": [
         {
@@ -876,9 +880,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 229982,
-      "name": "Me Gustas Mucho (En Vivo)",
-      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
+      "duration_ms": 199533,
+      "name": "El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/1Y98KIXwNLbkxxCVp23Nqs"
     },
     {
       "added_at": null,
@@ -895,6 +899,22 @@
       "duration_ms": 148874,
       "name": "Detras Del Miedo",
       "url": "https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Me Gustas Mucho (En Vivo)",
+      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
     },
     {
       "added_at": null,

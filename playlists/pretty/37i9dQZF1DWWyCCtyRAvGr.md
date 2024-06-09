@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,190 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,258 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 11 | [She's Crazy](https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT) | [JT Coldfire](https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j) | [Crazy Sun](https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE) | 5:23 |
 | 12 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
 | 13 | [Buzz Me, Babe](https://open.spotify.com/track/2lvBjTlia0x9GXfnZ3jbui) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:14 |
-| 14 | [How Unlucky Can One Man Be](https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [Nick Holt](https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo), [The Teardrops](https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto) | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ) | 7:13 |
-| 15 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
+| 14 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
+| 15 | [How Unlucky Can One Man Be](https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [Nick Holt](https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo), [The Teardrops](https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto) | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ) | 7:13 |
 | 16 | [Whiskey And Wimmen'](https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:37 |
 | 17 | [Little Red Rooster](https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 3:35 |
 | 18 | [Paris Blues](https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Paris Blues](https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT) | 5:53 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 80 | [Armadillo Shuffle](https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Larry Luddecke](https://open.spotify.com/artist/4i6n9Ol2aduAd7XVCnaYOx) | [Moods 'n' Blues](https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU) | 2:01 |
 | 81 | [Keep On Eatin'](https://open.spotify.com/track/6CAYAC2lehhq20LE95nrVg) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 2:37 |
 | 82 | [Come on in This House](https://open.spotify.com/track/7odSShAbnTVHUub96z2deF) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [May Be the Last Time](https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK) | 4:22 |
-| 83 | [Chinook Blues](https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR) | [Alice Di Micele](https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX) | [Chinook Blues](https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5) | 5:09 |
-| 84 | [Back on the Road](https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc) | [Sean Taylor](https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe) | [The Beat Goes On](https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ) | 2:33 |
+| 83 | [Back on the Road](https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc) | [Sean Taylor](https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe) | [The Beat Goes On](https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ) | 2:33 |
+| 84 | [Chinook Blues](https://open.spotify.com/track/1AyxLC8AnaNOF2e6zeGbpR) | [Alice Di Micele](https://open.spotify.com/artist/5GTLKa7etYFhkKklJyoSgX) | [Chinook Blues](https://open.spotify.com/album/77Yf1keBRtlim9xBNtcmn5) | 5:09 |
 | 85 | [Dynaflow Blues](https://open.spotify.com/track/5ZL5nn28AOKGDShsiJisMf) | [The Johnny Shines Blues Band](https://open.spotify.com/artist/72LpXS55YCS4rHy7NqiJ2N) | [Chicago/The Blues/Today!](https://open.spotify.com/album/2j6hPbEmlTI0DmvLFZbzgw) | 2:40 |
 | 86 | [Time And Again \- Remastered 2023](https://open.spotify.com/track/3Y1Fg3ltoGyMOWynqBcyEA) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [I Hear Those Blues: Rich In Stereo \(Remastered 2023\)](https://open.spotify.com/album/4TS3dToUzngaPL8onBOfz6) | 3:10 |
 | 87 | [Down so Long](https://open.spotify.com/track/7oWzQGtcIKg0il8b4c6oM6) | [Ryan Lee Crosby](https://open.spotify.com/artist/2jbgitwQghH69jtgs7zwTT) | [Down so Long](https://open.spotify.com/album/11upoaPkaYHPwwbaIpZejv) | 3:39 |

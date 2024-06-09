@@ -4295,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Paradoxes",
+        "url": "https://open.spotify.com/album/3T8XP1r8dAT0SqKQcizLy2"
+      },
+      "artists": [
+        {
+          "name": "\u5bcc\u7530\u7f8e\u6182",
+          "url": "https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276586,
+      "name": "Paradoxes",
+      "url": "https://open.spotify.com/track/0j6QFgRZKMHEkvdoOUFG6d"
+    },
+    {
+      "album": {
         "name": "First Utterance",
         "url": "https://open.spotify.com/album/0m5EcD8X9xRz03sTDSvcZ0"
       },
@@ -9630,7 +9648,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 167966,
       "name": "\u30ed\u30c3\u30af\u30aa\u30f3",
       "url": "https://open.spotify.com/track/6Ypn0bd1K7IFWPEWHUPk75"

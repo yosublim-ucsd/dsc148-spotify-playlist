@@ -1,6 +1,6 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 115062,
+  "num_followers": 115159,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+      },
+      "artists": [
+        {
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Needle to the Groove",
+      "url": "https://open.spotify.com/track/1K73A7cn70zjKqmdAR8PSl"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "In Vitro - Volume One",
         "url": "https://open.spotify.com/album/1KCShSz6OHvhJ8UkD49y40"
       },
@@ -815,26 +831,6 @@
       "duration_ms": 372924,
       "name": "Peace of Mind (Electrosoul)",
       "url": "https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "Sweet And Short",
-        "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "DJ Sumbody",
-          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "Remote Control",
-      "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -855,18 +851,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+        "name": "Sweet And Short",
+        "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
       },
       "artists": [
         {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "DJ Sumbody",
+          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Needle to the Groove",
-      "url": "https://open.spotify.com/track/1K73A7cn70zjKqmdAR8PSl"
+      "duration_ms": 303440,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
     }
   ],
   "unique_name": "808 Classics",

@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11864,
+  "num_followers": 11863,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Jinusean",
-        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
       },
       "artists": [
         {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Tell me (feat. \uc5c4\uc815\ud654)",
-      "url": "https://open.spotify.com/track/4ebC0oQEzTTNTpCDM1IBWD"
+      "duration_ms": 277160,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+        "name": "Jinusean",
+        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
       },
       "artists": [
         {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
         }
       ],
-      "duration_ms": 277160,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
+      "duration_ms": 233000,
+      "name": "Tell me (feat. \uc5c4\uc815\ud654)",
+      "url": "https://open.spotify.com/track/4ebC0oQEzTTNTpCDM1IBWD"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "1\uc9d1-\uc815",
-        "url": "https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU"
-      },
-      "artists": [
-        {
-          "name": "YTC",
-          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "\uc815",
-      "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "1\uc9d1-\uc815",
+        "url": "https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU"
+      },
+      "artists": [
+        {
+          "name": "YTC",
+          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
+        }
+      ],
+      "duration_ms": 230791,
+      "name": "\uc815",
+      "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
+      },
+      "artists": [
+        {
+          "name": "\uc778\ub514\uace0",
+          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Please Summer!",
+      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "The Third Eye",
         "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 232160,
       "name": "Com` Back",
       "url": "https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
-      },
-      "artists": [
-        {
-          "name": "\uc778\ub514\uace0",
-          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Please Summer!",
-      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "\ube44\uc0c1",
-        "url": "https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo"
-      },
-      "artists": [
-        {
-          "name": "KYT",
-          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
-        }
-      ],
-      "duration_ms": 251773,
-      "name": "\ube44\uc0c1",
-      "url": "https://open.spotify.com/track/5sYtwsZfkZg2e1fBEd54IX"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
         "name": "Psy From The Psycho World",
         "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 193280,
       "name": "\uc0c8",
       "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
+        "name": "\ube44\uc0c1",
+        "url": "https://open.spotify.com/album/27v7cg2HKnJupI58mM5qjo"
+      },
+      "artists": [
+        {
+          "name": "KYT",
+          "url": "https://open.spotify.com/artist/0QNzgimIjJDcLFLFhnG6M9"
+        }
+      ],
+      "duration_ms": 251773,
+      "name": "\ube44\uc0c1",
+      "url": "https://open.spotify.com/track/5sYtwsZfkZg2e1fBEd54IX"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
-        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
       "artists": [
         {
-          "name": "\ud669\uaddc\uc601",
-          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
         }
       ],
-      "duration_ms": 259775,
-      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
+      "duration_ms": 226667,
+      "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
+      "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
+        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
+      },
+      "artists": [
+        {
+          "name": "\ud669\uaddc\uc601",
+          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
+        }
+      ],
+      "duration_ms": 259775,
+      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "Near",
         "url": "https://open.spotify.com/album/5kQUU3anzMorpejpvGKNgc"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 212662,
       "name": "Tell Me, Tell Me",
       "url": "https://open.spotify.com/track/2bwetLLe8jn43ikuOfjF5v"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 226667,
-      "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
-      "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
+        "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
+        "url": "https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1"
+      },
+      "artists": [
+        {
+          "name": "\ubc85",
+          "url": "https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq"
+        }
+      ],
+      "duration_ms": 222982,
+      "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
+      "url": "https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL"
+    },
+    {
+      "added_at": "2024-04-04 20:12:50",
+      "album": {
         "name": "The Life\u2026 DOC Blues",
         "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 250618,
       "name": "\ud0c0\uc778",
       "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
-    },
-    {
-      "added_at": "2024-04-04 20:12:50",
-      "album": {
-        "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
-        "url": "https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1"
-      },
-      "artists": [
-        {
-          "name": "\ubc85",
-          "url": "https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq"
-        }
-      ],
-      "duration_ms": 222982,
-      "name": "\ub9e8\ubc1c\uc758 \uccad\ucd98",
-      "url": "https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL"
     },
     {
       "added_at": "2024-04-04 20:12:50",
@@ -1603,18 +1603,30 @@
     {
       "added_at": "2024-04-04 20:12:50",
       "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/53RiRIKK0CzEHKGqVDN1XE"
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
+        "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
       "artists": [
         {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+          "name": "Lee Ji Hye",
+          "url": "https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B"
+        },
+        {
+          "name": "\uc7a5\uc11d\ud604",
+          "url": "https://open.spotify.com/artist/3StglvxBkZBZ0fk0ONsTSy"
+        },
+        {
+          "name": "\uc724\ubcf4\ubbfc",
+          "url": "https://open.spotify.com/artist/1rpdg91Cnpy6E6woB0JEmk"
+        },
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
         }
       ],
-      "duration_ms": 245890,
-      "name": "Summer Story (Sky Mix)",
-      "url": "https://open.spotify.com/track/1fKwKMhJzkLcHfo3Hr4VQT"
+      "duration_ms": 212195,
+      "name": "SWEETY",
+      "url": "https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602"
     }
   ],
   "unique_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",

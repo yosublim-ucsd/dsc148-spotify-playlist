@@ -1,37 +1,13 @@
 {
   "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
-  "num_followers": 223774,
+  "num_followers": 223828,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAB9BMK1f2Hisv8d6EO7HzWQ",
+  "snapshot_id": "ZmJNgAAAAAB7z8weqeNAscmv4H5V/Eei",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serendipia",
-        "url": "https://open.spotify.com/album/7J05uCYMtUKy8t4Qsg9oEv"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 223150,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/3aBHzm9JGHE4TsBZiYjbDE"
-    },
     {
       "added_at": null,
       "album": {
@@ -835,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Toca Perder",
-        "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        }
-      ],
-      "duration_ms": 174230,
-      "name": "Me Toca Perder",
-      "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d3rbitas",
         "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
       },
@@ -879,6 +831,30 @@
       "duration_ms": 209737,
       "name": "Ma\u00f1ana Vas a Estar Ausente",
       "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Toca Perder",
+        "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "Me Toca Perder",
+      "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
     },
     {
       "added_at": null,
@@ -1019,30 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anticonceptivos",
-        "url": "https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Anticonceptivos",
-      "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00d3rbitas",
         "url": "https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4"
       },
@@ -1067,6 +1019,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anticonceptivos",
+        "url": "https://open.spotify.com/album/2SUHmJQpAQBKhAIcl9DxOd"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Anticonceptivos",
+      "url": "https://open.spotify.com/track/3L2JZWPU5PtlKP7QwTmNyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serendipia",
+        "url": "https://open.spotify.com/album/7J05uCYMtUKy8t4Qsg9oEv"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        }
+      ],
+      "duration_ms": 223150,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/3aBHzm9JGHE4TsBZiYjbDE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tengo Miedo",
         "url": "https://open.spotify.com/album/6MqquyaLM3s2ZzsOkqlqvJ"
       },
@@ -1087,26 +1087,6 @@
       "duration_ms": 197800,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/1JltihDGLZn3siAOSbLbZz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cada Vez",
-        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
-      },
-      "artists": [
-        {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Cada Vez",
-      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
     }
   ],
   "unique_name": "This Is Charles Ans",

@@ -10517,6 +10517,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
         "name": "Cicada",
         "url": "https://open.spotify.com/album/35aadwcGtXwuXBb8nNRHG4"
       },
@@ -15587,6 +15605,24 @@
     },
     {
       "album": {
+        "name": "Caving",
+        "url": "https://open.spotify.com/album/6wgWqeGy6QJpyWzu1P7bXK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Parham",
+          "url": "https://open.spotify.com/artist/25YJk0CscumhEfX5eZ37tQ"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206184,
+      "name": "Don't Want You",
+      "url": "https://open.spotify.com/track/0JdJYG1Utuq5bL9lZ1Hjdy"
+    },
+    {
+      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -15938,6 +15974,32 @@
       "duration_ms": 194304,
       "name": "Dream Anthem",
       "url": "https://open.spotify.com/track/2RuY8gcyPushMXOc5mTDec"
+    },
+    {
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/2PpBVhQoVv2kf33Ysot9G6"
+      },
+      "artists": [
+        {
+          "name": "Lenny Gazebo",
+          "url": "https://open.spotify.com/artist/6xieypSypSPfO5qdlZFMXG"
+        },
+        {
+          "name": "Vibe Provide Collective",
+          "url": "https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2Gew97fJbolz5D9jiwPqCz"
     },
     {
       "album": {
@@ -16978,6 +17040,24 @@
       "duration_ms": 217500,
       "name": "Electrify Tdot - Remix",
       "url": "https://open.spotify.com/track/6vnRWFgpHBq4Ka28e2DwI1"
+    },
+    {
+      "album": {
+        "name": "Elevating",
+        "url": "https://open.spotify.com/album/7CS2MYUx4wqMZh9BMdgnOE"
+      },
+      "artists": [
+        {
+          "name": "Sanavi",
+          "url": "https://open.spotify.com/artist/121l5G7mB53xtXmW6RaAs6"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156761,
+      "name": "Elevating",
+      "url": "https://open.spotify.com/track/3Q285k1BvhQzktMtCKq7jW"
     },
     {
       "album": {
@@ -20654,6 +20734,24 @@
       "duration_ms": 193084,
       "name": "Freak - Radio Edit",
       "url": "https://open.spotify.com/track/6Na2BdjrZPHVB7MVLiABOB"
+    },
+    {
+      "album": {
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/2dLt25yBOFyqATYthOEanh"
+      },
+      "artists": [
+        {
+          "name": "stillyoung",
+          "url": "https://open.spotify.com/artist/5RDJJFkInYKz1g6LxHN6Ao"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158276,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/49QNNsgU3LwRZYYdGaPz6t"
     },
     {
       "album": {
@@ -34888,7 +34986,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -49894,7 +49992,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 148672,
       "name": "Since May",
       "url": "https://open.spotify.com/track/5K458fnpZM0Aa4y8k7d4bQ"

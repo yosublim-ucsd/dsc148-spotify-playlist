@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Boro, Silent Bob, Néza e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,713 likes - 99 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,776 likes - 99 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 21 | [Dsquared2](https://open.spotify.com/track/12b9pPGmt1iQ0QhOAyIcxH) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [Dsquared2](https://open.spotify.com/album/2atXP9Nap5FoukWwItOJeT) | 2:32 |
 | 22 | [MISSWAG FREESTYLE](https://open.spotify.com/track/0HjubEauJgEHDYv907rnhS) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [MISSWAG FREESTYLE](https://open.spotify.com/album/3Up0ce6LcG9NBvh6xjvG2h) | 2:13 |
 | 23 | [Fast Life \#2](https://open.spotify.com/track/0QiPaWxxbsiB6n5YRCVOGo) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [PierLaSese](https://open.spotify.com/artist/3tciXFwJ3X6uwApQe7WZjn), [Frisio](https://open.spotify.com/artist/5y5Lf6igP3nDIifegEhoNF) | [Fast Life \#2](https://open.spotify.com/album/2PRX3B2tGKlPPBK9MX1M12) | 2:24 |
-| 24 | [DATTERO](https://open.spotify.com/track/4CUE29IMZJE6epvXGeajVM) | [Fady](https://open.spotify.com/artist/1EeBagJ2amUXOSo5GQsfZN) | [DATTERO](https://open.spotify.com/album/5O1UEN0mzrHA8pqe2IcckR) | 2:02 |
+| 24 | [DATTERO](https://open.spotify.com/track/4CUE29IMZJE6epvXGeajVM) | [Fady](https://open.spotify.com/artist/2etwlN1B5JtMPqtHUKxkFQ), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [DATTERO](https://open.spotify.com/album/5O1UEN0mzrHA8pqe2IcckR) | 2:02 |
 | 25 | [TENERIFE](https://open.spotify.com/track/18mqXOiSOKKeFAYfkA5bWe) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [TENERIFE](https://open.spotify.com/album/0CS3bnrptFEUFRnX7146qU) | 2:36 |
 | 26 | [Walkie Talkie \(Red Bull 64 Bars\)](https://open.spotify.com/track/1qlbKS6AW1AzuA0DV2UdwR) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Walkie Talkie \(Red Bull 64 Bars\)](https://open.spotify.com/album/5HxgBRU0RWJkF2x1m69CyY) | 2:36 |
 | 27 | [Utopia \(feat\. Gemitaiz\)](https://open.spotify.com/track/1YOiFqx9ON69FAQu2EZ1DP) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 3:10 |

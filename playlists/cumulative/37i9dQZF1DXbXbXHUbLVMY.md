@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-193 songs - 8 hr 23 min
+194 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Drama](https://open.spotify.com/track/5gRlTvWBTrm5DpF6RgxQBM) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Drama](https://open.spotify.com/album/02FOs5JKp1S08NEjCW64Eo) | 2:25 | 2024-05-23 |  |
 | [Dreams](https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT) | 2:08 | 2023-09-21 | 2024-06-08 |
 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 | 2023-09-21 |  |
-| [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 | 2024-02-08 |  |
+| [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 | 2024-02-08 | 2024-06-09 |
 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 | 2023-09-21 | 2024-03-22 |
 | [dum dum shawty! \(feat\. Tyr\)](https://open.spotify.com/track/0Z20ddeVEX9OW87CDsAEM4) | [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [vi blør i kor.dlux](https://open.spotify.com/album/3LVa3iCuIpZnABqVPtZFRY) | 3:23 | 2024-05-30 |  |
 | [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 | 2023-09-21 |  |
@@ -186,6 +186,7 @@
 | [Top Notch](https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Top Notch](https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki) | 2:28 | 2024-01-11 | 2024-02-09 |
 | [TRILLE](https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [TRILLE](https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D) | 2:42 | 2024-01-04 |  |
 | [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 | 2024-02-22 |  |
+| [Utested](https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Utested](https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu) | 2:42 | 2024-06-07 |  |
 | [Varig mén](https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Varig mén](https://open.spotify.com/album/1je48mRG7l23gvEMesMczK) | 2:31 | 2024-05-06 |  |
 | [Vidunderbarn](https://open.spotify.com/track/4tF8PXK6pa5GkDUONmhVqN) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Vidunderbarn](https://open.spotify.com/album/1CKWqVN71ZYjeJLQfjUUT3) | 3:07 | 2024-01-11 |  |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-09-21 | 2024-06-01 |

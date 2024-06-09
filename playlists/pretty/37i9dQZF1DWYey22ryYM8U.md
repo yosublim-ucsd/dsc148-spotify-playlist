@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Luck Ra, Maluma & KHEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,763 likes - 56 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,791 likes - 56 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Aimer",
-  "num_followers": 112349,
+  "num_followers": 112361,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 289720,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u4eba\u9593\u3068\u3057\u3066",
-        "url": "https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "\u4eba\u9593\u3068\u3057\u3066",
-      "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
       },
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u3054\u3081\u3093\u306d",
-        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
+        "name": "\u4eba\u9593\u3068\u3057\u3066",
+        "url": "https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V"
       },
       "artists": [
         {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
         }
       ],
-      "duration_ms": 175786,
-      "name": "\u3054\u3081\u3093\u306d",
-      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
+      "duration_ms": 194000,
+      "name": "\u4eba\u9593\u3068\u3057\u3066",
+      "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -963,6 +947,22 @@
       "duration_ms": 271893,
       "name": "LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS",
       "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "\u3054\u3081\u3093\u306d",
+        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "\u3054\u3081\u3093\u306d",
+      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
+        "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
+        "url": "https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 208309,
+      "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
+      "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
         "name": "\u3059\u305a\u3081",
         "url": "https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 248130,
       "name": "\u6708\u5149\u6d74",
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
-        "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
-        "url": "https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft"
-      },
-      "artists": [
-        {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 208309,
-      "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
-      "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 299255,
-      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
-      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
         "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 266373,
       "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 299255,
+      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u30ce\u30c3\u30c8\u30fb\u30aa\u30fc\u30b1\u30fc",
-        "url": "https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 291428,
-      "name": "\u30ce\u30c3\u30c8\u30fb\u30aa\u30fc\u30b1\u30fc",
-      "url": "https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "\u30a4\u30ed\u30c9\u30ea",
         "url": "https://open.spotify.com/album/2DJBLrJSA045LLJGhtFqgP"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 195411,
       "name": "\u30a4\u30ed\u30c9\u30ea",
       "url": "https://open.spotify.com/track/4OqUFJkoUZA7RNtEyvilS1"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "\u30ce\u30c3\u30c8\u30fb\u30aa\u30fc\u30b1\u30fc",
+        "url": "https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "\u30ce\u30c3\u30c8\u30fb\u30aa\u30fc\u30b1\u30fc",
+      "url": "https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "LOA",
-        "url": "https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo"
+        "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8"
       },
       "artists": [
         {
-          "name": "Furui Riho",
-          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
-        },
-        {
-          "name": "knoak",
-          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 226476,
-      "name": "LOA",
-      "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
+      "duration_ms": 249273,
+      "name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13"
     }
   ],
   "unique_name": "Women's Voice",

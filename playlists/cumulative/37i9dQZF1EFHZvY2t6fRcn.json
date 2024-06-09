@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Shiny New Thing",
+        "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "date_added": "2024-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "You Must Be Crazy Too",
+      "url": "https://open.spotify.com/track/5Sy3BynuE4fKlxoIh2rCmd"
+    },
+    {
+      "album": {
         "name": "You, Me, and The Truth",
         "url": "https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj"
       },

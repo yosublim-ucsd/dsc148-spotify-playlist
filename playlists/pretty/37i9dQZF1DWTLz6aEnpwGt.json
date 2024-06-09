@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 52111,
+  "num_followers": 52132,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-05-24 12:39:41",
       "album": {
+        "name": "Bach, J.S.: Favourite Piano Works",
+        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "duration_ms": 93866,
+      "name": "Notenb\u00fcchlein vor Anna Magdalena Bach, Book 2: Minuet in G Major, BWV Anh.114",
+      "url": "https://open.spotify.com/track/5xYRxXZXNiGRxPkD7lfGcn"
+    },
+    {
+      "added_at": "2024-05-24 12:39:41",
+      "album": {
         "name": "Bach, J.S.: Harpsichord Concertos, Vol. 3",
         "url": "https://open.spotify.com/album/0UV8q0YH9hH2G1uW1rAgW6"
       },
@@ -843,46 +863,6 @@
       "duration_ms": 204000,
       "name": "Concerto for 4 Keyboards in A Minor, BWV 1065: III. Allegro (Arr. Of Vivaldi's Op. 3 No. 10, RV 580)",
       "url": "https://open.spotify.com/track/6QEjE1azc4JLqlpEWD2zaq"
-    },
-    {
-      "added_at": "2024-05-24 12:39:41",
-      "album": {
-        "name": "Bach, J.S.: Favourite Piano Works",
-        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 93866,
-      "name": "Notenb\u00fcchlein vor Anna Magdalena Bach, Book 2: Minuet in G Major, BWV Anh.114",
-      "url": "https://open.spotify.com/track/5xYRxXZXNiGRxPkD7lfGcn"
-    },
-    {
-      "added_at": "2024-05-24 12:39:41",
-      "album": {
-        "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
-        "url": "https://open.spotify.com/album/0t9vwhgZqm6IR7BHNkbQIu"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Keyboard Partita No. 5 in G Major, BWV 829: II. Allemande",
-      "url": "https://open.spotify.com/track/3LPEiAwJkMi3AT9hOrtfr4"
     },
     {
       "added_at": "2024-05-24 12:39:41",
@@ -943,6 +923,26 @@
       "duration_ms": 67573,
       "name": "Clavier-B\u00fcchlein vor W.F. Bach: Prelude in C Major, BWV 924",
       "url": "https://open.spotify.com/track/19oVMQO42RtwyLaNGaiL5Y"
+    },
+    {
+      "added_at": "2024-05-24 12:39:41",
+      "album": {
+        "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
+        "url": "https://open.spotify.com/album/0t9vwhgZqm6IR7BHNkbQIu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Keyboard Partita No. 5 in G Major, BWV 829: II. Allemande",
+      "url": "https://open.spotify.com/track/3LPEiAwJkMi3AT9hOrtfr4"
     },
     {
       "added_at": "2024-05-24 12:39:41",

@@ -2,9 +2,9 @@
 
 ### [This Is Nicky Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
 
-> This is Nicky Romero\. The essential tracks, all in one playlist.
+> This Is Nicky Romero\. Los temas esenciales, todos en una lista.
 
-109 songs - 5 hr 47 min
+110 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Legacy \- Radio Edit](https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy \(Radio Edit\)](https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y) | 3:15 | 2021-12-20 | 2023-11-11 |
 | [Legacy \- Radio Edit](https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy](https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7) | 3:15 | 2023-11-10 |  |
 | [Let Me Feel \- Radio Edit](https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [When We Are Wild](https://open.spotify.com/artist/5Mrj5E7pfTnz99Yyef5mW8) | [Let Me Feel \(Radio Edit\)](https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV) | 3:22 | 2021-12-20 |  |
+| [Lights Up \- Dimitri Vegas & Like Mike Edit](https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Lights Up \(Dimitri Vegas & Like Mike Edit\)](https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp) | 3:10 | 2024-06-09 |  |
 | [Like Home \- Radio Edit](https://open.spotify.com/track/3bUbOOpXfkdDlXg5iPGdJC) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/3knECzpm45ekkrm06q78TJ) | 3:20 | 2021-12-20 |  |
 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 | 2022-07-06 | 2022-10-12 |
 | [Like Home \- Radio Mix](https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/2vQhahYsf0a2TbGiTX3Uv5) | 3:20 | 2022-03-16 | 2023-05-26 |

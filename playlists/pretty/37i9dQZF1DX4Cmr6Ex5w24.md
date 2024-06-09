@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,297 likes - 75 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,367 likes - 75 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 70 | [Odakaara](https://open.spotify.com/track/5cVGeRF155LSm6QDML2RlY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sirkazhi G\. Sivachidambaram](https://open.spotify.com/artist/2qiqvIseQQw7vvb8STzQEA) | [Indira](https://open.spotify.com/album/4FvIXi65kuBXwRh94eXBBh) | 4:21 |
 | 71 | [Roja Roja](https://open.spotify.com/track/6QleOhmbHLwcyB0vOm1uwb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:47 |
 | 72 | [Vennilave Vennilave Vinnai](https://open.spotify.com/track/1Q3oZnMXBy55s8uFJmR1bE) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:51 |
-| 73 | [Thanga Thamari Magale](https://open.spotify.com/track/3UBL5FEA4JgMHj2z94fLSW) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:02 |
-| 74 | [Oru Poiyavathu M](https://open.spotify.com/track/0TyyUNBUUkW87hfWgUOJWy) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Jodi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/530Ue2hZyDFcgiDubkR5FY) | 7:03 |
-| 75 | [Velli Malare](https://open.spotify.com/track/4fQQdER4zu0Q0WRGHx1UgQ) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Jodi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/530Ue2hZyDFcgiDubkR5FY) | 6:29 |
+| 73 | [Oru Poiyavathu M](https://open.spotify.com/track/0TyyUNBUUkW87hfWgUOJWy) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Jodi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/530Ue2hZyDFcgiDubkR5FY) | 7:03 |
+| 74 | [Velli Malare](https://open.spotify.com/track/4fQQdER4zu0Q0WRGHx1UgQ) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Jodi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/530Ue2hZyDFcgiDubkR5FY) | 6:29 |
+| 75 | [Thanga Thamari Magale](https://open.spotify.com/track/3UBL5FEA4JgMHj2z94fLSW) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Minsara Kanavu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0lu9EJwZFYWUogxPtptP3N) | 5:02 |
 
 Snapshot ID: `ZZviaQAAAAA0Yta6Syg4hI7fNgMqlfkS`

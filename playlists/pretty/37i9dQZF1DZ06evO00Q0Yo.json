@@ -1,12 +1,12 @@
 {
-  "description": "This Is Flo Milli. Los temas esenciales, todos en una lista.",
-  "num_followers": 16764,
+  "description": "This is Flo Milli. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 16788,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAC+/jX4x55Z2709qdSmf7ob",
+  "snapshot_id": "ZmJNgAAAAABI5UYVdbyvdtncNH+eAB2N",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 231898,
+      "name": "Plain (feat. Lily Allen & Flo Milli)",
+      "url": "https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fruit Loop",
         "url": "https://open.spotify.com/album/1eGfr1AwGJ3bI2ONUhikpg"
       },
@@ -511,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -539,6 +547,22 @@
       "duration_ms": 150293,
       "name": "Toast",
       "url": "https://open.spotify.com/track/5djffOhSkIRnKAtZ2bMoqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
     },
     {
       "added_at": null,
@@ -591,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ho, why is you here ?",
         "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
       },
@@ -619,6 +627,22 @@
       "duration_ms": 106763,
       "name": "Pockets Bigger",
       "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,
@@ -655,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ho, why is you here ?",
+        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 203043,
+      "name": "Like That Bitch",
+      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HARAM!",
         "url": "https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1"
       },
@@ -671,22 +711,6 @@
       "duration_ms": 153973,
       "name": "Raindrops (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ho, why is you here ?",
-        "url": "https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 203043,
-      "name": "Like That Bitch",
-      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
     },
     {
       "added_at": null,
@@ -947,26 +971,6 @@
       "duration_ms": 145074,
       "name": "Take It Up - Remix",
       "url": "https://open.spotify.com/track/0HpuGk2nD5BBw7QE7NnsMx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexy (Remix) [feat. Flo Milli]",
-        "url": "https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX"
-      },
-      "artists": [
-        {
-          "name": "JoeVille",
-          "url": "https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Sexy (Remix) - feat. Flo Milli",
-      "url": "https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU"
     }
   ],
   "unique_name": "This Is Flo Milli",

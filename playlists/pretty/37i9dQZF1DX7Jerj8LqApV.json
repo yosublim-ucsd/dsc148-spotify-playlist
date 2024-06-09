@@ -1,12 +1,12 @@
 {
   "description": "Chill out and relax to the breeziest hits from the Philippines.",
-  "num_followers": 1723463,
+  "num_followers": 1723583,
   "original_name": "OPM Says Chillax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmAcEgAAAAAgFk9V2YHHbESOkAzCsEOu",
+  "snapshot_id": "ZmPXQAAAAAAtw4mJcVlbOsSpkuiUAbrZ",
   "tracks": [
     {
       "added_at": "2024-06-05 08:04:34",
@@ -41,36 +41,40 @@
       "url": "https://open.spotify.com/track/3pT7wGF5w6Jhgj7w08dCeQ"
     },
     {
-      "added_at": "2024-06-05 08:04:34",
+      "added_at": "2024-06-08 04:00:00",
       "album": {
-        "name": "pagod na (sayo)",
-        "url": "https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF"
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
       "artists": [
         {
-          "name": "rhodessa",
-          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
         }
       ],
-      "duration_ms": 296400,
-      "name": "pagod na (sayo)",
-      "url": "https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF"
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "added_at": "2024-06-05 08:04:34",
       "album": {
-        "name": "edsa",
-        "url": "https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y"
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
       },
       "artists": [
         {
-          "name": "PABLO",
-          "url": "https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 208283,
-      "name": "edsa",
-      "url": "https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX"
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
       "added_at": "2024-06-05 08:04:34",
@@ -123,58 +127,6 @@
     {
       "added_at": "2024-06-05 08:04:34",
       "album": {
-        "name": "Sunny When I'm With You",
-        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
-      },
-      "artists": [
-        {
-          "name": "Ysanygo",
-          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
-        },
-        {
-          "name": "Purplecat",
-          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sunny When I'm With You",
-      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
-    },
-    {
-      "added_at": "2024-06-05 08:04:34",
-      "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
-    },
-    {
-      "added_at": "2024-06-05 08:04:34",
-      "album": {
-        "name": "7:07 (Hay Buhay)",
-        "url": "https://open.spotify.com/album/37Dhm53dSWWKUAO21BD2Mn"
-      },
-      "artists": [
-        {
-          "name": "Kai Buizon",
-          "url": "https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "7:07 (Hay Buhay)",
-      "url": "https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y"
-    },
-    {
-      "added_at": "2024-06-05 08:04:34",
-      "album": {
         "name": "Ikaw Lang",
         "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
       },
@@ -187,6 +139,38 @@
       "duration_ms": 263500,
       "name": "Ikaw Lang",
       "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
+    },
+    {
+      "added_at": "2024-06-05 08:04:34",
+      "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "added_at": "2024-06-05 08:04:34",
+      "album": {
+        "name": "edsa",
+        "url": "https://open.spotify.com/album/5CZgNybZewlmzA8aS9h21y"
+      },
+      "artists": [
+        {
+          "name": "PABLO",
+          "url": "https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk"
+        }
+      ],
+      "duration_ms": 208283,
+      "name": "edsa",
+      "url": "https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX"
     },
     {
       "added_at": "2024-06-05 08:04:34",
@@ -239,22 +223,6 @@
       "duration_ms": 206500,
       "name": "Saan?",
       "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
-    },
-    {
-      "added_at": "2024-06-05 08:04:34",
-      "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
       "added_at": "2024-06-05 08:04:34",
@@ -375,6 +343,22 @@
     {
       "added_at": "2024-06-05 08:04:34",
       "album": {
+        "name": "Tanong",
+        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Kailan?",
+      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
+    },
+    {
+      "added_at": "2024-06-05 08:04:34",
+      "album": {
         "name": "Hoodie (feat. Alisson Shore)",
         "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 170895,
       "name": "Hoodie (feat. Alisson Shore)",
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
-    },
-    {
-      "added_at": "2024-06-05 08:04:34",
-      "album": {
-        "name": "Tanong",
-        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Kailan?",
-      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
     },
     {
       "added_at": "2024-06-05 08:04:34",
@@ -499,22 +467,6 @@
     {
       "added_at": "2024-06-05 08:04:34",
       "album": {
-        "name": "Segundo, Siguro",
-        "url": "https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 284827,
-      "name": "Segundo, Siguro",
-      "url": "https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7"
-    },
-    {
-      "added_at": "2024-06-05 08:04:34",
-      "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/06q5LVHRUwo5LqINyPQm65"
       },
@@ -527,6 +479,22 @@
       "duration_ms": 320538,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm"
+    },
+    {
+      "added_at": "2024-06-05 08:04:34",
+      "album": {
+        "name": "Segundo, Siguro",
+        "url": "https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 284827,
+      "name": "Segundo, Siguro",
+      "url": "https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7"
     },
     {
       "added_at": "2024-06-05 08:04:34",
@@ -599,22 +567,6 @@
     {
       "added_at": "2024-06-05 08:04:34",
       "album": {
-        "name": "Nangangamba",
-        "url": "https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 210354,
-      "name": "Nangangamba",
-      "url": "https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy"
-    },
-    {
-      "added_at": "2024-06-05 08:04:34",
-      "album": {
         "name": "surreal",
         "url": "https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY"
       },
@@ -627,6 +579,22 @@
       "duration_ms": 240400,
       "name": "surreal",
       "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
+    },
+    {
+      "added_at": "2024-06-05 08:04:34",
+      "album": {
+        "name": "Nangangamba",
+        "url": "https://open.spotify.com/album/4kHntHygZZcKMRXGE2k1Fw"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 210354,
+      "name": "Nangangamba",
+      "url": "https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy"
     },
     {
       "added_at": "2024-06-05 08:04:34",
@@ -647,6 +615,22 @@
     {
       "added_at": "2024-06-05 08:04:34",
       "album": {
+        "name": "Bakit?",
+        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 194442,
+      "name": "Bakit?",
+      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
+    },
+    {
+      "added_at": "2024-06-05 08:04:34",
+      "album": {
         "name": "o ninanais",
         "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
       },
@@ -663,18 +647,34 @@
     {
       "added_at": "2024-06-05 08:04:34",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
+        "name": "You'll Be Safe Here",
+        "url": "https://open.spotify.com/album/0R09cayA4ShMtoaAVWgao4"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
         }
       ],
-      "duration_ms": 171527,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
+      "duration_ms": 303786,
+      "name": "You'll Be Safe Here",
+      "url": "https://open.spotify.com/track/2MU7C3czJUhO7KJ2yumoB1"
+    },
+    {
+      "added_at": "2024-06-05 08:04:34",
+      "album": {
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
     }
   ],
   "unique_name": "OPM Says Chillax",

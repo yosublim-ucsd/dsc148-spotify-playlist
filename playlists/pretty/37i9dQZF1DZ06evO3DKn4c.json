@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Alien. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 33568,
+  "description": "This is Black Alien. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 33582,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAA5v50OIWg7APMcG9n3gfTM",
+  "snapshot_id": "ZmJNgAAAAACyKbV6Bqr48DuIit4Ei+yx",
   "tracks": [
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gord\u00e3o Chefe",
-        "url": "https://open.spotify.com/album/7smhjQ669H4bokR2oE9GeV"
-      },
-      "artists": [
-        {
-          "name": "DBS Gord\u00e3o Chefe",
-          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        }
-      ],
-      "duration_ms": 331733,
-      "name": "Sinto Muito Baby",
-      "url": "https://open.spotify.com/track/2lYxvijVdMI2BypfDcbUEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00c3O VAMOS DESISTIR",
         "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
       },
@@ -475,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangue de Free",
+        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 210959,
+      "name": "Sangue de Free",
+      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
         "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
@@ -491,18 +483,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangue de Free",
-        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/7smhjQ669H4bokR2oE9GeV"
       },
       "artists": [
         {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
         }
       ],
-      "duration_ms": 210959,
-      "name": "Sangue de Free",
-      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
+      "duration_ms": 331733,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/2lYxvijVdMI2BypfDcbUEC"
     },
     {
       "added_at": null,
@@ -683,30 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Insolente",
-        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
-      },
-      "artists": [
-        {
-          "name": "Marcelinho Da Lua",
-          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Bi Ribeiro",
-          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
-      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "300",
         "url": "https://open.spotify.com/album/49aodr19IxR7j392H2CIJm"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 420674,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
+      },
+      "artists": [
+        {
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Bi Ribeiro",
+          "url": "https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
+      "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98596,
+  "num_followers": 98602,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 142123,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Talk To My Body",
         "url": "https://open.spotify.com/album/17GycKc0zIQqi7NJ8qraKn"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 147000,
       "name": "Talk To My Body",
       "url": "https://open.spotify.com/track/1PwN9ebjpov7iwTLHSov7V"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 142123,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Misbehave",
         "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 174220,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Pop Some Tags",
+        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
+      },
+      "artists": [
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
+        }
+      ],
+      "duration_ms": 139183,
+      "name": "Pop Some Tags",
+      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 123383,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/3T7sUc1POvptNCM8o3KAmM"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Pop Some Tags",
-        "url": "https://open.spotify.com/album/227QNgObxVtAGhJeN2OtRe"
-      },
-      "artists": [
-        {
-          "name": "WAVES",
-          "url": "https://open.spotify.com/artist/6p32HfiKpYD3wdKHV7utxQ"
-        }
-      ],
-      "duration_ms": 139183,
-      "name": "Pop Some Tags",
-      "url": "https://open.spotify.com/track/25owlYCoM7EiKwlixXBaB8"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167630,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 165845,
       "name": "Fable",
       "url": "https://open.spotify.com/track/26AfDY0UGmvCqd9kSAhA02"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167630,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "September (Club Mix)",
         "url": "https://open.spotify.com/album/5jNrQMFz5rQOGyLIXHBV1e"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 199024,
       "name": "September (Club Mix) - Radio Edit",
       "url": "https://open.spotify.com/track/1dQS6r99azgncYwRDVM82m"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1747,30 +1747,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Slowly Going Crazy (feat. EKE)",
-        "url": "https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc"
+        "name": "Like Thunder",
+        "url": "https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO"
       },
       "artists": [
         {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+          "name": "HIDDN",
+          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
         },
         {
-          "name": "Tomhio",
-          "url": "https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7"
+          "name": "N\u00f8way",
+          "url": "https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU"
         },
         {
-          "name": "TWINNS",
-          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
-        },
-        {
-          "name": "EKE",
-          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+          "name": "Calumny",
+          "url": "https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R"
         }
       ],
-      "duration_ms": 147187,
-      "name": "Slowly Going Crazy (feat. EKE)",
-      "url": "https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf"
+      "duration_ms": 141428,
+      "name": "Like Thunder",
+      "url": "https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1795,6 +1791,34 @@
       "duration_ms": 185451,
       "name": "Stand In Line",
       "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Slowly Going Crazy (feat. EKE)",
+        "url": "https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc"
+      },
+      "artists": [
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        },
+        {
+          "name": "Tomhio",
+          "url": "https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7"
+        },
+        {
+          "name": "TWINNS",
+          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "Slowly Going Crazy (feat. EKE)",
+      "url": "https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1843,30 +1867,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Like Thunder",
-        "url": "https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO"
-      },
-      "artists": [
-        {
-          "name": "HIDDN",
-          "url": "https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX"
-        },
-        {
-          "name": "N\u00f8way",
-          "url": "https://open.spotify.com/artist/2DOYVHP5s55Muqsv0TyFyU"
-        },
-        {
-          "name": "Calumny",
-          "url": "https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Like Thunder",
-      "url": "https://open.spotify.com/track/4iXvR6yFywrVJ7LuD4dy71"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/6Y7JwDOKKOZPjvcLVQxoDc"
       },
@@ -1883,22 +1883,6 @@
       "duration_ms": 180000,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1fg2EDQRqMdrkDZE0JS2Wu"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
-      },
-      "artists": [
-        {
-          "name": "HEATT",
-          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
+      },
+      "artists": [
+        {
+          "name": "HEATT",
+          "url": "https://open.spotify.com/artist/2zwPHuqNnw58gLehwzkDfL"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5pkC1t47FLpe2laj71YgH2"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Every Single Time (I Look At You)",
         "url": "https://open.spotify.com/album/5ew9qVfDbbTLW7edMIx9JS"
       },
@@ -1939,26 +1939,6 @@
       "duration_ms": 149571,
       "name": "Every Single Time (I Look At You)",
       "url": "https://open.spotify.com/track/4BvdEc7bbkV6b1rTA0JVy5"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "A Little Bit More",
-        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
-      },
-      "artists": [
-        {
-          "name": "Gaudini",
-          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
-        },
-        {
-          "name": "KVKI",
-          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "A Little Bit More",
-      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1983,6 +1963,26 @@
       "duration_ms": 164576,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "A Little Bit More",
+        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
+      },
+      "artists": [
+        {
+          "name": "Gaudini",
+          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
+        },
+        {
+          "name": "KVKI",
+          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "A Little Bit More",
+      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
     },
     {
       "added_at": "2024-06-06 22:00:00",

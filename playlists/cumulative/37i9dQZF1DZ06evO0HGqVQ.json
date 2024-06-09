@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Piel A Piel",
+      "url": "https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz"
+    },
+    {
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX"
       },

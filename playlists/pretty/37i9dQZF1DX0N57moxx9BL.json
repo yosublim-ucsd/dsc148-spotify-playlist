@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 150776,
+  "num_followers": 150816,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Cave",
-        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "The First & the Last",
         "url": "https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 219151,
       "name": "The First & the Last",
       "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Cave",
+        "url": "https://open.spotify.com/album/4MDSWuaSkuJrIz6XE68q14"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/4rf3psGLD1Ol5sn7Z2VI9F"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
-      },
-      "artists": [
-        {
-          "name": "Phinehas",
-          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
-        }
-      ],
-      "duration_ms": 283741,
-      "name": "In the Night",
-      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Listen Friend",
         "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 272281,
       "name": "Listen Friend",
       "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
+      },
+      "artists": [
+        {
+          "name": "Phinehas",
+          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
+        }
+      ],
+      "duration_ms": 283741,
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Executioner",
-        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "The Executioner",
-      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "By Faith",
         "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 186849,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Executioner",
+        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "The Executioner",
+      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -595,22 +595,6 @@
       "duration_ms": 333370,
       "name": "Send Forth Laborers",
       "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -695,6 +679,22 @@
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -879,18 +863,34 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
       },
       "artists": [
         {
-          "name": "Living Scars",
-          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
         }
       ],
-      "duration_ms": 253740,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/5fowoa7JGYZ3k75dQyCfTY"
       },
       "artists": [
         {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+          "name": "Living Scars",
+          "url": "https://open.spotify.com/artist/5XIE35eMDOvXmZPHyE0mGE"
         }
       ],
-      "duration_ms": 211906,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
+      "duration_ms": 253740,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Eulogies",
-        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 166575,
-      "name": "Weight of Glory",
-      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Lighting up the Darkness",
         "url": "https://open.spotify.com/album/78cPuJVdYTd5u1X5Z6XSit"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
+      },
+      "artists": [
+        {
+          "name": "Crusoe",
+          "url": "https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Anger",
         "url": "https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb"
       },
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv"
+        "name": "Eulogies",
+        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
       },
       "artists": [
         {
-          "name": "Crusoe",
-          "url": "https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl"
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Wild Ones",
-      "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"
+      "duration_ms": 166575,
+      "name": "Weight of Glory",
+      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4"
-      },
-      "artists": [
-        {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
-        }
-      ],
-      "duration_ms": 260232,
-      "name": "Melancholy Machines",
-      "url": "https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "See No Evil, Hear No Evil",
         "url": "https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 294249,
       "name": "See No Evil, Hear No Evil",
       "url": "https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/5UmDBwQy39y8Hs8CUvR8c4"
+      },
+      "artists": [
+        {
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+        }
+      ],
+      "duration_ms": 260232,
+      "name": "Melancholy Machines",
+      "url": "https://open.spotify.com/track/1vc8iLHZV9S9q5qZ0vz6t3"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Same Old Story",
+        "url": "https://open.spotify.com/album/3gIleQFuXMBgc8hPoAzZMc"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 249999,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Three Nails",
         "url": "https://open.spotify.com/album/0RE2vOB4UfAJspcAgOUM8w"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 209128,
       "name": "No Altars",
       "url": "https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Same Old Story",
-        "url": "https://open.spotify.com/album/3gIleQFuXMBgc8hPoAzZMc"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 249999,
-      "name": "Same Old Story",
-      "url": "https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa"
     },
     {
       "added_at": "2024-05-10 04:01:29",

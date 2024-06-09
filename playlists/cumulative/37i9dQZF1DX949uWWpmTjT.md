@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,076 songs - 2 day 21 hr 24 min
+1,077 songs - 2 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 | 2023-02-09 | 2024-05-14 |
 | [Gentle Rain](https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Gentle Rain](https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci) | 3:12 | 2024-01-12 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-11-10 | 2023-08-25 |
+| [Get my check](https://open.spotify.com/track/14HUV8e3IJmq9n5m2JZEeV) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Get my check](https://open.spotify.com/album/7ni0WTwyRYUX2A4n3EUwdv) | 3:19 | 2024-06-03 |  |
 | [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-08 |  |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 |  |
 | [God Bless the Child](https://open.spotify.com/track/0vX1WuGdUzFuhKjVheJwEs) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Shuffle and Deal](https://open.spotify.com/album/7jH6xoaUghuBkSOPh6Ksyp) | 6:53 | 2023-03-23 | 2024-02-19 |
@@ -807,7 +808,7 @@
 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 | 2023-06-09 |
 | [Sometimes We Do](https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Sometimes We Do](https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs) | 3:24 | 2023-02-09 |  |
 | [Somewhere](https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Somewhere](https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo) | 3:39 | 2024-01-19 |  |
-| [Somewhere Only We Go](https://open.spotify.com/track/3FUPP0Q5E2JKopEUHXIwdw) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Somewhere Only We Go](https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ) | 3:47 | 2023-02-09 |  |
+| [Somewhere Only We Go](https://open.spotify.com/track/3FUPP0Q5E2JKopEUHXIwdw) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Somewhere Only We Go](https://open.spotify.com/album/4MkXfde3NQsZfcsP09EeeZ) | 3:47 | 2023-02-09 | 2024-06-09 |
 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-02-02 |  |
 | [Sonne](https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 4:54 | 2023-03-16 | 2024-04-30 |
 | [Sonny Side](https://open.spotify.com/track/3845TYxfJm5POl4ipU6mBO) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [Remembrance](https://open.spotify.com/album/4Tghkoa8HIUpFyG47MCHXx) | 7:25 | 2022-01-27 | 2024-02-04 |

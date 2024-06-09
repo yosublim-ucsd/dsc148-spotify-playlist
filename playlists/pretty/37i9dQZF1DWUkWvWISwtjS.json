@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 442707,
+  "num_followers": 442691,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
-        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Para, Pensa e Volta - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Ao Vivo E A Cores",
         "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 180304,
       "name": "Ao Vivo E A Cores",
       "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
+        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Para, Pensa e Volta - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Terra Sem Cep (Ao Vivo)",
         "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
@@ -487,38 +471,6 @@
       "duration_ms": 166517,
       "name": "Cora\u00e7\u00e3o Calejado - Ao Vivo",
       "url": "https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Um Novo Sonho - Deluxe",
-        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 200572,
-      "name": "Por Nossos Filhos",
-      "url": "https://open.spotify.com/track/2ejpjaqOYKYMxQWY30RAyK"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
-        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Folgado - Ao Vivo",
-      "url": "https://open.spotify.com/track/4DYmJ19DhmxUe26QhANDYv"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -539,6 +491,54 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Mar\u00edlia Mendon\u00e7a - Ao Vivo",
+        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Folgado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4DYmJ19DhmxUe26QhANDYv"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Um Novo Sonho - Deluxe",
+        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 200572,
+      "name": "Por Nossos Filhos",
+      "url": "https://open.spotify.com/track/2ejpjaqOYKYMxQWY30RAyK"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 189669,
+      "name": "Derreter a Alian\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LrxVF7fpZZdbB7zy6MnIg"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Pegada Que Desgrama",
         "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
       },
@@ -639,42 +655,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Volta Marcada",
-        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Volta Marcada",
-      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 189669,
-      "name": "Derreter a Alian\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/5LrxVF7fpZZdbB7zy6MnIg"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Bruto Memo",
         "url": "https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 184064,
       "name": "Bruto Memo",
       "url": "https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Volta Marcada",
+        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Volta Marcada",
+      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 186816,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Made in Ro\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 187595,
       "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 186816,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Rel\u00f3gio Parado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 180736,
+      "name": "Rel\u00f3gio Parado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Mui\u00e9 Brava",
         "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
       },
@@ -903,42 +919,6 @@
       "duration_ms": 136176,
       "name": "Beber Com Emerg\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Estrelinha",
-        "url": "https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1"
-      },
-      "artists": [
-        {
-          "name": "Di Paullo & Paulino",
-          "url": "https://open.spotify.com/artist/1e5A3rWcqk9WfLjeg5T3dI"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 207317,
-      "name": "Estrelinha",
-      "url": "https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Rel\u00f3gio Parado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
-      },
-      "artists": [
-        {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "Rel\u00f3gio Parado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1011,6 +991,26 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Estrelinha",
+        "url": "https://open.spotify.com/album/3r3WEUzmwBtgKqWtNxssu1"
+      },
+      "artists": [
+        {
+          "name": "Di Paullo & Paulino",
+          "url": "https://open.spotify.com/artist/1e5A3rWcqk9WfLjeg5T3dI"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 207317,
+      "name": "Estrelinha",
+      "url": "https://open.spotify.com/track/6hFU1qqclbJkyA7gPuUNDS"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "ASSIM NASCE UM B\u00caBADO",
+        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 223374,
+      "name": "ASSIM NASCE UM B\u00caBADO",
+      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Start In S\u00e3o Paulo (ao Vivo)",
         "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 225792,
       "name": "Cole\u00e7\u00e3o de Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/3W1L27vGEjo0yvhgOIJ8hO"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "ASSIM NASCE UM B\u00caBADO",
-        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 223374,
-      "name": "ASSIM NASCE UM B\u00caBADO",
-      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
-        "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Moraes",
-          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
-        },
-        {
-          "name": "Maraisa",
-          "url": "https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr"
-        }
-      ],
-      "duration_ms": 170517,
-      "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
-      "url": "https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
       },
@@ -1543,22 +1523,6 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
         "name": "Short Jeans (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
@@ -1579,6 +1543,26 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
+        "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Moraes",
+          "url": "https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C"
+        },
+        {
+          "name": "Maraisa",
+          "url": "https://open.spotify.com/artist/7xRbrPoxLDHtoZ8PkUKAOr"
+        }
+      ],
+      "duration_ms": 170517,
+      "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
+      "url": "https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Aperte O Play! (Ao Vivo)",
         "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
-        "name": "Mc Len\u00e7ol e Dj Travesseiro",
-        "url": "https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru"
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
         }
       ],
-      "duration_ms": 178700,
-      "name": "MC Len\u00e7ol e DJ Travesseiro",
-      "url": "https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv"
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1623,6 +1607,22 @@
       "duration_ms": 211324,
       "name": "Eu Era",
       "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
+        "name": "Mc Len\u00e7ol e Dj Travesseiro",
+        "url": "https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 178700,
+      "name": "MC Len\u00e7ol e DJ Travesseiro",
+      "url": "https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv"
     },
     {
       "added_at": "2023-10-13 11:44:55",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-10-13 11:44:55",
       "album": {
+        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
+        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 152778,
+      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
+      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
+    },
+    {
+      "added_at": "2023-10-13 11:44:55",
+      "album": {
         "name": "Cumpra-se - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4EFPUwTHszanhSL3u0CXnY"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 154093,
       "name": "Certo e Duvidoso - Ao Vivo",
       "url": "https://open.spotify.com/track/7ArNH109yIfwIquJ535fsi"
-    },
-    {
-      "added_at": "2023-10-13 11:44:55",
-      "album": {
-        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 152778,
-      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
     },
     {
       "added_at": "2023-10-13 11:44:55",

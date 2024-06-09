@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 637 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 15 | [Scottiche de la brosse à dents](https://open.spotify.com/track/0idgLta3sJYwx1wyEZUuWT) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 4:01 |
 | 16 | [Po\-po\-pollutions](https://open.spotify.com/track/0IxX2UcP54UqvzsU48cv7I) | [Tartine Reverdy](https://open.spotify.com/artist/1whYmO7nzvBoPhtC3HtnEe) | [Dans les bois](https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ) | 2:18 |
 | 17 | [Thomas Pesquet](https://open.spotify.com/track/50YeLRN6WuokVA4am51idF) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 4:28 |
-| 18 | [Ecrans, rendez\-nous nos parents !](https://open.spotify.com/track/3Lg9P0bFpgMcS12fcuQz78) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:41 |
+| 18 | [L'arnaque](https://open.spotify.com/track/7gIFfEThnRAIkXUU1uPqCz) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:56 |
 | 19 | [A quoi rêve t'il ?](https://open.spotify.com/track/5R9PGIMpm2ZsLDY7Z5FfLV) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, vol\. 1](https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr) | 1:35 |
 | 20 | [Privé de dessert](https://open.spotify.com/track/7lPjxfmUBLFCloGAP4uIli) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 1:28 |
 | 21 | [Emoi et moi](https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:45 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 23 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
 | 24 | [Une colombe](https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h), [L'école des fables](https://open.spotify.com/artist/6VqB8qao04IRzpAn8U8sLf) | [Une colombe](https://open.spotify.com/album/392eSZskLbb3cUW5ybv6ls) | 3:26 |
 | 25 | [Qu'est\-ce qu'on dit ?](https://open.spotify.com/track/5Sk8N81JHTtZRMtu3zmPJb) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 0:45 |
-| 26 | [L'arnaque](https://open.spotify.com/track/7gIFfEThnRAIkXUU1uPqCz) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:56 |
+| 26 | [Ecrans, rendez\-nous nos parents !](https://open.spotify.com/track/3Lg9P0bFpgMcS12fcuQz78) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:41 |
 | 27 | [Même pas mal](https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:20 |
 | 28 | [Dans notre dictionnaire imaginaire](https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [On a perdu la boussole](https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh) | 3:00 |
 | 29 | [C'est bon mais c'est pas bon](https://open.spotify.com/track/3mICivmX1jTJczvkBzMA4E) | [Zut](https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O) | [J'aime quand tu souris](https://open.spotify.com/album/0wxpkwIYmNr7G2JGMqBeBk) | 3:03 |

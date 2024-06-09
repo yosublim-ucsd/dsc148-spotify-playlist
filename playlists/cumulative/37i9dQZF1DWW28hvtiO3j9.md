@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-126 songs - 9 hr 17 min
+127 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Love Was Really Gone \- 2018 Remaster](https://open.spotify.com/track/2aaOJJd2fBkd4es7vI2h2a) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 5:47 | 2022-05-24 |  |
 | [midnight cruisin'](https://open.spotify.com/track/37NPLfEZQQ0rZTa9SRqWBL) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 4:43 | 2022-05-24 |  |
 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 | 2022-06-28 | 2024-04-19 |
+| [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 | 2023-03-21 |  |
 | [Midnight Pretenders](https://open.spotify.com/track/0JUWF44gfMszGNhjCF7Ufs) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [浮遊空間](https://open.spotify.com/album/7fa6VpNPvW2DVbtohJ0x44) | 5:45 | 2022-05-24 |  |
 | [Morning Glory](https://open.spotify.com/track/4MCbJal7Vt63forg63Fap6) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Miss M](https://open.spotify.com/album/6ib3Oa6C7Re0CfxFE2Y8So) | 3:24 | 2022-05-24 | 2022-07-28 |
 | [Mystical Composer](https://open.spotify.com/track/0eikLFcQlkRvxvNIQmf5ec) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 5:08 | 2022-06-28 | 2023-12-08 |
@@ -86,7 +87,7 @@
 | [あの頃、マリー・ローランサン](https://open.spotify.com/track/2XoJ6LugOXLiRdZSjVCvX3) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [あの頃、マリー・ローランサン](https://open.spotify.com/album/7bWzuMYIphCJ1nEO5Brzjh) | 4:24 | 2022-05-24 | 2022-07-13 |
 | [これは恋ではない](https://open.spotify.com/track/1ByoodGA3kCcnZjkuCfbeQ) | [ピチカート・ファイヴ](https://open.spotify.com/artist/0IQalWuw5NBk1xXG5GK0Bv) | [ベリッシマ](https://open.spotify.com/album/74K58BJS1PKn8rSbs3gqHw) | 4:47 | 2022-05-24 | 2022-07-29 |
 | [さよならのオーシャン \(2022 Remaster\)](https://open.spotify.com/track/3tzbvujZ9eYLYFaFOMic2R) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [35\(+3\) SUMMERS Sugiyama, Kiyotaka Single Collection \-VAP Edition\-](https://open.spotify.com/album/22n8w6HBOyt1qHwloIsJLN) | 4:54 | 2022-06-28 | 2022-07-29 |
-| [ふたりの夏物語 NEVER ENDING SUMMER](https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ゴールデン☆ベスト](https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6) | 4:01 | 2022-05-24 |  |
+| [ふたりの夏物語 NEVER ENDING SUMMER](https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ゴールデン☆ベスト](https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6) | 4:01 | 2022-05-24 | 2024-06-09 |
 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 | 2022-05-24 |  |
 | [アクアマリンのままでいて](https://open.spotify.com/track/4Cc4bzVnS1K1yJ0mJ515hJ) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [35th Anniversary Album "To Your Summertime Smile"](https://open.spotify.com/album/2SGd8Kap3ABIRoQhO3HWv8) | 4:33 | 2022-06-14 | 2022-09-28 |
 | [アクアマリンのままでいて \- 2021 Remix](https://open.spotify.com/track/3lIgUSh6MzLR0x6jg6EMlZ) | [Carlos Toshiki And Omega Tribe](https://open.spotify.com/artist/3ZSJOcGvaMOI6Op3PYpMM9) | [The Reverb 2022 OMEGA TRIBE \(WARNER MUSIC JAPAN Edition\)](https://open.spotify.com/album/36gn7tmmZceCd3SxHLBrg5) | 4:31 | 2022-09-27 |  |

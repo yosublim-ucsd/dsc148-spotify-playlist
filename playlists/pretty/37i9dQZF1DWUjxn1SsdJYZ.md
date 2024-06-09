@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Day1
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,188 likes - 95 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,197 likes - 95 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FIND THAT OUT](https://open.spotify.com/track/4sJeq1ugqcvV37y8Jr7v02) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [FIND THAT OUT](https://open.spotify.com/album/5JDlQqaZI47GNU3S0fVTQX) | 2:11 |
 | 2 | [NATURAL HABITAT](https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [NATURAL HABITAT](https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ) | 2:53 |
 | 3 | [Young Free & Reckless](https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Young Free & Reckless](https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38) | 3:12 |
-| 4 | [When I](https://open.spotify.com/track/5hqBRdjLsiIELegHNyMhaG) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [When I](https://open.spotify.com/album/6DQc77aqIKxso8JJzkowta) | 1:59 |
+| 4 | [WHEN I](https://open.spotify.com/track/5hqBRdjLsiIELegHNyMhaG) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [WHEN I](https://open.spotify.com/album/6DQc77aqIKxso8JJzkowta) | 1:59 |
 | 5 | [Like We Wrote](https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Like We Wrote](https://open.spotify.com/album/2iLcNlQLxFzkWB8VxiJZpo) | 1:58 |
 | 6 | [GTA](https://open.spotify.com/track/2yxDuTpEvdWGWZdiloA6XL) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [GTA](https://open.spotify.com/album/38XzXG7GP7GiWszfZkXLK1) | 1:36 |
 | 7 | [Commando](https://open.spotify.com/track/3YgySDHOUDfhTB1roFjci0) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Commando](https://open.spotify.com/album/0XzaAUuAtI6R9cmxRg9dC2) | 2:16 |

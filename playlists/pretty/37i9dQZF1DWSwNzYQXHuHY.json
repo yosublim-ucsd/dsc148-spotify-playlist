@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9796,
+  "num_followers": 9797,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "Hangang Chillin'",
-        "url": "https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE"
-      },
-      "artists": [
-        {
-          "name": "LimJi",
-          "url": "https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z"
-        }
-      ],
-      "duration_ms": 165385,
-      "name": "Hangang Chillin'",
-      "url": "https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "First Album",
         "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 248293,
       "name": "\ub110 \uc0dd\uac01\ud574",
       "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "Hangang Chillin'",
+        "url": "https://open.spotify.com/album/0mm29Ew2iUYiyLKVyi2HBE"
+      },
+      "artists": [
+        {
+          "name": "LimJi",
+          "url": "https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z"
+        }
+      ],
+      "duration_ms": 165385,
+      "name": "Hangang Chillin'",
+      "url": "https://open.spotify.com/track/2z4Q58WhE8OC5F38R3hCGd"
     },
     {
       "added_at": "2024-06-05 03:49:47",

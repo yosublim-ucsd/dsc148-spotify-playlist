@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 182329,
+  "num_followers": 182385,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el Celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 201986,
       "name": "1977",
       "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el Celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Mi Vicio",
-        "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Ley de Vida",
         "url": "https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 332840,
       "name": "Fieles Con Lo Vivido",
       "url": "https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Mi Vicio",
+        "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "La Divina Comedia",
-        "url": "https://open.spotify.com/album/0zHgbxZY3wneOhYAr84jqx"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 196966,
-      "name": "La Divina Comedia",
-      "url": "https://open.spotify.com/track/4NZYvP5MEO9Y843laEakxz"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "R de Rumba",
         "url": "https://open.spotify.com/album/0fNRU2Bri98HFdkLPdjY3d"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 514493,
       "name": "Javat y Kamel",
       "url": "https://open.spotify.com/track/3SgvnQco35HHgE75uMZ5C2"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "La Divina Comedia",
+        "url": "https://open.spotify.com/album/0zHgbxZY3wneOhYAr84jqx"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 196966,
+      "name": "La Divina Comedia",
+      "url": "https://open.spotify.com/track/4NZYvP5MEO9Y843laEakxz"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

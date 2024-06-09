@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 212173,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/7xaiwsZI7GTsMr4I9K5tCj"
@@ -5305,6 +5305,24 @@
     },
     {
       "album": {
+        "name": "Here's To The Years",
+        "url": "https://open.spotify.com/album/4rDmjLJ0zzV6HNEF53rEPu"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151691,
+      "name": "Here's To The Years",
+      "url": "https://open.spotify.com/track/5LZxLEQ2KIGcBKBC3KDETk"
+    },
+    {
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM"
       },
@@ -6894,7 +6912,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 254317,
       "name": "Leviathan",
       "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
@@ -9171,6 +9189,24 @@
     },
     {
       "album": {
+        "name": "Pictures of You",
+        "url": "https://open.spotify.com/album/5EC1eyGZyHGTTMQzO4YqSl"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/5jAJWEiul0dh390FLvF5ML"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM"
       },
@@ -9666,7 +9702,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 158997,
       "name": "Riding Through",
       "url": "https://open.spotify.com/track/55G6Uvo6zO7n7TUXXrT1Ty"
@@ -14396,6 +14432,24 @@
       "duration_ms": 206460,
       "name": "You Promised Me Love",
       "url": "https://open.spotify.com/track/0WVSpqEmsVyVs64i8Mkn3a"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Get It",
+        "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169455,
+      "name": "You're Gonna Get It",
+      "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
     },
     {
       "album": {

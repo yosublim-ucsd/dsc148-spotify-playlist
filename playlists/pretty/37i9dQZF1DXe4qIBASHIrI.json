@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 152646,
+  "num_followers": 152723,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -475,8 +475,8 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -575,8 +575,8 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Moctezuma",
-        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 345199,
-      "name": "Palapa",
-      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Border Revolver",
         "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 170438,
       "name": "Sastre Del Diablo",
       "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Moctezuma",
+        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 345199,
+      "name": "Palapa",
+      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kiosko",
         "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 253501,
       "name": "Kiosko",
       "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "LeBaron",
-        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
-      },
-      "artists": [
-        {
-          "name": "LeBaron",
-          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Exilio",
-      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 295800,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "LeBaron",
+        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
+      },
+      "artists": [
+        {
+          "name": "LeBaron",
+          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Exilio",
+      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 285247,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Dulce Mal",
         "url": "https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 285247,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bengala",
         "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
       },
@@ -1075,22 +1075,6 @@
       "duration_ms": 393453,
       "name": "Azul",
       "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Lejos. No Tan Lejos",
-        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248645,
-      "name": "Me Has Olvidado",
-      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Bar de Peter Pan",
-        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
+        "name": "Lejos. No Tan Lejos",
+        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
       },
       "artists": [
         {
-          "name": "Pau y Amigos",
-          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
         }
       ],
-      "duration_ms": 280853,
-      "name": "Fiesta Permanente",
-      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
+      "duration_ms": 248645,
+      "name": "Me Has Olvidado",
+      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1203,6 +1187,22 @@
       "duration_ms": 263760,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Bar de Peter Pan",
+        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
+      },
+      "artists": [
+        {
+          "name": "Pau y Amigos",
+          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Fiesta Permanente",
+      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1235,6 +1235,22 @@
       "duration_ms": 172500,
       "name": "Lo Que Puedes Dar",
       "url": "https://open.spotify.com/track/6UKas8a0cOxZjptZi26GWV"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Techo es el Suelo",
+        "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "duration_ms": 280083,
+      "name": "Dias Perfectos",
+      "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1283,22 +1299,6 @@
       "duration_ms": 374626,
       "name": "Arena",
       "url": "https://open.spotify.com/track/4ikqBzdldCYqaY56KFqD2B"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "El Techo es el Suelo",
-        "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
-      },
-      "artists": [
-        {
-          "name": "Quiero Club",
-          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
-        }
-      ],
-      "duration_ms": 280083,
-      "name": "Dias Perfectos",
-      "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Saga Mama",
-        "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
-      },
-      "artists": [
-        {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "Maldito",
-      "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bella \u00c9poca",
         "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 174120,
       "name": "Dej\u00e9 de Ser Yo",
       "url": "https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Saga Mama",
+        "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Gazapo",
-        "url": "https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1"
       },
       "artists": [
         {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+          "name": "60 Tigres",
+          "url": "https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV"
         }
       ],
-      "duration_ms": 228010,
-      "name": "Valedor",
-      "url": "https://open.spotify.com/track/4OPMjEVvcoAOGu3XaB6nzd"
+      "duration_ms": 255869,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1547,34 +1547,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1"
+        "name": "Gazapo",
+        "url": "https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT"
       },
       "artists": [
         {
-          "name": "60 Tigres",
-          "url": "https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV"
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
         }
       ],
-      "duration_ms": 255869,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Never Greens, Vol. 1",
-        "url": "https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh"
-      },
-      "artists": [
-        {
-          "name": "Los Fancy Free",
-          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Ja Ja Ja",
-      "url": "https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn"
+      "duration_ms": 228010,
+      "name": "Valedor",
+      "url": "https://open.spotify.com/track/4OPMjEVvcoAOGu3XaB6nzd"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1591,6 +1575,22 @@
       "duration_ms": 191520,
       "name": "Curse the Space",
       "url": "https://open.spotify.com/track/2Ryk5DzBoaJsIVtAUFfd95"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Never Greens, Vol. 1",
+        "url": "https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh"
+      },
+      "artists": [
+        {
+          "name": "Los Fancy Free",
+          "url": "https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Ja Ja Ja",
+      "url": "https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn"
     },
     {
       "added_at": "2023-09-01 16:42:45",

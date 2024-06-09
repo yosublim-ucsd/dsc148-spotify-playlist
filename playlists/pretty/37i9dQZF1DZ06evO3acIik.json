@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 55113,
+  "num_followers": 55126,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAAAN/hxnApyOP6n9YJHtS65a",
+  "snapshot_id": "ZmJNgAAAAABvjCtKzELDEXsJHfnXGMas",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
     },
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/2LtCEKs68u3RpNh4wybCF8"
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+      "duration_ms": 164000,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/5OsHySqSwYLLfot5EswbON"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Altitude",
-      "url": "https://open.spotify.com/track/5OsHySqSwYLLfot5EswbON"
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 142285,
-      "name": "Exscape",
-      "url": "https://open.spotify.com/track/2JxPgHghyuG0SKNy8htBWg"
+      "duration_ms": 193671,
+      "name": "Pretend Lovers",
+      "url": "https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Pretend Lovers",
-      "url": "https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB"
+      "duration_ms": 148000,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
     },
     {
       "added_at": null,
@@ -400,29 +400,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/21MjiNNSZylKr74tEuGHpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+      "duration_ms": 186000,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7qsQw6eSn1x8sO4OrQAHne"
     },
     {
       "added_at": null,
@@ -443,6 +423,26 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
     },
     {
       "added_at": null,
@@ -795,26 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holding Me Down",
-        "url": "https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q"
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
       "artists": [
         {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        },
-        {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Holding Me Down",
-      "url": "https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof"
+      "duration_ms": 183656,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
     },
     {
       "added_at": null,
@@ -839,18 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+        "name": "Holding Me Down",
+        "url": "https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q"
       },
       "artists": [
         {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
         }
       ],
-      "duration_ms": 183656,
-      "name": "Heavenly Father",
-      "url": "https://open.spotify.com/track/7zZXxDiDWpCy9xcldN6lo9"
+      "duration_ms": 195428,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof"
     },
     {
       "added_at": null,

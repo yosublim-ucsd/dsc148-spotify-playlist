@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 396445,
+  "num_followers": 396490,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Un D\u00eda en el Mundo",
-        "url": "https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh"
-      },
-      "artists": [
-        {
-          "name": "Vetusta Morla",
-          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
-        }
-      ],
-      "duration_ms": 303693,
-      "name": "Copenhague",
-      "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 216566,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Un D\u00eda en el Mundo",
+        "url": "https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "duration_ms": 303693,
+      "name": "Copenhague",
+      "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "GP",
-        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "Fruta y T\u00e9",
-      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Magia & Efectos Especiales",
         "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 273893,
       "name": "Qu\u00e9 Bien",
       "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "GP",
+        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "Fruta y T\u00e9",
+      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Viento de Cara",
         "url": "https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 257106,
       "name": "Viento de Cara",
       "url": "https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 327739,
-      "name": "La Noche Eterna",
-      "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
         "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 231160,
       "name": "Club de fans de John Boy",
       "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 327739,
+      "name": "La Noche Eterna",
+      "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Quiero Que Me Llames",
-      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "Pedropiedra (Reedici\u00f3n)",
         "url": "https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 251453,
       "name": "Sincericidio",
       "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 258106,
+      "name": "Quiero Que Me Llames",
+      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         }
       ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+      "duration_ms": 337453,
+      "name": "All\u00ed donde sol\u00edamos gritar",
+      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -775,18 +775,34 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
-        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 337453,
-      "name": "All\u00ed donde sol\u00edamos gritar",
-      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
+      "duration_ms": 88880,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -803,22 +819,6 @@
       "duration_ms": 172646,
       "name": "Parque Acu\u00e1tico",
       "url": "https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
-        "name": "La Dinast\u00eda Scorpio",
-        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 88880,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
         "name": "Lucha De Gigantes",
         "url": "https://open.spotify.com/album/3qcDcfZbiPkWFXwobesAvy"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 206880,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/1ozbWlTQASs311dSO5R6vp"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-05-02 23:44:21",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-05-02 23:44:21",
       "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "En Avenidas",
-      "url": "https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd"
-    },
-    {
-      "added_at": "2024-05-02 23:44:21",
-      "album": {
         "name": "La Gran Esfera",
         "url": "https://open.spotify.com/album/5f1cJH6cg1uxKKkQDPOfvh"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 270895,
       "name": "El Momento",
       "url": "https://open.spotify.com/track/3YlFNZ4iquJHPX6scKROns"
+    },
+    {
+      "added_at": "2024-05-02 23:44:21",
+      "album": {
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "En Avenidas",
+      "url": "https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd"
     },
     {
       "added_at": "2024-05-02 23:44:21",

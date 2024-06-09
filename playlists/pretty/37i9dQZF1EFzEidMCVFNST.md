@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 355 songs - 16 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 356 songs - 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 91 | [Das Duas Uma \- Ao Vivo](https://open.spotify.com/track/60my4m9PH1RTxZL6UhfCsZ) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Das Duas Uma \(Ao Vivo\)](https://open.spotify.com/album/2gkroX2qlcgQnOb4Z8IuF8) | 2:46 |
 | 92 | [Meio Termo \- Ao Vivo](https://open.spotify.com/track/4WCASmqrmO9MXmzMGqgxKt) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Avine em Sampa \(Ao Vivo\)](https://open.spotify.com/album/6mS5rTuELs0f3YmLN4ybpY) | 3:13 |
 | 93 | [Beba Mais](https://open.spotify.com/track/6rR6G2Jczsf9ldmewLhIRe) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Beba Mais](https://open.spotify.com/album/27rNQ2moFYiYsdIMeIACUJ) | 2:55 |
-| 94 | [Love Full Time](https://open.spotify.com/track/3T9uRc4yeZnHuiYotbUINk) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE), [Netto](https://open.spotify.com/artist/3AuBwQwLPbM2JMnSq89nSW) | [Love Full Time](https://open.spotify.com/album/5SQGqmaQTsLyMNzGZh6q7f) | 2:35 |
-| 95 | [Ainda \- Ao Vivo](https://open.spotify.com/track/5UsdVSAY3W7PsWjBSllafe) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi) | [Só Dessa Vez \(Ao Vivo\)](https://open.spotify.com/album/3AZip62HavQQz8eTV2Pqbg) | 2:46 |
+| 94 | [Ainda \- Ao Vivo](https://open.spotify.com/track/5UsdVSAY3W7PsWjBSllafe) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi) | [Só Dessa Vez \(Ao Vivo\)](https://open.spotify.com/album/3AZip62HavQQz8eTV2Pqbg) | 2:46 |
+| 95 | [Love Full Time](https://open.spotify.com/track/3T9uRc4yeZnHuiYotbUINk) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE), [Netto](https://open.spotify.com/artist/3AuBwQwLPbM2JMnSq89nSW) | [Love Full Time](https://open.spotify.com/album/5SQGqmaQTsLyMNzGZh6q7f) | 2:35 |
 | 96 | [Marque Alguém \- Ao Vivo](https://open.spotify.com/track/5EQP15IuWB6lncatia3yGo) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Marque Alguém \(Ao Vivo\)](https://open.spotify.com/album/5mImZWnI58Aedwg81ZzQS1) | 2:57 |
 | 97 | [Tu Quer Enganar Quem \(Ao Vivo\)](https://open.spotify.com/track/0lOUg9CDcFmtsBu4AMVMCe) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Tu Quer Enganar Quem \(Ao Vivo\)](https://open.spotify.com/album/7aDL6TB9BMODHG4h32RLYe) | 2:39 |
 | 98 | [Viajante de Corações](https://open.spotify.com/track/1f9qtqV7NfcPeGPSujrxEy) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Viajante de Corações](https://open.spotify.com/album/6lLM4NDNxEHBNHeYE7OrZk) | 2:53 |
@@ -362,6 +362,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 352 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 |
 | 353 | [A Mala](https://open.spotify.com/track/63c83YDpAv9lNMki7WxpvD) | [Banda Os3](https://open.spotify.com/artist/11h78bXFcmu3cQrNsRSulG) | [A Mala](https://open.spotify.com/album/4g6F3WuVRHQVHQSKaDxVmK) | 2:44 |
 | 354 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
-| 355 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
+| 355 | [Pra Mim Já Deu](https://open.spotify.com/track/5pqxxqrimhw4MvWt2VpF5N) | [Marcos Junior](https://open.spotify.com/artist/21qtIXMQloy90K1297vwAx) | [Terceiro Disco](https://open.spotify.com/album/0gL5IspFhmEyN44gjTvHfs) | 2:43 |
+| 356 | [Me Perdoa](https://open.spotify.com/track/35Q9lkIZ41LgBvhw9YcZhV) | [Henzo & Vinicius](https://open.spotify.com/artist/1ccw4Eimn9DDkATmxZTXfj) | [Ele Te Ama](https://open.spotify.com/album/3Fm72AxQOKmxOOKos5iB6u) | 2:37 |
 
-Snapshot ID: `AbTczAAAAADEOQPblkWRMbKXZczCeLQX`
+Snapshot ID: `AbTiqAAAAAAE8BYaiyUnDpRpAuhFi0U6`

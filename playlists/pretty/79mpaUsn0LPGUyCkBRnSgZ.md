@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 499 songs - 1 day 8 hr 40 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 501 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -507,5 +507,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 497 | [Every Now and Then](https://open.spotify.com/track/76JZPE1ALAITC0KngD5Jhp) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Descendants of Cain](https://open.spotify.com/album/0yhyMBfxKhjy1f7TsXXssl) | 3:34 |
 | 498 | [She’s Expecting You \(feat\. Phylicia Rashad\)](https://open.spotify.com/track/7Epbvcmjoh3CCOP5RtSVI3) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Phylicia Rashad](https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 1:08 |
 | 499 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
+| 500 | [Hot Tent Blues](https://open.spotify.com/track/71Vlx8pCp21bmgNx9PZsx5) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 1:15 |
+| 501 | [\(…\)](https://open.spotify.com/track/10t3LYApAgfZi8ok52rj4e) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E) | 2:36 |
 
-Snapshot ID: `AAAGDBAZx1hTNA+2g2WiyhqqItbdi89m`
+Snapshot ID: `AAAGDhV0EoCYWkS1U+FmGQyXL42CfdtK`

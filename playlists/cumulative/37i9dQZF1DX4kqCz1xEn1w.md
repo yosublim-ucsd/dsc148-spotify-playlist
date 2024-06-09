@@ -4,7 +4,7 @@
 
 > Victory over death has been won today, forever!
 
-213 songs - 19 hr 50 min
+214 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Jesus Only You](https://open.spotify.com/track/5Q8jVqmSihneKmuvQ5qnOF) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [New Stories](https://open.spotify.com/album/0tLz79s8kT9LGp5KFrBNhO) | 4:43 | 2022-04-17 | 2024-03-21 |
 | [Jesus Only You](https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Jesus Only You](https://open.spotify.com/album/6GjX0hYpOrGN8P01qGl8Wy) | 4:43 | 2021-04-04 | 2022-07-29 |
 | [Jesus Paid It All](https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ) | 5:46 | 2022-04-17 |  |
+| [Jesus Victorious](https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm) | [Mozaiek Worship](https://open.spotify.com/artist/7h4EivNSDwUKAn0O2EVYqZ), [Kees Kraayenoord](https://open.spotify.com/artist/10WtuxUJ22JY0d03VCT070) | [Jesus Victorious](https://open.spotify.com/album/32SVBmVICRKdy1WMsReKZy) | 6:18 | 2024-03-20 |  |
 | [Jesus You Alone](https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Jesus You Alone](https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK) | 6:12 | 2021-04-04 |  |
 | [Just One Drop \- Live From New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live From New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 | 2023-04-02 |  |
 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 | 2022-04-02 |  |
@@ -153,7 +154,7 @@
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-04-02 |  |
 | [One Thing Remains \- Radio Version](https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion Collection](https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn) | 3:59 | 2022-04-02 |  |
 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 | 2022-04-02 |  |
-| [Our God Is Alive](https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [With/In](https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4) | 4:47 | 2021-04-04 |  |
+| [Our God Is Alive](https://open.spotify.com/track/2CAztZQ7LpJdtiIBhHWgnM) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [With/In](https://open.spotify.com/album/24VYLFYasTOQhFXVv2HUE4) | 4:47 | 2021-04-04 | 2024-06-09 |
 | [Peace Be Still \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth](https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty) | 8:06 | 2021-04-04 | 2022-07-29 |
 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 | 2022-04-17 | 2024-04-19 |
 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 | 2021-04-04 |  |

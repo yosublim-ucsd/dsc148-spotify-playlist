@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,871 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,903 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 42 | [Kasoor \(From "Dhamaka"\) \- Acoustic](https://open.spotify.com/track/7mJdz7uNv3jgVSIMkSf8ca) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Kasoor \(From "Dhamaka"\) \[Acoustic\]](https://open.spotify.com/album/76iQl56z8NPaGQz94z3EBr) | 3:33 |
 | 43 | [Khoya Khoya Chand](https://open.spotify.com/track/51B6XqPMA0fItkcMcq7gnO) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Ajay Jhingaran](https://open.spotify.com/artist/4S7CMv1K2cVvTl6ZF3bSFX) | [Khoya Khoya Chand](https://open.spotify.com/album/58NHz9xVnJTso3NpkAqlEs) | 5:31 |
 | 44 | [Jab Mila Tu](https://open.spotify.com/track/6Sp7azay1NZU4wxlFacWCl) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 4:11 |
-| 45 | [Calcutta Kiss](https://open.spotify.com/track/0EW0vgSbNJJR5nZRJqpDHx) | [Imaad Shah](https://open.spotify.com/artist/4Vp8UAyIKR4I8DDlKSbsf6), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Detective Byomkesh Bakshy](https://open.spotify.com/album/4Qlx6Lci22yKq8sfQz7Bwr) | 3:10 |
+| 45 | [Calcutta Kiss](https://open.spotify.com/track/0EW0vgSbNJJR5nZRJqpDHx) | [Madboy Mink](https://open.spotify.com/artist/6WdlbA0TU3weyw5Myzfm9p), [Imaad Shah](https://open.spotify.com/artist/4Vp8UAyIKR4I8DDlKSbsf6), [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Detective Byomkesh Bakshy](https://open.spotify.com/album/4Qlx6Lci22yKq8sfQz7Bwr) | 3:10 |
 | 46 | [Quaid \- From "Sergeant"](https://open.spotify.com/track/2XS3shLqt7e2UzI4pAsFiI) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Tushar Lall](https://open.spotify.com/artist/0mYyv7oJBTdZTZSDSkOLRr), [Anupam Sidhant](https://open.spotify.com/artist/6GigXGHMnDcWYxYjwZb2H6) | [Quaid \(From "Sergeant"\)](https://open.spotify.com/album/46DvUS0MM0nyRbmg4OmEg8) | 2:16 |
 | 47 | [Fanny Re](https://open.spotify.com/track/5aQmVVDfhSbY6KcaJHCQVP) | [Mathias Duplessy](https://open.spotify.com/artist/43aKbycIA40vHixe0yBZJx), [Mukhtiyar Ali](https://open.spotify.com/artist/4aSZP4ZqnYVatfXOZ8g1ru) | [Finding Fanny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HKkl2LFxkxJ8RaiaL7Whn) | 3:06 |
 | 48 | [Dil Ki Toh Lag Gayi](https://open.spotify.com/track/744BhALa5sLOF31Je1dXom) | [Saba Azad](https://open.spotify.com/artist/3e0EOxOZYDZX87m6oTOXOt) | [Nautanki Saala !](https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV) | 4:11 |

@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2024 🍉
 
-373 songs - 18 hr 14 min
+374 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-30 |  |
 | [Castles](https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Castles](https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik) | 3:35 | 2022-12-20 | 2023-03-18 |
 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-05-17 | 2023-06-11 |
+| [Chocolate](https://open.spotify.com/track/5YGQ29f9zUVj1gSmUxRBTv) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Chocolate](https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91) | 2:25 | 2024-06-07 |  |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2022-05-06 | 2022-07-29 |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2023-03-21 | 2023-05-05 |
 | [Close To Me](https://open.spotify.com/track/6xnkPN6Y9mygrVLENOl9C3) | [PANDAS!](https://open.spotify.com/artist/7uZm33YilKaGOr7p4NJniX) | [Close To Me](https://open.spotify.com/album/2crlt7QT4p79ZAAOaYyLHu) | 2:59 | 2022-10-07 | 2023-05-05 |
@@ -101,7 +102,7 @@
 | [Don't You Wanna Play?](https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Don't You Wanna Play?](https://open.spotify.com/album/3i5KKkquh96MJz4IbA96IO) | 2:18 | 2022-05-06 | 2024-03-29 |
 | [Dreams](https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Dreams](https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI) | 3:55 | 2023-03-19 | 2023-07-12 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-05-15 | 2023-07-09 |
-| [Drive ft\. KIDDO](https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Drive ft\. KIDDO](https://open.spotify.com/album/10qvBn2MB8C4qGdj2aSymU) | 2:19 | 2024-04-05 |  |
+| [Drive ft\. KIDDO](https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Drive ft\. KIDDO](https://open.spotify.com/album/10qvBn2MB8C4qGdj2aSymU) | 2:19 | 2024-04-05 | 2024-06-09 |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2024-03-28 |  |
 | [Drunk On You](https://open.spotify.com/track/0myKfeH41EQVICDh5WThhl) | [NIXO](https://open.spotify.com/artist/6mxZJKSf470rESPwB2Ce4s) | [Drunk On You](https://open.spotify.com/album/61LvxY4HDjxI52U39PR5IV) | 2:25 | 2022-05-17 | 2022-06-30 |
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-09-01 |  |

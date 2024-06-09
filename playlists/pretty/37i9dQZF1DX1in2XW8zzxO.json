@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 69715,
+  "num_followers": 69779,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Umsebenzi Wethu, Vol. 2",
-        "url": "https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV"
-      },
-      "artists": [
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        }
-      ],
-      "duration_ms": 377624,
-      "name": "Ngixolele",
-      "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
         "name": "Umona",
         "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 368588,
       "name": "Umona",
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Umsebenzi Wethu, Vol. 2",
+        "url": "https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "duration_ms": 377624,
+      "name": "Ngixolele",
+      "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -623,6 +623,34 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
+        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Tyrondee",
+          "url": "https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat"
+        }
+      ],
+      "duration_ms": 381768,
+      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
         "name": "Funk 55",
         "url": "https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb"
       },
@@ -651,34 +679,6 @@
       "duration_ms": 373821,
       "name": "Funk 55",
       "url": "https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
-      },
-      "artists": [
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        },
-        {
-          "name": "Tumelo_za",
-          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
-        },
-        {
-          "name": "Tyrondee",
-          "url": "https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat"
-        }
-      ],
-      "duration_ms": 381768,
-      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
+        "name": "Monate Mogwanti",
+        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
+      },
+      "artists": [
+        {
+          "name": "Thama Tee",
+          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
+        }
+      ],
+      "duration_ms": 327868,
+      "name": "Monate Mogwanti",
+      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
         "name": "Woza La!",
         "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 484285,
       "name": "Woza La!",
       "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "Monate Mogwanti",
-        "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
-      },
-      "artists": [
-        {
-          "name": "Thama Tee",
-          "url": "https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR"
-        }
-      ],
-      "duration_ms": 327868,
-      "name": "Monate Mogwanti",
-      "url": "https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "La Maluka",
-        "url": "https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch"
       },
       "artists": [
         {
-          "name": "Blaqnick & MasterBlaq",
-          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
         }
       ],
-      "duration_ms": 274285,
-      "name": "La Maluka",
-      "url": "https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7"
+      "duration_ms": 358938,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/64uHIutDM1LeKX12mONusv"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

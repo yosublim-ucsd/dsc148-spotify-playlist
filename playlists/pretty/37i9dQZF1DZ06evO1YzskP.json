@@ -1,12 +1,12 @@
 {
   "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
-  "num_followers": 24435,
+  "num_followers": 24485,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl+qgAAAAADW0PyQPMezcka37gkK2jq0",
+  "snapshot_id": "ZmJNgAAAAADof/ASd6alBiWgBFDAKJg9",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciega X \u00c9l",
+        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 235775,
+      "name": "Ciega X \u00c9l",
+      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotos Hot",
-        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Fotos Hot",
-      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pap\u00e1 De Los Pitufos",
         "url": "https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 149946,
       "name": "El Pap\u00e1 De Los Pitufos",
       "url": "https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "El Nieto Del Mayo",
+      "url": "https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk"
     },
     {
       "added_at": null,
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+        "name": "Fotos Hot",
+        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
       },
       "artists": [
         {
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 191973,
-      "name": "El Nieto Del Mayo",
-      "url": "https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk"
+      "duration_ms": 177786,
+      "name": "Fotos Hot",
+      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
     },
     {
       "added_at": null,
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 167133,
-      "name": "El Ni\u00f1o De La Tuna",
-      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
     },
     {
       "added_at": null,
@@ -759,6 +775,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Firme el Sombrero",
+        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
+      },
+      "artists": [
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 140341,
+      "name": "Bien Firme el Sombrero",
+      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "El Ni\u00f1o De La Tuna",
+      "url": "https://open.spotify.com/track/5PKyJ6jMIqtSPfR7vmDOC2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El JP (En Vivo)",
         "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
       },
@@ -779,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sombrero De Lado",
         "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
@@ -807,26 +843,6 @@
       "duration_ms": 158733,
       "name": "El Sombero De Lado",
       "url": "https://open.spotify.com/track/77TZY5sLHOkjSjgiF4hLqa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Firme el Sombrero",
-        "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
-      },
-      "artists": [
-        {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 140341,
-      "name": "Bien Firme el Sombrero",
-      "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
     },
     {
       "added_at": null,
@@ -867,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Finta De Fresitas",
+        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Finta De Fresitas",
+      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listos Pal\u00b4 Top\u00f3n",
         "url": "https://open.spotify.com/album/4Yx50RINop4qGfr4cNG8xn"
       },
@@ -883,22 +915,6 @@
       "duration_ms": 136973,
       "name": "Listos Pal\u00b4 Top\u00f3n",
       "url": "https://open.spotify.com/track/339rM4AlAy4uUmfuu5Tk7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finta De Fresitas",
-        "url": "https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Finta De Fresitas",
-      "url": "https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh"
     },
     {
       "added_at": null,

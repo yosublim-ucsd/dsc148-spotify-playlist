@@ -9704,6 +9704,10 @@
           "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         },
         {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
           "name": "Turma do Pagode",
           "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
         },
@@ -9722,10 +9726,6 @@
         {
           "name": "DJ WN",
           "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
         }
       ],
       "date_added": "2024-03-15",
@@ -10798,7 +10798,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-09",
       "duration_ms": 224842,
       "name": "Quando Ela Passa",
       "url": "https://open.spotify.com/track/5TICCjmrEB2tROC4PIPjtp"
@@ -12274,6 +12274,72 @@
       "duration_ms": 313333,
       "name": "Set Loja Kings",
       "url": "https://open.spotify.com/track/6FdfJI0SllgNcVzD4sqZvq"
+    },
+    {
+      "album": {
+        "name": "Set Vini JR. - Os Pretos No Devido Lugar",
+        "url": "https://open.spotify.com/album/1puoI6sbYwI2vx2gY6PaTS"
+      },
+      "artists": [
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Ice Blue",
+          "url": "https://open.spotify.com/artist/51u48Kw2ZXE9iyFWNvJRmT"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1000192,
+      "name": "Set Vini JR. - Os Pretos No Devido Lugar",
+      "url": "https://open.spotify.com/track/7ksXMdL7ULEVfnknjoZC23"
     },
     {
       "album": {
