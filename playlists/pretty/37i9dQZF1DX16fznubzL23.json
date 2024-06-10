@@ -1,6 +1,6 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 25729,
+  "num_followers": 25745,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-06-06 20:02:34",
       "album": {
+        "name": "Home - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI"
+    },
+    {
+      "added_at": "2024-06-06 20:02:34",
+      "album": {
         "name": "Love & Light",
         "url": "https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu"
       },
@@ -935,22 +955,6 @@
       "duration_ms": 152241,
       "name": "Don't Call Me Back",
       "url": "https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv"
-    },
-    {
-      "added_at": "2024-06-06 20:02:34",
-      "album": {
-        "name": "Tin Ton Tan",
-        "url": "https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV"
-      },
-      "artists": [
-        {
-          "name": "Amerado",
-          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
-        }
-      ],
-      "duration_ms": 195556,
-      "name": "Tin Ton Tan",
-      "url": "https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T"
     }
   ],
   "unique_name": "End in Tears ",

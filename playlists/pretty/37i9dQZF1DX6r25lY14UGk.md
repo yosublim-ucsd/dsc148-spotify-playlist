@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,900 likes - 228 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,988 likes - 228 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,7 +191,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 181 | [Happy Whale \(Shake Your Tail\)](https://open.spotify.com/track/4PdUr73v2I1rLJIV9qEURu) | [Orange Splosh](https://open.spotify.com/artist/4VwmJfQjttfbV8RuPPPUe5) | [Happy Whale \(Shake Your Tail\)](https://open.spotify.com/album/11dBLNSaUvwal4ISFQRlD9) | 1:40 |
 | 182 | [Counting Fire Trucks](https://open.spotify.com/track/2TRQB9SRzixkgYpseXmEkv) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Counting Firetrucks](https://open.spotify.com/album/4PHcqtf0HqrSSuRsTeLzQu) | 1:45 |
 | 183 | [Houdini](https://open.spotify.com/track/2Nwn4dQ20bDNcxLXF59Kn9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Houdini](https://open.spotify.com/album/3cN7jPYAA3oxyEOu0Or6sr) | 3:00 |
-| 184 | [Muffin Man](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon Dance Party](https://open.spotify.com/artist/51Lx4oj0jlay4n73B2K9uZ) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 |
+| 184 | [Muffin Man \- Dance Party](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 |
 | 185 | [ABC Hop](https://open.spotify.com/track/0SweSPRBxWZGqnTbgTqPPG) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [ABC Hop](https://open.spotify.com/album/3ya0heF7LIzAz5B0nCZmyO) | 3:11 |
 | 186 | [Is This A Dream?](https://open.spotify.com/track/6gBe3w57udxzCBv7RQnDub) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Tell Your Tale \- Vol.4](https://open.spotify.com/album/2YUJk2Hj0JmRKl2fpQY13e) | 2:10 |
 | 187 | [Little Bee](https://open.spotify.com/track/19FeiLU74l2KTrSEkfQsJI) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Plim Plim Nursery Rhymes Vol\. 7](https://open.spotify.com/album/7GaoK6WjY23hpckDSRlTKm) | 2:07 |

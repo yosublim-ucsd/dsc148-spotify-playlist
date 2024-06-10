@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1361926,
+  "num_followers": 1362241,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -159,6 +143,38 @@
       "duration_ms": 282946,
       "name": "Through Glass",
       "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Lonely Day",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -227,22 +243,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Lonely Day",
-      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "No More Tears (Expanded Edition)",
         "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 346960,
-      "name": "Love Bites - Remastered 2017",
-      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
         "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "War is the Answer",
-        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Firehouse (2024 Remaster)",
         "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 236866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "War is the Answer",
+        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Karmacode",
-        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Enjoy the Silence - cover version",
-      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Karmacode",
+        "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Enjoy the Silence - cover version",
+      "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Welcome to My Nightmare",
-        "url": "https://open.spotify.com/album/4QhvqS4OQ4Lxe78Bafn8VH"
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
       },
       "artists": [
         {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 210933,
-      "name": "Only Women Bleed",
-      "url": "https://open.spotify.com/track/59xDvLlKHcLI0c9CSmzxSN"
+      "duration_ms": 430826,
+      "name": "Prisoner of Your Eyes",
+      "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Screaming For Vengeance",
-        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+        "name": "Welcome to My Nightmare",
+        "url": "https://open.spotify.com/album/4QhvqS4OQ4Lxe78Bafn8VH"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 430826,
-      "name": "Prisoner of Your Eyes",
-      "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
+      "duration_ms": 210933,
+      "name": "Only Women Bleed",
+      "url": "https://open.spotify.com/track/59xDvLlKHcLI0c9CSmzxSN"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1199,6 +1199,22 @@
       "duration_ms": 265306,
       "name": "Just Take My Heart - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Prisoners In Paradise",
+        "url": "https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 321266,
+      "name": "I'll Cry For You",
+      "url": "https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Prisoners In Paradise",
-        "url": "https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 321266,
-      "name": "I'll Cry For You",
-      "url": "https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Shrine Of New Generation Slaves",
         "url": "https://open.spotify.com/album/6bS5UWfIw3nnDBvvLlwTdW"
       },
@@ -1283,18 +1283,34 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "The Sacrament of Sin",
-        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
       },
       "artists": [
         {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Where the Wild Wolves Have Gone",
-      "url": "https://open.spotify.com/track/0YrUDBOsnIiUNISpGOtwCA"
+      "duration_ms": 286866,
+      "name": "The Crown and the Ring (Lament of the Kings)",
+      "url": "https://open.spotify.com/track/0TgEygavxNNlwbua53OiKE"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Black Clouds & Silver Linings (Special Edition)",
+        "url": "https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 325960,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/4MY2jh37Rir45QH6YAkB8W"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+        "name": "The Sacrament of Sin",
+        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
       },
       "artists": [
         {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
         }
       ],
-      "duration_ms": 286866,
-      "name": "The Crown and the Ring (Lament of the Kings)",
-      "url": "https://open.spotify.com/track/0TgEygavxNNlwbua53OiKE"
+      "duration_ms": 253760,
+      "name": "Where the Wild Wolves Have Gone",
+      "url": "https://open.spotify.com/track/0YrUDBOsnIiUNISpGOtwCA"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1343,22 +1359,6 @@
       "duration_ms": 359997,
       "name": "4000 Rainy Nights - Remastered 2016",
       "url": "https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
-        "name": "Black Clouds & Silver Linings (Special Edition)",
-        "url": "https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 325960,
-      "name": "Wither",
-      "url": "https://open.spotify.com/track/4MY2jh37Rir45QH6YAkB8W"
     },
     {
       "added_at": "2024-01-02 10:36:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-01-02 10:36:29",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6PfpFynKzUEFitHt7BwcVL"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/5aUtonvQxGEL8T1rKI3J01"
-    },
-    {
-      "added_at": "2024-01-02 10:36:29",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/4jP59Kwqvy3n09eUe1Cge7"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 227733,
       "name": "The Silent Man",
       "url": "https://open.spotify.com/track/2vzfV6LgfAWtv7JeSoEPFO"
+    },
+    {
+      "added_at": "2024-01-02 10:36:29",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6PfpFynKzUEFitHt7BwcVL"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/5aUtonvQxGEL8T1rKI3J01"
     },
     {
       "added_at": "2024-01-02 10:36:29",

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: HOMIES\(호미들\)\)
 
-1,240 songs - 2 day 19 hr 19 min
+1,242 songs - 2 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Dumb](https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:54 | 2023-06-23 | 2023-09-15 |
 | [E MINOR FREESTYLE](https://open.spotify.com/track/7FQeQXRLz0mHpPiCwdDRw8) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 4:43 | 2022-08-12 | 2022-09-28 |
 | [E\-Girl \(Feat\. So!YoON!\)](https://open.spotify.com/track/3NnTjY5oUN3rg5rEBLm6At) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [SWEET HE♡RT](https://open.spotify.com/album/55QqeroaRqbgA9wp4mIQHo) | 2:47 | 2024-05-10 |  |
+| [Early Morning](https://open.spotify.com/track/1ezAwe29BwDyc7qgjFGdqm) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [MEMO／EARLY MORNING](https://open.spotify.com/album/7bVtWqFNC2jmzVocrZczq3) | 2:00 | 2024-06-10 |  |
 | [EASY](https://open.spotify.com/track/4thopfiFNea6D31uMXsmRv) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [EASY](https://open.spotify.com/album/1bKEk8d6NlO1twrcneMvw5) | 2:43 | 2023-07-11 | 2023-08-17 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-20 |  |
 | [EGG RICE](https://open.spotify.com/track/4pen9dLfeSHfI3uuXibiYU) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [EGG RICE](https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z) | 2:51 | 2022-05-28 | 2022-07-20 |
@@ -1019,6 +1020,7 @@
 | [Summer \(Feat\. Jay Park\)](https://open.spotify.com/track/1hoSs6QAQkxDkOyKM3OHMW) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Summer](https://open.spotify.com/album/6h1iG7zXNitBgYP096Dhcp) | 2:31 | 2022-01-20 | 2022-07-06 |
 | [Summer Hate \(Feat\. Rain\)](https://open.spotify.com/track/0t3Jr6FABrKYLxGgdbco3f) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [RANDOM BOX](https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8) | 3:04 | 2022-03-26 | 2022-04-18 |
 | [Summer Love \(feat\. Verbal Jint, Basick\)](https://open.spotify.com/track/7yKrmBcGoUO5pjfApa1AsG) | [Lil Cats](https://open.spotify.com/artist/5LaXV8vstuhyeMmNmPiMkN), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [베이식\(Basick\)](https://open.spotify.com/artist/19nNwjtFLHcZjBdgjUlXtK) | [Summer Love](https://open.spotify.com/album/1htDzzqye3kEVmyQvwVgic) | 3:59 | 2021-12-18 | 2022-07-08 |
+| [Summer Time Perfect For MONCLER](https://open.spotify.com/track/4TCNdwl2kKv6VrlsI7djWG) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [HEAT TAPE](https://open.spotify.com/album/08afahAF1rhA54fXgOkMiw) | 3:43 | 2024-06-10 |  |
 | [SUN & MOON](https://open.spotify.com/track/5hydYnlC66FvUwY5nYp9sI) | [wethefuture\(위더퓨쳐\)](https://open.spotify.com/artist/1MvKRHxbDeKDNdyl4avLT2) | [SUN & MOON](https://open.spotify.com/album/6zeyo05K5MbpV6ck1m422P) | 3:19 | 2022-07-27 | 2022-10-30 |
 | [SUN GOES DOWN \(Prod\. R.Tee\)](https://open.spotify.com/track/1pzMTqvKABFaYYde4coFSg) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:50 | 2022-10-29 | 2023-07-18 |
 | [Sunday](https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc) | [BEAT SOMEONE](https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Sunday](https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny) | 3:16 | 2022-12-26 | 2023-01-20 |

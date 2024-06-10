@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 459632,
+  "num_followers": 459654,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -103,22 +119,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Essa \u00c9 Pra Voc\u00eas",
         "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
       },
@@ -135,22 +135,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Tim Maia 1973",
         "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 217604,
       "name": "R\u00e9u Confesso",
       "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -207,26 +207,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 157494,
-      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
-      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -259,6 +239,42 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
+      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
         "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 232800,
       "name": "Malandragem d\u00e1 um Tempo",
       "url": "https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Conto de Areia",
-        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "O Mar Serenou",
-      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -675,30 +675,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Chega",
-        "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 185544,
-      "name": "Chega",
-      "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Um dos Poetas do Samba",
         "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
       },
@@ -731,18 +707,26 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Falso Brilhante",
-        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
+        "name": "Chega",
+        "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
       },
       "artists": [
         {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Velha Roupa Colorida",
-      "url": "https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG"
+      "duration_ms": 185544,
+      "name": "Chega",
+      "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -763,6 +747,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Falso Brilhante",
+        "url": "https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Velha Roupa Colorida",
+      "url": "https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Swing de Campo Grande",
-      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Ao Vivo No Parque Madureira (Deluxe)",
         "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 216866,
       "name": "O Show Tem Que Continuar - Ao Vivo",
       "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Swing de Campo Grande",
+      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Bicho De 7 Cabe\u00e7as",
-        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 212160,
-      "name": "Taxi Lunar",
-      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Bis (Dois CDs)",
         "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 249960,
       "name": "Lindo Lago Do Amor",
       "url": "https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Bicho De 7 Cabe\u00e7as",
+        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Taxi Lunar",
+      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Vamos Pro Mundo",
-        "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Na Cad\u00eancia Do Samba",
-      "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Nos Botequins Da Vida",
         "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 190106,
       "name": "Olho por Olho",
       "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Feira De Mangaio",
+      "url": "https://open.spotify.com/track/42ECxaPackxKgMns8zAvW9"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Eu Vou Fazer Voc\u00ea Voar",
-        "url": "https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF"
+        "name": "Vamos Pro Mundo",
+        "url": "https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 216053,
-      "name": "Eu Vou Fazer Voc\u00ea Voar",
-      "url": "https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF"
+      "duration_ms": 209026,
+      "name": "Na Cad\u00eancia Do Samba",
+      "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
     }
   ],
   "unique_name": "Festa Brasileira",

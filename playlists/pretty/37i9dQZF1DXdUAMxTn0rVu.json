@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Common",
-  "num_followers": 508732,
+  "num_followers": 509011,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,30 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Meat Grinder",
+      "url": "https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -127,22 +151,6 @@
       "duration_ms": 242573,
       "name": "Just Don't Give A Fuck",
       "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -183,42 +191,18 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
-        "name": "Madvillainy",
-        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
       "artists": [
         {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
         }
       ],
-      "duration_ms": 131866,
-      "name": "Meat Grinder",
-      "url": "https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -235,6 +219,22 @@
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -271,46 +271,6 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 336813,
-      "name": "So Far to Go",
-      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Thieves In The Night",
-      "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
         "name": "Madvillainy",
         "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
       },
@@ -339,6 +299,30 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 336813,
+      "name": "So Far to Go",
+      "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
         "name": "Operation: Doomsday (Complete)",
         "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
       "artists": [
         {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+      "duration_ms": 311960,
+      "name": "Thieves In The Night",
+      "url": "https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -399,6 +379,50 @@
       "duration_ms": 218293,
       "name": "Design in Malice",
       "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 118853,
+      "name": "Accordion",
+      "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -439,30 +463,6 @@
       "duration_ms": 187026,
       "name": "Blast",
       "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
-        "name": "Madvillainy",
-        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
-      },
-      "artists": [
-        {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 118853,
-      "name": "Accordion",
-      "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
+        "name": "J-88",
+        "url": "https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 218079,
+      "name": "The Look of Love, Pt. 1",
+      "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
         "name": "The Torture Papers",
         "url": "https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 366066,
       "name": "Battle Cry",
       "url": "https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
-        "name": "J-88",
-        "url": "https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 218079,
-      "name": "The Look of Love, Pt. 1",
-      "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -795,6 +795,38 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
+        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
         "name": "Masters of the Universe",
         "url": "https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK"
       },
@@ -843,22 +875,6 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
         "name": "Nia",
         "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-05-31 04:02:06",
       "album": {
-        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
         "name": "Kollage",
         "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
+    },
+    {
+      "added_at": "2024-05-31 04:02:06",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2024-05-31 04:02:06",
@@ -979,22 +995,6 @@
       "duration_ms": 169106,
       "name": "L.A.",
       "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
-    },
-    {
-      "added_at": "2024-05-31 04:02:06",
-      "album": {
-        "name": "Dr. Octagonecologyst",
-        "url": "https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW"
-      },
-      "artists": [
-        {
-          "name": "Dr. Octagon",
-          "url": "https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Blue Flowers",
-      "url": "https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt"
     }
   ],
   "unique_name": "I Love My Underground Classics",

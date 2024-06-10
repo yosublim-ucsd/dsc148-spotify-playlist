@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-228 songs - 14 hr 41 min
+230 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Rock wit U](https://open.spotify.com/track/3G1mHhhfk7nGKzpKinIVfk) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 5:36 | 2023-03-09 |  |
 | [Samsonite Man](https://open.spotify.com/track/6npWWhIMwgd3zEPApjjDCl) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:12 | 2023-03-09 |  |
 | [Saviour](https://open.spotify.com/track/5qM2mg8cJsUHLr7b1iyKH0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:22 | 2023-03-09 |  |
+| [Seventeen](https://open.spotify.com/track/2r3WAMjdjKtpfgBnOYkkgE) | [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Hell’s Kitchen Cast](https://open.spotify.com/artist/1UZgOd2KYLgCnC46IZcqvt) | [Hell’s Kitchen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We) | 2:42 | 2024-06-09 |  |
 | [She Don't Really Care\_1 Luv](https://open.spotify.com/track/1RFYQnLeiY60S8XqSPGcp7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 6:07 | 2023-03-09 |  |
 | [Show Me Love \(feat\. 21 Savage & Miguel\)](https://open.spotify.com/track/4eFvubnLRBu8vMPZqu5eC9) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Show Me Love \(feat\. 21 Savage & Miguel\)](https://open.spotify.com/album/3SUrSBw1oY5yX0Zlpiux7M) | 3:59 | 2023-03-09 |  |
 | [Show Me Love \(feat\. Miguel\)](https://open.spotify.com/track/31dgrKXIJ7FCxlENs8uxuo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:08 | 2023-03-09 |  |
@@ -198,6 +199,7 @@
 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 | 2023-03-09 |  |
 | [The Gospel](https://open.spotify.com/track/4ZmZpbcmJUVBgETosOn0sK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:01 | 2023-03-09 |  |
 | [The Life](https://open.spotify.com/track/1AmMOm1zogvO40BahFoml0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 5:25 | 2023-03-09 |  |
+| [The River](https://open.spotify.com/track/70mlQUXflfALhR4UZADM2C) | [Maleah Joi Moon](https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM), [Hell’s Kitchen Cast](https://open.spotify.com/artist/1UZgOd2KYLgCnC46IZcqvt) | [Hell’s Kitchen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We) | 3:17 | 2024-06-09 |  |
 | [The Thing About Love](https://open.spotify.com/track/0dS5vi71dgXFID7jlyjKsr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:49 | 2023-03-09 |  |
 | [Therapy Session](https://open.spotify.com/track/7sc6s7JYr53wn2zBF2Fg1R) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 1:27 | 2024-02-22 |  |
 | [This Bed](https://open.spotify.com/track/1EwZUh0VdTJp12EcBwez6O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:45 | 2023-03-09 |  |

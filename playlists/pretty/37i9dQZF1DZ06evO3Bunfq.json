@@ -1,12 +1,12 @@
 {
-  "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 105738,
+  "description": "This Is Dharius. Los temas esenciales, todos en una lista.",
+  "num_followers": 105768,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAACTMELDf9hG8s8lfl8ZJ65+",
+  "snapshot_id": "ZmOfAAAAAAD8tWYxQdUjc/yEpw5lfY++",
   "tracks": [
     {
       "added_at": null,
@@ -199,34 +199,6 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
-        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Zimple",
-          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
-      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
     },
     {
       "added_at": null,
@@ -1007,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Qu\u00e9 Buen Fiest\u00f3n",
+      "url": "https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PLAKATA",
         "url": "https://open.spotify.com/album/4TNvAbIvaUZOvHQtNTRyll"
       },
@@ -1027,22 +1015,6 @@
       "duration_ms": 252221,
       "name": "PLAKATA",
       "url": "https://open.spotify.com/track/3LyM4jvcbsKx8Ps0R2qPSV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Qu\u00e9 Buen Fiest\u00f3n",
-      "url": "https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC"
     },
     {
       "added_at": null,

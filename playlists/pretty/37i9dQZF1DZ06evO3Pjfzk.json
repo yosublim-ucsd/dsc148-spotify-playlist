@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 63388,
+  "num_followers": 63473,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAADapT7KlqkZ2fQnxYvrVseG",
+  "snapshot_id": "ZmOfAAAAAAB/immdtjSNdY6tdNj+9sC7",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Refugee",
+        "url": "https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 230630,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Comin' To Your City (ESPN College Gameday)",
         "url": "https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 186720,
       "name": "Caught on Fire",
       "url": "https://open.spotify.com/track/4MzYrhAYNFWr5PsOlp193B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Refugee",
-        "url": "https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 230630,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Two steppin' on the table, we don't need a dancefloor 🤠 Last day of Spotify House from 10am \- 12am at Ole Red!
+> Today's top country hits\. Cover: Carly Pearce
 
 777 songs - 1 day 17 hr 56 min
 

@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/5sxjm2ovH0G0sHl2yiIc0T"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        },
+        {
+          "name": "Kristin Amparo",
+          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "Dance Our Tears Away (feat. Kristin Amparo) - Radio Edit",
+      "url": "https://open.spotify.com/track/4bXqiSIapO9Ybmj5T76Hvy"
+    },
+    {
+      "album": {
         "name": "Dance Our Tears Away",
         "url": "https://open.spotify.com/album/5YWQEdXrHTy3fqHCme52kB"
       },
@@ -390,28 +412,6 @@
       "duration_ms": 180200,
       "name": "Dance Our Tears Away - Radio Edit",
       "url": "https://open.spotify.com/track/3McNdDyfNiMXi2nTIP8lKp"
-    },
-    {
-      "album": {
-        "name": "Far from Home",
-        "url": "https://open.spotify.com/album/5sxjm2ovH0G0sHl2yiIc0T"
-      },
-      "artists": [
-        {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
-        },
-        {
-          "name": "Kristin Amparo",
-          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
-        }
-      ],
-      "date_added": "2021-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180200,
-      "name": "Dance Our Tears Away - Radio Edit",
-      "url": "https://open.spotify.com/track/4bXqiSIapO9Ybmj5T76Hvy"
     },
     {
       "album": {

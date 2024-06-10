@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg\">Year of Dogs</a> ",
-  "num_followers": 11700,
+  "num_followers": 11707,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
     },
     {
-      "added_at": "2024-05-31 03:54:23",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
-    },
-    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "PRATTS & PAIN",
@@ -303,22 +287,6 @@
       "duration_ms": 166973,
       "name": "Claw Foot",
       "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Critical as Water",
-        "url": "https://open.spotify.com/album/2fnLBRgQNQaT7Rx8GMH6kk"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/4vd9eTTUijWgDjbChqntBs"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -339,6 +307,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Critical as Water",
+        "url": "https://open.spotify.com/album/2fnLBRgQNQaT7Rx8GMH6kk"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/4vd9eTTUijWgDjbChqntBs"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2024-05-31 03:54:23",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
     },
     {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "Gary",
+        "url": "https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "Gary",
+      "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
+    },
+    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Mangaliso",
@@ -471,22 +487,6 @@
       "duration_ms": 199773,
       "name": "Cin\u00e9med",
       "url": "https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k"
-    },
-    {
-      "added_at": "2024-06-07 07:56:34",
-      "album": {
-        "name": "Gary",
-        "url": "https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Gary",
-      "url": "https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -525,36 +525,20 @@
       "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "honey~",
-        "url": "https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL"
-      },
-      "artists": [
-        {
-          "name": "Corbon Amodio",
-          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "honey~",
-      "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
-    },
-    {
       "added_at": "2024-06-07 07:56:34",
       "album": {
-        "name": "Piano Hands",
-        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
       },
       "artists": [
         {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 218031,
-      "name": "Piano Hands",
-      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-06-07 07:56:34",
@@ -575,18 +559,34 @@
     {
       "added_at": "2024-06-07 07:56:34",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
         }
       ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "honey~",
+        "url": "https://open.spotify.com/album/1HbzqbkyKDgkkf2yeav0rL"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "honey~",
+      "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Motorola Money",
-        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 110738,
-      "name": "Motorola Money",
-      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 136216,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Motorola Money",
+        "url": "https://open.spotify.com/album/5mtguVYb0VQeR77Hix7bJG"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 110738,
+      "name": "Motorola Money",
+      "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -671,6 +671,26 @@
       "duration_ms": 193825,
       "name": "Okay",
       "url": "https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu"
+    },
+    {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "ROLE MODEL",
+        "url": "https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "4TUNAT",
+          "url": "https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl"
+        }
+      ],
+      "duration_ms": 183916,
+      "name": "FIGURE IT OUT",
+      "url": "https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -723,22 +743,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 144260,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Saviour Complex",
         "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
       },
@@ -751,6 +755,22 @@
       "duration_ms": 193333,
       "name": "Saviour Complex",
       "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 144260,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
     },
     {
       "added_at": "2024-06-07 07:56:34",
@@ -771,6 +791,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj"
+      },
+      "artists": [
+        {
+          "name": "Lone Tree",
+          "url": "https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU"
+        }
+      ],
+      "duration_ms": 287200,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Synthetic Hearts Part II",
         "url": "https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC"
       },
@@ -787,42 +823,6 @@
       "duration_ms": 165266,
       "name": "Off the Ground",
       "url": "https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj"
-      },
-      "artists": [
-        {
-          "name": "Lone Tree",
-          "url": "https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe"
-    },
-    {
-      "added_at": "2024-06-07 07:56:34",
-      "album": {
-        "name": "ROLE MODEL",
-        "url": "https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "4TUNAT",
-          "url": "https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl"
-        }
-      ],
-      "duration_ms": 183916,
-      "name": "FIGURE IT OUT",
-      "url": "https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s"
     },
     {
       "added_at": "2024-05-23 22:00:00",

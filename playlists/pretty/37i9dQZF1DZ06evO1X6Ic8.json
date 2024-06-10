@@ -1,12 +1,12 @@
 {
-  "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 777453,
+  "description": "This is The 1975. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 777557,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAACzF3g3AMFDOmfy/QqsW0Df",
+  "snapshot_id": "ZmOfAAAAAADSmywq4iGhDDSuX7EpPYCy",
   "tracks": [
     {
       "added_at": null,
@@ -543,30 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Play (feat. The 1975 & Big Sean)",
-        "url": "https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 285954,
-      "name": "Don't Play (feat. The 1975 & Big Sean)",
-      "url": "https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spinning (with Charli XCX & The 1975)",
         "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 172559,
       "name": "Spinning (with Charli XCX & The 1975)",
       "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Play (feat. The 1975 & Big Sean)",
+        "url": "https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 285954,
+      "name": "Don't Play (feat. The 1975 & Big Sean)",
+      "url": "https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m"
     },
     {
       "added_at": null,

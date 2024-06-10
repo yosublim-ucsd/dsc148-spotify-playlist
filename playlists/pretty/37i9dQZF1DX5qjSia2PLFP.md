@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: Guess what? He's <a href="spotify:artist:6ygDlIilHZqielxxkvmIVH">J.P\. </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,835 likes - 70 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,936 likes - 70 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

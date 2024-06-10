@@ -1,12 +1,12 @@
 {
-  "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19609,
+  "description": "This is Midian Lima. The essential tracks, all in one playlist.",
+  "num_followers": 19618,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAABnlJR6xgvaVnhOeTMWoexR",
+  "snapshot_id": "ZmOfAAAAAAD7lz3hGu4wccMP6jDa4no4",
   "tracks": [
     {
       "added_at": null,
@@ -775,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+        "name": "Irresist\u00edvel Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
       },
       "artists": [
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+      "duration_ms": 275945,
+      "name": "Irresist\u00edvel Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
     },
     {
       "added_at": null,
@@ -807,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irresist\u00edvel Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
       "artists": [
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 275945,
-      "name": "Irresist\u00edvel Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinto o Teu Poder (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
+        "name": "O Nome de Jesus (The Name Of Our God)",
+        "url": "https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB"
       },
       "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 271539,
-      "name": "Sinto o Teu Poder (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
+      "duration_ms": 413000,
+      "name": "O Nome de Jesus (The Name Of Our God)",
+      "url": "https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU"
     },
     {
       "added_at": null,
@@ -883,18 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nome de Jesus (The Name Of Our God)",
-        "url": "https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB"
+        "name": "Sinto o Teu Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
       },
       "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 413000,
-      "name": "O Nome de Jesus (The Name Of Our God)",
-      "url": "https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU"
+      "duration_ms": 271539,
+      "name": "Sinto o Teu Poder (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
     },
     {
       "added_at": null,

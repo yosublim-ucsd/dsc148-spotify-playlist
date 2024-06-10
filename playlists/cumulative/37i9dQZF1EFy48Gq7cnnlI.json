@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Never Waste A Heartbreak",
+        "url": "https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157541,
+      "name": "4 Better 4 Worse",
+      "url": "https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd"
+    },
+    {
+      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/5Z5AlMnCuoVkL5sEfnSpUL"
       },

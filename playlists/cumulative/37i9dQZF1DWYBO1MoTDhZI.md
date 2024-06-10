@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-843 songs - 1 day 21 hr 23 min
+844 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Honeypie](https://open.spotify.com/track/6JqYhSdTE4WbQrMXxPH5cD) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Honeypie](https://open.spotify.com/album/3JMNN9Fv4kbEZqt4tFwHFZ) | 2:15 | 2019-09-05\* | 2022-02-16 |
 | [Hopelessly Devoted to You](https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Hopelessly Devoted to You](https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ) | 2:27 | 2023-02-24 | 2023-03-18 |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 | 2022-04-23 |
+| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-09 |  |
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-08-28 | 2022-04-09 |
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-08-11 | 2023-09-02 |
 | [I & I](https://open.spotify.com/track/6pBJ7HhuCdbBD8BzAJd2Hu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [I & I](https://open.spotify.com/album/2LwFUHCNwdosCBH6mkeqfg) | 3:19 | 2021-10-16 | 2022-02-19 |
@@ -490,7 +491,7 @@
 | [Meet Me At Our Spot](https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c) | 2:17 | 2022-11-18 | 2023-04-07 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Meet Me At Our Spot](https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O) | 2:17 | 2023-03-31 | 2023-07-29 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-08-26 | 2022-05-20 |
-| [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-03-10 |  |
+| [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-03-10 | 2024-06-10 |
 | [Memorized](https://open.spotify.com/track/44T6aO6fh9MPX6CGSCCidX) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Memorized](https://open.spotify.com/album/6aI8EAq9o8Xnoq1uw5QovE) | 3:26 | 2019-09-05\* | 2020-05-08 |
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-10-20 | 2024-01-13 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 | 2023-10-27 |

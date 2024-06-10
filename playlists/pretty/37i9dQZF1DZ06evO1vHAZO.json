@@ -1,12 +1,12 @@
 {
-  "description": "This Is Oasis. Los temas esenciales, todos en una lista.",
-  "num_followers": 964350,
+  "description": "This is Oasis. The essential tracks, all in one playlist.",
+  "num_followers": 964577,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAACMfZlo1EkMUoOjFoCcKK3h",
+  "snapshot_id": "ZmOfAAAAAACGgLV+fTwtljZneiBpMhzJ",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Masterplan (Remastered Edition)",
-        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 385293,
-      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
-      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Standing On The Shoulder Of Giants",
         "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
@@ -727,22 +711,6 @@
       "duration_ms": 391146,
       "name": "Roll It Over",
       "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hindu Times",
-        "url": "https://open.spotify.com/album/1luo1Rqn2siffmttcN13cV"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Idler's Dream",
-      "url": "https://open.spotify.com/track/2huEk0qKqfsS3IMgjiMKiM"
     }
   ],
   "unique_name": "This Is Oasis",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,456 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,831 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 15 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 16 | [David's Writings](https://open.spotify.com/track/4Q0VPrw0jgRB7onKAtRnFG) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 2:57 |
 | 17 | [Movement, Before All Flowers \- Edit](https://open.spotify.com/track/0v9LuPahZH8PHN86gxRHTU) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Movement, Before All Flowers](https://open.spotify.com/album/1HrFsljwk4wUHrPPOGkSbN) | 3:39 |
-| 18 | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156\)](https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156\)](https://open.spotify.com/album/4oV1x8g9soPYY7dttgsang) | 1:52 |
+| 18 | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156 by F\. Christl\)](https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156 by F\. Christl\)](https://open.spotify.com/album/4oV1x8g9soPYY7dttgsang) | 1:52 |
 | 19 | [The Portrait](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |
 | 20 | [Sparkler Dims](https://open.spotify.com/track/2W69qiB0iKaPrYmPeVpnB1) | [The Hillside Project](https://open.spotify.com/artist/0ZTS8jiPsoSf6JM6zjvUyL) | [Sparkler Dims](https://open.spotify.com/album/12pm6r8rj8Zwmz87YZeIV6) | 5:17 |
 | 21 | [Winter Light](https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Roberto Sorrentino](https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH) | [Gjeilo: Winter Light](https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 160864,
+  "num_followers": 160935,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 168512,
       "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -263,6 +263,22 @@
       "duration_ms": 89440,
       "name": "New York Herald Tribune - Bande originale du film \"\u00c0 bout de souffle\"",
       "url": "https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -307,22 +323,6 @@
       "duration_ms": 150800,
       "name": "Mountain Greenery",
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Moonstruck (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 267640,
       "name": "Musetta's Waltz",
       "url": "https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        },
+        {
+          "name": "James P. Nichols",
+          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "A Reluctant Hero / Betsy / End Credits",
+      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
         "name": "The Big Kahuna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 36653,
       "name": "Joe's Lowdown Blues",
       "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        },
-        {
-          "name": "James P. Nichols",
-          "url": "https://open.spotify.com/artist/5Yqh7iw7pprFd7aWkcEisk"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "A Reluctant Hero / Betsy / End Credits",
-      "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
         "name": "Knives Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
       },
@@ -731,6 +747,22 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
+        "name": "Singing in the Rain (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm"
+      },
+      "artists": [
+        {
+          "name": "Gene Kelly",
+          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Singing in the Rain",
+      "url": "https://open.spotify.com/track/1v3WeKMbJ3jy8SqDIV8coD"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
         "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Singing in the Rain (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/3wQD48TmNWtEDeSgxY4Xhm"
-      },
-      "artists": [
-        {
-          "name": "Gene Kelly",
-          "url": "https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Singing in the Rain",
-      "url": "https://open.spotify.com/track/1v3WeKMbJ3jy8SqDIV8coD"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 167666,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 180677,
-      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Moonstruck (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 186080,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 180677,
+      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "You've Got Mail",
-        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Durante",
-          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "You Made Me Love You",
-      "url": "https://open.spotify.com/track/3BnNBpWgZfbQ3TyuioWAku"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Who Framed Roger Rabbit",
         "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 322826,
       "name": "Eddie's Theme",
       "url": "https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "You've Got Mail",
+        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Durante",
+          "url": "https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "You Made Me Love You",
+      "url": "https://open.spotify.com/track/3BnNBpWgZfbQ3TyuioWAku"
     },
     {
       "added_at": "2024-03-20 14:47:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-20 14:47:57",
       "album": {
-        "name": "Last Tango in Paris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0HOXwjCiXWOSxV8mUWJunO"
-      },
-      "artists": [
-        {
-          "name": "Gato Barbieri",
-          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Last Tango in Paris, Pt. 1",
-      "url": "https://open.spotify.com/track/5MxY2UsXLTcH0fgzqSrMm3"
-    },
-    {
-      "added_at": "2024-03-20 14:47:57",
-      "album": {
         "name": "Monsters Inc Original Soundtrack",
         "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 210600,
       "name": "Walk To Work",
       "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
+    },
+    {
+      "added_at": "2024-03-20 14:47:57",
+      "album": {
+        "name": "Last Tango in Paris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0HOXwjCiXWOSxV8mUWJunO"
+      },
+      "artists": [
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Last Tango in Paris, Pt. 1",
+      "url": "https://open.spotify.com/track/5MxY2UsXLTcH0fgzqSrMm3"
     },
     {
       "added_at": "2024-03-20 14:47:57",

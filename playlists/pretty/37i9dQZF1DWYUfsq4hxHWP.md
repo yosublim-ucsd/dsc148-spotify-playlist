@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Max McNown, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,761 likes - 185 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,864 likes - 185 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

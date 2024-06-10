@@ -1,12 +1,12 @@
 {
-  "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
-  "num_followers": 38954,
+  "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
+  "num_followers": 38975,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAACdNiuSBF31y+7a0bJ/9E7a",
+  "snapshot_id": "ZmOfAAAAAAAnD20JFmhd1XozfRxwXdwh",
   "tracks": [
     {
       "added_at": null,
@@ -983,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alto Calibre",
         "url": "https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 171807,
       "name": "Alto Calibre",
       "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El",
-        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "El",
-      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
     },
     {
       "added_at": null,
@@ -1135,26 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ap\u00e1galo",
-        "url": "https://open.spotify.com/album/7fsQwnkGUKAzggaGwlV5zo"
-      },
-      "artists": [
-        {
-          "name": "Full THM",
-          "url": "https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 192007,
-      "name": "Ap\u00e1galo",
-      "url": "https://open.spotify.com/track/138aUp8rOibpO2lTm5QBka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Es Tan Facil",
         "url": "https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 194690,
       "name": "No Es Tan Facil",
       "url": "https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ap\u00e1galo",
+        "url": "https://open.spotify.com/album/7fsQwnkGUKAzggaGwlV5zo"
+      },
+      "artists": [
+        {
+          "name": "Full THM",
+          "url": "https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Ap\u00e1galo",
+      "url": "https://open.spotify.com/track/138aUp8rOibpO2lTm5QBka"
     },
     {
       "added_at": null,

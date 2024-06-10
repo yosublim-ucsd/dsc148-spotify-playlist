@@ -2,7 +2,7 @@
 
 ### [This Is Ghost](https://open.spotify.com/playlist/37i9dQZF1DZ06evO12mjqo)
 
-> This is Ghost\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This is Ghost\. The essential tracks, all in one playlist.
 
 80 songs - 6 hr 0 min
 

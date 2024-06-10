@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,880 songs - 4 day 3 hr 8 min
+1,881 songs - 4 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,7 @@
 | [every wave](https://open.spotify.com/track/1cr2jfBMyyGlo2DBiLA3KN) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 2:49 | 2021-10-11 | 2021-10-12 |
 | [everybody's fine but me](https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [everybody's fine but me](https://open.spotify.com/album/49ARfwZ0TaxWu7pzxTfSi1) | 2:26 | 2021-09-24 | 2022-04-16 |
 | [Everything and Nothing](https://open.spotify.com/track/2q3x2IKA8QWK40XjXqhD5j) | [Mob Rich](https://open.spotify.com/artist/5cVeSOiS002MF1uiUFOPV5) | [Everything and Nothing](https://open.spotify.com/album/3MI7LEhvkWMUJKa4Z5W91C) | 3:07 | 2021-05-03 | 2021-05-19 |
-| [Everything At Once](https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Everything At Once](https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX) | 3:49 | 2024-05-10 |  |
+| [Everything At Once](https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Everything At Once](https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX) | 3:49 | 2024-05-10 | 2024-06-10 |
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 | 2023-11-28 |
 | [Everything is Fine](https://open.spotify.com/track/43qXpGfZOjHQakpPKfNz3u) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Everything is Fine](https://open.spotify.com/album/45eVM5D9PJULYNVXQ2HyXi) | 2:36 | 2022-01-21 | 2022-04-14 |
 | [Everything Matters](https://open.spotify.com/track/06VyY12p1DHswetQudIbiT) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:33 | 2022-01-07 | 2022-04-20 |
@@ -971,6 +971,7 @@
 | [Leona](https://open.spotify.com/track/3nZdGftW9CLVQZ0j9hkPuL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO PT\. 1](https://open.spotify.com/album/1sByjN7ag1X0ppsT6SdP8J) | 4:06 | 2021-06-03 | 2021-06-04 |
 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 | 2021-10-10 | 2021-10-11 |
 | [Less Like](https://open.spotify.com/track/5iEvWfUIV8sWCU5thnoXHt) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Less Like](https://open.spotify.com/album/6BLQDI9duVfrkQ8tjNeqRn) | 2:53 | 2021-10-13 | 2021-10-14 |
+| [Less of You](https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Less of You](https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht) | 3:13 | 2024-06-07 |  |
 | [Let Go](https://open.spotify.com/track/6GJA6CB0PWuqfM3b5K8lcc) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Let Go](https://open.spotify.com/album/4QvD9VCn7pCi7S9NXpMrnD) | 4:14 | 2021-06-03 | 2021-12-02 |
 | [Let Her Remember](https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Let Her Remember](https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv) | 3:32 | 2022-03-18 | 2022-04-21 |
 | [Let Me Go](https://open.spotify.com/track/1NqIMpmNukrvX1aAgxujvO) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Let Me Go](https://open.spotify.com/album/3y71vzK8w8vkyJejrz9UfF) | 3:04 | 2023-10-11 | 2024-01-13 |

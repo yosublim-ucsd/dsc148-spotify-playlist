@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-26",
-  "description": "This Is My Chemical Romance. Los temas esenciales, todos en una lista.",
+  "description": "This is My Chemical Romance. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
   "name": "This Is My Chemical Romance",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 205960,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 246720,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 211733,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"

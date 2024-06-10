@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-415 songs - 23 hr 15 min
+416 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Arguru](https://open.spotify.com/track/7kHJEZYzPKr7J1SMEcVe2M) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title](https://open.spotify.com/album/4mcOY3wX8ZISk590p80GCl) | 5:30 | 2023-09-01 | 2023-09-30 |
 | [Arguru 2k19](https://open.spotify.com/track/35jG6YcPhwE1yX1u5eDpEF) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Arguru 2k19](https://open.spotify.com/album/2mRFOrz0NmLV5krVZxs2eH) | 7:15 | 2024-04-26 | 2024-05-11 |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-08-04 |  |
-| [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 | 2022-05-27 |  |
+| [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 | 2022-05-27 | 2024-06-10 |
 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 | 2022-05-27 | 2022-09-03 |
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-09-29 |  |
 | [Avaritia](https://open.spotify.com/track/2GboSSEYjkdsskChhsUZJU) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [while\(1<2\)](https://open.spotify.com/album/4NQRw9HthpcLg4vYQ6yJFu) | 6:42 | 2024-04-26 | 2024-05-11 |
@@ -313,6 +313,7 @@
 | [Secret Level](https://open.spotify.com/track/6CUd86eiDpRydR8Rvh7ajp) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Chipzel](https://open.spotify.com/artist/6mgvN6ZusGnE2uz5WWO3nC) | [Secret Level](https://open.spotify.com/album/1mlP1ktumUabG0GbrX9u2H) | 4:37 | 2024-04-26 | 2024-05-11 |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2022-05-27 | 2023-08-05 |
 | [Secrets \- HUGEL Remix](https://open.spotify.com/track/3iLwZIDtKxGC277rHmX4is) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Secrets \(HUGEL Remix\)](https://open.spotify.com/album/6Wqc4e52SJej0I4t4SiHrD) | 3:16 | 2022-05-27 | 2022-07-08 |
+| [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2024-05-10 |  |
 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2023-02-26 | 2023-09-02 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-07-08 | 2023-02-26 |
 | [Seven Nation Army \- The Glitch Mob Remix](https://open.spotify.com/track/4IiuExPFijOGZnVxGsKWcc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Seven Nation Army \(The Glitch Mob Remix\)](https://open.spotify.com/album/6XN8b2NIomlwPOoBlILqXv) | 4:17 | 2022-05-27 | 2022-11-13 |

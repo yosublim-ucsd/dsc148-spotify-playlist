@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 4893,
+  "num_followers": 4896,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAABP1ssknqis3+ltK7joC+kt",
+  "snapshot_id": "ZmOfAAAAAAAKaIY9tYD9nipTP/tstxLf",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 208415,
-      "name": "Pink Turns To Red",
-      "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 183857,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/1YpPzjF3LgUr6htLKCnVei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 208415,
+      "name": "Pink Turns To Red",
+      "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
     },
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 286333,
-      "name": "Don't Whisper",
-      "url": "https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 216171,
       "name": "Money Makes You Ugly",
       "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 286333,
+      "name": "Don't Whisper",
+      "url": "https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Feel A Sin Coming On",
-      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -263,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
       "artists": [
         {
@@ -272,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
+      "duration_ms": 232346,
+      "name": "I Feel A Sin Coming On",
+      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
     },
     {
       "added_at": null,
@@ -291,6 +275,22 @@
       "duration_ms": 226261,
       "name": "Would You Take My Blood?",
       "url": "https://open.spotify.com/track/0w71ZSQaqjxYAhoxhMaQKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stone by Stone",
+        "url": "https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl"
+      },
+      "artists": [
+        {
+          "name": "Ian Siegal",
+          "url": "https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 268512,
+      "name": "Hand In Hand",
+      "url": "https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dedicated: A Salute To The 5 Royales",
         "url": "https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 171026,
       "name": "Baby Don't Do It",
       "url": "https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone by Stone",
-        "url": "https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl"
-      },
-      "artists": [
-        {
-          "name": "Ian Siegal",
-          "url": "https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 268512,
-      "name": "Hand In Hand",
-      "url": "https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2"
     },
     {
       "added_at": null,

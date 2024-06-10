@@ -4,7 +4,7 @@
 
 > Updated daily, with the latest popular singles!
 
-585 songs - 1 day 8 hr 27 min
+586 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [sad girl summer \(not again\)](https://open.spotify.com/track/1Jt7lSay7eL1XFeq1m591s) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [sad girl summer \(not again\)](https://open.spotify.com/album/5wvhIKjErWv8FGIqP0zQ57) | 3:47 | 2024-05-24 | 2024-05-28 |
 | [Sagrado Profano](https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Sagrado Profano](https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET) | 3:16 | 2024-05-28 | 2024-06-01 |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-17 | 2024-05-19 |
-| [Saraiman](https://open.spotify.com/track/79O1Cgf7etB3qAB7Qde5rN) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Saraiman](https://open.spotify.com/album/07N3hzOAgBnFB9N8BEZqaW) | 4:12 | 2024-06-06 |  |
+| [Saraiman](https://open.spotify.com/track/79O1Cgf7etB3qAB7Qde5rN) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Saraiman](https://open.spotify.com/album/07N3hzOAgBnFB9N8BEZqaW) | 4:12 | 2024-06-06 | 2024-06-10 |
 | [Say](https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Say](https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM) | 4:22 | 2024-05-08 | 2024-05-10 |
 | [Say My Name](https://open.spotify.com/track/5whKZymIO7PDqWxo1uhMWP) | [Nerissa Ravencroft](https://open.spotify.com/artist/4uzAnzFMXarRPOBAG2lIIa) | [Say My Name](https://open.spotify.com/album/1Knz3H6xezJxY2rBGMzAQE) | 3:12 | 2024-04-27 | 2024-05-01 |
 | [Scarlet \- Acoustic](https://open.spotify.com/track/1E91dH31Zu8LBfIOCZUvc1) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc), [Mike Dawes](https://open.spotify.com/artist/3B83ffT0B4Si3ttxzY9fMz) | [2 Song Acoustic Single](https://open.spotify.com/album/47B4feQDM2Fkycbz5eS096) | 4:28 | 2024-04-26 | 2024-04-27 |
@@ -592,6 +592,7 @@
 | [Больной](https://open.spotify.com/track/6TeHkTppKC6Z548qme1KT4) | [Heronwater](https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33) | [Больной](https://open.spotify.com/album/69rnpA6PUymUIdSq91XqeZ) | 2:10 | 2024-05-31 | 2024-06-05 |
 | [Ты и я](https://open.spotify.com/track/2NUFocFyI3Ava7JB36qWGT) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Ты и я](https://open.spotify.com/album/6A7vLRCWsOYqpEEGbUbN14) | 2:11 | 2024-05-17 | 2024-05-19 |
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2024-05-13 | 2024-05-15 |
+| [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 | 2024-06-09 |  |
 | [毎日 \- Every Day](https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [毎日 \- Every Day](https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978) | 3:02 | 2024-05-27 | 2024-06-01 |
 
 \*This playlist was first scraped on 2024-04-26. Prior content cannot be recovered.

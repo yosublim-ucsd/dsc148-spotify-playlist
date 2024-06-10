@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Samuel Rosa",
-  "num_followers": 344169,
+  "num_followers": 344243,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Golpe Baixo",
+        "url": "https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 158749,
+      "name": "Golpe Baixo",
+      "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Doce Vampiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 135346,
       "name": "Sons da Lagoa",
       "url": "https://open.spotify.com/track/2ShP9m6Uc5JbmqTbiXKIJK"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Golpe Baixo",
-        "url": "https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K"
-      },
-      "artists": [
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 158749,
-      "name": "Golpe Baixo",
-      "url": "https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 181169,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 181169,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
-      },
-      "artists": [
-        {
-          "name": "Tuca Oliveira",
-          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
-        }
-      ],
-      "duration_ms": 196319,
-      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Vaga-Lumes",
         "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T"
+      },
+      "artists": [
+        {
+          "name": "Tuca Oliveira",
+          "url": "https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k"
+        }
+      ],
+      "duration_ms": 196319,
+      "name": "Ser\u00e1 que eu t\u00f4 gostando dela? (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Depois Da Meia Noite",
         "url": "https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId"
       },
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Cheguei pra ficar",
+        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "duration_ms": 150394,
+      "name": "Cheguei pra ficar",
+      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Porvir",
         "url": "https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 232576,
       "name": "Porvir",
       "url": "https://open.spotify.com/track/3kgdKvRXZ9CJg3n1RnIwn1"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Cheguei pra ficar",
-        "url": "https://open.spotify.com/album/6X89UehB7u9UNkqWe0jv8x"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Mestrinho",
-          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "Cheguei pra ficar",
-      "url": "https://open.spotify.com/track/4QOJYmo9cib77UfqLB3NZe"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1039,6 +1039,38 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Sou Eu Que Vou Trabalhar",
+        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        }
+      ],
+      "duration_ms": 167713,
+      "name": "Sou Eu Que Vou Trabalhar",
+      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Riviera",
         "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
       },
@@ -1103,38 +1135,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Sou Eu Que Vou Trabalhar",
-        "url": "https://open.spotify.com/album/3dBnUmZv8KCEZknoSVl8Pd"
-      },
-      "artists": [
-        {
-          "name": "TRAGO",
-          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Gustavo Ruiz",
-          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
-        },
-        {
-          "name": "Alexandre Orion",
-          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
-        },
-        {
-          "name": "Rica Amabis",
-          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
-        }
-      ],
-      "duration_ms": 167713,
-      "name": "Sou Eu Que Vou Trabalhar",
-      "url": "https://open.spotify.com/track/5hxRffZAkL5cm8Dxltqs9j"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Sambur\u00e1",
         "url": "https://open.spotify.com/album/6meKDPHVhWTjSXPlr9JOqg"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 244500,
       "name": "Absurdo",
       "url": "https://open.spotify.com/track/27D2NN2jAY8FR9Y3YPdGN2"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Eu Ainda Acredito no Amor",
+        "url": "https://open.spotify.com/album/0GpetWCC44T1VxRHqeCKB2"
+      },
+      "artists": [
+        {
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+        }
+      ],
+      "duration_ms": 147154,
+      "name": "Eu Ainda Acredito no Amor",
+      "url": "https://open.spotify.com/track/1ytuH7ETjrdU5sV2C4YcVE"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1207,26 +1223,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "SEGUNDA OU TER\u00c7A",
-        "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
-      },
-      "artists": [
-        {
-          "name": "Paulo Carvalho",
-          "url": "https://open.spotify.com/artist/6ccToSMDmjUKz4IlXyYsWn"
-        },
-        {
-          "name": "Pedro Lu\u00eds",
-          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "SEGUNDA OU TER\u00c7A",
-      "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "ME SURPREENDA",
         "url": "https://open.spotify.com/album/74YffXxNm2i84YVvc5R4X4"
       },
@@ -1247,18 +1243,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Eu Ainda Acredito no Amor",
-        "url": "https://open.spotify.com/album/0GpetWCC44T1VxRHqeCKB2"
+        "name": "SEGUNDA OU TER\u00c7A",
+        "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
       },
       "artists": [
         {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+          "name": "Paulo Carvalho",
+          "url": "https://open.spotify.com/artist/6ccToSMDmjUKz4IlXyYsWn"
+        },
+        {
+          "name": "Pedro Lu\u00eds",
+          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
         }
       ],
-      "duration_ms": 147154,
-      "name": "Eu Ainda Acredito no Amor",
-      "url": "https://open.spotify.com/track/1ytuH7ETjrdU5sV2C4YcVE"
+      "duration_ms": 228231,
+      "name": "SEGUNDA OU TER\u00c7A",
+      "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
     },
     {
       "added_at": "2024-06-07 03:00:00",

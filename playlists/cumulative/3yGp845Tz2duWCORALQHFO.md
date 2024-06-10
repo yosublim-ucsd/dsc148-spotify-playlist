@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-195 songs - 10 hr 34 min
+198 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [It Isn't Easy \(feat\. EKKSTACY\)](https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2) | 3:52 | 2024-05-17 | 2024-05-25 |
 | [It's Strange](https://open.spotify.com/track/0V3ssu48VOqr1WwkPOD4Yt) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [It’s Strange](https://open.spotify.com/album/4PdIH020EAwcbah7q92WsG) | 3:32 | 2024-05-24 | 2024-06-01 |
 | [ITS YOU](https://open.spotify.com/track/3DVps8FDEzerZesxZnOHVs) | [jarradcleofé](https://open.spotify.com/artist/3KSx8jFUIL2SzMp4uLeSJQ) | [LOVE HARD](https://open.spotify.com/album/1OlHk6CpatbFwiWnlHcmtX) | 4:15 | 2024-05-29 | 2024-06-08 |
+| [Juárez Número Uno](https://open.spotify.com/track/5k3EFe2Ro3WmRRNS9OIPdm) | [Juárez Número Uno](https://open.spotify.com/artist/0JEE0kJdxKbAXfIXE0tn83) | [Juárez Número Uno](https://open.spotify.com/album/7HLAvi8XC3mCR19THzUPMx) | 4:02 | 2024-06-09 |  |
 | [Kali Yuga](https://open.spotify.com/track/0auNR95YLAdWPXTrmjuspM) | [Wy'zat](https://open.spotify.com/artist/0cFvYEIBv4EN1AjjYStDOD) | [Kali Yuga](https://open.spotify.com/album/0yRFj1NVcnWVpFpFbLVLhN) | 2:20 | 2024-05-29 | 2024-06-08 |
 | [Kedaar](https://open.spotify.com/track/1dI3GDLlWxNL0eLHRq10N7) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 3:02 | 2024-05-29 | 2024-06-08 |
 | [Keep Moving](https://open.spotify.com/track/3yumhQpNemHHC26Q5MAjaR) | [Mark & Marcus](https://open.spotify.com/artist/26WRHtbVQPtq61fBjYDg3z) | [Keep Moving](https://open.spotify.com/album/33pxaLKjZ0NjclpXQMTSru) | 3:04 | 2024-05-31 | 2024-06-08 |
@@ -171,6 +172,8 @@
 | [Stellar](https://open.spotify.com/track/5MNpbOgHT4OZ8L8U2tP4a9) | [You Liang](https://open.spotify.com/artist/3MuacvIl1Wu7iFfw7UeEsl) | [Stellar](https://open.spotify.com/album/7LthddYBhH5ujBro1iQhv2) | 3:20 | 2024-05-24 | 2024-06-08 |
 | [Stereo 11AM](https://open.spotify.com/track/5mPAxRLhFpMYdlwWD96PTB) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Dakota](https://open.spotify.com/artist/7mTnfFkluYaLb3UpA9aWgG) | [Stereo 11AM](https://open.spotify.com/album/2xYmixgI82Y3t0e90iUoGz) | 3:41 | 2024-05-30 | 2024-06-08 |
 | [Still Breathing \- Uplifting Mix](https://open.spotify.com/track/3bjL3ID2bRiSuSIvnh1doW) | [Pierre Pienaar](https://open.spotify.com/artist/02mCfqP1IsUWZpH02knEbM), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Still Breathing](https://open.spotify.com/album/4sKwqZq4xPVfZdBBLh804p) | 3:39 | 2024-05-17 | 2024-05-25 |
+| [Strangers in the Night \- Radio\-Edit](https://open.spotify.com/track/1P0AkIjAqZx5Pz6Lq3RVP3) | [Gördön Vïëchïëlstëïn](https://open.spotify.com/artist/3lPVbcoBrGJe2KNsKWQwHp), [jaixj](https://open.spotify.com/artist/18wXu2rWY2oPRBgg9vMhup) | [Strangers in the Night \(Radio\-Edit\)](https://open.spotify.com/album/0LvLW5YsMwMZpWZt0vStMQ) | 3:29 | 2024-06-09 |  |
+| [Summer \(This Time Around\)](https://open.spotify.com/track/3DzrAlGONZCJU2uoj7ewoq) | [Lotrios Ferno](https://open.spotify.com/artist/7oJErfmeBzX5ySSwxr6r7G) | [Summer \(This Time Around\)](https://open.spotify.com/album/3vCPMWe5UUVtU09qNdPvhJ) | 3:05 | 2024-06-09 |  |
 | [Summer City Nights](https://open.spotify.com/track/0s9tWyroqZdgUMKNdQ7igA) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Ghost Etiquette](https://open.spotify.com/artist/20Vo3MKByZZE4wENawnYmn) | [Summer City Nights](https://open.spotify.com/album/2IVqyhU9tMc8lDjkn6TEqV) | 3:18 | 2024-06-07 |  |
 | [Summer Crush](https://open.spotify.com/track/4WpbZTylASaKbyubTm5VBa) | [High Fruit](https://open.spotify.com/artist/4jx0Rall3HmaSJgxTNGHAt) | [Kumar](https://open.spotify.com/album/6vHbXnfl3CVAyEhzd40pUZ) | 2:35 | 2024-05-29 | 2024-06-08 |
 | [Sun Comes Up](https://open.spotify.com/track/1blTO8R2KZCocDdquldlIh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Sun Comes Up](https://open.spotify.com/album/3pPKqAo24C6P9KeXZrXvB2) | 2:21 | 2024-05-24 | 2024-06-01 |

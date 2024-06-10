@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,524 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,564 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 71 | [Algo quiero](https://open.spotify.com/track/3Z4X358heVKuZttTdKfWFs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:43 |
 | 72 | [It's All Right \- From "Soul"/Duet Version](https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [It's All Right \(From "Soul"/Duet Version\)](https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f) | 2:49 |
 | 73 | [Ma Belle Evangeline](https://open.spotify.com/track/4i5L7KbZZ9ygJrZFNlc4hI) | [Arturo Mercado](https://open.spotify.com/artist/37o8xXhcDR1fJTpSUDjRul), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [La Princesa y el sapo \(Banda Sonora Original en Español\)](https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe) | 1:54 |
-| 74 | [Parte de él](https://open.spotify.com/track/1DJICuMsoD3ZmhWTOPydKr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Isela Sotello](https://open.spotify.com/artist/2Of7BILaRpqtAmpFqxg5Mp), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 3:15 |
+| 74 | [Parte de él](https://open.spotify.com/track/1DJICuMsoD3ZmhWTOPydKr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Isela Sotelo](https://open.spotify.com/artist/5pfjnWnr2y2f72qbIG2tfO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 3:15 |
 | 75 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
 | 76 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
 | 77 | [Príncipe Alí](https://open.spotify.com/track/4deFjaHvIsvW4WtKuxxvdN) | [Rubén Trujillo](https://open.spotify.com/artist/6KT2TYbf3hbyQsye7cpqOV) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:51 |

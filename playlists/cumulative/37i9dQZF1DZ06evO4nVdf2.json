@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-27",
-  "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
+  "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
   "name": "This Is Ximena Sari\u00f1ana",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 239373,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7v6clWErpKKYdwp2oLVXAA"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-27",
+      "date_removed": null,
       "duration_ms": 215072,
       "name": "Pueblo Abandonado (feat. Francisca Valenzuela)",
       "url": "https://open.spotify.com/track/5gUV6Hkty3stHGXy0KrZmb"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 245062,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 177272,
       "name": "\u00bfQu\u00e9 Tiene?",
       "url": "https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg"

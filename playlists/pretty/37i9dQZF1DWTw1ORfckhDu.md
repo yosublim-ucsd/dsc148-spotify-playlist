@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Etta ja Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,243 likes - 88 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,255 likes - 88 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

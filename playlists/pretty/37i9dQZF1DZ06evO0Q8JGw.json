@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 748065,
+  "num_followers": 748152,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAABR1dIo1QvoJm18h6ngbaiD",
+  "snapshot_id": "ZmOfAAAAAAD7njpXw+RIXt5f7+fI1Hey",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 357231,
-      "name": "Upper Hand",
-      "url": "https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF"
+      "duration_ms": 210832,
+      "name": "React, Respond",
+      "url": "https://open.spotify.com/track/33rc0hKdMyHf6lz7WMTRdh"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 210832,
-      "name": "React, Respond",
-      "url": "https://open.spotify.com/track/33rc0hKdMyHf6lz7WMTRdh"
+      "duration_ms": 357231,
+      "name": "Upper Hand",
+      "url": "https://open.spotify.com/track/15tI78zBMKToM9A4Bq0TsF"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lightning Bolt",
-        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Future Days",
-      "url": "https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rearviewmirror (greatest hits 1991-2003)",
         "url": "https://open.spotify.com/album/1G1R5dY01DSyti3NaWnOp3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 223560,
       "name": "Man of the Hour",
       "url": "https://open.spotify.com/track/6WcIDvzwZDqarmaHDy3DoR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Future Days",
+      "url": "https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This Is El Chapo De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 46341,
+  "num_followers": 46352,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAABLAjwLzesthTr5lA9MyJh+",
+  "snapshot_id": "ZmOfAAAAAAByeXQtvIn2I/DklOQA0OPI",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfador",
-        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 172805,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camina Sin Mirar Atras",
         "url": "https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 182582,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/4i7jo86BGzuTIVLl6zd4Py"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triunfador",
+        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 172805,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191796,
       "name": "Le Dire Que Me Gusta",
       "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
     },
     {
       "added_at": null,

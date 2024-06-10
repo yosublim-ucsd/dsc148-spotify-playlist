@@ -1,12 +1,12 @@
 {
-  "description": "This is Ramones. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 233813,
+  "description": "This is Ramones. The essential tracks, all in one playlist.",
+  "num_followers": 233840,
   "original_name": "This Is Ramones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAACF7zUaBXMwmdH0RdlbXzcH",
+  "snapshot_id": "ZmOfAAAAAAC6BR1LieMFunj7lCH3ji2E",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 115706,
-      "name": "Do You Wanna Dance? - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1jvzmNw7sVTSDnprPuEi0D"
+      "duration_ms": 157826,
+      "name": "Surfin' Bird - 2017 Remaster",
+      "url": "https://open.spotify.com/track/3GgYsEaTyCeTH3e5JyEyXf"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Surfin' Bird - 2017 Remaster",
-      "url": "https://open.spotify.com/track/3GgYsEaTyCeTH3e5JyEyXf"
+      "duration_ms": 115706,
+      "name": "Do You Wanna Dance? - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1jvzmNw7sVTSDnprPuEi0D"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Boy",
-        "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
+        "name": "Loco Live",
+        "url": "https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Somebody Put Something in My Drink",
-      "url": "https://open.spotify.com/track/1dPkrVL0fXxNOhTmZk08rd"
+      "duration_ms": 46800,
+      "name": "Durango 95 - Live",
+      "url": "https://open.spotify.com/track/2o8YxKjziubadspvVN20eS"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Live",
-        "url": "https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ"
+        "name": "Animal Boy",
+        "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 46800,
-      "name": "Durango 95 - Live",
-      "url": "https://open.spotify.com/track/2o8YxKjziubadspvVN20eS"
+      "duration_ms": 199800,
+      "name": "Somebody Put Something in My Drink",
+      "url": "https://open.spotify.com/track/1dPkrVL0fXxNOhTmZk08rd"
     },
     {
       "added_at": null,

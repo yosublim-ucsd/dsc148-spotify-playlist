@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,905 songs - 4 day 6 hr 43 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,909 songs - 4 day 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1913,5 +1913,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1903 | [✻H+3+ЯД✻7luCJIo0T6..\. \(Slowed + Reverb\)](https://open.spotify.com/track/0DRky0I9vrl7UPCQofTXVW) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6..\. \(Remixes\)](https://open.spotify.com/album/6m5OWHRT8APtCCY0Rf1c4S) | 3:58 |
 | 1904 | [Sleepwalking](https://open.spotify.com/track/0gchQwxmBWj5no8NJ8b2yH) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:50 |
 | 1905 | [R4v3 B0y \(feat\. Krystal\)](https://open.spotify.com/track/1hle6BL2dCurJdd5Xoywlb) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Krystal](https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH) | [R4v3 B0y \(feat\. Krystal\)](https://open.spotify.com/album/7eUjgoQDrXMcXj5EIfKVHs) | 2:59 |
+| 1906 | [Ever \(Foreign Flag\)](https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 2:51 |
+| 1907 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 1908 | [I might say something stupid](https://open.spotify.com/track/0PFZCt7UNmpas24HejQGu8) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 1:49 |
+| 1909 | [Valeria Bounze](https://open.spotify.com/track/11e5AvoqPT3sljkQItmhwt) | [cvcvdup](https://open.spotify.com/artist/3uNyHplRvma6haqXTOWrtN), [cvcvka5](https://open.spotify.com/artist/5iyld87rVUV5fDvMp7EGc6) | [Valeria Bounze](https://open.spotify.com/album/6ldZMxvvh3SV2yXLyTtz3N) | 1:41 |
 
-Snapshot ID: `AAADDSp0owmzUubXCFH0OTHuwTr9AUor`
+Snapshot ID: `AAADERuQmccOAYOy+4wCK3re7ocE4Ctm`

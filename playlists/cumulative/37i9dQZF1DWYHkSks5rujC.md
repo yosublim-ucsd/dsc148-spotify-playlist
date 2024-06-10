@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Day In The Life \- Remix](https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 5:30 | 2019-06-28 |  |
+| [A Day In The Life \- Remastered 2017](https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 5:30 | 2019-06-28 |  |
 | [A Hard Day's Night \- Remastered](https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D) | 2:34 | 2019-06-28 |  |
 | [A Hard Day's Night \- Remastered 2009](https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV) | 2:34 | 2022-04-12 | 2024-04-19 |
 | [A Hard Day's Night \- Remastered 2015](https://open.spotify.com/track/1pctwlBtIcKIjQMzsVcGHB) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:32 | 2022-04-12 | 2022-11-13 |

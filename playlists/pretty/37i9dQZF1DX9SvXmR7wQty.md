@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,912 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,917 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 35 | [Oh mah god](https://open.spotify.com/track/3IdWwsWVyl4QvsuM6V8y87) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [L'Osstidtour](https://open.spotify.com/album/7xAbPL5CIEyi48EJSJPi8N) | 2:42 |
 | 36 | [Si ça va](https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Imad](https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7) | 3:04 |
 | 37 | [YOMB](https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [DLPDA](https://open.spotify.com/album/2qF7voJS33g9r7USnQa0AT) | 2:50 |
-| 38 | [Allo](https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Allo](https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD) | 2:16 |
-| 39 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 |
-| 40 | [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 |
-| 41 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 |
+| 38 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 |
+| 39 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 |
+| 40 | [Allo](https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Allo](https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD) | 2:16 |
+| 41 | [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 |
 | 42 | [COMMERCE](https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w) | [Stavo](https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Il était une fois](https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL) | 2:05 |
-| 43 | [Me prends pas la tête](https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:20 |
-| 44 | [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 |
-| 45 | [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 |
-| 46 | [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 |
-| 47 | [HASTA LA VISTA](https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [HASTA LA VISTA](https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT) | 3:19 |
-| 48 | [SHE LIT](https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [SHE LIT](https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B) | 2:17 |
-| 49 | [Sentiments](https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Sentiments](https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1) | 2:37 |
-| 50 | [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 |
+| 43 | [HASTA LA VISTA](https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [HASTA LA VISTA](https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT) | 3:19 |
+| 44 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 |
+| 45 | [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 |
+| 46 | [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 |
+| 47 | [Sentiments](https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Sentiments](https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1) | 2:37 |
+| 48 | [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 |
+| 49 | [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 |
+| 50 | [SHE LIT](https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [SHE LIT](https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B) | 2:17 |
 
 Snapshot ID: `ZmKFwAAAAADKYR8mKcvJFU1QATurCL1a`

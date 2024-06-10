@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u4e01\u5679 (Della Ding)",
+  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u5442\u5efa\u5fe0 (Tank)",
   "name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 271933,
       "name": "Piano",
       "url": "https://open.spotify.com/track/6Pik64ay8wD7gK3VWyoqOn"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 204600,
       "name": "\u4ec0\u9ebc\u90fd\u6368\u5f97 - Gain Version",
       "url": "https://open.spotify.com/track/4WmU0cm8WX6apcaYuJb9gY"
@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "\u6539\u8b8a\u81ea\u5df1",
+        "url": "https://open.spotify.com/album/1lxlQW182pklrfpD93faq1"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        },
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "\u4f60\u662f\u6211\u5fc3\u5167\u7684\u4e00\u9996\u6b4c (feat. Selina)",
+      "url": "https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN"
+    },
+    {
+      "album": {
         "name": "\u4f60\u662f\u6211\u7684\u773c",
         "url": "https://open.spotify.com/album/6xVpfmtVtbsdnxAJ88nuPF"
       },
@@ -492,7 +514,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 274040,
       "name": "\u4fe1\u4ef0\u611b\u60c5",
       "url": "https://open.spotify.com/track/1QaXiei33WBcFZt9A7ifi7"
@@ -510,7 +532,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 192733,
       "name": "\u5200\u99ac\u65e6",
       "url": "https://open.spotify.com/track/1pswmIQgTpkT60st4nO2cJ"
@@ -586,6 +608,24 @@
       "duration_ms": 260440,
       "name": "\u5916\u5957",
       "url": "https://open.spotify.com/track/40Miw1dxBDJcpSWOkmMYzz"
+    },
+    {
+      "album": {
+        "name": "\u7121\u61c8\u53ef\u64ca",
+        "url": "https://open.spotify.com/album/6ciDL1cv5YAxnR4pmZsTBU"
+      },
+      "artists": [
+        {
+          "name": "Energy",
+          "url": "https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265266,
+      "name": "\u591a\u611b\u6211\u4e00\u5929",
+      "url": "https://open.spotify.com/track/6m8XaBMtUedRBrZgPW1hMn"
     },
     {
       "album": {
@@ -744,7 +784,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 291013,
       "name": "\u5982\u679c\u6211\u8b8a\u6210\u56de\u61b6",
       "url": "https://open.spotify.com/track/4ZihPLUkdHJZ9XVhxMeFTG"
@@ -1105,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u760b\u4e86",
+        "url": "https://open.spotify.com/album/27JJfoHTVqikRN1KdOEJ2Y"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260399,
+      "name": "\u611b\u760b\u4e86",
+      "url": "https://open.spotify.com/track/6TESjwgzFHJUdLuUSkGCd0"
+    },
+    {
+      "album": {
         "name": "\u611b\u7684\u4e3b\u6253\u6b4c . \u543b",
         "url": "https://open.spotify.com/album/5aSyoVLZ2DrU8N1OzREx4D"
       },
@@ -1224,7 +1282,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 267200,
       "name": "\u6211\u5011\u90fd\u662f\u8caa\u611b\u7684\u4eba",
       "url": "https://open.spotify.com/track/7tW2dMojoXFk2d582xULrY"
@@ -1386,7 +1444,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 282066,
       "name": "\u653e\u624b",
       "url": "https://open.spotify.com/track/1Ol3u2KdyfuKb7RvsoGQ6c"
@@ -1877,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "\u5c07\u8ecd\u4ee4",
+        "url": "https://open.spotify.com/album/4gzvlZkw9S3Y89QjjmRBiO"
+      },
+      "artists": [
+        {
+          "name": "Kenji Wu",
+          "url": "https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286826,
+      "name": "\u7537\u50ad",
+      "url": "https://open.spotify.com/track/5JpMYUQyPU11WA4VE5DQAY"
+    },
+    {
+      "album": {
         "name": "Love and the City",
         "url": "https://open.spotify.com/album/5XJh9ZHnBRXz0EUswxCWUj"
       },
@@ -1949,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u9748\u9748",
+        "url": "https://open.spotify.com/album/3GBo7axjzMEIxHalkNWLBd"
+      },
+      "artists": [
+        {
+          "name": "Princess Ai",
+          "url": "https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "\u7a7a\u6e2f",
+      "url": "https://open.spotify.com/track/3ZPHnk7MiyhXBtkz27kNjS"
+    },
+    {
+      "album": {
         "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
         "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
       },
@@ -1978,7 +2072,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 286733,
       "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
@@ -2018,6 +2112,24 @@
       "duration_ms": 246906,
       "name": "\u7d42\u65bc\u8aaa\u51fa\u53e3",
       "url": "https://open.spotify.com/track/1otTVkd8lKmRuj8qfMSxdT"
+    },
+    {
+      "album": {
+        "name": "Fighting!\u751f\u5b58\u4e4b\u9053",
+        "url": "https://open.spotify.com/album/4IOL0XtsH9wOFM2LPCiujv"
+      },
+      "artists": [
+        {
+          "name": "TANK \u5442\u5efa\u5fe0",
+          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285280,
+      "name": "\u7d66\u6211\u4f60\u7684\u611b",
+      "url": "https://open.spotify.com/track/1mJVfsnUcrcNHlEgbUu3i3"
     },
     {
       "album": {

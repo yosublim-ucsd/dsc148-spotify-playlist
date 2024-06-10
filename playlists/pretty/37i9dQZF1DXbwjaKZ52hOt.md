@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,472 likes - 147 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,490 likes - 147 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Old MacDonald](https://open.spotify.com/track/5HDHI7vniziKvFwEZJxIbr) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Old MacDonald](https://open.spotify.com/album/7p2vDbyCJbRaD7dKIUNMiI) | 3:34 |
-| 2 | [Muffin Man](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon Dance Party](https://open.spotify.com/artist/51Lx4oj0jlay4n73B2K9uZ) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 |
+| 2 | [Muffin Man \- Dance Party](https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Sing, Dance, Party!, Vol\. 3](https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK) | 2:26 |
 | 3 | [Wheels on the Bus \(All Through the Town\)](https://open.spotify.com/track/6SHCXhux6u4DxIiy77E2al) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 2:10 |
 | 4 | [One, Two, Buckle My Shoe](https://open.spotify.com/track/3hW0KHABBsresOUik93KF6) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:33 |
 | 5 | [Open Shut Them](https://open.spotify.com/track/2bo8EzJS1zfT2AbnntJpuE) | [ItsyBitsyKids](https://open.spotify.com/artist/69sRWANSmSFxBlJ7yfx3Au) | [Open Shut Them](https://open.spotify.com/album/3BTzETecI6nG1FieG6dJWk) | 2:02 |

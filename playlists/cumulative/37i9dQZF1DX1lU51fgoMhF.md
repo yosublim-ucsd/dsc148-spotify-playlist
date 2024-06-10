@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-335 songs - 18 hr 26 min
+336 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Let's!](https://open.spotify.com/track/40VqYjRtOYCxrI75r7cOvj) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Let's!](https://open.spotify.com/album/5niLPpWSxNNrtXg5tqFGwa) | 3:15 | 2021-11-17 | 2022-07-29 |
 | [Let's!](https://open.spotify.com/track/6cYZ8BQtjOQ1aXXGMzrGJi) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Let's!](https://open.spotify.com/album/32qOVmx27Myng0ejTSby4n) | 3:15 | 2022-09-05 | 2022-11-13 |
 | [Lights](https://open.spotify.com/track/33d5dR5IjSAp2Tsn1xMLRA) | [HUH CHAN MI](https://open.spotify.com/artist/4gY9u8chPm8INGfJVBnWof) | [Highlight](https://open.spotify.com/album/6PjLh9gTBcXIn3r8XJiOHw) | 3:23 | 2021-11-17 | 2022-06-14 |
+| [Like that](https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like that](https://open.spotify.com/album/49i3C9ZMmMAXUBL0xbfrO3) | 2:36 | 2024-06-07 |  |
 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 | 2021-11-17 |  |
 | [Lonely Night](https://open.spotify.com/track/4XU6e2GZEivyaBWMR2zePc) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:52 | 2021-11-17 | 2022-07-29 |
 | [Lost In Paradise](https://open.spotify.com/track/14bgyEWJENob8xPy740fLa) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Love Synonym \#1: Right for Me](https://open.spotify.com/album/4RJIJFoKSzNmYKAJWJ23R6) | 3:45 | 2022-01-09 | 2022-07-06 |
@@ -334,7 +335,7 @@
 | [Why Don’t You Know](https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83) | 3:18 | 2021-11-17 |  |
 | [Why Don’t You Know](https://open.spotify.com/track/7BiaLnXa10sBpBEcFfm4PP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Hands on Me](https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn) | 3:18 | 2021-11-17 | 2022-07-21 |
 | [Wind And Wish](https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs) | 3:41 | 2023-05-16 | 2024-04-19 |
-| [Wind And Wish](https://open.spotify.com/track/1oIhaSskG6qqjtQUOru4hi) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/0V5Bcd4D8qMugSOh3GRJQ4) | 3:41 | 2023-09-14 |  |
+| [Wind And Wish](https://open.spotify.com/track/1oIhaSskG6qqjtQUOru4hi) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/0V5Bcd4D8qMugSOh3GRJQ4) | 3:41 | 2023-09-14 | 2024-06-10 |
 | [Wish](https://open.spotify.com/track/3yVpizetPa3ufcGFvbUi2L) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:16 | 2022-04-04 | 2022-04-20 |
 | [Woman on the beach \(from Cool Summer Project\)](https://open.spotify.com/track/1UyYXStg3u4KoZSZix3LGF) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [JEON WOONG](https://open.spotify.com/artist/7HkRTmxvjlJxL3lEOSxpqN) | [Woman on the beach \(from Cool Summer Project\)](https://open.spotify.com/album/4enSAj3eIdEse7OxIlxBzp) | 3:32 | 2022-01-09 | 2022-07-27 |
 | [You and I](https://open.spotify.com/track/2YainWN6brhIOvlSAFHlor) | [DARU](https://open.spotify.com/artist/1afLn1oD9z4DoWJ5PlGBUe) | [You and I](https://open.spotify.com/album/2fZgbEuJgGM1rBIPcmcEpa) | 3:29 | 2022-06-20 | 2022-07-29 |

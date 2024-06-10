@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
-  "num_followers": 40912,
+  "num_followers": 40917,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,38 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Facile \u00e0 danser",
+        "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Facile \u00e0 danser",
+      "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Me prends pas la t\u00eate",
+      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
       },
@@ -683,22 +715,6 @@
       "duration_ms": 136788,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Facile \u00e0 danser",
-        "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Facile \u00e0 danser",
-      "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -723,26 +739,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Page blanche",
-        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
-      },
-      "artists": [
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "Du feu",
-      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Il \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
       },
@@ -763,18 +759,38 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Mise \u00e0 jour",
-        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+        "name": "HASTA LA VISTA",
+        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Me prends pas la t\u00eate",
-      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
+      "duration_ms": 199666,
+      "name": "HASTA LA VISTA",
+      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Page blanche",
+        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "Du feu",
+      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -799,22 +815,34 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Longue Vie",
-        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
         }
       ],
-      "duration_ms": 121333,
-      "name": "Longue Vie",
-      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
+      "duration_ms": 153006,
+      "name": "NO LACK",
+      "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 157643,
+      "name": "Sentiments",
+      "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -839,18 +867,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "HASTA LA VISTA",
-        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
+        "name": "Longue Vie",
+        "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
       },
       "artists": [
         {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 199666,
-      "name": "HASTA LA VISTA",
-      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+      "duration_ms": 121333,
+      "name": "Longue Vie",
+      "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -871,38 +903,6 @@
       "duration_ms": 137533,
       "name": "SHE LIT",
       "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 157643,
-      "name": "Sentiments",
-      "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 153006,
-      "name": "NO LACK",
-      "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

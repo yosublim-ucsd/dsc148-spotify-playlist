@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,439 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,449 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Vida Peligrosa](https://open.spotify.com/track/5b0lXK1WJTKkDGbWlImwSb) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Vida Peligrosa](https://open.spotify.com/album/4rcHPUrI45fiiI02zqUZXa) | 2:46 |
 | 50 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 |
 
-Snapshot ID: `LffEcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LfkTmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

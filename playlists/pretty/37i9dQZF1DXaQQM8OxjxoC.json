@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 105951,
+  "num_followers": 106001,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+        "url": "https://open.spotify.com/album/6Aj0UehiTC5FPW590ywIbd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Jeremy Denk",
+          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
+        }
+      ],
+      "duration_ms": 235573,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+      "url": "https://open.spotify.com/track/77StsLxzzl5SD77dwTp45y"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Brahms: Symphony No. 3 / Haydn Variations",
         "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 518853,
       "name": "Symphony No. 3 in F Major, Op. 90: IV. Allegro",
       "url": "https://open.spotify.com/track/1c8IN6nSj9W7Orwb7XSDu8"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
-        "url": "https://open.spotify.com/album/6Aj0UehiTC5FPW590ywIbd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Jeremy Denk",
-          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
-        }
-      ],
-      "duration_ms": 235573,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
-      "url": "https://open.spotify.com/track/77StsLxzzl5SD77dwTp45y"
     },
     {
       "added_at": "2022-09-30 04:00:00",

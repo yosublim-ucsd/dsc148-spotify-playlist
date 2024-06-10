@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 
 > A journey through The Beatles' career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,744 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,799 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 | 30 | [Strawberry Fields Forever \- Remastered](https://open.spotify.com/track/5EuraV2jbqB15ihd3d2Hex) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC) | 4:07 |
 | 31 | [With A Little Help From My Friends \- Remastered 2017](https://open.spotify.com/track/08XKCwMrwEAyyfTCTGkkhg) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 2:45 |
 | 32 | [Lucy In The Sky With Diamonds \- Remastered 2017](https://open.spotify.com/track/2iIRl5jf9beA2ExZWzn2nt) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 3:27 |
-| 33 | [A Day In The Life \- Remix](https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 5:30 |
+| 33 | [A Day In The Life \- Remastered 2017](https://open.spotify.com/track/18qhv7DD1sEpgWffovGnhn) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 5:30 |
 | 34 | [All You Need Is Love \- Remastered](https://open.spotify.com/track/3xMSaDC9TU6AQJIsxQB7MK) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC) | 3:50 |
 | 35 | [Hello, Goodbye \- Remastered](https://open.spotify.com/track/7c76SiAfT7JkMiCm8BBCcP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC) | 3:28 |
 | 36 | [Your Mother Should Know \- Remastered](https://open.spotify.com/track/61iJ2np62qzaMdEcGvjICc) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/6P9yO0ukhOx3dvmhGKeYoC) | 2:28 |

@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 159786,
       "name": "Pistoleros Famosos",
       "url": "https://open.spotify.com/track/2BBIY8c9rASdkjGbinuPJG"
@@ -2938,6 +2938,24 @@
       "duration_ms": 204146,
       "name": "Se Mam\u00f3 El Becerro",
       "url": "https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW"
+    },
+    {
+      "album": {
+        "name": "Mi Guitarra y Yo Vol. 2",
+        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Se Me Mamo El Becerro",
+      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9210,
+  "num_followers": 9213,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAABD5Kcj8DfAiMWTJMtZ9uYi",
+  "snapshot_id": "ZmOfAAAAAAA0ulnk3nQkosUr+R7xuRmb",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Coleccion, Vol. 2",
-        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "Amor de Ayer",
-      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje A Los Grandes: Si No Hay Dinero",
         "url": "https://open.spotify.com/album/4FQQsHsftxdwECY3ixNwLk"
       },
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+        "name": "Tesoros de Coleccion, Vol. 2",
+        "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 177711,
-      "name": "De Su Vida Me Ire",
-      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
+      "duration_ms": 190720,
+      "name": "Amor de Ayer",
+      "url": "https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 146920,
       "name": "Mares de Licor - En Vivo",
       "url": "https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "De Su Vida Me Ire",
+      "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Rosas Tristes",
-      "url": "https://open.spotify.com/track/21gb8fPgoAR7V31dnqr0f0"
+      "duration_ms": 231533,
+      "name": "Le Doblamos La Edad",
+      "url": "https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB"
     },
     {
       "added_at": null,
@@ -800,29 +800,25 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 196140,
-      "name": "Eslabon por Eslabon",
-      "url": "https://open.spotify.com/track/4TAJnxpLy9BBJSVk9K76RI"
+      "duration_ms": 136730,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0CWwxmdt8IJK8V9sKsimiA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hasta La Miel Amarga (En vivo)",
-        "url": "https://open.spotify.com/album/4CiA8UW1cPEuZAg32uBjAp"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Hasta La Miel Amarga (En vivo)",
-      "url": "https://open.spotify.com/track/09svmcMAbgXvCsP1kMsLjj"
+      "duration_ms": 196075,
+      "name": "El Libro de los Dioses",
+      "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

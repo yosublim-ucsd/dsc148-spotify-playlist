@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1046022,
+  "num_followers": 1046130,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Orbit Love",
-        "url": "https://open.spotify.com/album/59uVepuwdR3cM7KdLt0LoY"
-      },
-      "artists": [
-        {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Orbit Love",
-      "url": "https://open.spotify.com/track/5xhWjK9OOzPyzBlAEQm3yn"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Shout (The Forgotten Remix)",
         "url": "https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 221928,
       "name": "Shout - The Forgotten Remix",
       "url": "https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Orbit Love",
+        "url": "https://open.spotify.com/album/59uVepuwdR3cM7KdLt0LoY"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Orbit Love",
+      "url": "https://open.spotify.com/track/5xhWjK9OOzPyzBlAEQm3yn"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "A Sea of Stars (Miami Nights 1984 Remix)",
-        "url": "https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq"
-      },
-      "artists": [
-        {
-          "name": "W O L F C L U B",
-          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
-        },
-        {
-          "name": "Miami Nights 1984",
-          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "A Sea of Stars (Miami Nights 1984 Remix)",
-      "url": "https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Summer Is Over (Fury Weekend Remix)",
         "url": "https://open.spotify.com/album/3ei5DAzCrXMzK4PXCqhBAg"
       },
@@ -351,22 +331,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
-      },
-      "artists": [
-        {
-          "name": "Wojciech Golczewski",
-          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
-        }
-      ],
-      "duration_ms": 182954,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/4ZmQvbyzljKnOcfC6ZOb3j"
       },
@@ -383,6 +347,42 @@
       "duration_ms": 223600,
       "name": "Wave",
       "url": "https://open.spotify.com/track/2Kdn0lEqOL7wG64z5AZVjy"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Golczewski",
+          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+        }
+      ],
+      "duration_ms": 182954,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "A Sea of Stars (Miami Nights 1984 Remix)",
+        "url": "https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq"
+      },
+      "artists": [
+        {
+          "name": "W O L F C L U B",
+          "url": "https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX"
+        },
+        {
+          "name": "Miami Nights 1984",
+          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "A Sea of Stars (Miami Nights 1984 Remix)",
+      "url": "https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "The Singles. Remastered.",
-        "url": "https://open.spotify.com/album/7lMD5BhMgGingxB0JqnDrW"
-      },
-      "artists": [
-        {
-          "name": "Midnight Danger",
-          "url": "https://open.spotify.com/artist/08oYIzltKqFzeg7pQg6hh4"
-        }
-      ],
-      "duration_ms": 289296,
-      "name": "The Last Day - Remastered",
-      "url": "https://open.spotify.com/track/10pgXAyLSj1Bitw7mmn4BV"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Space Between Us",
         "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 239360,
       "name": "Space Between Us",
       "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "The Singles. Remastered.",
+        "url": "https://open.spotify.com/album/7lMD5BhMgGingxB0JqnDrW"
+      },
+      "artists": [
+        {
+          "name": "Midnight Danger",
+          "url": "https://open.spotify.com/artist/08oYIzltKqFzeg7pQg6hh4"
+        }
+      ],
+      "duration_ms": 289296,
+      "name": "The Last Day - Remastered",
+      "url": "https://open.spotify.com/track/10pgXAyLSj1Bitw7mmn4BV"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
-      },
-      "artists": [
-        {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
-        }
-      ],
-      "duration_ms": 258941,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/4qVesAkDopkAbgW15jedIe"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 174083,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/1oSthFsXTiD5tIdzArvRZG"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 258941,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -951,46 +951,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Eleos",
-        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
-      },
-      "artists": [
-        {
-          "name": "Turbo Knight",
-          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
-        },
-        {
-          "name": "Edictum",
-          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
-        }
-      ],
-      "duration_ms": 394999,
-      "name": "Eleos",
-      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Lust",
-        "url": "https://open.spotify.com/album/1gn9kq6O81y2pvguH15UtG"
-      },
-      "artists": [
-        {
-          "name": "Kid Moxie",
-          "url": "https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa"
-        },
-        {
-          "name": "NINA",
-          "url": "https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG"
-        }
-      ],
-      "duration_ms": 346786,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/1mBBXvuinsqMYdvGK38Xe5"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "feel you",
         "url": "https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou"
       },
@@ -1015,6 +975,46 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/1gn9kq6O81y2pvguH15UtG"
+      },
+      "artists": [
+        {
+          "name": "Kid Moxie",
+          "url": "https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa"
+        },
+        {
+          "name": "NINA",
+          "url": "https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG"
+        }
+      ],
+      "duration_ms": 346786,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/1mBBXvuinsqMYdvGK38Xe5"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Athena",
+        "url": "https://open.spotify.com/album/3Xw2pZX3J0Ikx7r5ZBAzYm"
+      },
+      "artists": [
+        {
+          "name": "Turbo Knight",
+          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
+        },
+        {
+          "name": "Edictum",
+          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Athena",
+      "url": "https://open.spotify.com/track/1lLHIagfhBabAoaOowk6zv"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/06xszmQDKX7RjtOt5Xq4Kv"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "End",
-        "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
-      },
-      "artists": [
-        {
-          "name": "Ashel",
-          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
-        }
-      ],
-      "duration_ms": 180559,
-      "name": "End",
-      "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Video Knights",
         "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 252729,
       "name": "Video Knights",
       "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "End",
+        "url": "https://open.spotify.com/album/3Mk2cAyTC12pgzNtBXPPFq"
+      },
+      "artists": [
+        {
+          "name": "Ashel",
+          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
+        }
+      ],
+      "duration_ms": 180559,
+      "name": "End",
+      "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Athena",
-        "url": "https://open.spotify.com/album/3Xw2pZX3J0Ikx7r5ZBAzYm"
+        "name": "Eleos",
+        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Athena",
-      "url": "https://open.spotify.com/track/1lLHIagfhBabAoaOowk6zv"
+      "duration_ms": 394999,
+      "name": "Eleos",
+      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
+      },
+      "artists": [
+        {
+          "name": "Ace Buchannon",
+          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "E.P.R.O.M.",
         "url": "https://open.spotify.com/album/5keuEvutmfqj8DNbcnoiZS"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
-      },
-      "artists": [
-        {
-          "name": "Ace Buchannon",
-          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Dreaming of the Deep",
-        "url": "https://open.spotify.com/album/398LcZVqf9sLUiV2nyeFEx"
-      },
-      "artists": [
-        {
-          "name": "Fear Of Tigers",
-          "url": "https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy"
-        }
-      ],
-      "duration_ms": 207143,
-      "name": "Ocean of Love - Ben's Gentle Re-Rub",
-      "url": "https://open.spotify.com/track/2MPd4ZQH9WNQ6IIuYTFa13"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Midnight Rush",
         "url": "https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 227478,
       "name": "Midnight Rush",
       "url": "https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Dreaming of the Deep",
+        "url": "https://open.spotify.com/album/398LcZVqf9sLUiV2nyeFEx"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Tigers",
+          "url": "https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy"
+        }
+      ],
+      "duration_ms": 207143,
+      "name": "Ocean of Love - Ben's Gentle Re-Rub",
+      "url": "https://open.spotify.com/track/2MPd4ZQH9WNQ6IIuYTFa13"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Nostalgie",
-        "url": "https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO"
+        "name": "Pressure Point",
+        "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
       },
       "artists": [
         {
-          "name": "Atrey",
-          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
+          "name": "Eagle Eyed Tiger",
+          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Nostalgie",
-      "url": "https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0"
+      "duration_ms": 236216,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1507,22 +1507,6 @@
       "duration_ms": 197000,
       "name": "Disco on the Baltic Sea",
       "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Pressure Point",
-        "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
-      },
-      "artists": [
-        {
-          "name": "Eagle Eyed Tiger",
-          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
-        }
-      ],
-      "duration_ms": 236216,
-      "name": "Tessellate",
-      "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1547,6 +1531,22 @@
       "duration_ms": 261707,
       "name": "Lumen - Sightlok Remix",
       "url": "https://open.spotify.com/track/2xDq5LHlqyrTAyo377caDv"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Nostalgie",
+        "url": "https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO"
+      },
+      "artists": [
+        {
+          "name": "Atrey",
+          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1599,42 +1599,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Party In Panama (Remixes)",
-        "url": "https://open.spotify.com/album/1Zm0ls2GAsMmZTKEUssQEi"
-      },
-      "artists": [
-        {
-          "name": "Sweet Tempest",
-          "url": "https://open.spotify.com/artist/3CHvSnSovfNQBCwGgGMy3s"
-        },
-        {
-          "name": "Julian Winding",
-          "url": "https://open.spotify.com/artist/2n73yy6NNrGAo8wMDzmRax"
-        }
-      ],
-      "duration_ms": 324300,
-      "name": "Party in Panama (Julian Winding Remix)",
-      "url": "https://open.spotify.com/track/1QQcWkDHB1sVxu46jLt9gJ"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Machine Wired",
-        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
-      },
-      "artists": [
-        {
-          "name": "SelloRekt / LA Dreams",
-          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
-        }
-      ],
-      "duration_ms": 243348,
-      "name": "Modern Touch",
-      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Try / Dark Strings",
         "url": "https://open.spotify.com/album/1OwAemnirDJgzAms6uBbDR"
       },
@@ -1655,6 +1619,22 @@
       "duration_ms": 224001,
       "name": "Try",
       "url": "https://open.spotify.com/track/3J3kAVctdwSU4wQ0CDz7aB"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Machine Wired",
+        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
+      },
+      "artists": [
+        {
+          "name": "SelloRekt / LA Dreams",
+          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
+        }
+      ],
+      "duration_ms": 243348,
+      "name": "Modern Touch",
+      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1687,6 +1667,26 @@
       "duration_ms": 278130,
       "name": "October",
       "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Party In Panama (Remixes)",
+        "url": "https://open.spotify.com/album/1Zm0ls2GAsMmZTKEUssQEi"
+      },
+      "artists": [
+        {
+          "name": "Sweet Tempest",
+          "url": "https://open.spotify.com/artist/3CHvSnSovfNQBCwGgGMy3s"
+        },
+        {
+          "name": "Julian Winding",
+          "url": "https://open.spotify.com/artist/2n73yy6NNrGAo8wMDzmRax"
+        }
+      ],
+      "duration_ms": 324300,
+      "name": "Party in Panama (Julian Winding Remix)",
+      "url": "https://open.spotify.com/track/1QQcWkDHB1sVxu46jLt9gJ"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Parallel Reality",
-        "url": "https://open.spotify.com/album/0Az4ZauP73xbD8xGTgbRn0"
-      },
-      "artists": [
-        {
-          "name": "Cassetter",
-          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
-        },
-        {
-          "name": "Zane Alexander",
-          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
-        }
-      ],
-      "duration_ms": 406199,
-      "name": "Foggy Beach Memories",
-      "url": "https://open.spotify.com/track/5VnDVoshMrB0hv6xDZ37bx"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Temporarity (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 258000,
       "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
       "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Parallel Reality",
+        "url": "https://open.spotify.com/album/0Az4ZauP73xbD8xGTgbRn0"
+      },
+      "artists": [
+        {
+          "name": "Cassetter",
+          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
+        },
+        {
+          "name": "Zane Alexander",
+          "url": "https://open.spotify.com/artist/3YZb2aI52lJJK9ektquNK7"
+        }
+      ],
+      "duration_ms": 406199,
+      "name": "Foggy Beach Memories",
+      "url": "https://open.spotify.com/track/5VnDVoshMrB0hv6xDZ37bx"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Night Drive",
         "url": "https://open.spotify.com/album/4spESXBYtw3ZhNL65irFQK"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 188011,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/62FkSw742wuXEtfQLWc0qr"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Fluorescence",
-        "url": "https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw"
-      },
-      "artists": [
-        {
-          "name": "Odyssette",
-          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
-        },
-        {
-          "name": "Melllo",
-          "url": "https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "Fluorescence",
-      "url": "https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "Kame House",
         "url": "https://open.spotify.com/album/2gU8WHMubp57KZ2wBnIodF"
       },
@@ -2079,6 +2059,26 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
+        "name": "Fluorescence",
+        "url": "https://open.spotify.com/album/5TVBn9QpUdKzjGYtI3snGw"
+      },
+      "artists": [
+        {
+          "name": "Odyssette",
+          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
+        },
+        {
+          "name": "Melllo",
+          "url": "https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "Fluorescence",
+      "url": "https://open.spotify.com/track/4K3onPe55qb2WsgrvOZmu7"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
         "name": "SILHOUETTE",
         "url": "https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ"
       },
@@ -2107,26 +2107,6 @@
       "duration_ms": 263076,
       "name": "Sin",
       "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Polarity",
-        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
-      },
-      "artists": [
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Days Away",
-      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2175,34 +2155,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
+        "name": "Polarity",
+        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
       },
       "artists": [
         {
-          "name": "Older Future",
-          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
-        }
-      ],
-      "duration_ms": 307747,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c"
-      },
-      "artists": [
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        },
         {
-          "name": "ner\u00f8",
-          "url": "https://open.spotify.com/artist/4NTzAb63RDT3yUcOSXlP5H"
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Redux",
-      "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
+      "duration_ms": 210000,
+      "name": "Days Away",
+      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2227,22 +2195,34 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Sweet Gold (Ishi Rework)",
-        "url": "https://open.spotify.com/album/41ZcvkwalOB9ysrTUINMWJ"
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c"
       },
       "artists": [
         {
-          "name": "Ishi",
-          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
-        },
-        {
-          "name": "Nia Brock",
-          "url": "https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k"
+          "name": "ner\u00f8",
+          "url": "https://open.spotify.com/artist/4NTzAb63RDT3yUcOSXlP5H"
         }
       ],
-      "duration_ms": 208453,
-      "name": "Sweet Gold (Ishi Rework)",
-      "url": "https://open.spotify.com/track/7oMX85MldA1mO179d50SVQ"
+      "duration_ms": 144000,
+      "name": "Redux",
+      "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
+      },
+      "artists": [
+        {
+          "name": "Older Future",
+          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
+        }
+      ],
+      "duration_ms": 307747,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2263,18 +2243,22 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Turnover",
-        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+        "name": "Sweet Gold (Ishi Rework)",
+        "url": "https://open.spotify.com/album/41ZcvkwalOB9ysrTUINMWJ"
       },
       "artists": [
         {
-          "name": "Envotion",
-          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
+          "name": "Ishi",
+          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
+        },
+        {
+          "name": "Nia Brock",
+          "url": "https://open.spotify.com/artist/3dcSf5pZ3LaQFZu7UeWg3k"
         }
       ],
-      "duration_ms": 185100,
-      "name": "Turnover",
-      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
+      "duration_ms": 208453,
+      "name": "Sweet Gold (Ishi Rework)",
+      "url": "https://open.spotify.com/track/7oMX85MldA1mO179d50SVQ"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2291,6 +2275,22 @@
       "duration_ms": 267752,
       "name": "Falkor Flight",
       "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+      },
+      "artists": [
+        {
+          "name": "Envotion",
+          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Infinite Jogger",
-        "url": "https://open.spotify.com/album/5GaaKGIqwuv4yg5NV19aQu"
-      },
-      "artists": [
-        {
-          "name": "Pink Pyramid",
-          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Infinite Jogger",
-      "url": "https://open.spotify.com/track/2zJHMUjk8MTBg1mOpQhujA"
-    },
-    {
-      "added_at": "2023-11-27 18:55:30",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1a4KPNAikeEqQLjd89sXXd"
       },
@@ -2543,18 +2527,18 @@
     {
       "added_at": "2023-11-27 18:55:30",
       "album": {
-        "name": "Krater 3000",
-        "url": "https://open.spotify.com/album/63OaEhzeCzMhLmhic0W1wY"
+        "name": "Infinite Jogger",
+        "url": "https://open.spotify.com/album/5GaaKGIqwuv4yg5NV19aQu"
       },
       "artists": [
         {
-          "name": "Mono-Tone",
-          "url": "https://open.spotify.com/artist/6x0lWImvRmAYedYhoQkjUx"
+          "name": "Pink Pyramid",
+          "url": "https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Krater 3000",
-      "url": "https://open.spotify.com/track/6CcXm3RDDNfSjI0AxzYnNC"
+      "duration_ms": 183652,
+      "name": "Infinite Jogger",
+      "url": "https://open.spotify.com/track/2zJHMUjk8MTBg1mOpQhujA"
     },
     {
       "added_at": "2023-11-27 18:55:30",
@@ -2571,6 +2555,22 @@
       "duration_ms": 155227,
       "name": "keep on",
       "url": "https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO"
+    },
+    {
+      "added_at": "2023-11-27 18:55:30",
+      "album": {
+        "name": "Krater 3000",
+        "url": "https://open.spotify.com/album/63OaEhzeCzMhLmhic0W1wY"
+      },
+      "artists": [
+        {
+          "name": "Mono-Tone",
+          "url": "https://open.spotify.com/artist/6x0lWImvRmAYedYhoQkjUx"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Krater 3000",
+      "url": "https://open.spotify.com/track/6CcXm3RDDNfSjI0AxzYnNC"
     },
     {
       "added_at": "2023-11-27 18:55:30",

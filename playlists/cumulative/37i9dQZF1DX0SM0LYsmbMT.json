@@ -48920,7 +48920,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -69948,6 +69948,28 @@
       "duration_ms": 113500,
       "name": "Sunnyside",
       "url": "https://open.spotify.com/track/2RLDmgHy90GvMXRKnwBmCO"
+    },
+    {
+      "album": {
+        "name": "Sunnyy",
+        "url": "https://open.spotify.com/album/3w5VrF0jlNQKgE0lpXAAlF"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Gatz2Gatz",
+          "url": "https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Sunnyy",
+      "url": "https://open.spotify.com/track/5ns3tAQAJl9WaUVbVvP9Z4"
     },
     {
       "album": {

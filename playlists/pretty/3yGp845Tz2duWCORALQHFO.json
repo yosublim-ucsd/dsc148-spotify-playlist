@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25701,
+  "num_followers": 25706,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABfxEDEiCiqY/hgjbBNxwrxajdbmEOB",
+  "snapshot_id": "AABfx9s/+2gKGWUuMxPcdP9ztcFK06Yb",
   "tracks": [
     {
       "added_at": "2024-06-07 11:47:25",
@@ -577,6 +577,42 @@
       "url": "https://open.spotify.com/track/3Thy9oRmhIwfQEJLGswqBX"
     },
     {
+      "added_at": "2024-06-09 20:02:51",
+      "album": {
+        "name": "Strangers in the Night (Radio-Edit)",
+        "url": "https://open.spotify.com/album/0LvLW5YsMwMZpWZt0vStMQ"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6rd\u00f6n V\u00ef\u00ebch\u00ef\u00eblst\u00eb\u00efn",
+          "url": "https://open.spotify.com/artist/3lPVbcoBrGJe2KNsKWQwHp"
+        },
+        {
+          "name": "jaixj",
+          "url": "https://open.spotify.com/artist/18wXu2rWY2oPRBgg9vMhup"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Strangers in the Night - Radio-Edit",
+      "url": "https://open.spotify.com/track/1P0AkIjAqZx5Pz6Lq3RVP3"
+    },
+    {
+      "added_at": "2024-06-09 20:01:51",
+      "album": {
+        "name": "Summer (This Time Around)",
+        "url": "https://open.spotify.com/album/3vCPMWe5UUVtU09qNdPvhJ"
+      },
+      "artists": [
+        {
+          "name": "Lotrios Ferno",
+          "url": "https://open.spotify.com/artist/7oJErfmeBzX5ySSwxr6r7G"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Summer (This Time Around)",
+      "url": "https://open.spotify.com/track/3DzrAlGONZCJU2uoj7ewoq"
+    },
+    {
       "added_at": "2024-06-07 11:47:25",
       "album": {
         "name": "Dominator",
@@ -951,6 +987,22 @@
       "duration_ms": 115826,
       "name": "Surreal (feat. myne)",
       "url": "https://open.spotify.com/track/7aqLQxff4CFrCp4iyzipmW"
+    },
+    {
+      "added_at": "2024-06-09 20:02:53",
+      "album": {
+        "name": "Ju\u00e1rez N\u00famero Uno",
+        "url": "https://open.spotify.com/album/7HLAvi8XC3mCR19THzUPMx"
+      },
+      "artists": [
+        {
+          "name": "Ju\u00e1rez N\u00famero Uno",
+          "url": "https://open.spotify.com/artist/0JEE0kJdxKbAXfIXE0tn83"
+        }
+      ],
+      "duration_ms": 242267,
+      "name": "Ju\u00e1rez N\u00famero Uno",
+      "url": "https://open.spotify.com/track/5k3EFe2Ro3WmRRNS9OIPdm"
     },
     {
       "added_at": "2024-06-07 11:47:25",

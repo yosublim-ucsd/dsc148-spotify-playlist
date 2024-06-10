@@ -4,7 +4,7 @@
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: MXFRUIT
 
-314 songs - 18 hr 7 min
+315 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,13 +30,14 @@
 | [CRASH MY BIKE](https://open.spotify.com/track/2fbz0wCJXbyW3rXADs9idG) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [CRASH MY BIKE](https://open.spotify.com/album/2A4kMg4d1rfnvIT2RlZLTK) | 2:50 | 2024-02-06 | 2024-04-03 |
 | [Cruel World](https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Cruel World](https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO) | 3:47 | 2023-11-07 | 2023-11-30 |
 | [Crush on Me!](https://open.spotify.com/track/67asd8I07UeZyeCpnfagFe) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [Crush on Me!](https://open.spotify.com/album/4wOHpwZntpunD9XKya6l6K) | 3:12 | 2024-06-04 |  |
+| [DANCING ON A GRAVEYARD](https://open.spotify.com/track/50kPsp9qv18LL7Eh3oSShy) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [DANCING ON A GRAVEYARD](https://open.spotify.com/album/48ierpG5JJ6wAVEVcpU2kU) | 3:16 | 2024-06-09 |  |
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-08-01 | 2024-01-10 |
 | [die tryin](https://open.spotify.com/track/6zjuUubQ26bJCSKRHl7HWe) | [PETITE](https://open.spotify.com/artist/5vWJurEtxoZLhVxk7IyUzF) | [die tryin](https://open.spotify.com/album/5s12mNEdkZejLi53ujMoyb) | 3:13 | 2023-06-06 | 2023-07-05 |
 | [DON'T FALL IN LOVE \(feat\. PUN\)](https://open.spotify.com/track/7JrgdbofUWR1UBHHC5n6u0) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DON'T FALL IN LOVE \(feat\. PUN\)](https://open.spotify.com/album/7qgt1dObqd1naGdDGX7sKH) | 2:37 | 2024-04-02 | 2024-05-01 |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-10-03 |  |
 | [Drama](https://open.spotify.com/track/33rftZ60bxUaaU4jvLu4H8) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2), [Anna](https://open.spotify.com/artist/5br4h6xtm7ia5hdlAOZNJB) | [Drama](https://open.spotify.com/album/2fMTQsZ61llG07WaxUosXf) | 3:31 | 2023-08-01 | 2023-09-07 |
 | [Elevator Love](https://open.spotify.com/track/4CI4u6TeYw5vA72frOuRIP) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [Elevator Love](https://open.spotify.com/album/0ylWBxyLakaO0BPc5iNqfr) | 3:32 | 2023-07-04 | 2023-10-04 |
-| [ENVY](https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ENVY](https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2) | 3:22 | 2024-03-05 |  |
+| [ENVY](https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ENVY](https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2) | 3:22 | 2024-03-05 | 2024-06-10 |
 | [EX](https://open.spotify.com/track/2jHipIIvKgwU9mfqSnyO8u) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [EX](https://open.spotify.com/album/4mWqh7YtQpM8rKOYYTncig) | 3:28 | 2024-06-04 |  |
 | [Eyes Don't Lie \- JP Ver.](https://open.spotify.com/track/5IxRvmQc0J3G1yjjxko5l1) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Eyes Don't Lie \(JP Ver.\)](https://open.spotify.com/album/2e8zIRq807DNHxibKqliZv) | 3:08 | 2023-08-01 | 2023-09-07 |
 | [Fail](https://open.spotify.com/track/1IEJQb8o3ycwnmJMVJnmod) | [Aoey Jiratch](https://open.spotify.com/artist/04G536Wv50f36dAfhVzotA), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Fail](https://open.spotify.com/album/5GsnF3iI3Ziv9jJUdhGqHF) | 3:18 | 2023-08-01 | 2023-10-04 |

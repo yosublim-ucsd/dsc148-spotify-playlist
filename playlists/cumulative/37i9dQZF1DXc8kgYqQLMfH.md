@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,158 songs - 1 day 20 hr 0 min
+1,159 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2021-11-10 | 2022-06-10 |
 | [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 |  |
 | [Cotton Cloud](https://open.spotify.com/track/0MF8Kt0jkvQAyGHumTc7CF) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Cotton Cloud](https://open.spotify.com/album/7jWSbj1bC222IlvFNTnosl) | 1:44 | 2023-02-17 |  |
-| [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 |  |
+| [Couchmode](https://open.spotify.com/track/0mOSYHXYzIUan2YBsuMXe9) | [Djevka](https://open.spotify.com/artist/4MaUAgGipMKGcl5K3IjzlX) | [Couchmode](https://open.spotify.com/album/6ayLD01oNMaMqCmTHUsc6u) | 2:17 | 2022-10-28 | 2024-06-10 |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-11-10 | 2022-07-22 |
 | [Cozy](https://open.spotify.com/track/4GJmFQTiFcpTHxhu08RIlx) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [Cozy](https://open.spotify.com/album/4AYK42KZsekEDCi1rxnYN5) | 2:28 | 2024-01-05 |  |
 | [Cozy Cabin](https://open.spotify.com/track/7nnnBJFl8r283qVvKsMk6z) | [Elon Husky](https://open.spotify.com/artist/4MSu62C3898KnZ5tNT3MKI) | [Cozy Cabin](https://open.spotify.com/album/77VvjjPPUHVzYz0Hvo5qPL) | 2:58 | 2023-12-08 |  |
@@ -599,7 +599,7 @@
 | [Love Over The Phone](https://open.spotify.com/track/5Ho3HXJO68t5RHCQJ27vWz) | [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [Blurred Figures](https://open.spotify.com/artist/3vVw6m3rihy77VuqxApdLA), [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC) | [Love Over The Phone](https://open.spotify.com/album/6DfreX8bo3gTFx49Xmn6Xj) | 3:10 | 2022-04-08 | 2022-12-10 |
 | [Love Shack](https://open.spotify.com/track/5J9c1In9AafzEqc4SGJF6d) | [Dreams For Two](https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe), [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5), [her.story](https://open.spotify.com/artist/6C8MeXJkwcF5AiHVMFNPoO) | [Love Shack](https://open.spotify.com/album/62XmmRMSjwcKmXYgNamW7R) | 1:23 | 2022-10-28 | 2023-10-06 |
 | [Lovely Night](https://open.spotify.com/track/4nCrAxvmNdPntO37lCdFkh) | [nevo.](https://open.spotify.com/artist/2vV98fjglGnlsT0ygRPcnL) | [Lovely Night](https://open.spotify.com/album/7lThMWYyqQCYCDLPNkzZwQ) | 2:37 | 2022-07-08 | 2023-09-22 |
-| [Low Games](https://open.spotify.com/track/4PM6vMw5PXjGqQwgggO6Ay) | [Lala Vega & the Rookies](https://open.spotify.com/artist/3NOwCiCBRXtxSG9xcBi3IR) | [Low Games](https://open.spotify.com/album/4O9KYWpLLmC9qXrNo6sjcA) | 2:08 | 2023-03-01 |  |
+| [Low Games](https://open.spotify.com/track/4PM6vMw5PXjGqQwgggO6Ay) | [Lala Vega & the Rookies](https://open.spotify.com/artist/3NOwCiCBRXtxSG9xcBi3IR) | [Low Games](https://open.spotify.com/album/4O9KYWpLLmC9qXrNo6sjcA) | 2:08 | 2023-03-01 | 2024-06-10 |
 | [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 2:20 | 2021-11-10 | 2023-03-02 |
 | [Lowtide or Lazy \(LoL\)](https://open.spotify.com/track/6LY3WPaO30WJZpsPMgMlUg) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Lowtide or Lazy \(LoL\)](https://open.spotify.com/album/67OUz7ozv8dG3Gbpqvnzsb) | 3:30 | 2021-11-10 | 2022-09-17 |
 | [Lucid Dreams](https://open.spotify.com/track/0TwLsrWtzGYbOYB6Z936vR) | [Nivla](https://open.spotify.com/artist/3VkGnJN59AU5YmXltksYR5) | [Lucid Dreams](https://open.spotify.com/album/4XaOFl3tYNQ4kyoCXkvAQ5) | 1:22 | 2022-06-17 | 2023-04-28 |
@@ -806,6 +806,7 @@
 | [Popcorn Harvest](https://open.spotify.com/track/0CYzr54h1vtNkxh107m0HI) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Popcorn Harvest](https://open.spotify.com/album/329thzZNqZjgNtQyptMxKu) | 2:37 | 2021-11-10 | 2022-04-08 |
 | [Portugal](https://open.spotify.com/track/3veP9Z9IG4gxTa951pgVlN) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Portugal](https://open.spotify.com/album/5MmjBiPS7LyXxUidGRXgLm) | 1:57 | 2023-05-19 | 2023-10-13 |
 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2021-11-10 | 2022-10-29 |
+| [Posted](https://open.spotify.com/track/6sk7bDKXSSEemZOPkNPWGa) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Posted](https://open.spotify.com/album/51YrUF6pCS8V2cUVoHaiQ0) | 2:20 | 2024-06-05 |  |
 | [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 | 2023-01-06 |  |
 | [present](https://open.spotify.com/track/2ygHOivjzwJjy4ItsjweHv) | [The King Chameleon](https://open.spotify.com/artist/5a3jN23M7PMCPVFaASjHmK) | [present](https://open.spotify.com/album/5Qf3SwYMlSK7DDsFYffaso) | 3:02 | 2022-06-17 | 2023-09-22 |
 | [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 |  |
@@ -831,7 +832,7 @@
 | [Red Lotus](https://open.spotify.com/track/6vDkLO9STbIiD5fvnoV3m0) | [All In One Day](https://open.spotify.com/artist/79D0IopCxMqbXmt7AYmG39) | [Red Lotus](https://open.spotify.com/album/6NoJVAllOIjeSSzJuYOXV8) | 2:04 | 2021-11-10 | 2022-10-15 |
 | [Red Wine at Dawn](https://open.spotify.com/track/5w7snuYJzYBSeCwgZPwpME) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Red Wine at Dawn](https://open.spotify.com/album/78JpJyBCQgkOIVdk91YwE3) | 3:01 | 2021-11-10 | 2023-03-18 |
 | [Reel Feelings](https://open.spotify.com/track/1AL8CEWwVRkDSfY9EKSTQF) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [Reel Feelings](https://open.spotify.com/album/4EI38sWBJMU7bmEamMbmP9) | 2:07 | 2022-10-01 | 2024-05-14 |
-| [Reflecting Light](https://open.spotify.com/track/1HHyhFkYrokYeNR16GiGx9) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Reflecting Light](https://open.spotify.com/album/6GHH0NWPTGcNAvUiR6kTPh) | 2:41 | 2022-12-23 | 2024-05-19 |
+| [Reflecting Light](https://open.spotify.com/track/1HHyhFkYrokYeNR16GiGx9) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Reflecting Light](https://open.spotify.com/album/6GHH0NWPTGcNAvUiR6kTPh) | 2:41 | 2022-12-23 |  |
 | [Reforged](https://open.spotify.com/track/7jjbHjzqKWpMlZi3lJYb7U) | [LoFi Squad](https://open.spotify.com/artist/7h60BEfYJHccbTPcIDezST) | [Reforged](https://open.spotify.com/album/3rnNDq2QpuGwnHokXZs7A6) | 2:21 | 2022-09-23 | 2023-04-28 |
 | [Remedial Education](https://open.spotify.com/track/39tSKZOv3jSmAi9F4kgAZZ) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [All Awash](https://open.spotify.com/album/7KbnTBtPzsjAcC0CuDByv6) | 2:38 | 2021-11-10 | 2022-07-29 |
 | [Reminder](https://open.spotify.com/track/0ZFovY24PezbGWAPlpTCjU) | [Rebornn.](https://open.spotify.com/artist/4AH2QR4gCcRgWWzJ1mn5pz) | [Reminder](https://open.spotify.com/album/2QhxYPXYMo0h59LIPWjqC3) | 2:15 | 2021-11-10 | 2022-11-20 |

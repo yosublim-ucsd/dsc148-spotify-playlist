@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house with Julian Jordan",
-  "num_followers": 444536,
+  "num_followers": 444572,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 192390,
       "name": "GASOLINA & COCAINA",
       "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Jiggy Woogie",
         "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
       },
@@ -975,22 +959,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "FAME?",
-        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
       },
       "artists": [
         {
           "name": "ero808",
           "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 142562,
-      "name": "FAME?",
-      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1017,6 +997,22 @@
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4hgySpGDjputCw0tgHD96d"
+      },
+      "artists": [
+        {
+          "name": "Lektrique",
+          "url": "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/2HLAnzeY4r794YnCq2JlgN"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "BAD",
@@ -1035,22 +1031,6 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4hgySpGDjputCw0tgHD96d"
-      },
-      "artists": [
-        {
-          "name": "Lektrique",
-          "url": "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/2HLAnzeY4r794YnCq2JlgN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1075,6 +1055,26 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "FAME?",
+        "url": "https://open.spotify.com/album/7afE7fQMNPIS4EYhyEi55z"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 142562,
+      "name": "FAME?",
+      "url": "https://open.spotify.com/track/5zn6eUXHpt3JjEB7XAXyaf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Freedom (Body Ocean Remix)",
         "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1569,6 +1569,46 @@
       "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "No Competition",
+        "url": "https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p"
+      },
+      "artists": [
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "Conor Grant",
+          "url": "https://open.spotify.com/artist/6XnqmaX7HOSDoHZYQow9zt"
+        }
+      ],
+      "duration_ms": 193258,
+      "name": "No Competition",
+      "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
+      },
+      "artists": [
+        {
+          "name": "Luxo",
+          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
+        },
+        {
+          "name": "PINEO & LOEB",
+          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
+        }
+      ],
+      "duration_ms": 161428,
+      "name": "Chrome",
+      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Dare (Gimme 5)",
@@ -1607,26 +1647,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/28LsxANYPdphsjifnCR1xo"
-      },
-      "artists": [
-        {
-          "name": "Luxo",
-          "url": "https://open.spotify.com/artist/3ECUg6kTV5tp9vJ2UFNYZ9"
-        },
-        {
-          "name": "PINEO & LOEB",
-          "url": "https://open.spotify.com/artist/7LildCOU5me58NKlvsLVRI"
-        }
-      ],
-      "duration_ms": 161428,
-      "name": "Chrome",
-      "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Mobbing",
         "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 211200,
       "name": "Mobbing",
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "No Competition",
-        "url": "https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p"
-      },
-      "artists": [
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        },
-        {
-          "name": "Conor Grant",
-          "url": "https://open.spotify.com/artist/6XnqmaX7HOSDoHZYQow9zt"
-        }
-      ],
-      "duration_ms": 193258,
-      "name": "No Competition",
-      "url": "https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 201904,
       "name": "Goons",
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1861,22 +1861,6 @@
       "url": "https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "HABANERO",
-        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "HABANERO",
-      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "All I Need",
@@ -1891,6 +1875,22 @@
       "duration_ms": 146250,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2025,22 +2025,6 @@
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 126720,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Vibration",
@@ -2055,6 +2039,22 @@
       "duration_ms": 230977,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/4613nvw3ll31NrUW5TCuSW"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/7HBt3brXr9Ml3NlMdkWh2o"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/5Ucm2UUTCrHXyRpD0qpEaj"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2197,6 +2197,22 @@
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Don't Need U",
+        "url": "https://open.spotify.com/album/2tVR3DTOaL7dbKQpUKgcqM"
+      },
+      "artists": [
+        {
+          "name": "Mad Miguel",
+          "url": "https://open.spotify.com/artist/21fqKfKRAPydpw3u8KPtRr"
+        }
+      ],
+      "duration_ms": 147157,
+      "name": "Don't Need U",
+      "url": "https://open.spotify.com/track/0M334leIc51SErTtCd7SG0"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "I\u2019m A Freak (feat. Kazhi)",
@@ -2219,22 +2235,6 @@
       "duration_ms": 156190,
       "name": "I\u2019m A Freak (feat. Kazhi)",
       "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Don't Need U",
-        "url": "https://open.spotify.com/album/2tVR3DTOaL7dbKQpUKgcqM"
-      },
-      "artists": [
-        {
-          "name": "Mad Miguel",
-          "url": "https://open.spotify.com/artist/21fqKfKRAPydpw3u8KPtRr"
-        }
-      ],
-      "duration_ms": 147157,
-      "name": "Don't Need U",
-      "url": "https://open.spotify.com/track/0M334leIc51SErTtCd7SG0"
     },
     {
       "added_at": "2024-04-19 04:00:00",

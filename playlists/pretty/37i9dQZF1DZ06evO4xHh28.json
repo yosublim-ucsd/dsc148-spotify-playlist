@@ -1,12 +1,12 @@
 {
-  "description": "This Is My Chemical Romance. Los temas esenciales, todos en una lista.",
-  "num_followers": 560963,
+  "description": "This is My Chemical Romance. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "num_followers": 561083,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAADN4NIMSnZvviL4QbYLxqFl",
+  "snapshot_id": "ZmOfAAAAAABseYHjBGJIPbylWUeuipbX",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
-      "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Three",
         "url": "https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 294680,
       "name": "The World Is Ugly",
       "url": "https://open.spotify.com/track/6VtcgrVYo2xfygcWAfRpd1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous Last Words",
-        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
+        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 268883,
-      "name": "Kill All Your Friends",
-      "url": "https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a"
+      "duration_ms": 270386,
+      "name": "SING",
+      "url": "https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys",
-        "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
+        "name": "Famous Last Words",
+        "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 270386,
-      "name": "SING",
-      "url": "https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI"
+      "duration_ms": 268883,
+      "name": "Kill All Your Friends",
+      "url": "https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to the Black Parade",
         "url": "https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz"
       },
@@ -523,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Surrender the Night",
-      "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Two",
         "url": "https://open.spotify.com/album/2WzXUz0hVD8s9FBmpIl9XM"
       },
@@ -551,6 +555,22 @@
       "duration_ms": 232173,
       "name": "AMBULANCE",
       "url": "https://open.spotify.com/track/1X75XA77E14HqCCBfkl5FM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Surrender the Night",
+      "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
     },
     {
       "added_at": null,
@@ -587,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "Burn Bright",
-      "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Number Four",
         "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
       },
@@ -615,6 +619,22 @@
       "duration_ms": 188906,
       "name": "Kiss the Ring",
       "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 257120,
+      "name": "Burn Bright",
+      "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
     },
     {
       "added_at": null,

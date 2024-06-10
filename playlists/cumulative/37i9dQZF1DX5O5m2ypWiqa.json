@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Joan Sebastian",
+        "url": "https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "El Peor De Tus Antojos",
+      "url": "https://open.spotify.com/track/2oipHDyjAILailWMTyIKMo"
+    },
+    {
+      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 189387,
       "name": "Frio De Aucencia",
       "url": "https://open.spotify.com/track/3YxSPQh2jQgyxrLdB9tKqK"
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 179017,
       "name": "Muchas Gracias",
       "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/4bjemSdlRBzNqP86omaKbq"

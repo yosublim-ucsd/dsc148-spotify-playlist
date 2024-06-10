@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
-  "num_followers": 38817,
+  "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
+  "num_followers": 38826,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAACfrqQvV90aJAnsgOeGm8Wv",
+  "snapshot_id": "ZmOfAAAAAACWYQVvnI0GHctFiuU28ICU",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 296986,
-      "name": "Fidelidad (Grande Es Tu Fidelidad)",
-      "url": "https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lugar Secreto (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 334746,
       "name": "Lugar Secreto - Espa\u00f1ol",
       "url": "https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 296986,
+      "name": "Fidelidad (Grande Es Tu Fidelidad)",
+      "url": "https://open.spotify.com/track/1ybRNixD4WbiPwGOKbRtCh"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 240457,
+      "name": "Tantas Historias",
+      "url": "https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 344549,
       "name": "Me Amaste a M\u00ed",
       "url": "https://open.spotify.com/track/2hsekOK9y9hmjJizQAJJnA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stories On Stories",
-        "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 240457,
-      "name": "Tantas Historias",
-      "url": "https://open.spotify.com/track/6f1jhlNzYyUvK2XwxCk2pT"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo En Jes\u00fas",
         "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 271426,
       "name": "Solo En Jes\u00fas",
       "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
       "duration_ms": 271374,
       "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
       "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stories On Stories",
+        "url": "https://open.spotify.com/album/7rqxrTJYrTRSszKiqn6VXK"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 240457,
+      "name": "Stories On Stories",
+      "url": "https://open.spotify.com/track/3GLialPfon3PHfwNjZvgi2"
     },
     {
       "added_at": null,
@@ -891,34 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venga Tu Reino",
-        "url": "https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 453077,
-      "name": "Me Rindo (feat. Karen Espinosa & Christine D'Clario)",
-      "url": "https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVANGELIO (En Vivo)",
         "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
       },
@@ -959,6 +947,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Venga Tu Reino",
+        "url": "https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 453077,
+      "name": "Me Rindo (feat. Karen Espinosa & Christine D'Clario)",
+      "url": "https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c"
       },
@@ -971,26 +987,6 @@
       "duration_ms": 362977,
       "name": "Eterno (Con Cuando Los Santos Marchan Ya)",
       "url": "https://open.spotify.com/track/1D7gcN6H8n0hdxr1osOd6N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 337527,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/6c4jNSDWZ0zIlbShrBuVQN"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

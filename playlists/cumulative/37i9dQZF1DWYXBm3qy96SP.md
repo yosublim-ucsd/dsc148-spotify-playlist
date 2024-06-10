@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bon Jovi
 
-1,306 songs - 3 day 3 hr 3 min
+1,308 songs - 3 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 | 2023-08-10 | 2023-09-08 |
 | [Calverley](https://open.spotify.com/track/13HSuJkVMEQ8Ji95Y4pzIn) | [PEZZHEAD](https://open.spotify.com/artist/6aVSDYGiTFnafE19XhK3PI) | [BLUE Turtle Dove](https://open.spotify.com/album/5ScSiAnW7tI9kjZ3cmS6d1) | 3:42 | 2023-12-21 | 2024-01-05 |
 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 | 2024-04-25 | 2024-06-01 |
+| [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 | 2024-06-06 |  |
 | [Can't Be Still](https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0) | 2:58 | 2024-05-09 | 2024-06-07 |
 | [Can't Have It All](https://open.spotify.com/track/1gENu5WicP0cgHaVEEIhza) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Can't Have It All](https://open.spotify.com/album/2bCdj53PszAxn5LSFzS39Q) | 3:33 | 2023-04-27 | 2023-05-05 |
 | [Candles](https://open.spotify.com/track/4uJ91RNHU2dG3WBFpVtY6P) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Halloween Mixtape II](https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5) | 2:09 | 2023-10-26 | 2023-11-10 |
@@ -656,7 +657,7 @@
 | [Light Headed](https://open.spotify.com/track/4mR7VcIR2SxjJEJnQcX78r) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Light Headed](https://open.spotify.com/album/4w8SrYoVc7rwD0GgjLlCcz) | 2:13 | 2024-02-29 | 2024-03-08 |
 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 | 2023-03-30 | 2023-04-07 |
 | [Like A God](https://open.spotify.com/track/5NODTp0NXGSM9ssC0GN1MG) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Like A God](https://open.spotify.com/album/46GkL5mgpQuRIugNwo5W0R) | 4:14 | 2023-07-20 | 2023-07-28 |
-| [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-05-02 |  |
+| [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-05-02 | 2024-06-10 |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [SiriusXM Session](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-02 |  |
 | [Lion](https://open.spotify.com/track/3l4rzb2PtCxrOUzaD3RHEk) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Lion](https://open.spotify.com/album/4wtXR1Fy693m3qLoHhnT75) | 3:57 | 2023-11-23 | 2023-11-25 |
 | [Lion](https://open.spotify.com/track/50HYpx833n8I466f6n8nat) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Lion](https://open.spotify.com/album/3wgcQA1ECrAQBYjrVfYQJe) | 3:57 | 2023-11-23 | 2023-12-01 |
@@ -769,6 +770,7 @@
 | [New Grass](https://open.spotify.com/track/6rGTmMhEP1AXESNERAyNLx) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [New Grass](https://open.spotify.com/album/26vT0S4kCXMuasu0CkzEPF) | 4:16 | 2024-05-23 |  |
 | [New Kinda Groove/Everything Is Everything](https://open.spotify.com/track/7a05zZqHzXgxCsCVTpiC4Y) | [Jon Cleary](https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX) | [New Kinda Groove/Everything Is Everything](https://open.spotify.com/album/75gwnB3a6iFCPCavqsJVuJ) | 4:21 | 2023-07-06 | 2023-07-14 |
 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 | 2023-03-16 | 2023-04-12 |
+| [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-06 |  |
 | [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-27 | 2023-08-04 |
 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 | 2023-06-22 | 2023-07-14 |
 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 | 2024-05-30 |  |
@@ -1076,7 +1078,7 @@
 | [Superman](https://open.spotify.com/track/7qR4KI5JAf8n48wStSizic) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Edgär is Dead](https://open.spotify.com/album/5kf46keruLMY20XP94Ih2U) | 2:19 | 2024-02-29 | 2024-04-26 |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-28 | 2024-01-19 |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2023-03-16 | 2023-05-19 |
-| [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-03-14 |  |
+| [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-03-14 | 2024-06-10 |
 | [Superstitious](https://open.spotify.com/track/7xm98U2hfmMcI3tgrQ5XJq) | [Enuff Z'Nuff](https://open.spotify.com/artist/2Y36dqR145FjTKUjibEcjO) | [Animals with Human Intelligence](https://open.spotify.com/album/2ickktixrgx5DGAOqmhtgQ) | 4:10 | 2023-12-07 | 2023-12-15 |
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-28 | 2023-10-20 |
 | [Surrounded by Stars \(feat\. Lili Forest & OBSESS\)](https://open.spotify.com/track/2GrPSSEbBGa5SdEK5FlzGy) | [Seasons for Change](https://open.spotify.com/artist/3Fq4PqVhwwwwCVCt0NQoXT), [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [OBSESS](https://open.spotify.com/artist/1CnX88uQKiTPRNeFInBey9) | [Surrounded by Stars \(feat\. Lili Forest & OBSESS\)](https://open.spotify.com/album/2hw4xdlpOhT8A0lXTcZ6h3) | 4:24 | 2024-05-16 | 2024-06-07 |

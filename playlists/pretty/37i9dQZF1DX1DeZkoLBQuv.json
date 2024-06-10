@@ -179,6 +179,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Lindo \u00c9s (Beauty, Beauty)",
+        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        }
+      ],
+      "duration_ms": 298488,
+      "name": "Lindo \u00c9s (Beauty, Beauty)",
+      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 245160,
       "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
       "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Lindo \u00c9s (Beauty, Beauty)",
-        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        }
-      ],
-      "duration_ms": 298488,
-      "name": "Lindo \u00c9s (Beauty, Beauty)",
-      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
+        }
+      ],
+      "duration_ms": 259831,
+      "name": "O Milagre do Natal",
+      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Nasceu o Redentor",
         "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 324820,
       "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
       "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
-        }
-      ],
-      "duration_ms": 259831,
-      "name": "O Milagre do Natal",
-      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
     },
     {
       "added_at": "2023-12-22 03:00:00",

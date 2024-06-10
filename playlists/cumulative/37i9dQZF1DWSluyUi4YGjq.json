@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 110093,
       "name": "butterfly",
       "url": "https://open.spotify.com/track/2Mz0UdSNmyRijx5O1szHKf"
@@ -7575,6 +7575,24 @@
     },
     {
       "album": {
+        "name": "Songs for The Daydreamers",
+        "url": "https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167444,
+      "name": "NOT Okay",
+      "url": "https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB"
+    },
+    {
+      "album": {
         "name": "Night-bound Eyes Are Blind To The Day",
         "url": "https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7"
       },
@@ -8591,6 +8609,24 @@
     },
     {
       "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb"
+      },
+      "artists": [
+        {
+          "name": "Trxy!",
+          "url": "https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115401,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8"
+    },
+    {
+      "album": {
         "name": "Spiritual Sickness",
         "url": "https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO"
       },
@@ -8970,6 +9006,24 @@
       "duration_ms": 135083,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg"
+    },
+    {
+      "album": {
+        "name": "shaniatwainlovestory",
+        "url": "https://open.spotify.com/album/1GGxbMVuViCHfjNkdukpvr"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166162,
+      "name": "shaniatwainlovestory",
+      "url": "https://open.spotify.com/track/4S6r4rZ2wwHPMmgNtjyEm9"
     },
     {
       "album": {
@@ -9666,6 +9720,28 @@
       "duration_ms": 259957,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
+    },
+    {
+      "album": {
+        "name": "Romance: Special Features",
+        "url": "https://open.spotify.com/album/5kHRTotV5DSxG6OEFIOIsi"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/1dgE9MLP0gjq7X3NF6KNUM"
+        },
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274462,
+      "name": "Staring - alt",
+      "url": "https://open.spotify.com/track/4iybILxj19srQ5dNk4Xtby"
     },
     {
       "album": {

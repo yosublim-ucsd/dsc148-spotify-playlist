@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,608 likes - 247 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,654 likes - 247 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,7 +211,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 201 | [Around The World In 80 Days Theme \- From The Original TV Series Soundtrack](https://open.spotify.com/track/1PlMCW7YPYdvOMTHGsiQ07) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Christian Lundberg](https://open.spotify.com/artist/0jyB5RKHNuA4Wfkk8hhGQe) | [Around The World In 80 Days \(Music From The Original TV Series\)](https://open.spotify.com/album/5aDNioU7I8sAyNNUz3cVgB) | 1:16 |
 | 202 | [Grigor And Georgina Leave](https://open.spotify.com/track/7ooJkW9aPrXVv9LQj045mC) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC) | [The Great: Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/5nEgfqLL3w8Xts6Hk9BI48) | 2:17 |
 | 203 | [Requiem](https://open.spotify.com/track/7hfbjHirvlvlQI2UfF8bGA) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Breton Vivian](https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll) | [1883: Season 1, Vol\. 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/24Rwfmdsh4NOwPwtr4EHtb) | 2:53 |
-| 204 | [The Lake](https://open.spotify.com/track/2cyUIoPzLmFVLN6hw1Kk84) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Gustave Rudman](https://open.spotify.com/artist/2yGaqlHUHvNEpdRlmQCMEC) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:45 |
+| 204 | [The Lake \(feat\. Gustave Rudman\)](https://open.spotify.com/track/2cyUIoPzLmFVLN6hw1Kk84) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Gustave Rudman](https://open.spotify.com/artist/2yGaqlHUHvNEpdRlmQCMEC) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 3:45 |
 | 205 | [Invasion Main Title \- From "Invasion"](https://open.spotify.com/track/1jYHpFrJkXfDfOGlLDevTS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Invasion Main Title \(From "Invasion"\)](https://open.spotify.com/album/4nTgXALKpr4TfilVVM7dNG) | 1:16 |
 | 206 | [Le secret](https://open.spotify.com/track/1yEPMwd5y36JpZcETVWVYI) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 3:51 |
 | 207 | [Saying Goodbye \- Piano Solo / From ''Cyrano'' Soundtrack](https://open.spotify.com/track/2LttX2qhl2Sr3Hhigw6hRs) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Saying Goodbye \(Piano Solo / From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/2ZCIiItnYB4Ha7tmvLdfuU) | 1:26 |

@@ -12263,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "Face In the Picture",
+        "url": "https://open.spotify.com/album/3iCcMrg5ljQmVyxLsV2M0K"
+      },
+      "artists": [
+        {
+          "name": "Picture Parlour",
+          "url": "https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164477,
+      "name": "Face In The Picture",
+      "url": "https://open.spotify.com/track/2Fo9ObbJQsDOqdUT3zN14t"
+    },
+    {
+      "album": {
         "name": "Facedown",
         "url": "https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI"
       },

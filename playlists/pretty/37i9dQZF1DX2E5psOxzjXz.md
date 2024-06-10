@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu, Annural Khalid
+> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,704 likes - 82 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,716 likes - 82 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 81 | [Love Again](https://open.spotify.com/track/5Deg8uiLYB1f4jDwsLcc8E) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [Love Again](https://open.spotify.com/album/5D1ji60nDNYmSGb5ql6cE5) | 2:33 |
 | 82 | [Runway](https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Runway](https://open.spotify.com/album/2aDTEntkuIzNx5TAjiLfKb) | 2:54 |
 
-Snapshot ID: `ZmT+kAAAAAD6AQvIvF1hImodZ908s9Hg`
+Snapshot ID: `ZmWCRQAAAAB1UAyEwdY1QyHYOKiQt23n`

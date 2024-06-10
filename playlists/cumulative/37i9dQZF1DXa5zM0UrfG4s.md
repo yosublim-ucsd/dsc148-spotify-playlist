@@ -4,7 +4,7 @@
 
 > blir det en hvit sommer?
 
-362 songs - 16 hr 38 min
+363 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Du kan inte få min öl](https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Du kan inte få min öl](https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN) | 2:16 | 2021-12-16 | 2023-12-09 |
 | [Dum i haue](https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Dum i haue](https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU) | 2:24 | 2023-08-17 |  |
 | [Dunk](https://open.spotify.com/track/3fE2HPDr6upYq4xW16k8BP) | [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [Dunk](https://open.spotify.com/album/2mqbDR891jZ87TT5r6Lcoi) | 2:14 | 2022-04-14 | 2022-04-28 |
+| [Dunka](https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Dunka](https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7) | 2:13 | 2024-06-06 |  |
 | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [EFTERFEST PÅ VÅR BALKONG](https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL) | 2:20 | 2022-07-14 | 2023-12-13 |
 | [Eg e her og du e der](https://open.spotify.com/track/3skb0z0Xg5GJJJx9qlPpm7) | [Leif & Kompisane](https://open.spotify.com/artist/6Amx3XDj2wv09NhBECezh5) | [Eg e her og du e der](https://open.spotify.com/album/3zWaolQL3luSXY31BdfzNP) | 3:26 | 2021-12-16 | 2022-07-24 |
 | [Ei runde til](https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Ei runde til](https://open.spotify.com/album/5Ik0lJYyGxtPu3OaKkwh4B) | 3:56 | 2021-12-16 | 2022-07-23 |
@@ -109,7 +110,7 @@
 | [Et Sted På Montebello](https://open.spotify.com/track/1CLFHU0oSSepQGeVPnaVHq) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Et Sted På Montebello](https://open.spotify.com/album/7kLuZ5vmzHc5i23SANRI6J) | 3:07 | 2021-12-16 | 2022-07-29 |
 | [Eventyr](https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Eventyr](https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt) | 2:27 | 2021-12-16 |  |
 | [Evig Ung](https://open.spotify.com/track/1JW9yOhRC3FKfaxTBcibQF) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Evig Ung](https://open.spotify.com/album/4qTGCjhUEuScaKYoHPq7k5) | 2:57 | 2021-12-16 | 2022-04-20 |
-| [Evig vandring](https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig vandring](https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE) | 2:50 | 2022-07-28 |  |
+| [Evig vandring](https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig vandring](https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE) | 2:50 | 2022-07-28 | 2024-06-10 |
 | [Evig Vandring](https://open.spotify.com/track/7IeBamArdqkA6YnqBaMHFj) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig Vandring](https://open.spotify.com/album/0nGtfoQ6FXtdjWQ6xudk7a) | 2:50 | 2021-12-16 | 2022-07-29 |
 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 | 2022-09-22 | 2024-02-09 |
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-10-15 | 2023-07-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Armin van Buuren &amp; Chef'Special
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,667 likes - 200 songs - 10 hr 44 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,658 likes - 200 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

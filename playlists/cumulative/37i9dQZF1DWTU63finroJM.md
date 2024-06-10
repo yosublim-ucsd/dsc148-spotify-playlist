@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Indien.
 
-1,465 songs - 3 day 8 hr 33 min
+1,468 songs - 3 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [2005 & Cannabis](https://open.spotify.com/track/2vCpCGMB86Jyxed6gUMsvq) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [2005 & Cannabis](https://open.spotify.com/album/6VtJ9w49GQd1fZOaZH56OZ) | 4:42 | 2022-04-07 | 2022-04-09 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2022-03-24 | 2022-09-16 |
 | [21 de septiembre](https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [21 de septiembre](https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko) | 2:07 | 2024-05-03 | 2024-05-22 |
+| [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 | 2024-06-07 |  |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-02-03 | 2022-12-15 |
 | [35.mm](https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:24 | 2023-05-30 | 2024-03-09 |
 | [3:01am](https://open.spotify.com/track/0Ou5YCTpsk5rZoe3d8ihrO) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [3:01am](https://open.spotify.com/album/1xoWprZRhecJvQk5xssnkk) | 4:10 | 2022-03-24 | 2022-04-19 |
@@ -395,6 +396,7 @@
 | [Fake Happy](https://open.spotify.com/track/1hxsZNkaNVyBrgNoQPcfOo) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [Fake Happy](https://open.spotify.com/album/4HadPTd7ok8ougPdAbIaes) | 4:46 | 2022-06-29 | 2022-12-15 |
 | [Fake Happy](https://open.spotify.com/track/50G7lMNbVsf9M2f5gcbvQh) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT) | [Fake Happy](https://open.spotify.com/album/3PlriZDZCVrueDePu6CRn9) | 4:46 | 2022-02-03 | 2022-07-29 |
 | [Fake Love](https://open.spotify.com/track/1XR7JW85VGvDqbtcDBMuXf) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fake Love](https://open.spotify.com/album/2O2yvHrN3CNNNaeUj7b8AG) | 3:34 | 2022-02-10 | 2022-06-15 |
+| [Fantastico](https://open.spotify.com/track/4LbY1Dq75IbisKMJQk8Y02) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [Fantastico](https://open.spotify.com/album/4HG8syq9Ir32gTbLpdYC8P) | 2:36 | 2024-06-07 |  |
 | [Fantasy](https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Fantasy](https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51) | 3:18 | 2024-05-17 |  |
 | [Fantasy](https://open.spotify.com/track/59fIYH3h8H8ilm9ALt2NUl) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Fantasy](https://open.spotify.com/album/7ylSy5FAToYyzkH36QBHSQ) | 3:54 | 2022-03-24 | 2022-08-02 |
 | [Fashion Killer](https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 2:57 | 2022-06-29 | 2022-11-19 |
@@ -505,6 +507,7 @@
 | [Himala](https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Himala](https://open.spotify.com/album/11Fm9RQJskICPrsWdIcNaL) | 4:21 | 2022-02-03 | 2022-03-18 |
 | [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 | 2023-10-27 | 2024-04-27 |
 | [Historia Sin Fin](https://open.spotify.com/track/08SsEIpat1aDufEsRIQQwd) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Historia Sin Fin](https://open.spotify.com/album/6HWYOv6cSlYvLCBYD1HuGP) | 2:00 | 2022-03-24 | 2022-04-16 |
+| [HIT or MISS](https://open.spotify.com/track/1Bv0bBB8jbDlHxKOuROr4A) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [HIT or MISS](https://open.spotify.com/album/1bjQsg2gLIx3GpuBgLaheY) | 2:23 | 2024-06-07 |  |
 | [Hoa Cỏ Lau](https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Hoa Cỏ Lau](https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM) | 3:30 | 2023-10-13 | 2024-03-09 |
 | [Hoa Sen KOR](https://open.spotify.com/track/5v9ibYlnhXHt13krb8nbZy) | [Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [Hoa Sen KOR](https://open.spotify.com/album/4uJ7oIoe134ZiBfikSOMOx) | 1:50 | 2022-03-24 | 2022-04-15 |
 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 | 2023-04-12 | 2023-10-21 |
@@ -764,7 +767,7 @@
 | [Mn Gheirik Enti](https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Mn Gheirik Enti](https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo) | 3:01 | 2022-02-03 | 2022-04-12 |
 | [Modelo](https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Modelo](https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV) | 4:25 | 2024-05-03 | 2024-05-25 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-08-04 | 2022-09-16 |
-| [Mona](https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Mona](https://open.spotify.com/album/07AWA7DMdxtvzIpu9Eet89) | 3:02 | 2024-05-10 |  |
+| [Mona](https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Mona](https://open.spotify.com/album/07AWA7DMdxtvzIpu9Eet89) | 3:02 | 2024-05-10 | 2024-06-10 |
 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 | 2024-02-09 |  |
 | [Monster](https://open.spotify.com/track/6OgDOWenUoSOYeRDMKhv0y) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ingredients](https://open.spotify.com/album/1KgQVdNcXk2RBc7ktwv0An) | 3:08 | 2022-02-10 | 2022-03-26 |
 | [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2023-10-27 | 2023-11-17 |
@@ -1121,7 +1124,7 @@
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-08-02 |
 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 | 2024-04-19 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2023-03-07 | 2023-06-10 |
-| [take what i can get](https://open.spotify.com/track/5OyjgGolsgzoqM6DRTlOuI) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [take what i can get](https://open.spotify.com/album/4ogEOFIundyE1VoGLzT13V) | 2:43 | 2024-04-05 |  |
+| [take what i can get](https://open.spotify.com/track/5OyjgGolsgzoqM6DRTlOuI) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [take what i can get](https://open.spotify.com/album/4ogEOFIundyE1VoGLzT13V) | 2:43 | 2024-04-05 | 2024-06-10 |
 | [Takut](https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Takut](https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL) | 5:19 | 2022-03-21 | 2022-09-16 |
 | [Talking Box](https://open.spotify.com/track/7fru0rxutpi08K7Q112saF) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [檸檬の日々](https://open.spotify.com/album/2ceMonx7yH4UDjM8jpUxZq) | 2:21 | 2022-02-03 | 2022-08-26 |
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-05-30 | 2023-12-02 |
@@ -1293,7 +1296,7 @@
 | [You've Got](https://open.spotify.com/track/2Rd62uzIL5ORW066zMleIS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [A Little Bit Patient](https://open.spotify.com/album/5KQKBocUoSXhXpqHVvUNzJ) | 2:56 | 2022-02-03 | 2022-08-02 |
 | [Young](https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/4my95sS2JXep8uUPOfe8zI) | 3:14 | 2022-06-29 | 2022-08-02 |
 | [Young](https://open.spotify.com/track/4Ujidgwz5Y4lfXuCPwSYqN) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/22uHnOv9QiDKHUAQJZz04j) | 3:14 | 2022-06-29 | 2022-07-29 |
-| [your house, my house](https://open.spotify.com/track/3dS3l0OmExgoXx9gYloCyN) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [your house, my house](https://open.spotify.com/album/5QIRhIGOw9GnmVtoYnsRTM) | 3:14 | 2024-05-24 |  |
+| [your house, my house](https://open.spotify.com/track/3dS3l0OmExgoXx9gYloCyN) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [your house, my house](https://open.spotify.com/album/5QIRhIGOw9GnmVtoYnsRTM) | 3:14 | 2024-05-24 | 2024-06-10 |
 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 | 2022-03-24 | 2023-04-18 |
 | [Youth](https://open.spotify.com/track/2f220hYoclwzYQGyAvsokr) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Youth](https://open.spotify.com/album/3CDz4HcxV7b9UHgmk7lUSy) | 4:32 | 2022-02-10 | 2022-02-15 |
 | [Zehirlenebilir Hayatım](https://open.spotify.com/track/238wbgbcWPejxUdxqKfKRS) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Zehirlenebilir Hayatım](https://open.spotify.com/album/56V62z7z0Y6GlessYeIpDU) | 2:43 | 2024-05-10 |  |

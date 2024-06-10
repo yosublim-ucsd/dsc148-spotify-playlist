@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-530 songs - 1 day 8 hr 39 min
+531 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [ANL](https://open.spotify.com/track/3zIvzPKUUdSpDCm1uua6Be) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:45 | 2021-05-12 | 2021-05-13 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-05 |
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-10-27 | 2023-02-25 |
-| [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-06-05 |  |
+| [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-06-05 | 2024-06-10 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2023-04-23 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-10 | 2022-05-31 |
 | [Asmalibrasi](https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Asmalibrasi](https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw) | 4:14 | 2022-07-25 | 2023-10-01 |
@@ -122,6 +122,7 @@
 | [DJ KARNA SU SAYANG SKA 86 MENGKANE](https://open.spotify.com/track/0lElU64N5mdRscB9hBt4Sa) | [AyUb YETE](https://open.spotify.com/artist/52Oz6BqQQW2NLCRO4MwEgL) | [DJ KARNA SU SAYANG SKA 86 MENGKANE](https://open.spotify.com/album/3Pe05ZClDpWI29BZzs7ObP) | 3:54 | 2023-09-29 | 2023-10-02 |
 | [Dj Karna Su Sayang Yang Kalian Cari!!](https://open.spotify.com/track/2SmulQCyMuvudoB0RNjGtO) | [Maman Fvndy](https://open.spotify.com/artist/6iwGYa6SkkbWU3JjwLuTAQ) | [Dj Karna Su Sayang Yang Kalian Cari!!](https://open.spotify.com/album/5q0w0liVLUfUB0QDyNCPyR) | 4:18 | 2023-10-08 | 2023-10-11 |
 | [DJ MALAM PAGI X HAMIL DULUAN](https://open.spotify.com/track/6nWn4U5GAoKIU3XM7drAgr) | [DJ PIMI](https://open.spotify.com/artist/2j97VybELJzGlmTk5DkfUH) | [DJ MALAM PAGI X HAMIL DULUAN](https://open.spotify.com/album/7cETiCrJSKSDkrDS8hKZTH) | 3:16 | 2023-10-19 | 2023-11-08 |
+| [DOLA](https://open.spotify.com/track/09pjOS7jbVp1ahW8igArTZ) | [ANGGA DERMAWAN](https://open.spotify.com/artist/2VyXluaQ6KiQdNLecBtLXY) | [DOLA](https://open.spotify.com/album/1htw4rhCdHzbAW08LZRSTK) | 3:50 | 2024-06-09 |  |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-06-09 | 2021-06-20 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-01-22 | 2023-08-17 |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2021-05-18 | 2021-10-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7M7UXUwtz3Wb25PVS8dwHs">SEU Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,780 likes - 97 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,817 likes - 97 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 5 | [We Praise You / Do It Again \- Live](https://open.spotify.com/track/1BF6FybAqoDc4v1BfQG13m) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [We Praise You / Do It Again \(Live\)](https://open.spotify.com/album/1g6IdOgJqzLnVmUeqMt1fh) | 5:17 |
 | 6 | [More Than Enough](https://open.spotify.com/track/3vdzkdsNdOSm4DBdOUgjSX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Lee](https://open.spotify.com/artist/77DFeBv5fvmZXGCfSd7DWI) | [More Than Enough](https://open.spotify.com/album/0BCVRyseIXCf3cGj0OWKfR) | 4:58 |
 | 7 | [Hymn of Praise/Shouts of Joy](https://open.spotify.com/track/3ULy8PrY6sftovXg7XwDRx) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Hymn of Praise/Shouts of Joy](https://open.spotify.com/album/1X3vTShKFZUfvXT1W4BLIG) | 5:25 |
-| 8 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 |
+| 8 | [No One Like The Lord \(We Crown You\) \- Live](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 |
 | 9 | [House of God \- Live](https://open.spotify.com/track/5C6LXBvnV0S9gnnq4VCAC4) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Zach Johnson](https://open.spotify.com/artist/4pTMvrRvcRMeh3zMiqE39l) | [House of God \(Live\)](https://open.spotify.com/album/3c78hcVrVuOCq23GMQ0mcR) | 4:12 |
 | 10 | [Highest Praise \- Live](https://open.spotify.com/track/7i0VDcrLmc8M39MN2i77qz) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Highest Praise \(Live\)](https://open.spotify.com/album/6oe0qlvrWEBwfVZCIqqTEz) | 6:57 |
 | 11 | [A Great Awakening \- Sunday Morning Edition](https://open.spotify.com/track/2I0ksTV0oY1hv4OIpIeORJ) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A Great Awakening](https://open.spotify.com/album/5NBjYFdlA6pIDnRQHP4O8H) | 4:09 |

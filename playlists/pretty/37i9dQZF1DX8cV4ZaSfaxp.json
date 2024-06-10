@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 52271,
+  "num_followers": 52281,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Marry My Husband OST Special Track",
-        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
-      },
-      "artists": [
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 230617,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "timeabout,",
         "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 207125,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Marry My Husband OST Special Track",
+        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 230617,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "BASIC",
         "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 241144,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 211149,
-      "name": "Scent",
-      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
-      },
-      "artists": [
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
         "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 208000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 211149,
+      "name": "Scent",
+      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "RE_vive",
         "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 173296,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
       },
       "artists": [
         {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
+      "duration_ms": 191426,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -919,22 +935,6 @@
       "duration_ms": 214106,
       "name": "Plastic Candy",
       "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "Line 1",
-      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "FM302",
         "url": "https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY"
       },
@@ -1279,22 +1263,6 @@
       "duration_ms": 226894,
       "name": "LOL (LOUDNESS OF LOVE)",
       "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 216578,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1315,6 +1283,38 @@
       "duration_ms": 300289,
       "name": "Guardian (Feat. KIM A REUM)",
       "url": "https://open.spotify.com/track/78CBTuYALVOFENLsmR4f3H"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Line 1",
+      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 216578,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "It`s Been A While (Maxim City Summer Life c.f)",
-      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1391,18 +1375,34 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "MINI",
-        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
       },
       "artists": [
         {
-          "name": "LIM JIMIN",
-          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+      "duration_ms": 203573,
+      "name": "It`s Been A While (Maxim City Summer Life c.f)",
+      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 280778,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
+        "name": "MINI",
+        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+      },
+      "artists": [
+        {
+          "name": "LIM JIMIN",
+          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+    },
+    {
+      "added_at": "2024-06-05 04:06:41",
+      "album": {
         "name": "City",
         "url": "https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-06-05 04:06:41",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
+        "name": "Our love like tonight",
+        "url": "https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x"
       },
       "artists": [
         {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+          "name": "SOOIN",
+          "url": "https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb"
         }
       ],
-      "duration_ms": 280778,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
+      "duration_ms": 240687,
+      "name": "Our love like tonight",
+      "url": "https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx"
     },
     {
       "added_at": "2024-06-05 04:06:41",
@@ -1471,22 +1487,6 @@
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
-    },
-    {
-      "added_at": "2024-06-05 04:06:41",
-      "album": {
-        "name": "Our love like tonight",
-        "url": "https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x"
-      },
-      "artists": [
-        {
-          "name": "SOOIN",
-          "url": "https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "Our love like tonight",
-      "url": "https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx"
     },
     {
       "added_at": "2024-06-05 04:06:41",

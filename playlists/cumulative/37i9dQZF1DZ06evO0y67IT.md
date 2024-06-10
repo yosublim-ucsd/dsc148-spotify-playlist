@@ -2,7 +2,7 @@
 
 ### [This Is Hawthorne Heights](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0y67IT)
 
-> This is Hawthorne Heights\. The essential tracks, all in one playlist.
+> This is Hawthorne Heights\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 69 songs - 3 hr 54 min
 

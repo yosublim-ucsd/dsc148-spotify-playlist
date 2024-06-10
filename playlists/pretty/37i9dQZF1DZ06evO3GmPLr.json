@@ -1,12 +1,12 @@
 {
-  "description": "This is Little Simz. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 42104,
+  "description": "This is Little Simz. The essential tracks, all in one playlist.",
+  "num_followers": 42127,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAABeNbacbybTVUgzaHxznL9X",
+  "snapshot_id": "ZmOfAAAAAAAiSQiMNOgWeyLS0Rx0Pe7J",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blank Canvas",
-        "url": "https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu"
+        "name": "Location (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
       },
       "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 95267,
-      "name": "Blank Canvas (Interlude)",
-      "url": "https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a"
+      "duration_ms": 245045,
+      "name": "Location (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Location (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
+        "name": "Blank Canvas",
+        "url": "https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu"
       },
       "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 245045,
-      "name": "Location (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+      "duration_ms": 95267,
+      "name": "Blank Canvas (Interlude)",
+      "url": "https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a"
     },
     {
       "added_at": null,

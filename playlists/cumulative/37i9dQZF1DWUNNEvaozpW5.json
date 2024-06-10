@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 230779,
       "name": "Aviones Plateados - En Directo",
       "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 238426,
       "name": "En alg\u00fan lugar (feat. Santi Balmes & V\u00edctor Cabezuelo)",
       "url": "https://open.spotify.com/track/2nL8UGrQoCfbZTtWfmmoqe"
@@ -4748,7 +4748,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -6722,6 +6722,28 @@
       "duration_ms": 200533,
       "name": "Siempre te ped\u00ed (feat. Travis Birds)",
       "url": "https://open.spotify.com/track/486MV5vHN7v8lCEuAIFcG4"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325145,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
     },
     {
       "album": {

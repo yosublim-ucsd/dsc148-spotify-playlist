@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,147 songs - 6 day 14 hr 22 min
+4,148 songs - 6 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2432,7 +2432,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
-| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 |  |
+| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 | 2024-06-10 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 | 2024-01-19 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |
@@ -3473,6 +3473,7 @@
 | [Sunny Side Up](https://open.spotify.com/track/0phEMdWrUlc1nEA7mAfJmq) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Now / Again II](https://open.spotify.com/album/6WoUZsp2z2fbuKA9qir52T) | 2:45 | 2023-05-25 | 2023-06-02 |
 | [Sunny Splash](https://open.spotify.com/track/2nF4s65NYHSHUe0o0Oi1Ob) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Sunny Splash](https://open.spotify.com/album/4hu9ZLJGOObCQcA16nz6Rw) | 2:15 | 2021-08-07 | 2022-04-08 |
 | [Sunnyside](https://open.spotify.com/track/2RLDmgHy90GvMXRKnwBmCO) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Sunnyside](https://open.spotify.com/album/6KrxKlusJk0xeAoW2ceQdT) | 1:53 | 2020-07-11 | 2020-12-11 |
+| [Sunnyy](https://open.spotify.com/track/5ns3tAQAJl9WaUVbVvP9Z4) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Sunnyy](https://open.spotify.com/album/3w5VrF0jlNQKgE0lpXAAlF) | 3:30 | 2024-06-06 |  |
 | [Sunrays](https://open.spotify.com/track/0axF0tI5LlxTE6i9BX09v8) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Sunrays](https://open.spotify.com/album/2bOeKNbapHEZRWji4jMtiz) | 1:47 | 2021-07-04 | 2022-07-01 |
 | [Sunrise](https://open.spotify.com/track/4PKSQrgb0AjGvpVu13SGkJ) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sunrise](https://open.spotify.com/album/7rxL7B9UgHkEfjAnzkLemS) | 2:37 | 2021-11-27 | 2021-12-13 |
 | [Sunrise](https://open.spotify.com/track/1GUIDegDYczbROa6MJIjYh) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [latespring](https://open.spotify.com/album/25nO7TS5kBvuPwIXQIt4ji) | 1:47 | 2021-04-02 | 2021-06-11 |

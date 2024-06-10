@@ -1,28 +1,28 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jeff Redd",
-  "num_followers": 1347933,
+  "num_followers": 1347963,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmIjUAAAAADHiulb5TduMDolkyY9LA8d",
+  "snapshot_id": "ZmXcaQAAAADyH+ZDhfEcW8B5Q4OzBaWf",
   "tracks": [
     {
       "added_at": "2024-06-06 21:00:00",
       "album": {
-        "name": "SEV\u0130MS\u0130Z",
-        "url": "https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF"
+        "name": "Shoote Shoote",
+        "url": "https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC"
       },
       "artists": [
         {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
         }
       ],
-      "duration_ms": 109134,
-      "name": "RONDO",
-      "url": "https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL"
+      "duration_ms": 179733,
+      "name": "Shoote Shoote",
+      "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
     },
     {
       "added_at": "2024-06-06 21:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-06-06 21:00:00",
       "album": {
+        "name": "SEV\u0130MS\u0130Z",
+        "url": "https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 109134,
+      "name": "RONDO",
+      "url": "https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL"
+    },
+    {
+      "added_at": "2024-06-06 21:00:00",
+      "album": {
         "name": "The World is Yours",
         "url": "https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 118274,
       "name": "IstanbuL",
       "url": "https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "Shoote Shoote",
-        "url": "https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Shoote Shoote",
-      "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
     },
     {
       "added_at": "2024-06-06 21:00:00",

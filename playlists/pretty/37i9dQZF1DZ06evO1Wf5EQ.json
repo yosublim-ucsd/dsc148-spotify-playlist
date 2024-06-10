@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 504,
+  "num_followers": 505,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAADfDEEItA9T+6YUPBIL61Ks",
+  "snapshot_id": "ZmOfAAAAAADNPVOQ9UwsCBlpKYGLCBwJ",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 117693,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
+      "duration_ms": 60836,
+      "name": "MICHAEL CORLEONE",
+      "url": "https://open.spotify.com/track/3wTVZ64eS97nA2GoDtLQik"
     },
     {
       "added_at": null,
@@ -308,15 +308,15 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 144739,
-      "name": "The Remsen",
-      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
+      "duration_ms": 154091,
+      "name": "Mysteries of The Divine",
+      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 60836,
-      "name": "MICHAEL CORLEONE",
-      "url": "https://open.spotify.com/track/3wTVZ64eS97nA2GoDtLQik"
+      "duration_ms": 117693,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 154091,
-      "name": "Mysteries of The Divine",
-      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
+      "duration_ms": 144739,
+      "name": "The Remsen",
+      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
     },
     {
       "added_at": null,

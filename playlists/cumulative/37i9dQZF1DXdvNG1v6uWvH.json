@@ -5931,7 +5931,7 @@
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 139003,
+      "duration_ms": 139002,
       "name": "Hello B*tch",
       "url": "https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4"
     },
@@ -11112,7 +11112,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 168371,
       "name": "Promises",
       "url": "https://open.spotify.com/track/10cB40FA9AnOPvwJdHd1Ni"
@@ -13132,7 +13132,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 262071,
       "name": "Sunshine In Atalaya",
       "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
@@ -14525,6 +14525,24 @@
     },
     {
       "album": {
+        "name": "ULTRA LOVE (Flute)",
+        "url": "https://open.spotify.com/album/3DTtRPikV8bnYwhBnVCdFd"
+      },
+      "artists": [
+        {
+          "name": "Barcode Brothers",
+          "url": "https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "ULTRA LOVE (Flute)",
+      "url": "https://open.spotify.com/track/4RUdmVfhaeyhwAexJvIZZr"
+    },
+    {
+      "album": {
         "name": "Undecided",
         "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
       },
@@ -15302,7 +15320,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"

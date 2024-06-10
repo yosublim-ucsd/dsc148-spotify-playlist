@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 5994,
+  "num_followers": 5993,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNgAAAAAB8ywSXJBAOviufVLJ8thff",
+  "snapshot_id": "ZmOfAAAAAADBEONB1lmxgIbMY1E+bzbj",
   "tracks": [
     {
       "added_at": null,
@@ -28,7 +28,7 @@
       "added_at": null,
       "album": {
         "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 215947,
+      "duration_ms": 220666,
       "name": "Esa Chica Me Vacila",
-      "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
+      "url": "https://open.spotify.com/track/5n7Ve3yvy4VapkWzCDbhJf"
     },
     {
       "added_at": null,
@@ -288,29 +288,25 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217133,
-      "name": "El Pobre Caminante",
-      "url": "https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM"
+      "duration_ms": 195893,
+      "name": "El Ultimo Rodeo",
+      "url": "https://open.spotify.com/track/602nYaYlgOn9RZtcPrOXdf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Maria Isabel",
-      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
+      "duration_ms": 185866,
+      "name": "Oh, Solitario",
+      "url": "https://open.spotify.com/track/3RuRYUOr7qZZj7qcoeEwmX"
     },
     {
       "added_at": null,
@@ -348,7 +344,7 @@
       "added_at": null,
       "album": {
         "name": "Prov\u00f3came",
-        "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
+        "url": "https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR"
       },
       "artists": [
         {
@@ -356,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 195893,
-      "name": "El \u00daltimo Rodeo",
-      "url": "https://open.spotify.com/track/2OoriUGBIdApEuKMkeDmTH"
+      "duration_ms": 217133,
+      "name": "El Pobre Caminante",
+      "url": "https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM"
     },
     {
       "added_at": null,
@@ -376,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz"
+      "duration_ms": 217440,
+      "name": "Maria Isabel",
+      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
     },
     {
       "added_at": null,
@@ -431,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa'Yo (29 Aniversario)",
         "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 185866,
-      "name": "Oh, Solitario",
-      "url": "https://open.spotify.com/track/6yrzuIalfWSpONCc9lBFyW"
+      "duration_ms": 195026,
+      "name": "Dicembre Del 63",
+      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
     },
     {
       "added_at": null,
@@ -495,40 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "Dicembre Del 63",
-      "url": "https://open.spotify.com/track/4s6pbnCdQLSwBGFCF9gf2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB"
+        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 150160,
-      "name": "Con M\u00fasica De Banda",
-      "url": "https://open.spotify.com/track/4UEa2SsoWhl5ksnFg97Luh"
+      "duration_ms": 180000,
+      "name": "Caminando Por El Mundo",
+      "url": "https://open.spotify.com/track/5UeXurONcahPI6BwjvrRms"
     },
     {
       "added_at": null,
@@ -572,9 +556,25 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+      "duration_ms": 173000,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 173000,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,

@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 43 | [CURBS](https://open.spotify.com/track/2yWq1VUkJut0ExfZbzy4vF) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:05 |
 | 44 | [APPARENT](https://open.spotify.com/track/0DMNW3e7MrwbNUxQfHvOj5) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 1:36 |
 | 45 | [WILDIN](https://open.spotify.com/track/0SyHqKuXo2wuDgPJiHD2wx) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 2:00 |
-| 46 | [Vintage](https://open.spotify.com/track/4zW3mmZIAd5n7dGkHOJB2m) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:02 |
-| 47 | [DEBIT](https://open.spotify.com/track/2U0XIiypVQm04Dj9PsVrTR) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:07 |
+| 46 | [DEBIT](https://open.spotify.com/track/2U0XIiypVQm04Dj9PsVrTR) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:07 |
+| 47 | [Vintage](https://open.spotify.com/track/4zW3mmZIAd5n7dGkHOJB2m) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:02 |
 | 48 | [Laying Low \(Cooking Up\)](https://open.spotify.com/track/33gqGbD6eQGMMlV7IPlDgk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 3:48 |
 | 49 | [Not Sure](https://open.spotify.com/track/2HZw9e2ph4C02ElCOLqLnj) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o), [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 4:43 |
 | 50 | [fund$](https://open.spotify.com/track/0kSl3WjIB3A1u6aYvsphfU) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 2:32 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 95 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 96 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AbTilgAAAACPZ6dkrT+flItaeYmalbaR`
+Snapshot ID: `AbToNgAAAAB9Mk4SjP9B70c9v3iXBDf1`

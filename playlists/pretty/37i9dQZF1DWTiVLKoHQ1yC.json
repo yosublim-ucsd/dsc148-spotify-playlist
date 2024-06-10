@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 182720,
+  "num_followers": 182790,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "Cappadocia",
-        "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 282063,
-      "name": "Cappadocia",
-      "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 335194,
       "name": "Famax",
       "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "Cappadocia",
+        "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 282063,
+      "name": "Cappadocia",
+      "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
-        "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        },
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 398969,
-      "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
-      "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
@@ -755,22 +735,22 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
+        "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
+        "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
       },
       "artists": [
         {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
         },
         {
-          "name": "GIVVEN",
-          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 395500,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
+      "duration_ms": 398969,
+      "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
+      "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -787,6 +767,26 @@
       "duration_ms": 226229,
       "name": "Aquatic",
       "url": "https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        }
+      ],
+      "duration_ms": 395500,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4A0StE56VMKnr1QlzosEua"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 189836,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
         "name": "Lose Your Love",
         "url": "https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi"
       },
@@ -991,26 +1007,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "Gab Rhome",
-          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0yzOf4gdeVEOK34yvtwJ0t"
       },
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7"
       },
       "artists": [
         {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Gab Rhome",
+          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
         }
       ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+      "duration_ms": 216500,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -1059,22 +1059,6 @@
       "duration_ms": 228843,
       "name": "Another Riff For The Good Times",
       "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
-        "name": "When Everything Was New",
-        "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 267481,
-      "name": "When Everything Was New",
-      "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -1099,6 +1083,22 @@
       "duration_ms": 172619,
       "name": "In The Quiet",
       "url": "https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "When Everything Was New",
+        "url": "https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 267481,
+      "name": "When Everything Was New",
+      "url": "https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX"
     },
     {
       "added_at": "2024-05-10 14:41:32",

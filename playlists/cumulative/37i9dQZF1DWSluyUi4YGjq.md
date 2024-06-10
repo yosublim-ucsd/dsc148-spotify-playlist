@@ -4,7 +4,7 @@
 
 > Track 1\-25 from DIIV, featuring new album <a href="spotify:album:7xLRw5DsWnAMmNBp8I67UD">Frog in Boiling Water</a>.
 
-647 songs - 1 day 18 hr 9 min
+651 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-16 | 2023-11-08 |
 | [Bum](https://open.spotify.com/track/33pm3z0Kvv9NfHAblCeWlO) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [Path](https://open.spotify.com/album/6NVWtd06eYQuVJR4iccrZY) | 2:28 | 2024-05-24 |  |
 | [Buried Alive](https://open.spotify.com/track/3v1okTkFTXHX6IZp0rEd4L) | [Amateur Hour](https://open.spotify.com/artist/7MbhbrCOjLXeaNah07xAdq) | [Krökta Tankar Och Brända Vanor](https://open.spotify.com/album/3w9hOArCkQ0OReLe491FHr) | 3:07 | 2023-01-12 | 2023-02-22 |
-| [butterfly](https://open.spotify.com/track/2Mz0UdSNmyRijx5O1szHKf) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER) | 1:50 | 2024-04-05 |  |
+| [butterfly](https://open.spotify.com/track/2Mz0UdSNmyRijx5O1szHKf) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/6BiT8PzOcHOEe1hrrjajER) | 1:50 | 2024-04-05 | 2024-06-10 |
 | [Cabin Fever](https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7) | [Juice Jackal](https://open.spotify.com/artist/707dnhK9JFj9zyJvEhY761), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Cabin Fever](https://open.spotify.com/album/7EVs3WnBcbuCpe72Ac93Ty) | 3:06 | 2023-02-09 | 2023-07-22 |
 | [Calling it love isn't love \(Don't fall in love\)](https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Autumn, Again](https://open.spotify.com/album/2iME9zWaS1jUcztTmzPHSB) | 3:41 | 2021-10-19 | 2022-11-13 |
 | [Cambia](https://open.spotify.com/track/6ZVBExuI3xJZOZwmvHG7To) | [Bosques](https://open.spotify.com/artist/7tyJ5HvQArW2FlxO9MKa89) | [Mutaciones](https://open.spotify.com/album/2K55zXz2raFS1ISYzPIr5u) | 5:24 | 2021-10-19 | 2022-07-29 |
@@ -421,6 +421,7 @@
 | [No Sweat](https://open.spotify.com/track/3nwHmqkBRofBzW4elGoSb3) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [No Sweat](https://open.spotify.com/album/6X1wlGhhV2P82VkNilQ8Bt) | 3:03 | 2023-01-12 | 2023-02-02 |
 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 | 2022-08-25 | 2022-11-07 |
 | [Not It](https://open.spotify.com/track/6d8mGiqcBGivmQ0B5BH9Wi) | [Salt+](https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape) | [Not It](https://open.spotify.com/album/0ep6SynYuRntszr0mv2U2W) | 2:32 | 2024-05-10 |  |
+| [NOT Okay](https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs for The Daydreamers](https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w) | 2:47 | 2024-06-09 |  |
 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 | 2024-02-23 | 2024-04-30 |
 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 | 2021-10-19 | 2023-06-08 |
 | [NPC](https://open.spotify.com/track/1UbE5driFCXOtqjRoqOqqQ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [NPC](https://open.spotify.com/album/2djvGQmMqVG6b1rP7G2Kbb) | 3:38 | 2023-10-20 | 2024-04-20 |
@@ -477,6 +478,7 @@
 | [Pulling Stitches](https://open.spotify.com/track/4PJooaOdpgu1xjQgCtE6RJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Pulling Stitches](https://open.spotify.com/album/47Xo8CXT5kwVS21eK50jFi) | 4:12 | 2023-06-01 | 2023-07-01 |
 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 | 2022-08-03 | 2022-12-13 |
 | [Rdo](https://open.spotify.com/track/5uPwj0ULJrOIhCzJHt6hhz) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 1:46 | 2023-11-06 | 2023-12-12 |
+| [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Realize](https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb) | 1:55 | 2024-06-09 |  |
 | [Rebounds](https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Spiritual Sickness](https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO) | 4:20 | 2024-03-18 |  |
 | [Recluse](https://open.spotify.com/track/0kMz5Bg11tjSLkAV7t4cyM) | [Warstories](https://open.spotify.com/artist/3j15Mmvo3P9dia0LbZ09uH) | [Waste](https://open.spotify.com/album/0s19h974d7Es2A1Gy3DsjL) | 3:46 | 2024-04-05 |  |
 | [Reel](https://open.spotify.com/track/1SHkhQfzSnMFOAYlrJjVKA) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Reel](https://open.spotify.com/album/2RPg4cyOfekuhu7driK1jl) | 4:40 | 2021-10-19 | 2022-07-29 |
@@ -498,6 +500,7 @@
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2023-02-17 | 2023-09-30 |
 | [Seven of Cups](https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 3:53 | 2022-08-03 | 2022-12-16 |
 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 | 2022-05-06 | 2022-07-29 |
+| [shaniatwainlovestory](https://open.spotify.com/track/4S6r4rZ2wwHPMmgNtjyEm9) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [shaniatwainlovestory](https://open.spotify.com/album/1GGxbMVuViCHfjNkdukpvr) | 2:46 | 2024-06-09 |  |
 | [Sharron Apple](https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:17 | 2021-10-19 | 2022-12-16 |
 | [she left](https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [she left](https://open.spotify.com/album/6GzzKcYJRwROX6cWFVNMOB) | 4:41 | 2023-01-04 | 2023-02-22 |
 | [Shiny Shiny](https://open.spotify.com/track/33AccsjCXPy04llhvJbHFm) | [Infinite Siennas](https://open.spotify.com/artist/6yWPwEnWb3v7gro5aUz8Gi) | [Shiny Shiny](https://open.spotify.com/album/2cJCFPoCtzzywEywkl7p4D) | 4:36 | 2021-10-19 | 2022-07-29 |
@@ -536,6 +539,7 @@
 | [Spring and by Summer Fall](https://open.spotify.com/track/3plzNcg0RAtFKTR3y7uPRy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 4:15 | 2021-10-19 | 2022-12-16 |
 | [Spring and by Summer Fall](https://open.spotify.com/track/4H1WerRdoDxPnra8SJtW3R) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 4:15 | 2021-10-19 | 2022-07-29 |
 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 | 2021-10-19 | 2023-06-08 |
+| [Staring \- alt](https://open.spotify.com/track/4iybILxj19srQ5dNk4Xtby) | [Velvet](https://open.spotify.com/artist/1dgE9MLP0gjq7X3NF6KNUM), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Romance: Special Features](https://open.spotify.com/album/5kHRTotV5DSxG6OEFIOIsi) | 4:34 | 2024-06-09 |  |
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-10-19 | 2023-05-10 |
 | [Stay](https://open.spotify.com/track/5eD6Uxpntflv7HMCZ4P83Q) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [I + II](https://open.spotify.com/album/05FbjkY4JGm3rrntaeGJDx) | 2:10 | 2023-11-06 | 2024-04-30 |
 | [stay inside](https://open.spotify.com/track/13xM23OPLCZn7WYCWaoJjS) | [blood pact](https://open.spotify.com/artist/5mL0esHMF17dXd1RCLFQHs) | [autumn](https://open.spotify.com/album/4uZhZ9FK5Xe4cQeqVD51B3) | 3:06 | 2023-11-14 | 2024-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DrBh4sbMhw.md) - [plain]
 
 > umuulan nanaman?
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,010 likes - 105 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,023 likes - 105 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

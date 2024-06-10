@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 631859,
+  "num_followers": 631908,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zj+zJQAAAAALgV2nEZHHj6Vp60ebCFyh",
   "tracks": [
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
-      },
-      "artists": [
-        {
-          "name": "Aerin Villegas",
-          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
-    },
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 149062,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg"
+      },
+      "artists": [
+        {
+          "name": "Aerin Villegas",
+          "url": "https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Zeniah",
-        "url": "https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR"
-      },
-      "artists": [
-        {
-          "name": "Caspar Tindra",
-          "url": "https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD"
-        }
-      ],
-      "duration_ms": 199650,
-      "name": "Zeniah",
-      "url": "https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Placid",
         "url": "https://open.spotify.com/album/4Ps00yzpjrio09MlcaAdKu"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 170666,
       "name": "Placid",
       "url": "https://open.spotify.com/track/6HRbUx7V017PctkDJotRc4"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Zeniah",
+        "url": "https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR"
+      },
+      "artists": [
+        {
+          "name": "Caspar Tindra",
+          "url": "https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD"
+        }
+      ],
+      "duration_ms": 199650,
+      "name": "Zeniah",
+      "url": "https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Prana",
-        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
-      },
-      "artists": [
-        {
-          "name": "Najia",
-          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
-        }
-      ],
-      "duration_ms": 157724,
-      "name": "Ocean Breath",
-      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Quiet Motions",
         "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+        "name": "Prana",
+        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
       },
       "artists": [
         {
-          "name": "Night Songs",
-          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+          "name": "Najia",
+          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
         }
       ],
-      "duration_ms": 181318,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
+      "duration_ms": 157724,
+      "name": "Ocean Breath",
+      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -359,6 +343,22 @@
       "duration_ms": 143529,
       "name": "Yalmi",
       "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/0DHRLhT525rVnGTskjELHS"
+      },
+      "artists": [
+        {
+          "name": "Night Songs",
+          "url": "https://open.spotify.com/artist/5A7cqWlLotBQtfFFNriTtF"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Teegarden C",
-        "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
-      },
-      "artists": [
-        {
-          "name": "By Lotus",
-          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
-        }
-      ],
-      "duration_ms": 248896,
-      "name": "Standing Wave",
-      "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Sampadan",
         "url": "https://open.spotify.com/album/5drJguDDuDK4AHHXCCRH5t"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 201938,
       "name": "Sampadan",
       "url": "https://open.spotify.com/track/1wUpOQbHQStS91migVQa8p"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Teegarden C",
+        "url": "https://open.spotify.com/album/4Ymu2WPYJNzRafMvyH5tlR"
+      },
+      "artists": [
+        {
+          "name": "By Lotus",
+          "url": "https://open.spotify.com/artist/2abf5MCGiDUvtFfBU3tHw8"
+        }
+      ],
+      "duration_ms": 248896,
+      "name": "Standing Wave",
+      "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Sleep & Relaxation Music",
-        "url": "https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H"
-      },
-      "artists": [
-        {
-          "name": "Lou D'Audrey",
-          "url": "https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl"
-        }
-      ],
-      "duration_ms": 141704,
-      "name": "Humpback Whales",
-      "url": "https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "The Shed",
         "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 150750,
       "name": "The Shed",
       "url": "https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Sleep & Relaxation Music",
+        "url": "https://open.spotify.com/album/4CeV5y1m1WFUZraBTiTr8H"
+      },
+      "artists": [
+        {
+          "name": "Lou D'Audrey",
+          "url": "https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl"
+        }
+      ],
+      "duration_ms": 141704,
+      "name": "Humpback Whales",
+      "url": "https://open.spotify.com/track/05UHTEtKF3xSVlEOszpdmO"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
+        "name": "Aurora Line",
+        "url": "https://open.spotify.com/album/4ZJXs5rAbVlDCbpECFFEq6"
       },
       "artists": [
         {
-          "name": "Fahda Mohamed",
-          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Takamatsu",
-      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+      "duration_ms": 152000,
+      "name": "Aurora Line",
+      "url": "https://open.spotify.com/track/1zuGL74HX3yHU0UNFoW1pX"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1095,22 +1095,6 @@
       "duration_ms": 167386,
       "name": "The Light of Day",
       "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
-        "name": "Aurora Line",
-        "url": "https://open.spotify.com/album/4ZJXs5rAbVlDCbpECFFEq6"
-      },
-      "artists": [
-        {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Aurora Line",
-      "url": "https://open.spotify.com/track/1zuGL74HX3yHU0UNFoW1pX"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1143,6 +1127,22 @@
       "duration_ms": 162500,
       "name": "Hvis du bare vidste",
       "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
+      },
+      "artists": [
+        {
+          "name": "Fahda Mohamed",
+          "url": "https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Takamatsu",
+      "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
+        "name": "Behind Your Eyes",
+        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
+      },
+      "artists": [
+        {
+          "name": "Coherent Energy",
+          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Behind Your Eyes",
+      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1243,6 +1259,26 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
+        "name": "Drifting Together",
+        "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Siegel",
+          "url": "https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE"
+        },
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "duration_ms": 193269,
+      "name": "Drifting Together",
+      "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
         "name": "Distant Voices",
         "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
@@ -1259,6 +1295,22 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
         "name": "Lumineux",
         "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
       },
@@ -1271,22 +1323,6 @@
       "duration_ms": 217893,
       "name": "Lumineux",
       "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
-        "name": "Behind Your Eyes",
-        "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
-      },
-      "artists": [
-        {
-          "name": "Coherent Energy",
-          "url": "https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Behind Your Eyes",
-      "url": "https://open.spotify.com/track/20zqqXhSfIHp8mMrjmzDUX"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1311,22 +1347,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
-      },
-      "artists": [
-        {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Would I Bother",
         "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 160941,
       "name": "Would I Bother",
       "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
-        "name": "Drifting Together",
-        "url": "https://open.spotify.com/album/4Fm2uRfIEx9fIjdVjsUOzu"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Siegel",
-          "url": "https://open.spotify.com/artist/2t7xGHSArMZLWeCq2p6phE"
-        },
-        {
-          "name": "Cosmazul",
-          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
-        }
-      ],
-      "duration_ms": 193269,
-      "name": "Drifting Together",
-      "url": "https://open.spotify.com/track/1nhmqBkGh4FDraowHKxRNA"
     },
     {
       "added_at": "2024-05-11 18:04:21",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-11 18:04:21",
       "album": {
-        "name": "Song For Wermland",
-        "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Jenzen",
-          "url": "https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc"
-        }
-      ],
-      "duration_ms": 226862,
-      "name": "Song For Wermland",
-      "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
-    },
-    {
-      "added_at": "2024-05-11 18:04:21",
-      "album": {
         "name": "Vortex Trance",
         "url": "https://open.spotify.com/album/70sKQPPEhenDxhxPmC6QGJ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 154000,
       "name": "Vortex Trance",
       "url": "https://open.spotify.com/track/6bl76Eco7CEr7JJdhmdqoF"
+    },
+    {
+      "added_at": "2024-05-11 18:04:21",
+      "album": {
+        "name": "Song For Wermland",
+        "url": "https://open.spotify.com/album/6sRjo5sSEJmwLhbjV4bvNA"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Jenzen",
+          "url": "https://open.spotify.com/artist/0dE07SkhpjSzABGjYGdVDc"
+        }
+      ],
+      "duration_ms": 226862,
+      "name": "Song For Wermland",
+      "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"
     },
     {
       "added_at": "2024-05-11 18:04:21",

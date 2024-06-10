@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 102793,
+  "num_followers": 102785,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Divane",
-        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
-      },
-      "artists": [
-        {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Divane",
-      "url": "https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Kehanet",
         "url": "https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 239605,
       "name": "Tac Mahal",
       "url": "https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Divane",
+        "url": "https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Divane",
+      "url": "https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -203,6 +203,26 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
+        "name": "Aldat\u0131ld\u0131k",
+        "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
+      },
+      "artists": [
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        },
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Aldat\u0131ld\u0131k",
+      "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
         "name": "Sustum",
         "url": "https://open.spotify.com/album/05N4dJk53uBVvH27EAzkNS"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 212250,
       "name": "Sustum",
       "url": "https://open.spotify.com/track/6IXDRacqWKBzee5DgsLRVf"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Uzun Uzun (feat. Jabbar)",
-        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Uzun Uzun (feat. Jabbar)",
-      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -255,22 +255,22 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Aldat\u0131ld\u0131k",
-        "url": "https://open.spotify.com/album/2wr1SwiuPVivHQ2S7Bnv9s"
+        "name": "Uzun Uzun (feat. Jabbar)",
+        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
       },
       "artists": [
         {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        },
-        {
           "name": "Deeperise",
           "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Aldat\u0131ld\u0131k",
-      "url": "https://open.spotify.com/track/5E1gxNXvUGvpvUECz54xXm"
+      "duration_ms": 216000,
+      "name": "Uzun Uzun (feat. Jabbar)",
+      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -303,26 +303,6 @@
       "duration_ms": 219664,
       "name": "Her Yerde Sen",
       "url": "https://open.spotify.com/track/1L8breHwaAapLwp7tcIPF9"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
-        "name": "Unuttum Derdimi",
-        "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Unuttum Derdimi",
-      "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -375,6 +355,26 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
+        "name": "Unuttum Derdimi",
+        "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Unuttum Derdimi",
+      "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
         "name": "Al Senin Olsun D\u00fcnya",
         "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
       },
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "\u00c7apk\u0131nca",
-        "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        },
-        {
-          "name": "Ozan Bayra\u015fa",
-          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
-        }
-      ],
-      "duration_ms": 218789,
-      "name": "\u00c7apk\u0131nca",
-      "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
       },
@@ -443,26 +423,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Bildi\u011fim Gibi",
-        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Nilipek.",
-          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Bildi\u011fim Gibi",
-      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Hissettin mi",
         "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
       },
@@ -475,6 +435,26 @@
       "duration_ms": 212608,
       "name": "Hissettin mi",
       "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "\u00c7apk\u0131nca",
+        "url": "https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        },
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
+        }
+      ],
+      "duration_ms": 218789,
+      "name": "\u00c7apk\u0131nca",
+      "url": "https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -511,6 +491,26 @@
       "duration_ms": 179093,
       "name": "Sen Benim \u015eark\u0131lar\u0131ms\u0131n",
       "url": "https://open.spotify.com/track/522soGPCUM6FJimxFQNjsQ"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Bildi\u011fim Gibi",
+        "url": "https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Nilipek.",
+          "url": "https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Bildi\u011fim Gibi",
+      "url": "https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Sarma\u015f\u0131k",
-        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
-      },
-      "artists": [
-        {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Sarma\u015f\u0131k",
-      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
         "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 150000,
       "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
       "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "Sarma\u015f\u0131k",
+        "url": "https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY"
+      },
+      "artists": [
+        {
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Sarma\u015f\u0131k",
+      "url": "https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "FIRTINAYT",
-        "url": "https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS"
-      },
-      "artists": [
-        {
-          "name": "B\u00fcy\u00fck Ev Ablukada",
-          "url": "https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "BO\u015eLUK",
-      "url": "https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX"
-    },
-    {
-      "added_at": "2024-02-22 21:00:00",
-      "album": {
         "name": "Esirinim",
         "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 198933,
       "name": "Esirinim",
       "url": "https://open.spotify.com/track/2Y0rbMONCI9mU8h8lw1S5A"
+    },
+    {
+      "added_at": "2024-02-22 21:00:00",
+      "album": {
+        "name": "FIRTINAYT",
+        "url": "https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcy\u00fck Ev Ablukada",
+          "url": "https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "BO\u015eLUK",
+      "url": "https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX"
     },
     {
       "added_at": "2024-02-22 21:00:00",
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-02-22 21:00:00",
       "album": {
-        "name": "Onno Tun\u00e7 \u015eark\u0131lar\u0131",
-        "url": "https://open.spotify.com/album/05AuqXIInjEOYuuoSxlAKP"
+        "name": "Bir Anda",
+        "url": "https://open.spotify.com/album/4cG5f9NFKkNr3rH7K3zcuD"
       },
       "artists": [
         {
-          "name": "Sezen Aksu",
-          "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+          "name": "Nilhan",
+          "url": "https://open.spotify.com/artist/04iDbY27hS8SKKr2toc0nD"
+        },
+        {
+          "name": "CEAUS",
+          "url": "https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4"
         }
       ],
-      "duration_ms": 335586,
-      "name": "Yeniden Sev",
-      "url": "https://open.spotify.com/track/3A2711bGNF7y0rTVy2XZNH"
+      "duration_ms": 158644,
+      "name": "Bir Anda",
+      "url": "https://open.spotify.com/track/4tYUzluvpdFTKhGfT1HTcK"
     }
   ],
   "unique_name": "K\u0131y\u0131 Boyu",

@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12784,
+  "num_followers": 12785,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "A Reminder (Remix)",
-        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 285161,
-      "name": "A Reminder (Remix)",
-      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "The Change I'm Seeking",
         "url": "https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 178614,
       "name": "I Was Just Leaving",
       "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "These Are My Roots",
+        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
+      },
+      "artists": [
+        {
+          "name": "Mike Love",
+          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
+        }
+      ],
+      "duration_ms": 234061,
+      "name": "These Are My Roots",
+      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "You're It!",
         "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
       },
@@ -367,6 +383,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Sugarshack Sessions Selects, Vol. 1",
         "url": "https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS"
       },
@@ -387,38 +419,6 @@
       "duration_ms": 197166,
       "name": "Change The World",
       "url": "https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "These Are My Roots",
-        "url": "https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC"
-      },
-      "artists": [
-        {
-          "name": "Mike Love",
-          "url": "https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "These Are My Roots",
-      "url": "https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Stay Human Vol. II",
         "url": "https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "The Fire in Me",
-        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
       },
       "artists": [
         {
-          "name": "Rob Riccardo",
-          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 261104,
-      "name": "When Will I Learn",
-      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -519,6 +503,22 @@
       "duration_ms": 251840,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "The Fire in Me",
+        "url": "https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet"
+      },
+      "artists": [
+        {
+          "name": "Rob Riccardo",
+          "url": "https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa"
+        }
+      ],
+      "duration_ms": 261104,
+      "name": "When Will I Learn",
+      "url": "https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
-      },
-      "artists": [
-        {
-          "name": "Will Evans",
-          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
-        }
-      ],
-      "duration_ms": 191562,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 280104,
       "name": "Fast And Slow",
       "url": "https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
+      },
+      "artists": [
+        {
+          "name": "Will Evans",
+          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
+        }
+      ],
+      "duration_ms": 191562,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC"
     }
   ],
   "unique_name": "Peace Of Mind",

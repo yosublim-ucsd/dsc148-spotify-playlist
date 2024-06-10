@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,013 songs - 4 day 12 hr 44 min
+2,014 songs - 4 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [333](https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [333](https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk) | 2:45 | 2023-10-17 | 2023-11-12 |
 | [34 Amor y Mafia REMIX \(feat\. El Jincho, Camin, Harry Nach & Pedro Calderon\)](https://open.spotify.com/track/2xHt5akicWyD4FCPv3ExVP) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [Los Green Lanters 2.0](https://open.spotify.com/album/4XuIa2a0170dUBN6HzhJd6) | 6:08 | 2022-11-24 | 2022-11-30 |
 | [34 Amor y Mafia REMIX \(feat\. El Jincho, Camin, Harry Nach & Pedro Calderon\)](https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [34 Amor y Mafia REMIX \(feat\. El Jincho, Camin, Harry Nach & Pedro Calderon\)](https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE) | 6:08 | 2022-11-01 | 2022-11-25 |
+| [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-06-09 |  |
 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 | 2022-10-01 | 2022-11-09 |
 | [365](https://open.spotify.com/track/5BAM5vA7mem7otR5ylQxFx) | [Los Reales Del Río](https://open.spotify.com/artist/2A6M5I2g7VpFJW950JP6rV) | [365](https://open.spotify.com/album/01bt5fJVQWZw8bpD1sL6lL) | 3:08 | 2022-09-21 | 2022-10-02 |
 | [38](https://open.spotify.com/track/0zhiOM9XtH1MsLdFMhxIWI) | [El Rey](https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [38](https://open.spotify.com/album/1mel7e9QhZ5CgGjh6hCath) | 1:50 | 2022-12-20 | 2023-01-18 |
@@ -370,7 +371,7 @@
 | [Cold Little Heart](https://open.spotify.com/track/16Z2eVZWIJ16NuTZrLqYaE) | [Sunken Screens](https://open.spotify.com/artist/7iCuufQLRwpxPcbkwfFlIa) | [Sunken Screens](https://open.spotify.com/album/5Csu9GNNwJy8vXrg7r4kwY) | 4:16 | 2022-12-05 | 2022-12-11 |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-08-01 | 2023-09-13 |
 | [Come Back Home](https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Purple Hearts \(Original Soundtrack\)](https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd) | 2:56 | 2022-08-09 | 2022-08-27 |
-| [Come back to me](https://open.spotify.com/track/62HKW77nt6tudsIHXT2A0M) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 6:28 | 2024-05-28 |  |
+| [Come back to me](https://open.spotify.com/track/62HKW77nt6tudsIHXT2A0M) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 6:28 | 2024-05-28 | 2024-06-10 |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2022-05-10 | 2022-07-06 |
 | [Comfortably Numb 2022](https://open.spotify.com/track/19Kjgxz5XPeagF9ZSPVJeL) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [The Lockdown Sessions](https://open.spotify.com/album/2kFYChSHSu046vjfGfAr41) | 8:30 | 2023-11-28 | 2023-12-04 |
 | [COMO HAS ESTAU?](https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 2:07 | 2022-11-29 | 2022-12-02 |

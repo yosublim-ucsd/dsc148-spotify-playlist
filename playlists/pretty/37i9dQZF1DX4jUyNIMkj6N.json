@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 202432,
+  "num_followers": 202476,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Wild Geese, Wild Love / Day 2000 Awake",
         "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "the man",
-        "url": "https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI"
-      },
-      "artists": [
-        {
-          "name": "de clair.",
-          "url": "https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o"
-        }
-      ],
-      "duration_ms": 159635,
-      "name": "the man",
-      "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "i went outside",
         "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
       },
@@ -651,34 +635,34 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+        "name": "the man",
+        "url": "https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI"
       },
       "artists": [
         {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+          "name": "de clair.",
+          "url": "https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o"
         }
       ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+      "duration_ms": 159635,
+      "name": "the man",
+      "url": "https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs"
     },
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Have This Dance",
-        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 214380,
-      "name": "Have This Dance",
-      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+      "duration_ms": 176793,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -699,6 +683,38 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Have This Dance",
+        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Have This Dance",
+      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+      },
+      "artists": [
+        {
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+        }
+      ],
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 176793,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Asymmetry",
-        "url": "https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 244381,
-      "name": "Asymmetry",
-      "url": "https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Love Me One More Time",
         "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 189154,
       "name": "Love Me One More Time",
       "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Asymmetry",
+        "url": "https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 244381,
+      "name": "Asymmetry",
+      "url": "https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Broken Road",
+        "url": "https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3"
+      },
+      "artists": [
+        {
+          "name": "Niila",
+          "url": "https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Broken Road",
+      "url": "https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Mornings and Afternoons",
         "url": "https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 168556,
       "name": "Mornings and Afternoons",
       "url": "https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Broken Road",
-        "url": "https://open.spotify.com/album/1fB4KhlQ5k3sPXwV1PJcE3"
-      },
-      "artists": [
-        {
-          "name": "Niila",
-          "url": "https://open.spotify.com/artist/25PzS3ToWjTF5cznfaYpFq"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Broken Road",
-      "url": "https://open.spotify.com/track/3U68FhkqgAVLxCR1s7aoD4"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -947,34 +947,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Early Summer Rain",
-        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
+        "name": "Street I Grew Up On",
+        "url": "https://open.spotify.com/album/1ZzqDJw557jmL1mTCKKGG5"
       },
       "artists": [
         {
-          "name": "August Flendahl",
-          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+          "name": "Joel Sundkvist",
+          "url": "https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM"
         }
       ],
-      "duration_ms": 170181,
-      "name": "Early Summer Rain",
-      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "bl\u00f3mi",
-      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+      "duration_ms": 169600,
+      "name": "Street I Grew Up On",
+      "url": "https://open.spotify.com/track/08Acr6x8Lw2hEErwhf3pdE"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Early Summer Rain",
+        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
+      },
+      "artists": [
+        {
+          "name": "August Flendahl",
+          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Early Summer Rain",
+      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
     }
   ],
   "unique_name": "Nordic Folk",

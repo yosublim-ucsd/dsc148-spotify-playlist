@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Destroy Boys
 
-2,448 songs - 5 day 9 hr 22 min
+2,449 songs - 5 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [Eyez](https://open.spotify.com/track/5VllbPPu1vVNSMEwUBm1wr) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Eyez](https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4) | 3:40 | 2022-12-09 | 2023-01-28 |
 | [F\*ck Society \(feat\. Sueco\)](https://open.spotify.com/track/3ZAYMiBXD8tume1BVtqPcQ) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [F\*ck Society \(feat\. Sueco\)](https://open.spotify.com/album/6Bj1BOECYspiKwKl1DbrlX) | 1:49 | 2022-01-21 | 2022-03-26 |
 | [Face Down](https://open.spotify.com/track/0suR0ZWls0EHG9VfPaVq31) | [Return to Dust](https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS) | [Return to Dust](https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB) | 3:15 | 2024-05-03 |  |
+| [Face In The Picture](https://open.spotify.com/track/2Fo9ObbJQsDOqdUT3zN14t) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Face In the Picture](https://open.spotify.com/album/3iCcMrg5ljQmVyxLsV2M0K) | 2:44 | 2024-06-09 |  |
 | [Facedown](https://open.spotify.com/track/2wc4XyfD9OAELrkwL3iCqO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Facedown](https://open.spotify.com/album/5bkQz8PC9JMdToUrvFfQOI) | 2:31 | 2023-03-17 | 2023-04-15 |
 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 | 2023-10-06 | 2024-01-13 |
 | [FACETIME](https://open.spotify.com/track/2Yj6z7338KEuVa2YxU2vqk) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [FACETIME](https://open.spotify.com/album/5pZq3XZDSKXQahKz9eCiTS) | 3:06 | 2024-02-02 | 2024-03-02 |

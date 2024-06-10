@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 83871,
+  "num_followers": 83923,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
-        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Vicentico Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Los Aretes De La Luna",
-      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
         "name": "Mis Mejores \u00c9xitos",
         "url": "https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u"
       },
@@ -315,22 +295,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+        "name": "Vicentico Vald\u00e9s Con La Sonora Matancera",
+        "url": "https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS"
       },
       "artists": [
         {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
           "name": "La Sonora Matancera",
           "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Vicentico Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+      "duration_ms": 145426,
+      "name": "Los Aretes De La Luna",
+      "url": "https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -363,6 +343,26 @@
       "duration_ms": 314773,
       "name": "Privilegio",
       "url": "https://open.spotify.com/track/3KhoUV7LX6qKjnXBXvMoct"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
     },
     {
       "added_at": "2023-12-20 18:45:06",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-12-20 18:45:06",
       "album": {
+        "name": "Historia: Discograf\u00eda Completa",
+        "url": "https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles Verdes",
+          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Alguien Me Dijo",
+      "url": "https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA"
+    },
+    {
+      "added_at": "2023-12-20 18:45:06",
+      "album": {
         "name": "14 Grandes Exitos de Nacho Sanabria",
         "url": "https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 299000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
-    },
-    {
-      "added_at": "2023-12-20 18:45:06",
-      "album": {
-        "name": "Historia: Discograf\u00eda Completa",
-        "url": "https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles Verdes",
-          "url": "https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Alguien Me Dijo",
-      "url": "https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA"
     },
     {
       "added_at": "2023-12-20 18:45:06",

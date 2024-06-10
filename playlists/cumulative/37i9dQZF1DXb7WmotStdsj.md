@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout.
 
-202 songs - 16 hr 25 min
+203 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Denia keratni \- Va bene](https://open.spotify.com/track/4QpthEgd5SYqlYGPLoCPgU) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [Denia Keratni](https://open.spotify.com/album/6LEiREHxVTyoMGiDWWogu0) | 6:39 | 2021-10-19 | 2023-03-16 |
 | [Dertlek Jenah](https://open.spotify.com/track/5UhX23goXF4u3FpJcIJq7b) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS), [Tipou Bel Abbes](https://open.spotify.com/artist/5zphaZoZd6AoMtWhatdZJH) | [Dertlek Jenah](https://open.spotify.com/album/5DhQs6mOxSHrVGPrG4Gzxx) | 4:18 | 2022-09-20 | 2023-02-02 |
 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 | 2021-10-19 | 2023-02-01 |
+| [Drabteh Chbab W Sghir Ya3chak Fia W Yghir](https://open.spotify.com/track/7H0si3I4LaDIMrjkHXWTWx) | [Kimo Wahrani](https://open.spotify.com/artist/1WlwQX1JVVz308Juhg8q51) | [Drabteh Chbab W Sghir Ya3chak Fia W Yghir](https://open.spotify.com/album/3yFZXVH5rdPOEoeaixAoeB) | 4:07 | 2024-06-09 |  |
 | [Eddouh Alia](https://open.spotify.com/track/7MVxzkvw2pc56XIhfMQyT6) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Eddouh Alia](https://open.spotify.com/album/52YxT7QJoDzjXiJw2DulBh) | 4:06 | 2022-09-20 | 2022-12-01 |
 | [Edini B3ida](https://open.spotify.com/track/6DU9DquhwAQMQJ0Pkud1ea) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt), [Moh Casanova](https://open.spotify.com/artist/2Gp9AQhiBIp0LI25z2QMm3) | [Edini B3ida](https://open.spotify.com/album/5gxEFRpmHjoGxWvGd7AiBZ) | 3:56 | 2022-09-20 | 2022-10-26 |
 | [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 | 2023-01-25 | 2023-06-15 |
@@ -87,7 +88,7 @@
 | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/track/5tc8bdNrYN8GzcVJbYIlp4) | [Cheb Lotfi](https://open.spotify.com/artist/0FGxUTcyQRfL287iqNCJ6h) | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/album/63sI8qiT2XPZMdplp9U7B6) | 4:29 | 2022-09-20 | 2022-12-01 |
 | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/track/24qwVpC78t6IkQCcUNw9gV) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Bibi Maestro](https://open.spotify.com/artist/3rhycpQTLaIhJpM2e38d8A) | [Hkayetna Tkhlass Lyoum](https://open.spotify.com/album/3VUIHN3PowVv65jGKndH7t) | 6:50 | 2021-10-19 | 2022-09-21 |
 | [Homa bonda w Ana wahdi](https://open.spotify.com/track/0hZs0e4AY2KhkaGJ87BBmO) | [cheb walid](https://open.spotify.com/artist/69Cp2q35cwYZ2WPI7hpuAt) | [Homa bonda w Ana wahdi](https://open.spotify.com/album/16c3l8pDnTCst3MGNQF3Bd) | 5:06 | 2024-03-16 |  |
-| [Homa Dayrine Haka](https://open.spotify.com/track/3I3ZjOzrVyyF3OS4MvOyy7) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Homa Dayrine Haka](https://open.spotify.com/album/17AqvRrbZYASiJnCT78qX0) | 4:26 | 2021-10-19 |  |
+| [Homa Dayrine Haka](https://open.spotify.com/track/3I3ZjOzrVyyF3OS4MvOyy7) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Homa Dayrine Haka](https://open.spotify.com/album/17AqvRrbZYASiJnCT78qX0) | 4:26 | 2021-10-19 | 2024-06-10 |
 | [I Am Crazy, Vol\. 1 \- La guerre de l'amour](https://open.spotify.com/track/581Q5vjsfwtJhZA1zXfCXd) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [I Am Crazy, Vol\. 1 \(La guerre de l'amour\)](https://open.spotify.com/album/5cYihB12ii8hF1VfueWwlV) | 3:19 | 2021-10-19 | 2022-09-21 |
 | [Jabetli Ljah](https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Jabetli Ljah](https://open.spotify.com/album/5rHwMQTSEBYs2s2HRE7rcH) | 8:00 | 2021-10-19 |  |
 | [Jarima Electronia 2](https://open.spotify.com/track/270PYzhVwT8pdPyAZEGNRa) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Jarima Electronia 2](https://open.spotify.com/album/4bRkfEXwYPwzwPUDhQJW7W) | 4:10 | 2022-08-25 | 2022-09-07 |

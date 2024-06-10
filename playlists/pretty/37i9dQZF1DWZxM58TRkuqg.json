@@ -1,12 +1,12 @@
 {
   "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:   Judika, Lesti",
-  "num_followers": 761187,
+  "num_followers": 761400,
   "original_name": "Puncak Klasemen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmHrEAAAAAA5kAdXO5wkbQwl3YBwdwrc",
+  "snapshot_id": "ZmZCAAAAAAC0bRDk63sQlTp4iaGDZgz1",
   "tracks": [
     {
       "added_at": "2024-06-06 17:00:00",
@@ -343,6 +343,26 @@
       "duration_ms": 258700,
       "name": "Berharap Kau Kembali",
       "url": "https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s"
+    },
+    {
+      "added_at": "2024-06-10 00:00:00",
+      "album": {
+        "name": "Sialan",
+        "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
+      },
+      "artists": [
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        },
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 241088,
+      "name": "Sialan",
+      "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
     },
     {
       "added_at": "2024-06-06 17:00:00",

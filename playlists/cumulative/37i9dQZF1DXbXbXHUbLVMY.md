@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-194 songs - 8 hr 25 min
+195 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [BELLA](https://open.spotify.com/track/1AuKZFNQfIKdwR2LngeNjD) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:24 | 2024-03-21 | 2024-04-23 |
 | [BELLA](https://open.spotify.com/track/7kDWqdkbVoSWkb93NELVae) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:24 | 2024-03-21 | 2024-04-19 |
 | [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 | 2024-01-04 | 2024-04-22 |
-| [Beverly Hills](https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Beverly Hills](https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5) | 3:08 | 2024-05-30 |  |
+| [Beverly Hills](https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Beverly Hills](https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5) | 3:08 | 2024-05-30 | 2024-06-10 |
 | [BIG BANDZ](https://open.spotify.com/track/5QYc0tl5ZAz8I7lMmlCuYJ) | [Rvzeli](https://open.spotify.com/artist/1ufmj2rsu21unXQ7C6naYy), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BIG BANDZ](https://open.spotify.com/album/38HjO1arCoX18hmmBSoR8c) | 2:31 | 2023-10-26 | 2023-11-11 |
 | [Birken](https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI) | [M4](https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib), [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Birken](https://open.spotify.com/album/6QtYBxelHBopL9DwsJYX9v) | 3:08 | 2024-04-27 |  |
 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-09-21 |  |
@@ -141,6 +141,7 @@
 | [On It](https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Ung & Dum](https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx) | 2:27 | 2024-04-27 |  |
 | [Oslo B](https://open.spotify.com/track/4XHgCjrFjFTofyZGla2w6L) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl), [sachi](https://open.spotify.com/artist/2EGblO3Zjp1JonjHzAy7h5), [Fetisha](https://open.spotify.com/artist/7ybWsReDAYTG94DhunDSHK) | [Oslo B](https://open.spotify.com/album/1n5VbNJ7mxx2KSSOikqynX) | 2:14 | 2024-04-18 | 2024-04-26 |
 | [OTR \(On The Road\)](https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [OTR \(On The Road\)](https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5) | 2:16 | 2024-02-09 | 2024-06-08 |
+| [Over mitt lik \(feat\. Molly Hammar\)](https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 2:43 | 2024-06-07 |  |
 | [Palmerna](https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Palmerna](https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa) | 2:27 | 2023-09-21 |  |
 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-09-21 | 2024-01-15 |
 | [Pendejo](https://open.spotify.com/track/5jCm2CYGVougaTZo8g9uCW) | [Lille Pablo](https://open.spotify.com/artist/6Y4IHXCDwWvuNBmdqTIUTz) | [Pendejo](https://open.spotify.com/album/41ZSewcI8wnAyunssOkVAI) | 2:57 | 2023-09-21 | 2023-09-29 |

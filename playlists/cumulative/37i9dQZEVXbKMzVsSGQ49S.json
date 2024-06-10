@@ -5329,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3KMMJEM9NRKVtOfwu2GCrQ"
+      },
+      "artists": [
+        {
+          "name": "CHRIST",
+          "url": "https://open.spotify.com/artist/0isGCole8wpNEtCEpf9n7g"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203433,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2ay7Y8hurKSYeNomEQxYIE"
+    },
+    {
+      "album": {
         "name": "TECHNOTIK",
         "url": "https://open.spotify.com/album/3eSWQbXmJyfI9evR5SyCVw"
       },
@@ -6426,6 +6444,28 @@
       "duration_ms": 153818,
       "name": "Dagar og n\u00e6tur",
       "url": "https://open.spotify.com/track/61wq0x1NSSB7Efyhz3QTYo"
+    },
+    {
+      "album": {
+        "name": "Dale Play",
+        "url": "https://open.spotify.com/album/6nRkqtdbqcPYcwiUVAsoct"
+      },
+      "artists": [
+        {
+          "name": "Louis Sab",
+          "url": "https://open.spotify.com/artist/5N5wbDXET7hXSW43EyqlnZ"
+        },
+        {
+          "name": "Yediz",
+          "url": "https://open.spotify.com/artist/5Xyn6WqLgo5Bltb2gI1nfw"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191974,
+      "name": "Dale Play",
+      "url": "https://open.spotify.com/track/7iGIxkRhaAo4BOTmBPdgXw"
     },
     {
       "album": {
@@ -10654,7 +10694,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 142250,
       "name": "Fj\u00f6lnir \u00e1 leikinn",
       "url": "https://open.spotify.com/track/486nK1B4OFtPak3GmVgk29"
@@ -11390,7 +11430,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -11616,7 +11656,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 139938,
       "name": "Fyrir mig",
       "url": "https://open.spotify.com/track/5pbilN6VSOGcRULK5bJcli"
@@ -13180,7 +13220,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 132446,
       "name": "G\u00f3\u00f0a n\u00f3tt",
       "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
@@ -15368,7 +15408,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 165608,
       "name": "H\u00fan er Engill",
       "url": "https://open.spotify.com/track/7nnjPdwctAPVIWTN7sfg1X"
@@ -19344,7 +19384,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 168374,
       "name": "Lifum alltof hratt",
       "url": "https://open.spotify.com/track/54MCGLppn3Zbnc9Wjmn48c"
@@ -26072,7 +26112,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -30386,7 +30426,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 122538,
       "name": "Sorry baby",
       "url": "https://open.spotify.com/track/685hLixL4fhuKbuBfkhUxe"
@@ -30644,7 +30684,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 217466,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/1mZSrlBNXIPkokOSdS748o"
@@ -31266,6 +31306,24 @@
       "duration_ms": 183662,
       "name": "Strong Ting",
       "url": "https://open.spotify.com/track/3TM0owiKZmewQBdXnkSBWO"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "album": {

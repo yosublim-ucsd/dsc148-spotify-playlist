@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "The Cove",
+        "url": "https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121375,
+      "name": "The Cove",
+      "url": "https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC"
+    },
+    {
+      "album": {
         "name": "The Little Cabin",
         "url": "https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse"
       },
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-10",
       "duration_ms": 190977,
       "name": "The Shining Sea",
       "url": "https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl"

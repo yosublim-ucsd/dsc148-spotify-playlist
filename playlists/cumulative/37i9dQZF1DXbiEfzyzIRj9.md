@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Rustie
 
-745 songs - 2 day 7 hr 7 min
+746 songs - 2 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2023-11-17 | 2024-06-07 |
 | [Carry Your Name](https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [The Learning of Urgency](https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED) | 3:17 | 2024-06-06 |  |
 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 | 2023-11-17 | 2024-02-10 |
-| [caught up](https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [look at me but through me](https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb) | 4:13 | 2024-04-12 |  |
+| [caught up](https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [look at me but through me](https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb) | 4:13 | 2024-04-12 | 2024-06-10 |
 | [Central\-A](https://open.spotify.com/track/5xc0373vEPsatrTqKkx5RW) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [SUPER DANCE TOOLS Vol.3](https://open.spotify.com/album/5fDkGCqwf24otf3P2fwzV9) | 7:35 | 2023-07-20 | 2023-10-13 |
 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 | 2023-05-04 | 2023-08-25 |
 | [Changes](https://open.spotify.com/track/5o3sxlnEcM5M9lnav6DAiZ) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Changes](https://open.spotify.com/album/6OwDyAPg2sKKWCwICtmZ2P) | 3:32 | 2023-03-16 | 2023-06-30 |
@@ -543,6 +543,7 @@
 | [rise \- Special Request VIP](https://open.spotify.com/track/0Y4XFhwGWZ2f0vWyrlXFNy) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [rise \- Special Request VIP](https://open.spotify.com/album/1aCTwaVnlBTchSsqCspFLg) | 3:16 | 2023-12-07 | 2024-02-16 |
 | [Rising](https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Rising](https://open.spotify.com/album/7lvWOiTh8oMtOldgbB4EWi) | 4:13 | 2023-08-18 | 2023-11-18 |
 | [roll credits](https://open.spotify.com/track/3U8Xah4rZY2GhbSMPmVYX3) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [music for stealing to](https://open.spotify.com/album/5uYtMIrMlJaJSeeRExvaQK) | 3:13 | 2023-03-16 | 2023-05-19 |
+| [RR.dnk](https://open.spotify.com/track/6az5DcWgPNlWDUte0OqpXM) | [Emma DJ](https://open.spotify.com/artist/5WPBoQGyVEaa54xmfsKsXF) | [Lay2g](https://open.spotify.com/album/2jwLng6VKfEQIj4sMpTmkx) | 3:53 | 2024-06-10 |  |
 | [Rumblah](https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Rumblah](https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv) | 4:02 | 2023-03-16 | 2023-03-21 |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-03-16 | 2023-09-22 |
 | [Runnin'](https://open.spotify.com/track/1jXTddZprrt32F0EncQAml) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Runnin'](https://open.spotify.com/album/3bWapohKNAU2XCDegJ0LCO) | 3:34 | 2023-03-16 | 2023-05-12 |

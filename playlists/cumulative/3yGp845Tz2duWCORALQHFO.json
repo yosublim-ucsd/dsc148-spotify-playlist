@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Ju\u00e1rez N\u00famero Uno",
+        "url": "https://open.spotify.com/album/7HLAvi8XC3mCR19THzUPMx"
+      },
+      "artists": [
+        {
+          "name": "Ju\u00e1rez N\u00famero Uno",
+          "url": "https://open.spotify.com/artist/0JEE0kJdxKbAXfIXE0tn83"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242267,
+      "name": "Ju\u00e1rez N\u00famero Uno",
+      "url": "https://open.spotify.com/track/5k3EFe2Ro3WmRRNS9OIPdm"
+    },
+    {
+      "album": {
         "name": "Kali Yuga",
         "url": "https://open.spotify.com/album/0yRFj1NVcnWVpFpFbLVLhN"
       },
@@ -3568,6 +3586,46 @@
       "duration_ms": 219130,
       "name": "Still Breathing - Uplifting Mix",
       "url": "https://open.spotify.com/track/3bjL3ID2bRiSuSIvnh1doW"
+    },
+    {
+      "album": {
+        "name": "Strangers in the Night (Radio-Edit)",
+        "url": "https://open.spotify.com/album/0LvLW5YsMwMZpWZt0vStMQ"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6rd\u00f6n V\u00ef\u00ebch\u00ef\u00eblst\u00eb\u00efn",
+          "url": "https://open.spotify.com/artist/3lPVbcoBrGJe2KNsKWQwHp"
+        },
+        {
+          "name": "jaixj",
+          "url": "https://open.spotify.com/artist/18wXu2rWY2oPRBgg9vMhup"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Strangers in the Night - Radio-Edit",
+      "url": "https://open.spotify.com/track/1P0AkIjAqZx5Pz6Lq3RVP3"
+    },
+    {
+      "album": {
+        "name": "Summer (This Time Around)",
+        "url": "https://open.spotify.com/album/3vCPMWe5UUVtU09qNdPvhJ"
+      },
+      "artists": [
+        {
+          "name": "Lotrios Ferno",
+          "url": "https://open.spotify.com/artist/7oJErfmeBzX5ySSwxr6r7G"
+        }
+      ],
+      "date_added": "2024-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "Summer (This Time Around)",
+      "url": "https://open.spotify.com/track/3DzrAlGONZCJU2uoj7ewoq"
     },
     {
       "album": {
