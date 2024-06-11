@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Destroy Boys
 
-2,449 songs - 5 day 9 hr 25 min
+2,451 songs - 5 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,7 +1055,7 @@
 | [I'm Alright](https://open.spotify.com/track/1GuW9IWVsGZOIhpwvMt7Ht) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [I'm Alright](https://open.spotify.com/album/7J89BNNwTMOeNj6PzNXOHI) | 4:35 | 2023-08-04 | 2023-09-16 |
 | [I'm Bored](https://open.spotify.com/track/3ivQ5nru2jY2vLhGy1f78a) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [I'm Bored](https://open.spotify.com/album/31GcwxscE4bqvmVsXHXsM0) | 2:08 | 2023-02-24 | 2023-03-25 |
 | [I'm Deranged](https://open.spotify.com/track/1lCS3D0iuE4nLXhXHT2iuq) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [I'm Deranged](https://open.spotify.com/album/1BUW63sCkPSEKNadYTAAsH) | 2:14 | 2023-01-13 | 2023-03-04 |
-| [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 | 2024-03-08 |  |
+| [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 | 2024-03-08 | 2024-06-11 |
 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 | 2021-12-03 | 2022-03-12 |
 | [i'm not crying you're crying](https://open.spotify.com/track/2EEBYFmjdsVLmDhXXGLfZi) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm not crying you're crying](https://open.spotify.com/album/1kBr8aY2qHp1JE43Kadnby) | 2:49 | 2022-07-15 | 2022-08-27 |
 | [I'm Spent](https://open.spotify.com/track/1BTwIFALFVHpYmY095VTce) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [I'm Spent](https://open.spotify.com/album/1427sQIWO01YnU7ODCFqpk) | 2:32 | 2022-08-12 | 2022-09-09 |
@@ -1516,7 +1516,7 @@
 | [Oblivion!](https://open.spotify.com/track/1vA40enRS52KxCAB17JjzY) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/3IWPc1hdjbhEG558lzULE3) | 3:20 | 2022-02-11 | 2022-03-05 |
 | [Oblivious](https://open.spotify.com/track/0CvvMsMTOiBFY9xI8171U3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Young EP](https://open.spotify.com/album/33ohaY1ybr1XVVGNFo3SoU) | 3:04 | 2023-02-10 | 2023-02-18 |
 | [Oblivious](https://open.spotify.com/track/7je9QhqPx6emqE0e9Tgz14) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Oblivious](https://open.spotify.com/album/5UkU5F6IrBh8So6BSjRm9g) | 3:04 | 2023-01-06 | 2023-02-17 |
-| [Obsessed](https://open.spotify.com/track/0utVbKNn9TmorprYviaxv8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/26Ztf9CMF4nOwB1zLs5Qiw) | 2:42 | 2024-05-31 |  |
+| [Obsessed](https://open.spotify.com/track/0utVbKNn9TmorprYviaxv8) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/26Ztf9CMF4nOwB1zLs5Qiw) | 2:42 | 2024-05-31 | 2024-06-11 |
 | [Off The Edge \(with LUNA AURA\)](https://open.spotify.com/track/2P36ZY98b6H9LcCZzynnuj) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [The Cure for Breathing](https://open.spotify.com/album/3SmDhAY0sqxFgD3xaGkZct) | 2:44 | 2023-09-15 | 2023-10-21 |
 | [Oh Cecilia](https://open.spotify.com/track/6diHlXYoz0YgK3mZ8o1HNT) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Oh Cecilia](https://open.spotify.com/album/7DwaW8e6bF7dVm2eMtpxAF) | 3:20 | 2022-09-16 | 2022-10-22 |
 | [Ohio Forever](https://open.spotify.com/track/2DPTXclMay45uBj9bKEq9B) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Anniversary II](https://open.spotify.com/album/1fOUybYJNec1lhpwWIln83) | 3:22 | 2021-12-17 | 2022-03-12 |
@@ -1906,6 +1906,7 @@
 | [SKIN OF MY TEETH](https://open.spotify.com/track/1O9AseW10CTi6nBLoj0O6K) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SKIN OF MY TEETH](https://open.spotify.com/album/1g6ypyB5kB8UT9gpG9EZi8) | 2:42 | 2022-06-10 | 2022-07-16 |
 | [Sleeping On The Ceiling](https://open.spotify.com/track/2vfGITBrVJaPYSgKaKJv9Z) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Sleeping On The Ceiling](https://open.spotify.com/album/55FNjy6hxbZm9hV0iphC98) | 1:58 | 2023-06-09 | 2023-08-05 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-07 | 2022-11-19 |
+| [Sleepyhead](https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw) | 3:12 | 2024-06-10 |  |
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-03-31 | 2023-05-06 |
 | [Slowly](https://open.spotify.com/track/5pfHm6TeIUdYCAKy5lyYyf) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Slowly](https://open.spotify.com/album/0abFWXIDHoh422oRc0nVLZ) | 5:01 | 2022-09-08 | 2022-10-01 |
 | [Smash The Mirror](https://open.spotify.com/track/5VoegAxobTd8f8vS7tnPQN) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Smash The Mirror](https://open.spotify.com/album/5vqbCpq3mJmSXk6vk7lmKO) | 3:04 | 2023-12-08 | 2024-01-06 |
@@ -2017,6 +2018,7 @@
 | [StuckintheMiddle](https://open.spotify.com/track/41wOSqwwI5BYv0Eke9yZHv) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [StuckintheMiddle](https://open.spotify.com/album/2lVvUZidTV6naaGRy7E2WT) | 3:18 | 2022-06-24 | 2022-07-16 |
 | [Stupid and Famous](https://open.spotify.com/track/2eanivFcGWquWy1Ir5XlMg) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Stupid and Famous](https://open.spotify.com/album/55cDQFeJlCG5UwZWkx0C6W) | 2:38 | 2023-06-30 | 2023-08-12 |
 | [Stupid Human](https://open.spotify.com/track/4OO3HzU2dgsmAIuZ6RVj5Z) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [Stupid Human](https://open.spotify.com/album/2Saei1iuBMHld4AxrVhbLU) | 3:25 | 2023-04-07 | 2023-05-06 |
+| [Subaru](https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Subaru](https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91) | 2:53 | 2024-06-10 |  |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-15 | 2022-08-20 |
 | [SUBURBIA CALLING](https://open.spotify.com/track/0sRMZbWkH1G5XVFt3NZbE1) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [SUBURBIA CALLING](https://open.spotify.com/album/5GEpjub1ldAz72kvL6kyVh) | 2:49 | 2024-04-26 | 2024-05-11 |
 | [Sucker](https://open.spotify.com/track/3Y7aoI9rr7TqA2ONaIHgB9) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [SUCKER](https://open.spotify.com/album/2luQRtBMAKFkGnBwWToNkJ) | 4:28 | 2023-11-03 | 2024-01-06 |

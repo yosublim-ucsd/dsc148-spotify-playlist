@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-257 songs - 15 hr 36 min
+258 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [The Break\-Up Song](https://open.spotify.com/track/5mSMsW4RbRLVly7SEFCSYp) | [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [The Break\-Up Song](https://open.spotify.com/album/6MtP84HoKSOaRXQ62eXqWG) | 3:38 | 2023-02-14 | 2023-05-23 |
 | [The Flandy Song \(feat\. Nawab Gang, Suparna Vontair & Abhijeeth Dubey\)](https://open.spotify.com/track/1LSoTJCXu849hRwA7YBnqg) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Yashwanth Nag](https://open.spotify.com/artist/3bKJ5PWY9uLhNGhTKiBrlG), [Nawab Gang](https://open.spotify.com/artist/6b0vYJgno5fBgu3UJBPXst), [Suparna Vontair](https://open.spotify.com/artist/6NMChauRkbcKF15Z6epcJf), [Abhijeeth Dubey](https://open.spotify.com/artist/1wSCJisCGYABc4gPDlJfMj) | [The Flandy Song \(feat\. Nawab Gang, Suparna Vontair & Abhijeeth Dubey\)](https://open.spotify.com/album/6Gi5ZYgaQtORcGLg6l1mN7) | 3:11 | 2023-12-08 | 2024-01-30 |
 | [The Soul Of Satya \(From "Satya"\) \[TELUGU\]](https://open.spotify.com/track/1FwF89xLm0SThXHlTrQe6a) | [Shruthi Ranjani](https://open.spotify.com/artist/6Sg0TKAUBbrcX1AiLFOERM) | [The Soul Of Satya \(From "Satya"\) \[TELUGU\]](https://open.spotify.com/album/6NlUx836rbce4OF48YIFXC) | 4:30 | 2023-08-16 | 2023-10-10 |
+| [Thelinde Gallo](https://open.spotify.com/track/0sr7KiSW4BxXqHr55tq80k) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Thelinde Gallo](https://open.spotify.com/album/0ofdW2BHss7f7v9qRj8E6C) | 5:00 | 2024-06-10 |  |
 | [Tholi Prema](https://open.spotify.com/track/7CTfCAF0IWye3nPUdpBXln) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Tholi Prema](https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH) | 2:45 | 2023-06-05 | 2023-08-03 |
 | [Uhhh!](https://open.spotify.com/track/12RU8E5yuDnIAqwiOufys7) | [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES), [Samcastic](https://open.spotify.com/artist/1pfg0dLTYEyWnp9pGZhU7q) | [Uhhh!](https://open.spotify.com/album/4r4nAQW3qAVveUv1KwmJAN) | 3:03 | 2023-04-10 | 2024-02-03 |
 | [Uhhh!](https://open.spotify.com/track/5s3oxeEBwvqCDA2VPtYzCd) | [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES), [Samcastic](https://open.spotify.com/artist/1pfg0dLTYEyWnp9pGZhU7q) | [Uhhh!](https://open.spotify.com/album/4uiolE3bJdazHYy3iN413H) | 3:03 | 2023-04-10 | 2024-01-03 |

@@ -1,13 +1,29 @@
 {
   "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Wishy",
-  "num_followers": 275645,
+  "num_followers": 275690,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl9XmwAAAADdI604UC9WumZsc4rYPnue",
+  "snapshot_id": "Zmd3xwAAAACDGVl89RYr+CBG1KSKDYFf",
   "tracks": [
+    {
+      "added_at": "2024-06-10 22:01:43",
+      "album": {
+        "name": "Hide & Seek",
+        "url": "https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM"
+      },
+      "artists": [
+        {
+          "name": "The Jesus Lizard",
+          "url": "https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa"
+        }
+      ],
+      "duration_ms": 184562,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL"
+    },
     {
       "added_at": "2024-06-04 18:06:19",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
+    {
+      "added_at": "2024-06-04 18:06:19",
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Roy",
+      "url": "https://open.spotify.com/track/1HJIlcwr027WWiOyatjMJr"
+    },
+    {
+      "added_at": "2024-06-04 18:06:19",
+      "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Loud Bark",
+      "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
     },
     {
       "added_at": "2024-06-04 18:06:19",
@@ -91,22 +139,6 @@
     {
       "added_at": "2024-06-04 18:06:19",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Loud Bark",
-      "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
-    },
-    {
-      "added_at": "2024-06-04 18:06:19",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -135,22 +167,6 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
-    },
-    {
-      "added_at": "2024-06-04 18:06:19",
-      "album": {
-        "name": "TANGK",
-        "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Roy",
-      "url": "https://open.spotify.com/track/1HJIlcwr027WWiOyatjMJr"
     },
     {
       "added_at": "2024-06-04 18:06:19",
@@ -1215,22 +1231,6 @@
       "duration_ms": 156722,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3EGN9B0DmjSBMBKzZVMSAM"
-    },
-    {
-      "added_at": "2024-06-04 18:06:19",
-      "album": {
-        "name": "Formal Growth In The Desert",
-        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
     },
     {
       "added_at": "2024-06-04 18:06:19",

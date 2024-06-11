@@ -1,6 +1,6 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 119168,
+  "num_followers": 119202,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
+        "name": "Kaputt",
+        "url": "https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND"
+      },
+      "artists": [
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        }
+      ],
+      "duration_ms": 377973,
+      "name": "Kaputt",
+      "url": "https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE"
+    },
+    {
+      "added_at": "2024-03-18 13:18:53",
+      "album": {
         "name": "Underneath The Pine",
         "url": "https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2024-03-18 13:18:53",
       "album": {
-        "name": "Kaputt",
-        "url": "https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND"
-      },
-      "artists": [
-        {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
-        }
-      ],
-      "duration_ms": 377973,
-      "name": "Kaputt",
-      "url": "https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE"
-    },
-    {
-      "added_at": "2024-03-18 13:18:53",
-      "album": {
         "name": "His Young Heart",
         "url": "https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC"
       },
@@ -1500,9 +1500,9 @@
           "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 263809,
-      "name": "Landfill",
-      "url": "https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv"
+      "duration_ms": 293333,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv"
     },
     {
       "added_at": "2024-03-18 13:18:53",
@@ -1596,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 293333,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv"
+      "duration_ms": 263809,
+      "name": "Landfill",
+      "url": "https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv"
     },
     {
       "added_at": "2024-03-18 13:18:53",

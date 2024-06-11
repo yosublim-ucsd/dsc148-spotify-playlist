@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Niveous",
+        "url": "https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF"
+      },
+      "artists": [
+        {
+          "name": "Hers Lake",
+          "url": "https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "Niveous",
+      "url": "https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j"
+    },
+    {
+      "album": {
         "name": "Norrsken",
         "url": "https://open.spotify.com/album/17heXTSEn53tdHjV9zucu1"
       },
@@ -2774,6 +2792,24 @@
       "duration_ms": 230652,
       "name": "Rainfall",
       "url": "https://open.spotify.com/track/4dnxPuIHGCSmEUG7vkfSBw"
+    },
+    {
+      "album": {
+        "name": "Regression",
+        "url": "https://open.spotify.com/album/1EvBPxRAGNAEKw8LMqqfoe"
+      },
+      "artists": [
+        {
+          "name": "Laurent Emmmerling",
+          "url": "https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162034,
+      "name": "Regression",
+      "url": "https://open.spotify.com/track/2IhRgka6W1oH0EJDibUSAI"
     },
     {
       "album": {
@@ -3674,6 +3710,24 @@
       "duration_ms": 187846,
       "name": "Stavselet",
       "url": "https://open.spotify.com/track/7tI2DDr0bxmGendIMcv7zk"
+    },
+    {
+      "album": {
+        "name": "Staying In Post",
+        "url": "https://open.spotify.com/album/63gC98auu4Q7NJXoneg8Ev"
+      },
+      "artists": [
+        {
+          "name": "Galen Rise",
+          "url": "https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228075,
+      "name": "Staying In Post",
+      "url": "https://open.spotify.com/track/2q0vkQZ6qs5wX3VlGiQLP6"
     },
     {
       "album": {

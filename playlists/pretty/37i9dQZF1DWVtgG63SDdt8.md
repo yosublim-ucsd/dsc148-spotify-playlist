@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7M7UXUwtz3Wb25PVS8dwHs">SEU Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,817 likes - 97 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,878 likes - 97 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

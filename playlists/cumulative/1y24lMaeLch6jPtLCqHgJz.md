@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-330 songs - 16 hr 47 min
+331 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Inside You](https://open.spotify.com/track/4otyHwhmbnm5p7Plekn0C9) | [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI), [Thomas Feelman](https://open.spotify.com/artist/00OdRvY0b7tA8W84KSeTL2), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Inside You](https://open.spotify.com/album/2iCi4dTguHMiSAR15UnstE) | 3:27 | 2022-07-29 | 2023-07-14 |
 | [Inside Your Arms](https://open.spotify.com/track/0tATqVAVy1G5qrXup05Gn3) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [BÔN](https://open.spotify.com/artist/4IJUhBXXz5jLD7LkPCmHaK), [Slake Slagger](https://open.spotify.com/artist/72tp31XqMIjIopAqxgD9H2), [Clancy](https://open.spotify.com/artist/1xoxzp7WBw37bAGVrNPnK7) | [Inside Your Arms](https://open.spotify.com/album/2RJkFeHAeEPAPWh6QCSpr8) | 2:59 | 2023-10-12 |  |
 | [Into the Great Unknown](https://open.spotify.com/track/4oE5XjA6GRbACGi0iar6PJ) | [WildVibes](https://open.spotify.com/artist/6BEqzY6INFaHKQ2mqWWuNs), [Fancy Floss](https://open.spotify.com/artist/36Qux635tnV9mSMJNOGUGo) | [Into the Great Unknown](https://open.spotify.com/album/2mfNztsYjVIpgfzSaWGfli) | 3:27 | 2023-06-02 | 2023-07-29 |
+| [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 | 2024-06-10 |  |
 | [Kings \- Shogun Remix](https://open.spotify.com/track/2HpnvnsKMnl88LLOz1xPPh) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Shogun](https://open.spotify.com/artist/6diiyZ15AVZoSxzAyjIYJT) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:03 | 2022-08-26 | 2023-09-09 |
 | [La La Life](https://open.spotify.com/track/7zEfs60wAzIOj0M2dbbjAg) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [La La Life](https://open.spotify.com/album/3DQSbcTRwObXj0zEDCPFi0) | 2:44 | 2023-08-25 |  |
 | [Last Call](https://open.spotify.com/track/0REO4HZjpt0pnQUtYwI6Mp) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Brïah](https://open.spotify.com/artist/69ZxNjgOfcItRkCpPnIIOz) | [Last Call](https://open.spotify.com/album/2s1Vxe2gPtaTty5ZcrG2qY) | 3:47 | 2023-09-14 |  |

@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover :  Krishnam Pranaya Sakhi
 
-1,197 songs - 3 day 0 hr 58 min
+1,198 songs - 3 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [Onde Ondu Saari Nee](https://open.spotify.com/track/7sYtAS4h3oV5QG92SNRbnw) | [R.Haribabu](https://open.spotify.com/artist/6ZMveULwdH83cl96ke2ZLC), [Manju Kavi](https://open.spotify.com/artist/5NQxCtMc9L8j1ZKsh13s4Q), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Temper](https://open.spotify.com/album/3SmCeF4eJE8ueKQpxH63j2) | 4:20 | 2022-12-22 | 2023-04-27 |
 | [Onde Ondu Saari Nee](https://open.spotify.com/track/2iFmV0D6ttNleeGwbEgYUn) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Anuradha Bhat](https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY) | [Temper](https://open.spotify.com/album/1BRXVzRSv3jRPHtOpmbQpy) | 4:20 | 2022-12-22 | 2023-03-12 |
 | [Onde Sala](https://open.spotify.com/track/6kN89Xn06VluZZDZg9bffW) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s) | [Virupaksha \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6LoBXm4ljYiTVpjBCd4t0o) | 3:52 | 2023-05-08 | 2023-08-31 |
+| [Ondhu Shakthiyu \(From "Sahara"\)](https://open.spotify.com/track/3Gtp0E2cMMRkkZoJigiG9o) | [Suraj Jois](https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp), [Bharjari Chethan](https://open.spotify.com/artist/31mwfU2uptLpH5wWFDTb1Q), [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Vyasraj Sosale](https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE) | [Ondhu Shakthiyu \(From "Sahara"\)](https://open.spotify.com/album/5rz2htbI8IY2kaOxa5ApP8) | 3:17 | 2024-06-10 |  |
 | [Ondondu Hejjegu \(From "Riya"\)](https://open.spotify.com/track/5JBfoRI70WUNrPS7MA8jWg) | [Abhinandhan](https://open.spotify.com/artist/7I4jRMJuvyESgt8UPMoYgU), [Kabase Manjunath](https://open.spotify.com/artist/1PXg9pdHGtuQ2q5O1vcQFo), [B.R\. Hemanth Kumar](https://open.spotify.com/artist/1zQ3bsOrUBBOYRfrj7BOAg) | [Ondondu Hejjegu \(From "Riya"\)](https://open.spotify.com/album/09W69n5N4B3ktNujzusYne) | 3:57 | 2022-09-19 | 2023-02-04 |
 | [Ondu Bechchane Bhavane \(From "Melody Drama"\)](https://open.spotify.com/track/1ZCdVuUEmitjlrxiDuxKQL) | [Kiran Ravindranath](https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip), [Jayanth Kaikini](https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Ondu Bechchane Bhavane \(From "Melody Drama"\)](https://open.spotify.com/album/3H7PCBX3cBP5mRaDYLHJo1) | 5:04 | 2023-06-08 | 2023-07-07 |
 | [Ondu Oorali](https://open.spotify.com/track/1FDqsTKCK9WI5PqM0ZZ6Hs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Ek Love Ya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4QOXsn9u91ufIcv50eI90F) | 3:46 | 2022-02-24 | 2022-08-25 |

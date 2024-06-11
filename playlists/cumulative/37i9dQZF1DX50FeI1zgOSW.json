@@ -3601,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Neethan",
+        "url": "https://open.spotify.com/album/3e7ZB41ZdFnJnFpe3R34Bd"
+      },
+      "artists": [
+        {
+          "name": "yogesh raj kumar",
+          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215271,
+      "name": "Neethan",
+      "url": "https://open.spotify.com/track/6gHyDQRtXeGMSBflq4teh1"
+    },
+    {
+      "album": {
         "name": "Neeye",
         "url": "https://open.spotify.com/album/4NjMmesAM5SuvD6yskYzFu"
       },

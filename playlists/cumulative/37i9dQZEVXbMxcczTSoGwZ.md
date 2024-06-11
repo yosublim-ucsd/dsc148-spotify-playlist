@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,040 songs - 4 day 12 hr 42 min
+2,041 songs - 4 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1387,6 +1387,7 @@
 | [Platinaa](https://open.spotify.com/track/36Ps5MbGPuyuGCm0fcN7Xj) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Platinaa](https://open.spotify.com/album/1ocYLGurBOaDNnl4uYT7Ih) | 2:15 | 2024-04-20 | 2024-04-22 |
 | [PLAYA](https://open.spotify.com/track/1vQoEeHAKr8OIGIMFY2yAj) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [PLAYA](https://open.spotify.com/album/1vqUrqyy1RaxxSDPWBohrs) | 2:08 | 2022-10-09 | 2022-11-06 |
 | [PLAYA](https://open.spotify.com/track/2cSDpq1IHBTpfPvv2ulQY4) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 2:08 | 2023-09-02 | 2023-09-04 |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-10 |  |
 | [Pläänit Uusiks](https://open.spotify.com/track/4wXtXv62Z0AEzf890e49fD) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Pläänit Uusiks](https://open.spotify.com/album/1C8nNM3vcKZUeIcgJmTclj) | 2:07 | 2021-05-23 | 2021-05-24 |
 | [Pohjola](https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Pohjola](https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo) | 2:55 | 2021-09-04 | 2023-04-23 |
 | [Pohjolan tuulet](https://open.spotify.com/track/646tEy4xiSYa4aoWv2Wbca) | [Kuningasidea](https://open.spotify.com/artist/7EuXVmTcFfpvmFbi1CTctP) | [Nimi on enne](https://open.spotify.com/album/29IfZvSZhuwoq3b5TLkCxm) | 3:20 | 2021-03-27\* | 2021-04-26 |
@@ -1798,7 +1799,7 @@
 | [Tulikärpäset](https://open.spotify.com/track/34an0cwgyJ0oRTjQMNmbIw) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:15 | 2021-09-12 | 2022-01-15 |
 | [Tulikärpäset](https://open.spotify.com/track/6D0y73HlVdSG0sWm5F6V5o) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Tulikärpäset](https://open.spotify.com/album/3An2rwUOfXGtqal61qYkKc) | 4:15 | 2021-08-08 | 2021-09-12 |
 | [Tulipalo](https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Tulipalo](https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa) | 3:03 | 2022-07-02 | 2023-04-02 |
-| [Tulipalo](https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvikset ja pahikset](https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0) | 3:03 | 2023-04-01 |  |
+| [Tulipalo](https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvikset ja pahikset](https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0) | 3:03 | 2023-04-01 | 2024-06-11 |
 | [Tulkoon joulu](https://open.spotify.com/track/1K0ZirzQ9KtHAKOLB5efXs) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Tulkoon joulu](https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP) | 4:37 | 2021-11-30 | 2023-12-30 |
 | [Tunnettu Plugi](https://open.spotify.com/track/3K265QDIKTbM1MitKJdgOZ) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Tunnettu Plugi](https://open.spotify.com/album/5G3aPrmMwRdieq2KKVFVIF) | 2:25 | 2023-10-28 | 2023-11-05 |
 | [Tunnista tuntiin](https://open.spotify.com/track/0SUcbn6qR8N07qb7QOIkN2) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Mammanpoika](https://open.spotify.com/album/5fbnqAvIARnsZQxguaNYWK) | 3:01 | 2024-04-27 |  |

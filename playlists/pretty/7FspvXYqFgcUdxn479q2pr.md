@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: TWENTY SIX &amp; Jenn Morel
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,500 likes - 14 songs - 39 min 37 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,503 likes - 15 songs - 41 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,5 +22,6 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 12 | [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 |
 | 13 | [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 |
 | 14 | [Until the Sun Comes Up](https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw) | [Pansil](https://open.spotify.com/artist/0jPFnkOW02ogcNH6PWnhUT) | [Until the Sun Comes Up](https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL) | 3:29 |
+| 15 | [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 |
 
-Snapshot ID: `AAAqmT1Kt9vdroEya6xHAisqQyyqviFI`
+Snapshot ID: `AAAqmmuRT/CId8fTDqL67LWjOtk2OFia`

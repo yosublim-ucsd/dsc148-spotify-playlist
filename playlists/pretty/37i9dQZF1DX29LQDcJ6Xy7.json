@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 326943,
+  "num_followers": 327013,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -255,8 +255,8 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 226733,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
+      "duration_ms": 294893,
+      "name": "Every Day Is Exactly The Same",
+      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -383,8 +383,8 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Every Day Is Exactly The Same",
-      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
+      "duration_ms": 226733,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Hengit\u00e4",
-        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 190327,
-      "name": "Hengit\u00e4",
-      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Digital Gods",
         "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 243814,
       "name": "I Am Nothing",
       "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Hengit\u00e4",
+        "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 190327,
+      "name": "Hengit\u00e4",
+      "url": "https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
-      },
-      "artists": [
-        {
-          "name": "CueStack",
-          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
-        }
-      ],
-      "duration_ms": 264750,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
         "name": "Prototype 6:17",
         "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2024-01-30 16:12:12",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
+      },
+      "artists": [
+        {
+          "name": "CueStack",
+          "url": "https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG"
+        }
+      ],
+      "duration_ms": 264750,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
         "name": "The Algorithm",
         "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 217071,
       "name": "Obliteration",
       "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
+    },
+    {
+      "added_at": "2024-01-30 16:12:12",
+      "album": {
+        "name": "Big Sexy Land",
+        "url": "https://open.spotify.com/album/2uk1BH7Dl6X880vOADBw5a"
+      },
+      "artists": [
+        {
+          "name": "Revolting Cocks",
+          "url": "https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG"
+        }
+      ],
+      "duration_ms": 294383,
+      "name": "Attack Ships on Fire",
+      "url": "https://open.spotify.com/track/43zzNBaOzTuSraWzROV5AG"
     },
     {
       "added_at": "2024-01-30 16:12:12",
@@ -1403,22 +1419,6 @@
       "duration_ms": 161893,
       "name": "Hollow (Project Regeneration)",
       "url": "https://open.spotify.com/track/0qGbzBx02qt7MwtAgNjRDj"
-    },
-    {
-      "added_at": "2024-01-30 16:12:12",
-      "album": {
-        "name": "Big Sexy Land",
-        "url": "https://open.spotify.com/album/2uk1BH7Dl6X880vOADBw5a"
-      },
-      "artists": [
-        {
-          "name": "Revolting Cocks",
-          "url": "https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG"
-        }
-      ],
-      "duration_ms": 294383,
-      "name": "Attack Ships on Fire",
-      "url": "https://open.spotify.com/track/43zzNBaOzTuSraWzROV5AG"
     },
     {
       "added_at": "2024-01-30 16:12:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 52224,
+  "num_followers": 52245,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAAAV8Jy4s9UTnScuwuIOkMIL",
+  "snapshot_id": "ZmTwgAAAAADyc6r+o69lluyO3ZrrUSpx",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
+      "duration_ms": 160925,
+      "name": "Place To Be",
+      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 160925,
-      "name": "Place To Be",
-      "url": "https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF"
+      "duration_ms": 119450,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 225291,
-      "name": "Hazey Jane II",
-      "url": "https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh"
+      "duration_ms": 289687,
+      "name": "One Of These Things First",
+      "url": "https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 245013,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R"
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
     },
     {
       "added_at": null,
@@ -148,41 +148,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 119450,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Clothes Of Sand",
-      "url": "https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+      "duration_ms": 150850,
+      "name": "From The Morning",
+      "url": "https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr"
     },
     {
       "added_at": null,
@@ -196,41 +164,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 92986,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 150850,
-      "name": "From The Morning",
-      "url": "https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 145346,
-      "name": "Blues Run The Game",
-      "url": "https://open.spotify.com/track/63DZhSq0EGemJVRoAxUtHZ"
+      "duration_ms": 225291,
+      "name": "Hazey Jane II",
+      "url": "https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh"
     },
     {
       "added_at": null,
@@ -251,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
         {
@@ -260,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 176388,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1Sxvsy65zDmyQBvak4Hc8Q"
+      "duration_ms": 151400,
+      "name": "Clothes Of Sand",
+      "url": "https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3"
     },
     {
       "added_at": null,
@@ -283,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
       },
       "artists": [
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        },
-        {
-          "name": "Gabrielle Drake",
-          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 115960,
-      "name": "All My Trials",
-      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
+      "duration_ms": 92986,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8"
     },
     {
       "added_at": null,
@@ -319,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
       },
       "artists": [
         {
@@ -328,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 157813,
-      "name": "Rider On The Wheel",
-      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
+      "duration_ms": 145346,
+      "name": "Blues Run The Game",
+      "url": "https://open.spotify.com/track/63DZhSq0EGemJVRoAxUtHZ"
     },
     {
       "added_at": null,
@@ -360,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 268354,
-      "name": "Hazey Jane I",
-      "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
+      "duration_ms": 176388,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1Sxvsy65zDmyQBvak4Hc8Q"
     },
     {
       "added_at": null,
@@ -383,6 +315,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Gabrielle Drake",
+          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
+        }
+      ],
+      "duration_ms": 115960,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 81850,
+      "name": "Horn",
+      "url": "https://open.spotify.com/track/4A1t2K9lsLZWb5oHAtT9xs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -392,9 +360,41 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Hanging On A Star",
-      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
+      "duration_ms": 157813,
+      "name": "Rider On The Wheel",
+      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Man In A Shed",
+      "url": "https://open.spotify.com/track/7rDJymAeuDbAKmRO07dGHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 268354,
+      "name": "Hazey Jane I",
+      "url": "https://open.spotify.com/track/0HheBKrZSsUVyjhUbA3Viu"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 283333,
-      "name": "At The Chime Of A City Clock",
-      "url": "https://open.spotify.com/track/2pcFLtTZRBbYYgXZzExUo8"
+      "duration_ms": 203986,
+      "name": "Hanging On A Star",
+      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
     },
     {
       "added_at": null,
@@ -447,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+        "name": "Beyond All Reasonable Doubt",
+        "url": "https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw"
       },
       "artists": [
+        {
+          "name": "Chris Adams",
+          "url": "https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v"
+        },
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Mayfair - Cambridge Version",
-      "url": "https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE"
+      "duration_ms": 199762,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R"
     },
     {
       "added_at": null,
@@ -479,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond All Reasonable Doubt",
-        "url": "https://open.spotify.com/album/4xQxAwjX8qceJNktf58itw"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
-        {
-          "name": "Chris Adams",
-          "url": "https://open.spotify.com/artist/2aTr5YBE3BLn7KlHqExc8v"
-        },
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 199762,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/2laHHuyz8Pt5syFk7aXP5R"
+      "duration_ms": 131680,
+      "name": "Mayfair - Cambridge Version",
+      "url": "https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE"
     },
     {
       "added_at": null,

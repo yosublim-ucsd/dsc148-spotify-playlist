@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 59412,
+  "num_followers": 59470,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAAC6i6xy5gzl3qVp7E6kLFNV",
+  "snapshot_id": "ZmTwgAAAAACtKfPi4z2PHImmE3iGTFd3",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Las Hs",
-        "url": "https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp"
+        "name": "Yo Soy Serafin",
+        "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
       "artists": [
         {
-          "name": "Los Del Sombrero",
-          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Arturo Coronel y el Buen Estilo",
-          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
         }
       ],
-      "duration_ms": 152090,
-      "name": "Por Las Hs",
-      "url": "https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV"
+      "duration_ms": 161703,
+      "name": "Yo Soy Serafin",
+      "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
     },
     {
       "added_at": null,
@@ -575,22 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy Serafin",
-        "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
+        "name": "Por Las Hs",
+        "url": "https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp"
       },
       "artists": [
         {
-          "name": "Los Intocables Del Norte",
-          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Arturo Coronel y el Buen Estilo",
+          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
         }
       ],
-      "duration_ms": 161703,
-      "name": "Yo Soy Serafin",
-      "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+      "duration_ms": 152090,
+      "name": "Por Las Hs",
+      "url": "https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV"
     },
     {
       "added_at": null,

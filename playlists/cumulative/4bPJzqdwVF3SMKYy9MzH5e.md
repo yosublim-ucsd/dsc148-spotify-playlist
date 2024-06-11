@@ -4,7 +4,7 @@
 
 > 
 
-1,917 songs - 4 day 7 hr 27 min
+1,919 songs - 4 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,6 +1333,7 @@
 | [Psychosocial](https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone \(10th Anniversary\)](https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk) | 4:44 | 2021-08-05 |  |
 | [Pu](https://open.spotify.com/track/7tIJeiKKY1DZ1xwwt9KVkt) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [kiCK iiiii](https://open.spotify.com/album/1uhyYU7DFiHgW4czDH2FIb) | 2:35 | 2022-04-03 |  |
 | [Pu\-Li\-Ru\-La](https://open.spotify.com/track/6uMPkdGH35dqC2jEdfLW63) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:31 | 2022-06-30 |  |
+| [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 | 2024-06-10 |  |
 | [Pump Up The Jam](https://open.spotify.com/track/6A6HvIp5b9vif0Jhm9r7Oe) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Car All Hits](https://open.spotify.com/album/3xCW1OsVpfdj8HHY01GIek) | 5:20 | 2021-12-30 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2021-08-05 |  |
 | [Pumpkins Scream In the Dead of Night \(feat\. shinigami\)](https://open.spotify.com/track/3sdYpdTTn4fdfu4cyisnt0) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [Pumpkins Scream In the Dead of Night \(feat\. shinigami\)](https://open.spotify.com/album/5H7ninGfbxKP554yChPCWw) | 2:28 | 2021-08-05 |  |
@@ -1618,6 +1619,7 @@
 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 | 2022-10-28 |  |
 | [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-23 |  |
 | [talk is overrated](https://open.spotify.com/track/7cflqPPi3zWfLFRRBTWeh6) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [idle](https://open.spotify.com/album/77EcAn5H4pGamI8JiwvP4T) | 3:09 | 2021-08-05 |  |
+| [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-10 |  |
 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-11-30 |  |
 | [Talkin](https://open.spotify.com/track/5YU1ZOUIhczicnVTC7I725) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Yellow Tape](https://open.spotify.com/album/0TroBvRGd0frXPVgWfx8QK) | 2:44 | 2021-08-05 |  |
 | [Tantrum](https://open.spotify.com/track/3htJKHlAjUoRmNLheJ8uTV) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Tantrum](https://open.spotify.com/album/5IRp7hBdLQOz5gB90M1hg0) | 2:20 | 2021-08-05 |  |

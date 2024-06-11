@@ -11633,6 +11633,24 @@
     },
     {
       "album": {
+        "name": "sister",
+        "url": "https://open.spotify.com/album/0cVF2WkVGfPsebD9GpRfGu"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234993,
+      "name": "sister",
+      "url": "https://open.spotify.com/track/2neojiNTVF8n3ppd05DCG7"
+    },
+    {
+      "album": {
         "name": "Sit Down, Let Me Tell You a Story.",
         "url": "https://open.spotify.com/album/1o16zgpmVi9uWECUI9jCCk"
       },
@@ -22276,7 +22294,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 214138,
       "name": "\u4eba\u751f\u30aa\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/1WofPyCiUQ9I1XgczV8HV1"
@@ -25144,7 +25162,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 210120,
       "name": "\u6545\u306eLOVE",
       "url": "https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8"
@@ -26232,6 +26250,24 @@
       "duration_ms": 254130,
       "name": "\u6c38\u9060\u885d\u52d5",
       "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
+    },
+    {
+      "album": {
+        "name": "\u6c42\u4e16\u4e3b",
+        "url": "https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "\u6c42\u4e16\u4e3b",
+      "url": "https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6"
     },
     {
       "album": {

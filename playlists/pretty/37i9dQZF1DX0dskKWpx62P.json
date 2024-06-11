@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 44499,
+  "num_followers": 44517,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-28 01:34:50",
       "album": {
-        "name": "Amor amor",
-        "url": "https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
-          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Otra Vez me Equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/6uwh5CgZBQzCYXYyUFaNws"
-    },
-    {
-      "added_at": "2024-03-28 01:34:50",
-      "album": {
         "name": "Wistu Vida",
         "url": "https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 388813,
       "name": "Flor de Retana",
       "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
+    },
+    {
+      "added_at": "2024-03-28 01:34:50",
+      "album": {
+        "name": "Amor amor",
+        "url": "https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Hnos. Gait\u00e1n Castro",
+          "url": "https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Otra Vez me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/6uwh5CgZBQzCYXYyUFaNws"
     },
     {
       "added_at": "2024-03-28 01:34:50",

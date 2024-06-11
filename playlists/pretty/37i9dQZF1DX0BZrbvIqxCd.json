@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544674,
+  "num_followers": 544656,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Victory Lap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
-      },
-      "artists": [
-        {
-          "name": "Propagandhi",
-          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 195520,
       "name": "Dead!",
       "url": "https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Criminal Energy",
-      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "INTERNATIONALLY UNKNOWN",
         "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 134941,
       "name": "I WANNA SKATE",
       "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Criminal Energy",
+      "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Stay Rad!",
-        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 114219,
-      "name": "Night of the Knuckleheads",
-      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Bad Frequencies",
         "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 249000,
       "name": "The Perfect Way to Fall Apart",
       "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Stay Rad!",
+        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 114219,
+      "name": "Night of the Knuckleheads",
+      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
     },
     {
       "added_at": "2024-04-18 19:24:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> & <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI</a> har den idag med <a href="spotify:track:5ehIhNQBMskl6sPE9Jf4TH">Eneste</a> den her fredag 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,125 likes - 106 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,131 likes - 106 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

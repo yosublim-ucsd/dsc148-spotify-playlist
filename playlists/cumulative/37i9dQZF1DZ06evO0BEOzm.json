@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
+  "description": "This Is Megan Thee Stallion. Los temas esenciales, todos en una lista.",
   "name": "This Is Megan Thee Stallion",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 143957,
       "name": "All Dat (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 183142,
       "name": "B.I.T.C.H.",
       "url": "https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 201006,
       "name": "NDA",
       "url": "https://open.spotify.com/track/7ngabRTwu8a9w3xaCpaAaa"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 165745,
       "name": "Not Nice",
       "url": "https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji"

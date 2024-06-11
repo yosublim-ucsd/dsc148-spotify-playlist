@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69639,
+  "num_followers": 69645,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-05-22 09:13:53",
       "album": {
+        "name": "Mann Bheetar",
+        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 387099,
+      "name": "Ithlati",
+      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+    },
+    {
+      "added_at": "2024-05-22 09:13:53",
+      "album": {
         "name": "Songs Of The River - Ganga",
         "url": "https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn"
       },
@@ -823,18 +839,22 @@
     {
       "added_at": "2024-05-22 09:13:53",
       "album": {
-        "name": "Mann Bheetar",
-        "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
+        "name": "Rang",
+        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
       },
       "artists": [
         {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        },
+        {
+          "name": "Kala Ramnath",
+          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
         }
       ],
-      "duration_ms": 387099,
-      "name": "Ithlati",
-      "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+      "duration_ms": 368026,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
     },
     {
       "added_at": "2024-05-22 09:13:53",
@@ -855,26 +875,6 @@
       "duration_ms": 335600,
       "name": "Longing",
       "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
-    },
-    {
-      "added_at": "2024-05-22 09:13:53",
-      "album": {
-        "name": "Rang",
-        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        },
-        {
-          "name": "Kala Ramnath",
-          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
-        }
-      ],
-      "duration_ms": 368026,
-      "name": "Rasiya",
-      "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
     },
     {
       "added_at": "2024-05-22 09:13:53",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-05-22 09:13:53",
       "album": {
+        "name": "Padharo Mhare Des (Folk Fusion)",
+        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
+      },
+      "artists": [
+        {
+          "name": "Swaraag",
+          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Padharo Mhare Des - Folk Fusion",
+      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
+    },
+    {
+      "added_at": "2024-05-22 09:13:53",
+      "album": {
         "name": "As We Speak",
         "url": "https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-05-22 09:13:53",
       "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
-    },
-    {
-      "added_at": "2024-05-22 09:13:53",
-      "album": {
         "name": "Aaj Rang Hai",
         "url": "https://open.spotify.com/album/5ANnHLbfSJXZMUjPQTX13W"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 205943,
       "name": "Aaj Rang Hai",
       "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
-    },
-    {
-      "added_at": "2024-05-22 09:13:53",
-      "album": {
-        "name": "Kaare Se",
-        "url": "https://open.spotify.com/album/5l73SOxHbvIyjmFiT0RVjG"
-      },
-      "artists": [
-        {
-          "name": "Aarya Ambekar",
-          "url": "https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm"
-        }
-      ],
-      "duration_ms": 297272,
-      "name": "Kaare Se",
-      "url": "https://open.spotify.com/track/7do3SyAo7tdUW47EQ2ivbX"
     },
     {
       "added_at": "2024-05-22 09:13:53",
@@ -1027,26 +1011,34 @@
     {
       "added_at": "2024-05-22 09:13:53",
       "album": {
-        "name": "Krishna Murari",
-        "url": "https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp"
+        "name": "Kaare Se",
+        "url": "https://open.spotify.com/album/5l73SOxHbvIyjmFiT0RVjG"
       },
       "artists": [
         {
-          "name": "Hrishikesh Datar",
-          "url": "https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08"
-        },
-        {
-          "name": "Shilpa Puntambekar",
-          "url": "https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho"
-        },
-        {
-          "name": "Savani Kulkarni",
-          "url": "https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T"
+          "name": "Aarya Ambekar",
+          "url": "https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm"
         }
       ],
-      "duration_ms": 225353,
-      "name": "Krishna Murari",
-      "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
+      "duration_ms": 297272,
+      "name": "Kaare Se",
+      "url": "https://open.spotify.com/track/7do3SyAo7tdUW47EQ2ivbX"
+    },
+    {
+      "added_at": "2024-05-22 09:13:53",
+      "album": {
+        "name": "Barsan Lagi",
+        "url": "https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "duration_ms": 219456,
+      "name": "Barsan Lagi",
+      "url": "https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ"
     }
   ],
   "unique_name": "Fusion Finds",

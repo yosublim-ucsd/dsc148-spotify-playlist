@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The extraordinary women making great country music today. Cover: Tanner Adell",
+  "description": "The extraordinary women making great country music today. Cover: Carter Faith, Karley Scott Collins and Kassi Ashton",
   "name": "Women of Country",
   "tracks": [
     {
@@ -682,6 +682,24 @@
       "duration_ms": 217184,
       "name": "California",
       "url": "https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY"
+    },
+    {
+      "album": {
+        "name": "Called Crazy",
+        "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199728,
+      "name": "Called Crazy",
+      "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
     },
     {
       "album": {
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 183444,
       "name": "Found It In You",
       "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 210146,
       "name": "I Can't (feat. Old Dominion)",
       "url": "https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV"
@@ -5208,7 +5226,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 212666,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu"
@@ -5268,6 +5286,24 @@
       "duration_ms": 319320,
       "name": "Strawberry Wine - 2021 Version",
       "url": "https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn"
+    },
+    {
+      "album": {
+        "name": "Strong Stuff",
+        "url": "https://open.spotify.com/album/4JQepaQFm9y7VpYzfgID8j"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177271,
+      "name": "Strong Stuff",
+      "url": "https://open.spotify.com/track/23s3bRv964KvfEvaH3AxmF"
     },
     {
       "album": {
@@ -6666,6 +6702,28 @@
       "duration_ms": 209176,
       "name": "Wreck Me",
       "url": "https://open.spotify.com/track/5fDfAiGTEmqdR5yq4XUVgK"
+    },
+    {
+      "album": {
+        "name": "Write One",
+        "url": "https://open.spotify.com/album/2gcIooEpz82RkFbZPNjcgr"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "Write One (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/1Tbpnf062epELxIkBIAbp0"
     },
     {
       "album": {

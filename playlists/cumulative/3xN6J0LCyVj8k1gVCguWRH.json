@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 200000,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/6cDf0RItGvPhKfFk5THJPz"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 238000,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/6vBzl01bwdVT22CyIBaSjV"
@@ -10716,7 +10716,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 211452,
       "name": "CINNAMON ROLLS",
       "url": "https://open.spotify.com/track/4HmJR3oteWd9wkKAHAeQzV"
@@ -30537,6 +30537,24 @@
     },
     {
       "album": {
+        "name": "SOFTCORE",
+        "url": "https://open.spotify.com/album/25P5HE3ik51alxGlGyQgG8"
+      },
+      "artists": [
+        {
+          "name": "Logan Lynn",
+          "url": "https://open.spotify.com/artist/2clmyuEvqEILINTuP7lXxY"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235632,
+      "name": "Kill For Love",
+      "url": "https://open.spotify.com/track/12SG1a5z52i3z4JttPfp0C"
+    },
+    {
+      "album": {
         "name": "Kill For You",
         "url": "https://open.spotify.com/album/5qAJkzutqWCoFPfJv5dr1r"
       },
@@ -35282,7 +35300,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 208105,
       "name": "magnificent",
       "url": "https://open.spotify.com/track/0GXftM7nVnGvlpr6upNKJn"
@@ -38742,7 +38760,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 158472,
       "name": "My lil friend",
       "url": "https://open.spotify.com/track/22HFcU0WBxr8kaIljPiyOf"
@@ -39936,7 +39954,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 150648,
       "name": "No Chains On Me!",
       "url": "https://open.spotify.com/track/3ofLldiRXnoBlcapLzYyjY"
@@ -50412,7 +50430,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 164374,
       "name": "Smooth Honey",
       "url": "https://open.spotify.com/track/0SpimQmVOUzuHj7bgmodY1"
@@ -57672,7 +57690,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 210071,
       "name": "To Let Go",
       "url": "https://open.spotify.com/track/4Kkph2zZTrD3oCSQ89NgiN"
@@ -58562,6 +58580,24 @@
       "duration_ms": 223826,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6SOqLGuZGOMNlzd7V51LVD"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0H4ObxQFzYZUW6mXh9kfWM"
+      },
+      "artists": [
+        {
+          "name": "Melion Music",
+          "url": "https://open.spotify.com/artist/1J3VGrxus1PQ3kR8zGyM1W"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227970,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3jLS2y6MxwiK9nsPTFymvy"
     },
     {
       "album": {
@@ -60542,7 +60578,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 213000,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/1Udb3vIxus1iu5rvqRCAv5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,909 songs - 4 day 6 hr 52 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,911 songs - 4 day 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1917,5 +1917,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1907 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 1908 | [I might say something stupid](https://open.spotify.com/track/0PFZCt7UNmpas24HejQGu8) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 1:49 |
 | 1909 | [Valeria Bounze](https://open.spotify.com/track/11e5AvoqPT3sljkQItmhwt) | [cvcvdup](https://open.spotify.com/artist/3uNyHplRvma6haqXTOWrtN), [cvcvka5](https://open.spotify.com/artist/5iyld87rVUV5fDvMp7EGc6) | [Valeria Bounze](https://open.spotify.com/album/6ldZMxvvh3SV2yXLyTtz3N) | 1:41 |
+| 1910 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
+| 1911 | [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 |
 
-Snapshot ID: `AAADERuQmccOAYOy+4wCK3re7ocE4Ctm`
+Snapshot ID: `AAADE/uet3QG4aKE3vErUwyXwnD10xsP`

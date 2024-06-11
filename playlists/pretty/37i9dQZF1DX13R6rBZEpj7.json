@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 213920,
+  "num_followers": 214020,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-05-28 15:30:37",
       "album": {
-        "name": "Change (Remixes)",
-        "url": "https://open.spotify.com/album/2xKp7GrzlG15zTj2dfiU3X"
-      },
-      "artists": [
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        },
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Change - bullet tooth Remix",
-      "url": "https://open.spotify.com/track/7ngp1VaSLNoVRUAAwUShnH"
-    },
-    {
-      "added_at": "2024-05-28 15:30:37",
-      "album": {
         "name": "KEEP IT ROLLING",
         "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 199500,
       "name": "KEEP IT ROLLING",
       "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
+    },
+    {
+      "added_at": "2024-05-28 15:30:37",
+      "album": {
+        "name": "Change (Remixes)",
+        "url": "https://open.spotify.com/album/2xKp7GrzlG15zTj2dfiU3X"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Change - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/7ngp1VaSLNoVRUAAwUShnH"
     },
     {
       "added_at": "2024-05-28 15:30:37",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-28 15:30:37",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2024-05-28 15:30:37",
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 182192,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
+    },
+    {
+      "added_at": "2024-05-28 15:30:37",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2024-05-28 15:30:37",

@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1168,
+  "num_followers": 1169,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Bajooga",
-        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Bajooga",
-      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Bajooga",
+        "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "duration_ms": 175072,
+      "name": "Bajooga",
+      "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Be humble",
-        "url": "https://open.spotify.com/album/653kI0gglML45glmvgeBhh"
-      },
-      "artists": [
-        {
-          "name": "Ratigan Era",
-          "url": "https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "Be humble",
-      "url": "https://open.spotify.com/track/1DeRLkQZCioGKOYXlzOgZV"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bwonjagala",
         "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
       },
@@ -791,22 +775,18 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
+        "name": "Be humble",
+        "url": "https://open.spotify.com/album/653kI0gglML45glmvgeBhh"
       },
       "artists": [
         {
-          "name": "Lilly Ahabwe",
-          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
-        },
-        {
-          "name": "Andy Muzic",
-          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
+          "name": "Ratigan Era",
+          "url": "https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0"
         }
       ],
-      "duration_ms": 174315,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
+      "duration_ms": 154514,
+      "name": "Be humble",
+      "url": "https://open.spotify.com/track/1DeRLkQZCioGKOYXlzOgZV"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -831,6 +811,26 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahabwe",
+          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
+        },
+        {
+          "name": "Andy Muzic",
+          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -867,6 +867,26 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Semi Final",
+        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dush",
+          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Semi Final",
+      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Nkwatewa",
         "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 181890,
       "name": "Nkwatewa",
       "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
-        },
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -935,22 +935,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Semi Final",
-        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
         },
         {
-          "name": "Dush",
-          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
         }
       ],
-      "duration_ms": 172721,
-      "name": "Semi Final",
-      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     }
   ],
   "unique_name": "Kidandali Parte",

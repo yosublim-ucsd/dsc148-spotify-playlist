@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: cott\(콧\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-725 songs - 1 day 20 hr 20 min
+726 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [101\(Home Home\)](https://open.spotify.com/track/37udabD4Yr1PWBF2QvyBf0) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [101\(Home Home\)](https://open.spotify.com/album/4luAxhIonh4m7E73ceAYho) | 3:04 | 2024-04-30 | 2024-05-10 |
 | [1AM 새벽 한 시](https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [1AM 새벽 한 시](https://open.spotify.com/album/2W4RwbxG9DWa5Y18Fve6Ie) | 4:19 | 2022-04-12 | 2022-04-18 |
 | [1MIN](https://open.spotify.com/track/3K7tYWE7j23hy9i228NwdQ) | [SUNBURNKIDS](https://open.spotify.com/artist/6SvZiq1Mf4AK1Vxslxo6HL) | [1MIN](https://open.spotify.com/album/6ZJhQiQM1Y6a3R5VX8Qww6) | 2:08 | 2024-04-30 | 2024-05-10 |
+| [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-06-06 |  |
 | [2022/02/22](https://open.spotify.com/track/1FUXYmjl2GMjqqWckYHhcm) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [2022/02/22](https://open.spotify.com/album/1WRZivz4Et1oExafBKnlCq) | 2:14 | 2022-02-16 | 2022-04-18 |
 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-07 | 2024-03-09 |
 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 | 2022-07-27 | 2024-04-19 |
@@ -108,7 +109,7 @@
 | [Childish](https://open.spotify.com/track/4QGPJZqJYuTpATRAS4Iuhl) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Childish](https://open.spotify.com/album/1h20JRQVqlyNfbcLiqk5sv) | 3:41 | 2022-03-31 | 2022-04-14 |
 | [Cho Shim](https://open.spotify.com/track/3aBUjaRyaYy4SeGgtWNQrb) | [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Cho Shim](https://open.spotify.com/album/7my2kBdURtWlo6XGzFVYW8) | 3:16 | 2022-03-31 | 2022-04-07 |
 | [chocolate trip](https://open.spotify.com/track/0ol6tWu3kZ00ayldBNA0fp) | [Shin Onyu & Kim Kang](https://open.spotify.com/artist/7sxSiet6ZE19Q9N2C0dMzT) | [chocolate trip](https://open.spotify.com/album/5tGEMXwyGb0jkvbTCEnkX0) | 4:07 | 2022-03-31 | 2022-04-25 |
-| [Chum](https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Chum](https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh) | 3:45 | 2024-04-04 |  |
+| [Chum](https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Chum](https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh) | 3:45 | 2024-04-04 | 2024-06-11 |
 | [CINEMA](https://open.spotify.com/track/5oyTzFXDUIPeIaLUsvk01d) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [CINEMA](https://open.spotify.com/album/786QmZKAyfLPLOayJnUcAv) | 3:53 | 2024-05-08 | 2024-05-17 |
 | [City Lights](https://open.spotify.com/track/36xcAYhiCUnzBoydVmxkO3) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [City Lights](https://open.spotify.com/album/2TJmQDLlBkXQiMLI9H6gG6) | 4:01 | 2021-12-21 | 2022-05-28 |
 | [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 | 2022-11-11 |

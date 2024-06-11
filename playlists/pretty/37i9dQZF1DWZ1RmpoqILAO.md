@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Dreamer Boy 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,814 likes - 126 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,867 likes - 126 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

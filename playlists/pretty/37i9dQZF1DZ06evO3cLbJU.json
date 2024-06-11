@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Mat\u00f3 a un Polic\u00eda Motorizado. Los temas esenciales, todos en una lista.",
-  "num_followers": 50021,
+  "description": "This is El Mat\u00f3 a un Polic\u00eda Motorizado. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 50052,
   "original_name": "This Is El Mat\u00f3 a un Polic\u00eda Motorizado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAACA+M5g8IBloOAOmsEZCj0S",
+  "snapshot_id": "ZmTwgAAAAADn4yaQ/gP0luglgFMukCqe",
   "tracks": [
     {
       "added_at": null,
@@ -267,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violencia",
-        "url": "https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC"
+        "name": "Espacio Vac\u00edo",
+        "url": "https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp"
       },
       "artists": [
         {
           "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
           "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        },
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
         }
       ],
-      "duration_ms": 142112,
-      "name": "Rucho",
-      "url": "https://open.spotify.com/track/4dmVjUhluiYmeO9MKBSX4O"
+      "duration_ms": 233932,
+      "name": "Espacio Vac\u00edo",
+      "url": "https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espacio Vac\u00edo",
-        "url": "https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp"
+        "name": "Violencia",
+        "url": "https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC"
       },
       "artists": [
         {
           "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
           "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        },
-        {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
         }
       ],
-      "duration_ms": 233932,
-      "name": "Espacio Vac\u00edo",
-      "url": "https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO"
+      "duration_ms": 142112,
+      "name": "Rucho",
+      "url": "https://open.spotify.com/track/4dmVjUhluiYmeO9MKBSX4O"
     },
     {
       "added_at": null,

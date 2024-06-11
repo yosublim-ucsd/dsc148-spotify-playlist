@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Ebow
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,253 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,259 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 20 | [Ich Such](https://open.spotify.com/track/1ZeMeVPCZlLMIUwJX8VF3k) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [fuck \(ich liebe dich\)](https://open.spotify.com/album/30c5ReJueRMPW8y7UgJHq8) | 2:24 |
 | 21 | [Backseat](https://open.spotify.com/track/4iL4S5C4AmfQK43ZEeNstw) | [Sara Dastjani](https://open.spotify.com/artist/5Usfg2FMXMcO710BoJ1fBz) | [Backseat](https://open.spotify.com/album/5SWzGsu11eeN1TlU8RSJxg) | 2:09 |
 | 22 | [carcassonne](https://open.spotify.com/track/3BXOQ4VvoQ5T5CuqLYHLoh) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [carcassonne](https://open.spotify.com/album/3SAHxqemMNdTGcMRkDxFku) | 2:11 |
-| 23 | [Zu gut für dich](https://open.spotify.com/track/74t5qvVy1aT5FfFdviAL7d) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Zu gut für dich](https://open.spotify.com/album/2EtJ9Rccm1VAxOzf7jhfXO) | 2:38 |
-| 24 | [Free.](https://open.spotify.com/track/6xQtS5BKmnUANA5ZWfqha0) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Free.](https://open.spotify.com/album/1lc7rQHvH0QwHcfCszcb3z) | 2:25 |
+| 23 | [Free.](https://open.spotify.com/track/6xQtS5BKmnUANA5ZWfqha0) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Free.](https://open.spotify.com/album/1lc7rQHvH0QwHcfCszcb3z) | 2:25 |
+| 24 | [Zu gut für dich](https://open.spotify.com/track/74t5qvVy1aT5FfFdviAL7d) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Zu gut für dich](https://open.spotify.com/album/2EtJ9Rccm1VAxOzf7jhfXO) | 2:38 |
 | 25 | [PROJECT HOES](https://open.spotify.com/track/6G2YzSkUt0lEDtuIoExUeD) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [PROJECT HOES](https://open.spotify.com/album/1mGXT4coMrzL7dcaVeUeTj) | 1:46 |
 | 26 | [ambulanz](https://open.spotify.com/track/0MurLXPVOup92Ukgor0u5e) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ambulanz](https://open.spotify.com/album/0B2wWB5VGO34EbZWNBG6n9) | 2:56 |
 | 27 | [TNs](https://open.spotify.com/track/5n4JZF2SjzfKSdSfjLwduS) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [TNs](https://open.spotify.com/album/2fA1Ogh5Vlpu5EupvWsIJM) | 1:41 |
-| 28 | [Schutzschild](https://open.spotify.com/track/3O9cIi1SjaqNIc0iCzXXf8) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [Schutzschild](https://open.spotify.com/album/1JicfA6oyF0XmxOop8nhcs) | 2:39 |
-| 29 | [wie du mich mochtest](https://open.spotify.com/track/5nXK0rMLRuPNSMYawoe3N2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [wie du mich mochtest](https://open.spotify.com/album/1TC2QGTmKbFgdqsdrwkTnC) | 2:43 |
-| 30 | [wenn ich ehrlich bin](https://open.spotify.com/track/3SsYcfMxfWyRem3lXvbD3R) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [wenn ich ehrlich bin](https://open.spotify.com/album/7CriOieMAca2t2jHm96tJP) | 2:26 |
-| 31 | [dunkelblau](https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [dunkelblau](https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm) | 3:20 |
+| 28 | [wie du mich mochtest](https://open.spotify.com/track/5nXK0rMLRuPNSMYawoe3N2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [wie du mich mochtest](https://open.spotify.com/album/1TC2QGTmKbFgdqsdrwkTnC) | 2:43 |
+| 29 | [Schutzschild](https://open.spotify.com/track/3O9cIi1SjaqNIc0iCzXXf8) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [Schutzschild](https://open.spotify.com/album/1JicfA6oyF0XmxOop8nhcs) | 2:39 |
+| 30 | [dunkelblau](https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [dunkelblau](https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm) | 3:20 |
+| 31 | [wenn ich ehrlich bin](https://open.spotify.com/track/3SsYcfMxfWyRem3lXvbD3R) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [wenn ich ehrlich bin](https://open.spotify.com/album/7CriOieMAca2t2jHm96tJP) | 2:26 |
 | 32 | [Dirty Girls](https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Dirty Girls](https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP) | 2:53 |
 | 33 | [SiLBER](https://open.spotify.com/track/0nPYxrJADftqW14Vk4brIe) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [SiLBER](https://open.spotify.com/album/7dlU3W2D0xYhMjHVBDVLAt) | 2:52 |
 | 34 | [Gift](https://open.spotify.com/track/28eOArdnY7JTblHWod7eAP) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Gift](https://open.spotify.com/album/3mXd2VDnGCJg5TglZRUwPY) | 2:35 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Hier und Jetzt](https://open.spotify.com/track/75Al35K7EKx8IOpPMk24Yx) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp) | [Hier und Jetzt](https://open.spotify.com/album/0c4ZPYOw8z6nxlsfxixxhB) | 3:20 |
 | 37 | [Hoe Season](https://open.spotify.com/track/46CPUc8PiEBlSQ4RAOWLeS) | [LilliPop](https://open.spotify.com/artist/7EufW3ixxDt2WINimC99kG) | [Hoe Season](https://open.spotify.com/album/4PdEONlvwD2vchpShzyDzo) | 2:11 |
 | 38 | [Tiara](https://open.spotify.com/track/7qeMK22RkkwOrxyFQyk0Py) | [NNOA](https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft) | [Tiara](https://open.spotify.com/album/2Moz1gzky9yifaLc3zGAeP) | 2:55 |
-| 39 | [Modern Home](https://open.spotify.com/track/4zdVikmVCaRSa6bFVfjHVe) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Modern Home](https://open.spotify.com/album/0gyaS2yVdXf3FZwyEjPSNU) | 3:41 |
-| 40 | [heavy blankets](https://open.spotify.com/track/2A1OYhBVUgoxGIrkOMFGD7) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [heavy blankets](https://open.spotify.com/album/73UjwUWkXodhq4hJY4B7kp) | 2:17 |
+| 39 | [heavy blankets](https://open.spotify.com/track/2A1OYhBVUgoxGIrkOMFGD7) | [katyadotcom](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [heavy blankets](https://open.spotify.com/album/73UjwUWkXodhq4hJY4B7kp) | 2:17 |
+| 40 | [Modern Home](https://open.spotify.com/track/4zdVikmVCaRSa6bFVfjHVe) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Modern Home](https://open.spotify.com/album/0gyaS2yVdXf3FZwyEjPSNU) | 3:41 |
 | 41 | [Ghosting You](https://open.spotify.com/track/2qoqzLWwrGmeZvukkQ2AKW) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Ghosting You](https://open.spotify.com/album/3WeBR68oYmMu5s6ITJMduo) | 3:48 |
 | 42 | [Whiplash](https://open.spotify.com/track/4oTrcjn08jBFben4O2Am2Q) | [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt) | [Whiplash](https://open.spotify.com/album/2Mt6KsgJIjghWaq42yqO0S) | 2:47 |
 | 43 | [PLANET](https://open.spotify.com/track/58nwezUNuGYgWsR2DaTty5) | [Lary](https://open.spotify.com/artist/5yNlFmp5vESd61p6Ob3Qzo) | [STEREO NOIR](https://open.spotify.com/album/0KxrASBz3X7wAOgBrQKb1N) | 3:31 |

@@ -4247,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/5WIcuwJXPhM2iutKiMOcyQ"
+      },
+      "artists": [
+        {
+          "name": "Dario Nunez",
+          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/1xB5gt3cDATes2HlVs3ICe"
+    },
+    {
+      "album": {
         "name": "You Know Where The Floor Is",
         "url": "https://open.spotify.com/album/1mvKgax9KJhxdNRrVjtFyQ"
       },

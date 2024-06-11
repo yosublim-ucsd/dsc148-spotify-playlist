@@ -4,7 +4,7 @@
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-169 songs - 10 hr 45 min
+170 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Cubita La Bella](https://open.spotify.com/track/6Nc7VYYybev1B7fS9XEWeF) | [Emir Boscán y los Tomasinos](https://open.spotify.com/artist/15Phddkrtt00KTVrq1WkR4) | [El Sonido Original](https://open.spotify.com/album/79xdwYb46OpWG5PhaIbwi2) | 2:23 | 2023-11-09 | 2024-04-19 |
 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 | 2023-11-09 | 2024-04-19 |
 | [Cumbia del Amor](https://open.spotify.com/track/2MazrWNhGfpvWnFcgGTyQZ) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3), [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [17 Éxitos](https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved) | 3:02 | 2023-11-09 | 2024-04-19 |
-| [Cumbia Sampuesana](https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A) | [Super Orquesta Cartagena](https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC) | [Cumbias Solo Cumbias](https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv) | 2:48 | 2023-12-20 |  |
+| [Cumbia Sampuesana](https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A) | [Super Orquesta Cartagena](https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC) | [Cumbias Solo Cumbias](https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv) | 2:48 | 2023-12-20 | 2024-06-11 |
 | [Daniela](https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Historia Musical de Rodolfo Con los Hispanos: 40 Éxitos Inolvidables](https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y) | 3:18 | 2023-12-20 |  |
 | [Daniela](https://open.spotify.com/track/4eMjJ98X5b5bu4wzdW4U6l) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [De Peligro](https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k) | 3:20 | 2023-12-05 | 2024-01-19 |
 | [De Oro](https://open.spotify.com/track/2StaBZCqvzVx1582KFsmaP) | [La Familia André](https://open.spotify.com/artist/4dH8m3iCVtDv2jdsBBK9Uc) | [Amor Amor](https://open.spotify.com/album/5q4Qvt66KtNmpJGbutOGVE) | 4:39 | 2023-11-09 |  |
@@ -120,6 +120,7 @@
 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 | 2023-11-09 | 2024-04-19 |
 | [Mi Cucu](https://open.spotify.com/track/2sgvhWTDeOjYtf2gewGSYa) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Música Tropical de Colombia \(Vol\. 10\)](https://open.spotify.com/album/71qxThBjBHwu7XtRQecERd) | 3:55 | 2023-12-20 |  |
 | [Micaela](https://open.spotify.com/track/1S76g6wBx7YGlO6XEFTG8L) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold](https://open.spotify.com/artist/4R5fxip31MUAZnwwSgdlmI) | [Salsa Pa Bacanes](https://open.spotify.com/album/7K6HRnSQFKGbFTtct2wFFu) | 4:53 | 2023-12-20 |  |
+| [Mosaico de Merengues \- Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamoró de Manuel / El Pájaro Amarillo / El Gavilán](https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP) | [Cuarteto Imperial](https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87) | [Para Bailar y Bailar con El Cuarteto Imperial](https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd) | 7:59 | 2023-12-20 |  |
 | [Muchacha Encantadora](https://open.spotify.com/track/5KKPgPdbnERMiiQgFw4dJl) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:17 | 2023-11-09 | 2024-04-19 |
 | [Muchacha Encantadora](https://open.spotify.com/track/5ZsIeVJdQ0d4Xk6mjRz2Cz) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Mejor Que Antes](https://open.spotify.com/album/0a14C3Un4TyuOQTbsh6jlE) | 4:17 | 2023-12-20 |  |
 | [Navidad](https://open.spotify.com/track/7JIHN2bhJhHe9YlFueQoEk) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:23 | 2023-12-05 | 2024-01-14 |

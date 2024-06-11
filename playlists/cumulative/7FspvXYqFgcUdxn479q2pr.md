@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: TWENTY SIX &amp; Jenn Morel
 
-86 songs - 4 hr 20 min
+87 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Afloja](https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Afloja](https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP) | 3:03 | 2024-04-26 | 2024-05-03 |
 | [AMEN](https://open.spotify.com/track/7DBEWi8wCOKiZbXP52yPFo) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [AMEN](https://open.spotify.com/album/6HBGVaSGhLZQVT5no3HQK9) | 4:30 | 2024-05-31 | 2024-06-08 |
 | [Animal \(R3HAB VIP Remix\)](https://open.spotify.com/track/3K25KGPo19Sa9PGaaHXj1E) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\) \[R3HAB VIP Remix\]](https://open.spotify.com/album/6DES4HtkY6IHlsHFSf4dff) | 2:35 | 2024-06-07 |  |
+| [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 | 2024-06-10 |  |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-16 | 2024-05-24 |
 | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/track/0bqaziJFioJtEWzBx3VYlD) | [Gianluca Vacchi](https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ), [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V) | [Bala \(feat\. Flori del Pino\)](https://open.spotify.com/album/5rQ430QJCz7yrEn1s6T1rZ) | 2:55 | 2024-05-10 | 2024-05-17 |
 | [Be You](https://open.spotify.com/track/3DP7Vn2Oqw0ycl5IYb6NdO) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Cruisin' Down Crenshaw EP](https://open.spotify.com/album/08MQdiaBRvA9JtlU3f63D8) | 6:36 | 2024-05-24 | 2024-06-01 |

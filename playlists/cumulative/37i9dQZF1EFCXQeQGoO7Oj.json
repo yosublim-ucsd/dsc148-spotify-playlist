@@ -1146,10 +1146,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 131186,
       "name": "Blank Space - Voice Memo",
       "url": "https://open.spotify.com/track/0yisH8r0f3Mkq34kjzUlCV"
+    },
+    {
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "Blank Space - Voice Memo",
+      "url": "https://open.spotify.com/track/4e6QU4gpfZj9xxcK856RgG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 29801,
+  "num_followers": 29843,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-03 12:38:43",
       "album": {
-        "name": "L'Arca Di No\u00e8 (2008 Remastered Edition)",
-        "url": "https://open.spotify.com/album/2OulSxrNGCvCvz5rX7lUH5"
-      },
-      "artists": [
-        {
-          "name": "Franco Battiato",
-          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Voglio Vederti Danzare - Remastered",
-      "url": "https://open.spotify.com/track/0Yncd2CxjjlWLrIukzsk2M"
-    },
-    {
-      "added_at": "2024-06-03 12:38:43",
-      "album": {
         "name": "Edoardo Vianello",
         "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 149600,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/6OIZN7iSLdw6ml70zRlAUu"
+    },
+    {
+      "added_at": "2024-06-03 12:38:43",
+      "album": {
+        "name": "L'Arca Di No\u00e8 (2008 Remastered Edition)",
+        "url": "https://open.spotify.com/album/2OulSxrNGCvCvz5rX7lUH5"
+      },
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Voglio Vederti Danzare - Remastered",
+      "url": "https://open.spotify.com/track/0Yncd2CxjjlWLrIukzsk2M"
     },
     {
       "added_at": "2024-06-03 12:38:43",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-06-03 12:38:43",
       "album": {
+        "name": "Edoardo Vianello",
+        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Guarda Come Dondolo",
+      "url": "https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ"
+    },
+    {
+      "added_at": "2024-06-03 12:38:43",
+      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 225440,
       "name": "L'estate sta finendo",
       "url": "https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol"
-    },
-    {
-      "added_at": "2024-06-03 12:38:43",
-      "album": {
-        "name": "Edoardo Vianello",
-        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Guarda Come Dondolo",
-      "url": "https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ"
     },
     {
       "added_at": "2024-06-03 12:38:43",

@@ -4,7 +4,7 @@
 
 > 
 
-713 songs - 1 day 10 hr 10 min
+716 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [I Choose Violence](https://open.spotify.com/track/5n9MYzhJ3wYnxYyxCeydj4) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:39 | 2023-10-03 |  |
 | [I Don’t Text Back \(feat\. Yeat\)](https://open.spotify.com/track/6Gh8SC2X9tC1EmgJK6tin0) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Ma’ I Got A Family \(A Gangsta Grillz Special Edition Hosted by DJ Drama\)](https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh) | 2:11 | 2022-10-21 | 2023-05-09 |
 | [I LIKE IT](https://open.spotify.com/track/5lRWBweszE9cOlXR7AdAKS) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Snot](https://open.spotify.com/artist/5Z7iMZyRRVN2rv8AiUeDfe) | [SATURN.](https://open.spotify.com/album/1WuDkDW6gq2PwArg6uJPTZ) | 3:21 | 2022-07-22 | 2023-12-14 |
+| [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 | 2024-06-11 |  |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-02-14 | 2023-12-14 |
 | [i remember you my ex](https://open.spotify.com/track/6614L668d1inUl3d8IBZMl) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 3:01 | 2023-04-04 | 2023-05-09 |
 | [I Slay Bitches](https://open.spotify.com/track/5VnSJYbKx5bf26vOFaaVgF) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:50 | 2023-01-03 | 2023-12-14 |
@@ -313,6 +314,7 @@
 | [Jail pt 2](https://open.spotify.com/track/7f1w2rZoIf7g56McEUTh5W) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2023-10-03 | 2024-03-05 |
 | [James Joint](https://open.spotify.com/track/6K4Co1NQyOnoFEJMkZHkln) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 1:12 | 2024-02-16 | 2024-04-24 |
 | [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya Tiji](https://open.spotify.com/artist/7mJfqlklKtA6sHkavWth09) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 | 2023-02-09 | 2023-12-14 |
+| [Japanese Soul Bar](https://open.spotify.com/track/4dVuUY2HbfS9dbVP55MWSw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:01 | 2024-06-11 |  |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-10-27 | 2024-03-05 |
 | [JETLGGD](https://open.spotify.com/track/59U7bktlujuNRW7fBq1VDt) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 1:56 | 2022-08-14 | 2023-04-12 |
 | [Jew On The Canoe](https://open.spotify.com/track/694GED3o0OdFTsoS0aNpEs) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Blp Kosher And The Magic Dreidel](https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY) | 2:09 | 2023-03-26 | 2023-12-14 |
@@ -431,6 +433,7 @@
 | [No Morals](https://open.spotify.com/track/6QjkUOZr21m8iSyHBiR5s5) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:36 | 2023-01-27 | 2023-04-17 |
 | [No Respect](https://open.spotify.com/track/6M8Z8jdOfl1IksxfdEgH1z) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [No Respect](https://open.spotify.com/album/25suTRbGTSETjPEsoKR5GT) | 2:09 | 2023-01-11 | 2023-04-12 |
 | [No Rules](https://open.spotify.com/track/7kmXrIxANoDbLpPbDoeF3E) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/4ctaWxkPM0fPkUMB2nYClO) | [Rookie Of The Year](https://open.spotify.com/album/22aL7K3nl0vFqguOI5LQdv) | 2:54 | 2022-11-01 | 2023-04-12 |
+| [No Tears](https://open.spotify.com/track/3DnP2eTPfvOVGZr9covIU0) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:11 | 2024-06-11 |  |
 | [NoEvi](https://open.spotify.com/track/3t4JPcmKcHaCU7zpuJuWTd) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [NoEvi](https://open.spotify.com/album/3cbKFKL494EoV163ye7pDs) | 2:03 | 2022-10-27 | 2023-05-09 |
 | [Nosetalgia](https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:36 | 2024-05-23 |  |
 | [NOSTYLIST](https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 3:00 | 2022-08-12 | 2023-04-12 |

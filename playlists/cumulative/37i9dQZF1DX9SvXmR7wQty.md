@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,591 songs - 5 day 18 hr 14 min
+2,592 songs - 5 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Chanson pour Maman](https://open.spotify.com/track/7nBXH6lNyAnM7gwdNDc7gH) | [Sandrine St\-Laurent](https://open.spotify.com/artist/2yHC0qy3VEXWdzYInARdP1) | [Chanson pour Maman](https://open.spotify.com/album/2K5HLbHSPKzHoaJ1KrM6AJ) | 3:12 | 2022-09-02 | 2022-09-17 |
 | [Chanson pour toi](https://open.spotify.com/track/7CcVagVQtlFQL5CiXsP159) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Chanson pour toi](https://open.spotify.com/album/2W3IckMSDPx96MQPHwDJQK) | 2:28 | 2024-01-26 | 2024-02-03 |
 | [Chaque Douille](https://open.spotify.com/track/5VXekSKXEpZZxaSSqVebFB) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Viral Avant La Carrière](https://open.spotify.com/album/42OsuC1KTnlfkSF5KlMgUW) | 2:47 | 2022-04-15 | 2022-04-29 |
+| [Chaque seconde](https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:46 | 2024-06-07 |  |
 | [Charlie](https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Charlie](https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ) | 3:06 | 2023-03-24 | 2023-04-22 |
 | [Charlotte](https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0) | 3:34 | 2023-05-26 | 2023-07-29 |
 | [Chaud](https://open.spotify.com/track/0vjRWn9TkzH3P8iRqkiHNS) | [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Chaud](https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8) | 2:08 | 2023-04-07 | 2023-05-13 |
@@ -1440,7 +1441,7 @@
 | [London](https://open.spotify.com/track/3NJUh3z3w8zJ3wKHMzMZhL) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [London](https://open.spotify.com/album/1MuMxkgKEszMvtESLqtw3p) | 2:40 | 2022-09-30 | 2022-10-15 |
 | [London Fever](https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [London Fever](https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V) | 3:22 | 2023-06-02 | 2023-08-19 |
 | [Long feu](https://open.spotify.com/track/49bEamx2i86poxwPWGEEvX) | [Ariel](https://open.spotify.com/artist/6E8If98t7xy5cJYy4eUntD), [Poulin](https://open.spotify.com/artist/5LvMLkptn5AokNYLnahOIE) | [Chroniques souterraines](https://open.spotify.com/album/6n4envaUhjRaUQ1OhKNMpq) | 3:30 | 2022-02-11 | 2022-02-26 |
-| [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 | 2024-05-03 |  |
+| [Longue Vie](https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Longue Vie](https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW) | 2:01 | 2024-05-03 | 2024-06-11 |
 | [Lose It All](https://open.spotify.com/track/7g0Fo1jbQfEEFIUXAYnbrm) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Lose It All](https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM) | 2:54 | 2023-04-07 | 2023-04-29 |
 | [Loup blanc](https://open.spotify.com/track/7anzgkHjN83MXJrbeUyWnm) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Loup blanc](https://open.spotify.com/album/3t3T3b5V9jR6Ofbd9eVB0r) | 2:40 | 2023-03-17 | 2023-04-15 |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 | 2024-01-27 |

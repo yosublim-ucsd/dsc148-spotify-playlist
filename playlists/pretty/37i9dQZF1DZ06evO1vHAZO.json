@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 964577,
+  "num_followers": 964729,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAACGgLV+fTwtljZneiBpMhzJ",
+  "snapshot_id": "ZmTwgAAAAAD8izIbghfRIeRG3dJlWqK1",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 312680,
-      "name": "Sunday Morning Call",
-      "url": "https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z"
+      "duration_ms": 266840,
+      "name": "Where Did It All Go Wrong?",
+      "url": "https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 307333,
-      "name": "Stay Young - Remastered",
-      "url": "https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq"
+      "duration_ms": 262400,
+      "name": "I Hope, I Think, I Know - Remastered",
+      "url": "https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Where Did It All Go Wrong?",
-      "url": "https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC"
+      "duration_ms": 368253,
+      "name": "Gas Panic!",
+      "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 262400,
-      "name": "I Hope, I Think, I Know - Remastered",
-      "url": "https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey"
+      "duration_ms": 307333,
+      "name": "Stay Young - Remastered",
+      "url": "https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 368253,
-      "name": "Gas Panic!",
-      "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
+      "duration_ms": 391146,
+      "name": "Roll It Over",
+      "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 280413,
       "name": "Bag It Up",
       "url": "https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 391146,
-      "name": "Roll It Over",
-      "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
     }
   ],
   "unique_name": "This Is Oasis",

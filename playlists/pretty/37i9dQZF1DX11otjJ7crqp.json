@@ -1,12 +1,12 @@
 {
   "description": "Essential new pop tracks. Cover: RAYE",
-  "num_followers": 80432,
+  "num_followers": 80487,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAACV6hFFv2b4xbeirwmhsPt9",
+  "snapshot_id": "ZmcVkAAAAABDQxuxdXTH3hwI5tHsr86d",
   "tracks": [
     {
       "added_at": "2024-06-07 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "House Down",
-        "url": "https://open.spotify.com/album/2ir3ghqP2yPb1ECCXPjJim"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "House Down",
-      "url": "https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Queen of Hearts",
         "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
       },
@@ -935,6 +919,26 @@
       "duration_ms": 165675,
       "name": "Home Is You",
       "url": "https://open.spotify.com/track/2vbZzFdFtOC2MwjAxbiq8S"
+    },
+    {
+      "added_at": "2024-06-10 15:02:40",
+      "album": {
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/6GZ1fXt4LMbYxqsh4KkzoU"
     },
     {
       "added_at": "2024-05-31 04:00:00",

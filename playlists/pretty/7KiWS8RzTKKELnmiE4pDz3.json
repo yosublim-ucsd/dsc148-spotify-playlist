@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAcshm69Qbh+TTBmTf6gacMciyz8zGK",
+  "snapshot_id": "AAActZhPkcgszuoHDuekKoRWKKyKMQiM",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2315,6 +2315,54 @@
       "duration_ms": 119084,
       "name": "Band Practice Pt 2. Ft. Phonte & Median",
       "url": "https://open.spotify.com/track/5oMCxf5GrRoeJE8UARbOoj"
+    },
+    {
+      "added_at": "2024-06-11 02:06:36",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
+    },
+    {
+      "added_at": "2024-06-11 02:10:37",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 191899,
+      "name": "No Tears",
+      "url": "https://open.spotify.com/track/3DnP2eTPfvOVGZr9covIU0"
+    },
+    {
+      "added_at": "2024-06-11 02:14:14",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 181396,
+      "name": "Japanese Soul Bar",
+      "url": "https://open.spotify.com/track/4dVuUY2HbfS9dbVP55MWSw"
     }
   ],
   "unique_name": "main ",

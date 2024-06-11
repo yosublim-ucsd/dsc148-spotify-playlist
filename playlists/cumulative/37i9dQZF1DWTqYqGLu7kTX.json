@@ -967,6 +967,28 @@
     },
     {
       "album": {
+        "name": "Don't Look 2",
+        "url": "https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "G-Funk",
+          "url": "https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Don't Look 2",
+      "url": "https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe"
+    },
+    {
+      "album": {
         "name": "Don't Test",
         "url": "https://open.spotify.com/album/3yK7WWnv3ZP7ogzncDL97u"
       },
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 196129,
       "name": "JAT FREESTYLE",
       "url": "https://open.spotify.com/track/5i0k0nlsa4Wlr2eLZAgM8h"
@@ -2272,7 +2294,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 155573,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM"
@@ -2522,6 +2544,28 @@
       "duration_ms": 183428,
       "name": "On Top",
       "url": "https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw"
+    },
+    {
+      "album": {
+        "name": "On Top 2",
+        "url": "https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "ON TOP 2",
+      "url": "https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9"
     },
     {
       "album": {

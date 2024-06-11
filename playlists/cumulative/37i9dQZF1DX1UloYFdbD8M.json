@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Rebirth (Original Cut)",
+        "url": "https://open.spotify.com/album/41XM3M3hV9uadzQGT1yyNv"
+      },
+      "artists": [
+        {
+          "name": "Chai Lenin",
+          "url": "https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315714,
+      "name": "Rebirth - Original Cut",
+      "url": "https://open.spotify.com/track/3THJqla3aCc8CWyaKUTyvX"
+    },
+    {
+      "album": {
         "name": "Roots (Live)",
         "url": "https://open.spotify.com/album/3uKP1PerE1Kx0e6G8tskXZ"
       },

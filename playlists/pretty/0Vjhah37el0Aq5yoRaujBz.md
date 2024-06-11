@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 
 > Let this upbeat playlist power you through your day
 
-[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,438 likes - 306 songs - 18 hr 4 min
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,437 likes - 306 songs - 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 | 78 | [Back 2 U \(feat\. WALK THE MOON\)](https://open.spotify.com/track/5deDWZeDHWfYk9xaq9ynh4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9), [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Back 2 U \(feat\. WALK THE MOON\)](https://open.spotify.com/album/4ZfTPNeqmobT7mopG2PR3V) | 4:35 |
 | 79 | [Marching On](https://open.spotify.com/track/5LVj9daVd1q6fjICKyvl7Y) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ammunition](https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG) | 3:59 |
 | 80 | [Talk](https://open.spotify.com/track/16zC5e1Sgl1FjEw0zPfG92) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [George Maple](https://open.spotify.com/artist/19m3oZKjGSLzVW0OGIAcNg) | [Talk](https://open.spotify.com/album/4eL7R43CYu3qHrQoC6twhD) | 3:57 |
-| 81 | [Don't Let Me Down \(feat\. Daya\) \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(feat\. Daya\) \[Hardwell & Sephyx Remix\]](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 |
+| 81 | [Don't Let Me Down \- Hardwell & Sephyx Remix](https://open.spotify.com/track/1JI70l1lE5IF2tgJm5TnMD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Don't Let Me Down \(Hardwell & Sephyx Remix\)](https://open.spotify.com/album/3oS6pMqcIiHaq3B47mDop5) | 2:42 |
 | 82 | [Is It Love \- Arty Remix](https://open.spotify.com/track/1qJhb6zftFI5PT39nL84vw) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Yeah Boy](https://open.spotify.com/artist/42ZsyPZ66sNbbjyeY9G2Au), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Is It Love \(Remixed\)](https://open.spotify.com/album/1CF7EHte3Eb848FUudOL9w) | 3:22 |
 | 83 | [Bullet \- Instant Karma Remix](https://open.spotify.com/track/6aFvJSvmAuTuQSPZwK8rrN) | [Chelsea Lankes](https://open.spotify.com/artist/5JZ7uSAWAzTHHVBICdtAc6), [Instant Karma](https://open.spotify.com/artist/6eqLCv41Qkw8Gti2WZBoBN) | [Bullet \(Instant Karma Remix\)](https://open.spotify.com/album/3ZxdnDRpLyKPJuJDeVwtg7) | 3:19 |
 | 84 | [Broken Drum \(feat\. Fitz of Fitz and the Tantrums\)](https://open.spotify.com/track/1ueQDgg9WsjXF8NwJeLvUE) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Broken Drum \(feat\. Fitz of Fitz and the Tantrums\)](https://open.spotify.com/album/7b09NcU5UqHUOFj2OwPk05) | 3:18 |

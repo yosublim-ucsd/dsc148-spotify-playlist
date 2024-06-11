@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-2,627 songs - 5 day 9 hr 4 min
+2,628 songs - 5 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -720,7 +720,7 @@
 | [Erlkönig](https://open.spotify.com/track/1V3QUMgDGBUgDwWxbCydVy) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Sebastian Fitzek](https://open.spotify.com/artist/17rKYsNYZ7aK9MlpmCJTAk) | [Erlkönig](https://open.spotify.com/album/1E36YBGJ98H8wVwtTD79xj) | 2:43 | 2021-08-01 | 2021-08-06 |
 | [Erster Song](https://open.spotify.com/track/02VNbURaEjAUZ8L5BlfiXl) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Tage vor 2000](https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk) | 2:24 | 2023-12-23 | 2024-01-02 |
 | [Erwachsen werden](https://open.spotify.com/track/3sEX4QHpj4HqwRH5CmMUvO) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Erwachsen werden](https://open.spotify.com/album/69oZWg9SY64DpZvxxtIxf6) | 2:39 | 2023-09-02 | 2023-09-05 |
-| [Erwischt](https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Erwischt](https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m) | 2:01 | 2024-04-20 |  |
+| [Erwischt](https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Erwischt](https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m) | 2:01 | 2024-04-20 | 2024-06-11 |
 | [Erzähl mir](https://open.spotify.com/track/4bkLNgL0GN45aZM9vCCJmQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Erzähl mir](https://open.spotify.com/album/6XsBykqwHJxsNhl181NwYr) | 2:30 | 2023-07-15 | 2023-07-20 |
 | [Es ist Abend](https://open.spotify.com/track/5J8dExRYBLUfvOSwfcuVD4) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend](https://open.spotify.com/album/3GTooJumqyL0POpeQmHQN7) | 2:30 | 2022-10-29 | 2022-10-31 |
 | [ES IST WIE ES IST](https://open.spotify.com/track/7xx6S5PsAV7rziVCjCzDrl) | [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V) | [ES IST WIE ES IST](https://open.spotify.com/album/2RgmfhWYQVAHuClAqxHurx) | 2:35 | 2021-12-18 | 2021-12-31 |
@@ -1841,6 +1841,7 @@
 | [PLAYLIST](https://open.spotify.com/track/3K97IXyfwJ8tcce16rnifv) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [PLAYLIST](https://open.spotify.com/album/6ViX2AiIyaEvdUvdbdbWFR) | 2:11 | 2022-11-19 | 2022-11-27 |
 | [Playlist](https://open.spotify.com/track/3WzzQIc5ywAhyyFr0cU0Qt) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3), [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [Playlist](https://open.spotify.com/album/16VK34CgWA7vQm5nDkLlna) | 2:42 | 2023-09-30 | 2023-10-02 |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2021-12-25 | 2023-12-30 |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-10 |  |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-13 | 2022-10-23 |
 | [Polizei](https://open.spotify.com/track/21nMasJVN7cJ9gxtxUEPsu) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Polizei](https://open.spotify.com/album/4HfUAIcfEIhKjPXDiGavqH) | 2:27 | 2021-09-19 | 2021-10-04 |
 | [Polka, Polka, Polka \- Single Version](https://open.spotify.com/track/6O0OwJjXAnmrevV7Sadhvx) | [Brings](https://open.spotify.com/artist/5uRfU4LuGDkxzZ86uCXQY8) | [14](https://open.spotify.com/album/599NuaobEKybC8byZnDgTt) | 3:43 | 2023-02-17 | 2024-02-11 |

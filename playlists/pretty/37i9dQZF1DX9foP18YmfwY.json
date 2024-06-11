@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 321841,
+  "num_followers": 321886,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -315,8 +315,8 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
-        "name": "Aparecida",
-        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 293248,
-      "name": "Aparecida",
-      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
+      "duration_ms": 696810,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc"
     },
     {
       "added_at": "2024-05-01 03:00:00",
@@ -463,8 +463,8 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r"
+        "name": "Aparecida",
+        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 696810,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc"
+      "duration_ms": 293248,
+      "name": "Aparecida",
+      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
     },
     {
       "added_at": "2024-05-01 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-05-01 03:00:00",
       "album": {
-        "name": "Contigo Vou Cantar",
-        "url": "https://open.spotify.com/album/2kcJb8d4nk4sQ30bN42b3A"
-      },
-      "artists": [
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Contigo Vou Cantar",
-      "url": "https://open.spotify.com/track/3dYRJMoKJGWhroxHFBwUGp"
-    },
-    {
-      "added_at": "2024-05-01 03:00:00",
-      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+    },
+    {
+      "added_at": "2024-05-01 03:00:00",
+      "album": {
+        "name": "Contigo Vou Cantar",
+        "url": "https://open.spotify.com/album/2kcJb8d4nk4sQ30bN42b3A"
+      },
+      "artists": [
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Contigo Vou Cantar",
+      "url": "https://open.spotify.com/track/3dYRJMoKJGWhroxHFBwUGp"
     },
     {
       "added_at": "2024-05-01 03:00:00",

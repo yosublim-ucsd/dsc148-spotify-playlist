@@ -4,7 +4,7 @@
 
 > Illest hardcore K\-hip hop tracks are here\. \(Cover: Jimmy Paige\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,180 songs - 2 day 17 hr 19 min
+1,181 songs - 2 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [BURN UP \(Feat\. OG Maco\)](https://open.spotify.com/track/2OIx2RQU7HHkg5y3wjvByu) | [CLEAUN](https://open.spotify.com/artist/0Xm9s0aLIgOa9bvPMOmOih), [OG Maco](https://open.spotify.com/artist/0nvvVQhPQGkYTJlThLbJeu) | [BURN UP \(Feat\. OG Maco\)](https://open.spotify.com/album/2LcLZ16EZ73MZh7Oe7NTdD) | 1:49 | 2022-05-31 | 2022-06-11 |
 | [business boy \(Feat\. nongmill kim, BLOO\)](https://open.spotify.com/track/4ptHZEzDJaTovfjQVuVcjl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [OHDAMRYUL](https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [business boy](https://open.spotify.com/album/5TM1tLTSVgkXIvrPGTTCQt) | 3:55 | 2022-05-31 |  |
 | [BUSINESS MAN](https://open.spotify.com/track/4bYY2C23dvjkF3IPNSWGd6) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:45 | 2022-05-31 | 2022-07-29 |
-| [BUSS IT DOWN](https://open.spotify.com/track/0F8OVHqv5YdxWi530lYgRu) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [3](https://open.spotify.com/album/0gTHn0J0lacEFTTpFsGa2T) | 2:57 | 2024-04-04 |  |
+| [BUSS IT DOWN](https://open.spotify.com/track/0F8OVHqv5YdxWi530lYgRu) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [3](https://open.spotify.com/album/0gTHn0J0lacEFTTpFsGa2T) | 2:57 | 2024-04-04 | 2024-06-11 |
 | [BUST IT \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/2rAjakCurnu8UBGCX4MTQM) | [CROWN J](https://open.spotify.com/artist/0MRiOTUJTYnn2DFzdKwRPH), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [BUST IT](https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu) | 3:33 | 2022-08-20 | 2023-01-11 |
 | [C.E.O Freestyle](https://open.spotify.com/track/1FwCFwqDmkhq0jrQo7phSn) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [Catch Me If You Can](https://open.spotify.com/album/1TeM2j4zivCFfIVhw062yK) | 1:41 | 2022-06-03 | 2023-04-07 |
 | [C.P Company](https://open.spotify.com/track/19da2vgtPjopkCWpqqNE0k) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV) | [Boombap Mixtape](https://open.spotify.com/album/44pkBrd5ZVUD5bIe93I8Es) | 2:50 | 2022-06-09 | 2022-07-24 |
@@ -967,6 +967,7 @@
 | [Street Kid \(Feat\. CHANGMO\)](https://open.spotify.com/track/1hNm5JjE06CXcKXUQykRn4) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:22 | 2022-06-09 | 2022-07-19 |
 | [Styx \(Feat\. Jugger\)](https://open.spotify.com/track/4GBz6zooZoBSzioQO53VXw) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [Lake of Fire II](https://open.spotify.com/album/75JefiZbeuPESs9WoduwDW) | 1:49 | 2022-05-28 | 2022-07-20 |
 | [Summer \(Feat\. Jay Park\)](https://open.spotify.com/track/1hoSs6QAQkxDkOyKM3OHMW) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Summer](https://open.spotify.com/album/6h1iG7zXNitBgYP096Dhcp) | 2:31 | 2022-05-28 | 2023-02-17 |
+| [Summer Time Perfect For MONCLER](https://open.spotify.com/track/4TCNdwl2kKv6VrlsI7djWG) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [HEAT TAPE](https://open.spotify.com/album/08afahAF1rhA54fXgOkMiw) | 3:43 | 2024-06-10 |  |
 | [Sumo](https://open.spotify.com/track/783pTQT6UKfi5pcqxzZThh) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [Skreet Knowledge](https://open.spotify.com/album/5zrusKYKyZQzgKXFjrZb1C) | 2:27 | 2023-12-09 | 2024-01-22 |
 | [SUN GOES DOWN \(Prod\. R.Tee\)](https://open.spotify.com/track/1pzMTqvKABFaYYde4coFSg) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [R.Tee](https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:50 | 2022-11-01 |  |
 | [Super Rare \(Feat\. Wonstein, pH\-1\)](https://open.spotify.com/track/6YuJzx4yiTMhia4aM1M9kU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:40 | 2022-05-31 |  |

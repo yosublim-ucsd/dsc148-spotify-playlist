@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -4760,10 +4760,36 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 247400,
       "name": "The Moon",
       "url": "https://open.spotify.com/track/1xwP6gMHtGMR1G9vge4Joo"
+    },
+    {
+      "album": {
+        "name": "History of Heartbreak",
+        "url": "https://open.spotify.com/album/1xYOjjl7ahWGn65D9j9uGe"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        },
+        {
+          "name": "Hillary Lindsey",
+          "url": "https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA"
+        },
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258200,
+      "name": "The Moon (feat. Hillary Lindsey & Lori McKenna)",
+      "url": "https://open.spotify.com/track/505B8PAcsjCpntbYFp3Mrb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts you need to have on your RADAR: Relatables with Jake and Ottie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388 likes - 7 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 7 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

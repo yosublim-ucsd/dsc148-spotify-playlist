@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 205787,
       "name": "Blow It Up",
       "url": "https://open.spotify.com/track/0K93XuM3E3idV9CHp3HS5n"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 218405,
       "name": "Clip My Wings",
       "url": "https://open.spotify.com/track/1X0Vk0VdE7lUp27ofRWUlN"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 197928,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3VXvKTOQoY0kWvpjU67uq2"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 203378,
       "name": "Everyone Need Love (with Surfer Girl)",
       "url": "https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q"
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 299599,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6dawVZplfCunQlfVHYCgKa"
@@ -1780,10 +1780,58 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
+    },
+    {
+      "album": {
+        "name": "feel like summer",
+        "url": "https://open.spotify.com/album/09Kx2wJF8IwqUFYTCGnc7B"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "feel like summer",
+      "url": "https://open.spotify.com/track/4iSLo1sMaQOA8BY2WHEoe5"
+    },
+    {
+      "album": {
+        "name": "Feel Like That (feat. Bradley Nowell)",
+        "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Jakobs Castle",
+          "url": "https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro"
+        },
+        {
+          "name": "Bradley Nowell",
+          "url": "https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227554,
+      "name": "Feel Like That (feat. Bradley Nowell)",
+      "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
     },
     {
       "album": {
@@ -1842,6 +1890,32 @@
       "duration_ms": 224710,
       "name": "Fire On Your House",
       "url": "https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe"
+    },
+    {
+      "album": {
+        "name": "Floating (with Iration & The Elovaters)",
+        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181957,
+      "name": "Floating (with Iration & The Elovaters)",
+      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "album": {
@@ -2208,7 +2282,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 185013,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C"
@@ -2252,7 +2326,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 175440,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/3lPMNolk5gDJVYBjkAVCTC"
@@ -2730,7 +2804,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 241306,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/6csv4sjaic4Q3IMgNMEan8"
@@ -2792,7 +2866,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 210680,
       "name": "In This Together",
       "url": "https://open.spotify.com/track/3uXq0ZQLD9roiPZsuRmAuN"
@@ -3333,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "Lyrics Over Everything",
+        "url": "https://open.spotify.com/album/7gM4CRNo8rsvePfPTzuCDd"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        },
+        {
+          "name": "Joey Harkum",
+          "url": "https://open.spotify.com/artist/72SpvqbeEYsAqZddWryI0m"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "Lyrics Over Everything",
+      "url": "https://open.spotify.com/track/0bMyuvNOVCXvRA4ePDKgnR"
+    },
+    {
+      "album": {
         "name": "M.I.A",
         "url": "https://open.spotify.com/album/1XdrsXPczOTy6DT8LHloYT"
       },
@@ -3605,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2dWw2g7wZDqMrtSE3rfiKV"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/1WHQqV8adoizyc21G0bGjw"
+    },
+    {
+      "album": {
         "name": "My Wave",
         "url": "https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD"
       },
@@ -3616,7 +3730,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 189264,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj"
@@ -4028,7 +4142,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 197341,
       "name": "Passion is Contagious",
       "url": "https://open.spotify.com/track/3r1N0T7e0eLiyX8pRJhpS9"
@@ -4660,7 +4774,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 186760,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6MJxu3pi5nLCA87DQef9RO"
@@ -5358,7 +5472,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 210200,
       "name": "Sunny Days (with Devin The Dude)",
       "url": "https://open.spotify.com/track/5DoJuT8nUT45Y5M3H1rfyD"
@@ -5380,6 +5494,24 @@
       "duration_ms": 213069,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138466,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
     },
     {
       "album": {
@@ -5566,7 +5698,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 243915,
       "name": "The Day You Came",
       "url": "https://open.spotify.com/track/4Z1PPnh4NSK5S7FYBtlFo7"
@@ -5748,7 +5880,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 207106,
       "name": "This World (with Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/5RPFPpOJP3OlTQk2mUPYxA"

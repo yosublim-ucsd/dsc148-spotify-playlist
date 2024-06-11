@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with KAYTRANADA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,523 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,591 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Slow Down](https://open.spotify.com/track/4uti0PZJXWZheQCwzn381X) | [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Slow Down](https://open.spotify.com/album/7qMA7vSCMWaAeyDRIO2JOM) | 2:58 |
 | 100 | [U & I](https://open.spotify.com/track/2Y7vm5KiCXERuJ0iTT9Cok) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [U & I](https://open.spotify.com/album/5a2s9ithAdnKaFNNKqjQhk) | 2:45 |
 
-Snapshot ID: `ZmKFwAAAAAA1MP0unAm7PCupcTuqlbGC`
+Snapshot ID: `ZmcOxgAAAADWxGKr3VQtR1gPfdE1k+DQ`

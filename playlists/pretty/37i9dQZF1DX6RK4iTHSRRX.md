@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,570 likes - 76 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,563 likes - 81 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 74 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/05nDWMKbb0Kr39EazJlCbw) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/6XTqe4kwzC01JL9xxEa74L) | 2:01 |
 | 75 | [The Chipmunk Song \(Christmas Don't Be Late\) \[Instrumental Version\]](https://open.spotify.com/track/5EVvYH2ockerMq5ric8BT5) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 2:21 |
 | 76 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
+| 77 | [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 |
+| 78 | [The Holly and the Ivy](https://open.spotify.com/track/2OrUtaBrxts1s6xPPdI3QV) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:53 |
+| 79 | [In Dulci Jubilo](https://open.spotify.com/track/4CgMcRtgYkkB2vxMVh21Cs) | [Sølvin Refvik](https://open.spotify.com/artist/0fUAVgLdki5UCCEbaKfX0L) | [Silent Night \- Christmas Songs for Guitar](https://open.spotify.com/album/56RQXXZgczxNDHoUzuybAT) | 2:15 |
+| 80 | [One December Night](https://open.spotify.com/track/6xgqGs263ednVh1U69IYPt) | [Paul Van De Vlasakker](https://open.spotify.com/artist/65UwmvLXL5ZiP8fJi2UgpP) | [Christmas Without Words \(Acoustic Fingerstyle Guitar\)](https://open.spotify.com/album/6bwML2qC1rmknLNhkbfSBr) | 3:07 |
+| 81 | [Wexford Carol](https://open.spotify.com/track/0i4aWVfoN2YqUcRgDON9J7) | [Robin Bullock](https://open.spotify.com/artist/2ZKp4SlkqlTHfKIx46BvS0) | [A Guitar for Christmas](https://open.spotify.com/album/3D9Ztd1NJ9UM16HqnAI0jo) | 2:48 |
 
-Snapshot ID: `ZYGM4AAAAACJ9sz3o7/hGA1TuCT+CuBK`
+Snapshot ID: `ZmcMjgAAAAAtuXIfi9bjwR9vw50lA+Vp`

@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "morning passage & sunday poetry",
+        "url": "https://open.spotify.com/album/0yrOgkbj2pMCarjW8Ha2Wl"
+      },
+      "artists": [
+        {
+          "name": "one master key",
+          "url": "https://open.spotify.com/artist/7tYH9lZ44lvMea9dhS0lkF"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157357,
+      "name": "morning passage",
+      "url": "https://open.spotify.com/track/4LDRJW64zyZEUBXuhxmmIo"
+    },
+    {
+      "album": {
         "name": "Vision Dreamscape",
         "url": "https://open.spotify.com/album/0fQ9nrYb4OjJt2MJ5PKnga"
       },
@@ -3034,6 +3052,24 @@
       "duration_ms": 163291,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/1EdwbKGvRwGJk1zhZJW9h7"
+    },
+    {
+      "album": {
+        "name": "Truth or Love",
+        "url": "https://open.spotify.com/album/3Caoe34PkzxAbBxSe3H0JZ"
+      },
+      "artists": [
+        {
+          "name": "Starchaserz",
+          "url": "https://open.spotify.com/artist/5MIBtP87scZ53LF7IYtBvT"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162804,
+      "name": "Wide Eyes",
+      "url": "https://open.spotify.com/track/317Ut7ZO0anim7OfrlvUC2"
     },
     {
       "album": {

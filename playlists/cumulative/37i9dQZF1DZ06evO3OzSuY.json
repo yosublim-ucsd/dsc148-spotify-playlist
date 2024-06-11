@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 233375,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1r5f90h75wkkd0eQYMWiqL"
@@ -170,10 +170,28 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 181506,
       "name": "Dig Down Deeper",
       "url": "https://open.spotify.com/track/67sdRAA6JzTA0pJxLzNR5g"
+    },
+    {
+      "album": {
+        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
+        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "Dig Down Deeper",
+      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
     },
     {
       "album": {
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 191173,
       "name": "Heaven Lost an Angel",
       "url": "https://open.spotify.com/track/6x0Tov4xcIoHK7DN1BiEsM"
@@ -476,7 +494,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 209186,
       "name": "Replay",
       "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
@@ -498,7 +516,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 217440,
       "name": "Rewrite The Stars",
       "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 212906,
       "name": "Something New",
       "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"

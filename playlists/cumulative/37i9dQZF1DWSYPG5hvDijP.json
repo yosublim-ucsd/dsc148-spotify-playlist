@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 165473,
       "name": "Damh",
       "url": "https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS"
@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Mastr Mynd",
+        "url": "https://open.spotify.com/album/3cCV0857Ly22ZUR9NghLLK"
+      },
+      "artists": [
+        {
+          "name": "V Break",
+          "url": "https://open.spotify.com/artist/1Rgi8SgT5uIsPSiP8jLxzr"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124814,
+      "name": "Mastr Mynd",
+      "url": "https://open.spotify.com/track/0vpv0yQg712JHunwmnC0Dw"
+    },
+    {
+      "album": {
         "name": "Matha Garam",
         "url": "https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9"
       },
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 186750,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6EtvIpTCxxWmtwQu0eL63C"
@@ -4538,6 +4556,24 @@
       "duration_ms": 194400,
       "name": "NAACH",
       "url": "https://open.spotify.com/track/26NYGk5ZLw1MkICybMV6mC"
+    },
+    {
+      "album": {
+        "name": "Naam Mera Young Nik",
+        "url": "https://open.spotify.com/album/2e9zFmhWGG1X616q65hQUD"
+      },
+      "artists": [
+        {
+          "name": "Young Nik",
+          "url": "https://open.spotify.com/artist/600CpGQB2XVttaLORD1vre"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Naam Mera Young Nik",
+      "url": "https://open.spotify.com/track/6cg3mBodjqwLr0zGmemoz2"
     },
     {
       "album": {

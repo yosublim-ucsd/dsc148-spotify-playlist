@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 270193,
       "name": "Can I Taste The Sin",
       "url": "https://open.spotify.com/track/1LzujHXH8krQ4xCS5z51ql"
@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Ellen Allien pres. We Are Not Alone, Pt. 7",
+        "url": "https://open.spotify.com/album/1VipFqIyC66WqnDUl6XKAy"
+      },
+      "artists": [
+        {
+          "name": "NAIX",
+          "url": "https://open.spotify.com/artist/6WUMTOcJ1F2B9FeyZCfNMw"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231357,
+      "name": "Current-Gen",
+      "url": "https://open.spotify.com/track/4wvL23u4iRSbT4g5Zf9mRV"
+    },
+    {
+      "album": {
         "name": "Devil's Playground EP",
         "url": "https://open.spotify.com/album/3s1fQm57PtESB8bZBUu8Gw"
       },
@@ -2230,6 +2248,28 @@
       "duration_ms": 455978,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/0FmDv077TklWn88ClheDTi"
+    },
+    {
+      "album": {
+        "name": "Ellen Allien pres. We Are Not Alone, Pt. 7",
+        "url": "https://open.spotify.com/album/1VipFqIyC66WqnDUl6XKAy"
+      },
+      "artists": [
+        {
+          "name": "Ayako Mori",
+          "url": "https://open.spotify.com/artist/6StQLFdLEc6XCwfS7Hfdmy"
+        },
+        {
+          "name": "Raul Alvarez",
+          "url": "https://open.spotify.com/artist/4FuO3cd0049uPgJaa7IYwZ"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271151,
+      "name": "Departure To",
+      "url": "https://open.spotify.com/track/4Fy8nX6C7A5u5v2UQYNPsN"
     },
     {
       "album": {

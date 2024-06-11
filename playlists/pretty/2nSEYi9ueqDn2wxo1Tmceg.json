@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Ela Minus",
-  "num_followers": 66947,
+  "num_followers": 66946,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPbmi3xJpVDmQVjbNuqCs4WSMzurga",
+  "snapshot_id": "AAAPb75lpeVt080kvb6HP9h89VweLt6B",
   "tracks": [
     {
       "added_at": "2024-06-05 09:25:48",
@@ -55,6 +55,30 @@
       "duration_ms": 188979,
       "name": "Honeycrash",
       "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
+    },
+    {
+      "added_at": "2024-06-10 09:17:58",
+      "album": {
+        "name": "The Most Beautiful House in Airdrie",
+        "url": "https://open.spotify.com/album/17JhIdt9GnKDFpiiaYbYez"
+      },
+      "artists": [
+        {
+          "name": "Stephen Pastel",
+          "url": "https://open.spotify.com/artist/1Mgkzst7Krb2uB3Ourbfby"
+        },
+        {
+          "name": "Gavin Thomson",
+          "url": "https://open.spotify.com/artist/19sJuu2SqWOfW8vDU2PHhL"
+        },
+        {
+          "name": "The Pastels",
+          "url": "https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP"
+        }
+      ],
+      "duration_ms": 218680,
+      "name": "The Most Beautiful House in Airdrie",
+      "url": "https://open.spotify.com/track/0jYLOupmWz7ue01rxZ3b6S"
     },
     {
       "added_at": "2024-06-05 09:25:48",

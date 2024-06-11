@@ -1,13 +1,29 @@
 {
-  "description": "This is Taio Cruz. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 16982,
+  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
+  "num_followers": 16984,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAADpr4euIpAooUfY9yoQD/8B",
+  "snapshot_id": "ZmTwgAAAAAA9OSvbILEfreQj3tRm679+",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
     {
       "added_at": null,
       "album": {
@@ -211,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "World In Our Hands",
+      "url": "https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catch 22",
         "url": "https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY"
       },
@@ -231,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Booty Bounce",
-        "url": "https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "Booty Bounce - Extended Mix",
-      "url": "https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -267,6 +279,26 @@
       "duration_ms": 218853,
       "name": "Dirty Picture",
       "url": "https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Booty Bounce",
+        "url": "https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Booty Bounce - Extended Mix",
+      "url": "https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG"
     },
     {
       "added_at": null,
@@ -347,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TY.O (International Version)",
-        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Shotcaller",
-      "url": "https://open.spotify.com/track/0lDKFNICklCakXQibsADpK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me On You",
         "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "I'll Never Love Again",
-      "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do What You Like",
         "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 200340,
       "name": "Do What You Like",
       "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "I'll Never Love Again",
+      "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 212613,
       "name": "Come On Girl",
       "url": "https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Can't Say Go",
-      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 206253,
       "name": "Take Me Back - 2010 Remix",
       "url": "https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Can't Say Go",
+      "url": "https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU"
     },
     {
       "added_at": null,
@@ -595,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Forever Love",
+      "url": "https://open.spotify.com/track/5nYKbY6oLHEyRmt3dNlATa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK"
       },
@@ -611,22 +643,6 @@
       "duration_ms": 257213,
       "name": "Take Me Back Remix - feat. Sway & Chipmunk",
       "url": "https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Forever Love",
-      "url": "https://open.spotify.com/track/5nYKbY6oLHEyRmt3dNlATa"
     },
     {
       "added_at": null,
@@ -663,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Feel Again - Remastered 2010",
+      "url": "https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Third Strike",
         "url": "https://open.spotify.com/album/2FpLsBqaonzdN5GrpQIZmJ"
       },
@@ -679,22 +711,6 @@
       "duration_ms": 208626,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0vsKn0USf81XicoIV9XZ0P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Feel Again - Remastered 2010",
-      "url": "https://open.spotify.com/track/0SDV4Wvg7q19B2dQwAv2HB"
     },
     {
       "added_at": null,

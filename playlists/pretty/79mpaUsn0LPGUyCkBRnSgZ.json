@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGD5C9C2gsZZpgsKCiIpPcwXSOYVW4",
+  "snapshot_id": "AAAGErAqqJ96kpRvVIbqpyigno8n+OEc",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -2545,22 +2545,6 @@
       "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
     },
     {
-      "added_at": "2023-05-19 06:10:48",
-      "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 283752,
-      "name": "Five Years - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi"
-    },
-    {
       "added_at": "2023-05-20 23:07:37",
       "album": {
         "name": "Everything Harmony",
@@ -4727,22 +4711,6 @@
       "duration_ms": 225920,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/3l4cnZdtNbVZgV3ICYh1Ni"
-    },
-    {
-      "added_at": "2024-01-06 03:40:46",
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "I Still Do",
-      "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
     },
     {
       "added_at": "2024-01-06 15:26:59",
@@ -8323,6 +8291,26 @@
       "duration_ms": 156551,
       "name": "(\u2026)",
       "url": "https://open.spotify.com/track/10t3LYApAgfZi8ok52rj4e"
+    },
+    {
+      "added_at": "2024-06-11 02:53:22",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        },
+        {
+          "name": "Isa Reyes",
+          "url": "https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1"
+        }
+      ],
+      "duration_ms": 196389,
+      "name": "GET OFF UR PHONE",
+      "url": "https://open.spotify.com/track/4Y0dZtNmCOjaj5FaU3RQaY"
     }
   ],
   "unique_name": "Zacklog",

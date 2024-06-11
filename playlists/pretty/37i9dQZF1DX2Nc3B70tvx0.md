@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: AURORA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076,238 likes - 129 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,076,218 likes - 129 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

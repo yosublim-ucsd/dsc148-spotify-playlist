@@ -145,6 +145,24 @@
     },
     {
       "album": {
+        "name": "Bad Boy for Life",
+        "url": "https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE"
+      },
+      "artists": [
+        {
+          "name": "Vasovski Live",
+          "url": "https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128240,
+      "name": "Bad Boy For Life",
+      "url": "https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg"
+    },
+    {
+      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC"
       },

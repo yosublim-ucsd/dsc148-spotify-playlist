@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Infinito +1",
+        "url": "https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185364,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/4h8hAunpmncl15Xy6qDPAg"
+    },
+    {
+      "album": {
         "name": "Hotel Corallo",
         "url": "https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB"
       },
@@ -1011,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Hotel Corallo",
+        "url": "https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB"
+      },
+      "artists": [
+        {
+          "name": "YTAM",
+          "url": "https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177412,
+      "name": "La Verit\u00e0",
+      "url": "https://open.spotify.com/track/4zsg78rgHmPCw4IqQ5w0ME"
+    },
+    {
+      "album": {
         "name": "In Memoria",
         "url": "https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht"
       },
@@ -1321,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "ok :/",
+        "url": "https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "ok :/",
+      "url": "https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY"
+    },
+    {
+      "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ"
       },
@@ -1354,6 +1408,24 @@
       "duration_ms": 158896,
       "name": "okokok",
       "url": "https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq"
+    },
+    {
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124427,
+      "name": "okokokok",
+      "url": "https://open.spotify.com/track/5sEgA18Ex9pmqLPyf3ooTz"
     },
     {
       "album": {
@@ -1769,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Bambina",
+        "url": "https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        },
+        {
+          "name": "Vale LP",
+          "url": "https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "Soliloquio (feat. Vale LP)",
+      "url": "https://open.spotify.com/track/0jFMalinhTNl67iYNBfYSd"
+    },
+    {
+      "album": {
         "name": "projections on a human screen",
         "url": "https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP"
       },
@@ -1802,6 +1896,28 @@
       "duration_ms": 161249,
       "name": "Spacca",
       "url": "https://open.spotify.com/track/69rScwKrFucVdwIhViiAav"
+    },
+    {
+      "album": {
+        "name": "Bambina",
+        "url": "https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        },
+        {
+          "name": "EDONiCO",
+          "url": "https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Tarassaco e Lacrime Artificiali (feat. EDONiCO)",
+      "url": "https://open.spotify.com/track/1S86ppiA4TsDgTJW8Rt1IE"
     },
     {
       "album": {

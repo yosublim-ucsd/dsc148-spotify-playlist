@@ -2,7 +2,7 @@
 
 ### [Hot Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De 50 populairste hits van Nederland\. Cover: Zoë Tauran & Jonna Fraser
+> De 50 populairste hits van nu\. Cover: Zoë Tauran & Jonna Fraser
 
 299 songs - 14 hr 45 min
 

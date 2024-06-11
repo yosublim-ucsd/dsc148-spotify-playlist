@@ -1,6 +1,6 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:  VIONA",
-  "num_followers": 63492,
+  "num_followers": 63495,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
@@ -303,7 +303,7 @@
     {
       "added_at": "2024-06-06 17:00:00",
       "album": {
-        "name": "No Love (Remix Version)",
+        "name": "No Love (Zeeko Remix)",
         "url": "https://open.spotify.com/album/3ecgpyAmal3B5uzVk7XfAq"
       },
       "artists": [
@@ -317,7 +317,7 @@
         }
       ],
       "duration_ms": 235723,
-      "name": "No Love - Remix Version",
+      "name": "No Love - Zeeko Remix",
       "url": "https://open.spotify.com/track/7xGuD09FXw0MhWdq5AdCOb"
     },
     {
@@ -1088,16 +1088,16 @@
           "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
         },
         {
-          "name": "Jacqueline Caroline",
-          "url": "https://open.spotify.com/artist/52LJzMsGNONHXMC3F0YTeq"
-        },
-        {
           "name": "Niel Larumunde",
           "url": "https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O"
         },
         {
           "name": "Nael Larumunde",
           "url": "https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT"
+        },
+        {
+          "name": "Jacqueline Caroline",
+          "url": "https://open.spotify.com/artist/52LJzMsGNONHXMC3F0YTeq"
         }
       ],
       "duration_ms": 152839,

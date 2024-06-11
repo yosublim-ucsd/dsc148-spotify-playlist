@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,433 songs - 3 day 6 hr 21 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,444 songs - 3 day 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1441,5 +1441,16 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1431 | [INSIDE](https://open.spotify.com/track/4HOJX4Agh7QwLkWpzXQb6s) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [INSIDE](https://open.spotify.com/album/34zTublgmgEIai6impym4m) | 2:59 |
 | 1432 | [Broken](https://open.spotify.com/track/036CdpEXVShFxaER0K7LVW) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Broken](https://open.spotify.com/album/2ztwiWqRfRRpNF5Gd5rwp7) | 3:27 |
 | 1433 | [Step By Step](https://open.spotify.com/track/4jsJfGlnvk287nUPHpXo2i) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Step By Step](https://open.spotify.com/album/0UAJBDPq8gzJ3bt7C2Tnmq) | 2:24 |
+| 1434 | [Never Stop](https://open.spotify.com/track/28LRBhmYrn247ibxNrjmCq) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Never Stop](https://open.spotify.com/album/0vsdItrNRWWG9FvDwj9OmN) | 2:05 |
+| 1435 | [The Core Citadel \(Official Dominator 2024 Anthem\)](https://open.spotify.com/track/61MnaF1mjRxrEFVgOZoVUz) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [The Core Citadel \(Official Dominator 2024 Anthem\)](https://open.spotify.com/album/1ApNZvKwn2NAbo2pCAXVVz) | 4:12 |
+| 1436 | [West Dynasty \- Anthem Eskape 2024](https://open.spotify.com/track/6lcuDIAekGRiLyibTQ43pE) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [West Dynasty \(Anthem Eskape 2024\)](https://open.spotify.com/album/3N1RyUxrgC7ORYKTVF0uRE) | 3:16 |
+| 1437 | [Ignite The Game](https://open.spotify.com/track/0nuTsyzFtC6iqutS363mJM) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Glory Never Fades](https://open.spotify.com/album/2Z93aHtnWi5GD6pCKCgHs0) | 2:33 |
+| 1438 | [In The Dark](https://open.spotify.com/track/5JntmAfrMYsExS7a8pljz6) | [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4), [DMRC](https://open.spotify.com/artist/4KU7E8U1N4jXyhNhhjLNoO) | [In The Dark](https://open.spotify.com/album/09VxSRuVxVbz4kTSWgagP1) | 2:56 |
+| 1439 | [Please Don't Go](https://open.spotify.com/track/4HOr2xlc4Yun8M7t5LdFFc) | [Neko](https://open.spotify.com/artist/1Fx413KaORo2dLYrdZEBan), [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU) | [Please Don't Go](https://open.spotify.com/album/1uoz1qZOX7vEpT1jgjTn0y) | 4:05 |
+| 1440 | [Come Closer](https://open.spotify.com/track/3KxmFaDxmGtCGOoJI5FvYw) | [NVDR](https://open.spotify.com/artist/4Kg0afKjcIpz2mGr0wuiSu) | [Come Closer](https://open.spotify.com/album/4Nwrx4PvntEhxNbbuKiZ3P) | 3:20 |
+| 1441 | [To The Beat](https://open.spotify.com/track/4i9zmkmf3vcSqOF3aOp7nm) | [Uncaged](https://open.spotify.com/artist/2HDeehZ2osQxtP45Q1asqo), [Magistri](https://open.spotify.com/artist/1jKIo9QTqnLGMuwiZWXBKj) | [To The Beat](https://open.spotify.com/album/4jr0BKOG6ylarDnH6XN48o) | 3:03 |
+| 1442 | [COME 2 DADDY](https://open.spotify.com/track/6sxm18D8ySWK1c0NZX00k5) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [COME 2 DADDY](https://open.spotify.com/album/0ZNypRPkBYqmA9dLSXr8PJ) | 2:42 |
+| 1443 | [Two Girls One Trouble](https://open.spotify.com/track/6lMR5Egu0fd5EJLOySuhuM) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [Two Girls One Trouble](https://open.spotify.com/album/34X3wRGQPfNevTDKSSzIgw) | 2:36 |
+| 1444 | [Bankai](https://open.spotify.com/track/5rxmO0stn0eRfn8vU9h1NR) | [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Bankai](https://open.spotify.com/album/2Wpq1krvlY0IIMm2gqr3D0) | 2:30 |
 
-Snapshot ID: `AAAFxbZfRttD9Umr7S4zXGuwZvnsQ9BC`
+Snapshot ID: `AAAF0BWze8QDvCKDLmAHEGaPqageToFf`

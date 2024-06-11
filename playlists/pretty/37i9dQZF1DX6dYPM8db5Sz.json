@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg\">Year of Dogs</a> ",
-  "num_followers": 11707,
+  "num_followers": 11709,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/5JwdtXJVh8PHmPFP5mB47k"
     },
     {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "magic",
@@ -503,6 +519,22 @@
       "duration_ms": 253312,
       "name": "magic",
       "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
+    },
+    {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "Devil Mode",
+        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 184434,
+      "name": "Devil Mode",
+      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -523,38 +555,6 @@
       "duration_ms": 118603,
       "name": "ROLE MODEL",
       "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
-    },
-    {
-      "added_at": "2024-06-07 07:56:34",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
-    },
-    {
-      "added_at": "2024-06-07 07:56:34",
-      "album": {
-        "name": "Devil Mode",
-        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 184434,
-      "name": "Devil Mode",
-      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
     },
     {
       "added_at": "2024-06-07 07:56:34",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 136216,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu"
     },
     {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Experience the Al Bairre Show With Al Bairre Experience",
+        "url": "https://open.spotify.com/album/3mH4bT4mKi7nydIqqlrWDP"
+      },
+      "artists": [
+        {
+          "name": "Al Bairre",
+          "url": "https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Let's Fall in Love Some More",
+      "url": "https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv"
+    },
+    {
       "added_at": "2024-06-07 07:56:34",
       "album": {
         "name": "ROLE MODEL",
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Experience the Al Bairre Show With Al Bairre Experience",
-        "url": "https://open.spotify.com/album/3mH4bT4mKi7nydIqqlrWDP"
-      },
-      "artists": [
-        {
-          "name": "Al Bairre",
-          "url": "https://open.spotify.com/artist/3l3OXBVFtuPwDpQTGtXNjj"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Let's Fall in Love Some More",
-      "url": "https://open.spotify.com/track/1SZN00cfG8T8UxDmJeqjuv"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Penny Sleeps",
         "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Old Kid",
-        "url": "https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 209353,
-      "name": "Old Kid",
-      "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 144260,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Old Kid",
+        "url": "https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 209353,
+      "name": "Old Kid",
+      "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
     },
     {
       "added_at": "2024-06-07 07:56:34",

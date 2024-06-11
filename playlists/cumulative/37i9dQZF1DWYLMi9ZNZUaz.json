@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "Sau n\u00e0y b\u00e9 l\u1ea5y \ud83e\udd56 c\u1ee7a m\u1eb9 \u0111i c\u01b0a gh\u1ec7",
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Coldzy",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 274625,
       "name": "Flexin' Tr\u00ean Circle K 2",
       "url": "https://open.spotify.com/track/6WzAV66bgiqyxHTBlznb37"
@@ -1917,6 +1917,32 @@
     },
     {
       "album": {
+        "name": "L\u1ef1a Ch\u1ecdn C\u1ee7a Em",
+        "url": "https://open.spotify.com/album/2v1ZACaUYprXiqCOU7sEng"
+      },
+      "artists": [
+        {
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
+        },
+        {
+          "name": "V\u0169 Ph\u1ee5ng Ti\u00ean",
+          "url": "https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj"
+        },
+        {
+          "name": "\u0110\u1eadu T\u1ea5t \u0110\u1ea1t",
+          "url": "https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247843,
+      "name": "L\u1ef1a Ch\u1ecdn C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i"
+    },
+    {
+      "album": {
         "name": "magick (feat. T\u00e1o)",
         "url": "https://open.spotify.com/album/38ZKbjXwT4eOYd7KU87akr"
       },
@@ -2314,7 +2340,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
@@ -3688,6 +3714,24 @@
       "duration_ms": 197333,
       "name": "\u00c0 L\u00f4i",
       "url": "https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV"
+    },
+    {
+      "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "\u0110I B\u00c3O",
+      "url": "https://open.spotify.com/track/4SKNRnBqCeZl5wm0FVWEIQ"
     },
     {
       "album": {

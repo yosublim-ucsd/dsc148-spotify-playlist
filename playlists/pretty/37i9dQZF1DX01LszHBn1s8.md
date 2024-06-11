@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm looking for a man in finance, trust fund, 6'5, blue eyes 💍
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,084 likes - 948 songs - 2 day 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,061 likes - 948 songs - 2 day 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

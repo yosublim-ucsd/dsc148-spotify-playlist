@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 112304,
+  "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 112321,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAABbyg5gb7Au3FvXsBvdoCDJ",
+  "snapshot_id": "ZmTwgAAAAABilsVU/XSjNMH7KCT6ucmd",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
       "duration_ms": 172480,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/3YgsU6KawiLl25xqaUGEPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Que Me Lleve El Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
     },
     {
       "added_at": null,
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/56rimWaiTGwWRjYR1jnNTz"
+        "name": "Con Nuevos Horizontes",
+        "url": "https://open.spotify.com/album/6XYncu9rKiiMcrE2eCejpl"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 144448,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/1Zq6wA4IEjDo7qRZMsOcL4"
+      "duration_ms": 161071,
+      "name": "La Venganza Del Viejito",
+      "url": "https://open.spotify.com/track/0EXLXkgeAym7heIBtaoNbW"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Nuevos Horizontes",
-        "url": "https://open.spotify.com/album/6XYncu9rKiiMcrE2eCejpl"
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/56rimWaiTGwWRjYR1jnNTz"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 161071,
-      "name": "La Venganza Del Viejito",
-      "url": "https://open.spotify.com/track/0EXLXkgeAym7heIBtaoNbW"
+      "duration_ms": 144448,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/1Zq6wA4IEjDo7qRZMsOcL4"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 180768,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Nortenas Perronas",
         "url": "https://open.spotify.com/album/59YgyERllemGd1mRxZUGQh"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 150440,
       "name": "Lincoln Negro",
       "url": "https://open.spotify.com/track/3xjJ2rd1zCVqWySklVnwuF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 180768,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mensaje De Oro",
-        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 132597,
-      "name": "La Viudita",
-      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Experiencia Y Juventud",
         "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 197250,
       "name": "Senor Cantinero",
       "url": "https://open.spotify.com/track/0JE7SeFEDRiUrRY5ENtHs7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mensaje De Oro",
+        "url": "https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 132597,
+      "name": "La Viudita",
+      "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 260794,
       "name": "Por Eso La Deje",
       "url": "https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Con Fama",
-        "url": "https://open.spotify.com/album/0hfHMxy9lZgcQkEWHFP1xN"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 160040,
-      "name": "Lucio Vazquez",
-      "url": "https://open.spotify.com/track/5wuyzP3qa9FH5EPEr8ZevH"
     }
   ],
   "unique_name": "This Is Los Huracanes del Norte",

@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "amber lights",
+        "url": "https://open.spotify.com/album/4AVJJggB3lvbTxNCBQVTng"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120833,
+      "name": "amber lights",
+      "url": "https://open.spotify.com/track/4xbJ6k1wNNLtw9ZvAdgApZ"
+    },
+    {
+      "album": {
         "name": "american midsummer",
         "url": "https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd"
       },
@@ -20388,7 +20406,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 136551,
       "name": "Mistle",
       "url": "https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw"
@@ -21832,7 +21850,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 113846,
       "name": "New York",
       "url": "https://open.spotify.com/track/3n3sAbq1sUfR3c7qHYZO7X"
@@ -23380,7 +23398,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 148500,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/1B2KxrWP52AdVVqbPqr8Za"
@@ -25192,7 +25210,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 105729,
       "name": "Play and Stop",
       "url": "https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk"
@@ -30274,7 +30292,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"

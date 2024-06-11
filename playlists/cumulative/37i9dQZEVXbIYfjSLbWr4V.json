@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -1242,6 +1242,24 @@
       "duration_ms": 171640,
       "name": "Stress",
       "url": "https://open.spotify.com/track/3Dt7z7R0wCfSYqU5oqSpN2"
+    },
+    {
+      "album": {
+        "name": "SUNSHINE IN JULY",
+        "url": "https://open.spotify.com/album/2m619MA58ou1A8gyun1OHT"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160727,
+      "name": "SUNSHINE IN JULY",
+      "url": "https://open.spotify.com/track/7AaEI5nXd7NZQlhq8cKJQ8"
     },
     {
       "album": {
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 140326,
       "name": "\u0420\u0430\u0437\u0431\u0438\u0442\u044b\u0439 \u0443 \u043f\u043e\u0434\u044a\u0435\u0437\u0434\u0430",
       "url": "https://open.spotify.com/track/2HigbJOa1V99DokYU5vQ2U"
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 215301,
       "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"

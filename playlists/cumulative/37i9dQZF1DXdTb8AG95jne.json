@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "2 Minutes",
+        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120453,
+      "name": "2 Minutes",
+      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
+    },
+    {
+      "album": {
         "name": "2022/02/22",
         "url": "https://open.spotify.com/album/1WRZivz4Et1oExafBKnlCq"
       },
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 225160,
       "name": "Chum",
       "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"

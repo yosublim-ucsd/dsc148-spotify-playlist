@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 83993,
+  "num_followers": 84004,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAAAe5jiqWuSm1SAAoPKsP+B3",
+  "snapshot_id": "ZmTwgAAAAABWv2AAiisuc5jAe2hKCMRp",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
+        "url": "https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Song to the Earth",
         "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 231679,
       "name": "Love Song to the Earth",
       "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
-        "url": "https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT"
     },
     {
       "added_at": null,

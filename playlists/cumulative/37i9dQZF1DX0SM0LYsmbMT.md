@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,148 songs - 6 day 14 hr 25 min
+4,149 songs - 6 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2907,6 +2907,7 @@
 | [Renato](https://open.spotify.com/track/0S7QUkT5qMA3wXAge3xQxX) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Renato](https://open.spotify.com/album/74p8SxoJSY2gtaC6BlpTHa) | 1:58 | 2024-01-11 |  |
 | [Rendezvous](https://open.spotify.com/track/4xu21JgkSPpMq8mlZz4dVr) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Rendezvous](https://open.spotify.com/album/1e7SrKrWXit7LeAxmDYn8L) | 1:45 | 2021-10-09 | 2022-04-08 |
 | [repeat](https://open.spotify.com/track/0nBaWCfOOitktygBKunrEi) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Repeat](https://open.spotify.com/album/6GWuxQnRy3pz42gtgTOoTN) | 1:55 | 2019-11-29 | 2020-04-24 |
+| [Repose](https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Repose](https://open.spotify.com/album/76aywp7ONaQDLJjPLzDcl5) | 2:28 | 2024-06-06 |  |
 | [Repressed Emotions](https://open.spotify.com/track/3mBH7CsevvdO5VJEM8CuNt) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Mirror of Time](https://open.spotify.com/album/3l0sn0A0E5KvCWqvyw1jg9) | 2:21 | 2021-05-08 | 2021-06-11 |
 | [rescue mission in outer space](https://open.spotify.com/track/3nIIkIYuRkby3hfrnKdnpu) | [your best friend jippy](https://open.spotify.com/artist/2nyEmQWHkN4klNBWnNllLZ) | [rescue mission in outer space / without dreams](https://open.spotify.com/album/6sGQ1Ts7coIcAi1eevR2MI) | 1:20 | 2019-05-28 | 2019-09-27 |
 | [Resin](https://open.spotify.com/track/73FTS7ybPJJ3mVsF3uJTzE) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Resin](https://open.spotify.com/album/409Wzjyf9H3Q6XgdAZW7VL) | 2:38 | 2023-10-19 |  |
@@ -3473,7 +3474,7 @@
 | [Sunny Side Up](https://open.spotify.com/track/0phEMdWrUlc1nEA7mAfJmq) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Now / Again II](https://open.spotify.com/album/6WoUZsp2z2fbuKA9qir52T) | 2:45 | 2023-05-25 | 2023-06-02 |
 | [Sunny Splash](https://open.spotify.com/track/2nF4s65NYHSHUe0o0Oi1Ob) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Sunny Splash](https://open.spotify.com/album/4hu9ZLJGOObCQcA16nz6Rw) | 2:15 | 2021-08-07 | 2022-04-08 |
 | [Sunnyside](https://open.spotify.com/track/2RLDmgHy90GvMXRKnwBmCO) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Sunnyside](https://open.spotify.com/album/6KrxKlusJk0xeAoW2ceQdT) | 1:53 | 2020-07-11 | 2020-12-11 |
-| [Sunnyy](https://open.spotify.com/track/5ns3tAQAJl9WaUVbVvP9Z4) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Sunnyy](https://open.spotify.com/album/3w5VrF0jlNQKgE0lpXAAlF) | 3:30 | 2024-06-06 |  |
+| [Sunnyy](https://open.spotify.com/track/5ns3tAQAJl9WaUVbVvP9Z4) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Sunnyy](https://open.spotify.com/album/3w5VrF0jlNQKgE0lpXAAlF) | 3:30 | 2024-06-06 | 2024-06-11 |
 | [Sunrays](https://open.spotify.com/track/0axF0tI5LlxTE6i9BX09v8) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy) | [Sunrays](https://open.spotify.com/album/2bOeKNbapHEZRWji4jMtiz) | 1:47 | 2021-07-04 | 2022-07-01 |
 | [Sunrise](https://open.spotify.com/track/4PKSQrgb0AjGvpVu13SGkJ) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sunrise](https://open.spotify.com/album/7rxL7B9UgHkEfjAnzkLemS) | 2:37 | 2021-11-27 | 2021-12-13 |
 | [Sunrise](https://open.spotify.com/track/1GUIDegDYczbROa6MJIjYh) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [latespring](https://open.spotify.com/album/25nO7TS5kBvuPwIXQIt4ji) | 1:47 | 2021-04-02 | 2021-06-11 |

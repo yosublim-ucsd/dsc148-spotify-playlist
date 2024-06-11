@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: Ariana Grande",
-  "num_followers": 456497,
+  "num_followers": 456510,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,26 @@
     {
       "added_at": "2024-05-10 15:17:13",
       "album": {
-        "name": "Is It Love (goddard. Remix)",
-        "url": "https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh"
+        "name": "Lasting Lover (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5Et99TQHMNNxn8YhG0XuZu"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 158550,
-      "name": "Is It Love - goddard. Remix",
-      "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
+      "duration_ms": 212392,
+      "name": "Lasting Lover - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/3fIkn0ksMuH91GpflwmpJf"
     }
   ],
   "unique_name": "Massive Pop Remixes",

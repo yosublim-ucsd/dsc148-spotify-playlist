@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-343 songs - 19 hr 31 min
+344 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Heer Ranjha \(Reprise\)](https://open.spotify.com/track/1bqUw1KWD8e9SiZx9vXTNh) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Heer Ranjha \(Reprise\)](https://open.spotify.com/album/3SgxfvjAmlXnHYm7Ej3ix7) | 3:55 | 2023-05-17 | 2024-03-19 |
 | [Hello Soneya](https://open.spotify.com/track/1O2UBEsK0WMW77T04J8xW4) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shivam\-Anuj](https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Garuudaa On The Terrace \- Season 1](https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x) | 3:08 | 2024-05-28 |  |
 | [Hold On](https://open.spotify.com/track/3fzr0WQGh0sJEYflCVjyXH) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Starfish](https://open.spotify.com/album/1U83oaOX9s4WfrrzF45shm) | 2:59 | 2023-11-24 | 2024-02-06 |
-| [Honge Hum Kabhi](https://open.spotify.com/track/0yPRCt5GkA3A0yt3NGygXB) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Honge Hum Kabhi](https://open.spotify.com/album/4LFuytxIeNuE2huZ8NZ4gG) | 3:43 | 2024-04-29 |  |
+| [Honge Hum Kabhi](https://open.spotify.com/track/0yPRCt5GkA3A0yt3NGygXB) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Honge Hum Kabhi](https://open.spotify.com/album/4LFuytxIeNuE2huZ8NZ4gG) | 3:43 | 2024-04-29 | 2024-06-11 |
 | [Hum \(Reprise\)](https://open.spotify.com/track/2v9Sln7HcVBqUNc0zXvtbE) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:28 | 2023-08-04 | 2024-02-10 |
 | [Hum Dono](https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 3:41 | 2023-11-28 | 2024-04-01 |
 | [Humnava \(Reprise\)](https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Humnava \(Reprise\)](https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw) | 3:42 | 2023-06-23 | 2024-02-10 |
@@ -183,6 +183,7 @@
 | [Koi Matlab Nahi](https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Doie](https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6) | [Koi Matlab Nahi](https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM) | 2:57 | 2023-10-13 | 2023-11-25 |
 | [Kuch ghadi aur](https://open.spotify.com/track/3pwYsNSjZNzcp9wOt28gVI) | [Samiir](https://open.spotify.com/artist/6E4rMwXlr9mQh5BbSlw3oR), [Avanish Bhalla](https://open.spotify.com/artist/5RJvc3CEkxK4WVkeKzu9Dc) | [Kuch ghadi aur](https://open.spotify.com/album/6PD8Mtm1k4teXgjIY2QPRw) | 4:08 | 2023-07-28 | 2023-09-26 |
 | [Kuch Kam](https://open.spotify.com/track/3sHxLZsqf3wGMMm80O0mWM) | [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Kuch Kam](https://open.spotify.com/album/2bC8qwPlpC8CO1YpppXczb) | 2:32 | 2023-05-17 | 2023-07-13 |
+| [Kuch Mere Dil Ne Kaha Unplugged](https://open.spotify.com/track/13FfGxPUmrLvK5e1jNpuvX) | [Soumitra Dev Burman](https://open.spotify.com/artist/3533hsqoZQK4EPWhFXpCC7), [Viju Shah](https://open.spotify.com/artist/6PyJhjTC2Fk0cQTPvA5Edx), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Kuch Mere Dil Ne Kaha Unplugged](https://open.spotify.com/album/2W4JyCWR0cAXYet2PbZAcZ) | 2:47 | 2024-06-10 |  |
 | [Kya Bataya](https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Kya Bataya](https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt) | 3:34 | 2023-07-07 | 2023-07-18 |
 | [Kya Pata](https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G) | [Naheed](https://open.spotify.com/artist/43z0UwKntpjMtivlmq0BkI), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Kya Pata](https://open.spotify.com/album/0BIKCUslpeLuu5GDho6UYc) | 2:30 | 2023-05-17 | 2023-06-23 |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2023-05-17 | 2023-06-03 |

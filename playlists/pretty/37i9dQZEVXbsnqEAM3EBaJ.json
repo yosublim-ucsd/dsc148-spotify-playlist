@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADhYkxCcjpiq/5Y4Hc9JJfR",
+  "snapshot_id": "AAAAAAAAAABpNAz6uHq3zdn1xWDbK1F0",
   "tracks": [
     {
       "added_at": "2024-06-07 04:00:00",
@@ -44,9 +44,9 @@
           "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
         }
       ],
-      "duration_ms": 108946,
-      "name": "Singular Ecstasy",
-      "url": "https://open.spotify.com/track/08eqsJQJFs5rAqyeqwJAoZ"
+      "duration_ms": 104407,
+      "name": "Fortune Forecast",
+      "url": "https://open.spotify.com/track/3tBtYRKJXE8AEfsJCFGLGY"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -67,38 +67,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "V de Vendetta",
-        "url": "https://open.spotify.com/album/19EoBQStBV87G5qaKrb0Fv"
-      },
-      "artists": [
-        {
-          "name": "Dark Moor",
-          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
-        }
-      ],
-      "duration_ms": 300472,
-      "name": "V de Vendetta",
-      "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 446762,
-      "name": "The Call of Ktulu",
-      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Parklife (Live at Wembley Stadium)",
         "url": "https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY"
       },
@@ -115,6 +83,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "V de Vendetta",
+        "url": "https://open.spotify.com/album/19EoBQStBV87G5qaKrb0Fv"
+      },
+      "artists": [
+        {
+          "name": "Dark Moor",
+          "url": "https://open.spotify.com/artist/0YWKRTzA4kBceGwjywtMkh"
+        }
+      ],
+      "duration_ms": 300472,
+      "name": "V de Vendetta",
+      "url": "https://open.spotify.com/track/1uEfe0myg6FOpTazIPfPy1"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Quer\u00eda Saber",
         "url": "https://open.spotify.com/album/45rGX85ik14xfJT0oPGYme"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 348340,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/18S3d7Qxm462bVqqcdhwXy"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 446762,
+      "name": "The Call of Ktulu",
+      "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Boston Tea Party, Boston 1970",
-        "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 899651,
-      "name": "Guitar Solo / Jam - Live",
-      "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+        "name": "Boston Tea Party, Boston 1970",
+        "url": "https://open.spotify.com/album/24TZHrFBS55qRZ8G5SK575"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+      "duration_ms": 899651,
+      "name": "Guitar Solo / Jam - Live",
+      "url": "https://open.spotify.com/track/038YTyXDatDtKksEHRB5pG"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Bruce Springsteen & The E Street Band - The Born in the U.S.A. Tour '84 - '85",
-        "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 252366,
-      "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
-      "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "You Are Here (Ultimate Mix)",
         "url": "https://open.spotify.com/album/6A0BDzSzJVKRVo42EVoyo8"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 252648,
       "name": "You Are Here - Ultimate Mix",
       "url": "https://open.spotify.com/track/2W9WA18G7wqsPNfDOE9tVT"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band - The Born in the U.S.A. Tour '84 - '85",
+        "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 252366,
+      "name": "Downbound Train - Live at LA Memorial Coliseum, Los Angeles, CA - 9/27/1985",
+      "url": "https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Count Me Out",
-        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 252392,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Look At All the Things",
         "url": "https://open.spotify.com/album/6QXU3uN1jniAg8PPbvt9Gx"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 178609,
       "name": "Look At All the Things",
       "url": "https://open.spotify.com/track/5JcIqEaPTtCxXiF0ZwKLpq"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Count Me Out",
+        "url": "https://open.spotify.com/album/1ePPzs2oFi7S0PtgdJidgQ"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 252392,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/5Obhe5gMI1htOwRupTc5K2"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 241973,
-      "name": "The Things That Dreams Are Made of (Live)",
-      "url": "https://open.spotify.com/track/3HTn85at3ObUB2uYJT4Fhp"
+      "duration_ms": 262373,
+      "name": "Open Your Heart (Live)",
+      "url": "https://open.spotify.com/track/4I3e0GlbrnoFRZ8UOTDVIE"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Hooked On A Feeling - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 134052,
-      "name": "Hooked On A Feeling - Spotify Singles",
-      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -599,34 +599,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Poundcake (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
-        "url": "https://open.spotify.com/album/0v87iIJDHA8K4HTXISypxX"
+        "name": "Hooked On A Feeling - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 329147,
-      "name": "Poundcake - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
-      "url": "https://open.spotify.com/track/0aaj9GsSexGVLmhG2UCEhy"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240590,
-      "name": "Top 10 staTues tHat CriEd bloOd",
-      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+      "duration_ms": 134052,
+      "name": "Hooked On A Feeling - Spotify Singles",
+      "url": "https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -647,6 +631,22 @@
       "duration_ms": 260625,
       "name": "a bulleT w/ my namE On (feat. Underoath)",
       "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Poundcake (Live at the West End Marketplace, Dallas, TX, 12/4/1991)",
+        "url": "https://open.spotify.com/album/0v87iIJDHA8K4HTXISypxX"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 329147,
+      "name": "Poundcake - Live at the West End Marketplace, Dallas, TX, 12/4/1991",
+      "url": "https://open.spotify.com/track/0aaj9GsSexGVLmhG2UCEhy"
     },
     {
       "added_at": "2024-06-07 04:00:00",

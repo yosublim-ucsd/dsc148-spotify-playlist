@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Espoir",
+        "url": "https://open.spotify.com/album/2gObfg1YOCfzSU3iO0dw8m"
+      },
+      "artists": [
+        {
+          "name": "Jack Ame",
+          "url": "https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/6kQP79P9X01ukOS7vQH73V"
+    },
+    {
+      "album": {
         "name": "Etheral Ease",
         "url": "https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne"
       },
@@ -5698,6 +5716,24 @@
       "duration_ms": 152000,
       "name": "\u00c9jszakai",
       "url": "https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t"
+    },
+    {
+      "album": {
+        "name": "\u00c9toile Filante",
+        "url": "https://open.spotify.com/album/7MuvhPd12QlybjsIsQeGY1"
+      },
+      "artists": [
+        {
+          "name": "Coeur",
+          "url": "https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149187,
+      "name": "\u00c9toile Filante",
+      "url": "https://open.spotify.com/track/6el7dUWCVjTxmmuiJ5ZOZi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcBbGCLlic3p"

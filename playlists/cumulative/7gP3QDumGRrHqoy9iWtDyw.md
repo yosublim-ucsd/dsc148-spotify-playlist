@@ -4,7 +4,7 @@
 
 > 
 
-213 songs - 13 hr 53 min
+214 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Yes Man \- Radio Edit](https://open.spotify.com/track/47xypX1JI0skOo1wrqJpOP) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Yes Man](https://open.spotify.com/album/7kdcsS4EJ0lXtIS9kLhpqg) | 3:50 | 2023-01-05 |  |
 | [Yo Yo Get Funky \- Andre Zimmer Remix](https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Yo Yo Get Funky \(Andre Zimmer Remix\)](https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY) | 3:30 | 2024-03-11 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-19 |  |
+| [You Know](https://open.spotify.com/track/1xB5gt3cDATes2HlVs3ICe) | [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh) | [You Know](https://open.spotify.com/album/5WIcuwJXPhM2iutKiMOcyQ) | 3:04 | 2024-06-10 |  |
 | [You Know Where The Floor Is](https://open.spotify.com/track/1RnEVv1M950IEiklbd01j1) | [Bad Intentions](https://open.spotify.com/artist/1EJZkoVUvWhgY0OJvdAXHw), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [You Know Where The Floor Is](https://open.spotify.com/album/1mvKgax9KJhxdNRrVjtFyQ) | 3:48 | 2023-12-26 |  |
 | [You On My Mind A Lot](https://open.spotify.com/track/1J4H1G61STqSy3G6gQ1M0r) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [You On My Mind A Lot](https://open.spotify.com/album/7rW4yWJuSxMAAKAE8VWKNs) | 3:04 | 2024-03-18 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 167967,
+  "num_followers": 168012,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 321826,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/43Zp5dae11AgsnXKktKCUP"
-      },
-      "artists": [
-        {
-          "name": "ELLIOTT ARMEN",
-          "url": "https://open.spotify.com/artist/2BuC0YWHjFKnwj9fTG9qOt"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6FwQXU8dVDUoo09SGHAxSA"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Breath of Roma",
         "url": "https://open.spotify.com/album/7CweJaFaFVZLSQvCtDM05m"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 205840,
       "name": "Breath of Roma",
       "url": "https://open.spotify.com/track/7oHPHBLG6hOaGeBrkOUSS3"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/43Zp5dae11AgsnXKktKCUP"
+      },
+      "artists": [
+        {
+          "name": "ELLIOTT ARMEN",
+          "url": "https://open.spotify.com/artist/2BuC0YWHjFKnwj9fTG9qOt"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6FwQXU8dVDUoo09SGHAxSA"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Solide Mirage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
-          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
-        }
-      ],
-      "duration_ms": 203930,
-      "name": "1982 - English Version",
-      "url": "https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/0hrRzDQJNqOVeBT6EcOcBs"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 184954,
       "name": "Se dire au revoir",
       "url": "https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Solide Mirage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e0n\u00e7ois & The Atlas Mountains",
+          "url": "https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU"
+        }
+      ],
+      "duration_ms": 203930,
+      "name": "1982 - English Version",
+      "url": "https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Midnight In The Garden",
-        "url": "https://open.spotify.com/album/4vyY7OVLoRKoleCNVpK5qI"
-      },
-      "artists": [
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "As It Seems",
-      "url": "https://open.spotify.com/track/0gaKJGfV5ZOpLW202BGdVs"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Midnight In The Garden",
+        "url": "https://open.spotify.com/album/4vyY7OVLoRKoleCNVpK5qI"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "As It Seems",
+      "url": "https://open.spotify.com/track/0gaKJGfV5ZOpLW202BGdVs"
     },
     {
       "added_at": "2024-05-23 22:00:00",

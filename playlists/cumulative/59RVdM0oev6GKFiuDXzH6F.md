@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-680 songs - 1 day 9 hr 55 min
+681 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Back To This \(feat\. SoShy\)](https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [Back To This \(feat\. SoShy\)](https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0) | 2:37 | 2023-05-01 | 2023-05-24 |
 | [Back2Me](https://open.spotify.com/track/3OOdGP0bUSvrZyGqXD8rNR) | [Future Kings](https://open.spotify.com/artist/4oDkont73KiwJOLTDJuSHV), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Back2Me](https://open.spotify.com/album/31UMRo1h6DDL4Y1UA028Jx) | 2:43 | 2024-04-19 | 2024-04-26 |
 | [BAD](https://open.spotify.com/track/7HJ36tzl7OSLgFeRuCNvdZ) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [BAD](https://open.spotify.com/album/1EzcPlcG2jDgxZE7TuHVdR) | 2:21 | 2023-11-24 |  |
+| [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 | 2024-06-10 |  |
 | [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-17 |  |
 | [BADBOI](https://open.spotify.com/track/2shX2AfRy5SVxdiOVC7pEy) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6) | [BADBOI](https://open.spotify.com/album/0nA8t6L8TbLC9k58b6FmNf) | 2:30 | 2023-10-13 |  |
 | [Baila Con](https://open.spotify.com/track/5a291zhrgHNrJG7rcNiPKt) | [DYKMN](https://open.spotify.com/artist/14EmMLXXkINp4y0hVuG5xf) | [Baila Con](https://open.spotify.com/album/3z7iEcGXkQgSqC89lqPLXl) | 3:05 | 2024-04-12 | 2024-04-26 |

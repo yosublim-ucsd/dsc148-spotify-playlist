@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,037 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,046 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [Never Gonna Be](https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:45 |
 | 58 | [Monolove](https://open.spotify.com/track/7cFYuRcQbw0w2GAMWzyE7A) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [Swoush](https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm), [Eylia](https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30) | [Monolove](https://open.spotify.com/album/0XSgCWc7QGNt0gbILeLV1P) | 2:50 |
 | 59 | [Big & Bad Riddim](https://open.spotify.com/track/1MiQKWnyI47pXvW5wWf9ts) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Big & Bad Riddim](https://open.spotify.com/album/48MB8hbQNRWWy5C1DHa4WG) | 2:55 |
-| 60 | [2AM](https://open.spotify.com/track/0UnfBaTe7SjstnF5pZ488T) | [Pepé](https://open.spotify.com/artist/5Z4OIeXWXn0UMTPe8JL0Cx) | [2AM](https://open.spotify.com/album/0EGtk8cOVn7UhFClnpvDzf) | 3:06 |
+| 60 | [Rain](https://open.spotify.com/track/6JZj90z1LqUkSyhdT6PEKm) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Rain](https://open.spotify.com/album/1rWGsnrgkXJ8hc3DDGZL5l) | 4:16 |
 
 Snapshot ID: `Zll69gAAAAC42tpdZ7AbIyH4Nl5MzN1D`

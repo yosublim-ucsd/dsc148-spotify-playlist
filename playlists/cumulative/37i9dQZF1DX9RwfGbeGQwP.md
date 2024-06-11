@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,399 songs - 2 day 4 hr 42 min
+1,400 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1050,7 +1050,7 @@
 | [Sea Port](https://open.spotify.com/track/2fGypWrNxRC5d4mfRj1dhO) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Sea Port](https://open.spotify.com/album/072aBLfZApsYTpsDpkx4ht) | 2:12 | 2022-12-23 | 2023-10-06 |
 | [searching for santa](https://open.spotify.com/track/52D6IiqbbCsZPIJawLLLNx) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [searching for santa](https://open.spotify.com/album/3yqtcjN3GRsPOW3WwIPFsA) | 1:34 | 2022-11-11 | 2024-05-14 |
 | [Seaside](https://open.spotify.com/track/15tcjaWnq1bSdwVTv0wiiY) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Sea Breeze](https://open.spotify.com/album/11S2o3uAUSB97JYubhVuLI) | 2:17 | 2022-05-20 | 2022-11-26 |
-| [Seat](https://open.spotify.com/track/7K30wL2fXA9qxrTS9JR8Om) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Seat](https://open.spotify.com/album/5IE96K5o534sIruxtzBLcO) | 1:52 | 2023-06-05 |  |
+| [Seat](https://open.spotify.com/track/7K30wL2fXA9qxrTS9JR8Om) | [Moon Dog](https://open.spotify.com/artist/4SCLmeVjCP3cZyIVzqYG1K) | [Seat](https://open.spotify.com/album/5IE96K5o534sIruxtzBLcO) | 1:52 | 2023-06-05 | 2024-06-11 |
 | [seconds](https://open.spotify.com/track/6ZkCReU1yPck3lPBursVuV) | [moonboy](https://open.spotify.com/artist/4UkR948lZ7yLKOpfBClKUS) | [seconds](https://open.spotify.com/album/31FT8dEajCnrXhbfu6B3d3) | 2:02 | 2022-09-02 | 2023-01-13 |
 | [Seductive](https://open.spotify.com/track/1FfybNeLbpVeS2WYj9KKYE) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Seductive / Thames](https://open.spotify.com/album/1Y6IowHVCDaMN9wsxxYHwB) | 2:00 | 2022-08-12 | 2022-10-09 |
 | [See Jay](https://open.spotify.com/track/5UOEqPy7F43vKGjUgjKdwI) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [See Jay](https://open.spotify.com/album/1IvHZ7fFvEhAbMfkbRZC9K) | 2:12 | 2022-05-13 | 2022-05-20 |
@@ -1286,6 +1286,7 @@
 | [Treetop Bar](https://open.spotify.com/track/7aRtwRAhUhfYRgSEkCZudh) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Treetop Bar](https://open.spotify.com/album/3VVzDjClaJQFA3c0LeOnq7) | 2:14 | 2022-09-02 | 2023-09-16 |
 | [Tribute](https://open.spotify.com/track/5fMKcd9NdzsWwWxok0lRBf) | [Key One](https://open.spotify.com/artist/2cq2NiZBhEkb4xeKqulQro) | [Tribute](https://open.spotify.com/album/7GQSYRfkzuwIAtNE7IBZq9) | 1:52 | 2022-11-11 | 2023-09-29 |
 | [Trickling Sensation](https://open.spotify.com/track/23tXQ0uRXmtN5bfDFStTiv) | [Mushhi](https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk) | [Trickling Sensation](https://open.spotify.com/album/1ozf13oslOGNXKGByvlk48) | 2:24 | 2022-01-27 | 2022-05-27 |
+| [Triplo](https://open.spotify.com/track/5RpukHbnGDArxAsBV6Uk4W) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Triplo](https://open.spotify.com/album/5VqOQRx98N3whzppY6PvmO) | 2:08 | 2024-06-05 |  |
 | [Trissan](https://open.spotify.com/track/70AcTxRMHNHPFUmFIBbEeM) | [Broadfield](https://open.spotify.com/artist/31xnUAGInYfZnWxtB0BTZ3) | [Trissan](https://open.spotify.com/album/2pg9cuMoLFnK5CUhdtRsOH) | 1:59 | 2022-01-27 | 2022-06-10 |
 | [True Gentleman](https://open.spotify.com/track/3x1nDdG2C94iFi6eIjbNlO) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Solomon Alber](https://open.spotify.com/artist/2DZlO7jiqsJB04ZBntEKNY) | [True Gentleman](https://open.spotify.com/album/0pvumH5O8H2HRpkmFfIfDk) | 1:53 | 2022-08-19 | 2023-01-07 |
 | [Truly Another Classic](https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Truly Another Classic](https://open.spotify.com/album/08VaZry8R8XE1pA8N0OYfC) | 2:33 | 2022-07-22 | 2022-12-10 |

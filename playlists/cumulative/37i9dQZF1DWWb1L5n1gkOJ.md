@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-169 songs - 8 hr 2 min
+171 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Moonwalk](https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Moonwalk](https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We) | 2:57 | 2024-03-07 |  |
 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 | 2022-11-22 |  |
 | [Morning Lights](https://open.spotify.com/track/2r9QArmF6Z30UzUvDBgCy4) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Morning Lights](https://open.spotify.com/album/7JAleYk8JNdXN9ihY9Gy86) | 2:54 | 2022-10-12 |  |
+| [morning passage](https://open.spotify.com/track/4LDRJW64zyZEUBXuhxmmIo) | [one master key](https://open.spotify.com/artist/7tYH9lZ44lvMea9dhS0lkF) | [morning passage & sunday poetry](https://open.spotify.com/album/0yrOgkbj2pMCarjW8Ha2Wl) | 2:37 | 2024-06-10 |  |
 | [Moving Towns](https://open.spotify.com/track/2JiKbDaZcMTyzhEoDq2CUy) | [Cognitivity](https://open.spotify.com/artist/1M1SmUUUHhrSn1k8SEvBTV) | [Vision Dreamscape](https://open.spotify.com/album/0fQ9nrYb4OjJt2MJ5PKnga) | 2:59 | 2023-06-30 |  |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2022-10-12 |  |
 | [Night Traveller](https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Night Traveller](https://open.spotify.com/album/4Y6e0OS0PQTbUm6BPaxPly) | 2:37 | 2022-10-12 |  |
@@ -176,6 +177,7 @@
 | [Wanderstar](https://open.spotify.com/track/5cbkiCRy1LVLiAl1q64n2S) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Aphelion](https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3) | 2:40 | 2022-10-12 |  |
 | [Waves](https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 3:21 | 2022-11-22 |  |
 | [Weightless](https://open.spotify.com/track/1EdwbKGvRwGJk1zhZJW9h7) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Weightless](https://open.spotify.com/album/6ZdZF7zhOKer8UHfvb6M6V) | 2:43 | 2024-05-10 |  |
+| [Wide Eyes](https://open.spotify.com/track/317Ut7ZO0anim7OfrlvUC2) | [Starchaserz](https://open.spotify.com/artist/5MIBtP87scZ53LF7IYtBvT) | [Truth or Love](https://open.spotify.com/album/3Caoe34PkzxAbBxSe3H0JZ) | 2:42 | 2024-06-10 |  |
 | [Without U](https://open.spotify.com/track/2qkC6uOCQJX6JaND1peK3S) | [Rania Lees](https://open.spotify.com/artist/6pYz2qzA7QjTB03XMd9cdJ) | [Without U](https://open.spotify.com/album/05H4wQDpRpe6vyAJw5bT6i) | 2:18 | 2022-10-12 |  |
 
 \*This playlist was first scraped on 2022-10-28. Prior content cannot be recovered.

@@ -4571,6 +4571,24 @@
     },
     {
       "album": {
+        "name": "The HU Live At Glastonbury",
+        "url": "https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Upright Destined Mongol - Live at Glastonbury",
+      "url": "https://open.spotify.com/track/3BJdlHZDQbEKskhdn0pF7r"
+    },
+    {
+      "album": {
         "name": "Voodoo Doll",
         "url": "https://open.spotify.com/album/4tCEwMi6DenPYV1j8sUOlv"
       },
@@ -5080,6 +5098,24 @@
       "duration_ms": 253863,
       "name": "Yuve Yuve Yu (feat. From Ashes to New)",
       "url": "https://open.spotify.com/track/3Ksb0Eq6OmtmYuraqpsijU"
+    },
+    {
+      "album": {
+        "name": "The HU Live At Glastonbury",
+        "url": "https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300395,
+      "name": "Yuve Yuve Yu - Live at Glastonbury",
+      "url": "https://open.spotify.com/track/5Ru9o5ylBHzwmG3up45hDv"
     },
     {
       "album": {

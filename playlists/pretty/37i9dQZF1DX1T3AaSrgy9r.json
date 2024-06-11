@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 127203,
+  "num_followers": 127262,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Since I Left You",
-        "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 288346,
-      "name": "Frontier Psychiatrist",
-      "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Since I Left You",
+        "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 288346,
+      "name": "Frontier Psychiatrist",
+      "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
     },
     {
       "added_at": "2021-07-14 17:36:34",

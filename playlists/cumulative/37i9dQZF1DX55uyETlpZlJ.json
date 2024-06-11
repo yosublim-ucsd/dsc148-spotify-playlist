@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 290005,
       "name": "Bere Tara",
       "url": "https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG"
@@ -1290,6 +1290,24 @@
       "duration_ms": 209200,
       "name": "Chitte (Tulu Song)",
       "url": "https://open.spotify.com/track/2Y2taD5g0t8aXsw7LWA3J7"
+    },
+    {
+      "album": {
+        "name": "Cup Namdu",
+        "url": "https://open.spotify.com/album/4Ra460PZ9uiMb4wBwo8dva"
+      },
+      "artists": [
+        {
+          "name": "Parvez Ahmed",
+          "url": "https://open.spotify.com/artist/2mYPXgVAHd01UcZP1m1Vbp"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121043,
+      "name": "Cup Namdu",
+      "url": "https://open.spotify.com/track/6WEYexjIqGmkb7F0UILxpG"
     },
     {
       "album": {
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 295687,
       "name": "Homecoming (The Ayodhya Anthem) - Kannada",
       "url": "https://open.spotify.com/track/6SQAUBzXknH8EGJ4aynrSk"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 177923,
       "name": "Kaarana",
       "url": "https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r"
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 202746,
       "name": "Kanna Muche Kaade Goode",
       "url": "https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh"
@@ -3458,7 +3476,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 96018,
       "name": "MADE IN KARNATAKA",
       "url": "https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb"
@@ -4368,6 +4386,24 @@
       "duration_ms": 244528,
       "name": "Naguve",
       "url": "https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD"
+    },
+    {
+      "album": {
+        "name": "Namma Bainduru",
+        "url": "https://open.spotify.com/album/5pVNIDfgtIGmIQ87MD0yvn"
+      },
+      "artists": [
+        {
+          "name": "Akshay Badamane",
+          "url": "https://open.spotify.com/artist/0Bm4jb0z86yN1kdXqtNU30"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119037,
+      "name": "Namma Bainduru",
+      "url": "https://open.spotify.com/track/3m29zPPLr4dUXPiQU6RrMx"
     },
     {
       "album": {
@@ -6260,6 +6296,32 @@
       "duration_ms": 218122,
       "name": "Sajana Re",
       "url": "https://open.spotify.com/track/2J9fnmKHJcOKmIgt8IXqe5"
+    },
+    {
+      "album": {
+        "name": "Sakkare Chakori - Kannada (feat. Bela Fleck)",
+        "url": "https://open.spotify.com/album/5e2iPdKcYMiG6dJxNr356c"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Kiran Kaverappa",
+          "url": "https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295135,
+      "name": "Sakkare Chakori - Kannada (feat. Bela Fleck)",
+      "url": "https://open.spotify.com/track/4IB9wfkGxPOLF4br2rPZvp"
     },
     {
       "album": {

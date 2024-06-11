@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: RAYE
 
-5,594 songs - 11 day 14 hr 37 min
+5,595 songs - 11 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1739,6 +1739,7 @@
 | [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 | 2022-09-17 | 2022-09-24 |
 | [Forgive And Forget](https://open.spotify.com/track/2MrEdxp4r5dv6npQidfHNC) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Forgive And Forget](https://open.spotify.com/album/0FiWYz6w75d66of4Hd55rS) | 2:38 | 2023-03-24 | 2023-04-09 |
 | [forgive and forget](https://open.spotify.com/track/2KWOQiWBJDDedeDeHRsF87) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [forgive and forget](https://open.spotify.com/album/7iZcU7LHYUbgHleJKhlEkD) | 2:54 | 2023-05-26 | 2023-06-10 |
+| [Forgive Me](https://open.spotify.com/track/6GZ1fXt4LMbYxqsh4KkzoU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:51 | 2024-06-10 |  |
 | [Forgot About You](https://open.spotify.com/track/4hg4C9pqzoNW3sIFfoNrNL) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Forgot About You](https://open.spotify.com/album/64f35H4RwwAQ2h03NNSRHj) | 3:08 | 2023-10-20 | 2023-11-11 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-19 | 2024-05-04 |
 | [Forwards & Backwards](https://open.spotify.com/track/7Fg9PYY7z1MHvlOK6Z6z5H) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Forwards & Backwards](https://open.spotify.com/album/723y0nUwGHFFiScIqi0xGf) | 2:58 | 2022-04-08 | 2022-04-29 |
@@ -2295,7 +2296,7 @@
 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 | 2023-09-22 | 2023-10-07 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 | 2023-12-09 |
 | [House](https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [House](https://open.spotify.com/album/6D6kw82gz48fycksFloqS5) | 3:10 | 2024-04-05 | 2024-04-27 |
-| [House Down](https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [House Down](https://open.spotify.com/album/2ir3ghqP2yPb1ECCXPjJim) | 3:05 | 2024-05-31 |  |
+| [House Down](https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [House Down](https://open.spotify.com/album/2ir3ghqP2yPb1ECCXPjJim) | 3:05 | 2024-05-31 | 2024-06-11 |
 | [House For Kings](https://open.spotify.com/track/5QcT02qFxTVG8pan86W1Ab) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [House For Kings](https://open.spotify.com/album/4Zligq6DUjH3Z2bbVAjgpL) | 3:20 | 2023-06-02 | 2023-06-17 |
 | [House Of Lies](https://open.spotify.com/track/2fDmoxD2vvCHj9XgR9wRJD) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [House Of Lies](https://open.spotify.com/album/4DwBDOqbVG4pgm7ON3X7E7) | 3:14 | 2024-01-26 | 2024-02-17 |
 | [House on a Hill](https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY) | 3:18 | 2023-06-30 | 2023-07-15 |

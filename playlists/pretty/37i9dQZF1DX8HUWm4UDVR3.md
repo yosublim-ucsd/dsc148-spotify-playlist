@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : RORI
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,166 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,796 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Nuit d'hiver](https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nuit d'hiver](https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH) | 3:08 |
 | 50 | [Morose](https://open.spotify.com/track/6h9sz00y2BxWK7luVV5moD) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Je cherche encore...](https://open.spotify.com/album/4NTg4TxZozULTYTH2evyuA) | 2:49 |
 
-Snapshot ID: `ZmIxYAAAAABn591E0ceyaqjJPJzqGk3w`
+Snapshot ID: `ZmdDSAAAAAB+v+urxmvECwd5uuKbMOgg`

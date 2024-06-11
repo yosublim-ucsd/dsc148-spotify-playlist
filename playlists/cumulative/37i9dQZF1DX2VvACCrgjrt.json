@@ -4909,6 +4909,28 @@
     },
     {
       "album": {
+        "name": "Find The Silence",
+        "url": "https://open.spotify.com/album/6nHeqnaMPoaKho9IzF2rzF"
+      },
+      "artists": [
+        {
+          "name": "Michael Phase",
+          "url": "https://open.spotify.com/artist/378Z69odCtM7EU6FtWrogE"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221547,
+      "name": "Find The Silence",
+      "url": "https://open.spotify.com/track/0E8RqU03Sd4OazufBdA8NY"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
       },
@@ -7164,7 +7186,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 232233,
       "name": "I Get Deep",
       "url": "https://open.spotify.com/track/7Ac0aww23C1zyZHAo6iyUB"

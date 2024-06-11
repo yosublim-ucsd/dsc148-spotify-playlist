@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A fleeting dream",
+        "url": "https://open.spotify.com/album/4INiB9gRGZtemmsbmPJk8L"
+      },
+      "artists": [
+        {
+          "name": "Life Flows",
+          "url": "https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189089,
+      "name": "A fleeting dream",
+      "url": "https://open.spotify.com/track/1ep1736DQmQJIgv294Zgwi"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/3VD9sJqEFEWtv9KjQaXYt1"
       },
@@ -586,6 +604,24 @@
       "duration_ms": 186773,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2vx0jQ9EMGFcQNiY1wEThp"
+    },
+    {
+      "album": {
+        "name": "Breathe Air",
+        "url": "https://open.spotify.com/album/5ccQKHVT0xMQRyIzyB8Uga"
+      },
+      "artists": [
+        {
+          "name": "Echoella",
+          "url": "https://open.spotify.com/artist/2JuyhYpdLougs9BMiRdEtM"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177062,
+      "name": "Breathe Air",
+      "url": "https://open.spotify.com/track/11g6gaDovbvQnhoeYPsARX"
     },
     {
       "album": {
@@ -2249,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Lenient",
+        "url": "https://open.spotify.com/album/7BnqhPnLLoHcFHiVwNcGrn"
+      },
+      "artists": [
+        {
+          "name": "Lake Geneva",
+          "url": "https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169092,
+      "name": "Lenient",
+      "url": "https://open.spotify.com/track/0eu0n8aWHvHtjb0vhD2V0v"
+    },
+    {
+      "album": {
         "name": "Leontopodium",
         "url": "https://open.spotify.com/album/6m0863uAuoweadPHYEmDze"
       },
@@ -2534,6 +2588,24 @@
       "duration_ms": 180000,
       "name": "Merged Feelings",
       "url": "https://open.spotify.com/track/6Su2LAA8jvd1cDaJ9K5AS4"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/7ee8YAMGQxPXYN8D1oAFYQ"
+      },
+      "artists": [
+        {
+          "name": "JOMALU",
+          "url": "https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4vwbqH7myzCubsyzZMbf0z"
     },
     {
       "album": {
@@ -3239,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Perfect Lovers",
+        "url": "https://open.spotify.com/album/0M4L3Dw6Q3koE5egjYNaVs"
+      },
+      "artists": [
+        {
+          "name": "Ygor Ghensev",
+          "url": "https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167772,
+      "name": "Perfect Lovers",
+      "url": "https://open.spotify.com/track/29leBb5AutclXyZ6OSvB3u"
+    },
+    {
+      "album": {
         "name": "Perseum",
         "url": "https://open.spotify.com/album/2JeJTQl2vgOTbLMGUuWir6"
       },
@@ -3549,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "Refurnishing",
+        "url": "https://open.spotify.com/album/1saYEt5YGjj3cwskkpw7e3"
+      },
+      "artists": [
+        {
+          "name": "Jared Chance Taylor",
+          "url": "https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Refurnishing",
+      "url": "https://open.spotify.com/track/2baK2YeXyKKinyceIk2ewm"
+    },
+    {
+      "album": {
         "name": "Nautilus",
         "url": "https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL"
       },
@@ -3636,6 +3744,28 @@
       "duration_ms": 138250,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/2JRWjR3mlXJBg3uZwDPmBx"
+    },
+    {
+      "album": {
+        "name": "R\u00eave",
+        "url": "https://open.spotify.com/album/5jLY0s14waAHjROtVkPR6t"
+      },
+      "artists": [
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        },
+        {
+          "name": "Lauge",
+          "url": "https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "R\u00eave",
+      "url": "https://open.spotify.com/track/4Rlt6VqRiX9M7YDwP0BWUh"
     },
     {
       "album": {
@@ -3798,6 +3928,24 @@
       "duration_ms": 165600,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0Tan0vrdENegJ15DutFCxT"
+    },
+    {
+      "album": {
+        "name": "Shadows of Tomorrow",
+        "url": "https://open.spotify.com/album/1oTLwPFj6Gj6E3oNNU5FtL"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Monroe",
+          "url": "https://open.spotify.com/artist/2de6niJArhW4Ks6OBXaH5i"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133240,
+      "name": "Shadows of Tomorrow",
+      "url": "https://open.spotify.com/track/3MtlYAAhFp31a8ahd2ucqE"
     },
     {
       "album": {
@@ -4071,6 +4219,24 @@
     },
     {
       "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/1bkTAcMpC9Uz8M8jhMC0Ej"
+      },
+      "artists": [
+        {
+          "name": "IntoVerted",
+          "url": "https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/1QSMzz1EhKCvVAIlmvNh64"
+    },
+    {
+      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y"
       },
@@ -4086,6 +4252,24 @@
       "duration_ms": 229714,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq"
+    },
+    {
+      "album": {
+        "name": "Somnar",
+        "url": "https://open.spotify.com/album/3gb17k010Q3IJcAi4aupaV"
+      },
+      "artists": [
+        {
+          "name": "Ephemeral Odyssey",
+          "url": "https://open.spotify.com/artist/5If4W5LdMaQuxNjbWXqgif"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "Somnar",
+      "url": "https://open.spotify.com/track/4oArErAxzmHZNCv4t9RfdL"
     },
     {
       "album": {
@@ -4158,6 +4342,24 @@
       "duration_ms": 206000,
       "name": "Sonnambulismo",
       "url": "https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn"
+    },
+    {
+      "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/4SZHjPjuBPNkqXWSpsTWke"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sai",
+          "url": "https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162654,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/78g1EvC6Uv76bTnMaL0l35"
     },
     {
       "album": {
@@ -4251,6 +4453,24 @@
     },
     {
       "album": {
+        "name": "spring journey",
+        "url": "https://open.spotify.com/album/0k0HMqbMrgwNNpBTGstO8u"
+      },
+      "artists": [
+        {
+          "name": "Shamanic Atmo",
+          "url": "https://open.spotify.com/artist/4y7jPFMLLDDeZKyrVEAYbe"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210783,
+      "name": "spring journey",
+      "url": "https://open.spotify.com/track/7wC0rmtZjOfkO6jZkejIK8"
+    },
+    {
+      "album": {
         "name": "St Albans",
         "url": "https://open.spotify.com/album/3GnvX2yoV5wEj9E670lPAs"
       },
@@ -4284,6 +4504,24 @@
       "duration_ms": 179221,
       "name": "Starlight Song",
       "url": "https://open.spotify.com/track/6D1DLNT4FshLPwdiQ45rXu"
+    },
+    {
+      "album": {
+        "name": "Starlit Wonders",
+        "url": "https://open.spotify.com/album/6EWxTdxZ5VM9YiFUkKpB2r"
+      },
+      "artists": [
+        {
+          "name": "Aleksy Nowak",
+          "url": "https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121305,
+      "name": "Starlit Wonders",
+      "url": "https://open.spotify.com/track/5n6Vf4m22Bau1qW1dlfWay"
     },
     {
       "album": {
@@ -4971,6 +5209,60 @@
     },
     {
       "album": {
+        "name": "Velvet Nightfall Harmony",
+        "url": "https://open.spotify.com/album/5TdfVSHVMYYGHdl9fZiKJe"
+      },
+      "artists": [
+        {
+          "name": "Adirenne Lushara",
+          "url": "https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177001,
+      "name": "Velvet Nightfall Harmony",
+      "url": "https://open.spotify.com/track/7sSrGYdT5eCUiMwyQPbVhf"
+    },
+    {
+      "album": {
+        "name": "Vilol\u00e4ge",
+        "url": "https://open.spotify.com/album/2RrVomXCbXeJFyk8rAeNR8"
+      },
+      "artists": [
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Vilol\u00e4ge",
+      "url": "https://open.spotify.com/track/0X9iPlFmexWs5dakNGavU1"
+    },
+    {
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/4gPtTnoqsprT6JfaMP4Dnu"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/1t9XNkE62Ofl1yfvEBh7JP"
+    },
+    {
+      "album": {
         "name": "Vista",
         "url": "https://open.spotify.com/album/17VevRpQczCsbFV6gmqDDD"
       },
@@ -5040,6 +5332,24 @@
       "duration_ms": 170000,
       "name": "Watching Traffic",
       "url": "https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo"
+    },
+    {
+      "album": {
+        "name": "Way of Being",
+        "url": "https://open.spotify.com/album/3GGYUMMWxWpIFXEcKWkBhI"
+      },
+      "artists": [
+        {
+          "name": "Mindezer",
+          "url": "https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Way of Being",
+      "url": "https://open.spotify.com/track/7IeCOta1aZHt2GL81JpKsI"
     },
     {
       "album": {

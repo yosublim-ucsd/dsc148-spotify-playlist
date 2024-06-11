@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-160 songs - 7 hr 30 min
+161 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 | 2022-10-28 |  |
 | [Medium Rain and Intense NJ Thunder](https://open.spotify.com/track/67P3hjyYGjth8lNBl1gDsI) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 4:00 | 2023-01-13 |  |
 | [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 | 2022-10-28 |  |
+| [Mellow thunder and rain](https://open.spotify.com/track/4WJ0RB2TLZso1uM909iiCO) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Peaceful thunder](https://open.spotify.com/album/6afKR7sAMn3u2eB1sM1qvM) | 2:29 | 2024-06-10 |  |
 | [Midnight Rumble](https://open.spotify.com/track/4g38l5vKQZ3LrEYSMJW7R3) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:19 | 2023-02-13 |  |
 | [Mountain Thunderstorm](https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 | 2022-12-09 |  |
 | [Night Storm](https://open.spotify.com/track/1SirUENsOpONVZ7DKCg0VU) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [The Sound Of Thunder](https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR) | 2:17 | 2023-09-20 |  |
@@ -83,7 +84,7 @@
 | [Rain with Rolling and Clapping Thunder](https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 2:08 | 2022-10-28 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2022-10-28 |  |
 | [Rainy Day Dreams](https://open.spotify.com/track/1WYqPc88EJkS35D9Q4oEhY) | [The Calm Factory](https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s) | [Rainy Day Dreams](https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE) | 3:18 | 2023-09-20 | 2023-12-21 |
-| [Rainy Day Recollection](https://open.spotify.com/track/1RrPywE4wD8XCk73mawGjn) | [Somnolency](https://open.spotify.com/artist/6jBbuQOiZPrPl6Ehv7Lahb) | [Thunder For Deep Sleep](https://open.spotify.com/album/0Nxjd0DSpuLcwRfDcITZiq) | 3:15 | 2023-09-20 |  |
+| [Rainy Day Recollection](https://open.spotify.com/track/1RrPywE4wD8XCk73mawGjn) | [Somnolency](https://open.spotify.com/artist/6jBbuQOiZPrPl6Ehv7Lahb) | [Thunder For Deep Sleep](https://open.spotify.com/album/0Nxjd0DSpuLcwRfDcITZiq) | 3:15 | 2023-09-20 | 2024-06-11 |
 | [Rainy Day Reflections](https://open.spotify.com/track/23oM8TiE7yMHKombOjqzF0) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:31 | 2023-09-20 |  |
 | [Rainy Day Rendition](https://open.spotify.com/track/1CXYNnj8XDPrFIiaHeBW1q) | [Somnolency](https://open.spotify.com/artist/6jBbuQOiZPrPl6Ehv7Lahb) | [Thunder For Deep Sleep](https://open.spotify.com/album/0Nxjd0DSpuLcwRfDcITZiq) | 2:29 | 2023-09-20 | 2024-04-17 |
 | [Rainy Day Resolution](https://open.spotify.com/track/6ATt2O31KZ2Rpudg27B2cn) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 2:56 | 2023-09-20 | 2024-03-26 |

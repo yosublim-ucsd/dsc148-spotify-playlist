@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Enanitos Verdes. Los temas esenciales, todos en una lista.",
-  "num_followers": 188490,
+  "num_followers": 188518,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmOfAAAAAADzB96jWOH+Ir7q59YDqbvd",
+  "snapshot_id": "ZmTwgAAAAADxxJaLZLNQgCH/qXCMHOc2",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amores Lejanos",
+        "url": "https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "Amores Lejanos",
+      "url": "https://open.spotify.com/track/11AnIo9kTnjhtD06y5Zd5O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "Cada Vez Que Digo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 247000,
       "name": "Te V\u00ed en un Tren",
       "url": "https://open.spotify.com/track/1RsoepHup9zTCiOPHlR0pQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "Cada Vez Que Digo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda"
     },
     {
       "added_at": null,
@@ -275,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Tus Viejas Cartas",
-      "url": "https://open.spotify.com/track/4HfB46YTIChEV3Z3LoOFCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habitaciones Extra\u00f1as",
         "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 174360,
       "name": "El Extra\u00f1o del Pelo Largo",
       "url": "https://open.spotify.com/track/04A1a0YZUY9PKFhW06WSnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Tus Viejas Cartas",
+      "url": "https://open.spotify.com/track/4HfB46YTIChEV3Z3LoOFCD"
     },
     {
       "added_at": null,
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Tan Solo Un Instante",
-      "url": "https://open.spotify.com/track/5nkCX8swYXg7tMk9gemoOo"
+      "duration_ms": 215806,
+      "name": "Era Un Angel",
+      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
     },
     {
       "added_at": null,
@@ -599,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Igual Que Ayer",
-        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/2KPLQ2qLxKlUj0ltGusgVc"
       },
       "artists": [
         {
@@ -608,9 +624,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 215806,
-      "name": "Era Un Angel",
-      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
+      "duration_ms": 204973,
+      "name": "Tan Solo Un Instante",
+      "url": "https://open.spotify.com/track/5nkCX8swYXg7tMk9gemoOo"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habitaciones Extra\u00f1as",
-        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Sumar Tiempo No Es Sumar Amor",
-      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 A\u00f1os Celebrando",
         "url": "https://open.spotify.com/album/5SEEUhmdbhGv7G8PViKi0W"
       },
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra Gaucha",
-        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
       },
       "artists": [
         {
@@ -708,9 +708,29 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 207706,
-      "name": "El Dia Es Claro",
-      "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
+      "duration_ms": 219826,
+      "name": "Sumar Tiempo No Es Sumar Amor",
+      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iconos del Urbano",
+        "url": "https://open.spotify.com/album/2MuCH6Ojk6f2ee9jXj1jJ4"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6QxZFxjeolNSKDmWHmU4VU"
     },
     {
       "added_at": null,
@@ -727,6 +747,22 @@
       "duration_ms": 355293,
       "name": "Lamento Boliviano - En Vivo",
       "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra Gaucha",
+        "url": "https://open.spotify.com/album/2CtpmjNAaPOGDwcKgYPKac"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "El Dia Es Claro",
+      "url": "https://open.spotify.com/track/158FXFTt5lWmsD4uHmjgZZ"
     },
     {
       "added_at": null,
@@ -811,22 +847,6 @@
       "duration_ms": 246026,
       "name": "Tequila - En Vivo",
       "url": "https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tracci\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/7qu7sDMTGRKa3YTQSvJ0ga"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 272573,
-      "name": "No Me Veras / Metro Balderas - Medley",
-      "url": "https://open.spotify.com/track/0YxvtPIo6QQsdIX801mFNV"
     }
   ],
   "unique_name": "This Is Los Enanitos Verdes",

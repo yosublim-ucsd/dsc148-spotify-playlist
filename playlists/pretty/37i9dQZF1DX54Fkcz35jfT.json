@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Crossfaith",
-  "num_followers": 45007,
+  "num_followers": 45018,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg"
+        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
       },
       "artists": [
         {
-          "name": "waterweed",
-          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
         }
       ],
-      "duration_ms": 170232,
-      "name": "Cure",
-      "url": "https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB"
+      "duration_ms": 187800,
+      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
+      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
     },
     {
       "added_at": "2024-06-03 02:25:10",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-        "url": "https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL"
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg"
       },
       "artists": [
         {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+          "name": "waterweed",
+          "url": "https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ"
         }
       ],
-      "duration_ms": 187800,
-      "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
-      "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
+      "duration_ms": 170232,
+      "name": "Cure",
+      "url": "https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB"
     },
     {
       "added_at": "2024-06-03 02:25:10",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "SLAM",
-      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
-    },
-    {
-      "added_at": "2024-06-03 02:25:10",
-      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
+    },
+    {
+      "added_at": "2024-06-03 02:25:10",
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "SLAM",
+      "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"
     },
     {
       "added_at": "2024-06-03 02:25:10",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-03 02:25:10",
       "album": {
-        "name": "RARA",
-        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "NAME",
-      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
-    },
-    {
-      "added_at": "2024-06-03 02:25:10",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 251400,
       "name": "\u5bc2\u5bde -sekibaku-",
       "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+    },
+    {
+      "added_at": "2024-06-03 02:25:10",
+      "album": {
+        "name": "RARA",
+        "url": "https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "NAME",
+      "url": "https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2"
     },
     {
       "added_at": "2024-06-03 02:25:10",

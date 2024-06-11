@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-526 songs - 1 day 18 hr 45 min
+527 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-12-16 | 2023-12-01 |
 | [Accordia](https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:08 | 2022-11-23 | 2023-12-01 |
 | [Acumulee](https://open.spotify.com/track/3Zros7lzYTaBOZTwV9Ex3u) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Four to the Floor 14](https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm) | 10:48 | 2022-11-23 | 2022-12-13 |
-| [Addicted \- Drove Remix](https://open.spotify.com/track/5irKbb9het0b6B7pUoxlZ1) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 2:24 | 2024-05-23 |  |
+| [Addicted \- Drove Remix](https://open.spotify.com/track/5irKbb9het0b6B7pUoxlZ1) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 2:24 | 2024-05-23 | 2024-06-11 |
 | [Aerial Phenomenon](https://open.spotify.com/track/7KCHXlwd0rWHfSlz5CmTSr) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Encounter](https://open.spotify.com/album/7KYsXYxYko9FpBfG8jF0XH) | 4:17 | 2023-08-04 | 2023-09-02 |
 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-11-23 | 2023-08-22 |
 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
@@ -175,6 +175,7 @@
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-04-09 | 2023-11-05 |
 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-10-27 | 2024-04-19 |
 | [Glutes](https://open.spotify.com/track/6n85CqZrqbMjwQImS02tQx) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Glutes](https://open.spotify.com/album/5d62LwcW0OFVIHaE9IRlqM) | 7:29 | 2022-11-23 | 2022-12-17 |
+| [God Don't Leave Me Alone \(Adam Sellouk Remix\)](https://open.spotify.com/track/19VAPErGs8MwGm6Dxw0j1G) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [God Don't Leave Me Alone \(Adam Sellouk Remix\)](https://open.spotify.com/album/79rBQeuaASi0jgqLmijs2z) | 4:57 | 2024-06-06 |  |
 | [Good Time](https://open.spotify.com/track/1jm4IAFkPTpenVwLSURpIG) | [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj) | [Good Time / So High \(You Get Me\)](https://open.spotify.com/album/0uhxOD0lit7bsUE1BQFwey) | 4:27 | 2024-03-07 | 2024-03-16 |
 | [Gravity](https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Gravity](https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR) | 3:20 | 2023-02-04 | 2023-02-10 |
 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 | 2023-02-17 | 2023-10-18 |

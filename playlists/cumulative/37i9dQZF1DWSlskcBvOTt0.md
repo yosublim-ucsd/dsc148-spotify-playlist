@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-677 songs - 2 day 14 hr 23 min
+678 songs - 2 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-07-14 | 2024-04-19 |
 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 | 2021-04-21 | 2023-03-11 |
 | [Alright](https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Alright](https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw) | 6:52 | 2023-03-10 | 2023-04-16 |
-| [Always And Forever](https://open.spotify.com/track/70xiVqEhLeTwSh9fusgV7W) | [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Always And Forever](https://open.spotify.com/album/4x9Emr96LSwtycsHDI9FZi) | 3:43 | 2024-04-26 |  |
+| [Always And Forever](https://open.spotify.com/track/70xiVqEhLeTwSh9fusgV7W) | [Haska](https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Always And Forever](https://open.spotify.com/album/4x9Emr96LSwtycsHDI9FZi) | 3:43 | 2024-04-26 | 2024-06-11 |
 | [AMA](https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Mar+Mer](https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa) | [AMA](https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb) | 5:34 | 2024-01-12 |  |
 | [Amagugu](https://open.spotify.com/track/62kYBWjOtWdz0yrXVWRC72) | [KEKURA](https://open.spotify.com/artist/4XgFUd6zkzZDAy7M05zLbs), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Amagugu](https://open.spotify.com/album/5S34AcVCRZGgVdhaQArFD9) | 4:13 | 2024-05-10 | 2024-05-20 |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-12 |  |
@@ -390,6 +390,7 @@
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-20 | 2023-04-29 |
 | [Metropolis](https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Metropolis](https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj) | 4:33 | 2023-09-08 | 2023-10-29 |
 | [Mezcal](https://open.spotify.com/track/6dhXnd3p9TlLXHQm0fVYtA) | [MIGANOVA](https://open.spotify.com/artist/7JZgaqDtEI3wwdvfeEuWXT) | [Mezcal](https://open.spotify.com/album/0K7nRLxSiwSF4O42winWoH) | 6:48 | 2021-12-13 | 2022-04-21 |
+| [Midnight Train](https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD), [Warren Blake](https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1) | [Midnight Train](https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM) | 3:34 | 2024-06-07 |  |
 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 | 2023-09-01 | 2024-04-06 |
 | [Milkshake](https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Milkshake](https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw) | 6:54 | 2023-04-21 | 2023-05-25 |
 | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA) | 2:56 | 2023-11-03 | 2024-04-19 |

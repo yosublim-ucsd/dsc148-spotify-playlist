@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 140655,
       "name": "A Real Cowboy",
       "url": "https://open.spotify.com/track/4WT4fA8R0oE5rtuPBGLRNF"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 88053,
       "name": "A Storm Approaches",
       "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 85866,
       "name": "Breakfast Questions",
       "url": "https://open.spotify.com/track/3hm29wdB72MrNaLjC28kyN"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 69560,
       "name": "Ginny Sees the Light",
       "url": "https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 46866,
       "name": "Making Friends",
       "url": "https://open.spotify.com/track/7fuu4486VYc6FGKVPyVyia"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 70600,
       "name": "Royal Barge Disaster",
       "url": "https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 86133,
       "name": "Simiana Derby Race",
       "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 124973,
       "name": "Spring Passes Into Summer",
       "url": "https://open.spotify.com/track/3Q2dB7nmnKkaEjU9gtTPw4"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 82746,
       "name": "The Cracks Emerge",
       "url": "https://open.spotify.com/track/26mOsSaZlHtMtgrIQqxEl3"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 119240,
       "name": "The Landscape Medley",
       "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 78480,
       "name": "Whatever The Question",
       "url": "https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd"
@@ -2285,6 +2285,28 @@
     },
     {
       "album": {
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109573,
+      "name": "You Have Friends Now",
+      "url": "https://open.spotify.com/track/6hCkEs8KRfeTVNrD94zCYN"
+    },
+    {
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -2296,7 +2318,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 81320,
       "name": "Zoe's Snow Globes",
       "url": "https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk"

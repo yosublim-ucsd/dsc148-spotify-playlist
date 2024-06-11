@@ -2,7 +2,7 @@
 
 ### [This Is Chris Stapleton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Vjk40)
 
-> This Is Chris Stapleton\. Los temas esenciales, todos en una lista.
+> This is Chris Stapleton\. The essential tracks, all in one playlist.
 
 62 songs - 3 hr 57 min
 

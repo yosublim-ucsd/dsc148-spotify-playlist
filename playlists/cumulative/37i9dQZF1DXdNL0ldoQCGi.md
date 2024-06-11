@@ -4,7 +4,7 @@
 
 > aquela lá que tá viral no seu feed sabe
 
-526 songs - 1 day 2 hr 59 min
+527 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Let´s Go 4](https://open.spotify.com/track/3NU9HlJzAGxs3S7oE2QyF2) | [fpz](https://open.spotify.com/artist/6iApZhWkdXv40VOWDFAGFe) | [Let´s Go 4](https://open.spotify.com/album/4OvtSRAQWxnLMxgD2o3KOq) | 4:31 | 2023-08-30 | 2023-09-11 |
 | [ligações de alma](https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [ligações de alma](https://open.spotify.com/album/2iPtZn1xs1U1uL5VsNxY2a) | 2:59 | 2023-09-14 | 2023-10-11 |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2022-05-25 | 2022-09-22 |
-| [Like That!](https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Like That!](https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g) | 2:49 | 2024-04-19 |  |
+| [Like That!](https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Like That!](https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g) | 2:49 | 2024-04-19 | 2024-06-11 |
 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 | 2022-12-23 | 2023-01-10 |
 | [Linda Voz \(Olá\)](https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ) | [Sensações](https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p) | 4:29 | 2023-11-13 | 2024-02-04 |
 | [Locked Up](https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya) | 3:55 | 2022-08-29 | 2022-10-20 |
@@ -440,6 +440,7 @@
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-07-28 | 2022-08-18 |
 | [Something In The Way \- Remastered](https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(30th Anniversary Super Deluxe\)](https://open.spotify.com/album/0ezJun7CKk7Hh70MPL0dcJ) | 3:52 | 2022-05-25 | 2022-07-29 |
 | [Sonho](https://open.spotify.com/track/6DuJzDbnQxVLbOv1Y1Ix9N) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Label 67 \(Ao Vivo\)](https://open.spotify.com/album/3EipZjFInVdWgrda8PgoZf) | 4:16 | 2023-03-23 | 2023-10-24 |
+| [Sonho Dela \(Cowboy\)](https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Félix](https://open.spotify.com/artist/3KdqkzCC6uPPxW3ZV9vLtT), [Léo Souzza](https://open.spotify.com/artist/32q95UvnNYSiflLio02DnS) | [Sonho Dela \(Cowboy\)](https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq) | 1:53 | 2024-06-10 |  |
 | [Sorrisin de Puto](https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Sorrisin de Puto](https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv) | 2:17 | 2022-10-18 | 2023-03-11 |
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-11-08 |  |
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2022-05-25 | 2022-11-10 |

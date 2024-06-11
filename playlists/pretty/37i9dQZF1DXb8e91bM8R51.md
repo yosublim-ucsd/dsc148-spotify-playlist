@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,047 likes - 120 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,055 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,6 +127,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 117 | [What's Life \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [What's Life \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/6UzuK8kBzwIpKbEex4BouB) | 3:11 |
 | 118 | [Salute \(Feat\. Westside Gunn & Styles P\)](https://open.spotify.com/track/5TsCLsbsvXvezWJG0F7F5T) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 4:33 |
 | 119 | [Lifetime](https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lifetime](https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb) | 2:15 |
-| 120 | [Richies Part Two](https://open.spotify.com/track/20ZQoRdsUFbsBz1oXR9M6Z) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Richies Part Two](https://open.spotify.com/album/0p3kLBOLmz1aglgAzjPlWp) | 4:39 |
+| 120 | [ROSE STREET](https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [ROSE STREET](https://open.spotify.com/album/7CndERmuISXqBYNk7poimm) | 2:33 |
 
 Snapshot ID: `ZlAC7AAAAABLhYkyft4m4gwxGXfu57F3`

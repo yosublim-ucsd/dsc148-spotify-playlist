@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-418 songs - 22 hr 16 min
+419 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 | 2024-03-25 | 2024-03-31 |
 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 | 2024-05-28 |  |
 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 | 2024-04-21 | 2024-04-26 |
+| [MTG QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/13KLZ8VI9P7H7bxs0vtsXC) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [MTG QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7lxG16hpakQIeJJEuZxH3i) | 1:57 | 2024-06-10 |  |
 | [Municiones \- Guaracha Remix](https://open.spotify.com/track/2pHb9SVMtiIQDOPU3iky9l) | [Martin Moreno](https://open.spotify.com/artist/59h2d6LEgTjC8LUySW54EA), [Axel Martinez](https://open.spotify.com/artist/55a3tmLfnZaniwPDbTr5NF) | [Municiones \(Guaracha Remix\)](https://open.spotify.com/album/6XFROdE4mopCvzyKssELvL) | 2:57 | 2024-04-11 | 2024-04-19 |
 | [MUNICIONES GUARACHA](https://open.spotify.com/track/3r9NWQ0kkrxA3i6yE8PC87) | [DJ CHINO MAXI ROA](https://open.spotify.com/artist/47dsPhRhk9XBE369sTOdib), [Dj Luciano Troncoso](https://open.spotify.com/artist/14fjAuMMzVyFGJ86kfZcPN) | [MUNICIONES GUARACHA](https://open.spotify.com/album/2mhbj8Z3rf79ZQWZo0SPpv) | 2:10 | 2024-04-22 | 2024-05-15 |
 | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/track/5ug5mDxyHaWjViEiDlMPCN) | [Blaster DJ](https://open.spotify.com/artist/04tXa59qDOMrlU6mWs6aqT) | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/album/2nzIp9cVhwXGnMuapTxzqV) | 3:21 | 2024-01-29 | 2024-04-07 |
@@ -286,7 +287,7 @@
 | [O BICHO VAI PEGAR](https://open.spotify.com/track/670dei8T2OklQT6QJ7aKfp) | [WANDA NARA](https://open.spotify.com/artist/55NrhgOKaeZ5ma9wQrF9Lv), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [O BICHO VAI PEGAR](https://open.spotify.com/album/18vg2gc7z0s5b1YykkEILK) | 2:16 | 2024-02-20 | 2024-02-24 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-04-09 | 2024-04-17 |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-23 | 2024-05-29 |
-| [Ojitos Rojitos Como el Camaro \- Turreo Edit](https://open.spotify.com/track/4YZV8YnFr3eSLMdmdOcCgy) | [NachoMix](https://open.spotify.com/artist/5zGQpHat8fF2MCNkXQ93AX) | [Ojitos Rojitos Como el Camaro \(Turreo Edit\)](https://open.spotify.com/album/12dsIe9U64bgF1o2x77S7N) | 2:19 | 2024-06-04 |  |
+| [Ojitos Rojitos Como el Camaro \- Turreo Edit](https://open.spotify.com/track/4YZV8YnFr3eSLMdmdOcCgy) | [NachoMix](https://open.spotify.com/artist/5zGQpHat8fF2MCNkXQ93AX) | [Ojitos Rojitos Como el Camaro \(Turreo Edit\)](https://open.spotify.com/album/12dsIe9U64bgF1o2x77S7N) | 2:19 | 2024-06-04 | 2024-06-11 |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-05-14 |  |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-09 | 2024-02-28 |
 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 | 2024-04-23 | 2024-05-08 |

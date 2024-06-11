@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Jeff Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,963 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348,018 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shoote Shoote](https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Shoote Shoote](https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC) | 2:59 |
-| 2 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 |
-| 3 | [RONDO](https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SEVİMSİZ](https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF) | 1:49 |
-| 4 | [IstanbuL](https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [The World is Yours](https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f) | 1:58 |
-| 5 | [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 |
-| 6 | [Senin Yüzünden](https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Senin Yüzünden](https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi) | 2:42 |
-| 7 | [Soluksuz](https://open.spotify.com/track/5FQq3nM4JY8M97PLs8OqSE) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB), [Burak King](https://open.spotify.com/artist/18hpynG63scJYxOSDYHUVN) | [Soluksuz](https://open.spotify.com/album/0kmkwpeqJP0qnBlPYnLiSQ) | 3:25 |
+| 1 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
+| 2 | [Shoote Shoote](https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Shoote Shoote](https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC) | 2:59 |
+| 3 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 |
+| 4 | [RONDO](https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SEVİMSİZ](https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF) | 1:49 |
+| 5 | [IstanbuL](https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [The World is Yours](https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f) | 1:58 |
+| 6 | [Damlarsın](https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Damlarsın](https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2) | 2:25 |
+| 7 | [Senin Yüzünden](https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Senin Yüzünden](https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi) | 2:42 |
 | 8 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
-| 9 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 |
-| 10 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
+| 9 | [Soluksuz](https://open.spotify.com/track/5FQq3nM4JY8M97PLs8OqSE) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB), [Burak King](https://open.spotify.com/artist/18hpynG63scJYxOSDYHUVN) | [Soluksuz](https://open.spotify.com/album/0kmkwpeqJP0qnBlPYnLiSQ) | 3:25 |
+| 10 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 |
 | 11 | [BENİMSİN](https://open.spotify.com/track/0wIFigZkGmivwhAkrCAz09) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [BENİMSİN](https://open.spotify.com/album/6qMJN3UZFYWEGfN64C0LVq) | 2:40 |
 | 12 | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Sana Vuruldum \(Ulubatlı Hasan\)](https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k) | 3:48 |
 | 13 | [madem öyle...\(rastlaşcaz!\)](https://open.spotify.com/track/7c6c0q5Ud88l0smh1JHwea) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [madem öyle...\(rastlaşcaz!\)](https://open.spotify.com/album/4Wr3DR90tXZFFdDYCOF5rs) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/2StPUwIBbp6J9gAPUMQptu) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `ZmXcaQAAAADyH+ZDhfEcW8B5Q4OzBaWf`
+Snapshot ID: `ZmamzAAAAAAspW7v/49qlv23N4MR8gqc`

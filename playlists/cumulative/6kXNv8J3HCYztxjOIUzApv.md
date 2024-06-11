@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-264 songs - 16 hr 39 min
+266 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-11-12 | 2023-01-04 |
 | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp) | 3:06 | 2023-08-04 |  |
 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-10-07 |  |
+| [Upright Destined Mongol \- Live at Glastonbury](https://open.spotify.com/track/3BJdlHZDQbEKskhdn0pF7r) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The HU Live At Glastonbury](https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV) | 4:52 | 2024-06-10 |  |
 | [Voodoo Doll](https://open.spotify.com/track/0tDP41DuqqoBv9MNcHdoHW) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Voodoo Doll](https://open.spotify.com/album/4tCEwMi6DenPYV1j8sUOlv) | 3:58 | 2023-01-03 |  |
 | [Wait For Me \(feat\. Trevor McNevan of Thousand Foot Krutch\)](https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Quarantine Chronicles Vol\. 3](https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C) | 3:09 | 2021-10-15 | 2023-01-04 |
 | [Walking In My Shoes](https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:51 | 2021-08-20 | 2023-12-14 |
@@ -271,6 +272,7 @@
 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 | 2023-05-17 |  |
 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 | 2021-08-20 |  |
 | [Yuve Yuve Yu \(feat\. From Ashes to New\)](https://open.spotify.com/track/3Ksb0Eq6OmtmYuraqpsijU) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Yuve Yuve Yu \(feat\. From Ashes to New\)](https://open.spotify.com/album/3bXjT3T1XZEmcQCwLvfZLT) | 4:13 | 2021-08-20 |  |
+| [Yuve Yuve Yu \- Live at Glastonbury](https://open.spotify.com/track/5Ru9o5ylBHzwmG3up45hDv) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The HU Live At Glastonbury](https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV) | 5:00 | 2024-06-10 |  |
 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 | 2021-08-20 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

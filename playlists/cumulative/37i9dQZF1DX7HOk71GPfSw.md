@@ -4,7 +4,7 @@
 
 > ft\. charli
 
-2,071 songs - 3 day 22 hr 13 min
+2,073 songs - 3 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [Grow!](https://open.spotify.com/track/7k5AdY07VuXeW1Mjmi2GGI) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Grow!](https://open.spotify.com/album/27ZZm8eGgMN0Tct8G1UcI7) | 2:55 | 2021-05-08 | 2021-05-15 |
 | [Gucci Gucci](https://open.spotify.com/track/1ea97AUSazu2QZw9BnHJqK) | [Kreayshawn](https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd) | [Somethin 'Bout Kreay](https://open.spotify.com/album/3vLsCsD7k1yiuTZysDOM2a) | 3:07 | 2021-10-18 | 2022-02-24 |
 | [gucci halo](https://open.spotify.com/track/6PYc7boBffja8zWwF3wRBO) | [sendflowrs](https://open.spotify.com/artist/1q9nag0IOu2TVLlHkwsWpY) | [gucci halo](https://open.spotify.com/album/5cK62qq8qEzsm8ezyTVmS9) | 1:38 | 2021-03-26 | 2021-09-24 |
+| [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-10 |  |
 | [Guess I Meant Nothing To You](https://open.spotify.com/track/7csiWcjj0rhdxKTFXxXtHX) | [hidingthehurt](https://open.spotify.com/artist/1ZEMLFeC3e4J8Y9exK3dKp) | [Guess I Meant Nothing To You](https://open.spotify.com/album/4NMURrCPuVC3JlAZEZegXe) | 1:56 | 2021-03-26 | 2021-07-14 |
 | [guh](https://open.spotify.com/track/1rae8blMgdy6WQgZAHxRXN) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Your Mori.](https://open.spotify.com/album/51ejt0sPz42rdY2QtoiSxd) | 3:01 | 2021-04-10 | 2021-05-28 |
 | [Gunk](https://open.spotify.com/track/1T4lgPfsbMsVrqFyFy2Tek) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Gunk](https://open.spotify.com/album/51oHjQKy9b0NaMXasTxV2d) | 2:31 | 2021-11-12 | 2022-01-13 |
@@ -1781,6 +1782,7 @@
 | [SWEETSWEETSWEETLIKEBUBBLEGUM](https://open.spotify.com/track/01VLcMErDScLDOBT0NQ035) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [SWEETSWEETSWEETLIKEBUBBLEGUM](https://open.spotify.com/album/4jLlaQrvcOhzwQvHQcPBnT) | 2:21 | 2020-10-13\* | 2020-12-11 |
 | [SXC](https://open.spotify.com/track/1Rnf34dNuOVfc5TCr6yE9d) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [SXC](https://open.spotify.com/album/1g315Bsyof6KGwGPIdqfMY) | 2:41 | 2023-09-08 | 2024-02-24 |
 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 | 2020-12-04 | 2021-01-08 |
+| [Sympathy is a knife](https://open.spotify.com/track/5EiDSnRLeLu7jOAaBTTMdW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:31 | 2024-06-10 |  |
 | [synopsis](https://open.spotify.com/track/3V5PkCdHl3g1w2uiimU0jT) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all dogs go to heaven](https://open.spotify.com/album/7CqbsNZnpTQIqDz2bRzOIf) | 2:03 | 2021-08-14 | 2021-11-13 |
 | [tab of acid](https://open.spotify.com/track/3b8R5Q9AFcTjsrHAuyYQH2) | [Notlocked](https://open.spotify.com/artist/7ejKIthaXXbXxbdb1lWtwC) | [tab of acid](https://open.spotify.com/album/6tEEQ6Eadb9HBQDm7FPUNA) | 1:30 | 2020-11-06 | 2020-12-11 |
 | [Tacit](https://open.spotify.com/track/1fNgcC1i9FOp5blDxQjyL0) | [Strawberry Hospital](https://open.spotify.com/artist/4e51kjdzES9uXXncU9VNgC) | [Phantasmaphilia](https://open.spotify.com/album/05sSxyLAO3cophvXHbeXAm) | 2:26 | 2021-01-23 | 2021-02-26 |

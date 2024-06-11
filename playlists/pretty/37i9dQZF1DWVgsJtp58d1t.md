@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Happy Black Music Month! Cover: <a href="spotify:artist:4ClziihVpBeFXNyDH83Lde">Ayra Starr<br/></a>, Shot By: <a href="https://www.instagram.com/mikeyoshai">Mikey Oshai <br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,796 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,953 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

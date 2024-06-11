@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,062 likes - 131 songs - 4 hr 16 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,063 likes - 132 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 129 | [Serenade of Illusions](https://open.spotify.com/track/4pTOsbCnRIXpt9agLitHNV) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Melodic Phantasm](https://open.spotify.com/album/5t2nM6VQelYKAFm0NpceFZ) | 1:52 |
 | 130 | [Misty Solace](https://open.spotify.com/track/6bEjGMoeSx7bHZ1Qqh4c9V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:03 |
 | 131 | [Visions](https://open.spotify.com/track/7w5yYf2qeUy0PKh9Zb1kKe) | [Light Skies](https://open.spotify.com/artist/6OUp6ipOCWmLsyzmviGrmn) | [Visions](https://open.spotify.com/album/4QNz7P01yHHv5CfbA6Dbqf) | 2:12 |
+| 132 | [Carded](https://open.spotify.com/track/2Ad7tAx4JHcRFra9tzzg4Y) | [ZoolaBeats](https://open.spotify.com/artist/6BvOfcalPIGFSS8N2Nnxqt) | [Carded](https://open.spotify.com/album/02iLXW3W5YMkivgGiAUfxG) | 2:11 |
 
-Snapshot ID: `AAAAT6njyBOJVyTZcCIs7FfEb2v9bkof`
+Snapshot ID: `AAAAUBGgxurgnR1hlvnWi6h9cHGRpGXL`

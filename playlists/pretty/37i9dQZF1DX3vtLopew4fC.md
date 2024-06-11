@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Haviah Mighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,380 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,381 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [From Friends To Strangers](https://open.spotify.com/track/0cJJN21I6njClZyPJeXMgS) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From Friends To Strangers](https://open.spotify.com/album/57gpvZPjR7eZACFtu0eZNf) | 3:15 |
 | 50 | [Situations](https://open.spotify.com/track/4Kx3VCXLvPHkyI0uoLD2Gt) | [Nicolina](https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb) | [Situations](https://open.spotify.com/album/2280f5xyyysOeCA87Eu5vn) | 2:45 |
 
-Snapshot ID: `ZmC0AwAAAADGzMw23hW1xKTG5GAcAllr`
+Snapshot ID: `ZmcrogAAAADgzoZLP3vA9v0utEk3lsdW`

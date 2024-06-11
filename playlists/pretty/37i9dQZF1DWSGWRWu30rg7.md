@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  VIONA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,492 likes - 94 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,495 likes - 94 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 16 | [I'm Old Fashioned](https://open.spotify.com/track/4mC42wzxxH9BlU3xwe3XOR) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [I'm Old Fashioned](https://open.spotify.com/album/6fjZYH9jfnOWfeZaT0kK6N) | 3:15 |
 | 17 | [You Will Love](https://open.spotify.com/track/6awbEcg5rFeCBqoR9gdKOT) | [Nadaraf](https://open.spotify.com/artist/1K6LwbgtxrMEc4pHVtuiTo) | [You Will Love](https://open.spotify.com/album/0T5fksgQlNv03HUodVntnG) | 3:43 |
 | 18 | [Festival](https://open.spotify.com/track/5moKIpZgHD572joIdCfaZD) | [Saturday Night Karaoke](https://open.spotify.com/artist/0f7zC2HgBY3NwLAkfGrL89) | [Festival](https://open.spotify.com/album/3MoXmrGpmnKs0fh38nefdS) | 2:45 |
-| 19 | [No Love \- Remix Version](https://open.spotify.com/track/7xGuD09FXw0MhWdq5AdCOb) | [Marizka Juwita](https://open.spotify.com/artist/5r4gOmUjJEcCjj749iGCsf), [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0) | [No Love \(Remix Version\)](https://open.spotify.com/album/3ecgpyAmal3B5uzVk7XfAq) | 3:55 |
+| 19 | [No Love \- Zeeko Remix](https://open.spotify.com/track/7xGuD09FXw0MhWdq5AdCOb) | [Marizka Juwita](https://open.spotify.com/artist/5r4gOmUjJEcCjj749iGCsf), [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0) | [No Love \(Zeeko Remix\)](https://open.spotify.com/album/3ecgpyAmal3B5uzVk7XfAq) | 3:55 |
 | 20 | [Realis](https://open.spotify.com/track/6oMAoAOMetNYiInvt6FrPO) | [Satu Per Empat](https://open.spotify.com/artist/7mtLrXrj4RysnCyipjnIgp) | [Semoga Beruntung](https://open.spotify.com/album/5glSqT6hosFgdakUa49hnW) | 4:47 |
 | 21 | [I Was Made For You](https://open.spotify.com/track/0ntdDxknYsHI22WFhZFmWl) | [Evelyn Starlight](https://open.spotify.com/artist/4KWY62o37me6DDsuINOBFX) | [I Was Made For You](https://open.spotify.com/album/2paOR94o27BYHgQFiChmRZ) | 2:00 |
 | 22 | [Biarkan](https://open.spotify.com/track/3DOeoedewFU2Di1mQgQthB) | [Akalav](https://open.spotify.com/artist/7JrjwEeVTHyWzg2TCQna7U), [Julord](https://open.spotify.com/artist/5hzUFHrP6U9kg1TmaGYyD7) | [Biarkan](https://open.spotify.com/album/2nQJHNnSZdg8ZOJgkM7xer) | 3:25 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 63 | [Aku Tak Tau](https://open.spotify.com/track/226Hn5VcX3y5n1sIlPXL2F) | [D Song](https://open.spotify.com/artist/7xRyNb7eIpwmkmN5jfyLIY) | [Aku Tak Tau](https://open.spotify.com/album/4UJGmcrbNjUOQ6L5ntv2YO) | 2:28 |
 | 64 | [Don't Wanna Fall](https://open.spotify.com/track/5LrrWPmj3KlUCwHrq6olto) | [Vall](https://open.spotify.com/artist/4BKgSdZobrMjcFAOBCTutA) | [Gemini Season](https://open.spotify.com/album/4Ka4KQA33nRHkWs8oU5siH) | 4:22 |
 | 65 | [Elegi](https://open.spotify.com/track/29V6AosffiehKH8KkFuj4t) | [Daily Breeze](https://open.spotify.com/artist/6q9aSl5BGmRrG9D93E1Yt6) | [Elegi Pulang](https://open.spotify.com/album/362rfqLTG8CJMNAS6bNXAP) | 3:53 |
-| 66 | [CIGI](https://open.spotify.com/track/0HxCF1KbPEOWuu20DKOucQ) | [Drewgon](https://open.spotify.com/artist/4GWsaDmURHLEsicjIvzRSI), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Jacqueline Caroline](https://open.spotify.com/artist/52LJzMsGNONHXMC3F0YTeq), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT) | [CIGI](https://open.spotify.com/album/68qd4iQKkseWcifSzpgUjK) | 2:32 |
+| 66 | [CIGI](https://open.spotify.com/track/0HxCF1KbPEOWuu20DKOucQ) | [Drewgon](https://open.spotify.com/artist/4GWsaDmURHLEsicjIvzRSI), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Jacqueline Caroline](https://open.spotify.com/artist/52LJzMsGNONHXMC3F0YTeq) | [CIGI](https://open.spotify.com/album/68qd4iQKkseWcifSzpgUjK) | 2:32 |
 | 67 | [Pressure Point](https://open.spotify.com/track/67VtPyoOc1CbGkEhaRTH4b) | [Daniel Pattinama](https://open.spotify.com/artist/66NGeDETigta56Fl8fLd1L), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Daniela Nicole](https://open.spotify.com/artist/5SgKIM9kdU4dsM5NDLTPA4) | [Pressure Point](https://open.spotify.com/album/0mZKyVozdr153BoVwgW2bh) | 2:50 |
 | 68 | [Under The Star](https://open.spotify.com/track/5xZvYJiG8bK5iCM7SQqWI5) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP), [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld) | [Different RnB](https://open.spotify.com/album/33YRBFAKNrAuEgXD7dr04p) | 3:22 |
 | 69 | [Expectation](https://open.spotify.com/track/3E9C95z7qSy2DDN8Q0pppH) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [Expectation](https://open.spotify.com/album/03tQ7t9U9Nn1FPBSeSiH6V) | 3:19 |

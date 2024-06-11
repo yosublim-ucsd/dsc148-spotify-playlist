@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-296 songs - 16 hr 58 min
+297 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Neenguvadhale](https://open.spotify.com/track/6PUzpAsBuuKocDZfivBxtj) | [Srikanth KVB](https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [Neenguvadhale](https://open.spotify.com/album/57Soe8ciEFDrDqrqw3tC5g) | 4:31 | 2023-07-27 | 2024-02-01 |
 | [Neethaano](https://open.spotify.com/track/0DkGBbQQcQMLwwqfqvXImf) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Neethaano](https://open.spotify.com/album/0WAHE59iOrU7n2JdLJtplx) | 3:02 | 2023-09-29 | 2024-04-13 |
 | [Neethaano](https://open.spotify.com/track/26aVYGxWYPmwFnM5xY4ZO2) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Neethaano](https://open.spotify.com/album/7jZrNUnwWrqDLjY0AlalNJ) | 3:02 | 2024-02-01 | 2024-04-19 |
+| [Neethan](https://open.spotify.com/track/6gHyDQRtXeGMSBflq4teh1) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Neethan](https://open.spotify.com/album/3e7ZB41ZdFnJnFpe3R34Bd) | 3:35 | 2024-06-10 |  |
 | [Neeye](https://open.spotify.com/track/1tBi5yC0ijRkKBcXc06MD7) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Kshia](https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU) | [Neeye](https://open.spotify.com/album/4NjMmesAM5SuvD6yskYzFu) | 3:03 | 2023-12-01 | 2024-05-21 |
 | [Neeye](https://open.spotify.com/track/10pQAPHnkCXsN3i6Ur1Ue8) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Neeye](https://open.spotify.com/album/3pnvov3dH9shA0n6ddOy8R) | 3:07 | 2023-03-21 | 2023-06-24 |
 | [Neeye Vaanaai](https://open.spotify.com/track/0MwPSfb7P81ozhBTxlZJDR) | [SreRam Anand](https://open.spotify.com/artist/5ZOKFwFsIjoCEgdYwkymvm), [Ramya Sivaramakrishnan](https://open.spotify.com/artist/3jeAry1Pw76BN4rkC2dP7a) | [Neeye Vaanaai](https://open.spotify.com/album/1Apf739H6UcH2hBNkZI3Av) | 2:52 | 2023-06-22 | 2024-02-01 |

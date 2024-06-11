@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 > Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,237 likes - 73 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,257 likes - 73 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Real nasty house with Julian Jordan
 
-781 songs - 1 day 16 hr 28 min
+782 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 | 2024-05-11 |
 | [Fever Dream](https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Annaca](https://open.spotify.com/artist/68bTh9UzHWFypy6Kt54NDZ) | [Fever Dream](https://open.spotify.com/album/1KzUhr5XqwBkTt6kmcPFDa) | 3:31 | 2024-05-10 |  |
 | [Find My Way](https://open.spotify.com/track/1xRbnHh3GidD6vzuOrTQeT) | [Giorgio Leone \(IT\)](https://open.spotify.com/artist/6zPCGqSL5ALIAZ8bbRU0b7), [Haas](https://open.spotify.com/artist/4IPYJLyaOR6FkoiLtHcUIu), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Find My Way](https://open.spotify.com/album/1hpiUpq67G7Y2aj5K9YCfX) | 3:50 | 2023-08-04 | 2023-08-27 |
+| [Find The Silence](https://open.spotify.com/track/0E8RqU03Sd4OazufBdA8NY) | [Michael Phase](https://open.spotify.com/artist/378Z69odCtM7EU6FtWrogE), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Find The Silence](https://open.spotify.com/album/6nHeqnaMPoaKho9IzF2rzF) | 3:41 | 2024-06-07 |  |
 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-10 |  |
 | [Firestarter](https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Firestarter](https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA) | 2:15 | 2024-03-01 |  |
 | [First Come First Serve](https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [First Come First Serve](https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B) | 2:33 | 2022-11-18 | 2023-04-26 |
@@ -356,7 +357,7 @@
 | [I Am Ready](https://open.spotify.com/track/0ufeCauchfjHvwhCz0XiQL) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [I Am Ready](https://open.spotify.com/album/4GYWCwCY79SXdxM0X42TDg) | 3:00 | 2021-10-29 | 2022-01-15 |
 | [I Don't Care](https://open.spotify.com/track/7BXqCv3Y940NFSFJv19ywn) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Don't Care](https://open.spotify.com/album/6zoxovlr2YLSPz6wFYQixI) | 2:59 | 2022-03-18 | 2022-04-21 |
 | [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 | 2024-05-24 |  |
-| [I Get Deep](https://open.spotify.com/track/7Ac0aww23C1zyZHAo6iyUB) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [I Get Deep](https://open.spotify.com/album/0mvyHULp1PRFweKkEHSJBP) | 3:52 | 2024-04-26 |  |
+| [I Get Deep](https://open.spotify.com/track/7Ac0aww23C1zyZHAo6iyUB) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [I Get Deep](https://open.spotify.com/album/0mvyHULp1PRFweKkEHSJBP) | 3:52 | 2024-04-26 | 2024-06-11 |
 | [I Got That](https://open.spotify.com/track/13JWDV6JAorOJ89kpDqW74) | [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [I Got That](https://open.spotify.com/album/6teTGkAOQhdxnUF0hqvwN1) | 2:59 | 2023-12-08 | 2023-12-23 |
 | [I Got The Beat](https://open.spotify.com/track/3JWDxlJ5EsECEfcqe9tvA5) | [Hugo Doche](https://open.spotify.com/artist/2JejalV9S2tSy4uk3o3aiv) | [I Got The Beat](https://open.spotify.com/album/3LO3njL1dWhlNlqUwS7GGT) | 3:19 | 2021-10-29 | 2022-07-30 |
 | [I Just Wanna](https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L) | [Kriss Reeve](https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS), [CHOCO](https://open.spotify.com/artist/5ZYidw4RKqIwucn0hQzYz8) | [I Just Wanna](https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K) | 2:48 | 2024-05-03 |  |

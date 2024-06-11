@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Carded",
+        "url": "https://open.spotify.com/album/02iLXW3W5YMkivgGiAUfxG"
+      },
+      "artists": [
+        {
+          "name": "ZoolaBeats",
+          "url": "https://open.spotify.com/artist/6BvOfcalPIGFSS8N2Nnxqt"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Carded",
+      "url": "https://open.spotify.com/track/2Ad7tAx4JHcRFra9tzzg4Y"
+    },
+    {
+      "album": {
         "name": "Harmonic Cascade",
         "url": "https://open.spotify.com/album/1vXLtMA5S8GU2pnPjUU5XF"
       },

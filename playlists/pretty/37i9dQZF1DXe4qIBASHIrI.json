@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 152776,
+  "num_followers": 152850,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
-      },
-      "artists": [
-        {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Arunima",
         "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 265740,
       "name": "La Flotadera",
       "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "No Es un Adi\u00f3s",
-        "url": "https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn"
-      },
-      "artists": [
-        {
-          "name": "Ventilader",
-          "url": "https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Uno de Esos D\u00edas",
-      "url": "https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Monitor (Slidepac)",
         "url": "https://open.spotify.com/album/7ocVUPDtRB9Vna4d29DvMd"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 235746,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/6w0ZRnaxlWcpHTpJW3K4Ma"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "No Es un Adi\u00f3s",
+        "url": "https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn"
+      },
+      "artists": [
+        {
+          "name": "Ventilader",
+          "url": "https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Uno de Esos D\u00edas",
+      "url": "https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "S\u00faper Tigre",
-        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
-      },
-      "artists": [
-        {
-          "name": "S\u00faper Tigre",
-          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
-        }
-      ],
-      "duration_ms": 206673,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sentado Aqu\u00ed",
         "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 260949,
       "name": "Sentado Aqu\u00ed",
       "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "S\u00faper Tigre",
+        "url": "https://open.spotify.com/album/6j4jrKSq0iYQ2uhjZGYDs3"
+      },
+      "artists": [
+        {
+          "name": "S\u00faper Tigre",
+          "url": "https://open.spotify.com/artist/2k7XXrxlqG3H27BueuiQW3"
+        }
+      ],
+      "duration_ms": 206673,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bella \u00c9poca",
-        "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
-      },
-      "artists": [
-        {
-          "name": "Torreblanca",
-          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
-        }
-      ],
-      "duration_ms": 174120,
-      "name": "Dej\u00e9 de Ser Yo",
-      "url": "https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 173106,
       "name": "Los Bajos Fondos",
       "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bella \u00c9poca",
+        "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
+      },
+      "artists": [
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "duration_ms": 174120,
+      "name": "Dej\u00e9 de Ser Yo",
+      "url": "https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Saga Mama",
-        "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
+        "name": "Sistema Solar",
+        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
       },
       "artists": [
         {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+          "name": "Disco Ruido",
+          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
         }
       ],
-      "duration_ms": 175080,
-      "name": "Maldito",
-      "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
+      "duration_ms": 249630,
+      "name": "Amorfos",
+      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sistema Solar",
-        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
-      },
-      "artists": [
-        {
-          "name": "Disco Ruido",
-          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
-        }
-      ],
-      "duration_ms": 249630,
-      "name": "Amorfos",
-      "url": "https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Fumemos un cigarrillo (Soundtrack Original de la Pel\u00edcula)",
         "url": "https://open.spotify.com/album/1qHG2eqmFWACQnG8ksdeYz"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 241813,
       "name": "Fumemos un cigarrillo - Soundtrack Original de la Pel\u00edcula",
       "url": "https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Saga Mama",
+        "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "Maldito",
+      "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
     },
     {
       "added_at": "2023-09-01 16:42:45",

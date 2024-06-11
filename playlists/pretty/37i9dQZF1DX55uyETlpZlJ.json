@@ -1,13 +1,37 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23134,
+  "num_followers": 23139,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKzYQAAAAD2/5bxqSEC7hSDmnWOMQ8W",
+  "snapshot_id": "Zmbl8gAAAAAho+uJTaV3Gi6b1wtWZ8FD",
   "tracks": [
+    {
+      "added_at": "2024-06-10 11:39:11",
+      "album": {
+        "name": "Sakkare Chakori - Kannada (feat. Bela Fleck)",
+        "url": "https://open.spotify.com/album/5e2iPdKcYMiG6dJxNr356c"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Kiran Kaverappa",
+          "url": "https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "duration_ms": 295135,
+      "name": "Sakkare Chakori - Kannada (feat. Bela Fleck)",
+      "url": "https://open.spotify.com/track/4IB9wfkGxPOLF4br2rPZvp"
+    },
     {
       "added_at": "2024-06-07 07:14:41",
       "album": {
@@ -67,6 +91,38 @@
       "duration_ms": 83658,
       "name": "5 Sonne",
       "url": "https://open.spotify.com/track/5SVDYs73KClBu5QUN4UzVd"
+    },
+    {
+      "added_at": "2024-06-10 11:35:46",
+      "album": {
+        "name": "Namma Bainduru",
+        "url": "https://open.spotify.com/album/5pVNIDfgtIGmIQ87MD0yvn"
+      },
+      "artists": [
+        {
+          "name": "Akshay Badamane",
+          "url": "https://open.spotify.com/artist/0Bm4jb0z86yN1kdXqtNU30"
+        }
+      ],
+      "duration_ms": 119037,
+      "name": "Namma Bainduru",
+      "url": "https://open.spotify.com/track/3m29zPPLr4dUXPiQU6RrMx"
+    },
+    {
+      "added_at": "2024-06-10 11:37:19",
+      "album": {
+        "name": "Cup Namdu",
+        "url": "https://open.spotify.com/album/4Ra460PZ9uiMb4wBwo8dva"
+      },
+      "artists": [
+        {
+          "name": "Parvez Ahmed",
+          "url": "https://open.spotify.com/artist/2mYPXgVAHd01UcZP1m1Vbp"
+        }
+      ],
+      "duration_ms": 121043,
+      "name": "Cup Namdu",
+      "url": "https://open.spotify.com/track/6WEYexjIqGmkb7F0UILxpG"
     },
     {
       "added_at": "2024-05-13 06:16:30",
@@ -1049,26 +1105,6 @@
       "url": "https://open.spotify.com/track/62nk85CK7tWrCJpuegJ4mx"
     },
     {
-      "added_at": "2024-01-31 11:14:32",
-      "album": {
-        "name": "MADE IN KARNATAKA",
-        "url": "https://open.spotify.com/album/19gnp7j1D1BKrNMXzfNw91"
-      },
-      "artists": [
-        {
-          "name": "YASHICA RAJ",
-          "url": "https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd"
-        },
-        {
-          "name": "MC Bijju",
-          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
-        }
-      ],
-      "duration_ms": 96018,
-      "name": "MADE IN KARNATAKA",
-      "url": "https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb"
-    },
-    {
       "added_at": "2023-09-14 12:04:45",
       "album": {
         "name": "Neene",
@@ -1179,50 +1215,6 @@
       "duration_ms": 138947,
       "name": "Rocky Bhai 2.0",
       "url": "https://open.spotify.com/track/2HHM1OusTbVkYoN3Zu8x8T"
-    },
-    {
-      "added_at": "2023-11-20 12:25:32",
-      "album": {
-        "name": "Bere Tara",
-        "url": "https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2"
-      },
-      "artists": [
-        {
-          "name": "The Aura",
-          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
-        },
-        {
-          "name": "Hithu Dwen",
-          "url": "https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn"
-        }
-      ],
-      "duration_ms": 290005,
-      "name": "Bere Tara",
-      "url": "https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG"
-    },
-    {
-      "added_at": "2023-11-06 10:03:37",
-      "album": {
-        "name": "Kaarana",
-        "url": "https://open.spotify.com/album/1hWbDlBA3wscSNNq6dL8hA"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Gagan SD",
-          "url": "https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP"
-        },
-        {
-          "name": "Karthik N B",
-          "url": "https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC"
-        }
-      ],
-      "duration_ms": 177923,
-      "name": "Kaarana",
-      "url": "https://open.spotify.com/track/77zBm2513kSoqZUwsvpr3r"
     },
     {
       "added_at": "2023-10-25 08:03:09",
@@ -1391,58 +1383,6 @@
       "duration_ms": 181507,
       "name": "Lemme know",
       "url": "https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj"
-    },
-    {
-      "added_at": "2024-01-18 12:05:45",
-      "album": {
-        "name": "Homecoming (The Ayodhya Anthem) [Kannada]",
-        "url": "https://open.spotify.com/album/2yIB0jJGqRMWlAQoZQ0F2r"
-      },
-      "artists": [
-        {
-          "name": "Darbuka Siva",
-          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Pavithra Chari",
-          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
-        },
-        {
-          "name": "Malavika Rajhesh",
-          "url": "https://open.spotify.com/artist/5Dspm3rX4DLj9YK6RFps93"
-        },
-        {
-          "name": "Rakshita Suresh",
-          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
-        }
-      ],
-      "duration_ms": 295687,
-      "name": "Homecoming (The Ayodhya Anthem) - Kannada",
-      "url": "https://open.spotify.com/track/6SQAUBzXknH8EGJ4aynrSk"
-    },
-    {
-      "added_at": "2024-01-03 06:24:37",
-      "album": {
-        "name": "Kanna Muche Kaade Goode",
-        "url": "https://open.spotify.com/album/3TF3D2bEEkwEl1Z5KQNUm6"
-      },
-      "artists": [
-        {
-          "name": "SIDWIN",
-          "url": "https://open.spotify.com/artist/6rWRYMJoiSYkmRHxg9YWin"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Kanna Muche Kaade Goode",
-      "url": "https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh"
     },
     {
       "added_at": "2023-12-11 10:27:11",

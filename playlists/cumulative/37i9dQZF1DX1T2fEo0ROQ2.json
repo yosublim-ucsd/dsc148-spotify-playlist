@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Always Changing",
+        "url": "https://open.spotify.com/album/4BCV6skujSinlMUwpoYZ35"
+      },
+      "artists": [
+        {
+          "name": "August Parks",
+          "url": "https://open.spotify.com/artist/3qMOfxCeQP5i24x2yOGnof"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159714,
+      "name": "Always Changing",
+      "url": "https://open.spotify.com/track/0ExKAewbTMKqDIQa25IltZ"
+    },
+    {
+      "album": {
         "name": "Among The Pines",
         "url": "https://open.spotify.com/album/22aZul65rFrWztnDT2NB7F"
       },
@@ -596,6 +614,24 @@
       "duration_ms": 193000,
       "name": "As The Light Slowly Fades",
       "url": "https://open.spotify.com/track/1mEAr807HGjKAagrM55rjl"
+    },
+    {
+      "album": {
+        "name": "Astral Code",
+        "url": "https://open.spotify.com/album/0cQ7tW72Or6QJFkpNvOBTq"
+      },
+      "artists": [
+        {
+          "name": "Digitalis",
+          "url": "https://open.spotify.com/artist/0dxuNGL2sY3z2qXzZ69ki2"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151203,
+      "name": "Astral Code",
+      "url": "https://open.spotify.com/track/1Fz2g1FUlyEebAhyfE5SZy"
     },
     {
       "album": {
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 147276,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3sw8Dvwe3MElSuQ2fYWLJS"
@@ -1460,6 +1496,24 @@
       "duration_ms": 165000,
       "name": "Cloud Puff",
       "url": "https://open.spotify.com/track/3AbxPftquBRGJPtKnenpPl"
+    },
+    {
+      "album": {
+        "name": "Cloudy Hills",
+        "url": "https://open.spotify.com/album/77hUM7sXGdLZqfxEphXr0k"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8NAR",
+          "url": "https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157785,
+      "name": "Cloudy Hills",
+      "url": "https://open.spotify.com/track/3HLegfpf3QbIfXH7Z5yZLc"
     },
     {
       "album": {
@@ -2705,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Floating Away",
+        "url": "https://open.spotify.com/album/0bqEuUIKlFVXQvha3vX0ZU"
+      },
+      "artists": [
+        {
+          "name": "Airship Express",
+          "url": "https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240381,
+      "name": "Floating Away",
+      "url": "https://open.spotify.com/track/7HOnL95WBv906scvcKEAks"
+    },
+    {
+      "album": {
         "name": "Flor Espina",
         "url": "https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL"
       },
@@ -3692,6 +3764,24 @@
       "duration_ms": 189750,
       "name": "Lacuna",
       "url": "https://open.spotify.com/track/6ugfn14Y2aS1loWCWh1APM"
+    },
+    {
+      "album": {
+        "name": "Lacuna",
+        "url": "https://open.spotify.com/album/5TlSRgRhwzjtinTTiXvRFG"
+      },
+      "artists": [
+        {
+          "name": "Vinyardo",
+          "url": "https://open.spotify.com/artist/2wQMVtkA9XenZkYUbyoE1Y"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177656,
+      "name": "Lacuna",
+      "url": "https://open.spotify.com/track/76lHBIG3K5vt577MbxTWfl"
     },
     {
       "album": {
@@ -5027,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "Oath",
+        "url": "https://open.spotify.com/album/1Ty5wccuwlQCdsmwxuN5Qy"
+      },
+      "artists": [
+        {
+          "name": "Eunephele",
+          "url": "https://open.spotify.com/artist/0RfnRQ6vmyxDzMuyDmJaSm"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194189,
+      "name": "Oath",
+      "url": "https://open.spotify.com/track/68ZtsPSE29fDB5inI4qByB"
+    },
+    {
+      "album": {
         "name": "Ocean's Gold",
         "url": "https://open.spotify.com/album/5xdKd8YKQFFahrvbJ5HRQ4"
       },
@@ -5366,6 +5474,24 @@
       "duration_ms": 196626,
       "name": "Peaceful Memories",
       "url": "https://open.spotify.com/track/0FdJCIHRuXwUZPKiyj0jcY"
+    },
+    {
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/2OwEKuCKehvTMSyOg4Q7y1"
+      },
+      "artists": [
+        {
+          "name": "Ageena",
+          "url": "https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180170,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/7pj05Z3J520aOzLdH3sAAz"
     },
     {
       "album": {
@@ -5801,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/3Tr4kyYUfdp9jITXCUjyzP"
+      },
+      "artists": [
+        {
+          "name": "Garden Collective",
+          "url": "https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156891,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3gLnHbkVpYS9ijIBs3JAzE"
+    },
+    {
+      "album": {
         "name": "Motion Slow",
         "url": "https://open.spotify.com/album/368cYXAyRSQSAk4X40uHFs"
       },
@@ -6089,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/7fWvcBAO6exIIDmKa0Vpxj"
+      },
+      "artists": [
+        {
+          "name": "Adrian Eden",
+          "url": "https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204074,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3DzRVb1mfOChuqJyLRxaG2"
+    },
+    {
+      "album": {
         "name": "Savasana",
         "url": "https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41"
       },
@@ -6270,6 +6432,24 @@
     {
       "album": {
         "name": "Serenity",
+        "url": "https://open.spotify.com/album/1XaVqeD2Q8Oeinpwx3Twr6"
+      },
+      "artists": [
+        {
+          "name": "drifting / sleeping",
+          "url": "https://open.spotify.com/artist/1QbKvEZTsVgSaRP8vTO2TH"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125507,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/52MX3DmQzG8z8zeJOyIz0k"
+    },
+    {
+      "album": {
+        "name": "Serenity",
         "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
       },
       "artists": [
@@ -6302,6 +6482,24 @@
       "duration_ms": 189785,
       "name": "Shine",
       "url": "https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz"
+    },
+    {
+      "album": {
+        "name": "Shoreline",
+        "url": "https://open.spotify.com/album/3MTtS8rA63qggWyoiBteVm"
+      },
+      "artists": [
+        {
+          "name": "Georgia Vesper",
+          "url": "https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Shoreline",
+      "url": "https://open.spotify.com/track/6O7h5PJ99ln8PNXVqU5rZn"
     },
     {
       "album": {
@@ -7313,6 +7511,24 @@
     },
     {
       "album": {
+        "name": "The Sky Above",
+        "url": "https://open.spotify.com/album/7mPAwZXstA9SMiaq9A1wcL"
+      },
+      "artists": [
+        {
+          "name": "Joel Harous",
+          "url": "https://open.spotify.com/artist/4IUERw4YRt35ijw9Nvfqba"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158369,
+      "name": "The Sky Above",
+      "url": "https://open.spotify.com/track/21a2zqIjx07tJtKtALrtCn"
+    },
+    {
+      "album": {
         "name": "The Sun Has Risen",
         "url": "https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx"
       },
@@ -7350,6 +7566,24 @@
       "duration_ms": 163041,
       "name": "Through The Infinite",
       "url": "https://open.spotify.com/track/11VMvgQXjrboqwbNRaMd4s"
+    },
+    {
+      "album": {
+        "name": "Through Time",
+        "url": "https://open.spotify.com/album/5lKISZ5jkXu8NZAAc3rGZH"
+      },
+      "artists": [
+        {
+          "name": "Alfoni Berg",
+          "url": "https://open.spotify.com/artist/4HmnKRjtlqVw3RistO5zLB"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153108,
+      "name": "Through Time",
+      "url": "https://open.spotify.com/track/29A2bIJqpIHSpn2RyJCedJ"
     },
     {
       "album": {
@@ -7494,6 +7728,24 @@
       "duration_ms": 160228,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/44HOZHZoUZzpN4E9bzIrWS"
+    },
+    {
+      "album": {
+        "name": "Transience",
+        "url": "https://open.spotify.com/album/1PMnLUjbqav4NQGt6tkeS8"
+      },
+      "artists": [
+        {
+          "name": "Ceylan Aydem Project",
+          "url": "https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Transience",
+      "url": "https://open.spotify.com/track/6iQnUsbAjI0fMCkyQnT05Q"
     },
     {
       "album": {
@@ -7674,6 +7926,24 @@
       "duration_ms": 200207,
       "name": "Vibra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0A1htQw9Sn33XA1cSqFS7j"
+    },
+    {
+      "album": {
+        "name": "Vila",
+        "url": "https://open.spotify.com/album/0OTlLGsXoOCsiBaEnHFzIr"
+      },
+      "artists": [
+        {
+          "name": "Grainscapes",
+          "url": "https://open.spotify.com/artist/6LaLmmQ5cY4tQ7DvJTh3qZ"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Vila",
+      "url": "https://open.spotify.com/track/6f1GxYthqPnPfOdmRfAODw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-617 songs - 2 day 5 hr 2 min
+619 songs - 2 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Buzzer](https://open.spotify.com/track/7eEMFstAbfWcGHAgJ6yHia) | [Exos](https://open.spotify.com/artist/4RiS9upIWfYxyu1HqjMWt6) | [Cyber City, Vol\. 1](https://open.spotify.com/album/6nSXN5Azm9faxxJeRj4qSg) | 5:18 | 2024-04-12 |  |
 | [Böse Lügen \(Body Mix\)](https://open.spotify.com/track/76bjcDazyMvlO8lTYL4pk3) | [Riki](https://open.spotify.com/artist/2ZKV0fn29TwN5movYoesj7) | [Riki](https://open.spotify.com/album/6TIk4aw4QLGynYDLH94jJj) | 3:17 | 2024-04-12 |  |
 | [Calm & Quiet](https://open.spotify.com/track/0lW0Vhow6ewBrJkyUs1ep1) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Calm & Quiet](https://open.spotify.com/album/1NOutq5xa1MZdtw5C5MLYo) | 7:18 | 2023-08-04 | 2023-12-14 |
-| [Can I Taste The Sin](https://open.spotify.com/track/1LzujHXH8krQ4xCS5z51ql) | [Sept](https://open.spotify.com/artist/1pteEYBBIJjSjZlgkvGjAz) | [Can I Taste The Sin](https://open.spotify.com/album/6O4Z7wWNt2iq4s1VqhbiMq) | 4:30 | 2024-05-17 |  |
+| [Can I Taste The Sin](https://open.spotify.com/track/1LzujHXH8krQ4xCS5z51ql) | [Sept](https://open.spotify.com/artist/1pteEYBBIJjSjZlgkvGjAz) | [Can I Taste The Sin](https://open.spotify.com/album/6O4Z7wWNt2iq4s1VqhbiMq) | 4:30 | 2024-05-17 | 2024-06-11 |
 | [Can You Feel My Soul](https://open.spotify.com/track/0xi1yO3LQEglqXEJHJBWgm) | [Matasism](https://open.spotify.com/artist/01dmfjE7RpzUe6DJSV5eKD) | [Can You Feel My Soul](https://open.spotify.com/album/29Ysub2qJPNzlAD0j7QLBr) | 6:33 | 2022-12-03 | 2023-02-11 |
 | [Can you please like my picture](https://open.spotify.com/track/4dSAAyEMAGqT114D2n4NQC) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [Look at yourself](https://open.spotify.com/album/2THXc1RaMovOqKBR8DI6aK) | 4:39 | 2023-03-17 | 2023-05-26 |
 | [Can You, Hear The Dull Scream](https://open.spotify.com/track/0iQrDetu0Qy23t2CqWXeV2) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Interior](https://open.spotify.com/album/6X7ePWsY8fFQW47wDEAr1e) | 2:13 | 2024-05-17 |  |
@@ -114,6 +114,7 @@
 | [Crave](https://open.spotify.com/track/0hVwRTlt9ZwJjjfnKjkPYX) | [SALOME](https://open.spotify.com/artist/6r27qPL5CdAwLszXNgpRPV), [Volruptus](https://open.spotify.com/artist/4uDJetmKX6GhS4K91q1cbU) | [Crave](https://open.spotify.com/album/6exVRawwvQA65R3L9pG3wP) | 7:38 | 2023-11-30 | 2024-01-20 |
 | [Crossing the Rubicon](https://open.spotify.com/track/5YWoDP9ZncmYXbxYl3Ij0L) | [ASEC](https://open.spotify.com/artist/0u8h5yyvIHdXVf4ZVRT6TH) | [Your Decisions Come From Fear](https://open.spotify.com/album/5FesVLwL50TcbdACKYdfdZ) | 6:36 | 2023-03-17 | 2023-04-15 |
 | [Cryptaesthesia](https://open.spotify.com/track/6d24S5RaHlSmnkQrGsZ839) | [Human Performance Lab](https://open.spotify.com/artist/6RxT4SuQWFUV2xqlj70YpF) | [Cryptaesthesia](https://open.spotify.com/album/5M4OdDPFUqLFsA6KyNpRLk) | 4:25 | 2024-05-17 |  |
+| [Current\-Gen](https://open.spotify.com/track/4wvL23u4iRSbT4g5Zf9mRV) | [NAIX](https://open.spotify.com/artist/6WUMTOcJ1F2B9FeyZCfNMw) | [Ellen Allien pres\. We Are Not Alone, Pt\. 7](https://open.spotify.com/album/1VipFqIyC66WqnDUl6XKAy) | 3:51 | 2024-06-10 |  |
 | [Cut The Mustard](https://open.spotify.com/track/0uQLEwQhMg2Ld5cC4hYbr6) | [Rommek](https://open.spotify.com/artist/1rTugqXd6Q2cnnlX8TrCGn) | [Devil's Playground EP](https://open.spotify.com/album/3s1fQm57PtESB8bZBUu8Gw) | 6:48 | 2023-05-25 | 2023-07-01 |
 | [Cut Throats \- Original Mix](https://open.spotify.com/track/26uNVaVnS7n7q2M4GbAtW2) | [Głós](https://open.spotify.com/artist/0ijKRiSoi4ZkW4n3f8KzxL) | [Four Cuts on Hurting](https://open.spotify.com/album/7fSTpCxaytReIzqTlduDOl) | 6:40 | 2023-11-30 | 2024-01-20 |
 | [Dagyde](https://open.spotify.com/track/0Z9YVvY92IQiAEF597J9vP) | [Maxime Iko](https://open.spotify.com/artist/5QY234xlHidVqsa7U0iiUo) | [Pray for Us](https://open.spotify.com/album/53ukbSjD81rGLztFhAv9qL) | 5:50 | 2023-02-10 | 2023-03-18 |
@@ -126,6 +127,7 @@
 | [Deep Summer \- Burial Remix](https://open.spotify.com/track/1NgPFhN5fvx7Z3EgWckRQ8) | [Mønic](https://open.spotify.com/artist/5IMeZZeaEOC5mFNB4Xl2ar), [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Deep Summer \(Burial Remix\)](https://open.spotify.com/album/4rJN77Zym2SwIjtb60IwAG) | 10:16 | 2023-08-04 | 2023-12-14 |
 | [Delirio \(DJ Python Remix\)](https://open.spotify.com/track/1NXfZIXpI5KDltYYuATfRc) | [Bitter Babe](https://open.spotify.com/artist/59wTkFdKKx7y6z4PFfRGhW), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Delirio](https://open.spotify.com/album/5omKkUB5uhvSiiiyQQJiKM) | 4:58 | 2023-06-30 | 2023-08-05 |
 | [Deliverance](https://open.spotify.com/track/0FmDv077TklWn88ClheDTi) | [fatalism](https://open.spotify.com/artist/5BLWeY0iO1v8cL7YwJXSOz) | [Gh0st](https://open.spotify.com/album/2jgRBoIeokF1a8hxVEtK5e) | 7:35 | 2023-11-30 | 2024-01-20 |
+| [Departure To](https://open.spotify.com/track/4Fy8nX6C7A5u5v2UQYNPsN) | [Ayako Mori](https://open.spotify.com/artist/6StQLFdLEc6XCwfS7Hfdmy), [Raul Alvarez](https://open.spotify.com/artist/4FuO3cd0049uPgJaa7IYwZ) | [Ellen Allien pres\. We Are Not Alone, Pt\. 7](https://open.spotify.com/album/1VipFqIyC66WqnDUl6XKAy) | 4:31 | 2024-06-10 |  |
 | [Die Angst \- Original Mix](https://open.spotify.com/track/3YEZbPfH1CZV7LEvBAlM8g) | [HardtraX](https://open.spotify.com/artist/4v8wjm268q8PoVVXrrdott), [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [Dunkelkammer](https://open.spotify.com/artist/4h6DWKvCzUcdumXv6FDg6r) | [Die Angst](https://open.spotify.com/album/4x6M0vTQJmCq3OmwmmfctR) | 6:17 | 2023-08-04 | 2023-12-14 |
 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 | 2023-03-17 | 2023-04-15 |
 | [Dirt](https://open.spotify.com/track/63vZ9C4LDEobgdLvGTjDj7) | [Perc](https://open.spotify.com/artist/4iyqyvWXO734GUNLTTnrPQ) | [Dirt](https://open.spotify.com/album/4MllgEom7kcumjDcDmiYbh) | 5:33 | 2023-04-14 | 2023-05-26 |

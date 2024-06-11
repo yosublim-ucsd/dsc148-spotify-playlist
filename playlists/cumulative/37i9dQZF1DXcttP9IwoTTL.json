@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "i'm ok",
+        "url": "https://open.spotify.com/album/0v2mJSG0UzNAxwyoBMAPps"
+      },
+      "artists": [
+        {
+          "name": "syyler",
+          "url": "https://open.spotify.com/artist/1lKHkjRB4jVsn8QUNvkY1r"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257686,
+      "name": "6ilence",
+      "url": "https://open.spotify.com/track/5DmbghdltHORPF0KjUeik4"
+    },
+    {
+      "album": {
         "name": "Silos EP",
         "url": "https://open.spotify.com/album/5f69QjZh1U8NdbHyXgFoEy"
       },
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 311034,
       "name": "Forever",
       "url": "https://open.spotify.com/track/635NBMe1ZmLGh7wzYzto8C"
@@ -3543,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Num\u00e9ro 05",
+        "url": "https://open.spotify.com/album/0raSR0U7pE0uloFgP1ADs0"
+      },
+      "artists": [
+        {
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345053,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1vJTZVtzuJdMYPtka5JFSp"
+    },
+    {
+      "album": {
         "name": "The Interior Journey Remixes - Part 1",
         "url": "https://open.spotify.com/album/1ZPnmvIWpHGTw2ViXv30CK"
       },
@@ -4228,7 +4264,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 371552,
       "name": "Let\u2019s Skank",
       "url": "https://open.spotify.com/track/42taEqinL2eZ3bDEmZfX6J"
@@ -5201,6 +5237,28 @@
     },
     {
       "album": {
+        "name": "Num\u00e9ro 05",
+        "url": "https://open.spotify.com/album/0raSR0U7pE0uloFgP1ADs0"
+      },
+      "artists": [
+        {
+          "name": "Phunkadelica",
+          "url": "https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj"
+        },
+        {
+          "name": "Enzo Elia",
+          "url": "https://open.spotify.com/artist/0DY1hXIhEQqRJU9wDoHHu1"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295680,
+      "name": "My Cousin Vinny",
+      "url": "https://open.spotify.com/track/4n1onZVjcEQ8grMnyxEF5B"
+    },
+    {
+      "album": {
         "name": "My Definition of Funk",
         "url": "https://open.spotify.com/album/6J3dia1jT32gmDg00m9FFb"
       },
@@ -5394,7 +5452,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 379146,
       "name": "Nostalgia (Kyle Starkey Remix)",
       "url": "https://open.spotify.com/track/5wD5TRXQnPHHiBQAzMzjj8"
@@ -6250,6 +6308,24 @@
       "duration_ms": 400293,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5RrPp2b95hc3owf9aBq3Kb"
+    },
+    {
+      "album": {
+        "name": "No Border",
+        "url": "https://open.spotify.com/album/0Kl88nIYuoMv2UnNJtNTQf"
+      },
+      "artists": [
+        {
+          "name": "Zaatar\u2069",
+          "url": "https://open.spotify.com/artist/7BF810kNm8Hzi4taT8zqjh"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320240,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/5OZRQxwGu0r484nJu433EH"
     },
     {
       "album": {
@@ -7916,7 +7992,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-11",
       "duration_ms": 369492,
       "name": "Unity",
       "url": "https://open.spotify.com/track/0FE4AZXB8Rxe6aakPvMce8"

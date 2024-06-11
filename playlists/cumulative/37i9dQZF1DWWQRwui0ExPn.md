@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,815 songs - 10 day 18 hr 19 min
+6,816 songs - 10 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2092,6 +2092,7 @@
 | [Flores](https://open.spotify.com/track/4LvzzJt1M7I0mcMB7bI8t5) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Flores](https://open.spotify.com/album/0PvhnLLMpzErQIrftUhO2p) | 1:47 | 2022-04-15 | 2022-05-27 |
 | [Florianopolis](https://open.spotify.com/track/4cTAkCLS5RqKHwYlSgGNZE) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Florianopolis](https://open.spotify.com/album/3IyWbIjpbeMTLsvXnuO7kc) | 2:59 | 2022-08-19 | 2023-01-07 |
 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 | 2020-01-23 | 2021-08-22 |
+| [Flourish](https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Flourish](https://open.spotify.com/album/6Rtxn74NcGt86OLiZ93sC6) | 2:12 | 2024-06-07 |  |
 | [Flow](https://open.spotify.com/track/7kqjF0uXE6Gps6MvO6Xu6Y) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Flow](https://open.spotify.com/album/37YjtkTCQqG3eDwxTJMy3w) | 1:12 | 2019-06-22 | 2020-10-21 |
 | [Flow & Glow](https://open.spotify.com/track/7i9mp3NNtqCKDY11HeTSDH) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Flow & Glow](https://open.spotify.com/album/0uoyityfoHU9wkc42iXRWf) | 1:35 | 2022-12-02 | 2023-11-17 |
 | [Flow Downstream](https://open.spotify.com/track/493ggrfPQoWAiW3ewJBGRt) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Currents](https://open.spotify.com/album/5VlRaGpdL2hRWCsWQWIHlk) | 2:40 | 2022-07-15 | 2022-11-11 |
@@ -3864,7 +3865,7 @@
 | [moonlights](https://open.spotify.com/track/2aH7PYX1vdr96PNXdBqmJs) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [moonlights](https://open.spotify.com/album/4QOo2Y2EE83J9l1QzEbuy8) | 2:01 | 2021-07-11 | 2022-03-12 |
 | [Moonlit Whispers](https://open.spotify.com/track/7LhSuxt5h2I9Kfs4bkoiAN) | [LiGe 力哥](https://open.spotify.com/artist/4XuX7xOI4bK8Rfpwu0WjV9), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Lush Lofi](https://open.spotify.com/artist/5JhRPnuIs99MvULl2ZcFiL) | [Moonlit Whispers](https://open.spotify.com/album/5FCiLkgnhw5I5HVoeRDbi6) | 2:22 | 2023-11-17 |  |
 | [Moonrise](https://open.spotify.com/track/3ou3qih65k7ZqoVN4ziXuG) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo) | [Moonrise](https://open.spotify.com/album/44LmbRxDhVJiu8lN0el8MN) | 2:16 | 2022-02-14 | 2022-07-22 |
-| [Moonrise](https://open.spotify.com/track/1IjfRgASFYlHRHYLuUrmsA) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Moonrise](https://open.spotify.com/album/2yffzTV7ikZP8CaDtrA9eb) | 2:12 | 2024-06-07 |  |
+| [Moonrise](https://open.spotify.com/track/1IjfRgASFYlHRHYLuUrmsA) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Moonrise](https://open.spotify.com/album/2yffzTV7ikZP8CaDtrA9eb) | 2:12 | 2024-06-07 | 2024-06-11 |
 | [Moons Of Neptune](https://open.spotify.com/track/3ytJslh6YkL4PwdH8NWxSC) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Moons Of Neptune](https://open.spotify.com/album/2wmOPcJfvbIRlgCcynAxhX) | 2:36 | 2022-07-15 | 2022-10-28 |
 | [Moonscape](https://open.spotify.com/track/4jf6xXgvgVnXDMUNBAXTQ2) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [A Quiet Place](https://open.spotify.com/album/6qddHV8GGqTuSawsntlL5k) | 2:25 | 2022-12-16 | 2023-03-25 |
 | [Moonshine](https://open.spotify.com/track/0MWcu0NXEJszqLvK19n0hy) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Moonshine / Starshine](https://open.spotify.com/album/4Iz5vcZYyC1ztExHZngPVf) | 1:53 | 2022-11-18 | 2023-09-30 |
