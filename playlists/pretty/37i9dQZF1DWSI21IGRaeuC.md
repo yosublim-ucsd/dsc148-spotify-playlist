@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,769 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,796 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 47 | [Downstream](https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Downstream](https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z) | 2:55 |
 | 48 | [Moon](https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Moon](https://open.spotify.com/album/1Qy0K3GpyxtAyG2u4s53VH) | 2:58 |
 | 49 | [Moonlight](https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Moonlight](https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng) | 5:37 |
-| 50 | [Stolen Dub](https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Stolen Dub](https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM) | 2:16 |
+| 50 | [Bonito](https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Bonito](https://open.spotify.com/album/0GRAvBOREScwdewiySp05v) | 3:15 |
 | 51 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
-| 52 | [Bonito](https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Bonito](https://open.spotify.com/album/0GRAvBOREScwdewiySp05v) | 3:15 |
+| 52 | [Stolen Dub](https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Stolen Dub](https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM) | 2:16 |
 | 53 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 |
 | 54 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 |
 | 55 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 81 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 82 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 |
 | 83 | [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 |
-| 84 | [Guardian](https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Guardian](https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq) | 7:23 |
-| 85 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 |
+| 84 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 |
+| 85 | [Guardian](https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Guardian](https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq) | 7:23 |
 | 86 | [Teki Teki](https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR) | [Ishimaru](https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n) | [Teki Teki](https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n) | 3:20 |
 | 87 | [Break Down \- Dennis Cruz Remix](https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Break Down EP](https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK) | 5:42 |
 | 88 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 90 | [Where Ya At](https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Where Ya At](https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4) | 3:48 |
 | 91 | [What's Your Name](https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [What's Your Name](https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59) | 7:24 |
 | 92 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 |
-| 93 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
-| 94 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 93 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 |
+| 94 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 95 | [What We Got](https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [What We Got](https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy) | 5:20 |
 | 96 | [Disco Trip](https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w) | [Disco Trip EP](https://open.spotify.com/album/3g2dwNVLlAeXMGmgYqDtLY) | 3:35 |
 | 97 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 |
 | 98 | [Step Forward](https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Step Forward EP](https://open.spotify.com/album/6G9EVsvrgPLV34oAxeNx2I) | 5:35 |
 | 99 | [7am Germany](https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx) | [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [DR\-EP\-2068](https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y) | 3:52 |
-| 100 | [Strictly Ruffneck \(Come Again\)](https://open.spotify.com/track/2tMKcXPjZ99DvFYBUd7k1t) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Strictly Ruffneck \(Come Again\)](https://open.spotify.com/album/6GP5G8aPWZgBmyOf5Wv7rJ) | 5:44 |
+| 100 | [OSSAB](https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3) | [Basso \(UK\)](https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu) | [OSSAB](https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh) | 5:30 |
 
 Snapshot ID: `ZmMpgwAAAACw0ln31xM3mfnyUHSFgEw1`

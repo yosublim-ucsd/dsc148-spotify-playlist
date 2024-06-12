@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 189653,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 178946,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 198666,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 162093,
       "name": "CAROLINA",
       "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 214293,
       "name": "Cr\u00e9eme",
       "url": "https://open.spotify.com/track/4EKZsrsCKyqr64FBHLc0DU"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 209160,
       "name": "EL MAKINON",
       "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 209160,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 186453,
       "name": "GUCCI LOS PA\u00d1OS",
       "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 183480,
       "name": "PERO T\u00da",
       "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
@@ -930,10 +930,32 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
+    },
+    {
+      "album": {
+        "name": "PROVENZA (Sistek Remix)",
+        "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "PROVENZA - Sistek Remix",
+      "url": "https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto"
     },
     {
       "album": {
@@ -1072,7 +1094,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
@@ -1094,7 +1116,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"

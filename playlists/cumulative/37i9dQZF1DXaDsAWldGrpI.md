@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-179 songs - 12 hr 18 min
+180 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [My Way \- Live at the Honolulu International Center](https://open.spotify.com/track/2VGkf2IJXOSWouDhatlH3i) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha from Hawaii Via Satellite \(Live\)](https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB) | 4:01 | 2024-05-04 |  |
 | [Need You Now \- Live](https://open.spotify.com/track/0B6xuiHFvxkiAtmGbbuSKB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 5:42 | 2021-07-22 |  |
 | [Next Thing You Know \- Live From The O2 London](https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know \(Live From The O2 London\)](https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU) | 3:01 | 2023-05-19 |  |
+| [No One Else On Earth \- Live](https://open.spotify.com/track/5dNlMKYjk6BsTEKrZX61mT) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [No One Else On Earth \(Live\)](https://open.spotify.com/album/62uaZ5wUlfUwMn7eEJ9v1G) | 4:44 | 2024-06-07 |  |
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |
 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 | 2024-05-04 |  |
 | [Oklahoma Smokeshow \- Live](https://open.spotify.com/track/38L9BdfJKkWGwot9GWIXMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:33 | 2022-12-25 |  |
@@ -174,7 +175,7 @@
 | [When You Say Nothing At All \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 4:21 | 2021-07-22 |  |
 | [Where I Find God \(Live\)](https://open.spotify.com/track/4ulpcN5xjehEx4MbF7uk81) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Larry Fleet \- The Live Sessions \[Vol\. 1\]](https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM) | 4:15 | 2022-10-28 |  |
 | [Whiskey River \- Live at Harrah's Casino, Lake Tahoe, NV \- April 1978](https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie And Family Live](https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB) | 3:38 | 2024-05-04 |  |
-| [Whiskey Rock\-A\-Roller \- Live](https://open.spotify.com/track/1ZuqcBtqvLKq0aQ7hRMSGa) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [One More For The Fans \(Live\)](https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi) | 4:27 | 2021-07-22 |  |
+| [Whiskey Rock\-A\-Roller \- Live](https://open.spotify.com/track/1ZuqcBtqvLKq0aQ7hRMSGa) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [One More For The Fans \(Live\)](https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi) | 4:27 | 2021-07-22 | 2024-06-12 |
 | [Wild as Her \- Live From Cain's Ballroom](https://open.spotify.com/track/68fBkpb1vyU4s3c4DyWVOg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her \(Live From Cain's Ballroom\)](https://open.spotify.com/album/0Pkas0sUrZrEcGBtzGGNtl) | 5:22 | 2023-05-19 |  |
 | [Wings \- Live at the Ryman](https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wings \(Live at the Ryman\)](https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs) | 6:03 | 2023-04-07 |  |
 | [Wish for the World \- Live from Nashville](https://open.spotify.com/track/1DjHk2vOAppja7eA95orn0) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:39 | 2021-07-22 | 2024-05-05 |

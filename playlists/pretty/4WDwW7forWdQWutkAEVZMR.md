@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Halsey, Miley Cyrus, and more! Cover: Koe Wetzel &amp; Jessie Murph
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,017 likes - 50 songs - 2 hr 35 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,018 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 49 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 |
 | 50 | [BLEED](https://open.spotify.com/track/0gC7ElLAefEaFM1oyNsjUY) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/1rmqaos4sc4N5cSqe1ytiZ) | 2:49 |
 
-Snapshot ID: `AAAbmU/VKDnIDjCKVI/ko6f+MkM1qYOd`
+Snapshot ID: `AAAbmyq/TcDWiDYFV9sksCXNEMM4U381`

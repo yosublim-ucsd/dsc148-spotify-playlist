@@ -1,29 +1,13 @@
 {
   "description": "Pop Latino de los 80 y 90. Canciones que quedar\u00e1n para siempre. Foto: Luis Miguel",
-  "num_followers": 886482,
+  "num_followers": 886678,
   "original_name": "Cl\u00e1sicos del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZdOPqQAAAAAq2E455pFT93k3tdQmAXUV",
+  "snapshot_id": "ZmiYRQAAAAAlurwcyppZQn4QBu9QBeF8",
   "tracks": [
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
-    },
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 242560,
       "name": "No Podras",
       "url": "https://open.spotify.com/track/2Pu6Yd9XZ8H4lrGPv9kqEH"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2022-03-15 03:49:22",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -87,62 +103,6 @@
       "duration_ms": 284466,
       "name": "Dejar\u00eda Todo",
       "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2022-03-15 03:49:22",
-      "album": {
-        "name": "Mu\u00f1ecos de Papel",
-        "url": "https://open.spotify.com/album/6Zdu0HL3JrErgHkbphRffB"
-      },
-      "artists": [
-        {
-          "name": "Mu\u00f1ecos de Papel",
-          "url": "https://open.spotify.com/artist/7hyitYWkpLxZUiZ7LezoAc"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/1wgaVwZ7CMHJLePpz82m5w"
-        },
-        {
-          "name": "Ang\u00e9lica Rivera",
-          "url": "https://open.spotify.com/artist/57v65ftZefzhbcIagR8EDQ"
-        },
-        {
-          "name": "Bibi Gaytan",
-          "url": "https://open.spotify.com/artist/4JRQ9qtp3PXMQuMhjZ506i"
-        },
-        {
-          "name": "Ricky",
-          "url": "https://open.spotify.com/artist/2cACzdhckaUoBIz8MplZoD"
-        },
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        },
-        {
-          "name": "Erik Rubin",
-          "url": "https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n"
-        }
-      ],
-      "duration_ms": 226330,
-      "name": "Mu\u00f1ecos de Papel",
-      "url": "https://open.spotify.com/track/1OeN1DxQCgN4aXzuDur3Jk"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -223,6 +183,22 @@
       "duration_ms": 331360,
       "name": "La Chica de Humo",
       "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
+    },
+    {
+      "added_at": "2024-06-11 18:32:36",
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
     },
     {
       "added_at": "2022-03-15 03:49:22",
@@ -1723,8 +1699,8 @@
     {
       "added_at": "2022-03-15 03:49:22",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
       "artists": [
         {
@@ -1732,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2022-03-15 03:49:22",

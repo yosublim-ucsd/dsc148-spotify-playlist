@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-183 songs - 11 hr 46 min
+184 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [How Do Ya Feel](https://open.spotify.com/track/6EACVe4VmEJHosKTiVLojg) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 3:31 | 2021-12-27 |  |
 | [I Can't Wait](https://open.spotify.com/track/398JRb74efCO1xDxb36DTI) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Forever Is Over](https://open.spotify.com/album/6dIKn7KD9OTrNnqoPIt9bH) | 3:43 | 2021-12-27 |  |
 | [I Don't Know What It Is](https://open.spotify.com/track/3MJnTuDz55mdvbqGxc55u4) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/0OrHGmFklZgRtjgJuiaLAb) | 3:17 | 2021-12-27 |  |
-| [I Love It](https://open.spotify.com/track/5GScRSH0Na7vGTmFxuBUSG) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/0KTmxgfwMFOBXmajMpjlkB) | 3:50 | 2023-12-13 |  |
+| [I Love It](https://open.spotify.com/track/02Xhm6DxYZn9rtEQjbsFjd) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:50 | 2024-06-11 |  |
+| [I Love It](https://open.spotify.com/track/5GScRSH0Na7vGTmFxuBUSG) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/0KTmxgfwMFOBXmajMpjlkB) | 3:50 | 2023-12-13 | 2024-06-12 |
 | [I Love It](https://open.spotify.com/track/6g225JcOUd88PRslWGsRD3) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:50 | 2021-12-27 | 2023-12-14 |
 | [I'm Alright](https://open.spotify.com/track/0bGS851JgP0O5PXzNXzEcr) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:04 | 2022-12-26 |  |
 | [If U Can't Dance](https://open.spotify.com/track/6bh25NILjNfJnIvGRT2emC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:48 | 2021-12-27 |  |

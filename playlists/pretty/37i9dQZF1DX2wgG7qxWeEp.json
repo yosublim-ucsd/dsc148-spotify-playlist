@@ -1,6 +1,6 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 81187,
+  "num_followers": 81204,
   "original_name": "Verano Mix 2024",
   "owner": {
     "name": "Spotify",
@@ -867,46 +867,6 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -939,6 +899,46 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Quiere Beber",
+      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Quiere Beber",
-      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
     },
     {
       "added_at": "2024-05-24 08:52:25",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-05-24 08:52:25",
       "album": {
+        "name": "Mala Mujer",
+        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 222896,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
+    },
+    {
+      "added_at": "2024-05-24 08:52:25",
+      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": "2024-05-24 08:52:25",
-      "album": {
-        "name": "Mala Mujer",
-        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 222896,
-      "name": "Mala Mujer",
-      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
     },
     {
       "added_at": "2024-05-24 08:52:25",

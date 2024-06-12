@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 583553,
+  "num_followers": 583558,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/2UCyiayMoJOwBilPLQPQvK"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/1hWQvA6oGVJ2mAVsZ59AaV"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/2TIp2qGorHvqyaiAb82Awe"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331573,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/1hKdDCpiI9mqz1jVHRKG0E"
     }
   ],
   "unique_name": "Beer & Wings",

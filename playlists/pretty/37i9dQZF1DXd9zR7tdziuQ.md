@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,370 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,466 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 52 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 |
 | 53 | [Don't Wanna Know \- Acoustic Version](https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [\#Acoustic](https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI) | 3:03 |
 | 54 | [IDGAF \- Acoustic](https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:37 |
-| 55 | [Chandelier \- Live from The Village](https://open.spotify.com/track/2CZX6RHW9EYFhhTANVsF5A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 3:57 |
-| 56 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
+| 55 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
+| 56 | [Chandelier \- Live from The Village](https://open.spotify.com/track/2CZX6RHW9EYFhhTANVsF5A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 3:57 |
 | 57 | [Bad Day \- Acoustic](https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Jimmy Gets High](https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC) | 3:36 |
 | 58 | [I Kissed a Girl](https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Derivatives](https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4) | 3:12 |
 | 59 | [Too Much To Ask \- Acoustic](https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask \(Acoustic\)](https://open.spotify.com/album/54VaqAx59YDqRsoBh4l5Up) | 3:41 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 74 | [I'm the One \- Acoustic](https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx) | [Sunset & Highland](https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT) | [I'm the One \(Acoustic\)](https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe) | 3:53 |
 | 75 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy) | 3:28 |
 | 76 | [Shallow](https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9) | [The Hound + The Fox](https://open.spotify.com/artist/6KxrjoB8dMcRC295reb2Us) | [Shallow](https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA) | 3:41 |
-| 77 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 |
-| 78 | [Sugar \- Acoustic](https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80) | [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Francesco Yates](https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1) | 3:29 |
+| 77 | [Sugar \- Acoustic](https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80) | [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Francesco Yates](https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1) | 3:29 |
+| 78 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 |
 | 79 | [Please Keep Loving Me \- Acoustic](https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me \(Acoustic\)](https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX) | 3:17 |
 | 80 | [She's On My Mind \- Guitar Acoustic](https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She's On My Mind \(Acoustics\)](https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz) | 2:46 |
 | 81 | [Crazy \- Live Sessions](https://open.spotify.com/track/15byLK9MadQ44VM9opaGms) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Crazy \(Live Sessions\)](https://open.spotify.com/album/6GlV1bUsj1Vjk6xHIJKhbC) | 2:56 |

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-910 songs - 2 day 7 hr 6 min
+911 songs - 2 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Conscious](https://open.spotify.com/track/1GjVHzIOOA8naSpkSbwQ11) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Conscious](https://open.spotify.com/album/3VSYfXlXEjMKMp1EyBWLiP) | 2:57 | 2023-07-07 | 2024-06-06 |
 | [Constancy](https://open.spotify.com/track/0AkEFT8vseHBEog0alLJbo) | [Mino Safy](https://open.spotify.com/artist/2YwWtaaaCMDirSz0qfxjE5) | [Constancy](https://open.spotify.com/album/3kEVfGFVUOtE8YshBabPYV) | 3:44 | 2022-05-06 | 2022-05-10 |
 | [Constellations](https://open.spotify.com/track/5QT3JLV90my9oISLK26xDe) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he) | [Constellations](https://open.spotify.com/album/7ftdQIAvvmrqDlvVGgp6Bm) | 3:33 | 2021-12-17 | 2022-02-26 |
-| [Contrast](https://open.spotify.com/track/6ND5LGkeitafW7tM7I4oND) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Bloom](https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD) | 4:28 | 2023-10-13 |  |
+| [Contrast](https://open.spotify.com/track/6ND5LGkeitafW7tM7I4oND) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Bloom](https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD) | 4:28 | 2023-10-13 | 2024-06-12 |
 | [Control](https://open.spotify.com/track/7ozN47N1dHK0O2iQK6THcr) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH) | [Control](https://open.spotify.com/album/6FpqTdRVVt6Lq3SD9xAcGn) | 2:34 | 2022-05-20 | 2022-05-23 |
 | [Crank](https://open.spotify.com/track/1H5Iu1nBJZwVdDR0tSgpj9) | [Adam Scott](https://open.spotify.com/artist/2RwzIU3edYJysusJYWaDny) | [Crank](https://open.spotify.com/album/3vXZsHHuQFvXuFc2u3bAer) | 3:41 | 2022-01-07 | 2023-02-20 |
 | [Crazy Love](https://open.spotify.com/track/273cv9sESQzXxMqEkhXdm4) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Crazy Love](https://open.spotify.com/album/7nin9VgWvgxpibL3zxc5gR) | 3:51 | 2024-02-09 |  |
@@ -303,6 +303,7 @@
 | [Forever \- Christopher Corrigan Remix](https://open.spotify.com/track/3SZTrJcyuLhAoPTwLDl0Je) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [FAWZY](https://open.spotify.com/artist/3aTYYBTJCGSfPEPR9JJ4mj), [Christopher Corrigan](https://open.spotify.com/artist/2JJD0m0hYRMyHElA7d3tH8), [Rebecca Louise Burch](https://open.spotify.com/artist/2xakyy51UCHjVwIvHGNpdY) | [Forever](https://open.spotify.com/album/5zp9XkQBSaz7i8A8t8j6bo) | 3:28 | 2023-05-26 | 2024-05-18 |
 | [Forever \- ReOrder Remix](https://open.spotify.com/track/3mLO9dgG0FJIThfk0mJhZV) | [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Forever \(ReOrder Remix\)](https://open.spotify.com/album/7iyCfXKiGypOsJ9n3QAeNB) | 3:34 | 2022-09-30 | 2023-06-10 |
 | [Forever Gold](https://open.spotify.com/track/1iEEB0kgTbrHMc18B6omHH) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [We Are Siskin](https://open.spotify.com/album/4eUNxvdi6SR3cPSJXnla8P) | 3:22 | 2024-01-05 | 2024-06-05 |
+| [Forever Gone](https://open.spotify.com/track/12ql9Gpl4AJf3F7HKyGIPE) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [Forever Gone](https://open.spotify.com/album/5gCV2YJdRRhm1CFiVIF2LG) | 3:23 | 2024-05-31 |  |
 | [Forever Young](https://open.spotify.com/track/5SNg13REo7ed6Dm0sXGgz8) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Forever Young](https://open.spotify.com/album/3nsCfqGPYeibfc4sidOnX7) | 3:15 | 2023-12-15 |  |
 | [Forgiven Not Forgotten](https://open.spotify.com/track/3WPkQDALdIsNZ1SY6bn9u2) | [Armage](https://open.spotify.com/artist/5osCJde09pUw1QmfuhX4Fb), [Tiff Lacey](https://open.spotify.com/artist/6wmyaMNIjZ26DmwgQDWKoE) | [Forgiven Not Forgotten](https://open.spotify.com/album/1AVr7oXAZMBisRjZWiM4dU) | 3:48 | 2023-02-24 | 2023-06-10 |
 | [Freak Of The Week](https://open.spotify.com/track/6ftO5bAiMPsUcRs6fgKWfW) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Freak Of The Week](https://open.spotify.com/album/6tMyIEtJXxEwcyn6lwRh7R) | 3:24 | 2023-01-13 | 2023-10-14 |

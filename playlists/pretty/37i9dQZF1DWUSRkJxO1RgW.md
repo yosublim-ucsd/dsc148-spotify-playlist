@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,294 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,316 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 30 | [Brilla \(Shine\)](https://open.spotify.com/track/4xqttklZFV1w1RKjbVh4na) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Corderos en la Noche](https://open.spotify.com/album/4Fpi6uelomG6RCL39kTEt9) | 3:10 |
 | 31 | [Por Qué No Puedo Ser Del Jet Set? \- Remasterizado 2007](https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Soda Stereo \(Remastered\)](https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt) | 2:20 |
 | 32 | [Imágenes Paganas](https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:29 |
-| 33 | [La Calle Es Su Lugar](https://open.spotify.com/track/1MHNs42ZBA91ONnGjwmjyG) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Aire De Todos \- Antología 1984 \- 1986](https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV) | 4:24 |
-| 34 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
+| 33 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
+| 34 | [La Calle Es Su Lugar](https://open.spotify.com/track/1MHNs42ZBA91ONnGjwmjyG) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Aire De Todos \- Antología 1984 \- 1986](https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV) | 4:24 |
 | 35 | [Menta y limón](https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie) | [Roque Narvaja \(F\)](https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp) | [20 Grandes Canciones](https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o) | 4:18 |
 | 36 | [Rezo Por Vos](https://open.spotify.com/track/46TZ5rawdrjoFwsQLGlcLr) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Prive](https://open.spotify.com/album/11NynTWjF8rIm2Eu4RWiNS) | 3:22 |
 | 37 | [Ella Vendrá \- Remastered](https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg) | [Don Cornelio Y La Zona](https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe) | [Don Cornelio y La Zona](https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz) | 4:11 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 56 | [Héroes](https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE) | [Friccion](https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD) | [Heroes / Antologia 1986 \- 1988](https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5) | 6:19 |
 | 57 | [Corazones Muertos](https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:46 |
 | 58 | [Conexión París](https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 5:01 |
-| 59 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
+| 59 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
 | 60 | [A Cada Hombre, A Cada Mujer](https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:53 |
 
 Snapshot ID: `ZgGBVQAAAACmJJCqha9KyPfqvIDE4vaL`

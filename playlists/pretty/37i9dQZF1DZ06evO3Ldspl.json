@@ -1,12 +1,12 @@
 {
-  "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 8792,
+  "description": "This Is Binomio de Oro. Los temas esenciales, todos en una lista.",
+  "num_followers": 8795,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADeoZrXQVW9iYtlwNQHdk3e",
+  "snapshot_id": "ZmZCAAAAAACWbRmKiYcPnGmj4IF+ig5p",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festival Vallenato",
-        "url": "https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Esa",
-      "url": "https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera De Serie",
         "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 291898,
       "name": "Lleno de Ti",
       "url": "https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festival Vallenato",
+        "url": "https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Esa",
+      "url": "https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "Recorriendo a Venezuela",
-      "url": "https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 295333,
       "name": "Dime Pajarito",
       "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Recorriendo a Venezuela",
+      "url": "https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Binomio De Oro 1986",
+        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 243995,
+      "name": "S\u00f3lo un Recuerdo",
+      "url": "https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Siempre Rafael Orozco Binomio De Oro",
         "url": "https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 259707,
       "name": "Cien A\u00f1os De Ausencia",
       "url": "https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Binomio De Oro 1986",
-        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 243995,
-      "name": "S\u00f3lo un Recuerdo",
-      "url": "https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 237540,
-      "name": "Hab\u00edamos Terminado",
-      "url": "https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Binomio De Oro 1986",
         "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 262617,
       "name": "T\u00fa No Notas",
       "url": "https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 237540,
+      "name": "Hab\u00edamos Terminado",
+      "url": "https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "Te Lo Dije Mujer",
-      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Binomio De Oro 1986",
         "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 250102,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "Te Lo Dije Mujer",
+      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Exportaci\u00f3n",
-        "url": "https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 295706,
-      "name": "No Vale Quererla",
-      "url": "https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enamorado Como Siempre",
         "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 249733,
       "name": "Mundo de Ilusiones",
       "url": "https://open.spotify.com/track/2zblES980vphzev9UT5ZF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Exportaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295706,
+      "name": "No Vale Quererla",
+      "url": "https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 261316,
-      "name": "Ma\u00f1ana Sale el Sol",
-      "url": "https://open.spotify.com/track/4BZjznSJmBXSu9xyUzyfNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enamorado Como Siempre",
         "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 234440,
       "name": "Mi Mejor Canci\u00f3n",
       "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 261316,
+      "name": "Ma\u00f1ana Sale el Sol",
+      "url": "https://open.spotify.com/track/4BZjznSJmBXSu9xyUzyfNv"
     },
     {
       "added_at": null,

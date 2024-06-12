@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-352 songs - 18 hr 37 min
+353 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 | 2023-08-11 |
 | [Yesterday](https://open.spotify.com/track/0Cxyt1tuzX8dRdPR2mXPZz) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Young Viridii](https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9) | [Yesterday](https://open.spotify.com/album/4gbR6lbzBVdoU9RNijlKpW) | 3:26 | 2022-08-18 | 2023-08-11 |
 | [You Did Me Wrong](https://open.spotify.com/track/021AdIBrNm09ETA6iMxnyw) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 2:05 | 2022-05-20 | 2023-08-11 |
+| [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 | 2024-06-11 |  |
 | [Your Love](https://open.spotify.com/track/6e9RiPpVFxukEfOC7fHW4i) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Your Love](https://open.spotify.com/album/0smUOqiOuyScdD4bgwI7ek) | 2:25 | 2023-08-10 |  |
 | [Zero Gravity](https://open.spotify.com/track/2qwQQJST3AmRQrexMxS04J) | [Tom Wilson](https://open.spotify.com/artist/4W9vuLWmzlcGv6stGVWPPC), [Jauque X](https://open.spotify.com/artist/0Xw13Cokuw3f9EWgAOXsMk) | [Zero Gravity](https://open.spotify.com/album/1coh3qmB3JR9tEBEtidmky) | 2:31 | 2022-02-03 | 2022-09-15 |
 

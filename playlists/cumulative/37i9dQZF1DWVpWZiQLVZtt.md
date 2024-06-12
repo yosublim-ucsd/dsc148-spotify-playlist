@@ -4,7 +4,7 @@
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-146 songs - 10 hr 13 min
+147 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 | 2022-01-27 |  |
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2022-01-27 |  |
 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 | 2022-01-27 |  |
+| [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 | 2024-06-11 |  |
 | [La Fuerza del Engaño](https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 3:27 | 2022-01-27 |  |
 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 | 2022-03-15 | 2024-04-19 |
 | [La Gota Fría](https://open.spotify.com/track/5ZaTqcL7zIreaVNeVy89Iu) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clásicos de la Provincia](https://open.spotify.com/album/3mg8UDN3X1gfebVI3OV5AU) | 3:35 | 2022-01-27 |  |
@@ -100,7 +101,7 @@
 | [Mientes](https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 3:25 | 2022-01-27 |  |
 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 | 2022-01-27 |  |
 | [Mujeres](https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 3:27 | 2022-01-27 |  |
-| [Muñecos de Papel](https://open.spotify.com/track/1OeN1DxQCgN4aXzuDur3Jk) | [Muñecos de Papel](https://open.spotify.com/artist/7hyitYWkpLxZUiZ7LezoAc), [Sasha](https://open.spotify.com/artist/1wgaVwZ7CMHJLePpz82m5w), [Angélica Rivera](https://open.spotify.com/artist/57v65ftZefzhbcIagR8EDQ), [Bibi Gaytan](https://open.spotify.com/artist/4JRQ9qtp3PXMQuMhjZ506i), [Ricky](https://open.spotify.com/artist/2cACzdhckaUoBIz8MplZoD), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh), [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Muñecos de Papel](https://open.spotify.com/album/6Zdu0HL3JrErgHkbphRffB) | 3:46 | 2022-01-27 |  |
+| [Muñecos de Papel](https://open.spotify.com/track/1OeN1DxQCgN4aXzuDur3Jk) | [Muñecos de Papel](https://open.spotify.com/artist/7hyitYWkpLxZUiZ7LezoAc), [Sasha](https://open.spotify.com/artist/1wgaVwZ7CMHJLePpz82m5w), [Angélica Rivera](https://open.spotify.com/artist/57v65ftZefzhbcIagR8EDQ), [Bibi Gaytan](https://open.spotify.com/artist/4JRQ9qtp3PXMQuMhjZ506i), [Ricky](https://open.spotify.com/artist/2cACzdhckaUoBIz8MplZoD), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh), [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Muñecos de Papel](https://open.spotify.com/album/6Zdu0HL3JrErgHkbphRffB) | 3:46 | 2022-01-27 | 2024-06-12 |
 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 | 2022-01-27 |  |
 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 | 2022-01-27 |  |
 | [No Le Dijo Nada](https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 3:42 | 2022-01-27 |  |

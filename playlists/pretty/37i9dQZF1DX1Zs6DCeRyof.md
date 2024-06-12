@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Dei V en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,982 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,018 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 26 | [PUÑAL](https://open.spotify.com/track/46qsJtMCmrD2uzYZdRzfXI) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X) | [CVRBON VRMOR \[C\_DE: G\_D.O.N.\]](https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE) | 3:38 |
 | 27 | [WYA REMIX BLUE](https://open.spotify.com/track/7J5Um8Nwar48h38PU7cPre) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [WYA REMIX BLUE](https://open.spotify.com/album/4lcVauETJFxvlM42ue7ZDz) | 4:50 |
 | 28 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 |
-| 29 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/17XeomF5xiiR4bQVQx0uWB), [Omar Courtz](https://open.spotify.com/artist/6ju131sNPISiZTbmJMTAE4) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
+| 29 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
 | 30 | [BYAK](https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [BYAK](https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5) | 3:36 |
 | 31 | [Bien Loco](https://open.spotify.com/track/7sQTnko0Rj32DZCXG6Q756) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 3:32 |
 | 32 | [ESKELETO](https://open.spotify.com/track/1jPff2HChF9ZahcdogUaCX) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:39 |

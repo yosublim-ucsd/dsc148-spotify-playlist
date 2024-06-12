@@ -4,11 +4,12 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: LEE CHANGSUB\(이창섭\)\)
 
-300 songs - 19 hr 35 min
+304 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 | 2024-04-02 |  |
+| [a sad invitation](https://open.spotify.com/track/5LvFaKs1QN2nR65h4tJN4R) | [YOON JI HWAN](https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4) | [a sad invitation](https://open.spotify.com/album/3Miicdgx3CUIAfLiMUja2F) | 4:06 | 2024-06-11 |  |
 | [Acrobat](https://open.spotify.com/track/0k21uOz3txTfyA1a91QWTr) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Acrobat](https://open.spotify.com/album/2THm7JvUSSTK4wutej90Rx) | 3:06 | 2022-02-17 | 2023-11-16 |
 | [Actually.\. I miss you \(Feat.Gunho\)](https://open.spotify.com/track/6GI5AwV6rXiAItDCA822NS) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Gunho](https://open.spotify.com/artist/0d9sFHl0tJfMsvOWPjEiDR) | [Actually.\. I miss you](https://open.spotify.com/album/6q71hAOiLmRq1s0t8rvbnF) | 4:14 | 2022-02-17 |  |
 | [Actually.\. I miss you \(Male Ver.\)](https://open.spotify.com/track/4EeG3g4OxU6LJRhxWSxc4s) | [Gunho](https://open.spotify.com/artist/0d9sFHl0tJfMsvOWPjEiDR) | [Actually.\. I miss you](https://open.spotify.com/album/6ksqcwxQKuGRquAqwskFQG) | 4:14 | 2022-02-17 |  |
@@ -162,6 +163,7 @@
 | [Love should not be harsh on you](https://open.spotify.com/track/03TdLY0nav9sQ3kyjbyJ9t) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love should not be harsh on you](https://open.spotify.com/album/6jHa0QNqdyT3w2jGIpR2z5) | 4:28 | 2022-02-17 |  |
 | [Love Should Not Be Harsh on You](https://open.spotify.com/track/5377e0iYznz3jvxZYrLSSa) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love Should Not Be Harsh on You](https://open.spotify.com/album/2R65vfu1wSdAy6JTvucoqE) | 4:28 | 2022-02-23 | 2024-04-19 |
 | [Love wins all](https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love wins all](https://open.spotify.com/album/2bwwRhKbLeD3LvNDXauV2T) | 4:31 | 2024-04-02 |  |
+| [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 | 2024-06-11 |  |
 | [Love, ing](https://open.spotify.com/track/269Fxuy0WNGk4nnI8M5LdK) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RECIPE](https://open.spotify.com/album/2hEI4wV5hL1hioRpwwGBJc) | 4:30 | 2022-02-17 |  |
 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2022-02-17 | 2023-11-16 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-05-09 |  |
@@ -211,8 +213,10 @@
 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 | 2022-02-17 |  |
 | [SOLO](https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR) | 2:49 | 2021-03-11 | 2022-02-18 |
 | [Still love you](https://open.spotify.com/track/0ih4PcU40uucAVEbD2486u) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4), [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [FNC LAB 'Still love you'](https://open.spotify.com/album/0tlT3SCG5H1QpS3F6cQtlq) | 4:18 | 2022-02-17 |  |
+| [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 | 2024-06-11 |  |
 | [Suddenly](https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Bipolar](https://open.spotify.com/album/7v35vbIFXpCNqRcCmciH0v) | 2:36 | 2022-02-17 |  |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-10-04 |  |
+| [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 | 2024-06-11 |  |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-05-09 |  |
 | [Tempo](https://open.spotify.com/track/4EjUFjzi4ErWjklOA3Aslu) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON’T MESS UP MY TEMPO – The 5th Album](https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D) | 3:44 | 2021-03-11 | 2022-02-18 |
 | [The Lonely Bloom Stands Alone](https://open.spotify.com/track/6ylw0U4J3RFj0NoVCMZj93) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Lonely Bloom Stands Alone](https://open.spotify.com/album/0r2zfboB7deSVphi3HGk8Z) | 3:19 | 2022-02-17 |  |
@@ -256,7 +260,7 @@
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 | 2022-02-23 | 2024-04-19 |
 | [Zimzalabim](https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 1](https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R) | 3:10 | 2021-03-11 | 2022-02-18 |
 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 | 2022-02-17 |  |
-| [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2024-04-02 | 2024-04-19 |
+| [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2024-04-02 |  |
 | [가시](https://open.spotify.com/track/7BHijuU3OSoh4WnLfmZfU5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9) | 4:01 | 2022-02-17 |  |
 | [가시](https://open.spotify.com/track/7csMuPqdOPaFKby0AoRYL5) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Buzz Effect](https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n) | 4:01 | 2022-02-23 | 2024-04-19 |
 | [고해](https://open.spotify.com/track/1ZWVTJbm5XCJEBn4jrcER6) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/6xBBPD2xe2FeVfyZcfyGyV) | 5:00 | 2023-02-16 | 2023-12-20 |

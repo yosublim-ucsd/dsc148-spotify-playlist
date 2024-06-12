@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,600 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,599 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 49 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
 | 50 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 |
 
-Snapshot ID: `LfplGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

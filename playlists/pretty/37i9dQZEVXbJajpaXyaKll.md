@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,222 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,212 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 49 | [Viaje de Ida](https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Viaje de Ida](https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR) | 3:11 |
 | 50 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
 
-Snapshot ID: `LfplGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

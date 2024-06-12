@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,044 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,077 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 48 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
 | 49 | [Mátalas](https://open.spotify.com/track/2uZX6rf2otrXvGx8vby7Xd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 2:54 |
 | 50 | [No discutamos](https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:22 |
-| 51 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
-| 52 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
+| 51 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
+| 52 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
 | 53 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
 | 54 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 55 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 82 | [Te Quedaste Casi A Nada \(En Vivo\)](https://open.spotify.com/track/5S7aouHg7cUJf97oxMZzLk) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Yakifest Vol\. 4 \(En Vivo\)](https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD) | 2:25 |
 | 83 | [Me Caí de la Nube](https://open.spotify.com/track/0mfb8sbASYjzvo2FDopyzl) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Me Cai De La Nube](https://open.spotify.com/album/1L2kAZeGLcTnNuv4IVE5Tm) | 2:55 |
 | 84 | [Borrachera](https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Borrachera](https://open.spotify.com/album/3aIAwEKpL6WOcw6MTQPIlG) | 2:31 |
-| 85 | [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 |
-| 86 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
+| 85 | [Desarmada \- Spotify Singles](https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Desarmada \- Spotify Singles](https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih) | 2:31 |
+| 86 | [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 |
 | 87 | [Fumo Y Bebo](https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Pablo Ocampo](https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK) | [Fumo Y Bebo](https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC) | 2:28 |
 | 88 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 |
 | 89 | [10 PM \- Popular](https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM \(Popular\)](https://open.spotify.com/album/0UKMqy1QBgwAgfwIsWmOsR) | 3:33 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho. ",
-  "num_followers": 145751,
+  "num_followers": 145770,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "Talento De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "Que Dar\u00eda",
-      "url": "https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "Que Dar\u00eda",
+      "url": "https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Caray",
+      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Caray",
-      "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Se Fue La Pantera (En Vivo)",
         "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 202021,
       "name": "Se Fue La Pantera (En Vivo)",
       "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Te Invito a Ser Feliz",
+        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 196406,
+      "name": "Te Invito a Ser Feliz",
+      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Te Invito a Ser Feliz",
-        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 196406,
-      "name": "Te Invito a Ser Feliz",
-      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "ADN (Cap\u00edtulo A)",
         "url": "https://open.spotify.com/album/5rinlFOFMszDRgJYFJJsDs"
       },
@@ -1875,26 +1855,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Porque Soy Abeja Reina",
         "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
       },
@@ -1923,6 +1883,46 @@
       "duration_ms": 227250,
       "name": "Mariposa Traicionera (En Vivo)",
       "url": "https://open.spotify.com/track/505kkUa8oLBL4FQzhBQmXG"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
       "added_at": "2023-08-25 06:00:00",

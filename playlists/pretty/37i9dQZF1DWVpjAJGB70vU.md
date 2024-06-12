@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: Alan Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849,871 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850,486 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 41 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
 | 42 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
 | 43 | [Indian Outlaw](https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 3:02 |
-| 44 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
-| 45 | [Bubba Shot The Jukebox](https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Longnecks & Short Stories](https://open.spotify.com/album/3GAq1vI6aQ5gZu53e8DZFy) | 3:05 |
+| 44 | [Bubba Shot The Jukebox](https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Longnecks & Short Stories](https://open.spotify.com/album/3GAq1vI6aQ5gZu53e8DZFy) | 3:05 |
+| 45 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
 | 46 | [Fast as You](https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:45 |
 | 47 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:40 |
 | 48 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 85 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 2:48 |
 | 86 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
 | 87 | [Tall, Tall Trees](https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [The Greatest Hits Collection](https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid) | 2:27 |
-| 88 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
-| 89 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
+| 88 | [Daddy's Money](https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Ricochet](https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8) | 3:03 |
+| 89 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
 | 90 | [This Cowboy's Hat](https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo) | [Used To Want To Be A Cowboy](https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY) | 4:05 |
 | 91 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 |
 | 92 | [You Were Mine](https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:37 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 136 | [Shake The Sugar Tree](https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Homeward Looking Angel](https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS) | 3:07 |
 | 137 | [He Thinks He'll Keep Her](https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [The Essential Mary Chapin Carpenter](https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9) | 4:03 |
 | 138 | [Hillbilly Shoes](https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Tattoos & Scars](https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5) | 3:12 |
-| 139 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
-| 140 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 |
+| 139 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 |
+| 140 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
 | 141 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
 | 142 | [What Mattered Most](https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R) | [What Mattered Most](https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6) | 3:41 |
 | 143 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |

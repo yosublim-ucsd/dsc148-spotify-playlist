@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 731104,
+  "num_followers": 731354,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Alegr\u00eda (Yuksek Remix) - Single",
-        "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
-      },
-      "artists": [
-        {
-          "name": "Elia y Elizabeth",
-          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
-        },
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        }
-      ],
-      "duration_ms": 258235,
-      "name": "Alegr\u00eda - Yuksek Remix",
-      "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Isaac Chambers & Dub Princess",
         "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 336000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Alegr\u00eda (Yuksek Remix) - Single",
+        "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
+      },
+      "artists": [
+        {
+          "name": "Elia y Elizabeth",
+          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "duration_ms": 258235,
+      "name": "Alegr\u00eda - Yuksek Remix",
+      "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Me Chama De Gato Que Eu Sou Sua",
         "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 252959,
       "name": "Electric Fish",
       "url": "https://open.spotify.com/track/2i90BhQ6Mfvrd8yHRTHyZx"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Earthology",
-        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
-      },
-      "artists": [
-        {
-          "name": "Whitefield Brothers",
-          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
-        }
-      ],
-      "duration_ms": 199572,
-      "name": "Safari Strut",
-      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Psych\u00e9",
         "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 221582,
       "name": "Cumbia Mah\u00e0re",
       "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Earthology",
+        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
+      },
+      "artists": [
+        {
+          "name": "Whitefield Brothers",
+          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
+        }
+      ],
+      "duration_ms": 199572,
+      "name": "Safari Strut",
+      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Soy Una Nube (Bosq Remix) - Single",
         "url": "https://open.spotify.com/album/1SPKVznHu8hYWHhNNUaSmT"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 347284,
       "name": "Soy Una Nube - Bosq Remix",
       "url": "https://open.spotify.com/track/3il9P7OQ9VJKoo3w1hpDoy"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Water Tanks",
-        "url": "https://open.spotify.com/album/0QIwmiiCRqmXKpcNUlRQKh"
+        "name": "Malaka",
+        "url": "https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS"
       },
       "artists": [
         {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
         }
       ],
-      "duration_ms": 152769,
-      "name": "Water Tanks",
-      "url": "https://open.spotify.com/track/26O7Zdco6Q7lapBL6btPML"
+      "duration_ms": 211958,
+      "name": "Crystal Sand",
+      "url": "https://open.spotify.com/track/6okAEDxLESUnM50i8dQZGv"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Malaka",
-        "url": "https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS"
+        "name": "Water Tanks",
+        "url": "https://open.spotify.com/album/0QIwmiiCRqmXKpcNUlRQKh"
       },
       "artists": [
         {
-          "name": "Ali",
-          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
         }
       ],
-      "duration_ms": 211958,
-      "name": "Crystal Sand",
-      "url": "https://open.spotify.com/track/6okAEDxLESUnM50i8dQZGv"
+      "duration_ms": 152769,
+      "name": "Water Tanks",
+      "url": "https://open.spotify.com/track/26O7Zdco6Q7lapBL6btPML"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Caosmosi",
-        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
-      },
-      "artists": [
-        {
-          "name": "Addict Ameba",
-          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "Caosmosi",
-      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Atlantic Oscillations",
         "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 351146,
       "name": "Atlantic Oscillations",
       "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Caosmosi",
+        "url": "https://open.spotify.com/album/3c5kIKIGE3lDvyDehcbqzP"
+      },
+      "artists": [
+        {
+          "name": "Addict Ameba",
+          "url": "https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb"
+        }
+      ],
+      "duration_ms": 303733,
+      "name": "Caosmosi",
+      "url": "https://open.spotify.com/track/75f7i3yQ0HYtaZ0iuN0p3y"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
         "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
       },
@@ -1939,42 +1955,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "ELCANO",
-        "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
-      },
-      "artists": [
-        {
-          "name": "Don Couto",
-          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
-        },
-        {
-          "name": "Monstruos del Ma\u00f1ana",
-          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
-        },
-        {
-          "name": "Melisa Castellanos",
-          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
-        }
-      ],
-      "duration_ms": 298826,
-      "name": "Negro Santo",
-      "url": "https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk"
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2003,18 +1995,42 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
         }
       ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "ELCANO",
+        "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Monstruos del Ma\u00f1ana",
+          "url": "https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V"
+        },
+        {
+          "name": "Melisa Castellanos",
+          "url": "https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC"
+        }
+      ],
+      "duration_ms": 298826,
+      "name": "Negro Santo",
+      "url": "https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2035,22 +2051,6 @@
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Samba em Kigali",
-        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
-      },
-      "artists": [
-        {
-          "name": "Tapioca",
-          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
-        }
-      ],
-      "duration_ms": 226416,
-      "name": "Terra Preta",
-      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Samba em Kigali",
+        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
+      },
+      "artists": [
+        {
+          "name": "Tapioca",
+          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
+        }
+      ],
+      "duration_ms": 226416,
+      "name": "Terra Preta",
+      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Various Bilongo",
         "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
       },
@@ -2111,18 +2127,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+        "name": "Maledetta Quella Notte",
+        "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
       },
       "artists": [
         {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
         }
       ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+      "duration_ms": 230250,
+      "name": "Maledetta Quella Notte",
+      "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Maledetta Quella Notte",
-        "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Maledetta Quella Notte",
-      "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Voulez Vous",
         "url": "https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8"
       },
@@ -2207,18 +2207,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+        "name": "Indio",
+        "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "A Vision of Panorama",
+          "url": "https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY"
+        },
+        {
+          "name": "Lapa Dula",
+          "url": "https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC"
         }
       ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
+      "duration_ms": 284106,
+      "name": "Indio",
+      "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2239,6 +2243,22 @@
       "duration_ms": 149947,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2279,22 +2299,38 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Indio",
-        "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
+        "name": "A Trip To Bolgatanga",
+        "url": "https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14"
       },
       "artists": [
         {
-          "name": "A Vision of Panorama",
-          "url": "https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY"
-        },
-        {
-          "name": "Lapa Dula",
-          "url": "https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC"
+          "name": "African Head Charge",
+          "url": "https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ"
         }
       ],
-      "duration_ms": 284106,
-      "name": "Indio",
-      "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
+      "duration_ms": 223280,
+      "name": "Microdosing",
+      "url": "https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Smells Like You",
+        "url": "https://open.spotify.com/album/1uVLTR5cjjBE8eeRmXHoMM"
+      },
+      "artists": [
+        {
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+        },
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "duration_ms": 269696,
+      "name": "Smells Like You",
+      "url": "https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2311,22 +2347,6 @@
       "duration_ms": 190229,
       "name": "Every Trick in the Book",
       "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Sim\u00e9 Love",
-        "url": "https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I"
-      },
-      "artists": [
-        {
-          "name": "Dowdelin",
-          "url": "https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue"
-        }
-      ],
-      "duration_ms": 210261,
-      "name": "Sim\u00e9 Love",
-      "url": "https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2351,18 +2371,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "A Trip To Bolgatanga",
-        "url": "https://open.spotify.com/album/5bsoJcFeIoL6g1AdSZcy14"
+        "name": "Sim\u00e9 Love",
+        "url": "https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I"
       },
       "artists": [
         {
-          "name": "African Head Charge",
-          "url": "https://open.spotify.com/artist/4eOZAQytg3U2l0WTClghDQ"
+          "name": "Dowdelin",
+          "url": "https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue"
         }
       ],
-      "duration_ms": 223280,
-      "name": "Microdosing",
-      "url": "https://open.spotify.com/track/08yH12opbafXqCAYPEsWTm"
+      "duration_ms": 210261,
+      "name": "Sim\u00e9 Love",
+      "url": "https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2395,42 +2415,6 @@
       "duration_ms": 238236,
       "name": "Guajirando",
       "url": "https://open.spotify.com/track/5SMo4jNE0KldSYzhgQuxdx"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Felony / Rile 'Em Up",
-        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 197172,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Smells Like You",
-        "url": "https://open.spotify.com/album/1uVLTR5cjjBE8eeRmXHoMM"
-      },
-      "artists": [
-        {
-          "name": "Orig\u0101mi",
-          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
-        },
-        {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
-        }
-      ],
-      "duration_ms": 269696,
-      "name": "Smells Like You",
-      "url": "https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2491,6 +2475,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Felony / Rile 'Em Up",
+        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Zenzero",
         "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
       },
@@ -2535,6 +2535,22 @@
       "duration_ms": 216640,
       "name": "Bia Bia",
       "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 353965,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -2587,22 +2603,6 @@
       "duration_ms": 154282,
       "name": "Kabhi",
       "url": "https://open.spotify.com/track/3etwqEJFys1FJhzVKvenHw"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 353965,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
       "added_at": "2024-05-22 11:01:00",

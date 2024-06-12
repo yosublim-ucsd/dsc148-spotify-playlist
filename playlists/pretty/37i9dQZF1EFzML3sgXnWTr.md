@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,813 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 23 | [Giove](https://open.spotify.com/track/7B6OCZyGDckCQvg839dN7N) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 2:44 |
 | 24 | [Stupidi lovers](https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Leggera](https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70) | 3:24 |
 | 25 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/4kroXv8P8Jz9aMlALh4zpm) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/7yfUJSxxqFcI5obk2nyrGA) | 2:52 |
-| 26 | [GUAGLIÒ](https://open.spotify.com/track/7wSfdZWyjZwjInPFlpkvOT) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/0vqU1hJuj9MOFTAyVVFKzz) | 2:42 |
-| 27 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 |
+| 26 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 |
+| 27 | [GUAGLIÒ](https://open.spotify.com/track/7wSfdZWyjZwjInPFlpkvOT) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/0vqU1hJuj9MOFTAyVVFKzz) | 2:42 |
 | 28 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 |
 | 29 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 |
 | 30 | [malibu \(with Trevor Daniel\)](https://open.spotify.com/track/31cxJ8JDVyYM1Ybqppmi9s) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 |
@@ -60,5 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 50 | [Luccica](https://open.spotify.com/track/2MRNpRQLaErjmGBk6c9OQJ) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Matteo](https://open.spotify.com/album/5VeLRPwjs2yLnNklcluzlc) | 2:47 |
 | 51 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 52 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
+| 53 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/44JN8Oz9MEKrXmCaxgfQiH) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:03 |
 
-Snapshot ID: `AbTt1QAAAABdcOG6fOz8YPGrv0/0YUHA`
+Snapshot ID: `AbTzdQAAAACpPjnqobfcOqX6InMQDyyc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,726 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,738 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 18 | [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 |
 | 19 | [Ter Paz](https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Ter Paz](https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW) | 4:45 |
 | 20 | [Eu Me Rendo](https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Eu Me Rendo](https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H) | 4:54 |
-| 21 | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2) | 5:30 |
-| 22 | [Sou o Teu Altar](https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Sou o Teu Altar](https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g) | 4:35 |
+| 21 | [Sou o Teu Altar](https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Sou o Teu Altar](https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g) | 4:35 |
+| 22 | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Vai Adorando \(Ao Vivo\)](https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2) | 5:30 |
 | 23 | [Primeiro Amor](https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Primeiro Amor](https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J) | 3:56 |
-| 24 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 |
-| 25 | [Ágape \- Ao Vivo](https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Ágape \(Ao Vivo\)](https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru) | 9:33 |
+| 24 | [Ágape \- Ao Vivo](https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Ágape \(Ao Vivo\)](https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru) | 9:33 |
+| 25 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 |
 | 26 | [Sinal de Amor](https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Sinal de Amor](https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt) | 3:35 |
 | 27 | [Mesmo Sem Entender](https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Mesmo Sem Entender](https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR) | 3:24 |
 | 28 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 |

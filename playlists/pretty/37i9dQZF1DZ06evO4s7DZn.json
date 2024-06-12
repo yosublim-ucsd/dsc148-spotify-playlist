@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 6942,
+  "description": "This is Banda Rafaga. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 6940,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADV9b+NJuKivnvPCw4pdbtD",
+  "snapshot_id": "ZmZCAAAAAABWbD9Tq9qSb9Z1ZjM333jD",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Popotitos - En Vivo",
-      "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
+      "duration_ms": 210760,
+      "name": "Lo Aprendi De Ti",
+      "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Lo Aprendi De Ti",
-      "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
+      "duration_ms": 223000,
+      "name": "Popotitos - En Vivo",
+      "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
     },
     {
       "added_at": null,

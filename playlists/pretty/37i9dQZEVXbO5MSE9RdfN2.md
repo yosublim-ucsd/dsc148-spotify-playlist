@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,484 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,483 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 49 | [HEAT STICK](https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HEAT STICK](https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w) | 2:17 |
 | 50 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 |
 
-Snapshot ID: `LfplGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

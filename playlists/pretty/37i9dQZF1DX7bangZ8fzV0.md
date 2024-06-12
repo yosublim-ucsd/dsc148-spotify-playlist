@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=bJ9JgOxdQniW4dkK8XyyVw">Kurt Darren</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,080 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,114 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

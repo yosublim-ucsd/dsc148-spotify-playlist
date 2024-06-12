@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charli XCX, Sabrina Carpenter, Zach Bryan, Tems, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,182,354 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,181,931 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 52 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 |
 | 53 | [Con Co](https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Con Co](https://open.spotify.com/album/0LPf0p8XaAulD9YSp4ZFF8) | 2:06 |
 | 54 | [Don't Speak](https://open.spotify.com/track/3iegKMcDwOdWtOUgwa4afJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Don't Speak](https://open.spotify.com/album/72AWK6AZ95LODDCjLJnoqX) | 2:46 |
-| 55 | [Russian Roulette \- Radio Edit](https://open.spotify.com/track/1bsEruFb1Ucj5bXalsNhCq) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Russian Roulette](https://open.spotify.com/album/46pZqqmjNR7gwqEiiSFYoh) | 3:31 |
+| 55 | [Russian Roulette \- Edit](https://open.spotify.com/track/1bsEruFb1Ucj5bXalsNhCq) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Russian Roulette](https://open.spotify.com/album/46pZqqmjNR7gwqEiiSFYoh) | 3:31 |
 | 56 | [SHAKE \(feat\. Kaliii and Stunna Girl\)](https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [SHAKE \(feat\. Kaliii and Stunna Girl\)](https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv) | 3:11 |
 | 57 | [Anxiety](https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Anxiety](https://open.spotify.com/album/4CzCtsPM1jOgMW2grZHah6) | 3:28 |
 | 58 | [K.O.](https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [K.O.](https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3) | 2:08 |

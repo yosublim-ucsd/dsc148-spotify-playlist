@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,704 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,702 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 29 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
 | 30 | [Je te donne](https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 4:25 |
 | 31 | [Sous le vent](https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 3:31 |
-| 32 | [La groupie du pianiste \- Remasterisé en 2002](https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 4:42 |
-| 33 | [Avenir \- Radio Edit](https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Jean\-Philippe Massicot](https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz), [Tristan Salvati](https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:05 |
-| 34 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
+| 32 | [Avenir \- Radio Edit](https://open.spotify.com/track/7culxZiBjN3w3yXqxgKIpD) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Jean\-Philippe Massicot](https://open.spotify.com/artist/5R6fqkq8FNNE0kevuUUxoz), [Tristan Salvati](https://open.spotify.com/artist/3pHPYLcX7bnOWcMpyBch1D) | [Chambre 12](https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr) | 3:05 |
+| 33 | [Toi + Moi](https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Toi + Moi](https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc) | 3:02 |
+| 34 | [La groupie du pianiste \- Remasterisé en 2002](https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 4:42 |
 | 35 | [Si j'avais su](https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM) | 3:02 |
 | 36 | [On s'attache](https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:11 |
 | 37 | [Il jouait du piano debout \- Remasterisé en 2004](https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Paris, France \(Remasterisé en 2004\)](https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7) | 4:33 |

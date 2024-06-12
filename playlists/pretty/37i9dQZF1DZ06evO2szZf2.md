@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
+> This is Mc Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,544 likes - 51 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,547 likes - 51 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 50 | [JÁ ERA TARDE](https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [CORO COM COÇA](https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8) | 2:57 |
 | 51 | [Only Fan$](https://open.spotify.com/track/2WKciZdNlja4UfSoonkCaE) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:40 |
 
-Snapshot ID: `ZmTwgAAAAAAWjgmb53EOQf038MCRlYSJ`
+Snapshot ID: `ZmZCAAAAAAAmbXYuKKMTN1eDcCTcKLZ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,293 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,306 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 36 | [Better When I'm Dancin'](https://open.spotify.com/track/3Jui3TOVXgDCYeVa3sS28C) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0V5n3Ch2vFwxT5pVztog3t) | 2:56 |
 | 37 | [Everything Is Awesome!!!](https://open.spotify.com/track/65DU3ad0BY3N1TNn58ofmK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The LEGO® Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3is3Hewrn1qkXlgCSoPe3t) | 2:43 |
 | 38 | [Show Me Your Pony Moves](https://open.spotify.com/track/0WQwpn59mnW2KQ6tZWsNNA) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Bridlewoodstock](https://open.spotify.com/album/6eTEvCZHwiMXMpLgVcU8zs) | 1:40 |
-| 39 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
+| 39 | [Hey Diddle Diddle](https://open.spotify.com/track/5CjQc6AFaaguvmLLwS2gdG) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Hey Diddle Diddle](https://open.spotify.com/album/2cBnlHDLpjSLoEqtn8phOG) | 2:02 |
 | 40 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
-| 41 | [Hey Diddle Diddle](https://open.spotify.com/track/5CjQc6AFaaguvmLLwS2gdG) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Hey Diddle Diddle](https://open.spotify.com/album/2cBnlHDLpjSLoEqtn8phOG) | 2:02 |
+| 41 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
 | 42 | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/track/3fI2VcjM78ZzEDe96SVKfR) | [L.L.A.M.A](https://open.spotify.com/artist/1XwXEE2TWmPt01haVFok2N), [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Shake \(with Ne\-Yo & Carmen DeLeon\)](https://open.spotify.com/album/3jO5b1PrRk1i9Yb8kiQszZ) | 2:43 |
 | 43 | [Super Siah Step](https://open.spotify.com/track/79NuWJzzxntPPy06Hs8qlU) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Super Siah Step](https://open.spotify.com/album/1PfQxrHBvPABuDnUXhqS2s) | 2:05 |
 | 44 | [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/7p7kNdvLaNeW52PlsnYLF1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Funkytown \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6OxOGNWMW6OVc9u5K2cOrb) | 4:23 |

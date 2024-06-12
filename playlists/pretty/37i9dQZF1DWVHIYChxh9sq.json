@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Carin Le\u00f3n",
-  "num_followers": 73613,
+  "num_followers": 73635,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,18 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -395,6 +391,26 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
         "name": "El Chaman",
         "url": "https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 281760,
       "name": "El Chaman",
       "url": "https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "300 Locos - En Vivo",
+      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "300 Locos - En Vivo",
-      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -907,22 +907,18 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "Se Fue La Pantera (En Vivo)",
-        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
+        "name": "La Mb",
+        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         }
       ],
-      "duration_ms": 202021,
-      "name": "Se Fue La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
+      "duration_ms": 203522,
+      "name": "La Mb",
+      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -959,18 +955,22 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "La Mb",
-        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 203522,
-      "name": "La Mb",
-      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -1047,38 +1047,22 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "Hablando Claro (En Vivo)",
-        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
+        "name": "Clave 18",
+        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         },
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
         }
       ],
-      "duration_ms": 190671,
-      "name": "Hablando Claro (En Vivo)",
-      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
-        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Cielo Nublado Aka Cielo Nevado - En Vivo",
-      "url": "https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ"
+      "duration_ms": 235663,
+      "name": "Clave 18",
+      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -1095,6 +1079,22 @@
       "duration_ms": 227554,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
+        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Cielo Nublado Aka Cielo Nevado - En Vivo",
+      "url": "https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -1119,22 +1119,22 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "Clave 18",
-        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
+        "name": "Hablando Claro (En Vivo)",
+        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 235663,
-      "name": "Clave 18",
-      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
+      "duration_ms": 190671,
+      "name": "Hablando Claro (En Vivo)",
+      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -1167,26 +1167,6 @@
       "duration_ms": 521690,
       "name": "Popurr\u00ed Cumbias: Se Muri\u00f3 De Amor/Desvelado/Otra Vez - En Vivo",
       "url": "https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
-        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Lorenzo De Monteclaro",
-          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Abrazado De Un Poste - En Vivo",
-      "url": "https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -1227,6 +1207,42 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 135247,
+      "name": "El Compa Carlos - En Vivo",
+      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
+        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Lorenzo De Monteclaro",
+          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Abrazado De Un Poste - En Vivo",
+      "url": "https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 149986,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 135247,
-      "name": "El Compa Carlos - En Vivo",
-      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
-        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
-      "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 222135,
       "name": "El Rey Del Pop (En Vivo)",
       "url": "https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
+        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
+      "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
     },
     {
       "added_at": "2024-05-01 22:43:36",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
-        "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Loco - En Vivo",
-      "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
         "name": "El Comando del Diablo (En Vivo)",
         "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
       },
@@ -1547,22 +1527,6 @@
     {
       "added_at": "2024-05-01 22:43:36",
       "album": {
-        "name": "En Vivo Desde Hacienda Heights",
-        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 522409,
-      "name": "Popurri De Cumbias (En Vivo)",
-      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
-    },
-    {
-      "added_at": "2024-05-01 22:43:36",
-      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1575,6 +1539,42 @@
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
+        "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
+        "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Loco - En Vivo",
+      "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
+    },
+    {
+      "added_at": "2024-05-01 22:43:36",
+      "album": {
+        "name": "En Vivo Desde Hacienda Heights",
+        "url": "https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 522409,
+      "name": "Popurri De Cumbias (En Vivo)",
+      "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
     },
     {
       "added_at": "2024-05-01 22:43:36",

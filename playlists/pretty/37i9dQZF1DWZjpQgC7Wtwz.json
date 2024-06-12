@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 88368,
+  "num_followers": 88375,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 152923,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -379,30 +379,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 229160,
       "name": "Cuando Pase El Temblor - Remasterizado 2007",
       "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "El Diablito",
         "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 215866,
       "name": "La C\u00e9lula Que Explota",
       "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -719,22 +703,6 @@
       "duration_ms": 177106,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -755,6 +723,22 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -799,6 +783,22 @@
       "duration_ms": 173586,
       "name": "Eres Ese Algo",
       "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 342520,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2023-11-10 17:55:41",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-11-10 17:55:41",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2023-11-10 17:55:41",
-      "album": {
         "name": "25 Exitos Vol. 1 (USA)",
         "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2023-11-10 17:55:41",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2023-11-10 17:55:41",

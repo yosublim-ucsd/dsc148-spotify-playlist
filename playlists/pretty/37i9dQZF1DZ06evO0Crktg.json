@@ -1,12 +1,12 @@
 {
-  "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 216531,
+  "description": "This Is Jelly Roll. Los temas esenciales, todos en una lista.",
+  "num_followers": 216736,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADc5ysqWLJXTeigPxKD3SYi",
+  "snapshot_id": "ZmZCAAAAAAAy+d9FeC6NWLtRc/z19I/I",
   "tracks": [
     {
       "added_at": null,
@@ -103,18 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
       },
       "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 172421,
-      "name": "Bottle and Mary Jane",
-      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
+      "duration_ms": 190230,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
     },
     {
       "added_at": null,
@@ -135,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
       "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 190230,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
+      "duration_ms": 172421,
+      "name": "Bottle and Mary Jane",
+      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 152100,
-      "name": "Copenhagen In A Cadillac",
-      "url": "https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mud Mouth",
         "url": "https://open.spotify.com/album/2gCg9nIRbDzzAAdBFXdK6I"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 318640,
       "name": "Money",
       "url": "https://open.spotify.com/track/1MUhjYSAGXuejDzD8Qi8Qo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 152100,
+      "name": "Copenhagen In A Cadillac",
+      "url": "https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5"
     },
     {
       "added_at": null,

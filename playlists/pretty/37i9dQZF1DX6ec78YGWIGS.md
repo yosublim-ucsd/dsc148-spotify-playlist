@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,527 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,600 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

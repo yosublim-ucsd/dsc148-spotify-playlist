@@ -2,7 +2,7 @@
 
 ### [This Is Bonnie Raitt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MOc1x)
 
-> This is Bonnie Raitt\. Todos os maiores hits em uma só playlist.
+> This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
 88 songs - 6 hr 4 min
 
@@ -39,7 +39,7 @@
 | [Here Comes Love](https://open.spotify.com/track/1S3hErTMkCKWTihpAvsYrB) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 4:15 | 2023-02-07 | 2023-02-09 |
 | [Home \- 2008 Remaster](https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 3:28 | 2022-09-26 |  |
 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 | 2022-08-05 |  |
-| [I Can't Help You Now](https://open.spotify.com/track/5qhBIPB6b7FGuneMSjHQAi) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Silver Lining](https://open.spotify.com/album/1mUSevRNoA9Wxdyj6DkfXX) | 3:14 | 2024-05-15 | 2024-06-10 |
+| [I Can't Help You Now](https://open.spotify.com/track/5qhBIPB6b7FGuneMSjHQAi) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Silver Lining](https://open.spotify.com/album/1mUSevRNoA9Wxdyj6DkfXX) | 3:14 | 2024-05-15 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 | 2022-08-05 |  |
 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 | 2023-11-10 |  |
 | [I Got Plenty \- 2008 Remaster](https://open.spotify.com/track/39I0PqL6CGz9Nh3LnJt3R2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:09 | 2022-08-05 | 2022-10-13 |
@@ -61,7 +61,7 @@
 | [Love Letter](https://open.spotify.com/track/6zmpnM7y0boAL61orTZ8gt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 4:04 | 2022-08-05 |  |
 | [Love Letters](https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:00 | 2022-08-05 |  |
 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 | 2022-08-05 |  |
-| [Love Sneakin' Up On You](https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 3:41 | 2022-08-05 |  |
+| [Love Sneakin' Up On You](https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 3:41 | 2022-08-05 | 2024-06-12 |
 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 | 2022-08-05 |  |
 | [Mighty Tight Woman \- 2008 Remaster](https://open.spotify.com/track/3kivvDedMfdapBPKKmLxVE) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:20 | 2022-08-05 | 2022-10-06 |
 | [Million Miles](https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 6:21 | 2023-08-08 | 2023-09-16 |

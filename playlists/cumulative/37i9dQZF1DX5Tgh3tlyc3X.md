@@ -4,7 +4,7 @@
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-190 songs - 9 hr 49 min
+194 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alpha 8HZ](https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68) | [Schamanen](https://open.spotify.com/artist/6o3pIin2DmrRp7z2HMbIcT) | [Synchronized Beta](https://open.spotify.com/album/23X2NUStO3afzaR3uS6QU8) | 3:24 | 2023-11-24 |  |
 | [Alpha Air 9 Hz](https://open.spotify.com/track/5K2LJigAMhjh2c9Qo4Oxi1) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:38 | 2023-11-24 |  |
 | [Alpha Blanket 85Hz \- 92Hz](https://open.spotify.com/track/69yGC4d8YCc0YdgRndEUha) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Alpha Blanket](https://open.spotify.com/album/4ytgWTRAzT1OCcfCZefm6J) | 3:57 | 2023-11-24 |  |
+| [Alpha Brain Waves](https://open.spotify.com/track/6K213XpWYPVKMLuPyfPhMV) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Brain Waves](https://open.spotify.com/album/2sU1EoTXZJbFBKADZpDl7T) | 2:42 | 2024-06-11 |  |
 | [Alpha Circles 90Hz \- 101Hz](https://open.spotify.com/track/1yJPgthQTuA2AnuzAykO8Z) | [Sound Particles](https://open.spotify.com/artist/0t19WH6KeglNXa5gLjsCwN) | [Sleep Sound](https://open.spotify.com/album/3e9PIFNGipQqAxGUkeOw29) | 3:33 | 2023-11-24 |  |
 | [Alpha Dreams](https://open.spotify.com/track/6cfuBECGdDOtVCsYNU0tdy) | [Binaural State](https://open.spotify.com/artist/50X4WE5GrxrVDrG5vWJMsJ) | [Alpha Dreams](https://open.spotify.com/album/6NN5gHMcp2Foa2zb87tT4c) | 2:17 | 2023-11-24 |  |
 | [Alpha Drone 8 Hz](https://open.spotify.com/track/1xrw0MIXasQIaD9oLqE4qF) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:36 | 2023-11-24 |  |
@@ -27,6 +28,7 @@
 | [Alpha Meditation](https://open.spotify.com/track/2UITlqXM467haohWgPffAT) | [Brainbox](https://open.spotify.com/artist/54SQU5335smXLXiFTvOo30) | [Alpha Meditation](https://open.spotify.com/album/1bPVJAq7CbCRx8pOA16H0y) | 2:36 | 2023-11-24 |  |
 | [Alpha Mind Fields 12Hz](https://open.spotify.com/track/1FoDFD5k9GChv7nC9Sp9QK) | [Sound Calligraphy](https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm) | [Mind Fields](https://open.spotify.com/album/1z9ggktUU722husvf5FCNN) | 4:00 | 2023-11-24 |  |
 | [Alpha Night \(106Hz \- 114Hz\)](https://open.spotify.com/track/749a2IxiF2QIwgSrmbBZ3M) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Gradual States](https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n) | 3:12 | 2023-11-24 |  |
+| [Alpha Ocean 92\-100 Hz](https://open.spotify.com/track/4Qesv6EX1xmJnlmtDQ3LmC) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Alpha Ocean 92\-100 Hz](https://open.spotify.com/album/3ePEytDLrENwiSX6R85bbg) | 2:38 | 2024-06-11 |  |
 | [Alpha Peace \(93Hz \- 103Hz\)](https://open.spotify.com/track/3sWYDCDKnKsQMzg2J3FJRA) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Alpha Peace \(93Hz \- 103Hz\)](https://open.spotify.com/album/1MPxyaxpP62ZCC9gAy5SHB) | 2:58 | 2024-01-31 |  |
 | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/track/6Fn4dlKQFkDP421P2IShjC) | [REM](https://open.spotify.com/artist/6FdgwOhDP1kPWChJQqKGA4) | [Alpha REM 82 Hz \- 92 Hz](https://open.spotify.com/album/1pdONj5eMm3maQzqVtNNdV) | 2:50 | 2024-04-07 |  |
 | [Alpha Sine](https://open.spotify.com/track/2ayFHCjDIFtxjnyzDCt1J6) | [SOWE](https://open.spotify.com/artist/4gsiHX6ewD0G96o4sO5wOF) | [Binaural Sleep Beats](https://open.spotify.com/album/7lHKcPjSRQsXDfWKzOrXOp) | 3:25 | 2023-11-24 |  |
@@ -128,6 +130,7 @@
 | [Improved Creativity Theta 7Hz](https://open.spotify.com/track/3uh18fpoK2Gdur5MEYNikk) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 3:13 | 2023-11-24 |  |
 | [Lake Views \(Binaural Theta 104 Hz \- 98.5 Hz\)](https://open.spotify.com/track/4JfvAvu2mdZPM1s6d6sSXh) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:27 | 2023-11-24 |  |
 | [Lotus \(Theta 198 Hz \- 206 Hz\)](https://open.spotify.com/track/1OTLWciJzBeXHKRycakcPS) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Nearby & Lotus \(Theta Binaural\)](https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu) | 2:48 | 2023-11-24 |  |
+| [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/track/5XtTRBtppSEe2x08SonoLd) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Magic Light \(Alpha Binaural 110 Hz \- 121 Hz\)](https://open.spotify.com/album/4nCsTi83xWcKZr24TQGgzY) | 3:08 | 2024-06-11 |  |
 | [Magma \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/37KxUBZ31TpipzVERTe7cJ) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 5:39 | 2023-11-24 |  |
 | [Mantra \- Alpha Waves](https://open.spotify.com/track/0L891QoEP3x5kztTjg0HNk) | [Theta Time](https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw) | [Mantra \- Alpha Waves](https://open.spotify.com/album/4EuwdUfvqzgfPEoh2OKvja) | 3:25 | 2023-11-24 |  |
 | [Meditative Alpha \(L\-116Hz R\-125Hz\)](https://open.spotify.com/track/7gI5bxKKzvPPpL8qxrlPd6) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Meditative Waves \(Binaural\)](https://open.spotify.com/album/1dGqEiB7ltld0xON2X7Hxi) | 5:03 | 2023-11-24 |  |
@@ -195,6 +198,7 @@
 | [unconscious mind theta](https://open.spotify.com/track/1aGHYuGn08TZypMohfG7Jr) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [dream drifting \(binaural sleep\)](https://open.spotify.com/album/0I8Lj3JDpx8hEAYLzM5ac9) | 3:27 | 2023-11-24 |  |
 | [Under The Rainbow \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/4bFFRIFI3T3e03sLl6iG7W) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:42 | 2023-11-24 |  |
 | [Universal \- Alpha sinus 91 \- 95hz](https://open.spotify.com/track/6jiSCHhcbgjL64g3F1sSw3) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Fields](https://open.spotify.com/album/1WDadxIT9t8fskmLJYCVCe) | 4:01 | 2023-11-24 |  |
+| [Waves Of Sine \- Simpler Times Alpha \(62\-75hz\)](https://open.spotify.com/track/00htOkdyp9txxUKoxvx8Wt) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Simpler Times Alpha](https://open.spotify.com/album/2No9DsFaMzTQ26DkJuV2p2) | 2:54 | 2024-06-11 |  |
 | [Wind](https://open.spotify.com/track/2mAuJq6UEpRn3Zd81gkhZU) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Wind](https://open.spotify.com/album/5wRoH8y8isKFWDpCiVfwSy) | 2:10 | 2023-11-24 |  |
 | [Winning Theta Pattern 6Hz](https://open.spotify.com/track/4KQCZIN3EbQSJQKMNY2xxv) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Binaural Algorithms](https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1) | 3:18 | 2023-11-24 |  |
 | [Zeit ist Gold \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/0pcQFGXlymeolv47TfIzn7) | [Hidden in Sound](https://open.spotify.com/artist/0AYaSjd2bSpMrGJfpLSqMU) | [Alpha Waves for Meditation](https://open.spotify.com/album/4jdJoSIgybWJYhITu6FbiY) | 3:20 | 2023-11-24 |  |

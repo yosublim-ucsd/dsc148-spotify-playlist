@@ -1,6 +1,6 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 87157,
+  "num_followers": 87185,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
+        "name": "Tiernos",
+        "url": "https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 307986,
+      "name": "Tiernos",
+      "url": "https://open.spotify.com/track/6Turi443kRpSET2JwXXLW8"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
         "name": "Efecto Domin\u00f3",
         "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Tiernos",
-        "url": "https://open.spotify.com/album/5I47XfGh6TwfXjMFTlu10o"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 307986,
-      "name": "Tiernos",
-      "url": "https://open.spotify.com/track/6Turi443kRpSET2JwXXLW8"
     },
     {
       "added_at": "2024-01-25 15:55:50",

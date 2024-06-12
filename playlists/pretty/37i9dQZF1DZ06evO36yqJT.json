@@ -1,12 +1,12 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 5120,
+  "num_followers": 5121,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAC3YuNraZSB5t/H6m1ajJ6H",
+  "snapshot_id": "ZmZCAAAAAAD7umXU7GM7OIY91Jma3xem",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Jesus Is Everywhere",
-      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greenleaf (Gospel Companion Soundtrack, Vol. 1)",
         "url": "https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 248786,
       "name": "Satan, We're Gonna Tear Your Kingdom Down",
       "url": "https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fill This House",
-        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 372407,
-      "name": "Fill This House",
-      "url": "https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9"
     },
     {
       "added_at": null,
@@ -727,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
       },
       "artists": [
         {
@@ -736,9 +704,25 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 118506,
-      "name": "God Will Take Care of You",
-      "url": "https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H"
+      "duration_ms": 291586,
+      "name": "Jesus Is Everywhere",
+      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 372407,
+      "name": "Fill This House",
+      "url": "https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 293400,
       "name": "Lord Let Your Spirit Fall On Me",
       "url": "https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 118506,
+      "name": "God Will Take Care of You",
+      "url": "https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "There Is Power in the Blood",
-      "url": "https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 354040,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "There Is Power in the Blood",
+      "url": "https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks"
     },
     {
       "added_at": null,

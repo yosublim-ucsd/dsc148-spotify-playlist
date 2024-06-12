@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day soul with a funky groove for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,023 likes - 117 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,101 likes - 117 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 34 | [Champagne](https://open.spotify.com/track/6abNHaibTah9k7azRDKVRP) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [Raleigh](https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C) | [Stuck With You But I Like It](https://open.spotify.com/album/3zggNDtiAUq04EhX6gF3Vo) | 2:33 |
 | 35 | [Don't Fuck My Night Up](https://open.spotify.com/track/4kHib4D7z58BcRdROaStK7) | [Feux](https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV) | [Don't Fuck My Night Up](https://open.spotify.com/album/4Avmj0xSkPa0uOHdubrZ1W) | 3:03 |
 | 36 | [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 |
-| 37 | [Settling Down](https://open.spotify.com/track/3uWN2ZgglpRGuFvuC4fCEx) | [Vahn Black](https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7), [Trunino Lowe](https://open.spotify.com/artist/6hCfWoTzVIsoS5bdnRL0JC) | [Petrichor](https://open.spotify.com/album/7DhML0tk9Cu7G9PXuZd4RV) | 6:15 |
+| 37 | [Settling Down](https://open.spotify.com/track/3uWN2ZgglpRGuFvuC4fCEx) | [Vahn Black](https://open.spotify.com/artist/4RzNMvH3WP11GHpgqWjRw7), [Trunino Lowe](https://open.spotify.com/artist/6hCfWoTzVIsoS5bdnRL0JC) | [Petrichor: The Joy of Gladys Bentley](https://open.spotify.com/album/7DhML0tk9Cu7G9PXuZd4RV) | 6:15 |
 | 38 | [The Energy](https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [The Energy](https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD) | 3:39 |
 | 39 | [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 |
 | 40 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |

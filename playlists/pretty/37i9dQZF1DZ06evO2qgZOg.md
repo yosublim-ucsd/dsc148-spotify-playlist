@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 ### [This Is Skillet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg)
 
-> This Is Skillet\. Los temas esenciales, todos en una lista.
+> This Is Skillet\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,023 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,084 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [Refuge](https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Refuge](https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27) | 3:28 |
 | 50 | [Would It Matter](https://open.spotify.com/track/3yawCOFKiw8TVVdCubX4hu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \(Deluxe Edition\)](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 4:12 |
 
-Snapshot ID: `ZmTwgAAAAAB86p33PZkxkeue9RqUCr3U`
+Snapshot ID: `ZmZCAAAAAAAUZdNBvXbLR9hvTINnWAHk`

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9184,
+  "num_followers": 9181,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
-        "name": "2 Kids On The Block - Part.3",
-        "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Fly or Die (Feat. Crush)",
-      "url": "https://open.spotify.com/track/0b02rzh5WdzdFXPjgEf83o"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
         "name": "Future Boy",
         "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 235186,
       "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
+        "name": "2 Kids On The Block - Part.3",
+        "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Fly or Die (Feat. Crush)",
+      "url": "https://open.spotify.com/track/0b02rzh5WdzdFXPjgEf83o"
     },
     {
       "added_at": "2024-04-22 05:07:41",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-04-22 05:07:41",
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "Apocalypse Prod. PEEJAY",
+      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
+    },
+    {
+      "added_at": "2024-04-22 05:07:41",
+      "album": {
         "name": "2 Kids On The Block - Part.3",
         "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 234146,
       "name": "Love Myself (Feat. BewhY)",
       "url": "https://open.spotify.com/track/69fFPPuNlPGEg5D5cDPo3e"
-    },
-    {
-      "added_at": "2024-04-22 05:07:41",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 136973,
-      "name": "Apocalypse Prod. PEEJAY",
-      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
     },
     {
       "added_at": "2024-04-22 05:07:41",

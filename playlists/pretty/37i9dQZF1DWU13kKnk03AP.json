@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2135038,
+  "num_followers": 2135267,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -447,22 +463,6 @@
       "duration_ms": 213817,
       "name": "Dial Drunk (with Post Malone)",
       "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Touching The Sky",
+        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 187517,
+      "name": "Touching The Sky",
+      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "if u think i'm pretty",
         "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Touching The Sky",
-        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 187517,
-      "name": "Touching The Sky",
-      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Beautiful As You",
+        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 163894,
+      "name": "Beautiful As You",
+      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Almost Healed",
         "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Beautiful As You",
-        "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 163894,
-      "name": "Beautiful As You",
-      "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 178440,
       "name": "Halfway To Hell",
       "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Devil in a Dress",
+      "url": "https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Devil in a Dress",
-      "url": "https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Polvo de tu Vida",
+        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 172105,
+      "name": "Polvo de tu Vida",
+      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "LOVE AGAIN",
         "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
@@ -1475,22 +1495,6 @@
       "duration_ms": 146640,
       "name": "LOVE AGAIN",
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173182,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Polvo de tu Vida",
-        "url": "https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh"
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 172105,
-      "name": "Polvo de tu Vida",
-      "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1695,6 +1695,30 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Midnight Ride",
+        "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 211525,
+      "name": "Midnight Ride",
+      "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "My Stupid Heart",
         "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
       },
@@ -1707,22 +1731,6 @@
       "duration_ms": 160866,
       "name": "My Stupid Heart",
       "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/29ZAW0BAp6O4C6fUncCjBk"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1747,26 +1755,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Midnight Ride",
-        "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 211525,
-      "name": "Midnight Ride",
-      "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/29ZAW0BAp6O4C6fUncCjBk"
     }
   ],
   "unique_name": "Daily Lift",

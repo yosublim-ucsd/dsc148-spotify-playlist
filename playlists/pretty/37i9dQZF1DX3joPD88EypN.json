@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 41410,
+  "num_followers": 41431,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB"
+        "name": "\u00d8yne",
+        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
         },
         {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
         }
       ],
-      "duration_ms": 178801,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8"
+      "duration_ms": 210000,
+      "name": "\u00d8yne",
+      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -735,22 +735,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "\u00d8yne",
-        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB"
       },
       "artists": [
         {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
         },
         {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
         }
       ],
-      "duration_ms": 210000,
-      "name": "\u00d8yne",
-      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
+      "duration_ms": 178801,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
-      },
-      "artists": [
-        {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "The Mariner's Cross",
         "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 411640,
       "name": "Polska Of Despair (1)",
       "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Phantasmagoria or a Different Kind of Journey",
+        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        }
+      ],
+      "duration_ms": 417986,
+      "name": "Pearl Hunter",
+      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Phantasmagoria or a Different Kind of Journey",
-        "url": "https://open.spotify.com/album/0KfEiUR0B5oTTOO4kX9y18"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        }
-      ],
-      "duration_ms": 417986,
-      "name": "Pearl Hunter",
-      "url": "https://open.spotify.com/track/4dURy4ZLToGF8bQq49JPAz"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "As If The Ghost \u2026 Was Me!?",
         "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 343213,
       "name": "As If The Ghost \u2026 Was Me!?",
       "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 498112,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Salmesykkel",
         "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
       },
@@ -1315,26 +1295,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Painting Music",
-        "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
       },
       "artists": [
         {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
         },
         {
-          "name": "Nils Bo Davidsen",
-          "url": "https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l"
-        },
-        {
-          "name": "Stefan Pasborg",
-          "url": "https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY"
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
         }
       ],
-      "duration_ms": 258161,
-      "name": "Jeg gik mig ud en Sommerdag",
-      "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+      "duration_ms": 498112,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1359,6 +1335,30 @@
       "duration_ms": 251964,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2uu6m4hZRyQeCnY5UNh8yO"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Painting Music",
+        "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        },
+        {
+          "name": "Nils Bo Davidsen",
+          "url": "https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l"
+        },
+        {
+          "name": "Stefan Pasborg",
+          "url": "https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY"
+        }
+      ],
+      "duration_ms": 258161,
+      "name": "Jeg gik mig ud en Sommerdag",
+      "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Asthma Breath",
-        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
-      },
-      "artists": [
-        {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
-        }
-      ],
-      "duration_ms": 196868,
-      "name": "Asthma Breath",
-      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Wood Circles",
         "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 544093,
       "name": "9",
       "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Asthma Breath",
+        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
+      },
+      "artists": [
+        {
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+        }
+      ],
+      "duration_ms": 196868,
+      "name": "Asthma Breath",
+      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
     },
     {
       "added_at": "2024-03-20 14:54:30",

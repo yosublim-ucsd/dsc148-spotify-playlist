@@ -1,15 +1,39 @@
 {
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Danny Koo(\ub300\ub2c8 \uad6c)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 3911,
-  "original_name": "ClassicK",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Jungin Huh(\ud5c8\uc815\uc778)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "num_followers": 3909,
+  "original_name": "ClassiK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zl/rCwAAAAAyKuBV7EnSe1dWFH0lhCuN",
+  "snapshot_id": "Zmf/zwAAAABHukntsGcgz8RBQv1R3XDU",
   "tracks": [
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 329653,
+      "name": "Adelaide from Lieder, Op. 46 (arr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/6EcYdrzLVl1etzZi1ZQmaL"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
         "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
@@ -29,7 +53,71 @@
       "url": "https://open.spotify.com/track/0IXXzX0EOyBDJGSBhRYhYl"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "From Darkness To Light",
+        "url": "https://open.spotify.com/album/3Cbc2TjFWKgNfC5WXLp0J6"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Samuel Youn",
+          "url": "https://open.spotify.com/artist/6y6fUfKDBVEBc41cPwMWq1"
+        },
+        {
+          "name": "Symphonic Revolution Orchestra",
+          "url": "https://open.spotify.com/artist/4y5juhzDApOOEPLKtE1iyh"
+        },
+        {
+          "name": "Kwang Hyun Kim",
+          "url": "https://open.spotify.com/artist/3SRKVJA7mV2xJWa7rvIY7s"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "King Arthur, Z. 628, Act III: What Power art thou",
+      "url": "https://open.spotify.com/track/3Sl5rwBJtchBFmImgjA7hB"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Golden Age (Orchestra Version)",
+        "url": "https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Golden Age - Orchestra Version",
+      "url": "https://open.spotify.com/track/6DJJOcYKuk8hTunPSSaJPX"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "MOONLIGHT",
         "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
@@ -45,7 +133,59 @@
       "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "From Darkness To Light",
+        "url": "https://open.spotify.com/album/3Cbc2TjFWKgNfC5WXLp0J6"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Samuel Youn",
+          "url": "https://open.spotify.com/artist/6y6fUfKDBVEBc41cPwMWq1"
+        },
+        {
+          "name": "Symphonic Revolution Orchestra",
+          "url": "https://open.spotify.com/artist/4y5juhzDApOOEPLKtE1iyh"
+        },
+        {
+          "name": "Kwang Hyun Kim",
+          "url": "https://open.spotify.com/artist/3SRKVJA7mV2xJWa7rvIY7s"
+        }
+      ],
+      "duration_ms": 836280,
+      "name": "Die Walk\u00fcre, Act III Scene 3: Leb wohl, du k\u00fchnes, herrliches Kind \"Wotan's Farewell\"",
+      "url": "https://open.spotify.com/track/2cUHgStuKdvZzurL5JvD2n"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 546760,
+      "name": "Andante con variazioni for Mandolin, WoO 44b (arr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1e58J3tgxWaE3MHawzUkR1"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
         "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
@@ -65,79 +205,31 @@
       "url": "https://open.spotify.com/track/0iiKUd0auI7AuEMUbLtWFL"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
-        "name": "Golden Age (Orchestra Version)",
-        "url": "https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX"
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
       "artists": [
         {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Golden Age - Orchestra Version",
-      "url": "https://open.spotify.com/track/6DJJOcYKuk8hTunPSSaJPX"
-    },
-    {
-      "added_at": "2024-06-05 04:35:23",
-      "album": {
-        "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
-        "url": "https://open.spotify.com/album/4x3ALtm5sjlfh7o67a8A8i"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
-      "url": "https://open.spotify.com/track/0rOPL4a9Hz5CSphjTwkkc6"
-    },
-    {
-      "added_at": "2024-06-05 04:35:23",
-      "album": {
-        "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
-        "url": "https://open.spotify.com/album/4x3ALtm5sjlfh7o67a8A8i"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
         },
         {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
         }
       ],
-      "duration_ms": 154333,
-      "name": "12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
-      "url": "https://open.spotify.com/track/3LSr6G2fhLtSZiAGHfikK4"
+      "duration_ms": 35106,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Theme. Allegetto",
+      "url": "https://open.spotify.com/track/7pG9jzNo1VytBmDHsYo6h2"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
-      "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Twilight Waltz",
-      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
-    },
-    {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
@@ -169,63 +261,7 @@
       "url": "https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
-      "album": {
-        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
-        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
-      "url": "https://open.spotify.com/track/2TDbO42FkShXZI55HghNOo"
-    },
-    {
-      "added_at": "2024-06-05 04:35:23",
-      "album": {
-        "name": "Unfinished",
-        "url": "https://open.spotify.com/album/58rrDckn6OfNw3dDyeUHvz"
-      },
-      "artists": [
-        {
-          "name": "Forestella",
-          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
-        }
-      ],
-      "duration_ms": 321133,
-      "name": "Snow Globe",
-      "url": "https://open.spotify.com/track/1l0MptcWp4W8iqwtzX4ZmF"
-    },
-    {
-      "added_at": "2024-06-05 04:35:23",
-      "album": {
-        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
-    },
-    {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
         "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/0RAyUDOpyH8kYaNgVEWuMn"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Growl (Orchestra Version)",
         "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
@@ -261,7 +297,7 @@
       "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin's Last Piano Works",
         "url": "https://open.spotify.com/album/5HhegDEp8Pp7nlaptGL5Hn"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/4D5c2O7jJiKMk0e2csRWrH"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
         "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
@@ -301,7 +337,167 @@
       "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 31373,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
+      "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "duration_ms": 40906,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
+      "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Twilight Waltz",
+      "url": "https://open.spotify.com/track/7psQSIK06QI8ijSG56AmpI"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
+        "url": "https://open.spotify.com/album/4x3ALtm5sjlfh7o67a8A8i"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
+      "url": "https://open.spotify.com/track/0rOPL4a9Hz5CSphjTwkkc6"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
+        "url": "https://open.spotify.com/album/4x3ALtm5sjlfh7o67a8A8i"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
+      "url": "https://open.spotify.com/track/3LSr6G2fhLtSZiAGHfikK4"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
+        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "12 \u00c9tudes, Op. 10: No. 12 in C Minor \"Revolutionary\"",
+      "url": "https://open.spotify.com/track/2TDbO42FkShXZI55HghNOo"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/58rrDckn6OfNw3dDyeUHvz"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "duration_ms": 321133,
+      "name": "Snow Globe",
+      "url": "https://open.spotify.com/track/1l0MptcWp4W8iqwtzX4ZmF"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
         "url": "https://open.spotify.com/album/4x3ALtm5sjlfh7o67a8A8i"
@@ -321,7 +517,7 @@
       "url": "https://open.spotify.com/track/0eqzWD8WhGvjNE2KQbuN61"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Rachmaninoff, A Reflection",
         "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
@@ -341,7 +537,7 @@
       "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Hello Future (Orchestra Version)",
         "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
@@ -357,7 +553,7 @@
       "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
         "url": "https://open.spotify.com/album/4x3ALtm5sjlfh7o67a8A8i"
@@ -377,7 +573,87 @@
       "url": "https://open.spotify.com/track/0uYOulzEKrKIRir1HcuMGo"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 433986,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
+      "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
+      "url": "https://open.spotify.com/track/6glPeRqNYvyWQs8hhHw3Cd"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 446746,
+      "name": "Piano Sonata No. 12 in F Major, K. 332: III. Allegro assai",
+      "url": "https://open.spotify.com/track/58Ie6jgzXhP2OKUZIILvHA"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 96093,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": III. Rondo. Allegretto",
+      "url": "https://open.spotify.com/track/2Wc6N3q1jAoEftfryRJjIT"
+    },
+    {
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Love Confession",
         "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
@@ -393,7 +669,7 @@
       "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Red Flavor (Orchestra Version) - SM STATION",
         "url": "https://open.spotify.com/album/6Fxc4F5iiG8YisFZ8gOwMY"
@@ -413,7 +689,7 @@
       "url": "https://open.spotify.com/track/6ISvENhyKPxx13XWfzrKSp"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
@@ -429,7 +705,7 @@
       "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Sherlock (Clue + Note) [Orchestra Version]",
         "url": "https://open.spotify.com/album/2fg7HdPCDSHdbZRXzh70RE"
@@ -445,7 +721,7 @@
       "url": "https://open.spotify.com/track/73rDAj6Wl1JBgaKsr2qHlA"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
@@ -461,7 +737,7 @@
       "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "BACH",
         "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
@@ -485,7 +761,7 @@
       "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Make A Wish (Birthday Song) [Orchestra Version]",
         "url": "https://open.spotify.com/album/0fOonLfWvfoOYNaaVJyIp8"
@@ -501,7 +777,7 @@
       "url": "https://open.spotify.com/track/384VlAWxIQjjxoulQz0P54"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "non \u00e8 la fine",
         "url": "https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR"
@@ -517,7 +793,7 @@
       "url": "https://open.spotify.com/track/26EiFb8JMXdwKWCkT4cc6Q"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Our Beloved BoA #5 - SM STATION",
         "url": "https://open.spotify.com/album/2qCFU2r5sHsVlffK3mclJs"
@@ -533,7 +809,7 @@
       "url": "https://open.spotify.com/track/4Jd92aiHEfyHSf8IGlO9Ay"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
@@ -549,7 +825,7 @@
       "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
@@ -569,7 +845,7 @@
       "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Into The New World (Orchestra Version)",
         "url": "https://open.spotify.com/album/1n1oy0Nqr1IQUCg0el57SU"
@@ -585,7 +861,7 @@
       "url": "https://open.spotify.com/track/2WyMmDRr4kAweo0HczcLiB"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "But Beautiful",
         "url": "https://open.spotify.com/album/0MwmZR4Z5s8DDqoiA8736O"
@@ -605,7 +881,7 @@
       "url": "https://open.spotify.com/track/2pyp9twimZSVYkbCpFsyaX"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Summer Vacation",
         "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
@@ -625,7 +901,7 @@
       "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
@@ -641,7 +917,7 @@
       "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Une Vie Full album",
         "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
@@ -657,7 +933,7 @@
       "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Esthesia",
         "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
@@ -673,7 +949,7 @@
       "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "non \u00e8 la fine",
         "url": "https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR"
@@ -689,7 +965,7 @@
       "url": "https://open.spotify.com/track/0JjnebVxHxJ0A9wtTpfLhc"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Aria D\u2019amore",
         "url": "https://open.spotify.com/album/7E92fSvjhYJHEHu4H7fpha"
@@ -717,7 +993,7 @@
       "url": "https://open.spotify.com/track/1fPMSIOJRNZLqhEitUupuk"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "\ub108\uc758 \uc790\uc720\uc57c",
         "url": "https://open.spotify.com/album/3bg2zeyy3LfMkfwnfNgyBz"
@@ -737,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4h11kTlpCGg60Y18qA9vjV"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI"
@@ -753,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Aria D\u2019amore",
         "url": "https://open.spotify.com/album/7E92fSvjhYJHEHu4H7fpha"
@@ -781,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6WMBG6aGd4oAJpyWadripc"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
@@ -797,7 +1073,7 @@
       "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
@@ -817,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Feel My Rhythm (Orchestra Version)",
         "url": "https://open.spotify.com/album/1HOaPVpRI3AHhrQt9Kdr30"
@@ -833,7 +1109,7 @@
       "url": "https://open.spotify.com/track/7af1aCD9kJBI8YOCSh87lr"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Barber, Bruch",
         "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
@@ -861,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "2022 Winter SMTOWN : SMCU PALACE",
         "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
@@ -877,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "REMINISCENCE: Schubert works for violin and piano",
         "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
@@ -897,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2ThAvQYyd3ZqXhXLQfZ0Qa"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "We Will Be One",
         "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
@@ -913,7 +1189,7 @@
       "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "[The Bloom : UTOPIA] Borders of Utopia",
         "url": "https://open.spotify.com/album/6BY36mcoLnYWhxRWFMIZ2H"
@@ -929,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3m4bN9t3W1CUU9TcnQHGYa"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Beethoven, Isang Yun, Barber (Live)",
         "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
@@ -957,7 +1233,7 @@
       "url": "https://open.spotify.com/track/64YlvQ5riWGzZVVe71AFtQ"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Spanish Journey",
         "url": "https://open.spotify.com/album/65am8tZj4TsHS9sncNDWwi"
@@ -977,7 +1253,7 @@
       "url": "https://open.spotify.com/track/7aoqJgrvGikUKQE7NYK19G"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Debussy",
         "url": "https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr"
@@ -997,7 +1273,7 @@
       "url": "https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Mystique",
         "url": "https://open.spotify.com/album/77QkGABj1W4jm5fQ5zCrfq"
@@ -1013,7 +1289,7 @@
       "url": "https://open.spotify.com/track/1BQQAGPRlpEYJLy9pAofVV"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Lost In Memory",
         "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
@@ -1029,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
         "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
@@ -1049,7 +1325,7 @@
       "url": "https://open.spotify.com/track/0ofrNa6LBKn1G9G03vJJVt"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Remembering That Time",
         "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
@@ -1069,7 +1345,7 @@
       "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin: Piano Concerto No. 2; Scherzi",
         "url": "https://open.spotify.com/album/0NICuwUdAdabpvnHpbTgzy"
@@ -1097,7 +1373,7 @@
       "url": "https://open.spotify.com/track/3xdfrsXKfVmotMOzCQg6v8"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Cantar",
         "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
@@ -1117,7 +1393,7 @@
       "url": "https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/65u4wYlCAV0WsfJ5k8lhHn"
@@ -1137,7 +1413,7 @@
       "url": "https://open.spotify.com/track/01GZqoFssNsVDz9CRzLNJ3"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Mystique",
         "url": "https://open.spotify.com/album/77QkGABj1W4jm5fQ5zCrfq"
@@ -1153,7 +1429,7 @@
       "url": "https://open.spotify.com/track/4a14qc1DukwBKpFoQzRCah"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Espero 1st, Romance on Classic",
         "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
@@ -1173,7 +1449,7 @@
       "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
@@ -1189,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Anchor",
         "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
@@ -1205,7 +1481,7 @@
       "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Spanish Journey",
         "url": "https://open.spotify.com/album/65am8tZj4TsHS9sncNDWwi"
@@ -1225,7 +1501,7 @@
       "url": "https://open.spotify.com/track/0tKfChdkcD6XRLzESdPd62"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Lost In Memory",
         "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
@@ -1241,7 +1517,7 @@
       "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "REMINISCENCE: Schubert works for violin and piano",
         "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
@@ -1261,7 +1537,7 @@
       "url": "https://open.spotify.com/track/2iN2EXB7WVl8ZEPi9sVDB0"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "The Beginning: World Tree",
         "url": "https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB"
@@ -1277,7 +1553,7 @@
       "url": "https://open.spotify.com/track/6jV7bp6RxyWGvUt4RptTiF"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Schubert: Piano Sonatas III",
         "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
@@ -1297,7 +1573,7 @@
       "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Lieber Franz",
         "url": "https://open.spotify.com/album/1BPSbLMI7UmjgPfG3VOGQo"
@@ -1317,7 +1593,7 @@
       "url": "https://open.spotify.com/track/0I438LZWCVHD8Z1wMG8hPK"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "The Forestella",
         "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
@@ -1333,7 +1609,7 @@
       "url": "https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "We Contain Multitudes \u2014 piano reworks",
         "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
@@ -1353,7 +1629,7 @@
       "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Bartok Violin Concerto",
         "url": "https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4"
@@ -1373,7 +1649,7 @@
       "url": "https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "On Chesil Beach (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1IhkhMZO8R0X2tHuFGTOvK"
@@ -1397,7 +1673,7 @@
       "url": "https://open.spotify.com/track/7qyC8gWlincOcob4wDOrZc"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Lovely Night",
         "url": "https://open.spotify.com/album/4lrTjfIh8foTGkaitpI39J"
@@ -1413,7 +1689,7 @@
       "url": "https://open.spotify.com/track/5mMzR4exCSdokzXVQh2VOq"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
@@ -1433,7 +1709,7 @@
       "url": "https://open.spotify.com/track/5pOtS3sP7IT1RRVM5hr3uS"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Modern Cello",
         "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
@@ -1453,7 +1729,7 @@
       "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Debussy",
         "url": "https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr"
@@ -1473,7 +1749,7 @@
       "url": "https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Il Mondo",
         "url": "https://open.spotify.com/album/5KZRNp9ayuswLvXGyUPmYq"
@@ -1497,7 +1773,7 @@
       "url": "https://open.spotify.com/track/1Ep6pGxu3lZcqPJOLiYRbY"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
@@ -1513,7 +1789,7 @@
       "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
@@ -1533,7 +1809,7 @@
       "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Pure Opera Vol. 2",
         "url": "https://open.spotify.com/album/3ebREGFHsjpJCD0wx4ghvO"
@@ -1617,7 +1893,7 @@
       "url": "https://open.spotify.com/track/0R9F6cHIutznEPD5AD5EFH"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "breathe",
         "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
@@ -1641,7 +1917,7 @@
       "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Sound for Pets",
         "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
@@ -1657,7 +1933,7 @@
       "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Timepass",
         "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
@@ -1677,7 +1953,7 @@
       "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Une Vie",
         "url": "https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL"
@@ -1693,7 +1969,7 @@
       "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Cantar",
         "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
@@ -1713,7 +1989,7 @@
       "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Deep Sleep Deep",
         "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
@@ -1733,7 +2009,7 @@
       "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Bach: Arioso (Arr. Cortot After Harpsichord Concerto No. 5 in F Minor, BWV 1056)",
         "url": "https://open.spotify.com/album/4HgNY10OgAjf7mKvcLPRDA"
@@ -1753,7 +2029,7 @@
       "url": "https://open.spotify.com/track/5xfujtIVvNc4ieq441J8NJ"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "THE WAR",
         "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
@@ -1769,7 +2045,7 @@
       "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Black Mamba (Orchestra Version)",
         "url": "https://open.spotify.com/album/7raxRqTuTKeGvd4faGxkFO"
@@ -1785,7 +2061,7 @@
       "url": "https://open.spotify.com/track/7y4hxkpH5y72ajZW6aei1x"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "White Night",
         "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
@@ -1809,7 +2085,7 @@
       "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
@@ -1829,7 +2105,7 @@
       "url": "https://open.spotify.com/track/7ru3gpbiiHILS48ABqBLDe"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Schubert: Piano Sonatas III",
         "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
@@ -1849,7 +2125,7 @@
       "url": "https://open.spotify.com/track/5OsaAWJPbbVeEz8jN9TFT9"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
@@ -1865,7 +2141,7 @@
       "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Mozart: Die Zauberfl\u00f6te",
         "url": "https://open.spotify.com/album/0e8ebBTgGPU7a1KSUPm1fA"
@@ -1905,7 +2181,7 @@
       "url": "https://open.spotify.com/track/74R148YlWFrVqVTM1gjq6A"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
@@ -1929,7 +2205,7 @@
       "url": "https://open.spotify.com/track/6K0CsO1HJbf7k2eOYg9khP"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Enrique Granados \u2013 Goyescas",
         "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
@@ -1949,7 +2225,7 @@
       "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Modern Cello",
         "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
@@ -1965,7 +2241,7 @@
       "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Beethoven, Isang Yun, Barber (Live)",
         "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
@@ -1985,7 +2261,7 @@
       "url": "https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Chopin: Piano Concerto No. 1; Ballades (Deluxe)",
         "url": "https://open.spotify.com/album/0jvv6FS3zxUe56530Gjq4d"
@@ -2005,7 +2281,7 @@
       "url": "https://open.spotify.com/track/6dcLNkvKE7zsCUqsMYM0eT"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
@@ -2029,7 +2305,7 @@
       "url": "https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "VINCENZO (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/2R6FBQcbf0w6Ns5gYMyZOy"
@@ -2045,7 +2321,7 @@
       "url": "https://open.spotify.com/track/33KwxY9n6ejsjrIkH2uO9A"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
         "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
@@ -2065,7 +2341,7 @@
       "url": "https://open.spotify.com/track/5MJ7PlUVP1cqpd7Bt6UVkU"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Lieber Franz",
         "url": "https://open.spotify.com/album/1BPSbLMI7UmjgPfG3VOGQo"
@@ -2085,7 +2361,7 @@
       "url": "https://open.spotify.com/track/4uKWSTZnshdoSw0mwASnnJ"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Mozart Collection",
         "url": "https://open.spotify.com/album/1j4ex40BEDd4jWIKPkg69n"
@@ -2113,7 +2389,7 @@
       "url": "https://open.spotify.com/track/1LS8z44ljIsRXJCDcIKVsg"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "White Night",
         "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
@@ -2137,7 +2413,7 @@
       "url": "https://open.spotify.com/track/6zI5QVxrwU3rOl03Ao5vzb"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
@@ -2157,7 +2433,7 @@
       "url": "https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
@@ -2181,7 +2457,7 @@
       "url": "https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "Timepass",
         "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
@@ -2201,7 +2477,7 @@
       "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
@@ -2221,7 +2497,7 @@
       "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
     },
     {
-      "added_at": "2024-06-05 04:35:23",
+      "added_at": "2024-06-11 07:42:07",
       "album": {
         "name": "KAI ON MUSICAL",
         "url": "https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N"
@@ -2237,6 +2513,6 @@
       "url": "https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x"
     }
   ],
-  "unique_name": "ClassicK",
+  "unique_name": "ClassiK",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr"
 }

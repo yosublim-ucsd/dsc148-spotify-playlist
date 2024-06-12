@@ -4,7 +4,7 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-87 songs - 3 hr 53 min
+88 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [639 Hz Quantum Waves](https://open.spotify.com/track/0ZiAAJc1PHPMQSla7cvImN) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Open Mindset Solfeggio](https://open.spotify.com/album/75zQejIX7nzbkehdw3NwVh) | 3:00 | 2023-08-07 |  |
 | [639 Hz Release](https://open.spotify.com/track/5YkziyomBXQS6Kh0Zhnm6H) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
 | [639 Hz Rhythm of Kin](https://open.spotify.com/track/2dB2RfoX4Lb3DrK0aJF4NG) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz Rhythm of Kin](https://open.spotify.com/album/5VpIVjuu07WdJarvN8A5Lp) | 2:34 | 2024-03-13 |  |
+| [639 Hz The Anthem of Connection](https://open.spotify.com/track/6oCLYmIoXXgaSUVD1s37y6) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz The Anthem of Connection](https://open.spotify.com/album/1cLyjr7T2DNLKl8ikluGgc) | 2:30 | 2024-06-11 |  |
 | [639 Hz Tolerance and Love](https://open.spotify.com/track/0feSxi0NaNlAYOGiC1RW2I) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Tolerance](https://open.spotify.com/album/1Bxqf6Q41Gte8MJGXBgJqr) | 2:45 | 2023-03-10 |  |
 | [639 Hz Transitions](https://open.spotify.com/track/4DJ9VfdyefZeSwaIkYkaex) | [Sjoberga](https://open.spotify.com/artist/02hZdM7vbVOrG4Pm8tLsIc) | [639 Hz Transitions](https://open.spotify.com/album/2FU1FoPfeLeXkBfqoD4wK3) | 2:18 | 2023-03-10 |  |
 | [639 Hz Unity Strains](https://open.spotify.com/track/6T9LQ3Bp9rHJureI7XpRMC) | [Gerald Kenneth Turner](https://open.spotify.com/artist/4n05fm8bjGyVAFjq9luq4L) | [639 Hz Unity Strains](https://open.spotify.com/album/3MKQ95Z5IMp6cEv5UIeugY) | 2:18 | 2024-03-13 |  |

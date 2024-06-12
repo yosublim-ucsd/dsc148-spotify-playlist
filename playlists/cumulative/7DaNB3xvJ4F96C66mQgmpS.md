@@ -4,7 +4,7 @@
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-232 songs - 12 hr 36 min
+233 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-04 | 2022-09-13 |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2024-05-23 |  |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:22 | 2023-12-11 | 2024-05-24 |
-| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-05-31 |  |
+| [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-05-31 | 2024-06-12 |
 | [How TF \(with SleazyWorld Go\)](https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [How TF](https://open.spotify.com/album/7uFrgDWyKZZb4KHYORcqQt) | 3:02 | 2022-09-06 | 2024-01-16 |
 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 | 2024-05-23 |  |
 | [Humble Beast](https://open.spotify.com/track/1yGAmfQpKdSWjOUBfSuZRf) | [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ) | [Humble Beast](https://open.spotify.com/album/2L2xc13qkyWmjtrnmsYbsJ) | 1:51 | 2023-05-08 | 2023-05-30 |
@@ -133,6 +133,7 @@
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2024-05-23 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-03 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-12-11 | 2024-01-23 |
+| [Monsters Inc\. \(feat\. Future\)](https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 3:03 | 2024-06-11 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-06-09 | 2024-01-23 |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-04-24 | 2023-05-30 |
 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 | 2022-06-09 | 2023-04-20 |

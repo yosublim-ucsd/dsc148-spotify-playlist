@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > Para mi las locomotoras son las normalmotoras 🫨
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,718 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,737 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 57 | [\|BONKERS\|](https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS) | [staplegun](https://open.spotify.com/artist/4UwArHrn7xxZleV0q6OzwI) | [\|BONKERS\|](https://open.spotify.com/album/0WQa2WyVWjNNiTB7ACrWwr) | 3:32 |
 | 58 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
 | 59 | [Respeito](https://open.spotify.com/track/14E117Ikw43Vljys3fAsNU) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Respeito](https://open.spotify.com/album/5hb16jy47rIjFQRUKg2qIg) | 1:56 |
-| 60 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
+| 60 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
 
 Snapshot ID: `ZmNaWwAAAADe7/F+e+bQMIw1gx6LXVR8`

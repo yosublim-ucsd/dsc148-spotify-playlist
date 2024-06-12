@@ -2680,6 +2680,10 @@
         {
           "name": "King Hannah",
           "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
       "date_added": "2024-06-07",
@@ -21758,6 +21762,24 @@
       "duration_ms": 158024,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
+    },
+    {
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 676192,
+  "num_followers": 676281,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,18 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
       },
       "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 155888,
-      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
-      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -263,18 +259,22 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+        "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+        "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
       },
       "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+      "duration_ms": 155888,
+      "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+      "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -339,6 +339,26 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
+        "name": "Volver Al Futuro",
+        "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 204102,
+      "name": "Volver Al Futuro",
+      "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -399,26 +419,6 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Volver Al Futuro",
-        "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 204102,
-      "name": "Volver Al Futuro",
-      "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
+        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
         "name": "La Guerita",
         "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -555,26 +555,22 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "ROMPE LA DOMPE",
-        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 165634,
-      "name": "ROMPE LA DOMPE",
-      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -603,22 +599,42 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+        "name": "ROMPE LA DOMPE",
+        "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+      "duration_ms": 165634,
+      "name": "ROMPE LA DOMPE",
+      "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
+        "name": "El Beneficio De La Duda",
+        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "El Beneficio De La Duda",
+      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -639,22 +655,6 @@
       "duration_ms": 109866,
       "name": "J\u00e1lale alv",
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
-        "name": "El Beneficio De La Duda",
-        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "El Beneficio De La Duda",
-      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Por Dentro",
-        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Por Dentro",
-      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
         "name": "Ya Te Super\u00e9",
         "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 226476,
       "name": "Ya Te Super\u00e9",
       "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
+        "name": "Por Dentro",
+        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
-        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Labios de Cereza 2",
-      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+      "duration_ms": 155076,
+      "name": "Torai",
+      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
+        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Torai",
-      "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
+      "duration_ms": 226250,
+      "name": "Labios de Cereza 2",
+      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
     },
     {
       "added_at": "2024-05-31 16:45:08",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-05-31 16:45:08",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+    },
+    {
+      "added_at": "2024-05-31 16:45:08",
+      "album": {
         "name": "Cobijas Ajenas",
         "url": "https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 160040,
       "name": "Cobijas Ajenas",
       "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
-    },
-    {
-      "added_at": "2024-05-31 16:45:08",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     }
   ],
   "unique_name": "Top M\u00e9xico",

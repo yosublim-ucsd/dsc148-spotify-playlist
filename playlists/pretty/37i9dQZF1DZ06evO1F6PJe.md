@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 ### [This Is Joe Bonamassa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F6PJe)
 
-> This is Joe Bonamassa\. Todos os maiores hits em uma só playlist.
+> This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,547 likes - 51 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,555 likes - 51 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 24 | [Driving Wheel](https://open.spotify.com/track/4Lvby06863caCqrmISPYp3) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 3:33 |
 | 25 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
 | 26 | [Enlighten](https://open.spotify.com/track/3wGR5b7tyCa9bFQtayqXYZ) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Enlighten](https://open.spotify.com/album/0apqDCEjK86D64512xrslX) | 5:20 |
-| 27 | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4) | 3:57 |
-| 28 | [I Want To Shout About It](https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:12 |
+| 27 | [I Want To Shout About It](https://open.spotify.com/track/14oXexdYYKuABVxIldH4BS) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:12 |
+| 28 | [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 |
 | 29 | [Woke Up Dreaming](https://open.spotify.com/track/6jI6VHcbFUqDDAelgPXWzp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 2:51 |
-| 30 | [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 |
+| 30 | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Ball Peen Hammer \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4) | 3:57 |
 | 31 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 |
 | 32 | [Different Shades of Blue](https://open.spotify.com/track/7yeTSrPYItz4RqMKvkB2lW) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Different Shades of Blue](https://open.spotify.com/album/5WWZEwutrC1lNobBicaTrV) | 4:39 |
 | 33 | [Black Lung Heartache](https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [Man of Many Words](https://open.spotify.com/track/6hhe7LQXLdkzHx3wShTsau) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 4:10 |
 | 51 | [Like a Prayer](https://open.spotify.com/track/4fpSzZ1mXIc3Yg42KIlV4e) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Hunter](https://open.spotify.com/artist/79xCRaEpYC3kdfmZWGRNjX), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Like a Prayer](https://open.spotify.com/album/2x7O0SauXii2wEaV01VZx4) | 3:01 |
 
-Snapshot ID: `ZmTwgAAAAAD637Xa7zv9lTuIx2ujkeji`
+Snapshot ID: `ZmZCAAAAAACHU7u0YSUkIlXPwPZALA0j`

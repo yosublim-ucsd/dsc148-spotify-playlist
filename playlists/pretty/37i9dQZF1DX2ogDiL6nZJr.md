@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,200 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,366 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 73 | [The Beauty & The Pain](https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3) | [Kids of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [The Beauty & The Pain](https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc) | 4:02 |
 | 74 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 |
 | 75 | [Rich Man](https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Rich Man](https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1) | 3:56 |
-| 76 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
-| 77 | [Ten Is a Number](https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [M Field](https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg) | 3:13 |
+| 76 | [Ten Is a Number](https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [M Field](https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg) | 3:13 |
+| 77 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 78 | [Where the Grass Grows High](https://open.spotify.com/track/7KBvYUxW8zgK5bQE5U1edR) | [Flora Falls](https://open.spotify.com/artist/2lgTnaXO0b6ufPyEmbZJO9) | [Where the Grass Grows High](https://open.spotify.com/album/5zRkDPYfYzo5DTyg2BD6UP) | 3:35 |
 | 79 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 80 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
@@ -94,16 +94,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 84 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 |
 | 85 | [But \- Radio Edit](https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [But \(Radio Edit\)](https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ) | 4:01 |
 | 86 | [Flood](https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Flood](https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW) | 4:07 |
-| 87 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY) | 3:59 |
-| 88 | [Hi Lo](https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [HI\-LO](https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA) | 3:45 |
-| 89 | [Lisbon](https://open.spotify.com/track/53w0tKVDTNnpuTEj2bp4NO) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Lisbon](https://open.spotify.com/album/3b3WV63T1k4WlKT71hoo1F) | 4:11 |
+| 87 | [Hi Lo](https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [HI\-LO](https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA) | 3:45 |
+| 88 | [Lisbon](https://open.spotify.com/track/53w0tKVDTNnpuTEj2bp4NO) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Lisbon](https://open.spotify.com/album/3b3WV63T1k4WlKT71hoo1F) | 4:11 |
+| 89 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY) | 3:59 |
 | 90 | [Los Angeles](https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Los Angeles](https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF) | 3:33 |
 | 91 | [Choirs to Heaven](https://open.spotify.com/track/3PqrXZmbggXBw5Sswa9TFm) | [Lea Porcelain](https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl) | [Choirs to Heaven](https://open.spotify.com/album/1hd5c47zvKt66gm1zo60Z9) | 4:45 |
 | 92 | [Lonely Nights](https://open.spotify.com/track/0dRqWsb5yaDSm2Z9TJlqDF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Lonely Nights](https://open.spotify.com/album/5qvewfz3zp6c9DlCKk4m3w) | 3:20 |
 | 93 | [You & the Sea](https://open.spotify.com/track/6C0CiANf5HJCckhrhmkZTB) | [David Nevory](https://open.spotify.com/artist/2UfNQbWhyIvKplQbVfTF4w) | [You & the Sea](https://open.spotify.com/album/7CpwoShqHbzQeR3GZOUzuE) | 3:24 |
-| 94 | [Head On](https://open.spotify.com/track/2ku71f9zbPxkykS1cySXyL) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Head On](https://open.spotify.com/album/2vAB6q0kGH2OIU2mBaEqPr) | 4:45 |
+| 94 | [Tuscan Sun](https://open.spotify.com/track/7Lk0RmNpKQxQdJb1xeUy7O) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Tuscan Sun](https://open.spotify.com/album/2pNPvs9j5gTqExGiZcHs6X) | 3:51 |
 | 95 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 |
-| 96 | [Tuscan Sun](https://open.spotify.com/track/7Lk0RmNpKQxQdJb1xeUy7O) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Tuscan Sun](https://open.spotify.com/album/2pNPvs9j5gTqExGiZcHs6X) | 3:51 |
+| 96 | [Head On](https://open.spotify.com/track/2ku71f9zbPxkykS1cySXyL) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Head On](https://open.spotify.com/album/2vAB6q0kGH2OIU2mBaEqPr) | 4:45 |
 | 97 | [Treasure](https://open.spotify.com/track/2ap5bIL2vtaM1kgq1NO5f1) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:11 |
 | 98 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
 | 99 | [In the Blank Space](https://open.spotify.com/track/6rDriFh2ltK6OlpH0TpECo) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW) | [In The Blank Space](https://open.spotify.com/album/1ZWx1TlK9Nl9PwBsS0MYV7) | 4:18 |

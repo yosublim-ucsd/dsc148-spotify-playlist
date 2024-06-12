@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,899 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,900 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 85 | [Amore](https://open.spotify.com/track/17YeDKAwDBQLV3Er5CdgC1) | [Dukespan NYC](https://open.spotify.com/artist/5Oytd7WRdbgABzJGyrRlyW) | [Songs From Our Past Vol.1](https://open.spotify.com/album/0K6XNgMTAGQBNoNn2BJPnA) | 4:08 |
 | 86 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AbTt3gAAAACUvrn+zaeauTaPSYpMEN7k`
+Snapshot ID: `AbTzQgAAAABErmyq1gxHad7NkywtuuU4`

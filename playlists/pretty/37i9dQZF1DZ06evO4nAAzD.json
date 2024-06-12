@@ -1,12 +1,12 @@
 {
-  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 3632,
+  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
+  "num_followers": 3639,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAAUimZXNkV5bGiEsJ2qK18u",
+  "snapshot_id": "ZmZCAAAAAACutjqQhtkYikpqNxNSDFlt",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 183380,
+      "name": "APOCAL\u00cdPTIKA",
+      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Dj Gm 3.0",
         "url": "https://open.spotify.com/album/41SaVrBv4KhINcfAyC8ePE"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 390315,
       "name": "Set Dj Gm 3.0",
       "url": "https://open.spotify.com/track/5z9RaVCvG9NkxCLbyHKaf2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V\u00caNUS\u2260netuno",
-        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 183380,
-      "name": "APOCAL\u00cdPTIKA",
-      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
       "added_at": null,
@@ -759,26 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Que Isso?",
-        "url": "https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra"
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
       },
       "artists": [
         {
+          "name": "Mc Vittin PV",
+          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
+        },
+        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 145979,
-      "name": "Por Que Isso?",
-      "url": "https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH"
+      "duration_ms": 238075,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
     },
     {
       "added_at": null,
@@ -811,22 +807,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
+        "name": "Por Que Isso?",
+        "url": "https://open.spotify.com/album/3T7eJi23fg8xpUUAnZ3pra"
       },
       "artists": [
         {
-          "name": "Mc Vittin PV",
-          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
-        },
-        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 238075,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
+      "duration_ms": 145979,
+      "name": "Por Que Isso?",
+      "url": "https://open.spotify.com/track/5DmbR451VqRfUhzAnCS5VH"
     },
     {
       "added_at": null,

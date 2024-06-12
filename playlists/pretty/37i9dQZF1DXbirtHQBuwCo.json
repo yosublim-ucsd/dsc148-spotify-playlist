@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park)",
-  "num_followers": 1004856,
+  "num_followers": 1004806,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-06-06 14:02:55",
       "album": {
-        "name": "Officially Cool",
-        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
-      },
-      "artists": [
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        },
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Officially Cool",
-      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
-    },
-    {
-      "added_at": "2024-06-06 14:02:55",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "added_at": "2024-06-06 14:02:55",
+      "album": {
+        "name": "Officially Cool",
+        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Officially Cool",
+      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
     },
     {
       "added_at": "2024-06-06 14:02:55",

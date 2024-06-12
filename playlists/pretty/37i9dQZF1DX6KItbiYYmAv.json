@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 732053,
+  "num_followers": 732028,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Teenage Dirtbag",
         "url": "https://open.spotify.com/album/6csWPrRMyZDT3DRu7QOodg"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 199200,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/6nWh37Xjbph0Zr0dTJGZ2p"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Only Thing Worth Fighting For (From The HBO Series True Detective)",
         "url": "https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
       },
       "artists": [
         {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1339,6 +1323,22 @@
       "duration_ms": 217167,
       "name": "The Only",
       "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/1AwOiNVDcnyX4YAcvNecvd"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 327469,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/5dRy520QssuzpqsPOVrgJF"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 135105,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
       },
       "artists": [
         {
-          "name": "Rod Ladgrove",
-          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
         }
       ],
-      "duration_ms": 189912,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
+      "duration_ms": 135105,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1591,6 +1575,22 @@
       "duration_ms": 292760,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/2wVrDSnhFnwy9SQLgP9Yiq"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
+      },
+      "artists": [
+        {
+          "name": "Rod Ladgrove",
+          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+        }
+      ],
+      "duration_ms": 189912,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Go Rilla (Acoustic Version)",
         "url": "https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 217693,
       "name": "Ain't No Reason",
       "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Drives Me Crazy",
-        "url": "https://open.spotify.com/album/29kOgkV6oKBFfZkL8sYgn6"
-      },
-      "artists": [
-        {
-          "name": "Pat Burgener",
-          "url": "https://open.spotify.com/artist/7wDjdS9h3CXK18Y1H1hO5I"
-        }
-      ],
-      "duration_ms": 262873,
-      "name": "Drives Me Crazy",
-      "url": "https://open.spotify.com/track/64b6Q49Fmm57T2cir1XorQ"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "No Fixed Abode",
         "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 204081,
       "name": "No Fixed Abode",
       "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Drives Me Crazy",
+        "url": "https://open.spotify.com/album/29kOgkV6oKBFfZkL8sYgn6"
+      },
+      "artists": [
+        {
+          "name": "Pat Burgener",
+          "url": "https://open.spotify.com/artist/7wDjdS9h3CXK18Y1H1hO5I"
+        }
+      ],
+      "duration_ms": 262873,
+      "name": "Drives Me Crazy",
+      "url": "https://open.spotify.com/track/64b6Q49Fmm57T2cir1XorQ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Wounded",
-        "url": "https://open.spotify.com/album/0H56Qf5t1at58tNu6M2xtx"
-      },
-      "artists": [
-        {
-          "name": "Femke",
-          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
-        }
-      ],
-      "duration_ms": 182698,
-      "name": "Wounded",
-      "url": "https://open.spotify.com/track/10bsIOqye17izduOx8aQD5"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "My Favourite Faded Fantasy",
         "url": "https://open.spotify.com/album/7gqvBbOGDfAvjweUqnn5xg"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/3BFXgZr628FqwDP3pQCgvk"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Wounded",
+        "url": "https://open.spotify.com/album/0H56Qf5t1at58tNu6M2xtx"
+      },
+      "artists": [
+        {
+          "name": "Femke",
+          "url": "https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w"
+        }
+      ],
+      "duration_ms": 182698,
+      "name": "Wounded",
+      "url": "https://open.spotify.com/track/10bsIOqye17izduOx8aQD5"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Albion",
-        "url": "https://open.spotify.com/album/06qVI0EPrbAVuJkk5h0epR"
-      },
-      "artists": [
-        {
-          "name": "Friede Merz",
-          "url": "https://open.spotify.com/artist/2wwFjcTcqWYd6l35ZSEZYQ"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Albion",
-      "url": "https://open.spotify.com/track/5hkb78xguoXfpbIPkiHlFb"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Summer Clothes",
         "url": "https://open.spotify.com/album/71eFxdkCuPOa2pkT8Zb0k4"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 137852,
       "name": "Summer Clothes (Acoustic)",
       "url": "https://open.spotify.com/track/3ldQn5GUmDqs0L4z4GORI6"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Albion",
+        "url": "https://open.spotify.com/album/06qVI0EPrbAVuJkk5h0epR"
+      },
+      "artists": [
+        {
+          "name": "Friede Merz",
+          "url": "https://open.spotify.com/artist/2wwFjcTcqWYd6l35ZSEZYQ"
+        }
+      ],
+      "duration_ms": 167972,
+      "name": "Albion",
+      "url": "https://open.spotify.com/track/5hkb78xguoXfpbIPkiHlFb"
     },
     {
       "added_at": "2024-04-24 06:24:42",

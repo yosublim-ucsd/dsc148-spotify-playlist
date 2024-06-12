@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-833 songs - 2 day 6 hr 50 min
+834 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Best For Me \- 2023 Edition](https://open.spotify.com/track/4b3Mtvtl2fNv9lfbd2zsju) | [FENNEC FENNEC](https://open.spotify.com/artist/3ipgnVhxY6lwazNcnBvh6G) | [Best For Me \(2023 Edition\)](https://open.spotify.com/album/0bUiuiMpNFquZ9Hy20CPtN) | 3:53 | 2023-08-15 | 2023-08-30 |
 | [Better](https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [アウトドア](https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE) | 3:01 | 2023-08-17 |  |
 | [BITTER!](https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe) | 3:05 | 2022-05-24 | 2023-01-25 |
+| [Black or White?](https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Black or White?](https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q) | 3:34 | 2024-06-12 |  |
 | [Blind Touch](https://open.spotify.com/track/3gZLOJ26mpO1rCLcA40GPv) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Zuma \(Nijiirozamurai\)](https://open.spotify.com/artist/2mGHftJVrPjfQJyfNu7OyZ) | [Tokyo City Pop“Portrait”Produced by Kanako Hara](https://open.spotify.com/album/2QvxjUgOLWYIqMvwMvIwZg) | 3:56 | 2023-06-06 | 2023-06-16 |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-24 | 2022-07-27 |
 | [BLOOM](https://open.spotify.com/track/5N91tpIFf6D7JS0O1Cvbn5) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [BLOOM](https://open.spotify.com/album/1ZCeo1Ht3sInQD3RBdw66Q) | 3:42 | 2022-06-02 | 2022-07-14 |
@@ -661,7 +662,7 @@
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-24 | 2022-06-26 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/551g9w0Ucj6QSWkvwmUcP4) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [テレフォン・ナンバー](https://open.spotify.com/album/5QK9dCDRjAZaqWra9mBsRK) | 3:51 | 2024-01-23 | 2024-01-25 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/5aTbBqfHaRj4aEoz0GVkws) | [Rinapon](https://open.spotify.com/artist/5rTWFvJ8dggdYp0Kr4Ohcf) | [テレフォン・ナンバー](https://open.spotify.com/album/4iONxdOQkJzUX3uZt66ZsF) | 3:26 | 2022-06-30 | 2022-07-02 |
-| [デッドライン](https://open.spotify.com/track/0btSNF4g9CtAgcRtc2hqoG) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 2:53 | 2024-04-16 |  |
+| [デッドライン](https://open.spotify.com/track/0btSNF4g9CtAgcRtc2hqoG) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 2:53 | 2024-04-16 | 2024-06-12 |
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-11-14 | 2024-04-19 |
 | [トドメの一撃 \(feat\. Cory Wong\)](https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [トドメの一撃 \(feat\. Cory Wong\)](https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24) | 5:10 | 2024-04-16 |  |
 | [ナイトグルーヴ](https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Groove it](https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ) | 3:34 | 2023-11-10 |  |

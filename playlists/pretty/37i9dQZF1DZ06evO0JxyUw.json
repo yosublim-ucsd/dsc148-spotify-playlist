@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christina Aguilera. Los temas esenciales, todos en una lista.",
-  "num_followers": 261714,
+  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
+  "num_followers": 261757,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAABpZmsqgndoeA6Nqt9gM40y",
+  "snapshot_id": "ZmZCAAAAAACifYmIdMMtqXjty80t0acl",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 228906,
-      "name": "Ain't No Other Man",
-      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+      "duration_ms": 194213,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "Ain't No Other Man",
+      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
     },
     {
       "added_at": null,
@@ -587,6 +603,26 @@
       "duration_ms": 252706,
       "name": "Nobody Wants to Be Lonely (with Christina Aguilera)",
       "url": "https://open.spotify.com/track/45cVyfWuMAg8RNxmkcpmy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor (Edici\u00f3n Especial En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/66rPH3vtqyVKZobEzphXMA"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 262306,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/0U4mdFPED6oviFgWjst8q9"
     },
     {
       "added_at": null,
@@ -831,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amore (Remastered)",
-        "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 262306,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/3Biuvi5NQdNpi2OiTgWNK4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -955,22 +967,6 @@
       "duration_ms": 228635,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Save Me from Myself",
-      "url": "https://open.spotify.com/track/7aLQoD4MWkYQjZuTQKuT9Y"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

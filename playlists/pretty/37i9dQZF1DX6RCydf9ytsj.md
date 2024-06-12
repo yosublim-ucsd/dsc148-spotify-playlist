@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,259 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,384 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 54 | [Are the Good Times Really Over \(I Wish a Buck Was Still Silver\)](https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:13 |
 | 55 | [Love Me Like You Used To](https://open.spotify.com/track/3PkASUKHoNOWzGmDkwnnG5) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Love Me Like You Used To](https://open.spotify.com/album/4QX9956IEsmpWCJtfwa7b5) | 3:49 |
 | 56 | [On the Road Again](https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Forrest Gump \- The Soundtrack](https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk) | 2:28 |
-| 57 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
-| 58 | [Through The Years](https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Best Of Kenny Rogers: Through The Years](https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP) | 4:22 |
+| 57 | [Through The Years](https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Best Of Kenny Rogers: Through The Years](https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP) | 4:22 |
+| 58 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
 | 59 | [Friday Night Blues](https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Friday Night Blues](https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD) | 3:18 |
 | 60 | [Theme from "The Dukes of Hazzard" \(Good Ol' Boys\)](https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Dukes Of Hazzard](https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq) | 2:06 |
 | 61 | [Have Mercy](https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 3:21 |
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 106 | [Swingin'](https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Wild And Blue](https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc) | 3:03 |
 | 107 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 108 | [She Got the Goldmine \(I Got the Shaft\)](https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 3:16 |
-| 109 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
+| 109 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
 | 110 | [I'll Still Be Loving You](https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 4:18 |
-| 111 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
+| 111 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
 | 112 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |
 | 113 | [Same Ole Me](https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Still The Same Ole Me](https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE) | 2:50 |
 | 114 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |

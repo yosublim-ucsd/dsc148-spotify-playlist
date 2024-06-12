@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-83 songs - 3 hr 38 min
+85 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,8 @@
 | [HAM \- Throat Chakra \- Truth](https://open.spotify.com/track/3I5l2Ulolh87Hnt7RoGDKY) | [Float Waves](https://open.spotify.com/artist/3ktvAYSUnQfoS8vxYex8Jp) | [440Hz Chakra Suite, Vol 1](https://open.spotify.com/album/0oETsqI9kxTYL37kYxFRaU) | 2:04 | 2023-03-10 | 2023-08-08 |
 | [Harmonizing Throat Chakra](https://open.spotify.com/track/4ubDW4ReffTJffdzkjp4rR) | [Vincent de Carsenti](https://open.spotify.com/artist/3o0sqYPgNVNs4Br8gQxSMs) | [All the Ways of God \(Meditative Music\)](https://open.spotify.com/album/0RzeIk6LNn3zkl2e7Cy1uD) | 0:59 | 2023-03-10 | 2023-12-01 |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-03-10 |  |
+| [Illuminated Strum 741 Hz](https://open.spotify.com/track/44C5JAF8UMtcICFL8LGQse) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Illuminated Strum 741 Hz](https://open.spotify.com/album/4fTfoqDdD5mxZh34SfN22G) | 2:34 | 2024-06-11 |  |
+| [Ingenuity Code 741 Hz](https://open.spotify.com/track/2H7WC3coEXBmfgvk2zxOF1) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Ingenuity Code 741 Hz](https://open.spotify.com/album/0Vw31qxMXsLlqDC7feKUWl) | 2:22 | 2024-06-11 |  |
 | [Insight 741 Hz](https://open.spotify.com/track/67xkzXf2kjBohSyjk5zU4Z) | [Emotional Pleasure](https://open.spotify.com/artist/1EP08kGH9Qa0yxHOLxzCC9) | [Insight 741 Hz](https://open.spotify.com/album/4fkMdxjXstSp00j3kIqm2C) | 2:35 | 2024-04-07 |  |
 | [Late Night Meditation](https://open.spotify.com/track/7zT6CQ1og08NiVfn8E8Yfx) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Late Night Meditation](https://open.spotify.com/album/4USXXfJHQgf1gB0yS9jmOJ) | 2:28 | 2023-03-10 | 2023-12-01 |
 | [Light Beam](https://open.spotify.com/track/0cBFe5cufslKKaBKCh7awt) | [Pink Opal](https://open.spotify.com/artist/4G2znNneRZlbCwuDAIQi2E) | [Wisdowm Of REM](https://open.spotify.com/album/1wEZdYZRQsdkRIByTyqH6E) | 1:51 | 2023-03-10 | 2024-03-14 |

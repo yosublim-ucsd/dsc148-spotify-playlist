@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Marca MP. Los temas esenciales, todos en una lista.",
+  "description": "This is Marca MP. The essential tracks, all in one playlist.",
   "name": "This Is Marca MP",
   "tracks": [
     {
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 239500,
       "name": "R1",
       "url": "https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW"
@@ -1842,6 +1842,24 @@
       "duration_ms": 168280,
       "name": "Vida Rencorosa",
       "url": "https://open.spotify.com/track/6FdGKzJRwqIoZCpxUiQKzr"
+    },
+    {
+      "album": {
+        "name": "Desde El Cant\u00f3n, Vol. II (En Vivo)",
+        "url": "https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174624,
+      "name": "Y Me Ven - En Vivo",
+      "url": "https://open.spotify.com/track/17AY40sV0Fy9SzsPwYI4xc"
     },
     {
       "album": {

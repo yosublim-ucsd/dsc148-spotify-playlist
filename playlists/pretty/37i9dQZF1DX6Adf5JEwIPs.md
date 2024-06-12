@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,383 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,546 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 20 | [LAS FRESITAS](https://open.spotify.com/track/6RXtrclw0jZohPXITi5jio) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8) | [HAPPY BOYS](https://open.spotify.com/album/2raXBwphTkf6FRg4Vv0R8p) | 2:39 |
 | 21 | [Champagne O Cerveza](https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Dany El Nise](https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8) | [Champagne O Cerveza](https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX) | 2:28 |
 | 22 | [Dime \- Toy Selectah Cumbia Remix](https://open.spotify.com/track/5CrIhnbLia8Fqqr4d8UEi1) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM) | [Dime \(Toy Selectah Cumbia Remix\)](https://open.spotify.com/album/69ZTclRzkCfvGrSsSohSEA) | 3:25 |
-| 23 | [Me Iré A Gozar Después](https://open.spotify.com/track/00p1wrLVvCWFCnyqWfPkVR) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ), [Cumbia Machine](https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc) | [Me Iré A Gozar Después](https://open.spotify.com/album/277aOOITUSYj1TOdmLZ62X) | 3:53 |
+| 23 | [Me Iré A Gozar Después](https://open.spotify.com/track/00p1wrLVvCWFCnyqWfPkVR) | [Cumbia Machine](https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Me Iré A Gozar Después](https://open.spotify.com/album/277aOOITUSYj1TOdmLZ62X) | 3:53 |
 | 24 | [Estilo Floyd](https://open.spotify.com/track/5JkJKRXphnXJwchGvQOoL2) | [Brian Santin](https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Estilo Floyd](https://open.spotify.com/album/4EiAB0FSmLzDaWT13NNJzO) | 2:39 |
 | 25 | [YRUZ](https://open.spotify.com/track/6NjXu49e6voDYvt1i4n4lk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [Tony Herrera](https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk) | [YRUZ](https://open.spotify.com/album/1LT0cN7lVdm9iNsP8gH9W8) | 3:54 |
 | 26 | [IVANA](https://open.spotify.com/track/6AEh5Ungx1az2k2qEcgmq1) | [Santiago Jiménez](https://open.spotify.com/artist/0oTQtUGLufiCsIqmTbAQGM), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [IVANA](https://open.spotify.com/album/4BzXnqN9oVRTDCarl1Uwqz) | 3:12 |

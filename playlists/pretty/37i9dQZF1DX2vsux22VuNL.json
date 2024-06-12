@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289285,
+  "num_followers": 289261,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
-        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 155605,
-      "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
-      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
+        "url": "https://open.spotify.com/album/7dmSRqUYOrnaovRY3q5CFk"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 155605,
+      "name": "Quando a gente ama (Vers\u00e3o Xam\u00e3)",
+      "url": "https://open.spotify.com/track/0isC8YBpo5h3b1vOnJ0aNw"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -231,22 +231,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw"
       },
       "artists": [
         {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         },
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
+      "duration_ms": 161706,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -275,22 +275,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw"
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         },
         {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 161706,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7"
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 244571,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -451,22 +451,18 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
       "artists": [
         {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
         }
       ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -495,18 +491,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
       "artists": [
         {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
+        "name": "CULPADO",
+        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "CULPADO",
+      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
         "name": "Ac\u00fastico 10 Anos Cacife",
         "url": "https://open.spotify.com/album/3xb7Esv7HNcnZkG8OKVGKs"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 225856,
       "name": "Agradecer - Ao Vivo",
       "url": "https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
-        "name": "CULPADO",
-        "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "CULPADO",
-      "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
     },
     {
       "added_at": "2024-05-31 03:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-05-31 03:00:00",
       "album": {
-        "name": "Aquariana",
-        "url": "https://open.spotify.com/album/5nOjg27AnUcrvTv7qOic0F"
-      },
-      "artists": [
-        {
-          "name": "Abayomi",
-          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
-        },
-        {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
-        }
-      ],
-      "duration_ms": 225587,
-      "name": "Aquariana",
-      "url": "https://open.spotify.com/track/4WZ3yYuXMTNZZZ7UMQiDXF"
-    },
-    {
-      "added_at": "2024-05-31 03:00:00",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 190735,
       "name": "Naquele Pique",
       "url": "https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg"
+    },
+    {
+      "added_at": "2024-05-31 03:00:00",
+      "album": {
+        "name": "Aquariana",
+        "url": "https://open.spotify.com/album/5nOjg27AnUcrvTv7qOic0F"
+      },
+      "artists": [
+        {
+          "name": "Abayomi",
+          "url": "https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0"
+        },
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        }
+      ],
+      "duration_ms": 225587,
+      "name": "Aquariana",
+      "url": "https://open.spotify.com/track/4WZ3yYuXMTNZZZ7UMQiDXF"
     },
     {
       "added_at": "2024-05-31 03:00:00",

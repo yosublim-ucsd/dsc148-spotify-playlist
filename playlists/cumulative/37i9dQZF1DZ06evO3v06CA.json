@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 167213,
       "name": "Big River",
       "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 138600,
       "name": "Blue Eyes Crying In the Rain",
       "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 183440,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-03",
+      "date_removed": null,
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 146109,
       "name": "Hello Walls",
       "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 205320,
       "name": "Roll Me Up",
       "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
@@ -2096,6 +2096,24 @@
       "duration_ms": 309680,
       "name": "The Border",
       "url": "https://open.spotify.com/track/0WJlUu11GrZqqgrRQHeGsM"
+    },
+    {
+      "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309680,
+      "name": "The Border",
+      "url": "https://open.spotify.com/track/5BmX2B6OrGI3czAU8VNF8s"
     },
     {
       "album": {

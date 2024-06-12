@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Fiera de Ojinaga en portada.",
-  "num_followers": 479854,
+  "num_followers": 479900,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
         "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
         "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
-        "name": "Me Cuesta",
-        "url": "https://open.spotify.com/album/62C5ubjYWmmEPfryq1uiUa"
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 181374,
-      "name": "Me Cuesta",
-      "url": "https://open.spotify.com/track/7Es3jdZdUTMhAlYo0EzBpN"
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -827,6 +811,22 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
+        "name": "Me Cuesta",
+        "url": "https://open.spotify.com/album/62C5ubjYWmmEPfryq1uiUa"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Me Cuesta",
+      "url": "https://open.spotify.com/track/7Es3jdZdUTMhAlYo0EzBpN"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "Lo Que La Gente Estaba Esperando",
+        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 166229,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "El Sr. Guzm\u00e1n",
         "url": "https://open.spotify.com/album/4SDzyNpdHGp3w2dH0Puc2v"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 153377,
       "name": "El Sr. Guzm\u00e1n",
       "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
-        "name": "Lo Que La Gente Estaba Esperando",
-        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 166229,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "La Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 246251,
+      "name": "La Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
-        "name": "La Loca (En Vivo)",
-        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 246251,
-      "name": "La Loca (En Vivo)",
-      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1471,22 +1487,6 @@
       "duration_ms": 167131,
       "name": "Me Rehuso",
       "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
-        "name": "Hablando Claro (En Vivo)",
-        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 190671,
-      "name": "Hablando Claro (En Vivo)",
-      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
         "name": "Cuando Alguien Me Amaba",
         "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 144514,
       "name": "Cuando Alguien Me Amaba",
       "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
+        "name": "Hablando Claro (En Vivo)",
+        "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 190671,
+      "name": "Hablando Claro (En Vivo)",
+      "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "Globo Desinflado",
+        "url": "https://open.spotify.com/album/1TIhRK5WrbC3BjbmiQubPA"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 133466,
+      "name": "Globo Desinflado",
+      "url": "https://open.spotify.com/track/0VP0h7wyd7h4H4qzizi4IS"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "El Ranchero",
         "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
-        "name": "Globo Desinflado",
-        "url": "https://open.spotify.com/album/1TIhRK5WrbC3BjbmiQubPA"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "Globo Desinflado",
-      "url": "https://open.spotify.com/track/0VP0h7wyd7h4H4qzizi4IS"
     },
     {
       "added_at": "2024-05-31 18:54:27",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-05-31 18:54:27",
       "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
+    },
+    {
+      "added_at": "2024-05-31 18:54:27",
+      "album": {
         "name": "Lo Que Aprend\u00ed",
         "url": "https://open.spotify.com/album/2xxj4SskoPZneewIM68h8X"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 165701,
       "name": "Lo Que Aprend\u00ed",
       "url": "https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ"
-    },
-    {
-      "added_at": "2024-05-31 18:54:27",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
     },
     {
       "added_at": "2024-05-31 18:54:27",

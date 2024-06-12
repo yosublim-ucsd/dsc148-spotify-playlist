@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-218 songs - 14 hr 11 min
+220 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Memories Of You](https://open.spotify.com/track/4k8Z615BSY2DPSARJS11Se) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Cherokee](https://open.spotify.com/album/5vCWIYXs2CiCuAVgVGF3Ny) | 4:45 | 2022-08-18 |  |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-08-18 |  |
 | [Misty November](https://open.spotify.com/track/5LJcQXhDafjTy7GOqYLjJM) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Misty November](https://open.spotify.com/album/6xxtWCf4X7qatxA0IPFWly) | 3:12 | 2022-08-18 |  |
-| [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-08-18 |  |
+| [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-08-18 | 2024-06-12 |
 | [Monsieur Petit](https://open.spotify.com/track/355fsbshakbWMu6eB2gs20) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Monsieur Petit](https://open.spotify.com/album/2V7YRk0H2bv9kpDfpAYDMl) | 3:01 | 2023-04-27 |  |
 | [Mood Indigo](https://open.spotify.com/track/4FbyGU4nbHHioKAoCpYRzH) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Duke Ellington Meets Coleman Hawkins](https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG) | 5:56 | 2022-08-18 | 2023-01-06 |
 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 | 2022-08-18 | 2022-10-07 |
@@ -131,6 +131,7 @@
 | [My One And Only Love](https://open.spotify.com/track/4HhnBJDoi9eLFxvnUh6ZLj) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [My One And Only Love](https://open.spotify.com/album/1sJwVUOrxhTYEqPwlJrpht) | 3:42 | 2022-12-22 |  |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2022-08-18 |  |
 | [My Romance \- Remastered](https://open.spotify.com/track/1enQcJDrTBeFo6PegF4FwS) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 8:32 | 2022-08-18 | 2022-12-02 |
+| [Never Ever](https://open.spotify.com/track/5ps7Gx7nQQXtaOmVxpNBWT) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Never Ever](https://open.spotify.com/album/03dyb7P3Uu5xhGdZStNDkF) | 3:38 | 2024-06-11 |  |
 | [Never Let Me Go](https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Never Let Me Go](https://open.spotify.com/album/19Nia0TNGcaQFU2xI86mwg) | 4:14 | 2022-12-01 |  |
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-02-16 |  |
 | [November Fall](https://open.spotify.com/track/7d4J1q9NYRlHcIZyeOC9Ad) | [Farmer Street Quartet](https://open.spotify.com/artist/7rF2UMGa1Egx35lgjungrD) | [November Fall](https://open.spotify.com/album/0W0UhyUlgkAeNLe0qrM3JE) | 3:58 | 2024-01-19 |  |
@@ -144,6 +145,7 @@
 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 | 2022-08-18 |  |
 | [Over The Rooftops](https://open.spotify.com/track/2erYjP47q8077YP2LH8Ar2) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Over The Rooftops](https://open.spotify.com/album/0IxhkuCEcEtyo5uMoTjpYB) | 3:50 | 2023-05-04 |  |
 | [Over Yonder](https://open.spotify.com/track/2ZIVGuwmRIktopvfoNgfdM) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Over Yonder](https://open.spotify.com/album/70gfWIT3HDVyleOWxjPHlI) | 3:54 | 2024-03-08 |  |
+| [Pieces](https://open.spotify.com/track/2bYlyQeTRZgfalIdw3VkkL) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [Pieces](https://open.spotify.com/album/4tdUUO1bWa0h0gijIBIIq9) | 3:12 | 2024-06-11 |  |
 | [Please Come Back To Me](https://open.spotify.com/track/1ldy3WQh4squ8s70YJojyq) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Please Come Back To Me](https://open.spotify.com/album/7DQShbCRDQiXshTKK7mqFe) | 3:00 | 2023-01-05 |  |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/22b0vbHkq3qRrjhFa9BimB) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Polkadots And Moonbeams](https://open.spotify.com/album/668WN0afbvrzNHda52ABUP) | 3:42 | 2022-08-18 |  |
 | [Poor Butterfly](https://open.spotify.com/track/2vyuIth7SkLbbfx0wX8KsC) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Poor Butterfly](https://open.spotify.com/album/0voGzbbY9Wm9vtql5l2Uaz) | 3:36 | 2022-09-21 |  |
@@ -165,7 +167,7 @@
 | [Shadows of You](https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Shadows of You](https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5) | 3:22 | 2024-02-02 |  |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 |  |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-08-18 |  |
-| [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-08 |  |
+| [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-08 | 2024-06-12 |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2022-08-18 |  |
 | [Sleeted Streets](https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Sleeted Streets](https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK) | 3:44 | 2022-12-22 |  |
 | [Snowdrops](https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [Snowdrops](https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp) | 3:45 | 2024-02-02 |  |

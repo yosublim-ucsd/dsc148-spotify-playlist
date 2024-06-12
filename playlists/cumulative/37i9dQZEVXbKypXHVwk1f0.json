@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 210000,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx"
@@ -10844,7 +10844,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -11300,7 +11300,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -11418,7 +11418,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 131000,
       "name": "LA VIDA BUENA",
       "url": "https://open.spotify.com/track/5izEV5M3JTCcD1xxSUPXIS"
@@ -12782,7 +12782,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 233013,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7"
@@ -14264,6 +14264,24 @@
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
       "album": {
@@ -16134,7 +16152,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -17715,6 +17733,24 @@
     },
     {
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "album": {
         "name": "PLEBADA",
         "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
       },
@@ -18188,7 +18224,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -25242,7 +25278,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57693,
+  "num_followers": 57712,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmbk5AAAAADSjO8LnNNVVH0MA/bMWLqh",
+  "snapshot_id": "ZmgoUwAAAADFvxqem1McHX/xePqq3xIz",
   "tracks": [
+    {
+      "added_at": "2024-06-11 10:34:59",
+      "album": {
+        "name": "Run Run Run Chidambara (From \"Chef Chidambara\")",
+        "url": "https://open.spotify.com/album/0SXfM5OqUSA54AVocGxeIB"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Sree Ganesh Parashuram",
+          "url": "https://open.spotify.com/artist/5o9JGrkxlJnzn1mMwwWtge"
+        },
+        {
+          "name": "Ritvik Muralidhar",
+          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
+        }
+      ],
+      "duration_ms": 154161,
+      "name": "Run Run Run Chidambara - From \"Chef Chidambara\"",
+      "url": "https://open.spotify.com/track/0we0kmHmr1si80X8jxLZgc"
+    },
     {
       "added_at": "2024-05-28 10:34:47",
       "album": {
@@ -1265,30 +1289,6 @@
       "url": "https://open.spotify.com/track/5qX8AFALLImg9i4UkYf14V"
     },
     {
-      "added_at": "2024-04-18 04:54:39",
-      "album": {
-        "name": "Manave Irula Kaanana (From \"Anshu\")",
-        "url": "https://open.spotify.com/album/7IXkpNwUoVrq0svPN3kRG9"
-      },
-      "artists": [
-        {
-          "name": "Sunidhi Ganesh",
-          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
-        },
-        {
-          "name": "Jyotsna Bharadwaj",
-          "url": "https://open.spotify.com/artist/7MGymFJfHhV6KCgpa2Jwsn"
-        },
-        {
-          "name": "K C Balasarangan",
-          "url": "https://open.spotify.com/artist/7b5pJ3sqgxxD2BYEQKl9eQ"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Manave Irula Kaanana (From \"Anshu\")",
-      "url": "https://open.spotify.com/track/5BusK56rrFDXafFpM8YKrB"
-    },
-    {
       "added_at": "2024-04-16 04:54:19",
       "album": {
         "name": "Baanadari (From \"Yuva\")",
@@ -1625,26 +1625,6 @@
       "url": "https://open.spotify.com/track/1DdnaIa2iSUlSl5oXk7sG3"
     },
     {
-      "added_at": "2024-03-27 12:33:09",
-      "album": {
-        "name": "Holi Hunnime Habbakka (From \"Desai\")",
-        "url": "https://open.spotify.com/album/0x76hVNPjKHtNObtTh00DX"
-      },
-      "artists": [
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "Sai Karthic",
-          "url": "https://open.spotify.com/artist/3qOZhVWn12jqbtW4MYQrc0"
-        }
-      ],
-      "duration_ms": 261523,
-      "name": "Holi Hunnime Habbakka (From \"Desai\")",
-      "url": "https://open.spotify.com/track/4xQwjWwyzEi265mEXBoo4L"
-    },
-    {
       "added_at": "2024-03-27 08:29:33",
       "album": {
         "name": "Mathigu Mathigu (From \"Bad\") - Single",
@@ -1691,50 +1671,6 @@
       "duration_ms": 237383,
       "name": "Ninagage Midiyuvudu (From \"Matinee\")",
       "url": "https://open.spotify.com/track/5Ph3v520HAYcGUXf9RdqIE"
-    },
-    {
-      "added_at": "2024-03-22 11:00:02",
-      "album": {
-        "name": "Ayomaya (From \"Blink\")",
-        "url": "https://open.spotify.com/album/3q80kqta2k0KiJ7atJPD5R"
-      },
-      "artists": [
-        {
-          "name": "Prasanna Kumar M S",
-          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
-        },
-        {
-          "name": "Jayanth Kumar",
-          "url": "https://open.spotify.com/artist/6ty4Ss97oWULNkJa18TOY0"
-        },
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Ayomaya (From \"Blink\")",
-      "url": "https://open.spotify.com/track/2N7HPBLPgi8i8oeAcTH9aj"
-    },
-    {
-      "added_at": "2024-03-20 08:34:23",
-      "album": {
-        "name": "Appuge (From \"Yuva\")",
-        "url": "https://open.spotify.com/album/6q8rBmPf3THYNmjTfV7BY6"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 181514,
-      "name": "Appuge (From \"Yuva\")",
-      "url": "https://open.spotify.com/track/0P58lwa0D9Kg5pbXSsGvFA"
     },
     {
       "added_at": "2024-02-26 04:59:06",

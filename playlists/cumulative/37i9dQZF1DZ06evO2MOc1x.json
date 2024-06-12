@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Bonnie Raitt. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
   "name": "This Is Bonnie Raitt",
   "tracks": [
     {
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 194866,
       "name": "I Can't Help You Now",
       "url": "https://open.spotify.com/track/5qhBIPB6b7FGuneMSjHQAi"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 221626,
       "name": "Love Sneakin' Up On You",
       "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"

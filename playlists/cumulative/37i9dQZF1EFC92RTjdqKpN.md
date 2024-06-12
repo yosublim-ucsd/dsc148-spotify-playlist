@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 9 hr 41 min
+179 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hard 2 Forget](https://open.spotify.com/track/3ryUZShGkAcKw10fxyBaNt) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:25 | 2024-02-27 |  |
 | [Higher \(feat\. Alex Newell\)](https://open.spotify.com/track/3x0oc9CVW5RwLx4EHW6JZk) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:07 | 2024-02-27 |  |
 | [Hot All the Time](https://open.spotify.com/track/5geZbeWGx7ywfdIpNhjy3a) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:01 | 2024-02-27 |  |
+| [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/track/7EcMaRZ5PeKgsF1PhpXUZf) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/album/5Anvuuz9x1tgrMIxurIvw3) | 3:44 | 2024-06-11 |  |
 | [How It Ends](https://open.spotify.com/track/6drkUJ2S9fK3pdgvyGvlN8) | [Justice Carradine](https://open.spotify.com/artist/4lmyGbhv14PwBGEZmjVyzU) | [What A Weird Dream](https://open.spotify.com/album/0m8a1UOHdrUD1Ns10bclhc) | 2:28 | 2024-02-27 |  |
 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 | 2024-02-27 |  |
 | [I See You](https://open.spotify.com/track/3CtXyZcmgrff9szb6o9cRZ) | [Kalin and Myles](https://open.spotify.com/artist/2BL5VxhQadpc4v2VlZyKY5) | [Kalin And Myles](https://open.spotify.com/album/643h7mtzQNXbMEH3CptYEb) | 3:06 | 2024-02-27 |  |

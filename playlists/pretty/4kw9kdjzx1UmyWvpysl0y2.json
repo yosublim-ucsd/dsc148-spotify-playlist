@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125971,
+  "num_followers": 125964,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASgAvbCIu+12s57rGz9ndD6+zyzJJH",
+  "snapshot_id": "AAASgR0oFw9V4thxdgXixDeZ/N4rva8F",
   "tracks": [
+    {
+      "added_at": "2024-06-11 15:23:03",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7lbBABIl4JaV5388pOs2Af"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4wO2U9v7ho8sEGU0t3O9uq"
+    },
     {
       "added_at": "2024-06-10 16:11:04",
       "album": {

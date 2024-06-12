@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This Is RENEE\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,361 likes - 43 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,368 likes - 43 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 17 | [Viaje Al Amanecer](https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:58 |
 | 18 | [Hoy Me Siento Bien](https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:10 |
 | 19 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
-| 20 | [así no funciona](https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:23 |
+| 20 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 |
 | 21 | [Cohete](https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:39 |
 | 22 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 23 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 |
+| 23 | [así no funciona](https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:23 |
 | 24 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 |
 | 25 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
 | 26 | [El Club](https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:38 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 42 | [Madrugada](https://open.spotify.com/track/2Zq5sYodvD0MbWAlqUMSfE) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO) | [Hardinero Sound](https://open.spotify.com/album/20CDeLYK9ZVLq1rUUv290j) | 3:03 |
 | 43 | [Día De Abril](https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 2:56 |
 
-Snapshot ID: `ZmTwgAAAAAAMVelFdQoKBRsvSvxq+ZQj`
+Snapshot ID: `ZmZCAAAAAACowd6y7ewzPjW9wYvnMiK+`

@@ -1,12 +1,12 @@
 {
   "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: OMWAWES",
-  "num_followers": 192028,
+  "num_followers": 192198,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmaqyAAAAACrLU0U87SOtlfqpTcN6lWp",
+  "snapshot_id": "Zmh0CQAAAAA3FXkRQ6qjGctM2rFPm3cf",
   "tracks": [
     {
       "added_at": "2024-06-06 23:12:27",
@@ -39,6 +39,22 @@
       "duration_ms": 254000,
       "name": "NGANGGUR",
       "url": "https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA"
+    },
+    {
+      "added_at": "2024-06-06 23:12:27",
+      "album": {
+        "name": "LDR \"Langgeng Dayaning Rasa\" (Live)",
+        "url": "https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "LDR \"Langgeng Dayaning Rasa\" - Live",
+      "url": "https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT"
     },
     {
       "added_at": "2024-06-06 23:12:27",
@@ -143,6 +159,26 @@
       "duration_ms": 310204,
       "name": "Selendang Biru",
       "url": "https://open.spotify.com/track/1IU1mITWrgXfQrCDTjDgeh"
+    },
+    {
+      "added_at": "2024-06-06 23:12:27",
+      "album": {
+        "name": "Kalah",
+        "url": "https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        },
+        {
+          "name": "Restianade",
+          "url": "https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a"
+        }
+      ],
+      "duration_ms": 398011,
+      "name": "Kalah",
+      "url": "https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf"
     },
     {
       "added_at": "2024-06-06 23:12:27",
@@ -263,26 +299,6 @@
       "duration_ms": 294291,
       "name": "Wirang",
       "url": "https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg"
-    },
-    {
-      "added_at": "2024-06-06 23:12:27",
-      "album": {
-        "name": "Kalah",
-        "url": "https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx"
-      },
-      "artists": [
-        {
-          "name": "Aftershine",
-          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
-        },
-        {
-          "name": "Restianade",
-          "url": "https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a"
-        }
-      ],
-      "duration_ms": 398011,
-      "name": "Kalah",
-      "url": "https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf"
     },
     {
       "added_at": "2024-06-06 23:12:27",
@@ -415,22 +431,6 @@
       "duration_ms": 330909,
       "name": "Demi Kowe",
       "url": "https://open.spotify.com/track/7B6qooHmqiOY7hs8TEF1hP"
-    },
-    {
-      "added_at": "2024-06-06 23:12:27",
-      "album": {
-        "name": "LDR \"Langgeng Dayaning Rasa\" (Live)",
-        "url": "https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO"
-      },
-      "artists": [
-        {
-          "name": "Denny Caknan",
-          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "LDR \"Langgeng Dayaning Rasa\" - Live",
-      "url": "https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT"
     },
     {
       "added_at": "2024-06-06 23:12:27",

@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 69084,
+  "num_followers": 69089,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACfMYPz64rDFYXxKLBck03Y",
+  "snapshot_id": "ZmZCAAAAAABZyqRJ4iz5ccjN6WENe7GJ",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+      "duration_ms": 313925,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 313925,
-      "name": "Lust For Life",
-      "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 265581,
+      "name": "Success",
+      "url": "https://open.spotify.com/track/7LnZRiI3GuF44G6mqLWQA1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arista Heritage Series: Iggy Pop",
         "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
       },
@@ -703,6 +703,38 @@
       "duration_ms": 167560,
       "name": "I'm Bored",
       "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 271171,
+      "name": "James Bond",
+      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -735,22 +767,6 @@
       "duration_ms": 238387,
       "name": "Chocolate Drops",
       "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 233752,
-      "name": "Comments",
-      "url": "https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 174578,
       "name": "Funtime",
       "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tainted Lunch",
-        "url": "https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ"
-      },
-      "artists": [
-        {
-          "name": "Warmduscher",
-          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 69389,
-      "name": "Rules of the Game",
-      "url": "https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 269461,
       "name": "The Pure and the Damned",
       "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tainted Lunch",
+        "url": "https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ"
+      },
+      "artists": [
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 69389,
+      "name": "Rules of the Game",
+      "url": "https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW"
     },
     {
       "added_at": null,

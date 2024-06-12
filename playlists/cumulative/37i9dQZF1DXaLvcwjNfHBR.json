@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 116492,
       "name": "Callin' U (Tamally Maak)",
       "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
@@ -5682,6 +5682,24 @@
       "duration_ms": 168023,
       "name": "lil' freak",
       "url": "https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN"
+    },
+    {
+      "album": {
+        "name": "SiriusXM Session",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "album": {

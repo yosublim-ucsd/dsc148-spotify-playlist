@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 80976,
+  "num_followers": 80998,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 220891,
       "name": "September",
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "These Tears",
+        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 169656,
+      "name": "These Tears",
+      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -915,22 +931,6 @@
       "duration_ms": 231840,
       "name": "You Are The Best Thing",
       "url": "https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
-        "name": "These Tears",
-        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 169656,
-      "name": "These Tears",
-      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
+        "name": "Evering Road (Special Edition)",
+        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Don't Break the Heart",
+      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
         "name": "Undeniable (feat. X Ambassadors)",
         "url": "https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 180596,
       "name": "Undeniable (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
-        "name": "Evering Road (Special Edition)",
-        "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Don't Break the Heart",
-      "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Something Out Of Nothing",
-        "url": "https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW"
+        "name": "Shatterproof",
+        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
       },
       "artists": [
         {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
         }
       ],
-      "duration_ms": 188505,
-      "name": "Money In My Head",
-      "url": "https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX"
+      "duration_ms": 149320,
+      "name": "Shatterproof",
+      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Shatterproof",
-        "url": "https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv"
+        "name": "Something Out Of Nothing",
+        "url": "https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW"
       },
       "artists": [
         {
-          "name": "Nick Schilder",
-          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
         }
       ],
-      "duration_ms": 149320,
-      "name": "Shatterproof",
-      "url": "https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno"
+      "duration_ms": 188505,
+      "name": "Money In My Head",
+      "url": "https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 219440,
       "name": "Tonight Tonight",
       "url": "https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "And So I Grow",
-        "url": "https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy"
-      },
-      "artists": [
-        {
-          "name": "Eva Valery",
-          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
-        }
-      ],
-      "duration_ms": 218411,
-      "name": "And So I Grow",
-      "url": "https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/2xCQBiWwjJldOwA3o0AojN"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 188910,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/4GN9HHx7V3SLFGkq4Tsfd8"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "And So I Grow",
+        "url": "https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy"
+      },
+      "artists": [
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
+        }
+      ],
+      "duration_ms": 218411,
+      "name": "And So I Grow",
+      "url": "https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Teach Me To Love",
-        "url": "https://open.spotify.com/album/08Wm2NYCgalZxub07hKkBE"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Teach Me To Love",
-      "url": "https://open.spotify.com/track/3nIxyMaQPG4SejKvsQA5Uj"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Room To Grow",
         "url": "https://open.spotify.com/album/2Er5ToDc2FvuTX69fgQ3Td"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 177888,
       "name": "Room To Grow",
       "url": "https://open.spotify.com/track/63JW5xtCKfZYzFAqKwMrT6"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "Teach Me To Love",
+        "url": "https://open.spotify.com/album/08Wm2NYCgalZxub07hKkBE"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Teach Me To Love",
+      "url": "https://open.spotify.com/track/3nIxyMaQPG4SejKvsQA5Uj"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -2547,30 +2547,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Love's Train",
-        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 307014,
-      "name": "Love's Train",
-      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Lift You Up",
         "url": "https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX"
       },
@@ -2583,6 +2559,22 @@
       "duration_ms": 181649,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "Borrow Your Time",
+        "url": "https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "duration_ms": 209670,
+      "name": "Borrow Your Time",
+      "url": "https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -2603,18 +2595,26 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Borrow Your Time",
-        "url": "https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ"
+        "name": "Love's Train",
+        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
       "artists": [
         {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 209670,
-      "name": "Borrow Your Time",
-      "url": "https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A"
+      "duration_ms": 307014,
+      "name": "Love's Train",
+      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Breaking Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 216533,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3111,22 +3111,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "If I Don't Love Me",
-        "url": "https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt"
-      },
-      "artists": [
-        {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
-        }
-      ],
-      "duration_ms": 177077,
-      "name": "If I Don't Love Me",
-      "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Elba",
         "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
       },
@@ -3139,6 +3123,22 @@
       "duration_ms": 237266,
       "name": "Queen Of Elba",
       "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "If I Don't Love Me",
+        "url": "https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 177077,
+      "name": "If I Don't Love Me",
+      "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "DON.T (Acoustic)",
-        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
-      },
-      "artists": [
-        {
-          "name": "MAXINE",
-          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
-        }
-      ],
-      "duration_ms": 180859,
-      "name": "DON.T - Acoustic",
-      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Hunter",
         "url": "https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 185219,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "DON.T (Acoustic)",
+        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
+      },
+      "artists": [
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "duration_ms": 180859,
+      "name": "DON.T - Acoustic",
+      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Golden Lovers",
-        "url": "https://open.spotify.com/album/4Jv2duaN6eNUpDs3sXbJct"
-      },
-      "artists": [
-        {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
-        }
-      ],
-      "duration_ms": 202135,
-      "name": "Golden Lovers",
-      "url": "https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Y O U",
         "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 221643,
       "name": "Here With You - Acoustic",
       "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "Golden Lovers",
+        "url": "https://open.spotify.com/album/4Jv2duaN6eNUpDs3sXbJct"
+      },
+      "artists": [
+        {
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
+        }
+      ],
+      "duration_ms": 202135,
+      "name": "Golden Lovers",
+      "url": "https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3323,6 +3323,22 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
+        "name": "Lay Your Weapons Down (Acoustic)",
+        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 205108,
+      "name": "Lay Your Weapons Down - Acoustic",
+      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
         "name": "Used To Have It All (Acoustic Version)",
         "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
@@ -3343,18 +3359,18 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Lay Your Weapons Down (Acoustic)",
-        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
       },
       "artists": [
         {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+          "name": "Camo Columbo",
+          "url": "https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm"
         }
       ],
-      "duration_ms": 205108,
-      "name": "Lay Your Weapons Down - Acoustic",
-      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
+      "duration_ms": 166363,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3375,18 +3391,18 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
+        "name": "So Maybe",
+        "url": "https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F"
       },
       "artists": [
         {
-          "name": "Camo Columbo",
-          "url": "https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm"
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
         }
       ],
-      "duration_ms": 166363,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
+      "duration_ms": 176212,
+      "name": "So Maybe",
+      "url": "https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3407,22 +3423,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "So Maybe",
-        "url": "https://open.spotify.com/album/7o2mbXQP1P3svFu8wkZf9F"
-      },
-      "artists": [
-        {
-          "name": "Marnix Emanuel",
-          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
-        }
-      ],
-      "duration_ms": 176212,
-      "name": "So Maybe",
-      "url": "https://open.spotify.com/track/5y7Z9hH4qMis2b0kVp6Ejm"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Wandering Heart",
         "url": "https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At"
       },
@@ -3439,18 +3439,18 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "so i let you (15th of june - evening)",
-        "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
+        "name": "Songs to Soothe",
+        "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
         }
       ],
-      "duration_ms": 199401,
-      "name": "so i let you (15th of june - evening)",
-      "url": "https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL"
+      "duration_ms": 195453,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3479,34 +3479,18 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Songs to Soothe",
-        "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
+        "name": "so i let you (15th of june - evening)",
+        "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
       },
       "artists": [
         {
-          "name": "Jacqueline Govaert",
-          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 195453,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
-      },
-      "artists": [
-        {
-          "name": "Lea Rue",
-          "url": "https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn"
-        }
-      ],
-      "duration_ms": 182808,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
+      "duration_ms": 199401,
+      "name": "so i let you (15th of june - evening)",
+      "url": "https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3523,6 +3507,22 @@
       "duration_ms": 213161,
       "name": "Happy in Hindsight",
       "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
+      },
+      "artists": [
+        {
+          "name": "Lea Rue",
+          "url": "https://open.spotify.com/artist/1RPZu5nxPrakSD5NumbgSn"
+        }
+      ],
+      "duration_ms": 182808,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3559,38 +3559,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "This Is For The Ones",
-        "url": "https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg"
-      },
-      "artists": [
-        {
-          "name": "Pineapple Kid",
-          "url": "https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG"
-        }
-      ],
-      "duration_ms": 197188,
-      "name": "This Is For The Ones",
-      "url": "https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
-      },
-      "artists": [
-        {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Make More Sound",
         "url": "https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC"
       },
@@ -3607,6 +3575,38 @@
       "duration_ms": 185493,
       "name": "Make More Sound",
       "url": "https://open.spotify.com/track/1wshSNJUeTN1TYmNiljSJ5"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "Can't Love",
+        "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
+      },
+      "artists": [
+        {
+          "name": "Navarone",
+          "url": "https://open.spotify.com/artist/0He0YUY91AmJKZQ9eDs7j0"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Can't Love",
+      "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "This Is For The Ones",
+        "url": "https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg"
+      },
+      "artists": [
+        {
+          "name": "Pineapple Kid",
+          "url": "https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG"
+        }
+      ],
+      "duration_ms": 197188,
+      "name": "This Is For The Ones",
+      "url": "https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3631,18 +3631,18 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Can't Love",
-        "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
       },
       "artists": [
         {
-          "name": "Navarone",
-          "url": "https://open.spotify.com/artist/0He0YUY91AmJKZQ9eDs7j0"
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
         }
       ],
-      "duration_ms": 173040,
-      "name": "Can't Love",
-      "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
     },
     {
       "added_at": "2024-05-31 12:30:33",
@@ -3791,26 +3791,6 @@
     {
       "added_at": "2024-05-31 12:30:33",
       "album": {
-        "name": "Quarter Life Crisis",
-        "url": "https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        },
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 235667,
-      "name": "Feel At Home",
-      "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
-    },
-    {
-      "added_at": "2024-05-31 12:30:33",
-      "album": {
         "name": "Seatbelts",
         "url": "https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll"
       },
@@ -3839,6 +3819,26 @@
       "duration_ms": 197532,
       "name": "Call It Luck",
       "url": "https://open.spotify.com/track/7yTfxJLtcHqcHlQev1pdbL"
+    },
+    {
+      "added_at": "2024-05-31 12:30:33",
+      "album": {
+        "name": "Quarter Life Crisis",
+        "url": "https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        },
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 235667,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
     }
   ],
   "unique_name": "Werkdag FM",

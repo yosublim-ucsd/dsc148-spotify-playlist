@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,932 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,046 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 27 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
 | 28 | [All The Way \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 7:27 |
 | 29 | [502 Blues \(Drinkin' And Drivin'\) \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:34 |
-| 30 | [Blue And Sentimental \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Blue And Sentimental \(Remastered\)](https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6) | 7:28 |
-| 31 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:57 |
+| 30 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:57 |
+| 31 | [Blue And Sentimental \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Blue And Sentimental \(Remastered\)](https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6) | 7:28 |
 | 32 | [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 |
 | 33 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |
 | 34 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 43 | [Black Coffee](https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:31 |
 | 44 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:34 |
 | 45 | [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 |
-| 46 | [I Can't Get Started](https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 3:55 |
-| 47 | [When Sunny Gets Blue](https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy) | [Charlie Rouse](https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM) | [Yeah!](https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq) | 5:48 |
+| 46 | [When Sunny Gets Blue](https://open.spotify.com/track/5bYTIjxRYRISkmpS22QqSy) | [Charlie Rouse](https://open.spotify.com/artist/4WjOiUFD5b9kpa8LfdxkvM) | [Yeah!](https://open.spotify.com/album/3rw6xeupXWRAOME9Chqweq) | 5:48 |
+| 47 | [I Can't Get Started](https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 3:55 |
 | 48 | [Ernie's Tune](https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 4:16 |
 | 49 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 |
 | 50 | [Why Are We Afraid?](https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 3:38 |

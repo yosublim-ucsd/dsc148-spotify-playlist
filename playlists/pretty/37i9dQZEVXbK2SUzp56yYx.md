@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 49 | [ХОЧУ 18+](https://open.spotify.com/track/5x39VMQPsF1wDgLyhUSZYP) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [2007, Ч.1](https://open.spotify.com/album/3X6mGWf1bB8pwtcHDdRvNo) | 2:41 |
 | 50 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:59 |
 
-Snapshot ID: `LfplGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

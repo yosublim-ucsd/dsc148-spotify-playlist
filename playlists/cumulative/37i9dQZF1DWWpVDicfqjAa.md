@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-327 songs - 20 hr 22 min
+328 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/track/4ggADc9LlBu7cV0etZRzXc) | [RM47](https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL), [Prince African Child](https://open.spotify.com/artist/3nNV5KJxjANcM8IIFIi39X), [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h) | [BEETGOZON \(DJ Kwamzy 'Amapiano' Remix\)](https://open.spotify.com/album/2pHq11yAYqIR5P360eFXzk) | 6:01 | 2022-12-29 | 2024-05-18 |
 | [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-04-21 |  |
 | [Big Bad Mood \(feat\. Miraa May\)](https://open.spotify.com/track/1Wu9EjGPifgj9Mzm1P8C03) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Let Me Die Inside You](https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb) | 3:49 | 2023-08-09 | 2023-09-16 |
+| [Big Bag Bounce](https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Paulina Singer](https://open.spotify.com/artist/3iFyOMYm2fhl5ZM0guEzK6) | [Coolest In The City](https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM) | 5:12 | 2024-06-11 |  |
 | [Big World \(feat\. KIRBY\)](https://open.spotify.com/track/2MiwKPx7Cp35PsXVEhKNSQ) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/61Z4oJ5YbH1PCXjXWzCkIK) | 2:40 | 2024-01-05 | 2024-02-10 |
 | [Bigger Than Prince \- Marco Lys Remix](https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Bigger Than Prince \(10 Year Anniversary Remixes\)](https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN) | 3:15 | 2023-09-15 |  |
 | [Black Gold](https://open.spotify.com/track/3v1Wty7YURzSJUnV78AQ4F) | [Cozmic Cat](https://open.spotify.com/artist/5VzgwnVckvQk1ET9tyGeN2) | [Black Gold](https://open.spotify.com/album/41H3Pzo2o0PrSoRook1bQ0) | 2:57 | 2023-06-07 | 2023-06-30 |
@@ -187,7 +188,7 @@
 | [Mirror Maru](https://open.spotify.com/track/0DLgcXpJ8xUALnArVKox3k) | [MÜNE](https://open.spotify.com/artist/0d7ucg4dn8r65y7UccChlb) | [Mirror Maru](https://open.spotify.com/album/3mYljlTyHvDFegCVB8N7K3) | 3:11 | 2023-05-10 | 2024-01-06 |
 | [Mollyraw](https://open.spotify.com/track/358dNeuLELfexwK2WAzDjp) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Mollyraw](https://open.spotify.com/album/5o4SyYUwVLTkIHFv9hxyu6) | 4:00 | 2024-02-02 |  |
 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 | 2022-09-08 | 2022-09-16 |
-| [MONCLER](https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb) | [CHAIME](https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB) | [MONCLER](https://open.spotify.com/album/37EPREjGXwMHqZtRlMW8qO) | 3:19 | 2024-02-23 |  |
+| [MONCLER](https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb) | [CHAIME](https://open.spotify.com/artist/5ntCtEJfmuE4RPQyGyN7CB) | [MONCLER](https://open.spotify.com/album/37EPREjGXwMHqZtRlMW8qO) | 3:19 | 2024-02-23 | 2024-06-12 |
 | [Montagem Guerreira](https://open.spotify.com/track/6o8vrzkQN8brqLVxycCVX5) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo) | 2:26 | 2022-12-29 | 2023-06-03 |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-09-15 |  |
 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 | 2022-09-08 | 2023-01-12 |

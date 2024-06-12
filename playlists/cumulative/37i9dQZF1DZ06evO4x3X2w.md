@@ -2,7 +2,7 @@
 
 ### [This Is Aerosmith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4x3X2w)
 
-> This is Aerosmith\. The essential tracks, all in one playlist.
+> This is Aerosmith\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
 107 songs - 7 hr 54 min
 
@@ -13,7 +13,7 @@
 | [Ain't That A Bitch](https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:25 | 2023-01-26 |  |
 | [Amazing](https://open.spotify.com/track/60a5c4dDARPsksClcom0OD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:55 | 2023-04-22 |  |
 | [Amazing](https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 5:56 | 2022-09-17 | 2023-04-23 |
-| [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 | 2022-09-17 |  |
+| [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 | 2022-09-17 | 2024-06-12 |
 | [Back In the Saddle](https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:40 | 2022-09-17 | 2023-01-27 |
 | [Back In the Saddle](https://open.spotify.com/track/3WPYapjyqcVpShYXQuChcs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:40 | 2023-01-26 |  |
 | [Beautiful](https://open.spotify.com/track/22zzEs67LrT6RL25pwpOPW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 3:04 | 2022-09-17 | 2022-10-21 |
@@ -37,7 +37,7 @@
 | [Draw The Line](https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Draw The Line](https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd) | 3:24 | 2023-01-26 |  |
 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2022-09-17 | 2023-01-28 |
 | [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2023-01-27 |  |
-| [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2022-09-17 |  |
+| [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2022-09-17 | 2024-06-12 |
 | [Eat The Rich](https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:09 | 2022-09-17 | 2023-04-22 |
 | [Eat The Rich](https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 4:10 | 2023-04-21 |  |
 | [F.I.N.E.](https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:09 | 2023-01-03 |  |
@@ -89,10 +89,10 @@
 | [Remember \(Walking In The Sand\)](https://open.spotify.com/track/4X0ATVwJsosL3PUvsEeAAs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Night In The Ruts](https://open.spotify.com/album/2ksXsCYl9lqPQKEESlbPPK) | 4:04 | 2024-04-12 |  |
 | [Same Old Song and Dance](https://open.spotify.com/track/2ATTIE0sKIXysApJPlR3sB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/6ts9DsFiEy3H9yIYiggLdq) | 3:53 | 2022-09-17 | 2023-01-27 |
 | [Same Old Song and Dance](https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 3:53 | 2023-01-26 |  |
-| [Seasons of Wither](https://open.spotify.com/track/0SsvUArQazkyJjXINv4Wnl) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 5:38 | 2024-05-11 | 2024-06-11 |
+| [Seasons of Wither](https://open.spotify.com/track/0SsvUArQazkyJjXINv4Wnl) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 5:38 | 2024-05-11 |  |
 | [Shut Up And Dance](https://open.spotify.com/track/3BbWOytu8sLDD2pgU5z5xz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:55 | 2022-09-17 | 2023-04-22 |
 | [Sick As A Dog](https://open.spotify.com/track/2R1HDqY6bSdb7G5mYbcItD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:11 | 2022-09-17 | 2023-01-27 |
-| [Sick As A Dog](https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:12 | 2023-11-10 | 2024-06-11 |
+| [Sick As A Dog](https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 4:12 | 2023-11-10 |  |
 | [Somebody](https://open.spotify.com/track/5fcoCOuTYvAm1ap7d1zfB1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 4:35 | 2022-09-17 | 2022-11-28 |
 | [Stop Messin' Around](https://open.spotify.com/track/0D156dFOpliyPmemyptIzJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Honkin' On Bobo](https://open.spotify.com/album/2BAMyErzVjBJ7kvQWBJmbT) | 4:29 | 2022-09-17 | 2022-10-13 |
 | [Sunshine](https://open.spotify.com/track/4tQnVmMQBfOPax9jZeiwvD) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 3:37 | 2022-09-17 | 2023-01-26 |

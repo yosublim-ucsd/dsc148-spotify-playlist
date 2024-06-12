@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,209 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,246 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
 | 2 | [The Lion Sleeps Tonight \(Wimoweh\)](https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Wimoweh!!! \- The Best Of The Tokens](https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0) | 2:42 |
-| 3 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [The Zodiacs](https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
-| 4 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
-| 5 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
+| 3 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
+| 4 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams](https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D), [The Zodiacs](https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
+| 5 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
 | 6 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 7 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
 | 8 | [The Book of Love](https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1) | [The Monotones](https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a) | [Who Wrote The Book Of Love? \[Digital Version\]](https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV) | 2:18 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 36 | [Devil or Angel \- 2007 Remaster](https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 |
 | 37 | [Heartaches](https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:32 |
 | 38 | [Could This Be Magic](https://open.spotify.com/track/4OkVQKZpYeuZaCJ7pjNGMc) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [Deep Purple \(Original Recordings\)](https://open.spotify.com/album/6jul8eX6ZcgkvwVSsfbki1) | 2:18 |
-| 39 | [Hey Senorita](https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 1:46 |
+| 39 | [When You Dance](https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL) | [The Turbans](https://open.spotify.com/artist/5wn4Uafieiu8AEo360i2z7) | [The Best of The Turbans](https://open.spotify.com/album/0zVLh6WHk53AWbfRxAf6RH) | 2:57 |
 | 40 | [Little Girl of Mine](https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 3:12 |
-| 41 | [When You Dance](https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL) | [The Turbans](https://open.spotify.com/artist/5wn4Uafieiu8AEo360i2z7) | [The Best of The Turbans](https://open.spotify.com/album/0zVLh6WHk53AWbfRxAf6RH) | 2:57 |
+| 41 | [Hey Senorita](https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 1:46 |
 | 42 | [Look into My Eyes](https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | ["Maybe": The Best of the Chantels](https://open.spotify.com/album/1HQAVqEPsz4dZPX9AjHA86) | 2:18 |
 | 43 | [At My Front Door](https://open.spotify.com/track/3htl5DFdHgU4Essw0aKS62) | [The El Dorados](https://open.spotify.com/artist/2a6TNADvz1rRCUfAcUSvww) | [A Taste Of Doo Wop, Vol\. 2](https://open.spotify.com/album/10UGIkT9Zzct1N28uG3n7M) | 2:38 |
 | 44 | [Lily Maebelle](https://open.spotify.com/track/0MQCvlztZS867JqudUmAML) | [The Valentines](https://open.spotify.com/artist/6gO9O0Iss2ipZuskVnmA9a) | [The Best Of The Valentines](https://open.spotify.com/album/5MDFQiAuvmYVJfhmN8jOTP) | 2:18 |

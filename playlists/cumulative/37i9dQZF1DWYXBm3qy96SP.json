@@ -7781,6 +7781,28 @@
     },
     {
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        },
+        {
+          "name": "LIAMOO",
+          "url": "https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173831,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO"
+    },
+    {
+      "album": {
         "name": "Flare",
         "url": "https://open.spotify.com/album/26zIOR7mvMijr5g7L3kgxJ"
       },
@@ -12254,7 +12276,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
@@ -13972,7 +13994,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 194731,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
@@ -14944,7 +14966,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 295775,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz"

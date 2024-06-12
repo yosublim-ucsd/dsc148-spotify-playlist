@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Pixies
 
-293 songs - 20 hr 55 min
+294 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 | 2022-04-08 | 2022-07-29 |
 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 | 2022-05-27 |  |
 | [Alison \- Demo](https://open.spotify.com/track/4DbANKRc1W9ChH2pWchb58) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Alison \(Demo\)](https://open.spotify.com/album/6YEqa6Rd3McfnhXd2wGiBY) | 2:34 | 2023-01-27 | 2023-02-01 |
-| [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2023-07-27 | 2024-06-10 |
+| [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2023-07-27 |  |
 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 | 2022-07-28 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 | 2022-04-08 |  |
 | [All Things Must Pass \- 2020 Mix](https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2020 Mix\)](https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8) | 3:46 | 2022-04-08 | 2022-07-20 |
@@ -30,7 +30,7 @@
 | [Are 'Friends' Electric?](https://open.spotify.com/track/4YMjssjl6JWPF4ZIcvcwkg) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE), [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas Redux](https://open.spotify.com/album/1ZTKKrWwhE0prrfe3AudHz) | 5:25 | 2022-04-08 | 2022-07-29 |
 | [Are 'Friends' Electric?](https://open.spotify.com/track/3xfOF1wyjUZocifZ5WLeFx) | [Tubeway Army](https://open.spotify.com/artist/6SXZyMIzYNNfZ3NFQc3vtv) | [Replicas](https://open.spotify.com/album/14chsctrt7Rx38fQUbfqFz) | 5:23 | 2022-08-18 | 2022-11-13 |
 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 | 2022-04-08 |  |
-| [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 |  |
+| [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 | 2024-06-12 |
 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2022-04-08 |  |
 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 | 2022-04-08 |  |
 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 | 2022-07-28 |  |
@@ -239,7 +239,7 @@
 | [Start!](https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:29 | 2022-04-08 | 2022-07-29 |
 | [Step On \- 2007 Remaster](https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 5:18 | 2022-04-08 | 2022-07-29 |
 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 | 2023-01-12 |
-| [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 | 2022-07-28 |  |
+| [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 | 2022-07-28 | 2024-06-12 |
 | [Sweet Bird of Truth](https://open.spotify.com/track/1MH1Zfq6vJZEWf904atike) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Sweet Bird of Truth](https://open.spotify.com/album/17CUZ4KfTly5aMB73aM1b7) | 3:46 | 2022-05-27 | 2022-06-06 |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga\) \- Edit](https://open.spotify.com/track/6HCUMOcGa4LyjcBXjl7z0Y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 5:06 | 2023-09-28 | 2023-12-06 |
 | [Teach Me To Tango](https://open.spotify.com/track/5oIrbqdUT5z05cld5cXbaI) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Zoom In EP](https://open.spotify.com/album/5xaZbHax4UZEtgBUCsFRyy) | 3:07 | 2022-04-08 | 2022-07-27 |
@@ -291,6 +291,7 @@
 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 | 2022-04-08 | 2022-08-19 |
 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 | 2022-07-28 | 2022-11-13 |
 | [Waste A Moment](https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:03 | 2022-07-28 |  |
+| [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 | 2024-06-06 |  |
 | [We're On Our Way Now](https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [We're On Our Way Now](https://open.spotify.com/album/6krwiE0F3PgGWJWI49WCJI) | 4:08 | 2022-04-08 | 2022-07-29 |
 | [Weak](https://open.spotify.com/track/08peUkRXVqOPjTalCjhr1g) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Paranoid & Sunburnt](https://open.spotify.com/album/7xCSZZQEnMSSpzTgWzrPhG) | 3:31 | 2022-04-08 | 2022-07-27 |
 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 | 2022-07-28 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con legallyrxx en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,752 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,738 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 29 | [a dónde voy???](https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [a dónde voy???](https://open.spotify.com/album/5jEf06wCLfv0DIHLJARtKx) | 3:15 |
 | 30 | [NASCAR](https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:13 |
 | 31 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
-| 32 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
-| 33 | [Antisocial](https://open.spotify.com/track/6tyPRxb4pktVdBPvGuroQW) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Antisocial](https://open.spotify.com/album/0ojvLswWgJky4lzYB15dIk) | 2:19 |
+| 32 | [Antisocial](https://open.spotify.com/track/6tyPRxb4pktVdBPvGuroQW) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Antisocial](https://open.spotify.com/album/0ojvLswWgJky4lzYB15dIk) | 2:19 |
+| 33 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 34 | [disfraz](https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [disfraz](https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY) | 2:58 |
 | 35 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 |
-| 36 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
-| 37 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 |
+| 36 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 |
+| 37 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 38 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
 | 39 | [Aguilera](https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Aguilera](https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH) | 2:30 |
 | 40 | [DIME X FAVOR](https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Angie](https://open.spotify.com/artist/615oAk69RrUfmOboNfMRIm) | [DIME X FAVOR](https://open.spotify.com/album/2kbXiRgoHS4gf0xlkaqFXb) | 2:59 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 60 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
 | 61 | [Desorden](https://open.spotify.com/track/0y5NsA4NMN27BVBLezLnqT) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Desorden](https://open.spotify.com/album/1y0EaKqovoRvT9316GaP9u) | 3:28 |
 | 62 | [Linda](https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Linda](https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx) | 2:21 |
-| 63 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
-| 64 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
+| 63 | [contigo me siento en casa](https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo me siento en casa](https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq) | 2:51 |
+| 64 | [Nada me cansa](https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Nada me cansa](https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA) | 2:02 |
 | 65 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
 | 66 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 |
 | 67 | [Yo Sé \(Aceptación\)](https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Yo Sé \(Aceptación\)](https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV) | 3:02 |
 | 68 | [Palabras De Papel \(Veneno\)](https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Felicidad y Otros Mitos](https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI) | 3:21 |
-| 69 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
-| 70 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
-| 71 | [Obra de arte](https://open.spotify.com/track/7r8Hm0HknnPEcZVdwME1Fq) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Obra de arte](https://open.spotify.com/album/11L1nxjSwv6Xp5bEuafW7F) | 3:02 |
-| 72 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [Mina con N](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
-| 73 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
+| 69 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
+| 70 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 |
+| 71 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
+| 72 | [Obra de arte](https://open.spotify.com/track/7r8Hm0HknnPEcZVdwME1Fq) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Obra de arte](https://open.spotify.com/album/11L1nxjSwv6Xp5bEuafW7F) | 3:02 |
+| 73 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [Mina con N](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |
 | 74 | [nikes azules](https://open.spotify.com/track/4dhUtf8F9cIynSoavVG6u7) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [nikes azules](https://open.spotify.com/album/3DggDzjA8fjU3sEuys7NqG) | 2:53 |
-| 75 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
+| 75 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 |
 
 Snapshot ID: `ZllwSQAAAAAevKDBIvJdlvMqqvyIbrzE`

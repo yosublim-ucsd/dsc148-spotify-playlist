@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,777 likes - 575 songs - 1 day 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,778 likes - 575 songs - 1 day 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,8 +248,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 238 | [Ticking \- Remastered 1995](https://open.spotify.com/track/6jfMhVrLQ08guqU9LRVsR8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 7:34 |
 | 239 | [Screw You \(Young Man's Blues\)](https://open.spotify.com/track/4gmr318z7KJV353bJ5QujN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 4:42 |
 | 240 | [Grandma's Song](https://open.spotify.com/track/4qJqlwR2h09t24Rks9XgEk) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:40 |
-| 241 | [Regimental Sgt\. Zippo \- Stereo Mix](https://open.spotify.com/track/0Uq2RWW0BUjTA10QbGFGje) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 4:46 |
-| 242 | [Texan Love Song](https://open.spotify.com/track/4aKHrq05ta2e5dQ1KsOVCP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:33 |
+| 241 | [Texan Love Song](https://open.spotify.com/track/4aKHrq05ta2e5dQ1KsOVCP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:33 |
+| 242 | [Regimental Sgt\. Zippo \- Stereo Mix](https://open.spotify.com/track/0Uq2RWW0BUjTA10QbGFGje) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Regimental Sgt\. Zippo](https://open.spotify.com/album/3bfgBQwwP00KPKz6QmsNYz) | 4:46 |
 | 243 | [The Girl On Angel Pavement \- Arranged Band Version](https://open.spotify.com/track/7jNvHnbMM6OfLXjHcDa9wp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:26 |
 | 244 | [Recover Your Soul](https://open.spotify.com/track/6FGfXPvZ8sMpq1xd75FHXp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:18 |
 | 245 | [One Time, Sometime Or Never \- Band Demo](https://open.spotify.com/track/5xihdLdDAS2EVflqx0YfHc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:49 |
@@ -294,8 +294,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 284 | [England And America](https://open.spotify.com/track/3OK6xt63jBRG8M0M4fojF2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:51 |
 | 285 | [Easier To Walk Away](https://open.spotify.com/track/1QEDuRCXGqUwkhg2Wp1wKU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:22 |
 | 286 | [The Emperor's New Clothes](https://open.spotify.com/track/4iQbhtTEwrM2qfbaJlUe7I) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:28 |
-| 287 | [Finale](https://open.spotify.com/track/3xDfQmTLVmMtpR80ZF1Z85) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 5:34 |
-| 288 | [Sartorial Eloquence](https://open.spotify.com/track/10iq4kBKW7tPIzUEIKmcTm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:43 |
+| 287 | [Sartorial Eloquence](https://open.spotify.com/track/10iq4kBKW7tPIzUEIKmcTm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:43 |
+| 288 | [Finale](https://open.spotify.com/track/3xDfQmTLVmMtpR80ZF1Z85) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 5:34 |
 | 289 | [The North](https://open.spotify.com/track/4l1wkdNUNjEzUerp34s51F) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:15 |
 | 290 | [Walk of Shame](https://open.spotify.com/track/7byHhHTTpN8FKSFlqb5yhf) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [No Time For Rest](https://open.spotify.com/album/4IY0k3z5JHzC3j5P4Nkt6D) | 3:52 |
 | 291 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/1VXgLmMVNVIxI1iTB4oIli) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Step Into Christmas](https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ) | 4:06 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [The Wrong Gift](https://open.spotify.com/track/6WmTBqoLd5agrTigmY9UlX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 3:00 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbTt1AAAAAAYAp5M6F8BbQ/kdXZBezHG`
+Snapshot ID: `AbTzdAAAAAASPSnhzY0E+ZbucujFD6VY`

@@ -6,8 +6,284 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGADic//415hRBnZB2AJDBn6m+6XDe",
+  "snapshot_id": "AAAGDESmYCKEZLh5yjHrI4Sgs874ab7u",
   "tracks": [
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Prince Charming EP",
+        "url": "https://open.spotify.com/album/0OBW1NDnJocNTyHulHRKXe"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 188351,
+      "name": "Prince Charming",
+      "url": "https://open.spotify.com/track/6RivEBTtEYGeWoAKjt02CC"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Sky (Shining Bright)",
+        "url": "https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 170429,
+      "name": "Sky (Shining Bright)",
+      "url": "https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/7xL9P258zioz3ztUmu5D6u"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/6pciypwNijdOfdZG93mZ5I"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Chip Shop Heroes",
+        "url": "https://open.spotify.com/album/75iBI8XAM76TT5c3hKczc7"
+      },
+      "artists": [
+        {
+          "name": "Tiptoes",
+          "url": "https://open.spotify.com/artist/0OPGFIdqpZs3pxJ7MLuVjD"
+        },
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 402519,
+      "name": "Chip Shop Heroes - Sidney Charles Remix",
+      "url": "https://open.spotify.com/track/7ACg0kfGvCTc7y5qfidbZz"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Hi On Ya Luv EP",
+        "url": "https://open.spotify.com/album/3lsz2bhPEl7Oz5UqSAmppy"
+      },
+      "artists": [
+        {
+          "name": "Tiptoes",
+          "url": "https://open.spotify.com/artist/0OPGFIdqpZs3pxJ7MLuVjD"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "Hi On Ya Luv",
+      "url": "https://open.spotify.com/track/7EjYtdn0lJQP7fz0WPELnA"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/4FW8BJlbhL9kzusYETG00s"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        },
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/6JIV0J3sqofXnYROxdUIMm"
+        }
+      ],
+      "duration_ms": 184790,
+      "name": "Contagious",
+      "url": "https://open.spotify.com/track/3OKmq2rgfSTR6iDLs8j8FN"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Believe (feat. Fredwave & Jeshi)",
+        "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Fredwave",
+          "url": "https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 208439,
+      "name": "Believe (feat. Fredwave & Jeshi)",
+      "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Friendly Pressure (Sunship Remixes)",
+        "url": "https://open.spotify.com/album/6RPDt4qkk82lw4JMPTIJsl"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        },
+        {
+          "name": "Sunship",
+          "url": "https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau"
+        }
+      ],
+      "duration_ms": 334760,
+      "name": "Friendly Pressure - Into The Sunshine Mix",
+      "url": "https://open.spotify.com/track/70kfnr6pptxpV8YXjii68u"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "duration_ms": 208888,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Lightness (Radio Edit)",
+        "url": "https://open.spotify.com/album/6kQHLM8yzSkOnYTf8uiCjW"
+      },
+      "artists": [
+        {
+          "name": "Qubiko",
+          "url": "https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "Lightness - Radio Edit",
+      "url": "https://open.spotify.com/track/4DG4DYlEhN7qNwKeV7XCYw"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Naked (Feat. Leven Kali - Young Franco Remix)",
+        "url": "https://open.spotify.com/album/3CtyEsxP2rQxgf4OcoLOF9"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 131840,
+      "name": "Naked - Feat. Leven Kali - Young Franco Remix",
+      "url": "https://open.spotify.com/track/5uYcaG76x4k0qba7xe0vom"
+    },
+    {
+      "added_at": "2024-06-11 08:01:27",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
+    },
     {
       "added_at": "2024-04-26 15:46:43",
       "album": {
@@ -807,22 +1083,6 @@
       "duration_ms": 230476,
       "name": "Vagabundo - Radio Edit",
       "url": "https://open.spotify.com/track/1qD9iFXixwt9hWz1bxxGVV"
-    },
-    {
-      "added_at": "2024-01-30 03:15:41",
-      "album": {
-        "name": "Shook Pt. 3",
-        "url": "https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8"
-      },
-      "artists": [
-        {
-          "name": "Nick Morgan",
-          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
-        }
-      ],
-      "duration_ms": 422857,
-      "name": "Shook Part 3",
-      "url": "https://open.spotify.com/track/4pMUnltcUJs5tTqkrwuCYE"
     },
     {
       "added_at": "2024-01-19 17:26:34",

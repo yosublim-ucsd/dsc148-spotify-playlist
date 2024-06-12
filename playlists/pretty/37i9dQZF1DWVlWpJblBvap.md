@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,022 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,085 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 37 | [O Praise The Name \(Anástasis\) \- Live](https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [OPEN HEAVEN / River Wild \(Deluxe/Live\)](https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw) | 5:29 |
 | 38 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
 | 39 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
-| 40 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
-| 41 | [You Keep Hope Alive](https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [You Keep Hope Alive](https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp) | 4:11 |
+| 40 | [You Keep Hope Alive](https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [You Keep Hope Alive](https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp) | 4:11 |
+| 41 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 |
 | 42 | [I Am Not Alone \- Live](https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 5:33 |
 | 43 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 7:29 |
 | 44 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 47 | [Who You Say I Am](https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [There Is More \(Studio Sessions\)](https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ) | 3:19 |
 | 48 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 49 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
-| 50 | [Canyons](https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 4:40 |
-| 51 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
+| 50 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
+| 51 | [Canyons](https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 4:40 |
 | 52 | [Alive & Breathing \(feat\. Elle Limebear\)](https://open.spotify.com/track/3XtoBErYE1iSWKcMpftdnW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:02 |
 | 53 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 | 54 | [Cornerstone \- Live](https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [David Ware](https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 6:49 |

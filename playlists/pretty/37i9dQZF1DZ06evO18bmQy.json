@@ -1,12 +1,12 @@
 {
-  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 196974,
+  "description": "This Is Djonga. Los temas esenciales, todos en una lista.",
+  "num_followers": 196982,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAABPVmqJqIl+N9hYbIh15A1q",
+  "snapshot_id": "ZmZCAAAAAACYg2p571l9XWL03GhzbvsJ",
   "tracks": [
     {
       "added_at": null,
@@ -1035,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "FALC\u00c3O",
+      "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Cara Do Momento, Vol. 2",
         "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 196363,
       "name": "S\u00f3 Quero Saber",
       "url": "https://open.spotify.com/track/759JQKhbfrQjs9wNcmyAfl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 222128,
-      "name": "FALC\u00c3O",
-      "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
     },
     {
       "added_at": null,

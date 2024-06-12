@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 141533,
       "name": "808",
       "url": "https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK"
@@ -4825,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3KMMJEM9NRKVtOfwu2GCrQ"
+      },
+      "artists": [
+        {
+          "name": "CHRIST",
+          "url": "https://open.spotify.com/artist/0isGCole8wpNEtCEpf9n7g"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203433,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2ay7Y8hurKSYeNomEQxYIE"
+    },
+    {
+      "album": {
         "name": "Change My Clothes",
         "url": "https://open.spotify.com/album/2Y5WftWX9ZA7a01NYaBX4L"
       },
@@ -5820,7 +5838,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 243869,
       "name": "Crying At The Disco - Club Edit",
       "url": "https://open.spotify.com/track/68HfO5VKA9ZQC1fpM7vghb"
@@ -11994,7 +12012,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -15652,7 +15670,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
@@ -17454,7 +17472,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -18048,7 +18066,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -18798,7 +18816,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -19382,6 +19400,24 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
+        "name": "Sariling Mundo",
+        "url": "https://open.spotify.com/album/2rfBUsHWqodvzhMDNDAeJW"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218051,
+      "name": "Palagi",
+      "url": "https://open.spotify.com/track/4Rlbzn3nj9XJMZTijQUXMs"
     },
     {
       "album": {
@@ -24826,7 +24862,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

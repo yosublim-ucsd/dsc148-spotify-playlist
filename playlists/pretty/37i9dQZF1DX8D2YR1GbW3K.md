@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,691 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,723 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 117 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
 | 118 | [Tell Me](https://open.spotify.com/track/3M4BopyY1lODi4uBpSoDSQ) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Tell Me](https://open.spotify.com/album/05E9e8OeLQJ5QCjGOyLvZL) | 4:41 |
 | 119 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 |
-| 120 | [Illmerica](https://open.spotify.com/track/3ERVrhNx8p2I3xY9RomH9t) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/5pIPewOu9MCZVSQt7FLMim) | 5:37 |
-| 121 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 |
+| 120 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 |
+| 121 | [Illmerica](https://open.spotify.com/track/3ERVrhNx8p2I3xY9RomH9t) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/5pIPewOu9MCZVSQt7FLMim) | 5:37 |
 | 122 | [In My Mind \(feat\. Georgi Kay\) \- Axwell Radio Edit](https://open.spotify.com/track/2tW2Kn1IGFFVfRVnQE2UaQ) | [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM), [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [In My Mind \(feat\. Georgi Kay\)](https://open.spotify.com/album/7itE3cK3ye649qjIcsgGNu) | 3:05 |
 | 123 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/1BrunRBB6h877zDUxep7eh) | 2:48 |
 | 124 | [Higher Ground](https://open.spotify.com/track/0Js9hB2I66nJliPIJxzn2R) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3) | [TNGHT](https://open.spotify.com/album/4e0s9NinQo02X4exDDmW65) | 3:19 |

@@ -11567,6 +11567,24 @@
     },
     {
       "album": {
+        "name": "You Get Me High",
+        "url": "https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR"
+      },
+      "artists": [
+        {
+          "name": "Rex Hooligan",
+          "url": "https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180689,
+      "name": "You Get Me High",
+      "url": "https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht"
+    },
+    {
+      "album": {
         "name": "Your Highness",
         "url": "https://open.spotify.com/album/4K03B0jZLorCFqXj4LjXkU"
       },

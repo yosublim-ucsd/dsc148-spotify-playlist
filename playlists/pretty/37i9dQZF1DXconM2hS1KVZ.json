@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 426946,
+  "num_followers": 426925,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-03-26 11:30:09",
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
+    },
+    {
+      "added_at": "2024-03-26 11:30:09",
+      "album": {
         "name": "Fireball (feat. John Ryan)",
         "url": "https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 235012,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb"
-    },
-    {
-      "added_at": "2024-03-26 11:30:09",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     }
   ],
   "unique_name": "Sommerklassiker",

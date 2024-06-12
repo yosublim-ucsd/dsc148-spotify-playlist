@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1761302,
+  "num_followers": 1761252,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Daniel",
-        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 305000,
       "name": "Horses",
       "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "All in Good Time",
-        "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 255338,
-      "name": "All in Good Time",
-      "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "All in Good Time",
+        "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 255338,
+      "name": "All in Good Time",
+      "url": "https://open.spotify.com/track/533aNRdHHLdI9tiTvqPqjt"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Burn The Hard Drive (feat. Mura Masa)",
         "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 177080,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "My Golden Years",
-        "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "My Golden Years",
-      "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "My Golden Years",
+        "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "My Golden Years",
+      "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Far In",
-        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Outside the Outside",
-      "url": "https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "I Believe in You",
         "url": "https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 249413,
       "name": "I Believe in You",
       "url": "https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Far In",
+        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Outside the Outside",
+      "url": "https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Imaan",
-        "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
+        "name": "Sorry Now",
+        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
       "artists": [
         {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
         }
       ],
-      "duration_ms": 214088,
-      "name": "Imaan",
-      "url": "https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ"
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-674 songs - 1 day 13 hr 35 min
+676 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Better Off Alone](https://open.spotify.com/track/2jwsv7yOKwI4nd0UmrAnVq) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Better Off Alone](https://open.spotify.com/album/4ItBkJk85xH97hBZdlycIh) | 3:20 | 2022-10-03 | 2022-10-11 |
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-12 | 2022-09-19 |
 | [Bicycle](https://open.spotify.com/track/6je24EioclOnquVFZzQa81) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Bicycle](https://open.spotify.com/album/60QH27LQtqQ11jZaDYodg7) | 2:27 | 2023-02-07 | 2023-02-21 |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-11 |  |
 | [Birds of a Feather](https://open.spotify.com/track/61RkeWOI7EGdDk8D1bh7Bh) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 2:24 | 2023-09-25 | 2023-10-10 |
 | [Black Camaro](https://open.spotify.com/track/317G13tprALioWMlgzQrCV) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Bunny](https://open.spotify.com/album/6hRE1QhZfpKB03kvvF6jTG) | 3:47 | 2023-08-28 | 2023-09-05 |
 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 | 2023-10-17 | 2023-11-09 |
@@ -111,7 +112,7 @@
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-20 | 2023-05-01 |
 | [Chasing A Feeling](https://open.spotify.com/track/1sqVMoQANGKLdMi3qMdFSw) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 2:50 | 2022-06-13 | 2022-07-11 |
 | [Checkers](https://open.spotify.com/track/7kfsIAWpJNEToyrRIQNDFH) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Checkers](https://open.spotify.com/album/28o7FjJg1spDrelWZXPfex) | 3:12 | 2022-11-10 | 2022-11-15 |
-| [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-17 |  |
+| [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-17 | 2024-06-12 |
 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2023-11-08 | 2023-11-23 |
 | [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-09 | 2023-10-18 |
 | [Close](https://open.spotify.com/track/10go0Q45BH1boBneiRDHiM) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Close](https://open.spotify.com/album/49PO4ocytnypbnWzjusOFC) | 2:58 | 2023-06-12 | 2023-06-20 |
@@ -457,6 +458,7 @@
 | [PIRATE RADIO\*](https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PIRATE RADIO\*](https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3) | 3:09 | 2022-09-18 | 2022-09-28 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-20 | 2023-04-18 |
 | [Playhouse](https://open.spotify.com/track/1EBBm44YM2f8QjdM9tlU2C) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 3:48 | 2022-12-05 | 2022-12-13 |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-11 |  |
 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 | 2023-09-18 | 2023-09-26 |
 | [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2022-12-05 | 2023-04-18 |
 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 | 2022-06-06 | 2022-10-11 |

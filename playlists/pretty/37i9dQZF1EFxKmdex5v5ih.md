@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 287 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 288 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 253 | [RADAR](https://open.spotify.com/track/2a5eSTID3A3vRInGEe8cbL) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [LIGHT](https://open.spotify.com/album/0c7KtqXbSf6t2IPvAIaaxY) | 3:22 |
 | 254 | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/track/1mOuCPWI181DXmEy50CKzf) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/album/7sX0J1Xxms0zq5fHANdGkl) | 3:06 |
 | 255 | [Song For Rich](https://open.spotify.com/track/6rrIZnAIV6jMf5RZ925NQN) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Live The Life](https://open.spotify.com/album/1VKNgXQZcAcaYRr6qUMTwM) | 1:53 |
-| 256 | [Under](https://open.spotify.com/track/1oCDJiTPVayQx46M8YZOHB) | [Lovi Poe](https://open.spotify.com/artist/7y1faroNftK3H3EJqeLQo8) | [Under](https://open.spotify.com/album/3cYuWp7jZuiZ40hqCvXhYu) | 3:10 |
-| 257 | [Honeymind](https://open.spotify.com/track/6YaCwYtJIDlchaC4bJ9N1g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:19 |
+| 256 | [Honeymind](https://open.spotify.com/track/6YaCwYtJIDlchaC4bJ9N1g) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:19 |
+| 257 | [Under](https://open.spotify.com/track/1oCDJiTPVayQx46M8YZOHB) | [Lovi Poe](https://open.spotify.com/artist/7y1faroNftK3H3EJqeLQo8) | [Under](https://open.spotify.com/album/3cYuWp7jZuiZ40hqCvXhYu) | 3:10 |
 | 258 | [Dinner and a Movie \- Live in Brooklyn](https://open.spotify.com/track/6SfkvhDoA8IZ90zBoBaoOE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 3:55 |
 | 259 | [All Over Again](https://open.spotify.com/track/4WCo09kjrwfQtKE2C7rP5i) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 3:13 |
 | 260 | [Sugar Daddy](https://open.spotify.com/track/2ZaXufYEd6MgPqh1alHWke) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Heels in Hand](https://open.spotify.com/album/1U9H7bv1yLnbFafYTXnRBg) | 3:05 |
@@ -289,11 +289,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 279 | [While We Are](https://open.spotify.com/track/1qmo10n1v2uEjQwDZpWppF) | [25 Yard Screamer](https://open.spotify.com/artist/0rrJ9YYFiq3KPgI72gfQfD) | [Natural Satellite](https://open.spotify.com/album/0cLlvKL8BB8gHoQTRUist9) | 6:28 |
 | 280 | [Up On A Hill](https://open.spotify.com/track/5MEeXlgf7c1GBpV2ffNFe4) | [Denny Chew](https://open.spotify.com/artist/0Zrt6s9H5XvxGsSf99zn9E) | [Relaxation Piano & Nature](https://open.spotify.com/album/46jcUfBnvetv6WWyMUTgd6) | 3:18 |
 | 281 | [Let's Talk About It](https://open.spotify.com/track/4jAXmvknvDTGcefIwnCJbt) | [Michael Blueyez](https://open.spotify.com/artist/3Tz8JNPrC4VApSRAw2gUwi) | [Long Road Home](https://open.spotify.com/album/6nc5um8r6reCXppFTl0z0L) | 3:33 |
-| 282 | [Nicotine](https://open.spotify.com/track/4UPVIRJm2VOEmxEOphMCrB) | [Lil Rockyy](https://open.spotify.com/artist/7D5IGXR8YfePpnkPeFyL7r) | [Ghost Boy](https://open.spotify.com/album/0bt0Ton29Z46CRu8uqNa6Y) | 2:27 |
-| 283 | [Black Box](https://open.spotify.com/track/1Ta0HBqWWb4lKsC8J3PP43) | [Naufal Aryanto](https://open.spotify.com/artist/5KumFQ8aQ2asWy8cXcNwOd) | [Black Box](https://open.spotify.com/album/1v4EkaHjNpFUqC1xrF4Byg) | 3:12 |
-| 284 | [It Ain't Love](https://open.spotify.com/track/0fBYQIDK2lGqjv67AHju5F) | [Star Candy](https://open.spotify.com/artist/0ypSAR9wFSMZxJzDdbJzM0) | [Up Close](https://open.spotify.com/album/2Atzg6ScJm9y7EO2xR3hPV) | 5:09 |
-| 285 | [Dancehall](https://open.spotify.com/track/4GpqmcUvJcY5XJcwLSxMOi) | [Xternal](https://open.spotify.com/artist/1ddhUGauGANGPAmaUpgfvY) | [Old Fan Riddim](https://open.spotify.com/album/3egAD2whk3pAz5jMj13XyU) | 3:16 |
-| 286 | [Need You Now \(Originally Performed by Armin van Buuren & Jake Reese\) \[Instrumental Version\]](https://open.spotify.com/track/2tjidqayLnhGjFZNKq7ZXt) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 24](https://open.spotify.com/album/2S8LNqG6yLCjLbXTbuKIFN) | 2:58 |
-| 287 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
+| 282 | [Low Key \- Dominican Remix](https://open.spotify.com/track/57XbHgOZaGu326GHFu4YCM) | [Deivi\-N](https://open.spotify.com/artist/26eQkZeNsJBzxrlcqUKJfi) | [Low Key \(Dominican Remix\)](https://open.spotify.com/album/3CU1TlhFf20U31J0vhOd1B) | 2:42 |
+| 283 | [Nicotine](https://open.spotify.com/track/4UPVIRJm2VOEmxEOphMCrB) | [Lil Rockyy](https://open.spotify.com/artist/7D5IGXR8YfePpnkPeFyL7r) | [Ghost Boy](https://open.spotify.com/album/0bt0Ton29Z46CRu8uqNa6Y) | 2:27 |
+| 284 | [Black Box](https://open.spotify.com/track/1Ta0HBqWWb4lKsC8J3PP43) | [Naufal Aryanto](https://open.spotify.com/artist/5KumFQ8aQ2asWy8cXcNwOd) | [Black Box](https://open.spotify.com/album/1v4EkaHjNpFUqC1xrF4Byg) | 3:12 |
+| 285 | [It Ain't Love](https://open.spotify.com/track/0fBYQIDK2lGqjv67AHju5F) | [Star Candy](https://open.spotify.com/artist/0ypSAR9wFSMZxJzDdbJzM0) | [Up Close](https://open.spotify.com/album/2Atzg6ScJm9y7EO2xR3hPV) | 5:09 |
+| 286 | [Dancehall](https://open.spotify.com/track/4GpqmcUvJcY5XJcwLSxMOi) | [Xternal](https://open.spotify.com/artist/1ddhUGauGANGPAmaUpgfvY) | [Old Fan Riddim](https://open.spotify.com/album/3egAD2whk3pAz5jMj13XyU) | 3:16 |
+| 287 | [Need You Now \(Originally Performed by Armin van Buuren & Jake Reese\) \[Instrumental Version\]](https://open.spotify.com/track/2tjidqayLnhGjFZNKq7ZXt) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 24](https://open.spotify.com/album/2S8LNqG6yLCjLbXTbuKIFN) | 2:58 |
+| 288 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 
-Snapshot ID: `AbTt5AAAAAAcF2Ky0qwmTr8S60Ex70hN`
+Snapshot ID: `AbTzQgAAAAAt+83ZM8O36tPnG0GunivV`

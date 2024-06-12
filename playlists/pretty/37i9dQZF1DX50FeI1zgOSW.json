@@ -1,6 +1,6 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 11768,
+  "num_followers": 11791,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
@@ -143,17 +143,21 @@
     {
       "added_at": "2024-05-29 06:05:47",
       "album": {
-        "name": "Aneram Andhineram",
+        "name": "Aneram Andhaneram",
         "url": "https://open.spotify.com/album/4XWZYTFrPx8PiGZRZKQrsr"
       },
       "artists": [
         {
           "name": "Megas Raj",
           "url": "https://open.spotify.com/artist/5mv9YjItK1k1bWI7xZw5VI"
+        },
+        {
+          "name": "Pragathish Pugazh",
+          "url": "https://open.spotify.com/artist/6jHHXVPqgf4A5IHSHGd1AW"
         }
       ],
       "duration_ms": 153229,
-      "name": "Aneram Andhineram",
+      "name": "Aneram Andhaneram",
       "url": "https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA"
     },
     {

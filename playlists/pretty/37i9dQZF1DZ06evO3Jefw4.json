@@ -1,12 +1,12 @@
 {
-  "description": "This is Katy Perry. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1156554,
+  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
+  "num_followers": 1156630,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAC+vXrjV3RKJwA5HkXFAtaO",
+  "snapshot_id": "ZmZCAAAAAAC8GnWnyU09leoaJy1xI9pE",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 228878,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
       "artists": [
         {
@@ -100,81 +100,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 216160,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227741,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When I\u2019m Gone (with Katy Perry)",
-        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "When I\u2019m Gone (with Katy Perry)",
-      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "California Gurls",
-      "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
     },
     {
       "added_at": null,
@@ -200,6 +128,74 @@
       "added_at": null,
       "album": {
         "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1nZzRJbFvCEct3uzu04ZoL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "I Kissed A Girl",
+      "url": "https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
       "artists": [
@@ -211,6 +207,26 @@
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "California Gurls",
+      "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
     },
     {
       "added_at": null,
@@ -303,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8"
+        "name": "Shock Value II",
+        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
       },
       "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 246410,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
+      "duration_ms": 292706,
+      "name": "If We Ever Meet Again (Featuring Katy Perry)",
+      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
     },
     {
       "added_at": null,
@@ -359,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8"
       },
       "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 181899,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d"
+      "duration_ms": 246410,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
     },
     {
       "added_at": null,
@@ -823,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Of The Boys (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0"
+        "name": "Never Worn White",
+        "url": "https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa"
       },
       "artists": [
         {
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 247653,
-      "name": "One Of The Boys",
-      "url": "https://open.spotify.com/track/6uIODsxIHybW8ngRUAACb6"
+      "duration_ms": 225039,
+      "name": "Never Worn White",
+      "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
     },
     {
       "added_at": null,
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
-        "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
+        "name": "One Of The Boys (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0"
       },
       "artists": [
         {
@@ -868,25 +884,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Hackensack - Live At MTV Unplugged, 2009",
-      "url": "https://open.spotify.com/track/5c9pa7wTZsRU3Mycb0daM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 203362,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW"
+      "duration_ms": 197013,
+      "name": "Mannequin",
+      "url": "https://open.spotify.com/track/3200Oy2pnzyxUjTIwGWCEL"
     }
   ],
   "unique_name": "This Is Katy Perry",

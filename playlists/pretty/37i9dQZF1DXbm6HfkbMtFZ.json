@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 719983,
+  "num_followers": 720031,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 207346,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 310597,
       "name": "You",
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
         }
       ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
-      },
-      "artists": [
-        {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
       "artists": [
         {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1367,6 +1351,22 @@
       "duration_ms": 186013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 303871,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1739,22 +1739,18 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
-          "name": "Charles Brown",
-          "url": "https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg"
-        },
-        {
-          "name": "Sleepy Creek",
-          "url": "https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 191039,
-      "name": "I Just Want To Talk To You",
-      "url": "https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr"
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1791,18 +1787,22 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg"
+        },
+        {
+          "name": "Sleepy Creek",
+          "url": "https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97"
         }
       ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
+      "duration_ms": 191039,
+      "name": "I Just Want To Talk To You",
+      "url": "https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
+        "name": "Open Road",
+        "url": "https://open.spotify.com/album/4qA2vh48jfsWeTLxwszs00"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Clara Clairvoyant",
+      "url": "https://open.spotify.com/track/6zxLYIQWWvfyz6sYEOzSzf"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 189536,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
-      },
-      "artists": [
-        {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
-        }
-      ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     }
   ],
   "unique_name": "Feel Good Dinner",

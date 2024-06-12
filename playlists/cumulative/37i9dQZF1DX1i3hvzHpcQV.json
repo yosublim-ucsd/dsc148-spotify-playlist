@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ"
@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Indian 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217076,
+      "name": "Come Back Indian",
+      "url": "https://open.spotify.com/track/3Be1gnCOJX50ZSg8iHgIDv"
+    },
+    {
+      "album": {
         "name": "Cute Ponnu (From \"Enna Solla Pogirai\")",
         "url": "https://open.spotify.com/album/7fVDf5Unepx5UYSruu3xWw"
       },
@@ -864,7 +882,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 202607,
       "name": "Jalabulajangu (From \"Don\")",
       "url": "https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh"
@@ -1016,6 +1034,24 @@
       "duration_ms": 190909,
       "name": "Kaavaalaa (From \"Jailer\")",
       "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
+    },
+    {
+      "album": {
+        "name": "Indian 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234023,
+      "name": "Kadharalz",
+      "url": "https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz"
     },
     {
       "album": {
@@ -1696,7 +1732,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 223271,
       "name": "Oo Solriya Oo Oo Solriya",
       "url": "https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ"
@@ -1816,6 +1852,28 @@
       "duration_ms": 287391,
       "name": "Paadatha Pattellam (From \"Rudhran\")",
       "url": "https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW"
+    },
+    {
+      "album": {
+        "name": "Indian 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shruthika Samudhrala",
+          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252435,
+      "name": "Paaraa",
+      "url": "https://open.spotify.com/track/1OIwYRTXSB9sbmqj5xGq7e"
     },
     {
       "album": {
@@ -2252,7 +2310,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 221000,
       "name": "Srivalli",
       "url": "https://open.spotify.com/track/1pRHVSjEXuhZf7sEfH3yYS"

@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 51164,
+  "num_followers": 51219,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACEDGpatxE1gWTQGH/lqpwj",
+  "snapshot_id": "ZmZCAAAAAADxHetCM/nUm2wfzHwEp+Mb",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "L\u00f3gos",
+        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "CrimeNow",
+          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
+        }
+      ],
+      "duration_ms": 230831,
+      "name": "Regras da Loja",
+      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 182000,
       "name": "N\u00e9 Segredo",
       "url": "https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00f3gos",
-        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "CrimeNow",
-          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
-        }
-      ],
-      "duration_ms": 230831,
-      "name": "Regras da Loja",
-      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 240055,
       "name": "HOTEL ZONA SUL",
       "url": "https://open.spotify.com/track/3yavOAIet93Kag6H5ZeECs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Sigo na Sombra",
-      "url": "https://open.spotify.com/track/1oVADsF7jG7qB04rxkJOUD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 148738,
       "name": "Deus do Furdun\u00e7o",
       "url": "https://open.spotify.com/track/4cdCTVjFGCOxwhIOBAgY6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Sigo na Sombra",
+      "url": "https://open.spotify.com/track/1oVADsF7jG7qB04rxkJOUD"
     },
     {
       "added_at": null,
@@ -707,34 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
-        }
-      ],
-      "duration_ms": 309618,
-      "name": "Quadros",
-      "url": "https://open.spotify.com/track/5nkY0sTJS4UTp7RiOZKYNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antes dos Gigantes Chegarem, Vol. 2",
         "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
       },
@@ -759,6 +731,34 @@
       "duration_ms": 305002,
       "name": "Antes dos Gigantes Chegarem",
       "url": "https://open.spotify.com/track/1Iz2RJFAbcyAwB9sOaXvLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        }
+      ],
+      "duration_ms": 309618,
+      "name": "Quadros",
+      "url": "https://open.spotify.com/track/5nkY0sTJS4UTp7RiOZKYNl"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 195883,
-      "name": "Vis\u00e3o Ampla",
-      "url": "https://open.spotify.com/track/2PimmyoQACdeDOSyfwOc8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 221621,
       "name": "3 DA MADRUGA",
       "url": "https://open.spotify.com/track/6ippDdJ3ys868MznfOHiRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 195883,
+      "name": "Vis\u00e3o Ampla",
+      "url": "https://open.spotify.com/track/2PimmyoQACdeDOSyfwOc8g"
     },
     {
       "added_at": null,
@@ -899,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 222858,
-      "name": "exalta",
-      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 192004,
       "name": "REAL NIGGA",
       "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 222858,
+      "name": "exalta",
+      "url": "https://open.spotify.com/track/2otIusmrNZtvYj8lDVnA2w"
     },
     {
       "added_at": null,
@@ -1003,34 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        },
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        }
-      ],
-      "duration_ms": 192721,
-      "name": "PUT@RIA!",
-      "url": "https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -1055,6 +1027,34 @@
       "duration_ms": 208640,
       "name": "SOY JEFE",
       "url": "https://open.spotify.com/track/0R6kmc1bAJjj5uKFhXasix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 192721,
+      "name": "PUT@RIA!",
+      "url": "https://open.spotify.com/track/7jVexMvXRY7rWIHTOqKs7G"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "VER\u00c3O CRIMINOSO",
+        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 172820,
+      "name": "ESPECIALISTA",
+      "url": "https://open.spotify.com/track/2ZIOwWa5HiQWTzOagFGdao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -1143,34 +1171,6 @@
       "duration_ms": 281684,
       "name": "Canto das Baixas",
       "url": "https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VER\u00c3O CRIMINOSO",
-        "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 172820,
-      "name": "ESPECIALISTA",
-      "url": "https://open.spotify.com/track/2ZIOwWa5HiQWTzOagFGdao"
     },
     {
       "added_at": null,

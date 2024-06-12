@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -3032,6 +3032,24 @@
       "duration_ms": 181901,
       "name": "Bisami",
       "url": "https://open.spotify.com/track/1XqNcROzfUTq9kVeQ9RQBa"
+    },
+    {
+      "album": {
+        "name": "Blessi",
+        "url": "https://open.spotify.com/album/2OcLx5nCAHrIp2YM7AzFor"
+      },
+      "artists": [
+        {
+          "name": "Blessmon",
+          "url": "https://open.spotify.com/artist/3zPYgcfV8C7pDX2sP54xPz"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180624,
+      "name": "Blessi",
+      "url": "https://open.spotify.com/track/7AqPWFEK0tEy0BeQvuvkZE"
     },
     {
       "album": {
@@ -8794,7 +8812,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 139728,
       "name": "Eso E",
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
@@ -8812,7 +8830,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -14886,7 +14904,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -16820,7 +16838,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -28806,7 +28824,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 187694,
       "name": "Vamono Lejos",
       "url": "https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8"
@@ -29830,7 +29848,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 161647,
       "name": "Ya me enter\u00e9",
       "url": "https://open.spotify.com/track/6xUTpgnxMzxM5JhWeLCKMB"

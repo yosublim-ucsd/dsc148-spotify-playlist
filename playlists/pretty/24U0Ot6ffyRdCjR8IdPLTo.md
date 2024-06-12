@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-[Topsify](https://open.spotify.com/user/topsify) - 10,456 likes - 134 songs - 7 hr 32 min
+[Topsify](https://open.spotify.com/user/topsify) - 10,457 likes - 134 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

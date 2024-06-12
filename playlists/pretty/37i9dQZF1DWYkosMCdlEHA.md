@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,899 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,911 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 15 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
 | 16 | [Só Os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 |
 | 17 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
-| 18 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
-| 19 | [Seja Para Mim \- Acústico](https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Seja Para Mim \(Acústico\)](https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w) | 3:01 |
+| 18 | [Seja Para Mim \- Acústico](https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Seja Para Mim \(Acústico\)](https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w) | 3:01 |
+| 19 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
 | 20 | [Me Namora \(feat\. Edu Ribeiro\) \- Natiruts Reggae Brasil \- Ao Vivo](https://open.spotify.com/track/0gRNBFAXFhq1Z8QgTd0aXI) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Edu Ribeiro](https://open.spotify.com/artist/1fB70H0nL0avbtQEGi8pLE) | [Natiruts Reggae Brasil \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2NANM7zBb4IIH5DzKqAoMG) | 3:16 |
 | 21 | [Girassol \(Acústico\)](https://open.spotify.com/track/0mscBkMFduxGFsFEhTv7du) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:09 |
 | 22 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |

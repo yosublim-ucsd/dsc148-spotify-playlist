@@ -4,7 +4,7 @@
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-79 songs - 5 hr 44 min
+80 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Till The End](https://open.spotify.com/track/4x22u0rFlDAlliV3VqRQHe) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Till The End](https://open.spotify.com/album/6XAC9SflD5rmJAJxmRAeCN) | 3:59 | 2023-11-27 | 2024-06-07 |
 | [七里香](https://open.spotify.com/track/57w29bSwdIZ6gr6xXOqwc1) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 4:57 | 2023-11-27 | 2024-03-13 |
 | [不喜歡沒有你的地方](https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [不喜歡沒有你的地方](https://open.spotify.com/album/75aDWkYgrA0ZAMEHpPCHeJ) | 3:47 | 2023-11-27 | 2024-06-07 |
-| [不將就 \(電影"何以笙簫默"片尾曲\)](https://open.spotify.com/track/5DH8nF7aWoXXg5Sm3gjCWD) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [有理想](https://open.spotify.com/album/3ykTa8oJzxd7n6vplb3VTl) | 5:12 | 2024-06-06 |  |
+| [不將就 \(電影"何以笙簫默"片尾曲\)](https://open.spotify.com/track/5DH8nF7aWoXXg5Sm3gjCWD) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [有理想](https://open.spotify.com/album/3ykTa8oJzxd7n6vplb3VTl) | 5:12 | 2024-06-06 | 2024-06-12 |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2023-11-27 |  |
 | [不為誰而作的歌](https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | ["和自己對話" 實驗專輯](https://open.spotify.com/album/2BllRBDJwm9kthtOoYTzNK) | 4:25 | 2023-11-27 |  |
 | [从前说](https://open.spotify.com/track/3t5edAHbyFEW67wFApp7EO) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/3XKhqXwWo2nHfTCsvYkmtq) | 4:11 | 2023-11-27 | 2024-04-19 |
@@ -58,11 +58,12 @@
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2023-11-27 |  |
 | [我們的愛](https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛兒樂團](https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ) | 4:47 | 2023-11-27 |  |
 | [我好想你](https://open.spotify.com/track/3aQ7k1TkEdannB2soLjtJC) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [秋：故事](https://open.spotify.com/album/3THCn447cIVJjLYou7MHV6) | 5:26 | 2023-11-27 |  |
-| [我很快樂](https://open.spotify.com/track/0ztR7sCDXwCU5I8QJKemSU) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 4:56 | 2024-06-06 |  |
+| [我很快樂](https://open.spotify.com/track/0ztR7sCDXwCU5I8QJKemSU) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 4:56 | 2024-06-06 | 2024-06-12 |
 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 | 2023-11-27 |  |
 | [手心的薔薇](https://open.spotify.com/track/07DWACsD58aEdq6XnDadLh) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:40 | 2023-11-27 |  |
 | [披星戴月的想你](https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我肯定在幾百年前就說過愛你](https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i) | 5:49 | 2023-11-27 |  |
 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2023-11-27 |  |
+| [摯友](https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [摯友](https://open.spotify.com/album/5XhdyuaZcuvgWVR135euye) | 5:13 | 2024-06-06 |  |
 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2023-11-27 | 2024-04-19 |
 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2023-11-27 |  |
 | [普通朋友](https://open.spotify.com/track/7CTitzr4eVIDCPUJi5Dr4B) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [I'm O.K.](https://open.spotify.com/album/1tOMQ0MGYaMF4F0YtyUKXN) | 4:15 | 2023-11-27 |  |
@@ -86,6 +87,6 @@
 | [開始懂了](https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [我要的幸福](https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m) | 4:31 | 2024-06-06 |  |
 | [雨愛](https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 | 2023-11-27 |  |
 | [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2023-11-27 | 2024-04-19 |
-| [體面](https://open.spotify.com/track/7oOfvZDUqhiJd9OC2Tq8Nh) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [尚未界定](https://open.spotify.com/album/3Izw8Ec6jQUYjSDUifh7XO) | 4:42 | 2024-06-06 | 2024-06-08 |
+| [體面](https://open.spotify.com/track/7oOfvZDUqhiJd9OC2Tq8Nh) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [尚未界定](https://open.spotify.com/album/3Izw8Ec6jQUYjSDUifh7XO) | 4:42 | 2024-06-06 |  |
 
 \*This playlist was first scraped on 2024-01-21. Prior content cannot be recovered.

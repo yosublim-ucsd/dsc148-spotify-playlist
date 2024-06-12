@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 23 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 23 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 10 | [Your Move](https://open.spotify.com/track/6HNTfx84zrNwNWcxgLFfnn) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Your Move](https://open.spotify.com/album/2hWRXUEJ7Fj3K3Dj4BOSoS) | 3:07 |
 | 11 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 |
 | 12 | [Puppy Luv <3](https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o) | 2:21 |
-| 13 | [For What It's Worth](https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [For What It's Worth](https://open.spotify.com/album/7xbIDc3R7zS0yrOOKRSLAX) | 2:31 |
-| 14 | [Anticipate](https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:22 |
+| 13 | [Anticipate](https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:22 |
+| 14 | [For What It's Worth](https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [For What It's Worth](https://open.spotify.com/album/7xbIDc3R7zS0yrOOKRSLAX) | 2:31 |
 | 15 | [Something In My Eye](https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Something In My Eye](https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1) | 2:44 |
 | 16 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 | 17 | [Alright](https://open.spotify.com/track/2OOx9fgzwR1A7mJuldIWvO) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Alright](https://open.spotify.com/album/7f4I2kZbkzPtxDdi3qX30S) | 2:54 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 22 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
 | 23 | [Too Much](https://open.spotify.com/track/1dqav7nwo6Y7Vpx1ypHCOA) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:06 |
 
-Snapshot ID: `AbTt3QAAAAAWot/mGtTkZMaQZFlu/7wa`
+Snapshot ID: `AbTzdAAAAAD+2TmxCxAiptBtxkeDWKPW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Pixies
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,031 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,032 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 22 | [Stupid Heart](https://open.spotify.com/track/64FWcpeHm6BB9oFlacsY3w) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Stupid Heart](https://open.spotify.com/album/2mNque84IKRiGLn6QpHrxn) | 2:22 |
 | 23 | [MORE](https://open.spotify.com/track/15ppK3GWBNfun3hkViRr6M) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [MORE](https://open.spotify.com/album/7ci2YpLQNXtOJTWhqMIhH9) | 3:43 |
 | 24 | [All I've Heard \- Single Edit](https://open.spotify.com/track/3QcyheDyLa6SZrIOpZbwIF) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [All I've Heard](https://open.spotify.com/album/6mCrD0zcwI58rwB8CRbT5z) | 3:19 |
-| 25 | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L) | 4:23 |
+| 25 | [If I'm Gonna Go Anywhere](https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L) | 4:23 |
 | 26 | [Underneath](https://open.spotify.com/track/0QGFzGvqGnwb0mujqRtqL4) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Underneath](https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M) | 4:29 |
 | 27 | [Don't Go Making Plans](https://open.spotify.com/track/2M1h3tFmbtjxlp5WcWiK3q) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Don't Go Making Plans](https://open.spotify.com/album/0sa9LDew1lNqr9eER3vhBR) | 3:15 |
 | 28 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 40 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 |
 | 41 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 |
 | 42 | [Work](https://open.spotify.com/track/190Jy5UvDjBbbpnfDFFOc1) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Work](https://open.spotify.com/album/1Hb73vhOjThgS4BxhJ4KWz) | 4:29 |
-| 43 | [TIME](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
+| 43 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
 | 44 | [Feel Too Much](https://open.spotify.com/track/2WTtuIp7Yhg85P2SYPGD6r) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [CWK EP](https://open.spotify.com/album/2xbIzFOBD0L80ARB5GifJw) | 2:48 |
 | 45 | [21](https://open.spotify.com/track/0FS3KPmkxlnFl0qzmc2t5V) | [Couch Sleepers](https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw) | [21](https://open.spotify.com/album/0HqhFh2YCt4vHip1D79M20) | 2:40 |
 | 46 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |

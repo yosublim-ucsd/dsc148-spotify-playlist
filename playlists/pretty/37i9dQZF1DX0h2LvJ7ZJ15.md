@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,754 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,706 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 14 | [i like the way you kiss me \- burnt](https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me \(burnt\)](https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4) | 2:42 |
 | 15 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
 | 16 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
-| 17 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 |
-| 18 | [MONTAGEM \- PR FUNK \- Slowed & Reveerb](https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI) | 1:23 |
+| 17 | [MONTAGEM \- PR FUNK \- Slowed & Reveerb](https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI) | 1:23 |
+| 18 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 |
 | 19 | [LOVELY BASTARDS \- Slowed](https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS \(Slowed\)](https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ) | 2:32 |
 | 20 | [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 |
 | 21 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |

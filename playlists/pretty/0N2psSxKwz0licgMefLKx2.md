@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
+> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Thomas Rhett
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 10,372 likes - 80 songs - 4 hr 20 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 10,370 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 79 | [Handle On You](https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:39 |
 | 80 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 |
 
-Snapshot ID: `AAAjyPwZq5FtH+8+HK2kyfsSzoAbQ7YX`
+Snapshot ID: `AAAjySJrvN9vygZjYNVXWiU1LyTvZEvc`

@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 215116,
+  "num_followers": 215227,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAAzZjwiOEWw4Tec8Q+L2W8Z",
+  "snapshot_id": "ZmZCAAAAAACOm0LLMOoiKSmaIcYdSReP",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Ti Estoy Bien",
+        "url": "https://open.spotify.com/album/1UDfUiqSqAZ4TFom6yzZ89"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 221696,
+      "name": "Sin Ti Estoy Bien",
+      "url": "https://open.spotify.com/track/4RrOSjdnV8rkpIuOIfkKYS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La \u00daltima",
         "url": "https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 187733,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Ti Estoy Bien",
-        "url": "https://open.spotify.com/album/1UDfUiqSqAZ4TFom6yzZ89"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 221696,
-      "name": "Sin Ti Estoy Bien",
-      "url": "https://open.spotify.com/track/4RrOSjdnV8rkpIuOIfkKYS"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s que reales",
-        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "M\u00e1s que reales",
-      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
         "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 241000,
       "name": "En Lo Malo Me Va Bien",
       "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s que reales",
+        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "M\u00e1s que reales",
+      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
     },
     {
       "added_at": null,

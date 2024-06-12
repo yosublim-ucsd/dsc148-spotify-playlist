@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 184090,
       "name": "Farq hai",
       "url": "https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg"
@@ -4592,6 +4592,24 @@
       "duration_ms": 187500,
       "name": "Noor",
       "url": "https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT"
+    },
+    {
+      "album": {
+        "name": "O Piya",
+        "url": "https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5"
+      },
+      "artists": [
+        {
+          "name": "Ayush Gupta",
+          "url": "https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235373,
+      "name": "O Piya",
+      "url": "https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk"
     },
     {
       "album": {

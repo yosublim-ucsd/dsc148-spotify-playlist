@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: DOLLA
 
-10,886 songs - 24 day 20 hr 49 min
+10,887 songs - 24 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10488,6 +10488,7 @@
 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-04-11 | 2024-04-19 |
 | [ラストダンスに BYE BYE](https://open.spotify.com/track/2YapOdL73KIwMXS5SRwHwV) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [ラストダンスに BYE BYE](https://open.spotify.com/album/3BhYqtSpGRhXMq0YRqLomg) | 3:51 | 2022-05-26 | 2022-06-03 |
 | [ルバート](https://open.spotify.com/track/1w3837OMA0xxpFqqMtL7B5) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ルバート](https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0) | 3:51 | 2024-05-30 | 2024-06-07 |
+| [一定要再見](https://open.spotify.com/track/2uoysKBgWhOfBPrWk7c1iz) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [一定要再見](https://open.spotify.com/album/52bvZmbSBhzcVcudrWde3E) | 3:30 | 2024-06-06 |  |
 | [一百 \- 百事可樂品牌主題曲](https://open.spotify.com/track/0f6PlM4H8iHqF6lNMgoat0) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [一百 \(百事可樂品牌主題曲\)](https://open.spotify.com/album/4fVfmVXa0qsTwlgsfpGWcK) | 3:38 | 2024-06-06 |  |
 | [一直被愛著](https://open.spotify.com/track/4mMEIkOxUX3kheFudXdszj) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [一直被愛著](https://open.spotify.com/album/7bg7MKUjxblcsrUeVE6aMn) | 4:25 | 2024-03-14 | 2024-03-22 |
 | [一直都在 \- 《我的麻吉4個鬼》電影主題曲](https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [一直都在 \(《我的麻吉4個鬼》電影主題曲\)](https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a) | 3:41 | 2023-08-10 | 2023-08-18 |

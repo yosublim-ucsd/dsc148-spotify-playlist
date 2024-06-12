@@ -2,9 +2,9 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Camilo
+> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Feid
 
-299 songs - 16 hr 57 min
+300 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/30K54dQDikHIulypekVSZp) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mala Costumbre \- Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5y69JKXX7lNzp4CUaDl2Ly) | 3:01 | 2024-01-19 | 2024-02-27 |
 | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe) | 3:33 | 2023-03-31 | 2023-04-29 |
 | [Mamasota](https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mamasota](https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel) | 3:36 | 2024-02-26 | 2024-03-02 |
-| [MAMI](https://open.spotify.com/track/1hZVLlcJK9FJ9FLIrUJsCY) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:28 | 2024-05-17 |  |
+| [MAMI](https://open.spotify.com/track/1hZVLlcJK9FJ9FLIrUJsCY) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:28 | 2024-05-17 | 2024-06-12 |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-10-11 | 2023-03-18 |
 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 | 2022-01-12 | 2024-02-27 |
 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 | 2023-03-17 | 2023-04-29 |
@@ -261,6 +261,7 @@
 | [Solita](https://open.spotify.com/track/6oEs0qf6YpUD83rmjzm7Uh) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Solita](https://open.spotify.com/album/4EW2dho3P6ZhmhDVxNVtOp) | 3:31 | 2022-01-12 | 2022-03-05 |
 | [Solo](https://open.spotify.com/track/0shi1zFuDEXZS8FZcICyxd) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Solo](https://open.spotify.com/album/1ceDfxGH0jLRBQnpx6tlz3) | 2:56 | 2022-04-27 | 2022-05-29 |
 | [Solo](https://open.spotify.com/track/5vA5zKaoFqbJ1uPi8rGeIr) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Solo](https://open.spotify.com/album/3uidpSvV0pe290g18HjbB4) | 3:27 | 2022-04-29 | 2022-05-04 |
+| [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-11 |  |
 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 | 2024-03-01 |  |
 | [SUELTAS](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [SUELTAS](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 | 2023-04-28 | 2023-11-11 |
 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 | 2024-01-19 | 2024-02-27 |

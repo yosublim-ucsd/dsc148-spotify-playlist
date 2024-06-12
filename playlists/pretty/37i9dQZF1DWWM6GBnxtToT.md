@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > Diese Songs zaubern dir ein Grinsen ins Gesicht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,843 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,853 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 7 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
 | 8 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 9 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
-| 10 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 11 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
+| 10 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
+| 11 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 12 | [Little Paradise](https://open.spotify.com/track/0ULtZkQAnZEgGVRKFcMTe0) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Little Paradise](https://open.spotify.com/album/3Fv7seonPKOoSQqgY1WrVl) | 2:55 |
 | 13 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
 | 14 | [in my mind](https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [in my mind](https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk) | 3:01 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 73 | [Morning Sun](https://open.spotify.com/track/2q8CITaNIKGjvpwAkroCYD) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Morning Sun](https://open.spotify.com/album/0SE40IGBADJ2A8mneCxzWQ) | 3:19 |
 | 74 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 |
 | 75 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
-| 76 | [Your Moment](https://open.spotify.com/track/5JAbCjlhaks42cZsR7iYlL) | [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO), [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Your Moment](https://open.spotify.com/album/7xuuHSrc2f8oJlp5ndu2E2) | 3:24 |
-| 77 | [Sixth Gear](https://open.spotify.com/track/3qRW8jmfgjhqGQZePnNiD4) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Sixth Gear](https://open.spotify.com/album/4mtghzQfcOaIqXaQ72qEek) | 3:17 |
+| 76 | [Sixth Gear](https://open.spotify.com/track/3qRW8jmfgjhqGQZePnNiD4) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Sixth Gear](https://open.spotify.com/album/4mtghzQfcOaIqXaQ72qEek) | 3:17 |
+| 77 | [Your Moment](https://open.spotify.com/track/5JAbCjlhaks42cZsR7iYlL) | [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO), [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Your Moment](https://open.spotify.com/album/7xuuHSrc2f8oJlp5ndu2E2) | 3:24 |
 | 78 | [The Canary Inukh](https://open.spotify.com/track/6zXe5eScWYkjQ59bcDETWf) | [Keope](https://open.spotify.com/artist/4PLAd936ZTS6KSJtiSsqDX) | [The Canary Inukh](https://open.spotify.com/album/3R3ClYQ14WTH7jyc1x8TbY) | 3:58 |
 | 79 | [Parasols](https://open.spotify.com/track/2pbIIJf26jXuS70UbDsdD0) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Parasols](https://open.spotify.com/album/0u6JSuef88Gk0cD2cKJxgF) | 3:19 |
 | 80 | [Calm Me Down](https://open.spotify.com/track/2hTeAOEUwcFJATk3c8mUGN) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Calm Me Down](https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk) | 3:05 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 91 | [Are You OK?](https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/1wLarLGfSpVvudyJE7BiG9) | 4:23 |
 | 92 | [Passion](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 93 | [Where Do You Go](https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Where Do You Go](https://open.spotify.com/album/7ffU7oeQlFNtNoAk2KI5PS) | 3:22 |
-| 94 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 |
-| 95 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 |
-| 96 | [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 |
+| 94 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 |
+| 95 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 |
+| 96 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
 | 97 | [Take Me Out](https://open.spotify.com/track/3QfDceqmFnYDJi87fwI3lK) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Take Me Out](https://open.spotify.com/album/2YCBz7N0Lrdagv6Fym6a8e) | 4:55 |
-| 98 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
+| 98 | [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 |
 | 99 | [Always Like This \(Demo\)](https://open.spotify.com/track/5QnnUPcjIMTUpIrU4qwAf6) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Demos 2004\-2008](https://open.spotify.com/album/78GRcDIvVdv5UgzsWFFrSR) | 1:45 |
 | 100 | [Zeus](https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Zeus](https://open.spotify.com/album/35VinbtlSAyJGLF8lrazez) | 3:18 |
 

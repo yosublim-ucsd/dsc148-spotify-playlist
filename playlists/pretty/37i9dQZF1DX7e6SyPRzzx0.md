@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Homixide Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,135 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,126 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 49 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 |
 | 50 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 |
 
-Snapshot ID: `ZlpDGgAAAACacthrOm7Xmywl4tC26yU0`
+Snapshot ID: `Zmi0dwAAAACj37PXtkOor3QeL0KFhA8+`

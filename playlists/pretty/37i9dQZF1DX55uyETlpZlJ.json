@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23139,
+  "num_followers": 23140,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmbl8gAAAAAho+uJTaV3Gi6b1wtWZ8FD",
+  "snapshot_id": "Zmgo3wAAAAAafBK+RmKj5xjR7MoZuKF3",
   "tracks": [
     {
       "added_at": "2024-06-10 11:39:11",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3KuefA47wSyDNFbFDDOdSJ"
     },
     {
+      "added_at": "2024-06-11 10:35:47",
+      "album": {
+        "name": "HANTHAKA",
+        "url": "https://open.spotify.com/album/72pk8t3PDGDUXyfPXONskX"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "duration_ms": 154740,
+      "name": "HANTHAKA",
+      "url": "https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3"
+    },
+    {
       "added_at": "2024-04-26 12:05:14",
       "album": {
         "name": "Kolahala",
@@ -75,6 +91,22 @@
       "duration_ms": 69683,
       "name": "Prabhata",
       "url": "https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF"
+    },
+    {
+      "added_at": "2024-06-11 06:01:01",
+      "album": {
+        "name": "Hey Hudugi",
+        "url": "https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        }
+      ],
+      "duration_ms": 191168,
+      "name": "Hey Hudugi",
+      "url": "https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY"
     },
     {
       "added_at": "2024-04-29 10:40:10",
@@ -107,6 +139,22 @@
       "duration_ms": 119037,
       "name": "Namma Bainduru",
       "url": "https://open.spotify.com/track/3m29zPPLr4dUXPiQU6RrMx"
+    },
+    {
+      "added_at": "2024-06-11 10:36:24",
+      "album": {
+        "name": "Haala",
+        "url": "https://open.spotify.com/album/0NjBDS09YIeB5km2sEalGb"
+      },
+      "artists": [
+        {
+          "name": "Lil-G",
+          "url": "https://open.spotify.com/artist/3Fv07lTLwkjvYHWW4dibXQ"
+        }
+      ],
+      "duration_ms": 292317,
+      "name": "Haala",
+      "url": "https://open.spotify.com/track/3Toq09j2dRtOfMMeikNEJh"
     },
     {
       "added_at": "2024-06-10 11:37:19",
@@ -1313,22 +1361,6 @@
       "url": "https://open.spotify.com/track/06B2qEW26f8HGryps3zjp6"
     },
     {
-      "added_at": "2024-01-29 06:21:45",
-      "album": {
-        "name": "PRAYANIKA",
-        "url": "https://open.spotify.com/album/05Kv7PQi2JgSaUGdBIXjvo"
-      },
-      "artists": [
-        {
-          "name": "Battalionsz",
-          "url": "https://open.spotify.com/artist/7tEa14uRsSNHWC20EKFHra"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Right Moves",
-      "url": "https://open.spotify.com/track/1OvU3YjEkbfbhgnRFoThGh"
-    },
-    {
       "added_at": "2024-01-22 08:42:17",
       "album": {
         "name": "MELODY",
@@ -1343,26 +1375,6 @@
       "duration_ms": 85479,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6wTPsKishFYQpQpfv0pxMU"
-    },
-    {
-      "added_at": "2024-01-18 12:07:56",
-      "album": {
-        "name": "Mooru Dina Jeevana",
-        "url": "https://open.spotify.com/album/30csRc2zyilSOWwnUZlZaL"
-      },
-      "artists": [
-        {
-          "name": "Nayan Meti",
-          "url": "https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd"
-        },
-        {
-          "name": "Chetan Pavate",
-          "url": "https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp"
-        }
-      ],
-      "duration_ms": 205848,
-      "name": "Mooru Dina Jeevana",
-      "url": "https://open.spotify.com/track/72rmsR6tE4OZUKSovywtOs"
     },
     {
       "added_at": "2023-12-19 05:26:50",
@@ -1399,30 +1411,6 @@
       "duration_ms": 129476,
       "name": "Karedaaga Ninna",
       "url": "https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj"
-    },
-    {
-      "added_at": "2023-12-22 10:27:35",
-      "album": {
-        "name": "Enagide Nanna Hrudaya",
-        "url": "https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK"
-      },
-      "artists": [
-        {
-          "name": "Achal Ubaradka",
-          "url": "https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS"
-        },
-        {
-          "name": "Sharath KN",
-          "url": "https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb"
-        },
-        {
-          "name": "Shwetha Guru",
-          "url": "https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1"
-        }
-      ],
-      "duration_ms": 354860,
-      "name": "Enagide Nanna Hrudaya",
-      "url": "https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz"
     }
   ],
   "unique_name": "Kannada Indie",

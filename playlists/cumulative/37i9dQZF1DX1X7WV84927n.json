@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 201150,
       "name": "Double Edged Sword (feat. Sylar)",
       "url": "https://open.spotify.com/track/6T5n30cEfm9C0ajB86guGb"
@@ -10760,6 +10760,24 @@
       "duration_ms": 200000,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/32OjCvkJLW1ADWiy8wSltr"
+    },
+    {
+      "album": {
+        "name": "Something I'm Not",
+        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205837,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
     },
     {
       "album": {

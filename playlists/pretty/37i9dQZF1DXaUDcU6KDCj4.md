@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Evan Honer
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,878 likes - 151 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,954 likes - 151 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

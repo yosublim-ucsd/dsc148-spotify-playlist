@@ -4,7 +4,7 @@
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: 21 Lil Harold
 
-502 songs - 23 hr 37 min
+503 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 | 2023-07-12 | 2024-02-24 |
 | [LET'S GO](https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LET'S GO](https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan) | 3:16 | 2023-12-08 | 2024-02-24 |
 | [LIFE SUCKS SO WE FUCK \(feat\. ZillaKami\)](https://open.spotify.com/track/3ykD76bDGfeLUaCiQ7GtJE) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [I HOPE YOU'RE HAPPY](https://open.spotify.com/album/4o38S5wL449A2Ny1iPbP6p) | 2:01 | 2024-02-23 |  |
+| [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 | 2024-06-11 |  |
 | [Like a Genie](https://open.spotify.com/track/5M0511QXES7KtFcRhOz8bo) | [Teflon Zay](https://open.spotify.com/artist/3AFIv9mCacdqjnxIebQhbS) | [Like a Genie](https://open.spotify.com/album/6CPyP019sUyscChGc4HUed) | 2:33 | 2023-03-31 | 2024-02-24 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-26 |  |
 | [LIL YEAH](https://open.spotify.com/track/0kFJUQfYRMhyBBbaXYaNxc) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [LIL YEAH](https://open.spotify.com/album/2CBmsfG1xXvkU3Fr14vPp3) | 2:01 | 2023-12-08 | 2024-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,672 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,687 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Can't Nobody \(feat\. Ryan Ofei & Maryanne J\. George\)](https://open.spotify.com/track/2VLXdIm5sJgDdRvfh2QrRe) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 5:12 |
 | 50 | [Don't Cry \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 6:08 |
 
-Snapshot ID: `ZmTwgAAAAACaaVtEe+l4JhH0TQZVD7KS`
+Snapshot ID: `ZmZCAAAAAABWJpZhjTBJdjyphDnnkKQ8`

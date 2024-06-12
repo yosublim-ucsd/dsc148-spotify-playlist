@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: MCND\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover:SUPER JUNIOR\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-578 songs - 1 day 8 hr 9 min
+579 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Daydreamer](https://open.spotify.com/track/6URocvg9wGd4RXPcX55xCJ) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Daydreamer](https://open.spotify.com/album/1vaKAB61EU3UiSoHQcvnui) | 3:41 | 2022-01-26 | 2022-07-13 |
 | [Daymoon \[CLEF X DKZ\]](https://open.spotify.com/track/3dBCJvCE1QKqOE64nNPlEN) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [CLEF X CREW, 5th Story](https://open.spotify.com/album/2gRhh3CUUiVgGABJvKYTNx) | 3:37 | 2023-12-06 | 2024-01-04 |
 | [DDARA](https://open.spotify.com/track/5ZGWNNcE2q3v8phEw0ZWci) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [DDARA](https://open.spotify.com/album/7vYhvCOcaB9udeX2oK5QMX) | 3:45 | 2022-03-22 | 2022-04-19 |
-| [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-08 | 2024-06-11 |
+| [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-08 |  |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 |  |
 | [Devil](https://open.spotify.com/track/2jkZgKoNK8dKxs7FGb9c42) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/3tLpEVOpXkRifL3nIziMN6) | 3:36 | 2022-03-31 | 2022-04-03 |
 | [Dive](https://open.spotify.com/track/1QRgdZiZAj2EfRMLBVu9af) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [i DECIDE](https://open.spotify.com/album/0wOlHVp82SZuQisxdigqkP) | 3:10 | 2021-12-08 | 2022-06-16 |
@@ -347,7 +347,7 @@
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-17 | 2022-11-24 |
 | [MEDUSA](https://open.spotify.com/track/6ZhLGUfleWoL751FUIDUYl) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [÷ \(NANUGI\)](https://open.spotify.com/album/6OYLlrSEe5QxS89FQ5PpYr) | 2:48 | 2023-10-13 | 2023-10-24 |
 | [Memento](https://open.spotify.com/track/5BuvRDep3503zAgrOvfalf) | [IZ](https://open.spotify.com/artist/4XiZ3nAGoPv8K8IMktGc3b) | [Memento](https://open.spotify.com/album/3msXwm2ApxwHTjJNeCOosf) | 3:59 | 2022-03-22 | 2022-04-18 |
-| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-23 |  |
+| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-23 | 2024-06-12 |
 | [Midnight Sun](https://open.spotify.com/track/1o6OdD35Z7A1qtgIQKIWdg) | [Seven O'Clock](https://open.spotify.com/artist/4NeKLW82adFCE8Y6r50X1E) | [White Night](https://open.spotify.com/album/5mkUMTAVUZfE1zTkfI62EN) | 3:42 | 2022-03-22 | 2022-04-18 |
 | [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 | 2022-07-27 | 2023-05-31 |
 | [MIROH](https://open.spotify.com/track/4WuKHgxdCJsaOBIh7yndty) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/79Bjt5oUy1183RJw1bJyF5) | 3:27 | 2022-01-14 | 2022-04-10 |
@@ -424,12 +424,12 @@
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2021-12-08 | 2022-07-29 |
 | [Red Light, Green Light](https://open.spotify.com/track/4xgBVNYwDQNhtpeyxQWP8s) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Red Light, Green Light](https://open.spotify.com/album/7AOjftp6myCoxMR7pnoGLB) | 3:23 | 2022-03-11 | 2022-04-15 |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-01-27 | 2022-07-17 |
-| [Renegade](https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47) | [LUCAS](https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN) | [Renegade \- The 1st Single](https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6) | 3:13 | 2024-04-18 | 2024-06-09 |
+| [Renegade](https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47) | [LUCAS](https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN) | [Renegade \- The 1st Single](https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6) | 3:13 | 2024-04-18 |  |
 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-08 | 2022-08-18 |
 | [REWIND](https://open.spotify.com/track/3gnby6MCtW10Zl0EvA308e) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [CONNECT](https://open.spotify.com/album/4JdZ37sM1QoMhUvY3nzorw) | 3:09 | 2024-01-08 | 2024-01-23 |
 | [RHYTHM TA](https://open.spotify.com/track/374WyJeaSR9Cmq4kuFzoqu) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml) | 3:47 | 2022-03-31 | 2022-04-20 |
 | [RIDE](https://open.spotify.com/track/4bWza2UuXLn2d21YFi1XXj) | [KNK](https://open.spotify.com/artist/5zx2slDKDXNn1e6779RzPd) | [KNK AIRLINE](https://open.spotify.com/album/67o91ctnyaMxfi8OSokpcS) | 3:33 | 2022-04-04 | 2022-04-19 |
-| [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-20 |  |
+| [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-20 | 2024-06-12 |
 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 | 2021-12-08 | 2022-07-07 |
 | [ROAR](https://open.spotify.com/track/7yP9oxhtOozkCptLHJoq3l) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 8th MINI ALBUM \[BE AWAKE\]](https://open.spotify.com/album/1rxSHvDHLjLdz7x8G4Ssy5) | 3:40 | 2023-02-20 | 2023-04-20 |
 | [Rock Paper Scissors](https://open.spotify.com/track/2CBxNlZM8H88AKLDQPX07q) | [M.O.N.T](https://open.spotify.com/artist/205HvlOEb4EZFrBHXv8kLZ) | [AWESOME UP!](https://open.spotify.com/album/0I9uhsE8bSIEU3Jf2PeDDP) | 3:10 | 2022-03-22 | 2022-04-14 |
@@ -461,6 +461,7 @@
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-26 | 2024-04-09 |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2021-12-08 | 2022-06-07 |
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2022-03-22 | 2022-03-30 |
+| [Show Time](https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Show Time](https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0) | 2:52 | 2024-06-11 |  |
 | [SHOWTIME](https://open.spotify.com/track/4Be93e6twHWrwOyEN5b2P4) | [SPECTRUM](https://open.spotify.com/artist/738AtLtkMcNmQrk64Pxl7Q) | [0325](https://open.spotify.com/album/4PY1YdBuIRARRLkXj2V6xQ) | 3:25 | 2022-03-22 | 2022-03-31 |
 | [Shut Up 받고 Crazy Hot!](https://open.spotify.com/track/1z7QyEi7KWDgqKr4MtnmAm) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Shut Up 받고 Crazy Hot!](https://open.spotify.com/album/0UXupM1TaPLQSTMkKwYEqQ) | 3:45 | 2022-01-27 | 2022-04-16 |
 | [Side Effects](https://open.spotify.com/track/1BiXkuVBXz9IzP7210Zo9I) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 2 : Yellow Wood](https://open.spotify.com/album/162XZSDZpr559n4iyLy8m5) | 3:13 | 2022-03-22 | 2022-04-18 |
@@ -573,7 +574,7 @@
 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2021-12-08 | 2023-04-22 |
 | [Woo Woo](https://open.spotify.com/track/7GemKTNrhp4Fs9GErgWIE9) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [SPECIAL GIFT \[Woo Woo\]](https://open.spotify.com/album/0t5Rqa89XrQu11AWnoCJoU) | 3:38 | 2023-01-06 | 2023-01-10 |
 | [X.O.X](https://open.spotify.com/track/4TsXvv60e5N9uQpanWkFQ9) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [SOME](https://open.spotify.com/album/2KmLP8MgdPvcZcnVUxYi2p) | 3:13 | 2023-10-30 | 2023-11-11 |
-| [X10](https://open.spotify.com/track/4gqpNgLOarYEPrIRqjy5gZ) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [X10](https://open.spotify.com/album/0lSgROy25yUfnZqrY9g4P4) | 2:56 | 2024-05-21 |  |
+| [X10](https://open.spotify.com/track/4gqpNgLOarYEPrIRqjy5gZ) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [X10](https://open.spotify.com/album/0lSgROy25yUfnZqrY9g4P4) | 2:56 | 2024-05-21 | 2024-06-12 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 |  |
 | [You Are Mine](https://open.spotify.com/track/2lS7EowakQLS1NkRj0acbM) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [You Are Mine \(A Business Proposal OST Part.2\)](https://open.spotify.com/album/77XfHNb3xBq8cv50bsRzkn) | 3:27 | 2022-04-04 | 2022-07-18 |
 | [You Calling My Name](https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:14 | 2021-12-08 | 2022-07-24 |

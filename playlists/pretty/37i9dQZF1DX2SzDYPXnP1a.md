@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,192 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,256 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 15 | [Don't Come Lookin'](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 |
 | 16 | [The Weekend](https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep](https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb) | 3:07 |
 | 17 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 |
-| 18 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 |
-| 19 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 |
+| 18 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 |
+| 19 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 |
 | 20 | [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 |
 | 21 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 22 | [Your Momma Still Does](https://open.spotify.com/track/4lC2VHtTze7OouvfKwPpDa) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Your Momma Still Does](https://open.spotify.com/album/5v6ex5A7Kozxgp04iKaOX2) | 2:37 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 42 | [Fire up the Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 |
 | 43 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
 | 44 | [Stick That In Your Country Song](https://open.spotify.com/track/5lH14PEjAXYuMTz0Dd4L1D) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Stick That In Your Country Song](https://open.spotify.com/album/7wWQFNpOLyRK6y4Ch1NaQe) | 3:48 |
-| 45 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
+| 45 | [The Fighter](https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:04 |
 | 46 | [Heartbroken \- Jessie Version](https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:17 |
-| 47 | [The Fighter](https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:04 |
+| 47 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
 | 48 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
 | 49 | [Match For My Memory](https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory](https://open.spotify.com/album/1btxskaPEUaAs39MnammfS) | 2:59 |
 | 50 | [Single For The Summer](https://open.spotify.com/track/4nrtux8xl5lYegU8II5rAQ) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 5:10 |

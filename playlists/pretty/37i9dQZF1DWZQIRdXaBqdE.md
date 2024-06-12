@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,143 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,242 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 75 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
 | 76 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
 | 77 | [Set 'Em Up Joe](https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Chiseled In Stone](https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP) | 2:25 |
-| 78 | [Sea of Heartbreak](https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [RCA Country Legends: Don Gibson](https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As) | 2:35 |
-| 79 | [Please Help Me I'm Falling](https://open.spotify.com/track/3eTYeAOll7LaINGjv9Fnvi) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Please Help Me I'm Falling](https://open.spotify.com/album/299DU5FSU2gDdwKjDXc1Pi) | 2:24 |
+| 78 | [Please Help Me I'm Falling](https://open.spotify.com/track/3eTYeAOll7LaINGjv9Fnvi) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Please Help Me I'm Falling](https://open.spotify.com/album/299DU5FSU2gDdwKjDXc1Pi) | 2:24 |
+| 79 | [Sea of Heartbreak](https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [RCA Country Legends: Don Gibson](https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As) | 2:35 |
 | 80 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 |
-| 81 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
-| 82 | [Luckenbach, Texas \(Back to the Basics of Love\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:20 |
+| 81 | [Luckenbach, Texas \(Back to the Basics of Love\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:20 |
+| 82 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
 | 83 | [500 Miles Away from Home](https://open.spotify.com/track/44AauRai27QWKEx4dKn0oU) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [500 Miles Away From Home](https://open.spotify.com/album/06zl9w7hWWtjxFt76bMZEE) | 2:42 |
 | 84 | [Baby Don't Get Hooked on Me](https://open.spotify.com/track/4z51Gf7Ppt9Lmu5zmnUIz9) | [Mac Davis](https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0) | [Baby Don't Get Hooked On Me](https://open.spotify.com/album/2xFMzRc1yucPQIk8P0CcxM) | 3:03 |
 | 85 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |

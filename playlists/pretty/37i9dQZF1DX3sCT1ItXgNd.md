@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Rvfv, David Bisbal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,328 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,309 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 42 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
 | 43 | [Último Verano](https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Último Verano](https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l) | 2:49 |
 | 44 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
-| 45 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
+| 45 | [Full Romance](https://open.spotify.com/track/5O1zs9if5WlN0imKHxtWjB) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Full Romance](https://open.spotify.com/album/5zd608smm4YhnsOtyxElpf) | 2:37 |
 | 46 | [COMO TE QUIERO YO](https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA) | 2:57 |
-| 47 | [Full Romance](https://open.spotify.com/track/5O1zs9if5WlN0imKHxtWjB) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Full Romance](https://open.spotify.com/album/5zd608smm4YhnsOtyxElpf) | 2:37 |
+| 47 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
 | 48 | [Déjame tú](https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Contacto Cero](https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10) | 3:00 |
 | 49 | [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 |
 | 50 | [Lucas y Marta](https://open.spotify.com/track/0GnBtvSUflXvdTTtTYRFA3) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Lucas y Marta](https://open.spotify.com/album/63YPKYEGvtHH61oEpJfwWz) | 2:38 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 ### [This Is KURT](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wTXPn)
 
-> This Is KURT\. Los temas esenciales, todos en una lista.
+> This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,467 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,475 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 47 | [Otra Liza \(Con KURT\)](https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [1997](https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e) | 3:34 |
 | 48 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
 
-Snapshot ID: `ZmTwgAAAAABhViCMzcJaV8yGdgV8kbBZ`
+Snapshot ID: `ZmZCAAAAAABzZTOwHFsouB0gx6MEKLNi`

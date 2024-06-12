@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Ruby Waters",
-  "num_followers": 97916,
+  "num_followers": 97958,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -995,6 +995,38 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Wasting Your Love",
+        "url": "https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 163611,
+      "name": "Wasting Your Love",
+      "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Wella",
+        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 169631,
+      "name": "Wella",
+      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Reaching Out",
         "url": "https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO"
       },
@@ -1043,22 +1075,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Rare Feeling",
         "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Wasting Your Love",
-        "url": "https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF"
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
       "artists": [
         {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 163611,
-      "name": "Wasting Your Love",
-      "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Wella",
-        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 169631,
-      "name": "Wella",
-      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Younger & Dumber",
         "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "I Promise",
-        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 221415,
-      "name": "I Promise",
-      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 177104,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 221415,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+        "name": "Why You?",
+        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+      "duration_ms": 160613,
+      "name": "Why You?",
+      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Tear Jerky",
         "url": "https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm"
       },
@@ -1823,38 +1839,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Kansas",
-        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 211734,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Why You?",
-        "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Why You?",
-      "url": "https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 214013,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Kansas",
+        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 211734,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1915,38 +1931,6 @@
       "duration_ms": 207078,
       "name": "Every Woman",
       "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Witch Hazel",
-        "url": "https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn"
-      },
-      "artists": [
-        {
-          "name": "Karen Took The Kids",
-          "url": "https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE"
-        }
-      ],
-      "duration_ms": 262350,
-      "name": "Witch Hazel",
-      "url": "https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1967,34 +1951,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+        "name": "Witch Hazel",
+        "url": "https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Karen Took The Kids",
+          "url": "https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE"
         }
       ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 286042,
-      "name": "More",
-      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+      "duration_ms": 262350,
+      "name": "Witch Hazel",
+      "url": "https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2015,6 +1983,38 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 286042,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "no fun/party",
         "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
@@ -2027,22 +2027,6 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Delphinium Blue",
-        "url": "https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/6ClghcsuGseL3HRiaz3gvA"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2075,6 +2059,22 @@
       "duration_ms": 272000,
       "name": "Scorpions Don't Live Forever",
       "url": "https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Delphinium Blue",
+        "url": "https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/6ClghcsuGseL3HRiaz3gvA"
     }
   ],
   "unique_name": "Folk Arc",

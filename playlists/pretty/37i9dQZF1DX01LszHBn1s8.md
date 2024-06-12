@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm looking for a man in finance, trust fund, 6'5, blue eyes 💍
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,061 likes - 948 songs - 2 day 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,001 likes - 948 songs - 2 day 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 1 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 2 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
 | 3 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
 | 4 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 225726,
+  "num_followers": 225749,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAAjJQXYVpwewNSY6LJYEe6q",
+  "snapshot_id": "ZmZCAAAAAABh1BS19li6tt+gBEYiSws6",
   "tracks": [
     {
       "added_at": null,
@@ -174,11 +174,15 @@
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 126521,
-      "name": "SO DONE",
-      "url": "https://open.spotify.com/track/5YnxnTS89l3FElIwfIAeSs"
+      "duration_ms": 144860,
+      "name": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH"
     },
     {
       "added_at": null,
@@ -246,15 +250,11 @@
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 144860,
-      "name": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH"
+      "duration_ms": 126521,
+      "name": "SO DONE",
+      "url": "https://open.spotify.com/track/5YnxnTS89l3FElIwfIAeSs"
     },
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 243158,
-      "name": "Wasting Angels (with The Kid LAROI)",
-      "url": "https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Yours (From The Doc)",
         "url": "https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz"
       },
@@ -383,6 +363,22 @@
       "duration_ms": 158008,
       "name": "Still Yours (From The Doc)",
       "url": "https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 171217,
+      "name": "I THOUGHT THAT I NEEDED YOU",
+      "url": "https://open.spotify.com/track/3qwfwRLci33jDtIQhArYAA"
     },
     {
       "added_at": null,
@@ -403,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+        "name": "Pain is Temporary",
+        "url": "https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5"
       },
       "artists": [
+        {
+          "name": "Bankrol Hayden",
+          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
+        },
         {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 171217,
-      "name": "I THOUGHT THAT I NEEDED YOU",
-      "url": "https://open.spotify.com/track/3qwfwRLci33jDtIQhArYAA"
+      "duration_ms": 114865,
+      "name": "Costa Rica (feat. The Kid LAROI) - Remix",
+      "url": "https://open.spotify.com/track/3tdjTdCCgKtwacsICCtPZZ"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
       "duration_ms": 169014,
       "name": "This My Life (with Lil Tecca, The Kid LAROI & Lil Skies)",
       "url": "https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "DESERVE YOU",
+      "url": "https://open.spotify.com/track/4xKLuSF9EgcCGscGmoVXhx"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 157573,
-      "name": "DESERVE YOU",
-      "url": "https://open.spotify.com/track/4xKLuSF9EgcCGscGmoVXhx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Can't Go Back To The Way It Was (Intro)",
         "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 95273,
       "name": "I Can't Go Back To The Way It Was (Intro)",
       "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 192647,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
       "duration_ms": 170053,
       "name": "Wind",
       "url": "https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 192647,
-      "name": "SORRY",
-      "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
     },
     {
       "added_at": null,

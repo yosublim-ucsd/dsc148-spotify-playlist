@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Soley
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,779 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,794 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 22 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
 | 23 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 24 | [NO PIENSO LLAMAR](https://open.spotify.com/track/3xE3TyeIxL24IstPdy5IBv) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [NO PIENSO LLAMAR](https://open.spotify.com/album/03VZEfV1aKrAFDWgzbx915) | 3:18 |
-| 25 | [Maria](https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Maria](https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6) | 2:05 |
-| 26 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
+| 25 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
+| 26 | [Maria](https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Maria](https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6) | 2:05 |
 | 27 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
 | 28 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 29 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 |

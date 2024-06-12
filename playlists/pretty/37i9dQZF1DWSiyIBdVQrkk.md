@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Jah Lil
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,221,319 likes - 110 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221,393 likes - 110 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 72 | [Jamaica Jamaica](https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Jamaica Jamaica](https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD) | 3:31 |
 | 73 | [Kingston Be Wise](https://open.spotify.com/track/0qbouIdcN4lrj49jem7TEz) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [The 8 Year Affair](https://open.spotify.com/album/1pKiBXWp9b8nhnBzEh91nA) | 4:11 |
 | 74 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
-| 75 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
-| 76 | [Steamers a Bubble](https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Steamers a Bubble](https://open.spotify.com/album/6gr7NaB0xIz3vxbonltlty) | 4:17 |
+| 75 | [Steamers a Bubble](https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Steamers a Bubble](https://open.spotify.com/album/6gr7NaB0xIz3vxbonltlty) | 4:17 |
+| 76 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
 | 77 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 |
 | 78 | [Lady In Red](https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Lady In Red](https://open.spotify.com/album/4e7IXAGjHgtqDAALVF75cn) | 3:54 |
 | 79 | [Your Love](https://open.spotify.com/track/2nb1VOZIVN02Fq0SkXaiDv) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Your Love](https://open.spotify.com/album/7Mj4SVFTwrstDoJvMJLBC4) | 3:47 |

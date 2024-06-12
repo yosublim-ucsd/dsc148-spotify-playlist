@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-395 songs - 23 hr 43 min
+396 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Fire](https://open.spotify.com/track/0L4o44xUXwJgWhgsoFde8X) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Fire](https://open.spotify.com/album/6aIWbyEHrxBdWqloqYJ2y5) | 3:57 | 2022-02-14 | 2022-07-29 |
 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 | 2022-02-14 | 2022-12-28 |
 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 | 2022-02-14 | 2022-12-28 |
-| [fly on the wall](https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [fly on the wall](https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U) | 2:31 | 2024-03-29 |  |
+| [fly on the wall](https://open.spotify.com/track/6Mw4UN9tEiXkIYaVSVIpqb) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [fly on the wall](https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U) | 2:31 | 2024-03-29 | 2024-06-12 |
 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 | 2022-02-14 | 2022-12-28 |
 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Neeka](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 | 2022-02-14 | 2022-07-29 |
 | [For You](https://open.spotify.com/track/5mfl2mpVEyZLXk2E52rpp4) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [For You](https://open.spotify.com/album/5alUzHwGQJOM883xkWTm8C) | 3:30 | 2024-03-08 | 2024-05-12 |
@@ -132,6 +132,7 @@
 | [Good News](https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw) | 3:10 | 2023-03-17 |  |
 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 | 2023-11-10 |  |
 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 | 2023-06-16 |  |
+| [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 | 2024-05-31 |  |
 | [Grandma's Hands](https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:01 | 2023-01-10 | 2024-03-23 |
 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 | 2023-01-10 | 2023-03-25 |
 | [Greener](https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB) | [Jade Emperor](https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo) | [Greener](https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK) | 3:32 | 2022-02-14 | 2022-07-29 |

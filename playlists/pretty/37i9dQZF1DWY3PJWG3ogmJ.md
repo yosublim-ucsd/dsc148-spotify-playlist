@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,872 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,953 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 64 | [Of Mice and Mountains](https://open.spotify.com/track/0CwLjkdgKzMRxR0WE89Hw7) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:06 |
 | 65 | [Endarkenment](https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [Endarkenment](https://open.spotify.com/album/5xReWyf922gGJUHZMale2w) | 3:55 |
 | 66 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
-| 67 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
-| 68 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
-| 69 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 |
-| 70 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
-| 71 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 |
-| 72 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
+| 67 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
+| 68 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
+| 69 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
+| 70 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 |
+| 71 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
+| 72 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 |
 | 73 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
-| 74 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
-| 75 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
+| 74 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
+| 75 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 76 | [Seeds of Hate](https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [Gamechanger](https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT) | 3:48 |
 | 77 | [Void Silence](https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Into the Light](https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf) | 3:33 |
 | 78 | [Impending Dominance](https://open.spotify.com/track/2o4kpCx4JnNk65gZepC7S1) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Impending Dominance](https://open.spotify.com/album/3rpE4lxvQ3VrizOlYFjVto) | 3:55 |

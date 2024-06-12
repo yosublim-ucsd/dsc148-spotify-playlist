@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 45758,
+  "num_followers": 45761,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Favole",
-        "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 102567,
-      "name": "Favole",
-      "url": "https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Io Sono",
         "url": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Favole",
+        "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 102567,
+      "name": "Favole",
+      "url": "https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Tu mi fai bene",
-        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "Tu mi fai bene",
-      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Per starci in due",
         "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
       },
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "PROLOGO",
-        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
+        "name": "Mancati",
+        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
       },
       "artists": [
         {
-          "name": "Holden",
-          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 193067,
-      "name": "solo polvere.",
-      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+      "duration_ms": 112000,
+      "name": "Mancati",
+      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -875,18 +875,34 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Mancati",
-        "url": "https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT"
+        "name": "PROLOGO",
+        "url": "https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL"
       },
       "artists": [
         {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Mancati",
-      "url": "https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb"
+      "duration_ms": 193067,
+      "name": "solo polvere.",
+      "url": "https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Scusa ma",
+        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Scusa ma",
+      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -939,22 +955,6 @@
       "duration_ms": 89832,
       "name": "sto bene, a volte",
       "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "Scusa ma",
-        "url": "https://open.spotify.com/album/6tI9hNlP5hi9QtsvSDTRiY"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Scusa ma",
-      "url": "https://open.spotify.com/track/3L5SVDUdpBW9eqRAOxvISm"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1023,6 +1023,22 @@
       "duration_ms": 149671,
       "name": "FOTORICORDO",
       "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "La stella pi\u00f9 bella di sempre",
+        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "La stella pi\u00f9 bella di sempre",
+      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "La stella pi\u00f9 bella di sempre",
-        "url": "https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "La stella pi\u00f9 bella di sempre",
-      "url": "https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Campi Elisi",
         "url": "https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Due anni fa",
-        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
-      },
-      "artists": [
-        {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
-        }
-      ],
-      "duration_ms": 160247,
-      "name": "Due anni fa",
-      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Tatuaggi",
         "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 202500,
       "name": "Tatuaggi",
       "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Due anni fa",
+        "url": "https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "duration_ms": 160247,
+      "name": "Due anni fa",
+      "url": "https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
+        "name": "Penso a te",
+        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 123373,
+      "name": "Penso a te",
+      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1307,46 +1327,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "Penso a te",
-        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        },
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 123373,
-      "name": "Penso a te",
-      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Shama \u00e8 buono",
         "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 144750,
       "name": "Shama \u00e8 buono",
       "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 174549,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+        "name": "Torner\u00f2",
+        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         }
       ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+      "duration_ms": 146080,
+      "name": "Torner\u00f2",
+      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Torner\u00f2",
-        "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Torner\u00f2",
-      "url": "https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 186500,
       "name": "Cose stupide",
       "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "Marie 3 (Principessa Paranoia)",
-        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
       "artists": [
         {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Marie 3 - Principessa Paranoia",
-      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+        "name": "Marie 3 (Principessa Paranoia)",
+        "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
       },
       "artists": [
         {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
         }
       ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
+      "duration_ms": 159000,
+      "name": "Marie 3 - Principessa Paranoia",
+      "url": "https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1607,26 +1607,6 @@
       "duration_ms": 145750,
       "name": "Attacco di Panico",
       "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2024-03-20 10:29:29",
-      "album": {
-        "name": "Incancellabili",
-        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
-      },
-      "artists": [
-        {
-          "name": "Poet",
-          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
-        },
-        {
-          "name": "Otalay",
-          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
-        }
-      ],
-      "duration_ms": 92398,
-      "name": "Incancellabili",
-      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1659,6 +1639,26 @@
       "duration_ms": 129854,
       "name": "Semiminime",
       "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
+    },
+    {
+      "added_at": "2024-03-20 10:29:29",
+      "album": {
+        "name": "Incancellabili",
+        "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Otalay",
+          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
+        }
+      ],
+      "duration_ms": 92398,
+      "name": "Incancellabili",
+      "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
     },
     {
       "added_at": "2024-03-20 10:29:29",
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2024-03-20 10:29:29",
       "album": {
-        "name": "setiva",
-        "url": "https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy"
+        "name": "ME & YOU",
+        "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
       },
       "artists": [
         {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        },
+        {
+          "name": "Friman",
+          "url": "https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ"
         }
       ],
-      "duration_ms": 137137,
-      "name": "setiva",
-      "url": "https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W"
+      "duration_ms": 137008,
+      "name": "ME & YOU",
+      "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
     },
     {
       "added_at": "2024-03-20 10:29:29",

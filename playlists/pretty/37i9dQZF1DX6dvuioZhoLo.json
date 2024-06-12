@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 297509,
+  "num_followers": 297570,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Secret Sisters",
         "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 143160,
       "name": "My Heart Skips A Beat",
       "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "That's How Rumors Get Started",
         "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 189093,
       "name": "Stone Me",
       "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -923,30 +923,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
-        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
-      },
-      "artists": [
-        {
-          "name": "The Unrighteous Brothers",
-          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        },
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 229497,
-      "name": "You've Lost That Lovin' Feelin'",
-      "url": "https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Honest Life",
         "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 286146,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
+      },
+      "artists": [
+        {
+          "name": "The Unrighteous Brothers",
+          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 229497,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Companion",
-      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hey Little Girl",
         "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 193998,
       "name": "Hey Little Girl",
       "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The One In The Sun",
-        "url": "https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v"
-      },
-      "artists": [
-        {
-          "name": "Monica Heldal",
-          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
-        }
-      ],
-      "duration_ms": 208297,
-      "name": "For Saviours",
-      "url": "https://open.spotify.com/track/2OOqx5igfywQJ9zanaVIfo"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Dear Diary",
         "url": "https://open.spotify.com/album/1IqSN6kpB4yS7kn4eHobRi"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 214471,
       "name": "I'll Change",
       "url": "https://open.spotify.com/track/7duLGNkHcs1XUJ8o9lOhak"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The One In The Sun",
+        "url": "https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v"
+      },
+      "artists": [
+        {
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+        }
+      ],
+      "duration_ms": 208297,
+      "name": "For Saviours",
+      "url": "https://open.spotify.com/track/2OOqx5igfywQJ9zanaVIfo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "All Or Nothin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Oklahoma Room at Folk Alliance 2017",
         "url": "https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 202396,
       "name": "Buddies",
       "url": "https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+      },
+      "artists": [
+        {
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+        }
+      ],
+      "duration_ms": 166231,
+      "name": "P-Town",
+      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Walking Proof",
-        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
+        "name": "All Or Nothin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0MtDML13BxeSu5oeI1VCzQ"
       },
       "artists": [
         {
-          "name": "Lilly Hiatt",
-          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 166231,
-      "name": "P-Town",
-      "url": "https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2"
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
     },
     {
       "added_at": "2023-10-06 04:00:00",

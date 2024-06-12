@@ -999,6 +999,42 @@
     },
     {
       "album": {
+        "name": "Illuminated Strum 741 Hz",
+        "url": "https://open.spotify.com/album/4fTfoqDdD5mxZh34SfN22G"
+      },
+      "artists": [
+        {
+          "name": "Feldgeister",
+          "url": "https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154479,
+      "name": "Illuminated Strum 741 Hz",
+      "url": "https://open.spotify.com/track/44C5JAF8UMtcICFL8LGQse"
+    },
+    {
+      "album": {
+        "name": "Ingenuity Code 741 Hz",
+        "url": "https://open.spotify.com/album/0Vw31qxMXsLlqDC7feKUWl"
+      },
+      "artists": [
+        {
+          "name": "Prescient Liquids",
+          "url": "https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142875,
+      "name": "Ingenuity Code 741 Hz",
+      "url": "https://open.spotify.com/track/2H7WC3coEXBmfgvk2zxOF1"
+    },
+    {
+      "album": {
         "name": "Insight 741 Hz",
         "url": "https://open.spotify.com/album/4fkMdxjXstSp00j3kIqm2C"
       },

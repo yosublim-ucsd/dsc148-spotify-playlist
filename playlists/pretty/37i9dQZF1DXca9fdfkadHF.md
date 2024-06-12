@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > Hasta siempre, Pedro Suárez\-Vértiz 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,405 likes - 65 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,455 likes - 65 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,211 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,272 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 56 | [Be Thankful](https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [William DeVaughan](https://open.spotify.com/artist/1Ti8l2zXtTyMRi37I4mSK4) | [Best by Far](https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk) | 4:12 |
 | 57 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
 | 58 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
-| 59 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
-| 60 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
+| 59 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
+| 60 | [Long Cool & Bubbly](https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl) | [Corduroy](https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH) | [Dad Man Cat](https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR) | 4:25 |
 | 61 | [Ring of Saturn](https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Ring of Saturn](https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p) | 4:00 |
 | 62 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 |
 | 63 | [Life In Paradise](https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 7:00 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 68 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
 | 69 | [Looking up to You](https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P) | [Made in Sweden](https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y) | 3:54 |
 | 70 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
-| 71 | [Pete's Sake](https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8) | [All Good Funk Alliance](https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s) | [On The One](https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk) | 5:32 |
-| 72 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 |
+| 71 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 |
+| 72 | [Pete's Sake](https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8) | [All Good Funk Alliance](https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s) | [On The One](https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk) | 5:32 |
 | 73 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
 | 74 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 |
 | 75 | [Mr\. Jeckle](https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW) | [Max Beesley's High Vibes](https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd) | [The Acid Jazz Collection: Jazz](https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc) | 4:04 |

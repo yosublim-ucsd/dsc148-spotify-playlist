@@ -1,12 +1,12 @@
 {
-  "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 28794,
+  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
+  "num_followers": 28795,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADZ5kvQGLlKPj9I4DHn9fMr",
+  "snapshot_id": "ZmZCAAAAAACqwbO/nCkOfQBvOED3JTVt",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Variar",
-        "url": "https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Te Perdon\u00e9",
         "url": "https://open.spotify.com/album/77Q8ibYOEtlkhMeS33xatG"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 221848,
       "name": "Ya Te Perdon\u00e9",
       "url": "https://open.spotify.com/track/17J2patkIezB1LxcBbDpDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Variar",
+        "url": "https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 143737,
       "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "Prometo Olvidarte",
-      "url": "https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
       "artists": [
         {
@@ -356,25 +340,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 170253,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ventino",
-        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Volverte a O\u00edr",
-      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
+      "duration_ms": 218656,
+      "name": "Prometo Olvidarte",
+      "url": "https://open.spotify.com/track/5ONHx9f5hz0N0sAa5GCanh"
     },
     {
       "added_at": null,
@@ -395,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ventino",
+        "url": "https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Volverte a O\u00edr",
+      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 154475,
       "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00e1monos Antes",
-        "url": "https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 210406,
-      "name": "V\u00e1monos Antes",
-      "url": "https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 150650,
       "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "V\u00e1monos Antes",
+        "url": "https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 210406,
+      "name": "V\u00e1monos Antes",
+      "url": "https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 216709,
-      "name": "Don Juan",
-      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 158297,
       "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 216709,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
     },
     {
       "added_at": null,

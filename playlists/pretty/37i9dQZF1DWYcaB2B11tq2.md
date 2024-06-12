@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,890 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,994 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 56 | [Cantamos A Él](https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 6:22 |
 | 57 | [No Me Rindo](https://open.spotify.com/track/1LwXAt1bn2VKEkw3u8uoWh) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [No Me Rindo](https://open.spotify.com/album/7uaQNRfTO60L6V8DD0Q77u) | 3:04 |
 | 58 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
-| 59 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
-| 60 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
+| 59 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
+| 60 | [Llegare \(Remastered\) \[feat\. Zeri\]](https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5), [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Vuelve a Soñar \- EP](https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv) | 3:42 |
 | 61 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
 | 62 | [Mi Roca \- Live](https://open.spotify.com/track/5u7yVQIBrav9jqv6aFvmEZ) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 6:51 |
 | 63 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 71 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 72 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 |
 | 73 | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [No Soy Huérfano \(Versión Radio\)](https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t) | 5:21 |
-| 74 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
-| 75 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
+| 74 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
+| 75 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
 
 Snapshot ID: `ZIsOuQAAAAAsrC6TB3E9RfWwZsxhHp5w`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,546 likes - 81 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,555 likes - 81 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
-| 2 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
+| 1 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
+| 2 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
 | 3 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
 | 4 | [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 |
 | 5 | [Rewind](https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rewind](https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P) | 2:21 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 48 | [Sun a Shine](https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv) | [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Sun a Shine](https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3) | 2:52 |
 | 49 | [Totona](https://open.spotify.com/track/3PZ6unz84QLZExL3HEHNnW) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Totona](https://open.spotify.com/album/2Z5CUiR6Irh7MnnOWligNY) | 3:25 |
 | 50 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 51 | [XODÓ](https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD) | [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [XODÓ](https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo) | 2:37 |
-| 52 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
+| 51 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
+| 52 | [XODÓ](https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD) | [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [XODÓ](https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo) | 2:37 |
 | 53 | [RELA](https://open.spotify.com/track/1D0WGWoxhwaeGfxWiRt1sw) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz \| Carita Triste \(Deluxe\)](https://open.spotify.com/album/5Bk9I9wmvglASEK0yJDIqJ) | 2:55 |
 | 54 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
 | 55 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,798 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,836 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 31 | [Bebé](https://open.spotify.com/track/0ulsRBiciReng91DhfVT9D) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:50 |
 | 32 | [Corazón \(feat\. Nego do Borel\)](https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:04 |
 | 33 | [Me Acostumbre \(feat\. Bad Bunny\)](https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Me Acostumbre \(feat\. Bad Bunny\)](https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk) | 4:23 |
-| 34 | [El Amante](https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:39 |
-| 35 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
+| 34 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
+| 35 | [El Amante](https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:39 |
 | 36 | [Perro Fiel \(feat\. Nicky Jam\)](https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
 | 37 | [Síguelo Bailando](https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
 | 38 | [Dembow](https://open.spotify.com/track/2EzRdhuoPyNJDlep7lnNf2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dembow](https://open.spotify.com/album/5kpilAKnaFNV2DX5ewD7x7) | 3:35 |

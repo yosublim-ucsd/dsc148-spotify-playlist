@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417 likes - 142 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 142 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 8 | [Let You Love Me](https://open.spotify.com/track/5Fla3zyOCcIRqrDoKLU0DP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:11 |
 | 9 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
 | 10 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:29 |
-| 11 | [Powerful \(feat\. Ellie Goulding & Tarrus Riley\)](https://open.spotify.com/track/57f3PW19BlMKOWPI5lK3Nw) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Peace Is The Mission](https://open.spotify.com/album/4b6Si351g8brcy6TtHFn13) | 3:26 |
+| 11 | [Powerful \(feat\. Ellie Goulding & Tarrus Riley\)](https://open.spotify.com/track/57f3PW19BlMKOWPI5lK3Nw) | [Major Lazer](https://open.spotify.com/artist/78895QQcLtTagD8auJBHfE), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Peace Is The Mission](https://open.spotify.com/album/4b6Si351g8brcy6TtHFn13) | 3:26 |
 | 12 | [A Different Way \(with Lauv\)](https://open.spotify.com/track/1YMBg7rOjxzbya0fPOYfNX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [A Different Way \(with Lauv\)](https://open.spotify.com/album/4PSoaA9rxBDYfrROdI17b9) | 3:18 |
 | 13 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 14 | [Find U Again \(feat\. Camila Cabello\)](https://open.spotify.com/track/5Uw7Dut2lZfexn3Y09swpf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 2:56 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 141 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
 | 142 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 
-Snapshot ID: `AbTt3gAAAADkQYrobxSWgfFAak/myej7`
+Snapshot ID: `AbTzQgAAAACIgFU2HUTl56b+zdOFUvzl`

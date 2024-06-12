@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15064,
+  "num_followers": 15070,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADP88G2/P3l25wpYLLNPU2L",
+  "snapshot_id": "ZmZCAAAAAAAF1AOumnGaSCeKT3xwi8Qw",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
       "duration_ms": 182099,
       "name": "High Note [Feat. Stax Music Academy]",
       "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": null,
@@ -279,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweetheart 2014",
-        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 111853,
-      "name": "Happy Or Lonesome",
-      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -307,6 +275,22 @@
       "duration_ms": 175960,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweetheart 2014",
+        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 111853,
+      "name": "Happy Or Lonesome",
+      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
     },
     {
       "added_at": null,
@@ -355,22 +339,6 @@
       "duration_ms": 181786,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
     },
     {
       "added_at": null,
@@ -519,38 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goodtime Charlie",
         "url": "https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN"
       },
@@ -567,6 +503,22 @@
       "duration_ms": 207500,
       "name": "The Fact",
       "url": "https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
     },
     {
       "added_at": null,
@@ -607,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 54746,
-      "name": "Stay Meditation",
-      "url": "https://open.spotify.com/track/2dm0jizi5StxHnOWuhub85"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
@@ -639,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 54746,
+      "name": "Stay Meditation",
+      "url": "https://open.spotify.com/track/2dm0jizi5StxHnOWuhub85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
@@ -651,22 +603,6 @@
       "duration_ms": 245066,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY"
     },
     {
       "added_at": null,
@@ -723,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red Hot: A Memphis Celebration of Sun Records",
         "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
       },
@@ -755,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 279106,
-      "name": "Don\u2019t It Make You Want To Go Home",
-      "url": "https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
         "url": "https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK"
       },
@@ -791,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
         "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
       },
@@ -803,6 +755,22 @@
       "duration_ms": 209424,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/4XEJxDDGvxgAAUXJGMWg0h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 192533,
+      "name": "Tennessee Time",
+      "url": "https://open.spotify.com/track/3L2DzPh6UCxtgehSnjSB4s"
     },
     {
       "added_at": null,
@@ -832,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 187880,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
+      "duration_ms": 279106,
+      "name": "Don\u2019t It Make You Want To Go Home",
+      "url": "https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z"
     },
     {
       "added_at": null,
@@ -867,22 +835,6 @@
       "duration_ms": 187653,
       "name": "Twas Twined & Twisted",
       "url": "https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mountain of Rose Quartz",
-        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Rain Dance",
-      "url": "https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs"
     }
   ],
   "unique_name": "This Is Valerie June",

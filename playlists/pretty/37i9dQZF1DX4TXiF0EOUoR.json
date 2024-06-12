@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 191948,
+  "num_followers": 192108,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Homenaje a un Grande",
-        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
       },
       "artists": [
         {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
         }
       ],
-      "duration_ms": 167133,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+        "name": "Homenaje a un Grande",
+        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
         }
       ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+      "duration_ms": 167133,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
-        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Los Mayeles - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Pal Rancho 100% Chicoteadas",
         "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 211121,
       "name": "Rumbo A La Canada",
       "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "Las Huiliotas",
+      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
+        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
       "artists": [
         {
-          "name": "Conjunto Nube",
-          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Las Huiliotas",
-      "url": "https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI"
+      "duration_ms": 192989,
+      "name": "Los Mayeles - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
+        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz De La Candelaria",
+          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
+        }
+      ],
+      "duration_ms": 274038,
+      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
+      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "El Rezado (En Vivo)",
         "url": "https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 261897,
       "name": "El Rezado - En Vivo",
       "url": "https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
-        "name": "Nuevos Rumbos - La Herencia del Rey (En Vivo)",
-        "url": "https://open.spotify.com/album/49u2pFJJZqCxQAgwxFNyLZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz De La Candelaria",
-          "url": "https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr"
-        }
-      ],
-      "duration_ms": 274038,
-      "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
-      "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
         "name": "Puras Pa' Trapear",
         "url": "https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 309253,
       "name": "Huapangos Perros",
       "url": "https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Pa' Las De Vidrio \"En Vivo\"",
-        "url": "https://open.spotify.com/album/1jjKI7TJ6tayi5eSX85xwe"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 192773,
-      "name": "La Gitanilla",
-      "url": "https://open.spotify.com/track/0lWqEEFGfBgiiLJPqIArjE"
+      "duration_ms": 228502,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/6ud1Szdym1QRhURpEyr55A"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea"
+        "name": "Pa' Las De Vidrio \"En Vivo\"",
+        "url": "https://open.spotify.com/album/1jjKI7TJ6tayi5eSX85xwe"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 228502,
-      "name": "Los Viejitos",
-      "url": "https://open.spotify.com/track/6ud1Szdym1QRhURpEyr55A"
+      "duration_ms": 192773,
+      "name": "La Gitanilla",
+      "url": "https://open.spotify.com/track/0lWqEEFGfBgiiLJPqIArjE"
     },
     {
       "added_at": "2024-03-19 20:01:44",

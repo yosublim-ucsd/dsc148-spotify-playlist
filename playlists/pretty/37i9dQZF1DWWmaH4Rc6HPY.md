@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Y regresaron las guitarras! José Madero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,768 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,782 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 10 | [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 |
 | 11 | [Diamantes](https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Diamantes](https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8) | 4:03 |
 | 12 | [Once](https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Once](https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8) | 4:58 |
-| 13 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
+| 13 | [YO VISTO ASÍ](https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:11 |
 | 14 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
-| 15 | [YO VISTO ASÍ](https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:11 |
+| 15 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
 | 16 | [Miel en la Sal](https://open.spotify.com/track/0s2PNPkPCsE4zfc2qmz0Ok) | [Laila Índigo](https://open.spotify.com/artist/46kbVlGAx6QtyatU9Zg0Zl) | [Miel en la Sal](https://open.spotify.com/album/5EBNIa5r624jNyxlY2GR1w) | 4:22 |
 | 17 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 |
 | 18 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 |
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 37 | [Que Somos \- Remix](https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Que Somos \(Remix\)](https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ) | 3:05 |
 | 38 | [playaplaya](https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [playaplaya](https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ) | 2:45 |
 | 39 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |
-| 40 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 |
-| 41 | [Elemento Noches De Salón \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento Noches De Salón](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
+| 40 | [Elemento Noches De Salón \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento Noches De Salón](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
+| 41 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 |
 | 42 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 |
 | 43 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 |
-| 44 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
-| 45 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 44 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 |
+| 45 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 46 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
 | 47 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 48 | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f) | 3:20 |

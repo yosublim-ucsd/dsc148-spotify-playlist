@@ -4,7 +4,7 @@
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-225 songs - 10 hr 41 min
+230 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [528 Hz \- Tides of Eternity](https://open.spotify.com/track/61Lty0qrAURZPYhiEONE3X) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Tides of Eternity](https://open.spotify.com/album/6WgkixEENAU8DXDGjquVRo) | 2:18 | 2023-02-08 |  |
 | [528 Hz \- Transformational Thoughts](https://open.spotify.com/track/0iq2UZSDbU9Pydhg9T1llq) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Transformational Thoughts](https://open.spotify.com/album/2RtnBSSV76vAhW7FyoDlDy) | 2:51 | 2023-04-06 |  |
 | [528 Hz \- Why The Rush](https://open.spotify.com/track/1mTiTdeoUoB3kXEqv2aXNH) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
+| [528 Hz Ancient Wisdom](https://open.spotify.com/track/58Ap6hWC34NP3BVf3GtzOm) | [Infinite Imagination](https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv) | [528 Hz Ancient Wisdom](https://open.spotify.com/album/7qEknQBiOT4SkKkuiU7AxC) | 2:11 | 2024-06-11 |  |
 | [528 Hz Angelic Morning](https://open.spotify.com/track/3rPXQBQQ8LazrVuOI0X7d6) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 3](https://open.spotify.com/album/3dbNlAIfcmieBOZrhoI2Ll) | 2:52 | 2023-02-08 |  |
 | [528 Hz Attraction](https://open.spotify.com/track/0EblUtAgbOQioTjgXwXpaA) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [528 Hz Attraction](https://open.spotify.com/album/7KfpqcKOQUX7eNibW2p2Qr) | 2:31 | 2024-05-11 |  |
 | [528 Hz Awake Positive Energy](https://open.spotify.com/track/0j6osiLzT4ehk46pDzvx9O) | [Arnaut](https://open.spotify.com/artist/0U9aA1N7gWqV5g3lfqTrld) | [Awake Positive Energy](https://open.spotify.com/album/0fhDnVjr9t0DQMgPsFm9JY) | 2:33 | 2023-07-11 |  |
@@ -47,6 +48,7 @@
 | [528 Hz Concentration](https://open.spotify.com/track/5V9e3c5xa0oFHWccONeuqJ) | [Nova Hz](https://open.spotify.com/artist/64u2kTvOnLTB0pLf9Lc45Y) | [528 Hz Concentration](https://open.spotify.com/album/4VwIN2C6nTBepf0Cr8p9so) | 3:28 | 2024-04-07 |  |
 | [528 Hz Continuous Sleep](https://open.spotify.com/track/7lmkOvO66o3N0iQI1bY6eT) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [432 & 528 Hz Intuition](https://open.spotify.com/album/2AamrEPNMZkmMknDSYlgMm) | 3:03 | 2023-03-13 |  |
 | [528 Hz Deep Rain.](https://open.spotify.com/track/2adVXaEzFP0DeDlHWslzAg) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [528 Hz Deep Rain.](https://open.spotify.com/album/0NlyM5XLn1ySNnRJnHZ198) | 2:41 | 2023-09-28 |  |
+| [528 Hz Divine Energy](https://open.spotify.com/track/2seZdf0u3tyffFeB3g2PLn) | [Solfonia Dreamweaver](https://open.spotify.com/artist/4FlIVXufr8qUuH3LjiJA5f) | [528 Hz Divine Energy](https://open.spotify.com/album/5oPSsPk3l64z8Jenf4THkp) | 2:55 | 2024-06-11 |  |
 | [528 Hz DNA Repair](https://open.spotify.com/track/3orHWYTBLSAnTqFf1yLcXv) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [528 Hz DNA Repair](https://open.spotify.com/album/7eGZ63j2ZjTys2jwD9OSsh) | 3:24 | 2024-03-13 |  |
 | [528 Hz DNA Repair](https://open.spotify.com/track/2oUbRBvpvb7iyvyMcBrsjG) | [Solfeggio Frequencies for Meditation](https://open.spotify.com/artist/5WkGVH2I9VFYiicvzevCuh) | [528 Hz Clarity, Peace and DNA Repair](https://open.spotify.com/album/5ohhnuyB8pdNRUsyl52ZS1) | 2:46 | 2023-02-08 |  |
 | [528 Hz Dormir](https://open.spotify.com/track/5xAzGzdCDsJOa7xx4jaElk) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:07 | 2023-03-13 |  |
@@ -54,6 +56,7 @@
 | [528 Hz Dream Waves](https://open.spotify.com/track/33EnVud0g9HtnKH9SBc3Q0) | [Elevated Waves](https://open.spotify.com/artist/0CLGXphAxygjR7w7ZsRo25) | [528 Hz Dream Waves](https://open.spotify.com/album/4xBQ0eSeXS1Qn02HqOmA9S) | 2:45 | 2024-05-11 |  |
 | [528 Hz Dreamcatcher](https://open.spotify.com/track/6eK3jG6GSyrNhw7Jygqhr9) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 2](https://open.spotify.com/album/1uj6dsHDIMZKKHaEfQmyta) | 2:57 | 2023-02-08 |  |
 | [528 Hz Dreaming](https://open.spotify.com/track/03ZyHNqFcZF8aiW4QvUM5K) | [Shiroishi](https://open.spotify.com/artist/2fTvBtxiW8RC5E2ns1AmZC) | [528 Hz Dreaming](https://open.spotify.com/album/0PzmVcnQ8iM7GCjRF4Yjhs) | 1:42 | 2023-02-08 | 2024-03-14 |
+| [528 Hz Drifting Away](https://open.spotify.com/track/5Zr2FYd3qTcrHd47AWVpfv) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [528 Hz Drifting Away](https://open.spotify.com/album/4zWF35wVHC11bW4XfdTuNn) | 2:37 | 2024-06-11 |  |
 | [528 Hz Emotional Moment](https://open.spotify.com/track/1bMyilHM8iUR8GB37c6hCv) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 1](https://open.spotify.com/album/35JMHwBhv21ehQgncjx2S4) | 2:55 | 2023-02-08 |  |
 | [528 Hz Endless Space](https://open.spotify.com/track/3K7PdooNAr7jbLBoG5MFDr) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [528 Hz Endless Space](https://open.spotify.com/album/438A16Lf4OdYXAoktf6CYS) | 3:32 | 2023-09-19 |  |
 | [528 Hz Ethereal Wavelengths](https://open.spotify.com/track/0IYdJWqE3sZ0joQRolqwJb) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528 Hz Ethereal Wavelengths](https://open.spotify.com/album/41RMfX1OGZLfG820A7Wvz6) | 3:00 | 2023-11-30 |  |
@@ -102,6 +105,7 @@
 | [528 Hz Transformation](https://open.spotify.com/track/02BHKQwteyDH1IAgNVPtNA) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Transformation](https://open.spotify.com/album/1RGxjNfpCusA6aeLYbKyMP) | 3:44 | 2023-02-08 |  |
 | [528 Hz Unwind](https://open.spotify.com/track/2jAN5JtHDee04xSSa1S7zD) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [528 Hz Unwind](https://open.spotify.com/album/3xKh4EeshNR53eymtWGdpU) | 2:33 | 2024-05-11 |  |
 | [528 Hz Well Being](https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [528 Hz Well Being](https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp) | 3:01 | 2023-02-08 |  |
+| [528 Hz Wonderworking](https://open.spotify.com/track/7DLTQ66Pk4KpLxtgCQOUvT) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [528 Hz Wonderworking](https://open.spotify.com/album/5j2d0H6KkxZUh3WDYCXWsc) | 3:02 | 2024-06-11 |  |
 | [528 Hz Énergie](https://open.spotify.com/track/1FsTGUwDxMJKUNkR71JyNt) | [Mind Matters](https://open.spotify.com/artist/266MOuapHVsPkInxTMC8wO) | [528 Hz Énergie](https://open.spotify.com/album/5LRTfBAHGGdOBCTOFygFVJ) | 3:00 | 2023-02-08 | 2023-12-01 |
 | [528 Hz – Delta](https://open.spotify.com/track/2aO8jdjLcUEv7yfEdjdpGL) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [528 Hz – Delta](https://open.spotify.com/album/2eVww2WQchoorYqZJVwHEM) | 2:09 | 2023-04-06 |  |
 | [528 Hz – Transformation and Miracles](https://open.spotify.com/track/3MXGM825MDWkbb5fFaIqVv) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [528 Hz – Transformation and Miracles](https://open.spotify.com/album/4v5ABlOSpf8UwLeOQXlPqn) | 3:04 | 2023-02-08 |  |
@@ -229,6 +233,7 @@
 | [Tracing Tranquility 528 Hz](https://open.spotify.com/track/3lsgIHRIHYUCRNtNkeTLr4) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Tracing Tranquility 528 Hz](https://open.spotify.com/album/5LFpZHlEBdrF21T31xT9xO) | 3:27 | 2024-05-11 |  |
 | [Tranquility 528 Hz](https://open.spotify.com/track/2YJHtTpLG1ZTspR5PD5vPu) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Tranquility 528 Hz](https://open.spotify.com/album/5Qv8ulSJC0Z5ZwpkVVK1IZ) | 2:46 | 2023-09-28 |  |
 | [Tranquility 528 Hz](https://open.spotify.com/track/6fRVsZTr38TxNhjGshiGK6) | [Mateo Stewart](https://open.spotify.com/artist/6wSpDuNcItpeFJNm9vSFD7) | [Tranquility 528 Hz](https://open.spotify.com/album/0fP27VZnTaF2UaYh28Dm5O) | 2:38 | 2023-11-30 |  |
+| [Traveler \- 528hz](https://open.spotify.com/track/0I2kOQX4Ze1muap28CqOWA) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Traveler \- 528hz](https://open.spotify.com/album/4Gcs60XMhnd2YrPrnnwETs) | 3:37 | 2024-06-11 |  |
 | [Trippertronics 528 Hz](https://open.spotify.com/track/7qmlDL2e8N8HyNmqfg4AoH) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 2:56 | 2023-11-30 |  |
 | [unwinding mind 528 Hz](https://open.spotify.com/track/4ygQzLDawyji6Q0VxhQDfV) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 | 2023-02-08 |  |
 | [Very Gentle 528 Hz](https://open.spotify.com/track/36lK0alPIzF9mV22hNkCIL) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [528 Hz Sleep & Relaxation](https://open.spotify.com/album/4qaU7LnjZmjwmwF3ar9p4U) | 3:05 | 2023-04-06 |  |

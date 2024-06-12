@@ -1550,10 +1550,28 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 168800,
       "name": "Te Ves Bien Buena",
       "url": "https://open.spotify.com/track/1EuYHwXDrj771cIMKEHIzU"
+    },
+    {
+      "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Te Ves Bien Buena",
+      "url": "https://open.spotify.com/track/4W7B6AkTQ6CJSXTojwfMoY"
     },
     {
       "album": {

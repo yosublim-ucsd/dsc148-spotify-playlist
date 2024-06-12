@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 932016,
+  "num_followers": 932054,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,22 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
       "artists": [
         {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
+      "duration_ms": 154838,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
     },
     {
       "added_at": "2024-06-07 16:16:15",
@@ -519,22 +523,18 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
-        "name": "Left & Right",
-        "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Left & Right",
-      "url": "https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle"
+      "duration_ms": 206250,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
     },
     {
       "added_at": "2024-06-07 16:16:15",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
-    },
-    {
-      "added_at": "2024-06-07 16:16:15",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
+    },
+    {
+      "added_at": "2024-06-07 16:16:15",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-06-07 16:16:15",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2024-06-07 16:16:15",
+      "album": {
         "name": "Outer Space",
         "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+        "name": "Eye To Eye",
+        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+      "duration_ms": 155002,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
     },
     {
       "added_at": "2024-06-07 16:16:15",
@@ -1395,22 +1411,6 @@
       "duration_ms": 209523,
       "name": "Goodies - Knock2 Remix",
       "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
-    },
-    {
-      "added_at": "2024-06-07 16:16:15",
-      "album": {
-        "name": "Eye To Eye",
-        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        }
-      ],
-      "duration_ms": 155002,
-      "name": "Eye To Eye",
-      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
     },
     {
       "added_at": "2024-06-07 16:16:15",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/2PGry3FEMPn9VBFcr6FODv"
-      },
-      "artists": [
-        {
-          "name": "Landis",
-          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/0TCa6Fxfk2eht9jKeeqfiq"
-    },
-    {
-      "added_at": "2024-06-07 16:16:15",
-      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1679,58 +1663,18 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/2PGry3FEMPn9VBFcr6FODv"
       },
       "artists": [
         {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
         }
       ],
-      "duration_ms": 181934,
-      "name": "Anywhere You Go",
-      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
-    },
-    {
-      "added_at": "2024-06-07 16:16:15",
-      "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/59QXS5Z11bRhJOHGVoCNGm"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/5xgWuXVvSZfRh71fa0L4fM"
-    },
-    {
-      "added_at": "2024-06-07 16:16:15",
-      "album": {
-        "name": "On My Line",
-        "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 202462,
-      "name": "On My Line",
-      "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
+      "duration_ms": 176190,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/0TCa6Fxfk2eht9jKeeqfiq"
     },
     {
       "added_at": "2024-06-07 16:16:15",
@@ -1755,6 +1699,62 @@
       "duration_ms": 166399,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg"
+    },
+    {
+      "added_at": "2024-06-07 16:16:15",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/59QXS5Z11bRhJOHGVoCNGm"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/5xgWuXVvSZfRh71fa0L4fM"
+    },
+    {
+      "added_at": "2024-06-07 16:16:15",
+      "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 181934,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
+    },
+    {
+      "added_at": "2024-06-07 16:16:15",
+      "album": {
+        "name": "On My Line",
+        "url": "https://open.spotify.com/album/63hVrszqSChih5vJ18lquM"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 202462,
+      "name": "On My Line",
+      "url": "https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv"
     },
     {
       "added_at": "2024-06-07 16:16:15",
@@ -1895,30 +1895,6 @@
     {
       "added_at": "2024-06-07 16:16:15",
       "album": {
-        "name": "U & Me (Vincent Remix)",
-        "url": "https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Vincent",
-          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
-        }
-      ],
-      "duration_ms": 238806,
-      "name": "U & Me - Vincent Remix",
-      "url": "https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H"
-    },
-    {
-      "added_at": "2024-06-07 16:16:15",
-      "album": {
         "name": "TikTak",
         "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
       },
@@ -1939,6 +1915,30 @@
       "duration_ms": 137204,
       "name": "TikTak",
       "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
+    },
+    {
+      "added_at": "2024-06-07 16:16:15",
+      "album": {
+        "name": "U & Me (Vincent Remix)",
+        "url": "https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        }
+      ],
+      "duration_ms": 238806,
+      "name": "U & Me - Vincent Remix",
+      "url": "https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H"
     }
   ],
   "unique_name": "Shuffle Syndrome",

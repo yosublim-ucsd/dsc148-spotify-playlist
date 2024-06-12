@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Between Heaven And Hell",
+        "url": "https://open.spotify.com/album/7oiyhEtOQSmzqIhq2IZeVd"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226096,
+      "name": "Between Heaven And Hell",
+      "url": "https://open.spotify.com/track/0ZvpuSbOQGD3S3gsjoAPvS"
+    },
+    {
+      "album": {
         "name": "can't",
         "url": "https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 227489,
       "name": "Go Back \uc9d1\uc5d0",
       "url": "https://open.spotify.com/track/1PpbY7tb1bcMPMfbACTHDG"
@@ -2220,10 +2238,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
+    },
+    {
+      "album": {
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/3tbPMwbvOLWBwQ9XN7j9Yb"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213813,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/1JFymIwM3Hc9cKHxP2BCBl"
     },
     {
       "album": {
@@ -3165,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Hierarchy (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214334,
+      "name": "RAINY DAYS",
+      "url": "https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny"
+    },
+    {
+      "album": {
         "name": "No movie series : A bar with emotions OST",
         "url": "https://open.spotify.com/album/1H8366LTpwjsZxJoxZY25J"
       },
@@ -4012,7 +4066,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 270663,
       "name": "True Song",
       "url": "https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW"

@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 266979,
+  "num_followers": 267107,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 208960,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -388,57 +404,9 @@
           "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 263760,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
       "duration_ms": 208106,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
-        "name": "John Michael Montgomery",
-        "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Sold (The Grundy County Auction Incident)",
-      "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -455,6 +423,22 @@
       "duration_ms": 228186,
       "name": "Would You Go With Me",
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "John Michael Montgomery",
+        "url": "https://open.spotify.com/album/5UPjyfi3zD7Oak7frjH8zk"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Sold (The Grundy County Auction Incident)",
+      "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -495,6 +479,22 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+      "duration_ms": 263760,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Damn Country Music",
-        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 259266,
-      "name": "Humble And Kind",
-      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 223832,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Damn Country Music",
+        "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Humble And Kind",
+      "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
       "added_at": "2024-06-01 02:04:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-06-01 02:04:50",
       "album": {
-        "name": "Be Here",
-        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 224629,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
-    },
-    {
-      "added_at": "2024-06-01 02:04:50",
-      "album": {
         "name": "One Piece At A Time",
         "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 246440,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2024-06-01 02:04:50",
+      "album": {
+        "name": "Be Here",
+        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224629,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
     }
   ],
   "unique_name": "Raised on Country",

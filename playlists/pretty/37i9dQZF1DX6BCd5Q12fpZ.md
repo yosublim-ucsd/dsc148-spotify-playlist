@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,263 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,259 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 56 | [When Spirits Are Calling My Name](https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [When Spirits Are Calling My Name](https://open.spotify.com/album/693Gbb2KTlzHgFcgpdNjS7) | 3:02 |
 | 57 | [Where Are You](https://open.spotify.com/track/1GrTNrHkL2WlK1rNp7OBs8) | [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Classic Dance Essentials](https://open.spotify.com/album/0Accg6wst7dQsa1nT4fxvf) | 3:14 |
 | 58 | [Is It Right](https://open.spotify.com/track/4BxMRmdcUYW1sBHc1Nv9jo) | [Elaiza](https://open.spotify.com/artist/3p45HHDBKyxCDJeOnOWuSo) | [Is It Right / Fight Against Myself](https://open.spotify.com/album/4ogKZm7zO6URn3a3EVNd8U) | 3:54 |
-| 59 | [We Are the Winners \- Original Version](https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02) | [LT United](https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4) | [We Are the Winners](https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9) | 2:31 |
-| 60 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
+| 59 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
+| 60 | [We Are the Winners \- Original Version](https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02) | [LT United](https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4) | [We Are the Winners](https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9) | 2:31 |
 | 61 | [Invincible](https://open.spotify.com/track/2eGkOAOi972MzM5optdlT7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:00 |
 | 62 | [Moustache](https://open.spotify.com/track/3XiEknHgHpwCuk3CuA2RIV) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Moustache \(Eurovision 2014\)](https://open.spotify.com/album/6AMLDrreLMmEvFYPUbBHh7) | 2:49 |
 | 63 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |

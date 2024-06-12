@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "GABI",
+        "url": "https://open.spotify.com/album/2I1NA7u5rWcPRQQDvsO3GH"
+      },
+      "artists": [
+        {
+          "name": "tepe",
+          "url": "https://open.spotify.com/artist/2Dc4S00e5Toq28b7HT9VOu"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150394,
+      "name": "GABI",
+      "url": "https://open.spotify.com/track/6r9z4yBRGcmw3hEpQaWbzN"
+    },
+    {
+      "album": {
         "name": "God Gacha",
         "url": "https://open.spotify.com/album/5o2joHGQzQRczS9sWigg8I"
       },
@@ -769,6 +787,24 @@
     },
     {
       "album": {
+        "name": "I'm under your spell",
+        "url": "https://open.spotify.com/album/75RbERMYdzNZ6OdM3QTY5j"
+      },
+      "artists": [
+        {
+          "name": "SPACELECTRO",
+          "url": "https://open.spotify.com/artist/3zrzB7L77L7Fl7ec20Ahsy"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "Mojito(\u3082\u3072\u30fc\u3068)",
+      "url": "https://open.spotify.com/track/1JKYvYLIRRSaOUbE7uEl22"
+    },
+    {
+      "album": {
         "name": "Dazzling Star 2",
         "url": "https://open.spotify.com/album/38osTSAjKKC1zdlNfO25O0"
       },
@@ -860,6 +896,46 @@
       "duration_ms": 290002,
       "name": "OVER LIT (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/7zjV95cZjBPARW2snSaLVr"
+    },
+    {
+      "album": {
+        "name": "Hope Sound",
+        "url": "https://open.spotify.com/album/3GGiOnxf5GYYCCqPSSsspz"
+      },
+      "artists": [
+        {
+          "name": "tilt-six",
+          "url": "https://open.spotify.com/artist/2HUBzrfmf4OFDRjxaCfwbs"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "pray feat.HATSUNE MIKU",
+      "url": "https://open.spotify.com/track/2VYbUINwqqn47Yq0Nm1Kjz"
+    },
+    {
+      "album": {
+        "name": "ReUnion",
+        "url": "https://open.spotify.com/album/6SrHm3MvmahTeHAJ20DRDv"
+      },
+      "artists": [
+        {
+          "name": "UtopiaLyric",
+          "url": "https://open.spotify.com/artist/51gCPcdwzpdNCoD1k65iFr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234312,
+      "name": "ReUnion (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/46jeq6z4KOXA7b2ixQWCJz"
     },
     {
       "album": {
@@ -958,7 +1034,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 153372,
       "name": "Second Wind (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/7JvW9yerRe2tcVSymrKnVT"
@@ -1176,7 +1252,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 263618,
       "name": "Summer Driver feat. \u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/2FGelEUGERGXQtarGLgEnn"
@@ -1282,6 +1358,32 @@
       "duration_ms": 148800,
       "name": "UNDERWATER feat,\u521d\u97f3\u30df\u30af(Colour Bass VIP) (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0DdHQvB0z0H6J5WRRObPfJ"
+    },
+    {
+      "album": {
+        "name": "Used to it",
+        "url": "https://open.spotify.com/album/0JAofa2RYiluzG4kQ4k4xr"
+      },
+      "artists": [
+        {
+          "name": "okameP",
+          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
+        },
+        {
+          "name": "MAI",
+          "url": "https://open.spotify.com/artist/0HlTcy9czaATTBerfsVICJ"
+        },
+        {
+          "name": "\u590f\u8272\u82b1\u68a8",
+          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Used to it (feat. Mai&\u590f\u8272\u82b1\u68a8)",
+      "url": "https://open.spotify.com/track/7J4t9pdLJ2oSokm4nTv9f9"
     },
     {
       "album": {
@@ -1614,7 +1716,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 234226,
       "name": "\u30af\u30fc\u30ed\u30f3\u30ba\u30fb\u30db\u30c6\u30eb",
       "url": "https://open.spotify.com/track/2wywYTwBYiB8C6H8x3zg4C"
@@ -2180,7 +2282,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 141840,
       "name": "\u4eba\u58f0\u9769\u547d (feat. KAITO)",
       "url": "https://open.spotify.com/track/7w4INbX7c3xjCZuT2LPE4R"
@@ -2390,7 +2492,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 158578,
       "name": "\u6a21\u7bc4\u89e3\u7b54\u5b9f\u9a13\u5ba4 (feat. \u53ef\u4e0d&\u6b4c\u611b\u30e6\u30ad&\u30ca\u30fc\u30b9\u30ed\u30dc\uff3f\u30bf\u30a4\u30d7\uff34\uff08VOICEVOX\uff09)",
       "url": "https://open.spotify.com/track/4XOc2IBWyzvM3UzhlZaT3Y"

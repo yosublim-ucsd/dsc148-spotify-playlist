@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkDKBCuNQzB.md) - [plain](/playlists/plain/37i9dQZF1DWZkDKBCuNQzB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZkDKBCuNQzB)
 
-### [Poder Feminino](https://open.spotify.com/playlist/37i9dQZF1DWZkDKBCuNQzB)
+### [Poder Femenino](https://open.spotify.com/playlist/37i9dQZF1DWZkDKBCuNQzB)
 
 > Canciones de mujeres fuertes y increíbles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,916 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,925 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkDKBCuNQzB.md) - [plain]
 | 46 | [Waiting for Tonight](https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:06 |
 | 47 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 
-Snapshot ID: `ZIsOOwAAAAD3075W78ow7DtfutrmEkzH`
+Snapshot ID: `ZmiWTQAAAABxEzbb39iOuKj6QN8bibtF`

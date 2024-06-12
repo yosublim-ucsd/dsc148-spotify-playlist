@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296548,
+  "num_followers": 296529,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,6 @@
     {
       "added_at": "2024-05-27 19:56:52",
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 174067,
-      "name": "Monsters (feat. blackbear)",
-      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2024-05-27 19:56:52",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2024-05-27 19:56:52",
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 174067,
+      "name": "Monsters (feat. blackbear)",
+      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
     },
     {
       "added_at": "2024-05-27 19:56:52",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-05-27 19:56:52",
       "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Jamie All Over",
-      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2024-05-27 19:56:52",
-      "album": {
         "name": "Seal The Deal & Let's Boogie (Deluxe)",
         "url": "https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y"
+    },
+    {
+      "added_at": "2024-05-27 19:56:52",
+      "album": {
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Jamie All Over",
+      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
     },
     {
       "added_at": "2024-05-27 19:56:52",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-27 19:56:52",
       "album": {
-        "name": "S!CK",
-        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 192734,
-      "name": "S!CK",
-      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
-    },
-    {
-      "added_at": "2024-05-27 19:56:52",
-      "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 274403,
       "name": "wonderful life (feat. Dani Filth)",
       "url": "https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq"
+    },
+    {
+      "added_at": "2024-05-27 19:56:52",
+      "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
     },
     {
       "added_at": "2024-05-27 19:56:52",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-05-27 19:56:52",
       "album": {
-        "name": "Someone's Gonna Die Tonight",
-        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 202169,
-      "name": "Someone's Gonna Die Tonight",
-      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
-    },
-    {
-      "added_at": "2024-05-27 19:56:52",
-      "album": {
         "name": "What Does Your Soul Look Like",
         "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 204499,
       "name": "Parallax Error",
       "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
+    },
+    {
+      "added_at": "2024-05-27 19:56:52",
+      "album": {
+        "name": "Someone's Gonna Die Tonight",
+        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 202169,
+      "name": "Someone's Gonna Die Tonight",
+      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
     },
     {
       "added_at": "2024-05-27 19:56:52",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-05-27 19:56:52",
       "album": {
-        "name": "Fail You",
-        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "Fail You",
-      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
-    },
-    {
-      "added_at": "2024-05-27 19:56:52",
-      "album": {
         "name": "Cheap Grills",
         "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 233146,
       "name": "California King",
       "url": "https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5"
+    },
+    {
+      "added_at": "2024-05-27 19:56:52",
+      "album": {
+        "name": "Fail You",
+        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
     },
     {
       "added_at": "2024-05-27 19:56:52",

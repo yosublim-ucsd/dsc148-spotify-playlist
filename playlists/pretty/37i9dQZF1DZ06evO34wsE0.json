@@ -1,12 +1,12 @@
 {
-  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 240788,
+  "description": "This Is Shania Twain. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 240805,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADuAKKjYGlLTjR/lK8Qc6t5",
+  "snapshot_id": "ZmZCAAAAAACxQmqKq1RbUoaRwWnLh9vx",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up! (Green Version)",
         "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "You Win My Love",
-      "url": "https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over (Diamond Edition / Super Deluxe)",
         "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 239085,
       "name": "That Don't Impress Me Much - International Mix",
       "url": "https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "You Win My Love",
+      "url": "https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK"
     },
     {
       "added_at": null,
@@ -207,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 214863,
+      "name": "Honey, I'm Home",
+      "url": "https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
@@ -223,22 +255,6 @@
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 214863,
-      "name": "Honey, I'm Home",
-      "url": "https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh"
     },
     {
       "added_at": null,
@@ -275,22 +291,6 @@
       "duration_ms": 259739,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "(If You're Not In It For Love) I'm Outta Here!",
-      "url": "https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Claw",
+        "url": "https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 206321,
+      "name": "White Claw",
+      "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Now (Deluxe)",
         "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 248213,
       "name": "When You Kiss Me - Red Version",
       "url": "https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Claw",
-        "url": "https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 206321,
-      "name": "White Claw",
-      "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "She's Not Just A Pretty Face - Red Version",
+      "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 220040,
       "name": "If It Don't Take Two",
       "url": "https://open.spotify.com/track/55lqPo4yhu3RBUaxkS6hPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 101600,
-      "name": "Amneris' Letter",
-      "url": "https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz"
     }
   ],
   "unique_name": "This Is Shania Twain",

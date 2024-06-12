@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 111981,
+  "num_followers": 112003,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+      },
+      "artists": [
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Espejismo - En Vivo",
+      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 249742,
       "name": "Kil\u00f3metros - En Vivo",
       "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Espejismo - En Vivo",
-      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "En Vivo-Vol.2",
-        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Me Puedo Programar (En Vivo",
-      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Otra Noche en la Luna (Episodio I)",
         "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 331453,
       "name": "Sacrificio y Rock and Roll",
       "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "En Vivo-Vol.2",
+        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Me Puedo Programar (En Vivo",
+      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1059,6 +1059,22 @@
       "duration_ms": 246023,
       "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
       "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Se Fue al Cielo (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 230528,
+      "name": "Se Fue al Cielo - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1095,6 +1111,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
       },
@@ -1119,38 +1151,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Se Fue al Cielo (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 230528,
-      "name": "Se Fue al Cielo - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Vivire Viajando",
         "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Demonio Paraguayo (En Vivo)",
         "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
       },
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "La Fuente (Vivo en Obras 11/06/2022)",
+        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 251434,
+      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
+      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 251296,
       "name": "M\u00fasica Del Alma - En Vivo",
       "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "La Fuente (Vivo en Obras 11/06/2022)",
-        "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 251434,
-      "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
-      "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
     },
     {
       "added_at": "2024-06-07 03:00:00",

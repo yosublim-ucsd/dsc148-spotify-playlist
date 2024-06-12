@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,042 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,089 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 40 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
 | 41 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 42 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
-| 43 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
-| 44 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
+| 43 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
+| 44 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
 | 45 | [Gunfight](https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Connect](https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi) | 2:55 |
 | 46 | [Rats](https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:21 |
 | 47 | [Black Lungs](https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 63 | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/album/1VbvHqARu0WjoXRiF2yak7) | 3:02 |
 | 64 | [She's A Blast](https://open.spotify.com/track/428x14AvuMoTmmO6pBeozu) | [Beautiful Bodies](https://open.spotify.com/artist/1L5Wcid8qi4K85Ynq7mLaZ) | [Battles](https://open.spotify.com/album/7mYRLbEp6R5P5iYadPENUy) | 2:47 |
 | 65 | [Killing Time](https://open.spotify.com/track/0GMymbP7AQkxEt5nq20BfZ) | [Doom Unit](https://open.spotify.com/artist/4qb82fknNpR3TQGbpmhMxC) | [Cross The Line](https://open.spotify.com/album/1s8DrerI7Ios2Wre9V4z0V) | 3:57 |
-| 66 | [Raven's Flight](https://open.spotify.com/track/6MUxFq07nqKi16xJ56CLZW) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Raven's Flight](https://open.spotify.com/album/1BegkvFXzbtzefGeFq0gH0) | 5:20 |
-| 67 | [Run Run Run](https://open.spotify.com/track/144fBZWn4968hszzQkXV9q) | [Black Paisley](https://open.spotify.com/artist/6mGp1hXgz27GRQOkHD8d5m) | [Late Bloomer](https://open.spotify.com/album/6ArbLISzajVrvRQ95O25il) | 4:30 |
+| 66 | [Run Run Run](https://open.spotify.com/track/144fBZWn4968hszzQkXV9q) | [Black Paisley](https://open.spotify.com/artist/6mGp1hXgz27GRQOkHD8d5m) | [Late Bloomer](https://open.spotify.com/album/6ArbLISzajVrvRQ95O25il) | 4:30 |
+| 67 | [Raven's Flight](https://open.spotify.com/track/6MUxFq07nqKi16xJ56CLZW) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Raven's Flight](https://open.spotify.com/album/1BegkvFXzbtzefGeFq0gH0) | 5:20 |
 | 68 | [Trouble](https://open.spotify.com/track/4xlxojOaZyOQi7P8ig1BvH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Trouble](https://open.spotify.com/album/4vNOIupUcx5xCsGgbBImRp) | 3:12 |
 | 69 | [Untouched](https://open.spotify.com/track/5HZOQLjnUJkqcOdLZomiIo) | [The Local Band](https://open.spotify.com/artist/48Na4uSLjGeKvx2AUSDmKZ) | [Locals Only \- Dark Edition](https://open.spotify.com/album/2IdQFKiNoDMDlcU9NUmJYu) | 4:11 |
 | 70 | [Cannot Be Judged](https://open.spotify.com/track/2KxLX1zzJ6A2tgYgqdKRvh) | [Full House Brew Crew](https://open.spotify.com/artist/3KUdRZ13QmXU2FHZZFL6aL) | [Me Against You](https://open.spotify.com/album/5bzSu7IkGapeqXlXB2MgC6) | 3:37 |

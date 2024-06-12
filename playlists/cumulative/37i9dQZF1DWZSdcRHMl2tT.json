@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/6MdF9O3MvJGIMzL5aCHn09"
+      },
+      "artists": [
+        {
+          "name": "Spatio",
+          "url": "https://open.spotify.com/artist/4ntVg1aVogzSRvWgdejgRH"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137222,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6qGSRmZ9Z8F5AXIARsWmFp"
+    },
+    {
+      "album": {
         "name": "Andlegur",
         "url": "https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u"
       },
@@ -344,6 +362,24 @@
       "duration_ms": 164265,
       "name": "Ap\u00e9ritif",
       "url": "https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo"
+    },
+    {
+      "album": {
+        "name": "At the top",
+        "url": "https://open.spotify.com/album/0d1z0qt8dzYyaOwbbzgN1I"
+      },
+      "artists": [
+        {
+          "name": "Mechagnome",
+          "url": "https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174424,
+      "name": "At the top",
+      "url": "https://open.spotify.com/track/1vtF91aXPgNZM9zNquwyOs"
     },
     {
       "album": {
@@ -416,6 +452,24 @@
       "duration_ms": 208421,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/5svSVt7UcmZR46TIOt1BUp"
+      },
+      "artists": [
+        {
+          "name": "Pascal Marcel",
+          "url": "https://open.spotify.com/artist/33NKN9m9zscNEiDcHoqvkW"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129621,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/351rejqsz5uECQ7w1mI9dv"
     },
     {
       "album": {
@@ -906,6 +960,24 @@
       "duration_ms": 168545,
       "name": "bonny",
       "url": "https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU"
+    },
+    {
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/7xmuoVkyUslG8EVzL8Ubok"
+      },
+      "artists": [
+        {
+          "name": "Chairten",
+          "url": "https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144181,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0zsaCI7LPbR48ws0Yc1ckc"
     },
     {
       "album": {
@@ -3143,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "head east",
+        "url": "https://open.spotify.com/album/1aNqfWGFPBZjusOMdxRT1l"
+      },
+      "artists": [
+        {
+          "name": "bonaira",
+          "url": "https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128516,
+      "name": "head east",
+      "url": "https://open.spotify.com/track/47BhuJCF6i496FcleIShvI"
+    },
+    {
+      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN"
       },
@@ -5356,6 +5446,24 @@
       "duration_ms": 222819,
       "name": "Palma",
       "url": "https://open.spotify.com/track/1eoJB7MFGxUb2LyHl8Cfou"
+    },
+    {
+      "album": {
+        "name": "Palmarosa",
+        "url": "https://open.spotify.com/album/7k49sjSacjvFxC9pDFixrD"
+      },
+      "artists": [
+        {
+          "name": "Divulgation",
+          "url": "https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149102,
+      "name": "Palmarosa",
+      "url": "https://open.spotify.com/track/7fI0PswBQUnHOKnWBS3UhZ"
     },
     {
       "album": {
@@ -7593,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "The Feels",
+        "url": "https://open.spotify.com/album/1vAkH3vVYpYh4p1O6XLVir"
+      },
+      "artists": [
+        {
+          "name": "Peqasus",
+          "url": "https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/12ZDfHYGroYkrsxSSolen1"
+    },
+    {
+      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH"
       },
@@ -8133,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/6i7H74gTb1HX4bF28TCuJx"
+      },
+      "artists": [
+        {
+          "name": "Yavuz Grill",
+          "url": "https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129621,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7AUesOi1VY1UsxWefS6aqb"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z"
       },
@@ -8350,6 +8494,24 @@
       "duration_ms": 304412,
       "name": "Woodpecker (Call Me)",
       "url": "https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5"
+    },
+    {
+      "album": {
+        "name": "Workspace",
+        "url": "https://open.spotify.com/album/6ERvCrAVeIU4cGkBBp7s1G"
+      },
+      "artists": [
+        {
+          "name": "Buysea",
+          "url": "https://open.spotify.com/artist/34DeKMjYgaYQaucxtrJrGJ"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150874,
+      "name": "Workspace",
+      "url": "https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq"
     },
     {
       "album": {

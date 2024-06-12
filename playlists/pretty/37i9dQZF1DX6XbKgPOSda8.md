@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,415 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,521 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 31 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
 | 32 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
 | 33 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 |
-| 34 | [Escándalo](https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Duelo de Sonoras](https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY) | 4:48 |
-| 35 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
+| 34 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
+| 35 | [Escándalo](https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Duelo de Sonoras](https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY) | 4:48 |
 | 36 | [No Voy A Llorar](https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Folklore Tropical](https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq) | 4:43 |
 | 37 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 |
 | 38 | [Paloma Ajena](https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I) | [Cumbia Con Clase](https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy) | 4:14 |
@@ -104,11 +104,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 94 | [Deseándote](https://open.spotify.com/track/6wciX1W2HHnpGO1dhqY0A5) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Deseándote](https://open.spotify.com/album/2EhMDRr1ozY1KpYmPRJ5Lx) | 3:28 |
 | 95 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 |
 | 96 | [Abandonado](https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX) | 4:31 |
-| 97 | [Quiero Saber De Ti](https://open.spotify.com/track/6VHvhh6EHW8vxNbW9vvDNA) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Lo Nuevo Y Lo Mejor](https://open.spotify.com/album/4Y5uyNerkMggWEEilBTAXJ) | 3:48 |
+| 97 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
 | 98 | [Llorando Estoy Llorando](https://open.spotify.com/track/2RKZeewX6sS5MKklB9m9VV) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Maria Fernanda](https://open.spotify.com/artist/3ulDOybXbRiW717f6gMKpy) | [Llorando Estoy Llorando](https://open.spotify.com/album/5j4KgvUsrja7wCzPpQQbgF) | 3:35 |
-| 99 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
+| 99 | [Quiero Saber De Ti](https://open.spotify.com/track/6VHvhh6EHW8vxNbW9vvDNA) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Lo Nuevo Y Lo Mejor](https://open.spotify.com/album/4Y5uyNerkMggWEEilBTAXJ) | 3:48 |
 | 100 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
-| 101 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren](https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh) | 3:44 |
+| 101 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 |
 | 102 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
 | 103 | [Alma De Acero](https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:44 |
 | 104 | [Cumbia De Los Patos](https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso) | [Danny Y Su Grupo](https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji) | [Disco De Oro Sonidero](https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1) | 3:41 |

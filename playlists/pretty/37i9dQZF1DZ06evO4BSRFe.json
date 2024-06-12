@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Machos. The essential tracks, all in one playlist.",
+  "description": "This Is Banda Machos. Los temas esenciales, todos en una lista.",
   "num_followers": 58333,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAB6lwij3+vNwcdy6tOPo62a",
+  "snapshot_id": "ZmZCAAAAAADnasRs71N+1TkR4DdrsjBA",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 160133,
-      "name": "La m\u00e1s bonita de todas",
-      "url": "https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI"
+      "duration_ms": 177373,
+      "name": "Cumbia torera",
+      "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Cumbia torera",
-      "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
+      "duration_ms": 160133,
+      "name": "La m\u00e1s bonita de todas",
+      "url": "https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
       "duration_ms": 198800,
       "name": "La suegra",
       "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Las habas",
-      "url": "https://open.spotify.com/track/3Q97r3eLlF1qqjWHgUaYYr"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Las habas",
+      "url": "https://open.spotify.com/track/3Q97r3eLlF1qqjWHgUaYYr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Historia sin fin",
         "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Casimira",
-      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 155400,
       "name": "Y la quiere Paco",
       "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Casimira",
+      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mi tesoro",
-      "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La reina de las bandas Vol. I",
         "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 154546,
       "name": "Mi chica ideal",
       "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "El viejo joven",
-      "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 190200,
       "name": "Escuadras del sur",
       "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "El viejo joven",
+      "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
     },
     {
       "added_at": null,

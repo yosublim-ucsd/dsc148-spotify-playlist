@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: Plastic Tree",
+  "description": "The biggest rock artists in Japan right now!  Cover: Crossfaith",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 250500,
       "name": "Beast Mode",
       "url": "https://open.spotify.com/track/72RapxkrkCUmGvd4ojwxSZ"
@@ -4774,7 +4774,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 162506,
       "name": "L.A.M.N",
       "url": "https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k"
@@ -11083,6 +11083,28 @@
     },
     {
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/1VYUoVJpO8mqfNGIzw0FxY"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        },
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239665,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/6SiLb2AJVSRIv7EODUou2d"
+    },
+    {
+      "album": {
         "name": "driven by impulse",
         "url": "https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5"
       },
@@ -15398,7 +15420,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 346866,
       "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a - Primitive Version",
       "url": "https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,143 likes - 46 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 46 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 45 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
 | 46 | [XQ](https://open.spotify.com/track/5i7Xg48Q0gS40rKVZwDuRA) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [XQ](https://open.spotify.com/album/1mK5rEIJ2p7QQCN1XVYmqy) | 2:21 |
 
-Snapshot ID: `ZmTwgAAAAADOnk0ykqY9QiLDYNBv+DYu`
+Snapshot ID: `ZmZCAAAAAADkvLgItpvi5IKyoxeJmDea`

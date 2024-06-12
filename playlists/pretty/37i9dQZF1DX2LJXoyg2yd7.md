@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,836 likes - 40 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,842 likes - 40 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 16 | [مسكين من](https://open.spotify.com/track/05Lncd1oXJsliQ7wqCbpxC) | [Humood Al Samah](https://open.spotify.com/artist/0yUGhIBHd8kyqi6IGuzQ1P) | [صاحب الليل](https://open.spotify.com/album/6lgI5vn1eppcaKMSgDbEVk) | 3:38 |
 | 17 | [أغلى عشق](https://open.spotify.com/track/1fSeLSobV3N2IxcgHRvv2L) | [Jassem Mohammed](https://open.spotify.com/artist/7v8Zo7SvfmVoSMdOHQd6r3), [Mohamed Jaze](https://open.spotify.com/artist/5umOqMimCLr7y4IJfWY4hz), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg), [Salem Hamad Bin Kardoos](https://open.spotify.com/artist/1mG2nUnWhHR5SbMVGE5MAF) | [أغلى عشق](https://open.spotify.com/album/3CwRYViwKjNwi3CurcfQX0) | 6:24 |
 | 18 | [ماأجملك](https://open.spotify.com/track/2DTzFjkDOAt8E8qUEpLb0b) | [Hussain Moheb](https://open.spotify.com/artist/2LUDyDgFsYu4AlnUkBVRMk) | [حبيب ولا غريب](https://open.spotify.com/album/0aUs2ZwUVpT1xr8KIhwF3V) | 5:05 |
-| 19 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [عمار العزكي](https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
-| 20 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 |
+| 19 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 |
+| 20 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [عمار العزكي](https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
 | 21 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 |
 | 22 | [Ya Mesafer](https://open.spotify.com/track/19ZBKdZNlOBL2QsbCoNgqD) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Dhae Alwafa](https://open.spotify.com/album/3n6bh1EdzOnqGL3hdF2HX8) | 5:02 |
 | 23 | [يا مهاجر](https://open.spotify.com/track/7lCGZKNM9OzhPtRTyamcbN) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [ريم البوادي](https://open.spotify.com/album/0gB9Upr1MXZgfkdg534ny1) | 8:32 |

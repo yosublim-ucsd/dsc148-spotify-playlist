@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Odisseo en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,682 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,697 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 20 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 |
 | 21 | [No Te Puedo Adivinar](https://open.spotify.com/track/5IhZ3Wtp3gSjBhKd9hwVJH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [No Te Puedo Adivinar](https://open.spotify.com/album/5UqzecHK6Gy2RJijHYBlvC) | 2:41 |
 | 22 | [Uno De Esos Días](https://open.spotify.com/track/2SlovZRjNdnK0t6rAbOPN8) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Uno De Esos Días](https://open.spotify.com/album/6tvLmBE2oeUOUvI0DrEDxt) | 3:13 |
-| 23 | [Serenata de una ruta larga](https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Serenata de una ruta larga](https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV) | 4:44 |
+| 23 | [Serenata de una ruta larga](https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Serenata de una ruta larga](https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV) | 4:47 |
 | 24 | [Junto a Mi](https://open.spotify.com/track/7nqHyPFnsV9brqNdcz7gg1) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Legna Hernández](https://open.spotify.com/artist/3KT60z0Op7S337GY46cXm4), [Banaz](https://open.spotify.com/artist/3VxtjXd11hcGpPN0PynOWy), [Cellegrini](https://open.spotify.com/artist/33O902wB6TsITgNYTTHAan) | [Junto a Mi](https://open.spotify.com/album/1TjUpLBVrDItGQ9EsQ05lg) | 2:13 |
 | 25 | [Tótem](https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Tótem](https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa) | 2:27 |
 | 26 | [Cerca De Ti](https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 3:06 |

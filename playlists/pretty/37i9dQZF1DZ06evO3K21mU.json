@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 878794,
+  "num_followers": 878832,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACQK1mKedHGIqho/Uy/481R",
+  "snapshot_id": "ZmZCAAAAAABHpLlCL/e8lcEbgyiul9aM",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+      "duration_ms": 192065,
+      "name": "Free Fall (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
     },
     {
       "added_at": null,
@@ -363,6 +363,26 @@
       "duration_ms": 142640,
       "name": "Fever",
       "url": "https://open.spotify.com/track/6XkIQqAsFjk1XfD4L7G6qR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": null,
@@ -411,26 +431,6 @@
       "duration_ms": 202040,
       "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
       "url": "https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 192065,
-      "name": "Free Fall (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,860 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,182 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 82 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
 | 83 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
 | 84 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
-| 85 | [アカシア](https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF) | 4:22 |
-| 86 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
+| 85 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
+| 86 | [アカシア](https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF) | 4:22 |
 | 87 | [イエスタデイ](https://open.spotify.com/track/53WuztMfY1VH3rLIm0zApQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/0AcDdZ01F1DSv6XSvLunkb) | 4:59 |
 | 88 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
 | 89 | [Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 6:54 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 96 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 |
 | 97 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 |
 | 98 | [愛は薬](https://open.spotify.com/track/1rf80hAVw6y8rVc1HsOpuv) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [愛は薬](https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP) | 4:24 |
-| 99 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
-| 100 | [Paradise](https://open.spotify.com/track/3yBeQAxk5Jb6bzvUpqu5qX) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Paradise](https://open.spotify.com/album/4c1Fq2QlSHxUxKlNrmtpjO) | 2:53 |
+| 99 | [Paradise](https://open.spotify.com/track/3yBeQAxk5Jb6bzvUpqu5qX) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Paradise](https://open.spotify.com/album/4c1Fq2QlSHxUxKlNrmtpjO) | 2:53 |
+| 100 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
 
 Snapshot ID: `ZjEHcAAAAADmPa78tlzy5x1pDm2wjQK0`

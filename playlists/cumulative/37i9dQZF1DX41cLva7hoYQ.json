@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "A Sight for Sore Eyes",
+        "url": "https://open.spotify.com/album/5BpnW3JV6KgmIoUd5CDiAD"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261269,
+      "name": "A Sight for Sore Eyes",
+      "url": "https://open.spotify.com/track/35Fa1nwTxHXMJPYcK2mSGI"
+    },
+    {
+      "album": {
         "name": "A Sleepin' Bee",
         "url": "https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 206511,
       "name": "Beloved Moment",
       "url": "https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi"
@@ -2168,6 +2186,24 @@
       "duration_ms": 216097,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp"
+    },
+    {
+      "album": {
+        "name": "Clouds Across the Sky",
+        "url": "https://open.spotify.com/album/4zEyjWpg4T9qTvF4JifMZ9"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Clouds Across the Sky",
+      "url": "https://open.spotify.com/track/0OUhJHr2nci0RHw8GPYL0q"
     },
     {
       "album": {
@@ -7006,7 +7042,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 190093,
       "name": "Naima",
       "url": "https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq"
@@ -9220,7 +9256,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 202051,
       "name": "Steps Ahead",
       "url": "https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio"
@@ -10876,7 +10912,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 238426,
       "name": "Under the same roof",
       "url": "https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ"
@@ -11020,7 +11056,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 293750,
       "name": "Views Of Dawn",
       "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
@@ -11621,6 +11657,24 @@
     },
     {
       "album": {
+        "name": "Wondering",
+        "url": "https://open.spotify.com/album/5TK9Lxijo9A0tUlBVfgtYb"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Wondering",
+      "url": "https://open.spotify.com/track/219BW1JC4d4VumSTIYpUUW"
+    },
+    {
+      "album": {
         "name": "Worry and Gossip",
         "url": "https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV"
       },
@@ -11672,6 +11726,24 @@
       "duration_ms": 227279,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2eIry6lu8pdyShi9RPk2dR"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/1o9LPT2T8blXqR2bdE2UyI"
+      },
+      "artists": [
+        {
+          "name": "Santiago Brown",
+          "url": "https://open.spotify.com/artist/48ApFINfc4zrFBfjNeFnQ1"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219125,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/427IuTXYI61rljqrDaDYbg"
     },
     {
       "album": {
@@ -11740,7 +11812,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 304694,
       "name": "You Gave Me That Look",
       "url": "https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1"

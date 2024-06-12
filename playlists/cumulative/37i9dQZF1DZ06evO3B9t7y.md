@@ -2,9 +2,9 @@
 
 ### [This Is Carin Leon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3B9t7y)
 
-> This Is Carin Leon\. Los temas esenciales, todos en una lista.
+> This is Carin Leon\. The essential tracks, all in one playlist.
 
-148 songs - 7 hr 54 min
+149 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Mal Necesario](https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mal Necesario](https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1) | 2:52 | 2022-06-01 | 2022-10-12 |
 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 | 2023-02-19 | 2024-02-15 |
 | [Me Gusta Estar Contigo](https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 2:48 | 2022-06-01 | 2023-08-26 |
-| [Me Gusta Estar Contigo](https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 2:48 | 2023-08-25 |  |
+| [Me Gusta Estar Contigo](https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 2:48 | 2023-08-25 | 2024-06-12 |
 | [Me Haces Tan Bien](https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me Haces Tan Bien](https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv) | 2:48 | 2023-05-29 | 2023-11-11 |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2022-06-01 | 2023-08-26 |
 | [Me la Avente](https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS) | 2:35 | 2023-08-25 |  |
@@ -105,6 +105,7 @@
 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 | 2022-06-01 |  |
 | [Pedazo De Tonto](https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Pedazo De Tonto](https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb) | 2:40 | 2023-03-03 | 2024-04-26 |
 | [Pedazo De Tonto](https://open.spotify.com/track/3jasf0mJzfHDxP5q3ZNpPx) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 2:40 | 2024-04-28 |  |
+| [Por culpa de un tercero](https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:54 | 2024-06-12 |  |
 | [Por La Familia](https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [BorderKid](https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3) | [Por La Familia](https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T) | 2:33 | 2023-10-10 | 2024-01-28 |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-27 |  |
 | [Que Es Pa' Mi](https://open.spotify.com/track/2HdkLQkwXWT6yyZJYySAPf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:36 | 2022-06-01 | 2022-12-24 |

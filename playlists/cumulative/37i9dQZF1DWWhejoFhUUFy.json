@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Chal Chaliye",
+        "url": "https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        },
+        {
+          "name": "Farheen Raza Jaffry",
+          "url": "https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234207,
+      "name": "Chal Chaliye",
+      "url": "https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC"
+    },
+    {
+      "album": {
         "name": "The Way That Lovers Do",
         "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
       },
@@ -482,6 +504,28 @@
       "duration_ms": 163653,
       "name": "Co2",
       "url": "https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N"
+    },
+    {
+      "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281511,
+      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/1r6GbBLdtUK1Vl1IHT14wP"
     },
     {
       "album": {
@@ -660,7 +704,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 138769,
       "name": "Girta Sambhalta",
       "url": "https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1"
@@ -1726,7 +1770,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 211456,
       "name": "Na Sata (From \"Highway Love\")",
       "url": "https://open.spotify.com/track/4zqSM3FthOw4OhabVdOPvr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,820 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,867 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 13 | [Yaaro \- From "Think Indie"](https://open.spotify.com/track/32JtlUwj5lO1tJCj6j5glU) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yaaro \(From "Think Indie"\)](https://open.spotify.com/album/0ee5p75PuogR9kErRoKCsx) | 3:15 |
 | 14 | [Nila Mugam \(Original Soundtrack\)](https://open.spotify.com/track/0Ov9nKu1EY14LKeGpWAJBV) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Sebastin Rozario](https://open.spotify.com/artist/6zn3QoKgnSOZx7Q2QE2dVF), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn) | [Nila Mugam \(Original Soundtrack\)](https://open.spotify.com/album/38CANBgULMTQb6XwT4wUCL) | 3:53 |
 | 15 | [Poomadhiye](https://open.spotify.com/track/6q75ZjYLIrWbCNwg052eZR) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO) | [Poomadhiye](https://open.spotify.com/album/1w3W46jmmLfvbMGyrxcwAf) | 3:36 |
-| 16 | [Adi Penne \- From Naam Series](https://open.spotify.com/track/6XmBh5HSdVzEAaqzEftL9t) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [T Suriavelan](https://open.spotify.com/artist/62pHLcXg1Hp1QaiX3l1IsR), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Adi Penne \(From Naam Series\)](https://open.spotify.com/album/41DFtugomlAL2wB8SgjIyw) | 5:01 |
+| 16 | [Adi Penne \(Duet\) \- From Naam Series](https://open.spotify.com/track/6XmBh5HSdVzEAaqzEftL9t) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [T Suriavelan](https://open.spotify.com/artist/62pHLcXg1Hp1QaiX3l1IsR), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Adi Penne \(Duet\) \[From Naam Series\]](https://open.spotify.com/album/41DFtugomlAL2wB8SgjIyw) | 5:01 |
 | 17 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 |
 | 18 | [Serithaana](https://open.spotify.com/track/5cdUR8s0paGuX4G2qANUeu) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Serithaana](https://open.spotify.com/album/3qUobbcOQKOPuzJBOiSGF6) | 3:22 |
 | 19 | [Thean Kudika](https://open.spotify.com/track/3mFCOJxMugGr2q7KyNG0Zj) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Pragathi](https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa) | [Maze in Idhayam](https://open.spotify.com/album/4zBa7qnn1jBEfpY7bm6uNT) | 4:14 |

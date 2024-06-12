@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 757627,
+  "num_followers": 757705,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Hits--Chapter One",
-        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
+        "name": "I've Been Expecting You",
+        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         }
       ],
-      "duration_ms": 213600,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
+      "duration_ms": 258026,
+      "name": "She's The One",
+      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "I've Been Expecting You",
-        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
+        "name": "The Hits--Chapter One",
+        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 258026,
-      "name": "She's The One",
-      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
+      "duration_ms": 213600,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "David Soul",
-        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
-      },
-      "artists": [
-        {
-          "name": "David Soul",
-          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "Don't give up on us",
-      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "First Impressions",
         "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 217293,
       "name": "At My Weakest",
       "url": "https://open.spotify.com/track/6rcTyXe8W8kjQLyALBRj1v"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "David Soul",
+        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
+      },
+      "artists": [
+        {
+          "name": "David Soul",
+          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "Don't give up on us",
+      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "One Call Away (Acoustic)",
+        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Nothing Really Matters",
         "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
       },
@@ -2195,6 +2211,22 @@
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2279,22 +2311,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
       },
@@ -2327,8 +2343,8 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Lion King: Special Edition Original Soundtrack (English Version)",
-        "url": "https://open.spotify.com/album/6V642KcHwzOSyYGwH58kgO"
+        "name": "Elton John (Remastered Version)",
+        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
       },
       "artists": [
         {
@@ -2336,9 +2352,9 @@
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Can You Feel the Love Tonight",
-      "url": "https://open.spotify.com/track/4f6jZRNyjZQ8ltv1txgZUG"
+      "duration_ms": 244226,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2403,22 +2419,6 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/4T2SmVJPtDdugk5j5xV1d5"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "In The Lonely Hour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
     }
   ],
   "unique_name": "In the Arms of a Woman",

@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 327350,
+  "num_followers": 327411,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Andy Y Lucas",
-        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
       },
       "artists": [
         {
-          "name": "Andy & Lucas",
-          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 231813,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
+      "duration_ms": 274000,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Galeria Caribe",
-        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+        "name": "Andy Y Lucas",
+        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Andy & Lucas",
+          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
+      "duration_ms": 231813,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Escucha a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Kany Garc\u00eda",
         "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 248613,
       "name": "Cuando Se Va el Amor",
       "url": "https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Escucha a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "12 Historias",
-        "url": "https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Querido Tommy",
-      "url": "https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Amar es Combatir",
         "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 292120,
       "name": "El Rey Tibur\u00f3n",
       "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "12 Historias",
+        "url": "https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "Querido Tommy",
+      "url": "https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Besame",
-        "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Mentiras sinceras",
         "url": "https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 206366,
       "name": "Ella vive en m\u00ed",
       "url": "https://open.spotify.com/track/4HiJPtkFafo2IYx2kM0eDY"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Besame",
+        "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
     },
     {
       "added_at": "2024-03-26 14:56:59",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-03-26 14:56:59",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj"
-      },
-      "artists": [
-        {
-          "name": "Ednita Nazario",
-          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "A Que No Le Cuentas",
-      "url": "https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj"
-    },
-    {
-      "added_at": "2024-03-26 14:56:59",
-      "album": {
         "name": "Six Pack: Man\u00e1 - EP",
         "url": "https://open.spotify.com/album/7gBsvCKyShR2OQ6h0RXF28"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
+    },
+    {
+      "added_at": "2024-03-26 14:56:59",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj"
+      },
+      "artists": [
+        {
+          "name": "Ednita Nazario",
+          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "A Que No Le Cuentas",
+      "url": "https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj"
     },
     {
       "added_at": "2024-03-26 14:56:59",

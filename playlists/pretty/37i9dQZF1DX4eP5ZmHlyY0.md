@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: A.B.C\-Z
+> 日本で活躍するボーイズグループを特集。cover: Travis Japan
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,769 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,804 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [君じゃなきゃだめなんだ](https://open.spotify.com/track/0Q7MGW8sEfNqwOkmHx7mXB) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [君じゃなきゃだめなんだ](https://open.spotify.com/album/0B0pNgGM1b0SmQp8pPCC7v) | 4:04 |
+| 1 | [Sweetest Tune](https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Sweetest Tune](https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc) | 3:25 |
 | 2 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 |
 | 3 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
 | 4 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 10 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 |
 | 11 | [ブレイクライン](https://open.spotify.com/track/3GGkjydRMWrCXeQmvwmIeP) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ブレイクライン](https://open.spotify.com/album/0mlnvdLh3Ew8ifBg6ybayZ) | 3:50 |
 | 12 | [HIGHER EX](https://open.spotify.com/track/5HQkEVozABejYyWUdMfeFF) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [HIGHER EX](https://open.spotify.com/album/43FcOYz8efEsLFhm5suAiZ) | 3:22 |
-| 13 | [エンドレス・ジャーニー](https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [エンドレス・ジャーニー](https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR) | 2:55 |
+| 13 | [君じゃなきゃだめなんだ](https://open.spotify.com/track/0Q7MGW8sEfNqwOkmHx7mXB) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [君じゃなきゃだめなんだ](https://open.spotify.com/album/0B0pNgGM1b0SmQp8pPCC7v) | 4:04 |
 | 14 | [NINNIN JACK](https://open.spotify.com/track/6fG4sExielzxmQlhX7pEr7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [DEPARTURE](https://open.spotify.com/album/2IcaFXt9KAgLFdcNAktqlU) | 2:36 |
 | 15 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 |
 | 16 | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [TAEHYUN](https://open.spotify.com/artist/2fjOLqKPx5dQ4Af4iMIZf4) | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4) | 3:04 |
@@ -30,33 +30,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 20 | [halfmoon](https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [halfmoon](https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF) | 4:15 |
 | 21 | [PLAY THAT'24 \- ALAN ver.](https://open.spotify.com/track/1yJp6r67jyZx3cD7tYquUy) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/7oaukHyBhCaMkGeUaSYfDj) | 4:28 |
 | 22 | [surge \(single edit\)](https://open.spotify.com/track/2QmfJsRUsAlcW9wL0MiA6f) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY), [Takumi Kawanishi](https://open.spotify.com/artist/3O8CN28tWSzQszV5K3pi2h) | [surge \(single edit\)](https://open.spotify.com/album/5cHhtcIfWnqNj35VoCWSAw) | 6:37 |
-| 23 | [Good Luck](https://open.spotify.com/track/0u5f07aW3aQsRK0EdIPEXm) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Good Luck](https://open.spotify.com/album/0mk4PMcHThPUtvUojBbomB) | 3:02 |
-| 24 | [T.G.I\. Friday Night](https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [T.G.I\. Friday Night](https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT) | 3:35 |
+| 23 | [エンドレス・ジャーニー](https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [エンドレス・ジャーニー](https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR) | 2:55 |
+| 24 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 |
 | 25 | [ICE](https://open.spotify.com/track/6zac62mblxAmbgVkqBQKCB) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [Parade](https://open.spotify.com/album/43PcyZMcbxwUWOYzE9bg1P) | 3:12 |
 | 26 | [Let's Go Crazy](https://open.spotify.com/track/03a7zJD7KAV5h1xanMVaPb) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [CyberHelix](https://open.spotify.com/album/4PqYD6bve8Qt0GhJr7evuN) | 2:45 |
 | 27 | [無責任でええじゃないかLOVE](https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [無責任でええじゃないかLOVE](https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw) | 3:53 |
 | 28 | [high\-five～歓喜の音～](https://open.spotify.com/track/659H1DnkdzYB601pSq8gje) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ](https://open.spotify.com/album/0KDT4ZSAMWJ1JfChw4tqcX) | 4:39 |
 | 29 | [Treasure Believer](https://open.spotify.com/track/47kYfk9KuZppYzt1n7soRP) | [VΔLZ](https://open.spotify.com/artist/5NsoCPfSPuShXpS1xuLmPf) | [三華の樂](https://open.spotify.com/album/4GnRqlotGHfKskEIprHBEz) | 3:52 |
 | 30 | [Major](https://open.spotify.com/track/0EzHIwggAVyiJNizm6UDHy) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Major](https://open.spotify.com/album/6wB9poeCgF8QKdymMJ5Phc) | 3:18 |
-| 31 | [Boom Boom Back](https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Boom Boom Back](https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd) | 3:08 |
-| 32 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 |
+| 31 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 |
+| 32 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 |
 | 33 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
 | 34 | [Nova Flame \~One of the BE:ST\-01 JUNON\~](https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo) | [JUNON](https://open.spotify.com/artist/1EWFvN7t1373R3BrGZOLsn) | [Masterplan](https://open.spotify.com/album/58yBNtbNsOEaps6kZW8XhR) | 2:39 |
-| 35 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
-| 36 | [Test Drive](https://open.spotify.com/track/5ARYBmzAgJcxs4wlQJNAuS) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Test Drive](https://open.spotify.com/album/5sZ3aPaqUMKyC9ssgHquE9) | 3:12 |
+| 35 | [T.G.I\. Friday Night](https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [T.G.I\. Friday Night](https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT) | 3:35 |
+| 36 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 37 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 |
-| 38 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
+| 38 | [Test Drive](https://open.spotify.com/track/5ARYBmzAgJcxs4wlQJNAuS) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Test Drive](https://open.spotify.com/album/5sZ3aPaqUMKyC9ssgHquE9) | 3:12 |
 | 39 | [Pink Flash Lights](https://open.spotify.com/track/2cIDJumjrAhqOW7pTM2MvK) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Pink Flash Lights](https://open.spotify.com/album/0c2jiUm4CEpbCMpwZHbGVn) | 2:31 |
-| 40 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 |
+| 40 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
 | 41 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
-| 42 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
-| 43 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 |
-| 44 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
-| 45 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 |
-| 46 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |
-| 47 | [拝啓、俺たちへ](https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A) | [コムドット](https://open.spotify.com/artist/4gCWHDSag0akMnMVFlbErm) | [拝啓、俺たちへ](https://open.spotify.com/album/6Er1W865y2brlTGEaD5PeJ) | 3:41 |
-| 48 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
-| 49 | [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 |
-| 50 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
+| 42 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
+| 43 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
+| 44 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 |
+| 45 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
+| 46 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 |
+| 47 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 |
+| 48 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
+| 49 | [拝啓、俺たちへ](https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A) | [コムドット](https://open.spotify.com/artist/4gCWHDSag0akMnMVFlbErm) | [拝啓、俺たちへ](https://open.spotify.com/album/6Er1W865y2brlTGEaD5PeJ) | 3:41 |
+| 50 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
 
-Snapshot ID: `Zl8vOgAAAACFDsMTc9GqnOF8XECpk+uN`
+Snapshot ID: `ZmhYbAAAAAAuCVyVwD9UOHTTPHnfNG1t`

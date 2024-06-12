@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,871 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,883 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 86 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
 | 87 | [Think About It](https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [Think About It](https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB) | 4:01 |
 | 88 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
-| 89 | [fake face dance music \- night drive remix](https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [fake face dance music \(night drive remix\)](https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA) | 2:32 |
-| 90 | [SPACE](https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPACE](https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR) | 3:06 |
+| 89 | [SPACE](https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPACE](https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR) | 3:06 |
+| 90 | [fake face dance music \- night drive remix](https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK) | [fake face dance music \(night drive remix\)](https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA) | 2:32 |
 | 91 | [EVERGREEN](https://open.spotify.com/track/4tyrUfKPjXH7RZxAUH70uQ) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [EVERGREEN](https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6) | 3:48 |
 | 92 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 |
 | 93 | [Drink \(feat.JJJ\)](https://open.spotify.com/track/69T7tPlyIhqAD7k0BWWnsg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:34 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 97 | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HELLO \(from The Tiger's Apprentice\)](https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf) | 2:33 |
 | 98 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 99 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 |
-| 100 | [ぶぎ・ばく・べいびー](https://open.spotify.com/track/3HVY8hWXikwYvPnNDxRE5z) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I), [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X) | [ぶぎ・ばく・べいびー](https://open.spotify.com/album/3EDhGontjbBDIAjm1Pz0bx) | 2:53 |
+| 100 | [A24](https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC) | [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [A24](https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ) | 3:00 |
 
 Snapshot ID: `Zl8r8AAAAAAC8fXLuw+k1jf48yBpD10v`

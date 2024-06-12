@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u307e\u306a\u3064",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 176246,
       "name": "Boarding Time",
       "url": "https://open.spotify.com/track/48QkR16zrg3MuUysTvZljm"
@@ -4594,7 +4594,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 203930,
       "name": "Life is",
       "url": "https://open.spotify.com/track/1TWyvuvElJ57xCpsFD9ngs"
@@ -8594,7 +8594,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 161026,
       "name": "SUN MYSELF",
       "url": "https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z"
@@ -8854,7 +8854,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 203453,
       "name": "The Dream Is Not Dead",
       "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
@@ -11358,7 +11358,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 280500,
       "name": "\u30b9\u30c8\u30e9\u30b0\u30eb\u30ec\u30bf\u30fc",
       "url": "https://open.spotify.com/track/6SkIndXStZlGfobBP3YYLc"
@@ -12179,6 +12179,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u4eba\u306e\u90fd\u5408\u30de\u30b8\u3046\u305c\u3048",
+        "url": "https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125746,
+      "name": "\u4e0d\u7d14\u611b\u30e9\u30d6\u30b9\u30c8\u30fc\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/1m1LvGZoH4V2AF8Ev5301N"
+    },
+    {
+      "album": {
         "name": "cult grass stars",
         "url": "https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n"
       },
@@ -12908,7 +12926,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 326100,
       "name": "\u604b\u76db\u308aSEXY",
       "url": "https://open.spotify.com/track/6YOFScC4z8qaWPqaUSQt73"
@@ -13708,6 +13726,24 @@
       "duration_ms": 202253,
       "name": "\u795e\u793e",
       "url": "https://open.spotify.com/track/4Z4tIMYd11bo5x16w2WjXf"
+    },
+    {
+      "album": {
+        "name": "\u5927\u4eba\u306e\u90fd\u5408\u30de\u30b8\u3046\u305c\u3048",
+        "url": "https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136360,
+      "name": "\u7981\u65ad\u75c7\u72b6",
+      "url": "https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6"
     },
     {
       "album": {

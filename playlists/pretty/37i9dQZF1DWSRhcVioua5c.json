@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 75541,
+  "num_followers": 75560,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        }
-      ],
-      "duration_ms": 236854,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "Mas Alla De La Ternura",
         "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 252813,
       "name": "Anaranjado - Mas All\u00e1 De La Ternura",
       "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        }
+      ],
+      "duration_ms": 236854,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -751,8 +751,8 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
+        "name": "No me quiero ir",
+        "url": "https://open.spotify.com/album/27IWbwdFn9XVoVdFpbtutD"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
+      "duration_ms": 250201,
+      "name": "No me quiero ir",
+      "url": "https://open.spotify.com/track/3f1PnODNw1ZNxtywrhtgJr"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "Luna Llena",
         "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 169500,
       "name": "Ojos de Cielo",
       "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "Tan Cerca En La Distancia",
         "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 202728,
       "name": "Tan Cerca En La Distancia",
       "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        }
-      ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "Adi\u00f3s Amor M\u00edo",
         "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 149680,
       "name": "Adi\u00f3s Amor M\u00edo",
       "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        }
+      ],
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
     },
     {
       "added_at": "2024-05-16 20:48:40",

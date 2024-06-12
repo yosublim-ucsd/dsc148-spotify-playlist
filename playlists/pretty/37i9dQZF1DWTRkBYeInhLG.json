@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 467633,
+  "num_followers": 467709,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-06-10 04:41:27",
       "album": {
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Kecewa",
+      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
+    },
+    {
+      "added_at": "2024-06-10 04:41:27",
+      "album": {
         "name": "Berona",
         "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 193000,
       "name": "Luka",
       "url": "https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp"
-    },
-    {
-      "added_at": "2024-06-10 04:41:27",
-      "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Kecewa",
-      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
     },
     {
       "added_at": "2024-06-10 04:41:27",

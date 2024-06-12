@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Marca MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,653 likes - 180 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,662 likes - 180 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

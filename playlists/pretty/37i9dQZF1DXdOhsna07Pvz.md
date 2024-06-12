@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,255 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,299 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 63 | [Brasil](https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Focus On...500 Years Of Brazil](https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0) | 2:48 |
 | 64 | [Swing da Cor](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
 | 65 | [Cigano \- Instrumental](https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Siba](https://open.spotify.com/artist/3fXYikoi0LcoQgBItngLxO) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 2:22 |
-| 66 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
-| 67 | [Kabaluere](https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs) | [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [Mudei de Ideia](https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw) | 2:21 |
+| 66 | [Kabaluere](https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs) | [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [Mudei de Ideia](https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw) | 2:21 |
+| 67 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
 | 68 | [Realce](https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 4:44 |
 | 69 | [Grito de Paz](https://open.spotify.com/track/7iXUWrP4u5N9S038vzMCWL) | [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Bixiga 70 \(2011\)](https://open.spotify.com/album/7Bf5GJVyFVzhx304JsXJCh) | 4:26 |
 | 70 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |

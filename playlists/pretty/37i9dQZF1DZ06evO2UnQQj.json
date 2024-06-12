@@ -1,12 +1,12 @@
 {
-  "description": "This is Clara Lima. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Clara Lima. The essential tracks, all in one playlist.",
   "num_followers": 171,
   "original_name": "This Is Clara Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAC2kdi+BNuOZ+h3pSaHp4+e",
+  "snapshot_id": "ZmZCAAAAAAB2j75RPIub8s/EVc4lUZkN",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SELFIE",
+        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Esquinas",
+      "url": "https://open.spotify.com/track/1kY7c0pcnSX05MlMUb3eqS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pato",
         "url": "https://open.spotify.com/album/7Kahh00QPmrHsdpKwCD9tT"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 129600,
       "name": "Pato",
       "url": "https://open.spotify.com/track/664XNRE1DIZR4YMn4cwdRP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SELFIE",
-        "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Esquinas",
-      "url": "https://open.spotify.com/track/1kY7c0pcnSX05MlMUb3eqS"
     },
     {
       "added_at": null,
@@ -979,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som Que Vem Da Alma",
-        "url": "https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Teo Guedx",
-          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Vai Brilhar",
-      "url": "https://open.spotify.com/track/4w5BfrRV73OebK2Ui4TFN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuva de Nota",
         "url": "https://open.spotify.com/album/6nplA4sH6JpPYe4KphvKcH"
       },
@@ -1031,6 +1007,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Som Que Vem Da Alma",
+        "url": "https://open.spotify.com/album/0aislI5bnqq7T3tcz9NIgr"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Vai Brilhar",
+      "url": "https://open.spotify.com/track/4w5BfrRV73OebK2Ui4TFN1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barras de Ouro",
         "url": "https://open.spotify.com/album/67NHUQKVxpJQRiU1EuEdFb"
       },
@@ -1055,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camisa 10",
-        "url": "https://open.spotify.com/album/48UOun63WhfNSwhihpg0eJ"
+        "name": "S\u00f3 Sei Falar de Amor",
+        "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
       },
       "artists": [
         {
@@ -1064,13 +1064,13 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "DJ Guizin do Trem",
-          "url": "https://open.spotify.com/artist/3jB6PVFo2v0NFhe6dk0HTA"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 120827,
-      "name": "Camisa 10",
-      "url": "https://open.spotify.com/track/13kyuo0MazfwJ6f45PbHhm"
+      "duration_ms": 125217,
+      "name": "Toda Toda",
+      "url": "https://open.spotify.com/track/35fBex6jzadhipXBKPR7Ze"
     },
     {
       "added_at": null,
@@ -1095,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Sei Falar de Amor",
-        "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
+        "name": "Camisa 10",
+        "url": "https://open.spotify.com/album/48UOun63WhfNSwhihpg0eJ"
       },
       "artists": [
         {
@@ -1104,13 +1104,13 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "DJ Guizin do Trem",
+          "url": "https://open.spotify.com/artist/3jB6PVFo2v0NFhe6dk0HTA"
         }
       ],
-      "duration_ms": 125217,
-      "name": "Toda Toda",
-      "url": "https://open.spotify.com/track/35fBex6jzadhipXBKPR7Ze"
+      "duration_ms": 120827,
+      "name": "Camisa 10",
+      "url": "https://open.spotify.com/track/13kyuo0MazfwJ6f45PbHhm"
     },
     {
       "added_at": null,

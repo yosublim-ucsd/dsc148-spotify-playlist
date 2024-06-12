@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Pierre Garnier au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,404 likes - 84 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,406 likes - 84 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 44 | [Pepper](https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Pepper](https://open.spotify.com/album/3ER9n0Pq3mhv2q60sLwKNc) | 2:58 |
 | 45 | [I can see it there \(don't u know?\)](https://open.spotify.com/track/7FBvZInyhBbHE2cA2IobT5) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren), [Majeur Mineur](https://open.spotify.com/artist/3IMSh6UlcrbKXwG1lARp5j) | [I can see it there \(don't u know?\)](https://open.spotify.com/album/0pZsq4fErKCKFzp3Cfd0I2) | 1:52 |
 | 46 | [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 |
-| 47 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 47 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 48 | [SUNLIGHT](https://open.spotify.com/track/72dO0actkCPpF7dJIwXoV8) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [SUNLIGHT](https://open.spotify.com/album/57wHGr9tBpikQgs3JiP75G) | 3:30 |
 | 49 | [Comme Will](https://open.spotify.com/track/2HNDyfBNhMrX6BU1gC2zLP) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Comme Will](https://open.spotify.com/album/2rmd0gLPanM23MgOrhoPAh) | 3:22 |
 | 50 | [Chouchou des nanas](https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Chouchou des nanas](https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY) | 2:24 |

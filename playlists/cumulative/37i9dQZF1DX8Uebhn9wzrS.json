@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 105950,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3MfEbk1mY9pbKQwYZ8X768"
@@ -8076,7 +8076,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 150000,
       "name": "dice",
       "url": "https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5"
@@ -9502,7 +9502,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 154838,
       "name": "elevate",
       "url": "https://open.spotify.com/track/116YArgZMwSpTDCahpTkx1"
@@ -9820,6 +9820,24 @@
       "duration_ms": 152530,
       "name": "Espresso Dreams",
       "url": "https://open.spotify.com/track/5RxXQDO8DJ3dKnvTeQUadQ"
+    },
+    {
+      "album": {
+        "name": "but a beach ain't one",
+        "url": "https://open.spotify.com/album/2zWrtFSI7QMd9KIrsFh5hL"
+      },
+      "artists": [
+        {
+          "name": "wavcrush",
+          "url": "https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101647,
+      "name": "estate",
+      "url": "https://open.spotify.com/track/38JCaWrU5CHL14bs3JNXOA"
     },
     {
       "album": {
@@ -12438,7 +12456,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 141578,
       "name": "Gas Guzzling",
       "url": "https://open.spotify.com/track/4S586yJKAg7TtGaA4SOLec"
@@ -13196,7 +13214,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 154736,
       "name": "Green Gardens",
       "url": "https://open.spotify.com/track/2kBigv5mWWcIAAPIi5lUaZ"
@@ -19422,7 +19440,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 198227,
       "name": "maste",
       "url": "https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR"
@@ -30368,7 +30386,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 114635,
       "name": "Strike Soft Strike Slow",
       "url": "https://open.spotify.com/track/7KfZjncXfzdNA1Gmn7jkJu"
@@ -33836,7 +33854,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 195428,
       "name": "Triple Rainbow",
       "url": "https://open.spotify.com/track/6ep0Iy9dM4RSAwlBvQKYse"
@@ -35792,7 +35810,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 162750,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv"

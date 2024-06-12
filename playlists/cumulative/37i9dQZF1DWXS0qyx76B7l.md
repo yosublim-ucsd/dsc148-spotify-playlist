@@ -4,7 +4,7 @@
 
 > Songs about the iconic city\. Welcome to the Big Apple! 📸 Chappell Roan is Lady Liberty
 
-125 songs - 8 hr 25 min
+126 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [New York at Night](https://open.spotify.com/track/1AETvuSzlhLT7uasHHmGvI) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:34 | 2020-05-13 | 2022-07-27 |
 | [New York City](https://open.spotify.com/track/42sE0cMOBZOgcwQrmKrqy3) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back In Time: The Definitive Collection \(Expanded\)](https://open.spotify.com/album/6dZIEsIXM2oY3aN0npklmB) | 3:20 | 2022-01-24 | 2022-07-27 |
 | [New York City \- Remastered 2010](https://open.spotify.com/track/65U99sfxmQhVSybLf7uJDH) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 4:34 | 2020-05-13 | 2022-07-29 |
+| [New York City Boy \- 2017 Remaster](https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Nightlife: Further Listening 1996 \- 2000 \(2017 Remaster\)](https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek) | 5:15 | 2024-06-11 |  |
 | [New York City Rhythm](https://open.spotify.com/track/6VjbV77jF8A05lJ7ZDSbme) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Tryin' To Get The Feeling](https://open.spotify.com/album/4vjtUQKNvFUftabjdTONcJ) | 4:44 | 2022-01-24 | 2022-07-29 |
 | [New York Groove](https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [Kiss: Ace Frehley](https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg) | 3:03 | 2020-05-13 |  |
 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 | 2020-05-13 |  |
@@ -127,7 +128,7 @@
 | [Theme From New York, New York \- Remastered \) \[The Frank Sinatra Collection\]](https://open.spotify.com/track/4bBgZTIRQ2PHonaRwnn3jf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \[The Frank Sinatra Collection\]](https://open.spotify.com/album/48ijda2pd3B1CcrqN9sgdV) | 3:24 | 2020-05-13 |  |
 | [Tompkins Square Park](https://open.spotify.com/track/5DmWOVaWBbIWKQnk6bMdwu) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 5:11 | 2020-05-13 | 2022-10-14 |
 | [Tompkins Square Park](https://open.spotify.com/track/6nTVR9CtUqKB5RQ7a8dv6t) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 5:11 | 2022-01-24 | 2024-03-12 |
-| [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2023-08-14 |  |
+| [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 | 2023-08-14 | 2024-06-12 |
 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 | 2022-01-24 |  |
 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 | 2020-05-13 | 2022-07-28 |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 | 2022-01-24 | 2024-04-19 |

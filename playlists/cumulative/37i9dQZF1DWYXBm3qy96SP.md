@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bon Jovi
 
-1,308 songs - 3 day 3 hr 10 min
+1,309 songs - 3 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 | 2023-05-04 | 2023-05-19 |
 | [Fish Bowl](https://open.spotify.com/track/1NpW5f28xLOyAhcJOCPcqI) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Fish Bowl](https://open.spotify.com/album/1HxH0oH1wXSheea1tSj0Ne) | 2:49 | 2023-03-23 | 2023-03-31 |
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-08 | 2024-02-16 |
+| [Flame](https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Flame](https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o) | 2:53 | 2024-06-06 |  |
 | [Flare](https://open.spotify.com/track/27Rc0NDGqdS0Y8RhfmQAbr) | [Death by Denim](https://open.spotify.com/artist/1OXpN0Unpw1Xrpws4tIpUF) | [Flare](https://open.spotify.com/album/26zIOR7mvMijr5g7L3kgxJ) | 3:31 | 2023-11-23 | 2023-12-01 |
 | [flashback](https://open.spotify.com/track/7AKbUJwfLdQYOAyoDKDnEI) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [flashback](https://open.spotify.com/album/38lEvVBTBgrTH3ZQLpEl9q) | 3:28 | 2023-10-12 | 2023-10-20 |
 | [FLESH AND BONE](https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [DEATH CULT \- 8323](https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr) | 3:18 | 2023-12-14 | 2023-12-22 |
@@ -657,7 +658,7 @@
 | [Light Headed](https://open.spotify.com/track/4mR7VcIR2SxjJEJnQcX78r) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Light Headed](https://open.spotify.com/album/4w8SrYoVc7rwD0GgjLlCcz) | 2:13 | 2024-02-29 | 2024-03-08 |
 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 | 2023-03-30 | 2023-04-07 |
 | [Like A God](https://open.spotify.com/track/5NODTp0NXGSM9ssC0GN1MG) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Like A God](https://open.spotify.com/album/46GkL5mgpQuRIugNwo5W0R) | 4:14 | 2023-07-20 | 2023-07-28 |
-| [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-05-02 | 2024-06-10 |
+| [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-05-02 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [SiriusXM Session](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-02 |  |
 | [Lion](https://open.spotify.com/track/3l4rzb2PtCxrOUzaD3RHEk) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Lion](https://open.spotify.com/album/4wtXR1Fy693m3qLoHhnT75) | 3:57 | 2023-11-23 | 2023-11-25 |
 | [Lion](https://open.spotify.com/track/50HYpx833n8I466f6n8nat) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Lion](https://open.spotify.com/album/3wgcQA1ECrAQBYjrVfYQJe) | 3:57 | 2023-11-23 | 2023-12-01 |
@@ -750,7 +751,7 @@
 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/6GgwpfhXEjHkHUjwfgMLzY) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Mulholland's Dinner and Wine](https://open.spotify.com/album/1LKSGgWMCZBWm4Sd1Foixw) | 3:21 | 2024-01-18 | 2024-02-02 |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-01 | 2024-05-03 |
 | [Musafir](https://open.spotify.com/track/0b4ObtDTn1mMdJ2stsKqjs) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Musafir](https://open.spotify.com/album/3VAMpVcCmFQVZnz2uP9gic) | 6:16 | 2023-07-27 | 2023-08-04 |
-| [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 | 2024-02-22 |  |
+| [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 | 2024-02-22 | 2024-06-12 |
 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 | 2023-06-15 | 2023-06-23 |
 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 | 2024-01-11 | 2024-01-19 |
 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 | 2023-03-16 | 2023-04-02 |
@@ -802,7 +803,7 @@
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-10-05 | 2024-02-09 |
 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 | 2024-04-25 | 2024-06-05 |
 | [Novocaine](https://open.spotify.com/track/561WtF4saXolXokGjeVPYJ) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:54 | 2023-08-10 | 2023-08-18 |
-| [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-05-02 |  |
+| [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-05-02 | 2024-06-12 |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-02 | 2024-05-03 |
 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 | 2024-02-08 | 2024-02-19 |
 | [Nowhere To Go But Everywhere](https://open.spotify.com/track/0XT3u4dsfUh4A9EhH2FzoO) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2Ptp2BvVc7YsdSL3YXBWNu) | 4:03 | 2023-09-21 | 2023-09-29 |

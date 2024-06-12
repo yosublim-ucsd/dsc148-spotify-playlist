@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 13212,
+  "num_followers": 13237,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Never Be Lonely",
         "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 134570,
       "name": "Never Be Lonely",
       "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Couldn't Care Less (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        },
+        {
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Couldn't Care Less (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "SLEEP TONIGHT (THIS IS THE LIFE) [with R3HAB and Sam Feldt]",
         "url": "https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 136312,
       "name": "SLEEP TONIGHT (THIS IS THE LIFE) - with R3HAB and Sam Feldt",
       "url": "https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Couldn't Care Less (feat. Gia Koka)",
-        "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        },
-        {
-          "name": "Gia Koka",
-          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "Couldn't Care Less (feat. Gia Koka)",
-      "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Carry You",
         "url": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO"
       },
@@ -819,30 +839,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Dientes",
-        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Dientes",
-      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
         "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
       },
@@ -867,22 +863,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Lioness",
-        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
+        "name": "Dientes",
+        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         }
       ],
-      "duration_ms": 172515,
-      "name": "Lioness",
-      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+      "duration_ms": 166426,
+      "name": "Dientes",
+      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 154083,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "My City",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 151874,
       "name": "My City",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 154083,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "LAST OF US (feat. Rita Ora)",
-        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "LAST OF US (feat. Rita Ora)",
-      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Love On Repeat",
         "url": "https://open.spotify.com/album/5Q61Eji3KCqpc0xnVizPEd"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 139063,
       "name": "Love On Repeat",
       "url": "https://open.spotify.com/track/6JBfByv9Um8aeC8nHKnC0O"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "LAST OF US (feat. Rita Ora)",
+        "url": "https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "LAST OF US (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Emelie Cyr\u00e9us",
-          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
-        }
-      ],
-      "duration_ms": 132775,
-      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Emelie Cyr\u00e9us",
+          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+        }
+      ],
+      "duration_ms": 132775,
+      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "The Logical Song (feat. Julia Hallasen)",
         "url": "https://open.spotify.com/album/5JLQ1THp53UVka5E7xt30M"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 141387,
       "name": "The Logical Song (feat. Julia Hallasen)",
       "url": "https://open.spotify.com/track/29kDU3QBj31gIGZqjnZKvF"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Don't Leave Me (Dam Di Da)",
-        "url": "https://open.spotify.com/album/3IO9r6WxHD1igDGU96Gqiv"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 159352,
-      "name": "Don't Leave Me (Dam Di Da)",
-      "url": "https://open.spotify.com/track/51lbLBDpa6LUJ694nTwITT"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 190772,
       "name": "Hear Me Say",
       "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Don't Leave Me (Dam Di Da)",
+        "url": "https://open.spotify.com/album/3IO9r6WxHD1igDGU96Gqiv"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 159352,
+      "name": "Don't Leave Me (Dam Di Da)",
+      "url": "https://open.spotify.com/track/51lbLBDpa6LUJ694nTwITT"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

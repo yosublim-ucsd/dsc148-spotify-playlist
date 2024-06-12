@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,857 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,124 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 20 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 |
 | 21 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
 | 22 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 |
-| 23 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
-| 24 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
+| 23 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
+| 24 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
 | 25 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
 | 26 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 27 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 38 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
 | 39 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 40 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
-| 41 | [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO) | 4:08 |
-| 42 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
+| 41 | [I'll miss you](https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I'll miss you](https://open.spotify.com/album/08p5Y9EHxOAyFrDDy6Bxr4) | 2:46 |
+| 42 | [Fantasy \- Sofia Kourtesis Remix](https://open.spotify.com/track/3ETFK4bJe6LOJRuTnoR4Nl) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Fantasy Remixes](https://open.spotify.com/album/7KSknfmHoGrBd4pXYLxziO) | 4:08 |
 | 43 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
 | 44 | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/track/7jZXymh2SwJUGD4juPNVVH) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Laureano](https://open.spotify.com/artist/4Hu88bgyAjHvZZpfBK9ncX), [Bambo Cissokho](https://open.spotify.com/artist/2qjWUEZjsTxLUYI6MNk3Yq) | [Asara \(feat\. Bambo Cissokho\)](https://open.spotify.com/album/39YxZgJhoL9YQfc4lmKwhN) | 2:42 |
 | 45 | [Indigo](https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Indigo EP](https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM) | 6:12 |
 | 46 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
 | 47 | [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 |
-| 48 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 |
-| 49 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
+| 48 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
+| 49 | [Make Me](https://open.spotify.com/track/0y9rIGAQEHAwDrBWOQvstV) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Make Me](https://open.spotify.com/album/7GK7EmnHe9MdYTDSKHqMg7) | 3:44 |
 | 50 | [Thus Far](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Colours of the Sky](https://open.spotify.com/album/79F4YnYB1ZN0eo4baMeLh5) | 3:51 |
 
 Snapshot ID: `Zk/YvAAAAAAJtJAFvy32fG93AKacFu0j`

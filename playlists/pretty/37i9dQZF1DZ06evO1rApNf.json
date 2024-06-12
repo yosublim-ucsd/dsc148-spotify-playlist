@@ -1,12 +1,12 @@
 {
   "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124135,
+  "num_followers": 124128,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADP8hSjpsEfpW7PnUYtThu4",
+  "snapshot_id": "ZmZCAAAAAAA4/tBYgdDRJ8jZ5iXDUiqn",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 236448,
-      "name": "Amarte Tanto",
-      "url": "https://open.spotify.com/track/0cnb2iNrenKOGosJzKKE1p"
+      "duration_ms": 167409,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/60Y5s3JmVhfORq1ATJpfSS"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 167264,
-      "name": "Glock",
-      "url": "https://open.spotify.com/track/6sjnBVTDd1JYwb1mboxJy8"
+      "duration_ms": 236448,
+      "name": "Amarte Tanto",
+      "url": "https://open.spotify.com/track/0cnb2iNrenKOGosJzKKE1p"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 167409,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/60Y5s3JmVhfORq1ATJpfSS"
+      "duration_ms": 167264,
+      "name": "Glock",
+      "url": "https://open.spotify.com/track/6sjnBVTDd1JYwb1mboxJy8"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 173514,
-      "name": "Manera Linda de Morir",
-      "url": "https://open.spotify.com/track/1b7Sb8QcSOKzkqTRL2Fu1J"
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
     },
     {
       "added_at": null,
@@ -1119,18 +1119,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+        "name": "Ya No Tiene Novio (Remix)",
+        "url": "https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3"
       },
       "artists": [
         {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sharo Towers",
+          "url": "https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r"
         }
       ],
-      "duration_ms": 195608,
-      "name": "Darnos Un Tiempo",
-      "url": "https://open.spotify.com/track/1zaALt2FHgNUrOg5jzFF8J"
+      "duration_ms": 212053,
+      "name": "Ya No Tiene Novio - Remix",
+      "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"
     }
   ],
   "unique_name": "This Is Mau y Ricky",

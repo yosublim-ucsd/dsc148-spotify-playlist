@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 215 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 215 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 86 | [Beautiful Life](https://open.spotify.com/track/4kTdMaRfj7X032F1T6iv8o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:50 |
 | 87 | [Sleepy](https://open.spotify.com/track/6wT9GWmTMFSiR1AApuNKbG) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 4:26 |
 | 88 | [Lift Me](https://open.spotify.com/track/01qhpruXoanTD2p3srAWeE) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:33 |
-| 89 | [Smoov](https://open.spotify.com/track/3wyhEjLpW8f4uJ2I88rA01) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:32 |
-| 90 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
+| 89 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
+| 90 | [Smoov](https://open.spotify.com/track/3wyhEjLpW8f4uJ2I88rA01) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:32 |
 | 91 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 |
 | 92 | [Your World](https://open.spotify.com/track/3UZbuunCmiobKhA3m38pea) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:55 |
 | 93 | [Solar Laws](https://open.spotify.com/track/7BEdiZEtJXLLSB67poYnc6) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Solar Laws](https://open.spotify.com/album/5PiqqtRN16GSnGpM1qGw2b) | 4:45 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 154 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
 | 155 | [Hideaway](https://open.spotify.com/track/26JG8US8oI3U3sdfL6OeA5) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Hideaway](https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY) | 4:02 |
 | 156 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
-| 157 | [I Want You](https://open.spotify.com/track/1j3AbAkEy194UQFoW8Bigh) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [I Want You](https://open.spotify.com/album/14QtxU4a0xbhJLhlRgoo2V) | 2:36 |
-| 158 | [Hayley](https://open.spotify.com/track/1orYYQ1EhYMfCGVr6p5cGZ) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:40 |
+| 157 | [Hayley](https://open.spotify.com/track/1orYYQ1EhYMfCGVr6p5cGZ) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:40 |
+| 158 | [I Want You](https://open.spotify.com/track/1j3AbAkEy194UQFoW8Bigh) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [I Want You](https://open.spotify.com/album/14QtxU4a0xbhJLhlRgoo2V) | 2:36 |
 | 159 | [Shake](https://open.spotify.com/track/3sI9FBhwrEBfnIEu5PvECt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 4:23 |
 | 160 | [Haiku](https://open.spotify.com/track/1l7KcIjZ5z43LUOSr3VPQ7) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:44 |
 | 161 | [For Life](https://open.spotify.com/track/5S1x9p5NtD9lbEs76eSwog) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
@@ -179,10 +179,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 169 | [Reputation](https://open.spotify.com/track/6XMTNaQQlk7LRxhNJu6jSy) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 2:57 |
 | 170 | [I Get Too High](https://open.spotify.com/track/03MROZ5GH5mGHKarlKAFyf) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 4:29 |
 | 171 | [Desire, Momentum](https://open.spotify.com/track/4P0EFpzUBgpbZDUHE0dnsf) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:33 |
-| 172 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
-| 173 | [Flights](https://open.spotify.com/track/2MMOlxNXHlTescNEAlRGRH) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:14 |
-| 174 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
-| 175 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 |
+| 172 | [Snow White](https://open.spotify.com/track/2NtdqCfyAe6Jqq4o5cFAo4) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Snow White](https://open.spotify.com/album/4Sw7FWTQwQQnX6MuBy1nSK) | 3:35 |
+| 173 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
+| 174 | [Flights](https://open.spotify.com/track/2MMOlxNXHlTescNEAlRGRH) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:14 |
+| 175 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
 | 176 | [</shine>](https://open.spotify.com/track/2bDhSTvWdrdly3soXgfo9M) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:36 |
 | 177 | [A Wish](https://open.spotify.com/track/03xEUiZCkvWTnDTn737HQ8) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:27 |
 | 178 | [Change Your Mind](https://open.spotify.com/track/5kytpT5jLg0DNCmYKrtcuA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 5:31 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 214 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 215 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbTt3QAAAACqwtor0fFSOowK4jFdZxRt`
+Snapshot ID: `AbTzdAAAAADFKSA7ujRvXyQLHrYT+HgE`

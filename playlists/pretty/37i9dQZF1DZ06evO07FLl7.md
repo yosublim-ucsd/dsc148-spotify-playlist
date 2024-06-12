@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,864 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 34 | [Siento Por Ciento \- Remix](https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Siento por Ciento \(Remix\)](https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4) | 3:27 |
 | 35 | [Calma Preta](https://open.spotify.com/track/75igikg3xWQPFhHHVj3jdT) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:09 |
 | 36 | [Ouça\-Me RMX](https://open.spotify.com/track/6ZePoSRNfKqkbqbhMXgKlp) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:56 |
-| 37 | [Try](https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:33 |
+| 37 | [Pode Me Perdoar](https://open.spotify.com/track/2QmK2weO09GAb4qwCMF2w5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:00 |
 | 38 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 |
 | 39 | [Copy](https://open.spotify.com/track/3Q6P44efSOTR4O52255KmX) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Kaylan Mary](https://open.spotify.com/artist/3ARExS7RN7MsIONPRMk9uD), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Copy](https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX) | 3:01 |
 | 40 | [Perigo](https://open.spotify.com/track/62dj6pA6Tc7PYTpFhn3dLc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/track/3u6OOhrZrvw4PpaWx6zay7) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pandeiro É Meu Nome \(Da Série Original Prime Video Amar É Para Os Fortes\)](https://open.spotify.com/album/2YUHNOYFpodTVzABOySL8U) | 3:57 |
 | 50 | [A Ordem das Árvores \- Remix](https://open.spotify.com/track/1qCayfOvLmESzyZpWeuwbF) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Gustavo Ruiz](https://open.spotify.com/artist/3R7LNfdkoaPU5CkklJwkhz) | [Efêmera \(Remix\)](https://open.spotify.com/album/60kjU0d3OHVUBrHjr6Bi9G) | 3:47 |
 
-Snapshot ID: `ZmTwgAAAAACyh1vFryfBQFlRD5giHGaA`
+Snapshot ID: `ZmZCAAAAAADLvYW2KNL25N6ly678D0aP`

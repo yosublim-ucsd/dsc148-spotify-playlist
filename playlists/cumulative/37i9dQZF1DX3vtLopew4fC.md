@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: Haviah Mighty
 
-1,399 songs - 3 day 0 hr 55 min
+1,400 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Futures Bet](https://open.spotify.com/track/2hAsxlsoZQDBZa7v8Ay5Xp) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 4:52 | 2023-02-01 | 2023-03-02 |
 | [Futures Bet](https://open.spotify.com/track/3yFjPsstCq0drlRdusBhgn) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Futures Bet](https://open.spotify.com/album/3defi3J2QNJ8eikcfjV7Gs) | 4:52 | 2023-02-01 | 2023-02-28 |
 | [FWM](https://open.spotify.com/track/1AoUhIGRPBXcdJyg2x0A8D) | [BLK](https://open.spotify.com/artist/51HV0KFq7wIVIs1WIvvVi7) | [Girl Magic](https://open.spotify.com/album/2cX1sd0z0KKtPBXfR9aamx) | 2:45 | 2022-02-02 | 2022-03-09 |
+| [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 | 2024-06-11 |  |
 | [GANAS](https://open.spotify.com/track/7j8WiRODf8Gqea0MAdJDvr) | [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [GANAS](https://open.spotify.com/album/2GijBknx1Wz6PajM7iUrWK) | 2:39 | 2024-01-12 | 2024-02-08 |
 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 | 2023-03-01 | 2023-04-06 |
 | [Gasoline](https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending](https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z) | 2:00 | 2024-06-05 |  |
@@ -1088,7 +1089,7 @@
 | [Should've Known](https://open.spotify.com/track/4nresNbETCAa88JrG8uK9e) | [Victoria Anthony](https://open.spotify.com/artist/0x0iGXZc5qI9edbL1qNCdx) | [Should've Known](https://open.spotify.com/album/3miEwxBcJvBLqda3nwhSXD) | 2:44 | 2023-01-04 | 2023-02-02 |
 | [Show You Why](https://open.spotify.com/track/3muePZbjLu66YSChxJY5WZ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:53 | 2024-04-03 |  |
 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 | 2023-10-04 | 2023-11-11 |
-| [Shut It Down](https://open.spotify.com/track/7nMj0zIe9OUJxrY7XMKR6n) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Shut It Down](https://open.spotify.com/album/0p5AtdlpYYlhZ2ej8thYvn) | 2:50 | 2024-06-05 |  |
+| [Shut It Down](https://open.spotify.com/track/7nMj0zIe9OUJxrY7XMKR6n) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Shut It Down](https://open.spotify.com/album/0p5AtdlpYYlhZ2ej8thYvn) | 2:50 | 2024-06-05 | 2024-06-12 |
 | [SHUT UP AND KISS ME](https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [EMOTION SICKNESS](https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA) | 2:43 | 2023-10-04 | 2023-11-11 |
 | [Shy Boy](https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Shy Boy](https://open.spotify.com/album/5SfL9du7O2pG1q14UsegkA) | 3:29 | 2023-07-05 | 2023-08-10 |
 | [Sick](https://open.spotify.com/track/3Q892H3lMgoxbrlovHmTsV) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Sick](https://open.spotify.com/album/61nmrelAR4IgDeyt5NdFdm) | 4:10 | 2023-02-01 | 2023-03-02 |

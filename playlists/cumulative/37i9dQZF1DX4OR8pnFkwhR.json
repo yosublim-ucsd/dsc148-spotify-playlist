@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u5341\u660e",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: First Love is Never Returned",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1684,6 +1684,24 @@
       "duration_ms": 182815,
       "name": "Bite you",
       "url": "https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE"
+    },
+    {
+      "album": {
+        "name": "Black or White?",
+        "url": "https://open.spotify.com/album/3SXdTmlIBdOs3KrFriCo0Q"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214053,
+      "name": "Black or White?",
+      "url": "https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug"
     },
     {
       "album": {
@@ -4725,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "After Rain Comes Sunshine",
+        "url": "https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz"
+      },
+      "artists": [
+        {
+          "name": "BLACK BERRY TIMES",
+          "url": "https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209642,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e"
+    },
+    {
+      "album": {
         "name": "Fallin\u2019",
         "url": "https://open.spotify.com/album/0fJAMatgtuw8ux3zSExPFz"
       },
@@ -4794,6 +4830,32 @@
       "duration_ms": 200173,
       "name": "feat. \u3042\u306a\u305f",
       "url": "https://open.spotify.com/track/1Y8w8X8vqCcruiNXVqrGPt"
+    },
+    {
+      "album": {
+        "name": "Remember Me?",
+        "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198097,
+      "name": "Feel Missing",
+      "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
     },
     {
       "album": {
@@ -10472,7 +10534,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 197910,
       "name": "OKACHIMACHI FRIDAY NIGHT",
       "url": "https://open.spotify.com/track/4vp5t5VMY0oG8IgVQoEjsg"
@@ -10622,7 +10684,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 213852,
       "name": "Opal",
       "url": "https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ"
@@ -14564,7 +14626,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 310943,
       "name": "Teenage Anthem",
       "url": "https://open.spotify.com/track/3SvBRxUchoFlLuMFFzU2Lf"
@@ -19150,7 +19212,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 254368,
       "name": "\u30ab\u30b2\u30ed\u30a6",
       "url": "https://open.spotify.com/track/5KfTpP3h0EoHHCn4CVWKNX"
@@ -19769,6 +19831,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e3\u30d0\u30a4\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/01RdiZpducGd1hrA2g7N7d"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237066,
+      "name": "\u30b7\u30e3\u30d0\u30a4\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/3v3bCL4c1dCXyzeUSwwKBV"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e3\u30ef\u30fc\u30eb\u30fc\u30e0\u30e9\u30f3\u30c7\u30d6\u30fc",
         "url": "https://open.spotify.com/album/3Phsmc2oKgMslU1URpjoRs"
       },
@@ -20306,6 +20386,24 @@
       "duration_ms": 258528,
       "name": "\u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30b8\u30e3\u30fc\u30cb\u30fc",
       "url": "https://open.spotify.com/track/3dXeB7v5ApxEOGBOSzD28i"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3059\u3079\u304d\u8ab0",
+        "url": "https://open.spotify.com/album/6ZsGiyySnrWKQrmIHeUkSB"
+      },
+      "artists": [
+        {
+          "name": "kako",
+          "url": "https://open.spotify.com/artist/55CSGXikDNrn9191M5SrPk"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174729,
+      "name": "\u30c9\u30e9\u30de\u306b\u306a\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/031xiIwmBwcoN6bW6LPa7u"
     },
     {
       "album": {
@@ -21077,6 +21175,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30ec\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/08Nar1C11y3buYYpPHegNy"
+      },
+      "artists": [
+        {
+          "name": "Hello Hello",
+          "url": "https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "\u30d5\u30ec\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/2iE1IfgvhrJnNHyKN30PaY"
+    },
+    {
+      "album": {
         "name": "\u30d6\u30e9\u30f3\u30b1\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5sAcdFSJcZ3kLtzYDmQcm6"
       },
@@ -21622,7 +21738,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 149619,
       "name": "\u30e4\u30d0\u3044\u306a",
       "url": "https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe"
@@ -22336,7 +22452,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 221553,
       "name": "\u4eca\u6669\u306e\u55a7\u5629",
       "url": "https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK"

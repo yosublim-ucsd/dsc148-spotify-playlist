@@ -3062,8 +3062,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
           "name": "Justin Bieber",
@@ -4183,6 +4183,24 @@
     },
     {
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
+      },
+      "artists": [
+        {
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
+    },
+    {
+      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 214556,
       "name": "Onda Alta",
       "url": "https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38"

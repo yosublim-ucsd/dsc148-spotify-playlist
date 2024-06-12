@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/6Cz8YEWC71254G7hKu1cHO"
+      },
+      "artists": [
+        {
+          "name": "Old Orleans",
+          "url": "https://open.spotify.com/artist/4vixILijwCS1MKcTr2zLwv"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65934,
+      "name": "Next Chapter",
+      "url": "https://open.spotify.com/track/64A8uR5NZ1n09c1ciwlwhI"
+    },
+    {
+      "album": {
         "name": "No Good",
         "url": "https://open.spotify.com/album/0Rakb4FFhKuAQUXwe7t9pD"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: TWENTY SIX &amp; Jenn Morel
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,503 likes - 15 songs - 41 min 46 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,505 likes - 17 songs - 47 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 13 | [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 |
 | 14 | [Until the Sun Comes Up](https://open.spotify.com/track/00k3lrbOLXvQB8JJAzvAtw) | [Pansil](https://open.spotify.com/artist/0jPFnkOW02ogcNH6PWnhUT) | [Until the Sun Comes Up](https://open.spotify.com/album/3A0Cf24xiJ2K1dpu7OWBWL) | 3:29 |
 | 15 | [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 |
+| 16 | [Do It All Again](https://open.spotify.com/track/1bcM9x7FX0aiayjtd1ZNuW) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J), [DJ BIG S](https://open.spotify.com/artist/516QrqBwm3soALhns5ACzA) | [Do It All Again](https://open.spotify.com/album/0CwJK5uOYwpyQyLN4f2jSQ) | 2:55 |
+| 17 | [Latenight \- Radio Mix](https://open.spotify.com/track/7byMAHyVjnkDkzsGsp31uE) | [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR) | [Latenight](https://open.spotify.com/album/0oOcnd5YlFzP9UVfyVqVDB) | 2:45 |
 
-Snapshot ID: `AAAqmmuRT/CId8fTDqL67LWjOtk2OFia`
+Snapshot ID: `AAAqnIRQe5T77FNm7VgAU6aV10hmgZjA`

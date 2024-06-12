@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,550 likes - 945 songs - 2 day 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,547 likes - 945 songs - 2 day 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

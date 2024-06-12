@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: Jelani Aryeh
 
-430 songs - 22 hr 33 min
+432 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [GHOST\*](https://open.spotify.com/track/7mfGLdrBIlR7o6s6YFpjwi) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [GHOST\*](https://open.spotify.com/album/4UmCXtYrA5Bodd4HGKCQzM) | 2:20 | 2023-02-17 | 2023-06-08 |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-05-05 | 2023-10-08 |
 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 | 2024-01-19 | 2024-05-18 |
-| [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-28 |  |
+| [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-28 | 2024-06-12 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-11 | 2023-05-26 |
 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 | 2023-02-17 | 2023-06-08 |
 | [girlfriend](https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:13 | 2024-01-19 |  |
@@ -228,6 +228,7 @@
 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 | 2023-11-17 | 2024-03-16 |
 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 | 2022-11-11 | 2023-08-10 |
 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 | 2022-06-17 |  |
+| [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz) | 3:45 | 2024-06-09 |  |
 | [junky](https://open.spotify.com/track/2ZrPCVQCGWiEOA3bSzcAkq) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [LET IT SINK IN](https://open.spotify.com/album/0X5qYffN3B8SwczRa1T6Im) | 3:24 | 2022-04-01 | 2022-06-19 |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-06-07 | 2024-05-05 |
 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 | 2022-06-17 | 2024-05-02 |
@@ -389,7 +390,7 @@
 | [The Hearse](https://open.spotify.com/track/4OWwJ7gwDenLKBYfR2QYJC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [The Hearse](https://open.spotify.com/album/1yXGBtlnQWKE7EoK9Wo42S) | 2:04 | 2022-05-13 | 2022-11-14 |
 | [The Medium](https://open.spotify.com/track/2evdiqJddtt5vfocPme5l7) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:14 | 2023-06-07 | 2023-08-22 |
 | [The One](https://open.spotify.com/track/22BWGMdhWA9bzxx04tbfV7) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Who I Am](https://open.spotify.com/album/3r8dj1ruZN0PGP7dFjZhfo) | 3:12 | 2023-04-21 | 2023-08-22 |
-| [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-02-09 |  |
+| [The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Party](https://open.spotify.com/album/7rlcKShyYfr0MEIVH3BeaA) | 2:49 | 2023-02-09 | 2024-06-12 |
 | [the ride\-](https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:10 | 2023-02-01 |  |
 | [Therapy'](https://open.spotify.com/track/6s0puEMm8OdfYmb8zhpoUq) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Mara Jade](https://open.spotify.com/artist/0y3ofBOxIP0P6AzgsY87os) | [Compact Disc](https://open.spotify.com/album/5AotiEx682mLqljHKjpA52) | 2:12 | 2022-03-04 | 2022-11-12 |
 | [Thin Lines](https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Thin Lines](https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO) | 2:51 | 2022-02-18 | 2022-11-12 |
@@ -416,6 +417,7 @@
 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 | 2023-02-03 | 2023-08-22 |
 | [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 | 2022-05-13 | 2023-02-11 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-02-18 | 2022-12-26 |
+| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-09 |  |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-08-22 |
 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 | 2024-02-05 |  |
 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-03-29 | 2023-06-08 |

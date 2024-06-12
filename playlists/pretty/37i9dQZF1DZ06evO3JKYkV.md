@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 ### [This Is Aphex Twin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3JKYkV)
 
-> This is Aphex Twin\. Todos os maiores hits em uma só playlist.
+> This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,218 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,231 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 34 | [produk 29 \[101\]](https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 5:03 |
 | 35 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 |
 | 36 | [in a room7 F760](https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:53 |
-| 37 | [Isoprophlex \- 2022 Remaster](https://open.spotify.com/track/1U3W1jTqreI3YL84sA1eCx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo \(Expanded Edition\)](https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD) | 6:23 |
+| 37 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 |
 | 38 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 10:31 |
-| 39 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 |
+| 39 | [Isoprophlex \- 2022 Remaster](https://open.spotify.com/track/1U3W1jTqreI3YL84sA1eCx) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo \(Expanded Edition\)](https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD) | 6:23 |
 | 40 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 |
 | 41 | [zin2 test5](https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 2:39 |
 | 42 | [fz pseudotimestretch+e+3 \[138.85\]](https://open.spotify.com/track/1xUwLbfbNoulgxRHeOAI04) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 0:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 49 | [On](https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG) | 7:12 |
 | 50 | [piano un1 arpej](https://open.spotify.com/track/3s2ID3iHa7h3K8Fv1NnnLi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01) | 0:50 |
 
-Snapshot ID: `ZmTwgAAAAACmslIpnljPNPadhYNPhLMg`
+Snapshot ID: `ZmZCAAAAAAD4d5VVWx2AHYykyIr9mFYh`

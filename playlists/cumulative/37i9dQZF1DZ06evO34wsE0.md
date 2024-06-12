@@ -2,15 +2,15 @@
 
 ### [This Is Shania Twain](https://open.spotify.com/playlist/37i9dQZF1DZ06evO34wsE0)
 
-> This is Shania Twain\. The essential tracks, all in one playlist.
+> This Is Shania Twain\. Les titres incontournables, réunis dans une seule et même playlist.
 
 64 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(If You're Not In It For Love\) I'm Outta Here!](https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:30 | 2024-03-09 |  |
+| [\(If You're Not In It For Love\) I'm Outta Here!](https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:30 | 2024-03-09 | 2024-06-12 |
 | [\(Wanna Get To Know You\) That Good! \- Red Version](https://open.spotify.com/track/21gPDHTACbwLbjswVO8igL) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Love Songs](https://open.spotify.com/album/6yRc7ndrTkPDumTReQVO6C) | 4:33 | 2024-03-09 | 2024-05-11 |
-| [Amneris' Letter](https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Aida](https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp) | 1:41 | 2024-03-09 |  |
+| [Amneris' Letter](https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Aida](https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp) | 1:41 | 2024-03-09 | 2024-06-12 |
 | [Any Man Of Mine](https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:06 | 2024-03-09 | 2024-06-11 |
 | [Best Friend](https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w) | 2:39 | 2024-03-09 |  |
 | [Come On Over](https://open.spotify.com/track/2xjUJZaBY9oiUZ8OsobzzE) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 2:53 | 2024-05-12 | 2024-06-09 |
@@ -48,10 +48,10 @@
 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 | 2024-03-09 |  |
 | [Queen Of Me](https://open.spotify.com/track/5HONmel0YqVDMLTtcyWLhX) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:58 | 2024-03-09 |  |
 | [Rock This Country!](https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:22 | 2024-03-09 |  |
-| [She's Not Just A Pretty Face \- Red Version](https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:49 | 2024-03-09 | 2024-06-11 |
+| [She's Not Just A Pretty Face \- Red Version](https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:49 | 2024-03-09 |  |
 | [Swingin' With My Eyes Closed](https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:33 | 2024-03-09 |  |
 | [Thank You Baby! \(For Makin' Someday Come So Soon\) \- Red Version](https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:00 | 2024-03-09 |  |
-| [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2024-03-09 | 2024-06-11 |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2024-03-09 |  |
 | [That Don't Impress Me Much \- International Mix](https://open.spotify.com/track/7r91bpZvftQAk6EfdSdwXq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:59 | 2024-03-09 |  |
 | [The Woman In Me \(Needs The Man In You\)](https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:49 | 2024-03-09 |  |
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2024-03-09 |  |

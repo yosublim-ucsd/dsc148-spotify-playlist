@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475 likes - 37 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 37 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 | 29 | [Rain](https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 5:11 |
 | 30 | [Give Peace a Chance](https://open.spotify.com/track/1RYGc2JBTcgkIpYtFeNLW5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Lagos Evergreen Golden Oldies, Vol\. 4](https://open.spotify.com/album/6LHbJ4lER1vbI5bv0EuFyE) | 7:01 |
 | 31 | [3rd World](https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
-| 32 | [Festival Of The Hunters](https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 11:24 |
-| 33 | [Liberation](https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 7:59 |
+| 32 | [Liberation](https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 7:59 |
+| 33 | [Festival Of The Hunters](https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 11:24 |
 | 34 | [Holy Mass](https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:17 |
 | 35 | [Tell Them](https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 9:28 |
 | 36 | [My Cherie Koko](https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Mother & Child](https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ) | 5:37 |
 | 37 | [Jesus King Of Kings](https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 4:49 |
 
-Snapshot ID: `ZmTwgAAAAAD5pLyHd0sqlf6BH0wg7VxV`
+Snapshot ID: `ZmZCAAAAAADB6M8k2IxNmGbNr8qTlI68`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Beéle, Maria Becerra, Joeboy & Humby
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,023 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,015 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 50 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 |
 | 51 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
 | 52 | [Drogba \(Joanna\) \(Global Latin Version\)](https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Drogba \(Joanna\) \(Global Latin Version\)](https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq) | 3:17 |
-| 53 | [Afrobocelli](https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt) | [Afrobocelli](https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz) | 3:38 |
-| 54 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
+| 53 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
+| 54 | [Afrobocelli](https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt) | [Afrobocelli](https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz) | 3:38 |
 | 55 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 |
 | 56 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |
 | 57 | [No Wahala \- Latin Remix](https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [No Wahala \(Latin Remix\)](https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz) | 2:37 |

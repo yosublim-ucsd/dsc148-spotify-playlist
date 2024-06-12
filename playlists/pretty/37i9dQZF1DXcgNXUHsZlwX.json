@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 130644,
+  "num_followers": 130654,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKFwAAAAABZ+wSKG6iE3Uq+kB083fNH",
+  "snapshot_id": "Zmjo1wAAAABFCgw7XzLKujG+OhToF4Db",
   "tracks": [
     {
       "added_at": "2024-06-07 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Kindergarten Heart",
-        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
-      },
-      "artists": [
-        {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
-        }
-      ],
-      "duration_ms": 177843,
-      "name": "Kindergarten Heart",
-      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Oh Brother",
         "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Kindergarten Heart",
+        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 177843,
+      "name": "Kindergarten Heart",
+      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Tu danses, condessa",
+      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -903,22 +923,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Inuktitut",
         "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
       },
@@ -931,6 +935,22 @@
       "duration_ms": 243756,
       "name": "Qimatsilunga (I Want to Break Free)",
       "url": "https://open.spotify.com/track/3XVqCl47UQ7kWTXN1HAgvZ"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -951,18 +971,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "_dec carte de no\u00ebl",
-        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
       },
       "artists": [
         {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
         }
       ],
-      "duration_ms": 124960,
-      "name": "_dec carte de no\u00ebl",
-      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -999,18 +1019,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+        "name": "_dec carte de no\u00ebl",
+        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
         }
       ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+      "duration_ms": 124960,
+      "name": "_dec carte de no\u00ebl",
+      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1031,22 +1051,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 196150,
-      "name": "The Animals",
-      "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "L'\u00e9t\u00e9 indien de ta vie",
         "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
@@ -1063,18 +1067,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+      "duration_ms": 196150,
+      "name": "The Animals",
+      "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1115,6 +1119,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Je vais te faire danser",
+        "url": "https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "INSCAPE",
         "url": "https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO"
       },
@@ -1131,18 +1151,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Je vais te faire danser",
-        "url": "https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd"
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1195,6 +1215,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 257838,
+      "name": "Pleure pas pour moi",
+      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1211,26 +1251,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "Tu danses, condessa",
-      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "La nuit est une panth\u00e8re",
         "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
       },
@@ -1243,6 +1263,22 @@
       "duration_ms": 177116,
       "name": "Platane",
       "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1315,18 +1351,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1347,18 +1383,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Du temps",
-        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 222586,
-      "name": "Du temps",
-      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+      "duration_ms": 223733,
+      "name": "Post Mortem",
+      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1375,26 +1415,6 @@
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 257838,
-      "name": "Pleure pas pour moi",
-      "url": "https://open.spotify.com/track/3IVgEYBvkSViPI2nq0uoxJ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1515,22 +1535,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Trait d'union",
-        "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Trait d'union",
-      "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1540,29 +1544,29 @@
           "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
         },
         {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
         }
       ],
-      "duration_ms": 223733,
-      "name": "Post Mortem",
-      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
+      "duration_ms": 195360,
+      "name": "Grande ivresse",
+      "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
     },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9"
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
       "artists": [
         {
-          "name": "Vanwho",
-          "url": "https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
         }
       ],
-      "duration_ms": 191739,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc"
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1583,18 +1587,34 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "SESSION LIVE H2T",
-        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
+        "name": "Trait d'union",
+        "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
         }
       ],
-      "duration_ms": 211002,
-      "name": "Beaut\u00e9 baroque - Session live H2T",
-      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
+      "duration_ms": 245250,
+      "name": "Trait d'union",
+      "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9"
+      },
+      "artists": [
+        {
+          "name": "Vanwho",
+          "url": "https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8"
+        }
+      ],
+      "duration_ms": 191739,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1643,26 +1663,6 @@
       "duration_ms": 210177,
       "name": "Espoir",
       "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Grande ivresse",
-      "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

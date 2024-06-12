@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,347 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,353 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 24 | [Deusa do amor \- Ao vivo](https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 3:47 |
 | 25 | [Vai Passar](https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG) | 6:11 |
 | 26 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 |
-| 27 | [Clareiamô](https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Anavitória Canta Para Foliões De Bloco, Foliões De Avenida E Não Foliões Também](https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi) | 3:46 |
-| 28 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 |
+| 27 | [Besta é Tu](https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 4:24 |
+| 28 | [Clareiamô](https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Anavitória Canta Para Foliões De Bloco, Foliões De Avenida E Não Foliões Também](https://open.spotify.com/album/2DzY5n5rryVpWVsGbpaavi) | 3:46 |
 | 29 | [Margarida Perfumada \(Ao Vivo\)](https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tribal Bahia](https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI) | 5:07 |
 | 30 | [Balancê](https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:08 |
 | 31 | [Nem Ouro Nem Prata](https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K) | [Ruy Maurity](https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf) | [Nem Ouro Nem Prata](https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ) | 3:41 |

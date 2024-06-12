@@ -34193,6 +34193,28 @@
     },
     {
       "album": {
+        "name": "PAF",
+        "url": "https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "PAF",
+      "url": "https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP"
+    },
+    {
+      "album": {
         "name": "Page blanche",
         "url": "https://open.spotify.com/album/1nFPNsBjgcPN5IJhXBYnfA"
       },
@@ -41356,7 +41378,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 137533,
       "name": "SHE LIT",
       "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,019 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,035 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 6 | [Ya No Llores Más](https://open.spotify.com/track/4lOmtrxu0fqqJXoA61zuUa) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Ya No Llores Más](https://open.spotify.com/album/3WF0Dh8UqHVhLOptDetOUE) | 3:00 |
 | 7 | [Ecos y Ruido](https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Ecos y Ruido](https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW) | 3:36 |
 | 8 | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/track/340jugUb06Yq0CwiUnZT50) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/album/61P20Js8bZj20akjMyHqdY) | 2:49 |
-| 9 | [Mi Viejo](https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Mi Viejo \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR) | 5:03 |
+| 9 | [Mi Viejo \(Soundtrack de la Película "EL HALCÓN"\)](https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Mi Viejo \(Soundtrack de la Película "EL HALCÓN"\)](https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR) | 5:03 |
 | 10 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 |
 | 11 | [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 |
 | 12 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 |

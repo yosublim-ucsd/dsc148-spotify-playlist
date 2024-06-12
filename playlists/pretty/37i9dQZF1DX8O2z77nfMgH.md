@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Yandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,705 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,738 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

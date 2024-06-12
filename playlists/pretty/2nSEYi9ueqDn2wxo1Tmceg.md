@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: Ela Minus
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,946 likes - 51 songs - 4 hr 4 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,943 likes - 51 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

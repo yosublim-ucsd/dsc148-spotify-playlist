@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 499095,
+  "num_followers": 499256,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
+        "name": "Standards (Deluxe)",
+        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Standards (Deluxe)",
-        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Renee Olstead",
-        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "Currency Of Man (The Artist's Cut)",
         "url": "https://open.spotify.com/album/4ZkGB9t9bsqqoLeN98k1mR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 305578,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/46XjHO7TEewoj69KMpUoFQ"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "Renee Olstead",
+        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
-        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
       "artists": [
         {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -599,6 +583,22 @@
       "duration_ms": 124986,
       "name": "They Can\u2019t Take That Away From Me",
       "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
+        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 196250,
       "name": "Lumi\u00e9re",
       "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1103,22 +1103,34 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+        "name": "These Are the Memories",
+        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
         }
       ],
-      "duration_ms": 273626,
-      "name": "Suzanne (feat. Gregory Porter)",
-      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
+      "duration_ms": 273670,
+      "name": "These Are the Memories",
+      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lovbrand",
+          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1139,18 +1151,22 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "These Are the Memories",
-        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
       "artists": [
         {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 273670,
-      "name": "These Are the Memories",
-      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1183,22 +1199,6 @@
       "duration_ms": 270000,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lovbrand",
-          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 196320,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "The Best of Blu",
-        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
-      },
-      "artists": [
-        {
-          "name": "Jonny Blu",
-          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Girl from Ipanema",
-      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "The Best of Blu",
+        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
+      },
+      "artists": [
+        {
+          "name": "Jonny Blu",
+          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Girl from Ipanema",
+      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
-      },
-      "artists": [
-        {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
-        }
-      ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "The Moon, the Stars and You",
         "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
       },
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "Over the Rainbow",
         "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 251103,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -1983,6 +1983,38 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "Nice Girls Don't Stay for Breakfast",
+        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 217507,
+      "name": "Nice Girls Don't Stay for Breakfast",
+      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
         "name": "Somehow Life Got in the Way",
         "url": "https://open.spotify.com/album/7eYV6gKGKsNlmdfVrRPwVo"
       },
@@ -2019,22 +2051,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 348013,
       "name": "All I Needed",
       "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
-        "name": "Nice Girls Don't Stay for Breakfast",
-        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 217507,
-      "name": "Nice Girls Don't Stay for Breakfast",
-      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
+        "name": "The Molly Johnson Songbook",
+        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2223,18 +2239,18 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "The Molly Johnson Songbook",
-        "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
       "artists": [
         {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+          "name": "mystery tea.",
+          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
         }
       ],
-      "duration_ms": 205040,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
+      "duration_ms": 236367,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -2251,22 +2267,6 @@
       "duration_ms": 272768,
       "name": "Hilltop",
       "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
-      },
-      "artists": [
-        {
-          "name": "mystery tea.",
-          "url": "https://open.spotify.com/artist/6nV1Cu7TSnmGMRCtaeynOo"
-        }
-      ],
-      "duration_ms": 236367,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
+        "name": "Summer Wind",
+        "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 161271,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
         "name": "Blues and Bells",
         "url": "https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 307773,
       "name": "When Wind Fades",
       "url": "https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
-        "name": "Summer Wind",
-        "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 161271,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
     },
     {
       "added_at": "2024-06-07 09:12:15",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-06-07 09:12:15",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
-      },
-      "artists": [
-        {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
-    },
-    {
-      "added_at": "2024-06-07 09:12:15",
-      "album": {
         "name": "Hands Off",
         "url": "https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 263600,
       "name": "Hands Off",
       "url": "https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna"
+    },
+    {
+      "added_at": "2024-06-07 09:12:15",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     },
     {
       "added_at": "2024-06-07 09:12:15",

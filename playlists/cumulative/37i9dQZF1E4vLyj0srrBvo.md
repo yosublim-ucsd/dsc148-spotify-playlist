@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Rádio de Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> Com FKA twigs, Crystal Castles, Purity Ring e mais
+> With FKA twigs, Crystal Castles, Purity Ring and more
 
 1,770 songs - 4 day 12 hr 51 min
 
@@ -696,7 +696,7 @@
 | [Haunted Water](https://open.spotify.com/track/0Uup3QTk7HXXMTkuXBvSqA) | [Spellling](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Mazy Fly](https://open.spotify.com/album/6gVfjDY8iDGpGw3ObrB19y) | 4:46 | 2022-03-11 | 2022-10-15 |
 | [He Took Her to a Movie](https://open.spotify.com/track/67rg7z2MZN4WuVaUNHFeRK) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [604](https://open.spotify.com/album/0Rg5gPR4pbwQrnfmTO9yxK) | 3:10 | 2022-12-20 | 2023-03-25 |
 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 | 2021-05-05 | 2022-03-06 |
-| [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2024-04-25 | 2024-06-07 |
+| [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2024-04-25 |  |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2023-09-26 | 2024-02-01 |
 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2020-10-22 | 2022-02-21 |
 | [Heatwave](https://open.spotify.com/track/4TvHgHwMh8jkc9iIUqljUZ) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heatwave](https://open.spotify.com/album/2lEUWac6gmtTkuHOZqiGoH) | 2:42 | 2022-07-27 | 2023-04-11 |
@@ -785,7 +785,7 @@
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2020-12-11 | 2021-12-18 |
 | [I'd Rather Sleep](https://open.spotify.com/track/614cx8ZtQJX7jRIBnUhPA7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 1:55 | 2024-02-12 | 2024-02-15 |
 | [I'll Haunt You](https://open.spotify.com/track/4ZXIWSHrJT3yL6IrLPWPM5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 2:32 | 2022-03-31 | 2022-07-03 |
-| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 |  |
+| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 | 2024-06-12 |
 | [I'm Not Done \- Still Not Done Mix](https://open.spotify.com/track/5bhgC6aNOJIt5PVTrmuwu1) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge Remix](https://open.spotify.com/album/2wV1CNHfzOxg2dD7UvTfGF) | 4:28 | 2022-06-09 | 2022-06-10 |
 | [I'm On Fire](https://open.spotify.com/track/04sx4DemzEp9Dzopqge2QX) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [In The City](https://open.spotify.com/album/0IPR1Bmg15FsnBtZ0BNFA5) | 4:05 | 2020-10-16\* | 2022-03-05 |
 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 | 2023-05-08 | 2023-11-11 |

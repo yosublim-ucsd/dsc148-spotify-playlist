@@ -1,6 +1,6 @@
 {
   "description": "Cumbia pa' volar la chapa con Damas Gratis.",
-  "num_followers": 565799,
+  "num_followers": 565821,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-06-07 17:25:24",
       "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2024-06-07 17:25:24",
+      "album": {
         "name": "El WhatsApp (Remix)",
         "url": "https://open.spotify.com/album/7GM7fXU6oVahpfXoNjNbtg"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 159900,
       "name": "El WhatsApp - Remix",
       "url": "https://open.spotify.com/track/0MDlIAcp1uuaf77uBUmnjh"
-    },
-    {
-      "added_at": "2024-06-07 17:25:24",
-      "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "added_at": "2024-06-07 17:25:24",
@@ -1219,6 +1219,38 @@
     {
       "added_at": "2024-06-07 17:25:24",
       "album": {
+        "name": "Barrio Prendido",
+        "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr"
+        },
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        },
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 240008,
+      "name": "Barrio Prendido",
+      "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
+    },
+    {
+      "added_at": "2024-06-07 17:25:24",
+      "album": {
         "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
         "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
       },
@@ -1255,38 +1287,6 @@
       "duration_ms": 165756,
       "name": "Fua Mi Amor",
       "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
-    },
-    {
-      "added_at": "2024-06-07 17:25:24",
-      "album": {
-        "name": "Barrio Prendido",
-        "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr"
-        },
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        },
-        {
-          "name": "MOMO",
-          "url": "https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 240008,
-      "name": "Barrio Prendido",
-      "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
     },
     {
       "added_at": "2024-06-07 17:25:24",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-06-07 17:25:24",
       "album": {
+        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
+        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
+    },
+    {
+      "added_at": "2024-06-07 17:25:24",
+      "album": {
         "name": "EXCUSAS",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 221333,
       "name": "EXCUSAS",
       "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
-    },
-    {
-      "added_at": "2024-06-07 17:25:24",
-      "album": {
-        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
-        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 208744,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
     },
     {
       "added_at": "2024-06-07 17:25:24",
@@ -2003,6 +2003,38 @@
     {
       "added_at": "2024-06-07 17:25:24",
       "album": {
+        "name": "Par-Tusa",
+        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Par-Tusa",
+      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+    },
+    {
+      "added_at": "2024-06-07 17:25:24",
+      "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "Me Volvi a Enamorar",
+      "url": "https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC"
+    },
+    {
+      "added_at": "2024-06-07 17:25:24",
+      "album": {
         "name": "TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -2023,22 +2055,6 @@
     {
       "added_at": "2024-06-07 17:25:24",
       "album": {
-        "name": "Par-Tusa",
-        "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Par-Tusa",
-      "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
-    },
-    {
-      "added_at": "2024-06-07 17:25:24",
-      "album": {
         "name": "Mata",
         "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
       },
@@ -2051,6 +2067,22 @@
       "duration_ms": 157080,
       "name": "Mata",
       "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
+    },
+    {
+      "added_at": "2024-06-07 17:25:24",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
     },
     {
       "added_at": "2024-06-07 17:25:24",
@@ -2107,38 +2139,6 @@
     {
       "added_at": "2024-06-07 17:25:24",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "Me Volvi a Enamorar",
-      "url": "https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC"
-    },
-    {
-      "added_at": "2024-06-07 17:25:24",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2024-06-07 17:25:24",
-      "album": {
         "name": "El Autentico Creador De La Cumbia Callejera",
         "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
       },
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-06-07 17:25:24",
       "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 230448,
+      "name": "Sigue bailando mi amor",
+      "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
+    },
+    {
+      "added_at": "2024-06-07 17:25:24",
+      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 223920,
       "name": "La cola less",
       "url": "https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV"
-    },
-    {
-      "added_at": "2024-06-07 17:25:24",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 230448,
-      "name": "Sigue bailando mi amor",
-      "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
     },
     {
       "added_at": "2024-06-07 17:25:24",

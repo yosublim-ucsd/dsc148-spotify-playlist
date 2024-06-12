@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 11193,
+  "num_followers": 11222,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAAqWRJuIk6HMjbbBd88vehf",
+  "snapshot_id": "ZmZCAAAAAAB4a0XnbG3PIg1WLPjxqdXq",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky (Deluxe)",
-        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+        "name": "Man on the Moon",
+        "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
       },
       "artists": [
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 199383,
-      "name": "Fix You Too (feat. Kameron Marlowe)",
-      "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
+      "duration_ms": 187017,
+      "name": "Man on the Moon",
+      "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
     },
     {
       "added_at": null,
@@ -111,18 +107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man on the Moon",
-        "url": "https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI"
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
       "artists": [
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 187017,
-      "name": "Man on the Moon",
-      "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
+      "duration_ms": 199383,
+      "name": "Fix You Too (feat. Kameron Marlowe)",
+      "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
     },
     {
       "added_at": null,

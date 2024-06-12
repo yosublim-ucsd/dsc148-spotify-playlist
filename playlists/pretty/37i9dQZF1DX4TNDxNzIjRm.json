@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1378880,
+  "num_followers": 1378827,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2024-05-06 16:59:11",
       "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
-    },
-    {
-      "added_at": "2024-05-06 16:59:11",
-      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2024-05-06 16:59:11",
+      "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "added_at": "2024-06-04 18:36:48",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-05-06 16:59:11",
       "album": {
-        "name": "ULTRA SOLO",
-        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "ULTRA SOLO",
-      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
-    },
-    {
-      "added_at": "2024-05-06 16:59:11",
-      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2024-05-06 16:59:11",
+      "album": {
+        "name": "ULTRA SOLO",
+        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "duration_ms": 227220,
+      "name": "ULTRA SOLO",
+      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
       "added_at": "2024-05-06 16:59:11",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2024-05-06 16:59:11",
       "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2024-05-06 16:59:11",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
+    },
+    {
+      "added_at": "2024-05-06 16:59:11",
+      "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2024-05-06 16:59:11",
@@ -2075,22 +2075,22 @@
     {
       "added_at": "2024-05-06 16:59:11",
       "album": {
-        "name": "2/Catorce",
-        "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
+        "name": "Chica Ideal",
+        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Mr. Naisgai",
-          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 212031,
-      "name": "2/Catorce",
-      "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
+      "duration_ms": 183240,
+      "name": "Chica Ideal",
+      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
     },
     {
       "added_at": "2024-05-06 16:59:11",
@@ -2119,22 +2119,22 @@
     {
       "added_at": "2024-05-06 16:59:11",
       "album": {
-        "name": "Chica Ideal",
-        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
+        "name": "2/Catorce",
+        "url": "https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
         }
       ],
-      "duration_ms": 183240,
-      "name": "Chica Ideal",
-      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+      "duration_ms": 212031,
+      "name": "2/Catorce",
+      "url": "https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t"
     },
     {
       "added_at": "2024-05-06 16:59:11",

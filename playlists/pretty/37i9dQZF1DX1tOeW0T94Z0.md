@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Tamia
 
-[](https://open.spotify.com/user/null) - 11,290 likes - 65 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,293 likes - 65 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

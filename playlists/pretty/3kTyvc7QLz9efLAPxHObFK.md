@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,444 songs - 3 day 6 hr 54 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,445 songs - 3 day 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1435,7 +1435,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1425 | [Wildest Nightmares](https://open.spotify.com/track/1lCauJgMwhebXPBGHhZ8at) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [Wildest Nightmares](https://open.spotify.com/album/0PdE0C7OGIpTLKy9btK4fi) | 3:06 |
 | 1426 | [Don't Love U](https://open.spotify.com/track/46InKjUqH3OGT6V4GlAO7X) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId), [STV](https://open.spotify.com/artist/4F1WiMuCRWlwrKk9mdVmlV), [UNVIZION](https://open.spotify.com/artist/2mAd3aPOk5XiAt75mJWUDT) | [Don't Love U](https://open.spotify.com/album/128rKjnMicAMwdszPs3zca) | 3:03 |
 | 1427 | [TELL ME WHY](https://open.spotify.com/track/5WX5LOr8DZ15CG5gnEuyh1) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [TELL ME WHY](https://open.spotify.com/album/75tmdS7XiMvqVYqu3hQle1) | 1:57 |
-| 1428 | [Raised By The Street](https://open.spotify.com/track/6MaUCMktSXG8JEmCGVb9Tw) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Raised By The Streets](https://open.spotify.com/album/2IKB3euYazpgRDDyqZu2zM) | 2:50 |
+| 1428 | [Raised By The Streets](https://open.spotify.com/track/6MaUCMktSXG8JEmCGVb9Tw) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d), [Madsin](https://open.spotify.com/artist/32PugX56xGoO6rUWgvzNSz) | [Raised By The Streets](https://open.spotify.com/album/2IKB3euYazpgRDDyqZu2zM) | 2:50 |
 | 1429 | [Crowd Jumpin'](https://open.spotify.com/track/6ccvMhf7E3tVESztZvJ0vZ) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Crowd Jumpin'](https://open.spotify.com/album/0Hh55UzPWEH99eZYYzIdqD) | 3:13 |
 | 1430 | [When We Touch](https://open.spotify.com/track/3ZiC8gNSyUoeAnWSUZTdfn) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [When We Touch](https://open.spotify.com/album/6ciEZDPFWW3jpfhYMDZiYP) | 2:44 |
 | 1431 | [INSIDE](https://open.spotify.com/track/4HOJX4Agh7QwLkWpzXQb6s) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [INSIDE](https://open.spotify.com/album/34zTublgmgEIai6impym4m) | 2:59 |
@@ -1452,5 +1452,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1442 | [COME 2 DADDY](https://open.spotify.com/track/6sxm18D8ySWK1c0NZX00k5) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [COME 2 DADDY](https://open.spotify.com/album/0ZNypRPkBYqmA9dLSXr8PJ) | 2:42 |
 | 1443 | [Two Girls One Trouble](https://open.spotify.com/track/6lMR5Egu0fd5EJLOySuhuM) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [Two Girls One Trouble](https://open.spotify.com/album/34X3wRGQPfNevTDKSSzIgw) | 2:36 |
 | 1444 | [Bankai](https://open.spotify.com/track/5rxmO0stn0eRfn8vU9h1NR) | [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Bankai](https://open.spotify.com/album/2Wpq1krvlY0IIMm2gqr3D0) | 2:30 |
+| 1445 | [BIG STAINS](https://open.spotify.com/track/2mKU0XmEUBSC6z7FqIG8Wp) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [BIG STAINS](https://open.spotify.com/album/14igV0MT8jX91uy6Jr8NOz) | 2:20 |
 
-Snapshot ID: `AAAF0BWze8QDvCKDLmAHEGaPqageToFf`
+Snapshot ID: `AAAF0UHSV0iEnaBZwdoWTrF0E4+ZI746`

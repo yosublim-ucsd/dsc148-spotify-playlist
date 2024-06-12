@@ -2,7 +2,7 @@
 
 ### [This Is Intocable](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wUpCE)
 
-> This is Intocable\. The essential tracks, all in one playlist.
+> This Is Intocable\. Los temas esenciales, todos en una lista.
 
 70 songs - 4 hr 9 min
 
@@ -16,7 +16,7 @@
 | [Basto](https://open.spotify.com/track/6DtgjNnFU73SoLXh5teMhn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:37 | 2023-08-08 | 2023-09-26 |
 | [Basto](https://open.spotify.com/track/2fDA3Ws2IgRRvJL3N3cg21) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:38 | 2023-12-13 |  |
 | [Cajita De Cartón \- bonus track](https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [XX Aniversario \(En Vivo\)](https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr) | 3:03 | 2023-08-08 |  |
-| [Como Si Fuera Una Canción](https://open.spotify.com/track/2qnq3tptXaOmkztFAjd636) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:46 | 2024-02-15 |  |
+| [Como Si Fuera Una Canción](https://open.spotify.com/track/2qnq3tptXaOmkztFAjd636) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:46 | 2024-02-15 | 2024-06-12 |
 | [Como Te Atreves](https://open.spotify.com/track/1bg1HuabdLOEfGms2uVqfk) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2C](https://open.spotify.com/album/3IjzhpUUoLW0VFp4agHElm) | 3:36 | 2023-08-08 |  |
 | [Con Mis Alas Rotas](https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:36 | 2023-08-08 |  |
 | [Contigo](https://open.spotify.com/track/4uvXexDPkF0gV2K6sqNYDV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:25 | 2023-08-08 |  |
@@ -49,7 +49,7 @@
 | [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 | 2023-08-08 | 2024-01-04 |
 | [No Me Hablen de Amor](https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:09 | 2024-01-03 |  |
 | [No Se Vuelve A Repetir](https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Se Vuelve A Repetir](https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE) | 3:14 | 2023-08-08 |  |
-| [No Te Vayas](https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:26 | 2023-08-08 | 2024-06-11 |
+| [No Te Vayas](https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:26 | 2023-08-08 |  |
 | [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 | 2023-09-09 | 2024-02-28 |
 | [Obsesión](https://open.spotify.com/track/5HoGLhdxgp5nFqw5KM15wj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 2:32 | 2024-03-22 | 2024-03-28 |
 | [Ojalá Estuvieras Aquí](https://open.spotify.com/track/0qv6HGoCMqZ7ipX4u4N8KQ) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 2:46 | 2024-02-10 |  |

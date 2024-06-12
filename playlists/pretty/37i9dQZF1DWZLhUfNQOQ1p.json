@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 246128,
+  "num_followers": 246135,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
-      },
-      "artists": [
-        {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
-        }
-      ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
         }
       ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1395,18 +1395,34 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 238000,
       "name": "Fell In Luv",
       "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "The Way You Say (Remixes)",
-        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "The Way You Say - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "The Way You Say (Remixes)",
+        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "The Way You Say - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "La Motocicletta",
+        "url": "https://open.spotify.com/album/1z5KThCiuYwgnJODi6Lxfa"
+      },
+      "artists": [
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "duration_ms": 297354,
+      "name": "La Motocicletta",
+      "url": "https://open.spotify.com/track/6Fsikuruoag80X8KXj9odm"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "La Motocicletta",
-        "url": "https://open.spotify.com/album/1z5KThCiuYwgnJODi6Lxfa"
-      },
-      "artists": [
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 297354,
-      "name": "La Motocicletta",
-      "url": "https://open.spotify.com/track/6Fsikuruoag80X8KXj9odm"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1847,18 +1847,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
       "artists": [
         {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+        },
+        {
+          "name": "D Taylor",
+          "url": "https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I"
         }
       ],
-      "duration_ms": 234926,
-      "name": "Era - Edit",
-      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
+      "duration_ms": 413315,
+      "name": "The Shit Baby",
+      "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
     }
   ],
   "unique_name": "Aperitivo Time",

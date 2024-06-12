@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24017,
+  "num_followers": 24018,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "MAL NECESARIO",
+        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "MAL NECESARIO",
+      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "TRIP",
         "url": "https://open.spotify.com/album/4R2oCsWPmQLLfRZUZwpjzh"
       },
@@ -1087,30 +1103,6 @@
       "duration_ms": 175161,
       "name": "TRIP",
       "url": "https://open.spotify.com/track/4qJZMkZWLkjXsddoBzAgpb"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "PACTO",
-        "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
-      },
-      "artists": [
-        {
-          "name": "Anto Segovia",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Criss J.",
-          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "PACTO",
-      "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1183,18 +1175,26 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "MAL NECESARIO",
-        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S"
       },
       "artists": [
         {
           "name": "Anto Segovia",
           "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        },
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Criss J.",
+          "url": "https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe"
         }
       ],
-      "duration_ms": 174826,
-      "name": "MAL NECESARIO",
-      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
+      "duration_ms": 174000,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "El Magnetismo",
-        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "El Magnetismo",
-      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "El Magnetismo",
+        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "SHAMPOO",
-        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 181983,
-      "name": "SHAMPOO",
-      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Marcha II",
-        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+        "name": "SHAMPOO",
+        "url": "https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 224330,
-      "name": "Atentado en la Pista",
-      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
+      "duration_ms": 181983,
+      "name": "SHAMPOO",
+      "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1559,6 +1543,22 @@
       "duration_ms": 235710,
       "name": "La Monta\u00f1a",
       "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Marcha II",
+        "url": "https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        }
+      ],
+      "duration_ms": 224330,
+      "name": "Atentado en la Pista",
+      "url": "https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Ficci\u00f3n",
         "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 201601,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1767,22 +1767,18 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+        "name": "Peces Raros (Vivo Buenos Aires)",
+        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
       },
       "artists": [
         {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+      "duration_ms": 310890,
+      "name": "Sombras en la Pared - Vivo Buenos Aires",
+      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
     }
   ],
   "unique_name": "ElectroPop",

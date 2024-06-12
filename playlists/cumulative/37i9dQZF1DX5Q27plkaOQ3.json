@@ -4999,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Gangstalkers",
+        "url": "https://open.spotify.com/album/6TKQCqnm2XUYdUvvpoIthP"
+      },
+      "artists": [
+        {
+          "name": "Dack Janiels",
+          "url": "https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Gangstalkers",
+      "url": "https://open.spotify.com/track/2UGCMLvQ7kGdkif2dZ9sZr"
+    },
+    {
+      "album": {
         "name": "Gawdam",
         "url": "https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj"
       },
@@ -7084,7 +7102,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 192732,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0"

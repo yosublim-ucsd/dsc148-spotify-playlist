@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 145 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 22 | [Cruel Intentions](https://open.spotify.com/track/3Lzx6XSjH3ik3ZvigLK1Fb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:12 |
 | 23 | [we're not alike](https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:00 |
 | 24 | [grave](https://open.spotify.com/track/6jDT7DB6k0psPX0nWNDI1K) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:13 |
-| 25 | [FUCKBOY](https://open.spotify.com/track/4z6F5S9wbnjXK1JcCViIKM) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/3SWjeSD9WCC3l58LTmKgWU) | 3:10 |
-| 26 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
+| 25 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
+| 26 | [FUCKBOY](https://open.spotify.com/track/4z6F5S9wbnjXK1JcCViIKM) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/3SWjeSD9WCC3l58LTmKgWU) | 3:10 |
 | 27 | [The Subway Song](https://open.spotify.com/track/4Hd0vNtf1iHFz2B3tAkexY) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 4:01 |
 | 28 | [Fool's Gold](https://open.spotify.com/track/2VgDWxtqmHJh58enzTyijv) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:59 |
 | 29 | [You Don't Even Know Me](https://open.spotify.com/track/1AcoISuZA2tq5uFOwRA7yu) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [You Don't Even Know Me](https://open.spotify.com/album/6OWcBFdfI15aown78xchVh) | 3:46 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 101 | [His Vows](https://open.spotify.com/track/036iNbKmOPKvlhugvt8gYS) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:42 |
 | 102 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 
-Snapshot ID: `AbTt3AAAAAAF8HCfFmIL1BhiGxaIF0UP`
+Snapshot ID: `AbTzdAAAAABohibMGOtIuKcmnBTTDMkX`

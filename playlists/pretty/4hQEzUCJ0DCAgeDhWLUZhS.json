@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAG6plRyGJ+5k3DXqaasLzlMsWQP85A",
+  "snapshot_id": "AAAG7CXBB0QA9wcHoNr3IYrrrU/JdQyO",
   "tracks": [
+    {
+      "added_at": "2024-06-12 01:38:59",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
     {
       "added_at": "2024-05-03 02:24:30",
       "album": {

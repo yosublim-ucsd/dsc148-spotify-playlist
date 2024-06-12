@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 14369,
+  "num_followers": 14374,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,26 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Party No Dey Stop",
-        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
+        "name": "Soweto (with Omah Lay & Tempoe)",
+        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Party No Dey Stop",
-      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+      "duration_ms": 182857,
+      "name": "Soweto (with Omah Lay & Tempoe)",
+      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -555,26 +559,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Soweto (with Omah Lay & Tempoe)",
-        "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
+        "name": "Party No Dey Stop",
+        "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Soweto (with Omah Lay & Tempoe)",
-      "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
+      "duration_ms": 168857,
+      "name": "Party No Dey Stop",
+      "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -615,22 +615,42 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+        "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo)",
+        "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
         },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Silas Africa",
+          "url": "https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+      "duration_ms": 443556,
+      "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo)",
+      "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -691,42 +711,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo)",
-        "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
       "artists": [
         {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         },
         {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Masterpiece YVK",
-          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
-        },
-        {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
-        },
-        {
-          "name": "M.J",
-          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
-        },
-        {
-          "name": "Silas Africa",
-          "url": "https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP"
-        },
-        {
-          "name": "Al xapo",
-          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 443556,
-      "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Alxapo)",
-      "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Growing Pains (Deluxe)",
-        "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        }
-      ],
-      "duration_ms": 242142,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "Likor (feat. Stonebwoy)",
         "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 164705,
       "name": "Likor (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 148651,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 184385,
       "name": "Jah Guide",
       "url": "https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 148651,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
     },
     {
       "added_at": "2024-06-07 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 21 | [Los Andares De Alfredo](https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Migueles De Miguel Montoya](https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns) | [Los Andares De Alfredo](https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi) | 3:01 |
 | 22 | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7) | 3:18 |
 | 23 | [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 |
-| 24 | [GRUPO TÁCTICO](https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Grupo Táctico](https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0) | 3:00 |
-| 25 | [Mariachi Tumbado](https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Tumbado](https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7) | 2:48 |
+| 24 | [Mariachi Tumbado](https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Tumbado](https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7) | 2:48 |
+| 25 | [GRUPO TÁCTICO](https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Grupo Táctico](https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0) | 3:00 |
 | 26 | [SALUDOS A MI VIEJÓN](https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Alberto H](https://open.spotify.com/artist/5aOm6iaKxo35g41zaju8kd) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:14 |
 | 27 | [Cajita De Oro \(Live\)](https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:52 |
 | 28 | [Déjame Llevarte](https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:42 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 43 | [Nave 727 \- En Vivo](https://open.spotify.com/track/5Zk59MAZxwbf6oMulM8P0k) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Hay Pedo, Hay Peda \(En Vivo\)](https://open.spotify.com/album/5jaNQ9eqs1mTJwOsEunLY5) | 3:50 |
 | 44 | [Vuelve](https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 3:09 |
 | 45 | [TÍO LITO](https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tío Lito](https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM) | 2:57 |
-| 46 | [TUMBADÓN](https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:35 |
-| 47 | [Soy Todo Tuyo \- En Vivo](https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Soy Todo Tuyo \(En Vivo\)](https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK) | 3:15 |
-| 48 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 |
+| 46 | [Soy Todo Tuyo \- En Vivo](https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Soy Todo Tuyo \(En Vivo\)](https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK) | 3:15 |
+| 47 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 |
+| 48 | [TUMBADÓN](https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:35 |
 | 49 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 |
 | 50 | [De Negra a Negra](https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [De Negra a Negra](https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp) | 2:45 |
-| 51 | [EL MAGO “EL MÁGICO”](https://open.spotify.com/track/7n1mrrgEcpSXpjULsOQZmO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:03 |
+| 51 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 |
 
-Snapshot ID: `ZmTwgAAAAABTdC8epyMPgKf0XlUVu+Eh`
+Snapshot ID: `ZmZCAAAAAAD1f9lbKcUl+4juIPWUqz9g`

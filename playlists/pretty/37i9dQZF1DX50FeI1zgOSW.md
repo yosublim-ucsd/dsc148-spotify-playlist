@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,768 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,791 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 5 | [Thedalae](https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Thedalae](https://open.spotify.com/album/1y75Hi81uXLV51z6lqEIuI) | 3:12 |
 | 6 | [Vizhi](https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6) | [Vizhi](https://open.spotify.com/album/55N7GixVbyi5islA1qaMs1) | 4:42 |
 | 7 | [Neethan](https://open.spotify.com/track/6gHyDQRtXeGMSBflq4teh1) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Neethan](https://open.spotify.com/album/3e7ZB41ZdFnJnFpe3R34Bd) | 3:35 |
-| 8 | [Aneram Andhineram](https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA) | [Megas Raj](https://open.spotify.com/artist/5mv9YjItK1k1bWI7xZw5VI) | [Aneram Andhineram](https://open.spotify.com/album/4XWZYTFrPx8PiGZRZKQrsr) | 2:33 |
+| 8 | [Aneram Andhaneram](https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA) | [Megas Raj](https://open.spotify.com/artist/5mv9YjItK1k1bWI7xZw5VI), [Pragathish Pugazh](https://open.spotify.com/artist/6jHHXVPqgf4A5IHSHGd1AW) | [Aneram Andhaneram](https://open.spotify.com/album/4XWZYTFrPx8PiGZRZKQrsr) | 2:33 |
 | 9 | [Pakano](https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pakano](https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12) | 2:21 |
 | 10 | [Kannurangu](https://open.spotify.com/track/2sxqSPufXTi1yyeZmxuPEG) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Syed Subahan](https://open.spotify.com/artist/3gQ8iee3y7UsGTMuhjzEuD), [Nalini Vittobane](https://open.spotify.com/artist/5imil4usnuFDZ320XNEHt3) | [Kannurangu](https://open.spotify.com/album/1irng2JUexiR93eT0cry3k) | 3:04 |
 | 11 | [I'm Just Fine](https://open.spotify.com/track/4zN6Dvjgmo9riaT7JgAKHF) | [Akira Da Rapwolf](https://open.spotify.com/artist/4xQxr2dCxTIZRWNTxF3Km4) | [I'm Just Fine](https://open.spotify.com/album/1RNC4DxSlo0Wgnx641pzTy) | 3:38 |

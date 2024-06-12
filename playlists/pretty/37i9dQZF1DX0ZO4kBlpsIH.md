@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,262 likes - 108 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,452 likes - 108 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,15 +106,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 96 | [Ballad Du Paris](https://open.spotify.com/track/0bgEcO0WvBzpGVujZNuY8E) | [Francois Parisi](https://open.spotify.com/artist/5UwPIPTmXwjYU3VoTOVXDV) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:14 |
 | 97 | [Paris Pigalle](https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:00 |
 | 98 | [Crazy](https://open.spotify.com/track/5wILoqydB2oea8fQFWVGOG) | [Gypsy Jazz Caravan](https://open.spotify.com/artist/0SLHeCwwiwjCElg072D2g7) | [Gypsy Jazz Caravan III](https://open.spotify.com/album/2DWUmK8Bo0wiT21Wb7d2Ne) | 4:26 |
-| 99 | [Chapeau Mou](https://open.spotify.com/track/1rmj070DPlN49hcaQvUD2J) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [Vallée Fleurie](https://open.spotify.com/album/5x7vEsluoexnpCH0T5dE37) | 2:04 |
-| 100 | [Nivram](https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m) | [Alma Sinti](https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK) | [Nuits de Paris](https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq) | 3:13 |
-| 101 | [Memories of Paris](https://open.spotify.com/track/7rPh14GzS3khcedkGjqAax) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 2:32 |
-| 102 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/501iTeeBoE0l0lDoUUNO3R) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Cafe Paris \- French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/4m0sM2zsMv3DxOPPj5y4Es) | 2:37 |
-| 103 | [Harry Lime's Theme](https://open.spotify.com/track/3uKUBSVaBeIasROH4eYSGZ) | [Cafe Accordion Orcherstra](https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc) | [Cinema](https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V) | 2:55 |
-| 104 | [c’est quoi ton p’tit nom](https://open.spotify.com/track/0e72GovSMMBz6tPEHpsLJC) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [c’est quoi ton p’tit nom](https://open.spotify.com/album/0fIKxC0O1BzdLfaVYrmHHc) | 3:30 |
-| 105 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 |
+| 99 | [Nivram](https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m) | [Alma Sinti](https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK) | [Nuits de Paris](https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq) | 3:13 |
+| 100 | [Memories of Paris](https://open.spotify.com/track/7rPh14GzS3khcedkGjqAax) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 2:32 |
+| 101 | [Valse Aux Champs\-Elysees](https://open.spotify.com/track/501iTeeBoE0l0lDoUUNO3R) | [Paris Cafe Ensemble](https://open.spotify.com/artist/0olzGBukMq0WEUDno526kZ) | [Cafe Paris \- French Accordion & Gypsy Guitar Favorites](https://open.spotify.com/album/4m0sM2zsMv3DxOPPj5y4Es) | 2:37 |
+| 102 | [Harry Lime's Theme](https://open.spotify.com/track/3uKUBSVaBeIasROH4eYSGZ) | [Cafe Accordion Orcherstra](https://open.spotify.com/artist/08vqZfm3Whj0wYPjBhILIc) | [Cinema](https://open.spotify.com/album/5G5cAxKMd5LFD4t5FKNI7V) | 2:55 |
+| 103 | [c’est quoi ton p’tit nom](https://open.spotify.com/track/0e72GovSMMBz6tPEHpsLJC) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [c’est quoi ton p’tit nom](https://open.spotify.com/album/0fIKxC0O1BzdLfaVYrmHHc) | 3:30 |
+| 104 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 |
+| 105 | [Chapeau Mou](https://open.spotify.com/track/1rmj070DPlN49hcaQvUD2J) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [Vallée Fleurie](https://open.spotify.com/album/5x7vEsluoexnpCH0T5dE37) | 2:04 |
 | 106 | [Au Bistrot](https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 3:07 |
 | 107 | [El choclo](https://open.spotify.com/track/0VlKpMsojxkDk4UVZVDTUv) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 4:04 |
 | 108 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 |
 
-Snapshot ID: `ZlBjvwAAAABPbFRBqLd7epvnpEl+i7lu`
+Snapshot ID: `ZmhS4wAAAABdJa5JElvPJGppKoR7XJe6`

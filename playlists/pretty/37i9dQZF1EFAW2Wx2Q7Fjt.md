@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016 likes - 124 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 124 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 52 | [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 |
 | 53 | [Drown](https://open.spotify.com/track/5P2VkMhz1Rod5OAbxsplgr) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 4:20 |
 | 54 | [Heartbroken \- Jessie Version](https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:17 |
-| 55 | [Brainstorm](https://open.spotify.com/track/6O2rEuaCuz9oULfn6USRm1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:04 |
-| 56 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
-| 57 | [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 |
+| 55 | [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 |
+| 56 | [Brainstorm](https://open.spotify.com/track/6O2rEuaCuz9oULfn6USRm1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:04 |
+| 57 | [stay done](https://open.spotify.com/track/2zScQCfO2BKtR0Yk8dtELN) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:51 |
 | 58 | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/track/50I4Px0ip8mYOT2TwUZT8k) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Welcome Back \(feat\. Alessia Cara\)](https://open.spotify.com/album/6ESCsWmTref0L1BpRlOUQJ) | 2:52 |
 | 59 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 |
 | 60 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 90 | [Imagination](https://open.spotify.com/track/3hKp94BXUs5r7xBF3lEkhP) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:16 |
 | 91 | [Do You Miss Me](https://open.spotify.com/track/6IppX350neGLNsjkVGACNp) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Do You Miss Me](https://open.spotify.com/album/2gCl7oG3bbT6AmcMJM0CEI) | 3:02 |
 | 92 | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3XWD5ErRMHC6ssFJ0pXWOE) | 3:40 |
-| 93 | [One Big Party](https://open.spotify.com/track/4YBYxI7AX3hu5GbVl0lsyB) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [One Big Party](https://open.spotify.com/album/44wj2y403F8BYJZz1RRJ8Y) | 3:38 |
-| 94 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
+| 93 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
+| 94 | [One Big Party](https://open.spotify.com/track/4YBYxI7AX3hu5GbVl0lsyB) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [One Big Party](https://open.spotify.com/album/44wj2y403F8BYJZz1RRJ8Y) | 3:38 |
 | 95 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
 | 96 | [Tension](https://open.spotify.com/track/3CAgSnSpMCLcK20JodIKfE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 4:09 |
 | 97 | [Good to See You Again!](https://open.spotify.com/track/4Db7K5tN93veftHAi7yCeS) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:14 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 123 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
 | 124 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
 
-Snapshot ID: `AbTt3gAAAACbI3Y7AwK0WbGWczUvNKLQ`
+Snapshot ID: `AbTzQgAAAAB0RQVYz9it7uqzu8VzgSyQ`

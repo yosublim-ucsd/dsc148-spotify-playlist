@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Catz 'n Dogz celebrate pride month with their guest curation takeover of Club Resistance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,093 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,075 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,164 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,154 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 30 | [Esta Navidad Mi Deseo Eres Tú \- Sinfónico](https://open.spotify.com/track/6pY7Gm2HvHDzNedY4YtF8b) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres Sinfónico](https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97) | 2:51 |
 | 31 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 |
 | 32 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
-| 33 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 |
+| 33 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
 | 34 | [Cantares de Navidad](https://open.spotify.com/track/6aqXCQOtMuKbpdE5OdIsK9) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Asi Soy...](https://open.spotify.com/album/0kzj1twqOvvdZHc9VElEpR) | 5:04 |
-| 35 | [Se Va Diciembre](https://open.spotify.com/track/3yBqAQPT5YGuEVbmhsghPs) | [José Alfredo Jimenez Con Mariachi Vargas De Tecalitlan](https://open.spotify.com/artist/0XT2a5IkSHLGTrFxnYy3rB) | [Nuestra Navidad](https://open.spotify.com/album/2Qor7EZHAQTWGObOaSXaSm) | 2:36 |
+| 35 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 |
 | 36 | [Arbolito de Navidad](https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Through Your Eyes](https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf) | 3:54 |
 | 37 | [Rodolfo el Reno](https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Navidad](https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO) | 2:56 |
 | 38 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |

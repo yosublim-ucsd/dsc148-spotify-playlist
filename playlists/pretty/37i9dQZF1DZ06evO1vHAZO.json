@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 964729,
+  "num_followers": 964890,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAD8izIbghfRIeRG3dJlWqK1",
+  "snapshot_id": "ZmZCAAAAAABrbE0crpiAPMMC82v9mCUj",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Masterplan",
-        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 322640,
-      "name": "The Masterplan",
-      "url": "https://open.spotify.com/track/0g1Y10aIIdJDkcSEuAq51k"
+      "duration_ms": 226400,
+      "name": "The Hindu Times",
+      "url": "https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig Out Your Soul",
-        "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 250013,
-      "name": "I'm Outta Time",
-      "url": "https://open.spotify.com/track/4aSd0vbnxF53nvAdzpLYXQ"
+      "duration_ms": 198533,
+      "name": "Fuckin' in the Bushes",
+      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heathen Chemistry",
-        "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 226400,
-      "name": "The Hindu Times",
-      "url": "https://open.spotify.com/track/7IuCCezGsyTH9LU4IVL57s"
+      "duration_ms": 463066,
+      "name": "D'You Know What I Mean? - Remastered",
+      "url": "https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV"
     },
     {
       "added_at": null,
@@ -404,25 +404,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Fuckin' in the Bushes",
-      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 463066,
-      "name": "D'You Know What I Mean? - Remastered",
-      "url": "https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV"
+      "duration_ms": 278693,
+      "name": "Go Let It Out",
+      "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 299946,
       "name": "The Shock Of The Lightning",
       "url": "https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 559200,
+      "name": "All Around The World - Remastered",
+      "url": "https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51"
     },
     {
       "added_at": null,
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Go Let It Out",
-      "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 559200,
-      "name": "All Around The World - Remastered",
-      "url": "https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51"
+      "duration_ms": 312680,
+      "name": "Sunday Morning Call",
+      "url": "https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 260079,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "I Hope, I Think, I Know - Remastered",
+      "url": "https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "I Hope, I Think, I Know - Remastered",
-      "url": "https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 239240,
       "name": "Turn Up The Sun",
       "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 307333,
+      "name": "Stay Young - Remastered",
+      "url": "https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 307333,
-      "name": "Stay Young - Remastered",
-      "url": "https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heathen Chemistry",
         "url": "https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O"
       },
@@ -651,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 391146,
-      "name": "Roll It Over",
-      "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Knebworth 1996 (Live)",
         "url": "https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i"
       },
@@ -683,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 391146,
+      "name": "Roll It Over",
+      "url": "https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dig Out Your Soul",
         "url": "https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15"
       },
@@ -695,6 +679,38 @@
       "duration_ms": 280413,
       "name": "Bag It Up",
       "url": "https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Masterplan (Remastered Edition)",
+        "url": "https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 385293,
+      "name": "I Am The Walrus \u2013 Live Glasgow Cathouse June '94 - Remastered",
+      "url": "https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hindu Times",
+        "url": "https://open.spotify.com/album/1luo1Rqn2siffmttcN13cV"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Idler's Dream",
+      "url": "https://open.spotify.com/track/2huEk0qKqfsS3IMgjiMKiM"
     }
   ],
   "unique_name": "This Is Oasis",

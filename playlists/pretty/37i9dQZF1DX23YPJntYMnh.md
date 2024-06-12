@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[](https://open.spotify.com/user/null) - 468,900 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,945 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 37 | [Give It Up](https://open.spotify.com/track/1fob4CISofwxucGAjaXI14) | [King's X](https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH) | [Give It Up](https://open.spotify.com/album/2JfYe3kVt5Q9euIFJOvAUx) | 2:59 |
 | 38 | [Anti Love Song](https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Betty Davis](https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz) | 4:32 |
 | 39 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
-| 40 | [Stop](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 |
+| 40 | [Stop!](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 4:14 |
 | 41 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 |
 | 42 | [Set Me Free](https://open.spotify.com/track/5WUfeLKM62vFVd0SxBCtxj) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [Set Me Free](https://open.spotify.com/album/2aGGCoiMtFv8pJI5AQvVRN) | 4:40 |
 | 43 | [Changes](https://open.spotify.com/track/2o476V7Y8JVrwXpsOwrth6) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Changes](https://open.spotify.com/album/16eZZtgTw8uqL8egLeO2zr) | 2:46 |

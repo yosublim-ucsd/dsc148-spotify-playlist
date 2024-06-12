@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Boro, Silent Bob, Néza e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,842 likes - 99 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,850 likes - 99 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

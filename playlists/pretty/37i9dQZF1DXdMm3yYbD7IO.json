@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 351820,
+  "num_followers": 352106,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/4aLuGBoXT0PEo7KIYq1Ew3"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 178880,
       "name": "Feel It - Radio Version",
       "url": "https://open.spotify.com/track/3tfVgoh2zXTq0rpPcm3Vvy"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
     },
     {
       "added_at": "2024-03-22 15:16:56",

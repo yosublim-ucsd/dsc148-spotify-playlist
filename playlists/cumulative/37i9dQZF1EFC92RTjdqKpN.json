@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "How Bad Do You Want It (Oh Yeah)",
+        "url": "https://open.spotify.com/album/5Anvuuz9x1tgrMIxurIvw3"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224738,
+      "name": "How Bad Do You Want It (Oh Yeah)",
+      "url": "https://open.spotify.com/track/7EcMaRZ5PeKgsF1PhpXUZf"
+    },
+    {
+      "album": {
         "name": "What A Weird Dream",
         "url": "https://open.spotify.com/album/0m8a1UOHdrUD1Ns10bclhc"
       },

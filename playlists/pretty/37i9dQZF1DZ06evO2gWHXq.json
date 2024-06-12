@@ -1,12 +1,12 @@
 {
   "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
-  "num_followers": 219114,
+  "num_followers": 219142,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAARIevK3YccSxZ84uq1gD64",
+  "snapshot_id": "ZmZCAAAAAAAhUz7GKOH+nuGlXqzXg2bF",
   "tracks": [
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "La Historia De Un Olvido",
+      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuern\u00fa (Remix)",
         "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
       },
@@ -984,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Juegos de pasi\u00f3n",
-      "url": "https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM"
+      "duration_ms": 221146,
+      "name": "Andamos De Parranda",
+      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
     },
     {
       "added_at": null,
@@ -1056,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Andamos De Parranda",
-      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
+      "duration_ms": 184346,
+      "name": "Juegos de pasi\u00f3n",
+      "url": "https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM"
     },
     {
       "added_at": null,
@@ -1223,30 +1239,6 @@
       "duration_ms": 235539,
       "name": "La Soledad (feat. Monica Saldivar)",
       "url": "https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Asi Es La Vida",
-        "url": "https://open.spotify.com/album/02oodXzb5WDra68PzPmFV4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 170714,
-      "name": "Asi Es La Vida",
-      "url": "https://open.spotify.com/track/08KjWadgbSOhp5Lp3r5ApO"
     }
   ],
   "unique_name": "This Is MC Davo",

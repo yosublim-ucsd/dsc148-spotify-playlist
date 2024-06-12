@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-301 songs - 17 hr 58 min
+302 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Need That](https://open.spotify.com/track/11DiSJiIJ1c6XVlTsqHpgo) | [DeCarlo](https://open.spotify.com/artist/0HjQbsxkkqV6Et2YoFHd48) | [Need That](https://open.spotify.com/album/5hJjZc3rJJr1UarsmnfJUo) | 2:28 | 2023-10-18 |  |
 | [Neon Lights \(feat\. Supa Bwe & Lil Yachty\)](https://open.spotify.com/track/3QVu5yFeifgUwpX35PFrmx) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [ZiG](https://open.spotify.com/artist/6HxZVLe5XQKhYFnGesRbKU), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Restoration of an American Idol](https://open.spotify.com/album/2XXqBkpXDNhUQw9K4fNj8t) | 5:05 | 2023-10-18 |  |
 | [News](https://open.spotify.com/track/4krpgB8twCTBq12aP4a8ug) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Pillow Talk](https://open.spotify.com/album/5OqXOVNWcFnBsYnPV0BWc6) | 3:15 | 2024-05-10 |  |
+| [Next Chapter](https://open.spotify.com/track/64A8uR5NZ1n09c1ciwlwhI) | [Old Orleans](https://open.spotify.com/artist/4vixILijwCS1MKcTr2zLwv) | [Next Chapter](https://open.spotify.com/album/6Cz8YEWC71254G7hKu1cHO) | 1:05 | 2024-06-11 |  |
 | [No Good](https://open.spotify.com/track/0ww4cvNmxkFd04X1qtFWhA) | [Samira Finley](https://open.spotify.com/artist/6tU2k4kzOc2rAbXjphvbUv) | [No Good](https://open.spotify.com/album/0Rakb4FFhKuAQUXwe7t9pD) | 4:10 | 2024-05-24 |  |
 | [No Interviews](https://open.spotify.com/track/1tXDziDamT0we73CTDsgsv) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:59 | 2023-10-18 |  |
 | [No More Sin](https://open.spotify.com/track/4DN0ulhZDEnfOyfUMZ2Gx8) | [Durand the Rapper](https://open.spotify.com/artist/7C87roQyV9v0lowFTVVBM8), [Jazzfeezy](https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi), [Rahul Bipin](https://open.spotify.com/artist/3zE3UDGLgtYoaTOnpmJPYC) | [No More Sin](https://open.spotify.com/album/1f89jv1X322QhDiSutM5qe) | 2:13 | 2024-05-31 |  |

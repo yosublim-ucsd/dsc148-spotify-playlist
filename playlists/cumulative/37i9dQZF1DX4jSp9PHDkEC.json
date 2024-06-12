@@ -418,6 +418,24 @@
     {
       "album": {
         "name": "Ashes to Ashes",
+        "url": "https://open.spotify.com/album/05yaXrjKbKZ7hjNx3KtrXR"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310226,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/2lJa0SY7vZpvJ7QDFanOuZ"
+    },
+    {
+      "album": {
+        "name": "Ashes to Ashes",
         "url": "https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894"
       },
       "artists": [
@@ -790,6 +808,24 @@
       "duration_ms": 398746,
       "name": "Behind the Backs of Houses",
       "url": "https://open.spotify.com/track/2m1iKwWyFR49YOVUpX6FG0"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5H95zxOs0ctqostVPsULG1"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202218,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/76ekLbfyuNyUFqTwr7qVLd"
     },
     {
       "album": {
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 279786,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0qqdR1TZcAAVsZ8lQqnl33"
@@ -5184,7 +5220,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 228561,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK"

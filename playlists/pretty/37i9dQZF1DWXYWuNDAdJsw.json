@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1036398,
+  "num_followers": 1036327,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -683,42 +683,6 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 148143,
-      "name": "Un Verano Sin Ti",
-      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
         "name": "Error 93",
         "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
       },
@@ -743,6 +707,42 @@
       "duration_ms": 305113,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 148143,
+      "name": "Un Verano Sin Ti",
+      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -843,26 +843,22 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "Los Vaqueros Wild Wild Mixes",
-        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "Marioso",
-          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 240200,
-      "name": "Quizas - Remix",
-      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -903,22 +899,26 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+        "name": "Los Vaqueros Wild Wild Mixes",
+        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "Marioso",
+          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
         }
       ],
-      "duration_ms": 174482,
-      "name": "TUS L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+      "duration_ms": 240200,
+      "name": "Quizas - Remix",
+      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
     },
     {
       "added_at": "2024-06-07 09:33:04",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 219183,
+      "name": "CONTINGENTE",
+      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
         "name": "1000CANCIONES",
         "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 246600,
       "name": "1000CANCIONES",
       "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 219183,
-      "name": "CONTINGENTE",
-      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
     },
     {
       "added_at": "2024-06-07 09:33:04",

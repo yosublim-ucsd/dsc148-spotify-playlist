@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,995 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,003 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 50 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 |
 | 51 | [Olor a Kush](https://open.spotify.com/track/2MUyOgaUmr77dHeqPoZhAc) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/1DUb3GFpaTgNkxkCjdoc2i) | 2:36 |
 
-Snapshot ID: `ZmTwgAAAAAD4B/V6cs6nTjTRRAVFbCr1`
+Snapshot ID: `ZmZCAAAAAACWR9jW0WZ8Ij682t8RmZel`

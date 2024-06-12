@@ -4,7 +4,7 @@
 
 > all cruise, no breaks
 
-120 songs - 7 hr 54 min
+121 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2023-09-05 |  |
 | [Crepuscule](https://open.spotify.com/track/4tjegaa9lSrtvVMq0PdiOR) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Alpha](https://open.spotify.com/album/0mXPAfu4L20ZfUPNLgXjEw) | 4:40 | 2022-05-05 | 2023-09-06 |
 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 | 2023-01-04 | 2023-09-06 |
+| [crush \(tom verlaine\)](https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [crush \(tom verlaine\)](https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33) | 3:02 | 2024-06-11 |  |
 | [Dale Calma](https://open.spotify.com/track/6DaMajLwEFY23c27AjSS13) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Presente](https://open.spotify.com/album/1MmBRu3POeoXYmp8eLezX5) | 3:33 | 2022-05-05 | 2023-09-06 |
 | [Delicate Weapon](https://open.spotify.com/track/1hT3eaGzrcFriQtgGdvsZv) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Lizzy Wizzy](https://open.spotify.com/artist/4n2RbW3dIUzGI089lh9NI0) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 3:50 | 2022-05-05 | 2023-09-06 |
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2022-05-05 | 2023-09-06 |
@@ -87,7 +88,7 @@
 | [Polish Girl](https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/1S23RKAbHcn3AF2F7ns3sN) | 4:24 | 2022-05-05 | 2023-09-06 |
 | [Power Trip \(feat\. Miguel\)](https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:01 | 2023-09-05 |  |
 | [Pulse VI](https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:27 | 2023-01-03 | 2023-09-06 |
-| [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 | 2023-09-05 |  |
+| [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 | 2023-09-05 | 2024-06-12 |
 | [Ready or Not](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 3:46 | 2023-09-05 | 2023-10-28 |
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2023-09-05 |  |
 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 | 2022-05-05 | 2023-09-03 |

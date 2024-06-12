@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-133 songs - 8 hr 1 min
+134 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 | 2021-12-13 |  |
 | [Ando Que Me Lleva](https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:22 | 2021-12-13 | 2024-04-19 |
 | [Anillo Grabado](https://open.spotify.com/track/4M3A1xOY409r0cGLEKSDmf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 2:27 | 2021-12-13 | 2023-06-02 |
+| [Anillo Grabado](https://open.spotify.com/track/0PdvrE8he4lEyHOAgS0dk8) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar, Vol\. 3](https://open.spotify.com/album/1g2KmviRFszwsmhiXsfZG5) | 2:27 | 2024-04-09 |  |
 | [Así Es La Vida](https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Es La Vida](https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp) | 3:07 | 2021-12-13 | 2023-01-11 |
 | [Ay, Chabela](https://open.spotify.com/track/76wezrN7aTkgckCeAN66qR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [A Diez Años de Su Adiós](https://open.spotify.com/album/0qNFzxN63HyABldf4m9Rdz) | 2:58 | 2024-04-09 | 2024-05-26 |
 | [Ay, Chabela](https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 | 2022-09-22 | 2022-11-13 |
@@ -47,7 +48,7 @@
 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 | 2022-09-22 | 2024-06-06 |
 | [El Comienzo del Final](https://open.spotify.com/track/3q0TpT3IiVHe2Kulf4a6qC) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:53 | 2023-10-13 | 2024-04-19 |
 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 | 2021-12-13 | 2024-04-19 |
-| [El Hijo Desobediente](https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:15 | 2024-04-09 |  |
+| [El Hijo Desobediente](https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos Antonio Aguilar](https://open.spotify.com/album/31FNBMRcI9dGKHkxx4ZtlD) | 3:15 | 2024-04-09 | 2024-06-12 |
 | [El Mala Estrella](https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 4:00 | 2021-12-13 |  |
 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 | 2021-12-13 | 2024-04-10 |
 | [El Triste \(with Pepe Aguilar\)](https://open.spotify.com/track/1OjT7kzrMsYFhzTKkzEyiT) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [José José Duetos Volumen 2](https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D) | 4:12 | 2021-12-13 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Confidence Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,747 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,012 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 |
 | 2 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 |
 | 3 | [Less of You](https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Less of You](https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht) | 3:13 |
-| 4 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 4 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 5 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 |
 | 6 | [All In](https://open.spotify.com/track/7qog6LJrOFEyELxP00x2lc) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [All In](https://open.spotify.com/album/67VEaL9NMeOlIxz6V2vMvl) | 2:35 |
 | 7 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |

@@ -4,7 +4,7 @@
 
 > Brand new music from RAYE \(pictured\), Charli XCX, Sabrina Carpenter and more!
 
-10,727 songs - 24 day 2 hr 57 min
+10,728 songs - 24 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2124,6 +2124,7 @@
 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Manifesto](https://open.spotify.com/album/4SBBGeRaboOnypEhVFRw38) | 3:21 | 2023-09-14 | 2023-09-22 |
 | [Dean Martin](https://open.spotify.com/track/0a0S1YLm1szlckCF3Dln9K) | [The Rhythm Method](https://open.spotify.com/artist/6kcYJnJl7asHdgQdrviOFb) | [Dean Martin](https://open.spotify.com/album/65awAWSkpfHbkuS8Me0Uzw) | 3:16 | 2024-02-09 | 2024-02-16 |
 | [Dear Body](https://open.spotify.com/track/2wXaoOfQlEFmq4p1HwSvBB) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Dear Body](https://open.spotify.com/album/6WgcGtcQKVgo8zpEDmHiTh) | 3:09 | 2023-10-19 | 2023-10-27 |
+| [DEAR IMMIGRATION](https://open.spotify.com/track/3aSWjgvC5d0dC2i9lF0FKl) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEAR IMMIGRATION](https://open.spotify.com/album/7KH2H2NX6J6e41rauBE3y9) | 2:38 | 2024-06-06 |  |
 | [Dear Taylor](https://open.spotify.com/track/7dMrHBiygYkV9P8JkcomCg) | [Here At Last](https://open.spotify.com/artist/2xu9qA4dq2UK1f0hDCZb2O) | [Dear Taylor](https://open.spotify.com/album/5Hxasy2SslmZzuYzlNn0Si) | 2:35 | 2024-01-12 | 2024-01-19 |
 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 | 2023-03-25 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-30 | 2024-06-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 425189,
+  "num_followers": 425338,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Cream Of The Crop",
-        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Someday We'll Be Together",
-      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Ferry Cross The Mersey [Mono And Stereo Version]",
         "url": "https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 143866,
       "name": "Ferry Cross the Mersey - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Cream Of The Crop",
+        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Someday We'll Be Together",
+      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "If You Can Believe Your Eyes And Ears",
         "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 157960,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Definitive Soul: Sam & Dave",
-        "url": "https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
         "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 252146,
       "name": "Honey (I Miss You)",
       "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Definitive Soul: Sam & Dave",
+        "url": "https://open.spotify.com/album/4xpQl6QwteNLeNzIwEbToU"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Lo Mejor de los A\u00f1os 60, Vol. 3 Pop",
         "url": "https://open.spotify.com/album/4Ur0tcSMVhS723Q19yodPK"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 152453,
       "name": "Hey Paula",
       "url": "https://open.spotify.com/track/50tTePJn69dlpGxVfWWHWM"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "September Of My Years (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "It Was A Very Good Year",
-      "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 177773,
       "name": "How Sweet It Is (To Be Loved By You)",
       "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "September Of My Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
     },
     {
       "added_at": "2022-05-30 13:00:37",

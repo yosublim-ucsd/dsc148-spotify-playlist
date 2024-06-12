@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 9 hr 53 min
+173 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,13 +98,15 @@
 | [It's You](https://open.spotify.com/track/3O8AgNdf569SM1tcUA4xnK) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1) | [It's You](https://open.spotify.com/album/5MIcJVaNH2GLATCOIKupIK) | 3:20 | 2022-09-08 |  |
 | [Joshua Tree](https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Bad Together](https://open.spotify.com/album/4haA1dy0wMx6EthzDgsGRb) | 3:51 | 2022-09-08 |  |
 | [jupiter \- live at the troubadour](https://open.spotify.com/track/4ghLHm6s3mFtPX1QCrtVKw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 4:11 | 2022-09-08 |  |
+| [just like you](https://open.spotify.com/track/0OmW4X1sTNYPwx6l1ufERh) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:54 | 2024-06-11 |  |
 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 | 2022-09-08 |  |
 | [Kiss Kiss](https://open.spotify.com/track/1YIpn8wM7Zbq7sZr9AeI7I) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:44 | 2022-09-08 |  |
 | [let love in](https://open.spotify.com/track/4mPuSd87gLkneDUVkZywi4) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:08 | 2022-09-08 |  |
 | [Little Bit Of Love](https://open.spotify.com/track/26yuncamqQJwiuf4mUJMbj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:22 | 2022-09-08 |  |
 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2022-09-08 |  |
 | [Looking For Love](https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB) | [Carlos Vara](https://open.spotify.com/artist/42hROq8g0GtFMMYaHHQmrq) | [Have You Ever Seen a Boy Break Down?](https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o) | 2:36 | 2022-09-08 |  |
-| [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 | 2023-04-08 |  |
+| [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 | 2023-04-08 | 2024-06-12 |
+| [lost cause](https://open.spotify.com/track/15yqPpsLKCPEGIVhqE7dUD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:40 | 2024-06-11 |  |
 | [Loud](https://open.spotify.com/track/0NZxAq2XRdNq90UnYOwzoB) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:24 | 2022-09-08 |  |
 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 | 2022-09-08 |  |
 | [love to love u](https://open.spotify.com/track/74o9qZ2H16sN1xHpfrfhkf) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [love to love u](https://open.spotify.com/album/4fqBuL5Lw8mepsiZUyWugY) | 3:58 | 2022-09-08 |  |

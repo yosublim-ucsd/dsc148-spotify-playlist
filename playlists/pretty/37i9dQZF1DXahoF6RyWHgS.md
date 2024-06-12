@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,583 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,587 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 36 | [Watermelon Man](https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU) | 3:14 |
 | 37 | [Café Con Pan](https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 4:25 |
 | 38 | [Michoacan](https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Court the Storm](https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr) | 2:56 |
-| 39 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
-| 40 | [Un Derecho de Nacimiento](https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0) | [Banda Filarmonica del CECAM](https://open.spotify.com/artist/2OXqK0Ec09b6ppw51V90oP), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Xëëw \(Volumen 1\)](https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf) | 5:38 |
+| 39 | [Un Derecho de Nacimiento](https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0) | [Banda Filarmonica del CECAM](https://open.spotify.com/artist/2OXqK0Ec09b6ppw51V90oP), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Xëëw \(Volumen 1\)](https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf) | 5:38 |
+| 40 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
 | 41 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 |
 | 42 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 |
 | 43 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 71 | [Los tamalitos de Olga \- Remastered](https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2) | [Abelardo Barroso](https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk) | [Guajira Guantanamera \(Remastered\)](https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID) | 2:17 |
 | 72 | [Oracion Caribe](https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Reina de Veracruz](https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo) | 3:01 |
 | 73 | [Playa Azul](https://open.spotify.com/track/4oAVOipGDcx6eLmMnCr6Dm) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The Venezuelan Zinga Son Vol\. 1](https://open.spotify.com/album/5tjLsAsh6rf9uCUpqC7wun) | 4:39 |
-| 74 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 |
-| 75 | [Hasta la Piel](https://open.spotify.com/track/6WiuIpuufnd80FpjA0ZCby) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 4:01 |
+| 74 | [Hasta la Piel](https://open.spotify.com/track/6WiuIpuufnd80FpjA0ZCby) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 4:01 |
+| 75 | [Viene de Mi](https://open.spotify.com/track/70eSJcVl6nOfDIgROsOMTr) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene de Mi](https://open.spotify.com/album/0jhVG0QkajdwBeYndOq6aZ) | 3:50 |
 | 76 | [Palmar](https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Loca Navidad Latin Rock Vol\. 4](https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX) | 3:13 |
 | 77 | [Kind Of Latin Rhythm](https://open.spotify.com/track/34wO7W3ir2VEuSD9pz8BAo) | [The Juju Orchestra](https://open.spotify.com/artist/2QZdpDHfCJCFv1BE1GhL8h) | [Bossa Nova Is Not A Crime](https://open.spotify.com/album/7ce4eayVRU30ueZdLhisCQ) | 7:21 |
 | 78 | [Cempasúchil \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/6bTV2jijcPHbyAzBtdZKOw) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 4:14 |

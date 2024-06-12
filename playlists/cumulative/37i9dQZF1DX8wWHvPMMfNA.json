@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Another way",
+        "url": "https://open.spotify.com/album/2kBYyZ9ufAfsQqoY5SYqaE"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211886,
+      "name": "Another way",
+      "url": "https://open.spotify.com/track/280Vd5Lf980YfIJIc67vUr"
+    },
+    {
+      "album": {
         "name": "A Promise",
         "url": "https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 203348,
       "name": "Around six thirty",
       "url": "https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El"
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-05",
+      "date_removed": null,
       "duration_ms": 210060,
       "name": "Collected",
       "url": "https://open.spotify.com/track/0oWtsgAcVGmBJ6vhZR4gKC"
@@ -6492,7 +6510,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 207660,
       "name": "In A Valley By A Creek",
       "url": "https://open.spotify.com/track/3iKEjLnz4fnhSppjCC2eG0"
@@ -7921,6 +7939,24 @@
     },
     {
       "album": {
+        "name": "Locals",
+        "url": "https://open.spotify.com/album/1n2qGaHUFwfkobTJE3OO5r"
+      },
+      "artists": [
+        {
+          "name": "Marc & Friends",
+          "url": "https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159224,
+      "name": "Locals",
+      "url": "https://open.spotify.com/track/0hJLXx1jRHsYyS9oaTC5wd"
+    },
+    {
+      "album": {
         "name": "Lonely as a Cloud",
         "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
       },
@@ -8598,7 +8634,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 208060,
       "name": "Me And You",
       "url": "https://open.spotify.com/track/0vfe8079vTAVIyluKYXQnt"
@@ -8724,7 +8760,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 170232,
       "name": "Midnight Memories",
       "url": "https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS"
@@ -8904,7 +8940,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 205214,
       "name": "Missouri and Iowa",
       "url": "https://open.spotify.com/track/5fqBWJqsbLYMbTd8fF0NCK"
@@ -11036,7 +11072,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 231673,
       "name": "Ruby My Dear",
       "url": "https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C"
@@ -11882,7 +11918,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 471173,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT"

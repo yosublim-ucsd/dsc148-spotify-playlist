@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 
 > The UK's biggest playlist\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,038,580 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,038,700 likes - 69 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

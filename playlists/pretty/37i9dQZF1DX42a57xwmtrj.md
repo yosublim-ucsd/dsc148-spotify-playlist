@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,709 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,768 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 20 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
 | 21 | [No Estoy Muerto](https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 3:01 |
 | 22 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
-| 23 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
-| 24 | [El Perdedor](https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 3:34 |
+| 23 | [El Perdedor](https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 3:34 |
+| 24 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
 | 25 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
 | 26 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 27 | [El Pianista](https://open.spotify.com/track/3SRD0rSAbzkaJf4PKlnrcX) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 5:19 |

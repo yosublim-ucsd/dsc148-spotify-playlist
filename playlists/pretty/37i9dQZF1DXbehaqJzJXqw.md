@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,353 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,686 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 62 | [La javanaise](https://open.spotify.com/track/4RiomsjTG30IR5V72paigO) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [La javanaise](https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO) | 2:01 |
 | 63 | [Si tu vas à Paris \- Remasterisé en 2017](https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Chansons sans époques: 1964 \- 1968 \(Remasterisé en 2017\)](https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3) | 3:13 |
 | 64 | [Tu t'laissez aller](https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [L'Orchestre Paul Mauriat](https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy) | [Le monde de la chanson, Vol\. 27: Charles Aznavour, Vol\. 2 "O toi la vie!"](https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk) | 3:39 |
-| 65 | [Dans mon île](https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Ses plus grandes chansons](https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq) | 3:20 |
-| 66 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
+| 65 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
+| 66 | [Dans mon île](https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Ses plus grandes chansons](https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq) | 3:20 |
 | 67 | [Quand on s'balade](https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [10 chansons pour l'été](https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9) | 2:49 |
 | 68 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
 | 69 | [Le soleil](https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [B Bardot \- CD Story](https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif) | 3:16 |

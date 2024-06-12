@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > The defining songs of the riot grrrl era, and the artists keeping their spirit alive\. Cover: Sleater\-Kinney
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,594 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,661 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 22 | [Mind Your Own Business](https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP) | [Delta 5](https://open.spotify.com/artist/2qe52cWdi4IRtgg14CLInb) | [Singles and Sessions 1979\-1981](https://open.spotify.com/album/7dyzbiN0P6EfoxdRIgk6lL) | 3:13 |
 | 23 | [Gimme Brains](https://open.spotify.com/track/7tqOiAIzo508J3tlWV7E1c) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:16 |
 | 24 | [superiority complex \(big noise\)](https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [FREE I.H: This Is Not the One You've Been Waiting For](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw) | 1:34 |
-| 25 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
-| 26 | [i'm not crying you're crying](https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 2:49 |
+| 25 | [i'm not crying you're crying](https://open.spotify.com/track/7ChGmRrK8sWCGp3uWNV0vH) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 2:49 |
+| 26 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
 | 27 | [Wargasm](https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:42 |
-| 28 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 |
-| 29 | [50ft Queenie](https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 2:23 |
+| 28 | [50ft Queenie](https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 2:23 |
+| 29 | [Vagina Police](https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Double A Side](https://open.spotify.com/album/0ToQnPNr2oKEbtK9mA9XDO) | 1:35 |
 | 30 | [Bitch Theme](https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/0er043d9DCecxrz0XVsPos) | 1:31 |
 | 31 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 |
 | 32 | [Land: Horses / Land of a Thousand Dances / La Mer\(de\)](https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 9:25 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 46 | [A Living Human Girl](https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 2:37 |
 | 47 | [Luxury Problem](https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 2:53 |
 | 48 | [Dress](https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo) | 3:18 |
-| 49 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
+| 49 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
 | 50 | [Handsome & Gretel](https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 1:50 |
-| 51 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
-| 52 | [Make America Great Again](https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 3:15 |
-| 53 | [No One's Little Girl](https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
+| 51 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
+| 52 | [No One's Little Girl](https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
+| 53 | [Make America Great Again](https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 3:15 |
 | 54 | [What Kind of Monster Are You?](https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd) | [Slant 6](https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY) | [Soda Pop \* Rip Off](https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ) | 2:03 |
 | 55 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 56 | [Girls Like Us](https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:19 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 69 | [Organs](https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 4:39 |
 | 70 | [Seafood](https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 2:32 |
 | 71 | [Alabama Movies](https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [Fuzz Steilacoom](https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY) | 3:40 |
-| 72 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
-| 73 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
+| 72 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
+| 73 | [Happier Still](https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:40 |
 | 74 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |
 | 75 | [Kung Fu on the Internet](https://open.spotify.com/track/0vFPN8xDwz6xWrFrAQvIoz) | [Lung Leg](https://open.spotify.com/artist/4MSXrcdEDYgxKxlT1HpDiN) | [Hello Sir](https://open.spotify.com/album/11N5aPE7xTJ3LxXrINuH8r) | 1:25 |
 | 76 | [Smash Hit](https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS) | [Potty Mouth](https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw) | [Smash Hit](https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI) | 3:20 |

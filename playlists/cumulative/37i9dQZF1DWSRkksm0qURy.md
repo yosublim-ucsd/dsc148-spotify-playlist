@@ -4,7 +4,7 @@
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-98 songs - 4 hr 46 min
+99 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Change 417 Hz](https://open.spotify.com/track/16uFpZ7sXNMUQBMgCFi9oH) | [Solfeggio Starlight](https://open.spotify.com/artist/1SacuoiX0uyRtvUxW5Ysw5) | [Change 417 Hz](https://open.spotify.com/album/4AiPahFdihLSFX9bKq9Q4L) | 3:01 | 2023-09-21 |  |
 | [Changes 417 Hz](https://open.spotify.com/track/7gv2mCKOqGKBair4WZcos5) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:09 | 2023-03-10 |  |
 | [Chi Dreaming\(417 Hz\)](https://open.spotify.com/track/4KkuPKnPIagY8PlMtb3li4) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Chi Dreaming](https://open.spotify.com/album/7ujBRqBqLdto2z3uVGkD8P) | 3:18 | 2023-11-30 |  |
+| [Circuting 417 Hz](https://open.spotify.com/track/7hv5s66hzrGx3IT3a77B7t) | [Alembra](https://open.spotify.com/artist/38jPUOLDVZiVbciCNSiSQx) | [Circuting 417 Hz](https://open.spotify.com/album/3LIB7oKofMLHnGcPmaiZ1d) | 3:01 | 2024-06-11 |  |
 | [Cleansing \(417 Hz\)](https://open.spotify.com/track/2fTtAEx3nJjz2hZsGUWbp9) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Sacred Healing](https://open.spotify.com/album/4QLBC4WpLRzrYLFzt52ZuP) | 3:16 | 2023-03-10 |  |
 | [Cleansing the Mind 417Hz](https://open.spotify.com/track/1jYzYGDlgfDNVP05nk5bcr) | [Music of Achelous](https://open.spotify.com/artist/3lTn2bnYB9xanBMSXgZ87y) | [Cleansing the Mind 417Hz](https://open.spotify.com/album/0qJzLfwDI4GbrXaNLDP4BP) | 3:07 | 2023-03-10 |  |
 | [Crystal Bowl Dream](https://open.spotify.com/track/0f8DS6g7JIPQMzaONezO4g) | [iD8](https://open.spotify.com/artist/3DjpvRyhGuXg5ICJqwng4z) | [Crystal Bowl Dream](https://open.spotify.com/album/6Bo4QllINweqhoOyn90NtA) | 2:15 | 2023-03-10 |  |

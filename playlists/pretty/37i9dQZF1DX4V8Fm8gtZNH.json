@@ -1,13 +1,29 @@
 {
   "description": "Our streets, our way. Listen to music from The Chi, now streaming on Paramount+ with Showtime. ",
-  "num_followers": 16599,
+  "num_followers": 16628,
   "original_name": "The Chi Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmKv8AAAAABapoz2qzNNU6cei8OyAjS5",
+  "snapshot_id": "ZmjLEQAAAAAU8EL8ioEichLVcd5jH28M",
   "tracks": [
+    {
+      "added_at": "2024-06-11 22:09:21",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/6Cz8YEWC71254G7hKu1cHO"
+      },
+      "artists": [
+        {
+          "name": "Old Orleans",
+          "url": "https://open.spotify.com/artist/4vixILijwCS1MKcTr2zLwv"
+        }
+      ],
+      "duration_ms": 65934,
+      "name": "Next Chapter",
+      "url": "https://open.spotify.com/track/64A8uR5NZ1n09c1ciwlwhI"
+    },
     {
       "added_at": "2024-06-07 07:00:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s\. Cover: Jennifer Lopez
 
-720 songs - 2 day 3 hr 4 min
+721 songs - 2 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Free Your Mind](https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:53 | 2022-02-14 | 2022-07-25 |
 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2019-06-22 |  |
 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/4dT3qLUU6fFUmomLzk2cUA) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 6:28 | 2021-02-15 | 2021-04-14 |
-| [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 | 2019-05-26\* |  |
+| [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 | 2019-05-26\* | 2024-06-12 |
 | [Friday I'm In Love](https://open.spotify.com/track/1Ab3miDy9TBJskMFlkiB5Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/205LG0IrbaOolKboMwffiV) | 3:34 | 2019-05-26\* | 2021-04-12 |
 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 | 2019-08-10 |  |
 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 | 2021-04-29 | 2022-04-19 |
@@ -603,6 +603,7 @@
 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2021-04-28 | 2022-07-29 |
 | [That's The Way Love Goes](https://open.spotify.com/track/0hVbUk56Af8wYPUfe3OYNy) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [90s R&B](https://open.spotify.com/album/3um3nlao5NXo5HgnhAroun) | 4:26 | 2019-07-17 | 2022-04-19 |
 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2019-07-18 |  |
+| [The Best Things In Life Are Free \- Classic 7" With Rap](https://open.spotify.com/track/2YPfGRDRBBd48PXIbmlgO4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL), [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [The Best Things In Life Are Free](https://open.spotify.com/album/2Z7vvbwD9rE0sNA7DkcOuG) | 4:23 | 2024-06-11 |  |
 | [The Bomb! \(These Sounds Fall Into My Mind\)](https://open.spotify.com/track/3tlRGvVZWleW4ZNncqVNI9) | [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [Henry Street Bombs Vol\. 1](https://open.spotify.com/album/3dxRJsfpIffdjqBv9qDeQs) | 3:25 | 2019-07-16 | 2019-08-04 |
 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 | 2020-04-09 |  |
 | [The Boy Is Mine \- Radio Edit with Intro](https://open.spotify.com/track/1HozF6KzKpBhDgIRn6TntS) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Best of Brandy](https://open.spotify.com/album/2W8fU1wJz9sGDmwMBcQBRX) | 4:54 | 2019-06-22 | 2020-04-06 |

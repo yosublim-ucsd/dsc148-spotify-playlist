@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 140324,
+  "num_followers": 140347,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "How Do You Love Somebody",
         "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180065,
       "name": "How Do You Love Somebody",
       "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 175566,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Heart Attack (Rock Version)",
         "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 175566,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "eighteen",
-        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 189179,
-      "name": "eighteen",
-      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1127,18 +1127,34 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+        "name": "eighteen",
+        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+      "duration_ms": 189179,
+      "name": "eighteen",
+      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157504,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 157504,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1207,38 +1223,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "Eras Of Us",
-        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 168668,
-      "name": "Eras Of Us",
-      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/47XJwitSW0IxMx1n2jtSbD"
+        "name": "Eras Of Us",
+        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
       },
       "artists": [
         {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 163874,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/6fjK2QHqJybDsUpx0RSPHV"
+      "duration_ms": 168668,
+      "name": "Eras Of Us",
+      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/47XJwitSW0IxMx1n2jtSbD"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/6fjK2QHqJybDsUpx0RSPHV"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1319,6 +1303,22 @@
       "duration_ms": 166037,
       "name": "i'm too pretty for this",
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Barely on My Mind",
+      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 184281,
       "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
+      },
+      "artists": [
+        {
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "First To Go",
         "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 194928,
       "name": "JUMP!",
       "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
-      },
-      "artists": [
-        {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "Only Wanna Be With You",
         "url": "https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ"
       },
@@ -1759,18 +1775,18 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
       "artists": [
         {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
         }
       ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -1787,22 +1803,6 @@
       "duration_ms": 168461,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/6TmdQKyH6D50cTnXVnfLFn"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "BLAME IT ON ME",
+        "url": "https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl"
+      },
+      "artists": [
+        {
+          "name": "Alex Coles",
+          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
+        }
+      ],
+      "duration_ms": 162377,
+      "name": "BLAME IT ON ME",
+      "url": "https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "everything is fine",
         "url": "https://open.spotify.com/album/1hIWhSH68cnnjZotwiqHHq"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 208289,
       "name": "everything is fine",
       "url": "https://open.spotify.com/track/0nbDPiQsfmrXwt2bxaKqtl"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "BLAME IT ON ME",
-        "url": "https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl"
-      },
-      "artists": [
-        {
-          "name": "Alex Coles",
-          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
-        }
-      ],
-      "duration_ms": 162377,
-      "name": "BLAME IT ON ME",
-      "url": "https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "2 of us",
-        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "2 of us",
-      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "2 of us",
+        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "2 of us",
+      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
-        "name": "u & the tin man",
-        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148602,
-      "name": "u & the tin man",
-      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 159308,
       "name": "Say It (To My Face)",
       "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
+        "name": "u & the tin man",
+        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 148602,
+      "name": "u & the tin man",
+      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
     },
     {
       "added_at": "2024-05-31 22:30:56",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2024-05-31 22:30:56",
       "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "DUMB",
+      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+    },
+    {
+      "added_at": "2024-05-31 22:30:56",
+      "album": {
         "name": "Maybe You Saved Me",
         "url": "https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 204632,
       "name": "Maybe You Saved Me",
       "url": "https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr"
-    },
-    {
-      "added_at": "2024-05-31 22:30:56",
-      "album": {
-        "name": "DUMB",
-        "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "DUMB",
-      "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
     },
     {
       "added_at": "2024-05-31 22:30:56",

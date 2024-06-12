@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9871,
+  "num_followers": 9869,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-05-09 14:54:46",
       "album": {
-        "name": "Officially Cool",
-        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
-      },
-      "artists": [
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        },
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Officially Cool",
-      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
-    },
-    {
-      "added_at": "2024-05-09 14:54:46",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -351,6 +331,22 @@
       "duration_ms": 316506,
       "name": "My sea",
       "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+    },
+    {
+      "added_at": "2024-05-09 14:54:46",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
     },
     {
       "added_at": "2024-05-09 14:54:46",
@@ -371,18 +367,22 @@
     {
       "added_at": "2024-05-09 14:54:46",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
+        "name": "Officially Cool",
+        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
       "artists": [
         {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         }
       ],
-      "duration_ms": 274400,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
+      "duration_ms": 177253,
+      "name": "Officially Cool",
+      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
     },
     {
       "added_at": "2024-05-09 14:54:46",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-05-09 14:54:46",
       "album": {
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "added_at": "2024-05-09 14:54:46",
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 222600,
       "name": "Don\u2019t Wanna Go Back (Duet with Heize)",
       "url": "https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE"
-    },
-    {
-      "added_at": "2024-05-09 14:54:46",
-      "album": {
-        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I\u2032m Sorry",
-      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
     },
     {
       "added_at": "2024-05-09 14:54:46",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-05-09 14:54:46",
       "album": {
-        "name": "Circle - The 1st Album",
-        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "O (Circle)",
-      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
-    },
-    {
-      "added_at": "2024-05-09 14:54:46",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 257026,
       "name": "Heart",
       "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
+    },
+    {
+      "added_at": "2024-05-09 14:54:46",
+      "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
     },
     {
       "added_at": "2024-05-09 14:54:46",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-05-09 14:54:46",
       "album": {
-        "name": "H1-KEYnote #1 [Thinkin' About You]",
-        "url": "https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye"
+        "name": "Because I Don't Love You",
+        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
       },
       "artists": [
         {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
         }
       ],
-      "duration_ms": 187226,
-      "name": "Thinkin' About You",
-      "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"
+      "duration_ms": 223826,
+      "name": "Because I Don't Love You",
+      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
     },
     {
       "added_at": "2024-05-09 14:54:46",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-05-09 14:54:46",
       "album": {
-        "name": "Because I Don't Love You",
-        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+        "name": "H1-KEYnote #1 [Thinkin' About You]",
+        "url": "https://open.spotify.com/album/4KBc3OzIr0HAqZPlaTBRye"
       },
       "artists": [
         {
-          "name": "Onestar",
-          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Because I Don't Love You",
-      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
+      "duration_ms": 187226,
+      "name": "Thinkin' About You",
+      "url": "https://open.spotify.com/track/3GF5L6dW04zWSP9SYAtp5L"
     },
     {
       "added_at": "2024-05-09 14:54:46",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-05-09 14:54:46",
       "album": {
+        "name": "Romantic Doctor 3 OST Part.1",
+        "url": "https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
+    },
+    {
+      "added_at": "2024-05-09 14:54:46",
+      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2024-05-09 14:54:46",
-      "album": {
-        "name": "Romantic Doctor 3 OST Part.1",
-        "url": "https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY"
     },
     {
       "added_at": "2024-05-09 14:54:46",

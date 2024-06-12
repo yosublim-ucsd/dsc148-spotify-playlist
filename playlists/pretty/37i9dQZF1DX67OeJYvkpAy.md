@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,085 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,071 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,18 +78,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 68 | [Day and Night \(Prodbyjak\)](https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night \(Prodbyjak\)](https://open.spotify.com/album/5W31gIjDIhWeNBG7AT2Rap) | 3:12 |
 | 69 | [Two Years Clear](https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Two Years Clear](https://open.spotify.com/album/3zuZlK5ZyVobKnA5m0KFcX) | 3:25 |
 | 70 | [Too Cold 4 You Here \(Sweater Weather\)](https://open.spotify.com/track/30PeGDJkVBr9hQpWqceGCa) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/6HscCebT4mdxY1ZM0M6rQN) | 3:01 |
-| 71 | [Hoods Hottest](https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/0NQw8iZDOn5TWIR6NUdsgC) | 3:07 |
-| 72 | [Alone with You](https://open.spotify.com/track/7AK01WpnqURCRFbOX4LOHa) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5) | 3:15 |
-| 73 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
-| 74 | [Novacane](https://open.spotify.com/track/6RmKXyV7UPKye1lMX9memT) | [Anubis](https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6) | [Novacane](https://open.spotify.com/album/4GkK9r315cec1U2IY3ODfq) | 3:12 |
-| 75 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
+| 71 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
+| 72 | [Hoods Hottest](https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/0NQw8iZDOn5TWIR6NUdsgC) | 3:07 |
+| 73 | [Alone with You](https://open.spotify.com/track/7AK01WpnqURCRFbOX4LOHa) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5) | 3:15 |
+| 74 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
+| 75 | [Novacane](https://open.spotify.com/track/6RmKXyV7UPKye1lMX9memT) | [Anubis](https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6) | [Novacane](https://open.spotify.com/album/4GkK9r315cec1U2IY3ODfq) | 3:12 |
 | 76 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
 | 77 | [No Emotions](https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D) | [Ddotz x Dice](https://open.spotify.com/artist/3bekb1Bww1qdnXpGN6uUsd) | [No Emotions](https://open.spotify.com/album/4PG8yM5DLnsKQn2YGfc3IJ) | 2:48 |
 | 78 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 |
 | 79 | [Lowkey '](https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN) | [Sleepy Halllow](https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P), [Nyc Drill Rap](https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA) | [Lowkey '](https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X) | 2:34 |
-| 80 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |
-| 81 | [18+](https://open.spotify.com/track/09ZtF118npmR6x9Ef0emf3) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5) | 2:08 |
-| 82 | [My Girl \(Gemini\)](https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh) | 2:33 |
+| 80 | [18+](https://open.spotify.com/track/09ZtF118npmR6x9Ef0emf3) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5) | 2:08 |
+| 81 | [My Girl \(Gemini\)](https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh) | 2:33 |
+| 82 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |
 | 83 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
 | 84 | [Up all night](https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871) | 2:41 |
 | 85 | [No Pain](https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [No Pain](https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb) | 2:45 |

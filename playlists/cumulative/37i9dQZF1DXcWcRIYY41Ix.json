@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "T\u00c1",
+        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Ana Mar\u00eda",
+      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
+    },
+    {
+      "album": {
         "name": "Anaconda",
         "url": "https://open.spotify.com/album/3lb4aq6k5kru93YO3yDrKm"
       },
@@ -6162,7 +6180,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 205946,
       "name": "Luc\u00eda",
       "url": "https://open.spotify.com/track/0KjihOh3J76yY4su4hW4UI"
@@ -9721,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "Si Entras T\u00fa",
+        "url": "https://open.spotify.com/album/4GsLOIVspA9gbCfGMCOZQc"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "Si Entras T\u00fa",
+      "url": "https://open.spotify.com/track/6n2WRPkRDZzuijN5ugt7EL"
+    },
+    {
+      "album": {
         "name": "Si llega el fin",
         "url": "https://open.spotify.com/album/6gymWg2EhGxMGyDhDGT7Ck"
       },
@@ -10157,6 +10193,48 @@
     },
     {
       "album": {
+        "name": "Tan solo una se\u00f1al",
+        "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
+      },
+      "artists": [
+        {
+          "name": "Liuba Mar\u00eda Hevia",
+          "url": "https://open.spotify.com/artist/1UC32JGoil54GhEOHpzmrB"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        },
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        },
+        {
+          "name": "Argentina",
+          "url": "https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2"
+        },
+        {
+          "name": "Ivette Cepeda",
+          "url": "https://open.spotify.com/artist/1mkwhgPtaFZyrIpV3lWbwV"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Tan solo una se\u00f1al",
+      "url": "https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv"
+    },
+    {
+      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -10172,7 +10250,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
@@ -10534,7 +10612,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
@@ -11160,7 +11238,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 213760,
       "name": "una se\u00f1al",
       "url": "https://open.spotify.com/track/7C4aWyzH7EbUkyGhlbOPcC"
@@ -11612,6 +11690,24 @@
       "duration_ms": 192293,
       "name": "Voltearemos",
       "url": "https://open.spotify.com/track/6aICoU4YETT0xmhGkQNWVr"
+    },
+    {
+      "album": {
+        "name": "Volver a casa",
+        "url": "https://open.spotify.com/album/5d7f0AmhsFVpAMiAP7LwjY"
+      },
+      "artists": [
+        {
+          "name": "Daniela Garsal",
+          "url": "https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246402,
+      "name": "Volver a casa",
+      "url": "https://open.spotify.com/track/02XlIv06zKn3hCrQUDILgq"
     },
     {
       "album": {

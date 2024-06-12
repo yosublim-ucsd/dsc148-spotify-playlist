@@ -2,14 +2,14 @@
 
 ### [This Is Natalia Lafourcade](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HaZQk)
 
-> This Is Natalia Lafourcade\. Los temas esenciales, todos en una lista.
+> This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
 63 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alma Mía \(feat\. Los Macorinos\)](https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:19 | 2023-03-24 |  |
-| [Amarte Duele](https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En el 2000](https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU) | 4:05 | 2024-06-11 |  |
+| [Amarte Duele](https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En el 2000](https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU) | 4:05 | 2024-06-11 | 2024-06-12 |
 | [Amor, Amor de Mis Amores \(with Devendra Banhart\)](https://open.spotify.com/track/3dB42OEuVNiktvt3V5JRVI) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:57 | 2023-03-24 |  |
 | [Antes de Huir](https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:52 | 2023-03-24 |  |
 | [Burbujas De Amor](https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 4:38 | 2023-03-24 |  |
@@ -70,6 +70,6 @@
 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 | 2023-03-24 |  |
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2023-03-25 | 2023-09-10 |
 | [Viviré para Ti \(feat\. Natalia Lafourcade\) \- Versión Acústica](https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 3:56 | 2023-03-24 |  |
-| [Ya No Vivo por Vivir \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 6:14 | 2023-03-24 | 2024-06-11 |
+| [Ya No Vivo por Vivir \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 6:14 | 2023-03-24 |  |
 
 \*This playlist was first scraped on 2023-03-25. Prior content cannot be recovered.

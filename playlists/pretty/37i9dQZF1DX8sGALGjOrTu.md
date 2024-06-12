@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,984 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,097 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 29 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
 | 30 | [This War Is Ours \(The Guillotine II\)](https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [This War Is Ours \(Deluxe Edition\)](https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai) | 4:26 |
 | 31 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
-| 32 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
-| 33 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
+| 32 | [Writing On The Walls](https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:02 |
+| 33 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
 | 34 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
 | 35 | [Anthem of Our Dying Day](https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:36 |
 | 36 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 56 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 |
 | 57 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
 | 58 | [Boiled Frogs](https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:57 |
-| 59 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
-| 60 | [Becoming the Bull](https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD) | 3:42 |
+| 59 | [Becoming the Bull](https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD) | 3:42 |
+| 60 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
 | 61 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
 | 62 | [Ready To Fall](https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:47 |
 | 63 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |

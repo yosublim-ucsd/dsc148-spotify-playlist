@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,134 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,147 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 45 | [In Care Of The Blues](https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:33 |
 | 46 | [Oh Lonesome Me](https://open.spotify.com/track/0F8JWFitStLlel68uSLhUX) | [Don Gibson](https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S) | [The Essential Don Gibson](https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH) | 2:29 |
 | 47 | [Move It On Over](https://open.spotify.com/track/4WThTuQ9hOeJWolUtHwkQy) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN) | 2:43 |
-| 48 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 |
-| 49 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
+| 48 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
+| 49 | [Chattanoogie Shoe Shine Boy \- 1949 Single Version](https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 2:49 |
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
 | 51 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
 | 52 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 69 | [City Lights](https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:59 |
 | 70 | [Hey Joe](https://open.spotify.com/track/6CFckB9Rn0ptccgUwQylnR) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [Heartbreak USA 1953\-1962](https://open.spotify.com/album/66M7jYsBkIHRd1ToZ2TYko) | 2:37 |
 | 71 | [Goin' Steady](https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:41 |
-| 72 | [Forgive Me, John](https://open.spotify.com/track/4F5fTQXxGmKr83qb1aFghk) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [The Best Of Jean Shepard](https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB) | 2:26 |
-| 73 | [Don't Ever Leave Me Again](https://open.spotify.com/track/3tg51RdnZhCa2smOP9ShYH) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:27 |
+| 72 | [Don't Ever Leave Me Again](https://open.spotify.com/track/3tg51RdnZhCa2smOP9ShYH) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:27 |
+| 73 | [Forgive Me, John](https://open.spotify.com/track/4F5fTQXxGmKr83qb1aFghk) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [The Best Of Jean Shepard](https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB) | 2:26 |
 | 74 | [Red Hot](https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Red Hot / Pearly Lee](https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC) | 2:29 |
 | 75 | [Wildwood Flower \- Instrumental](https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Vintage Collections](https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5) | 2:57 |
 

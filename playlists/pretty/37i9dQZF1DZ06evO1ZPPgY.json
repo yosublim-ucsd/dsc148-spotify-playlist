@@ -1,12 +1,12 @@
 {
-  "description": "This Is Barry White. Los temas esenciales, todos en una lista.",
-  "num_followers": 217104,
+  "description": "This is Barry White. The essential tracks, all in one playlist.",
+  "num_followers": 217133,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAABiX8fLeVw/iVsc5N0wjDhY",
+  "snapshot_id": "ZmZCAAAAAABYJ/Yn5ZeQg5bPwfUrxg5p",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Never, Never Gonna Give Ya Up",
-      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
+      "duration_ms": 219440,
+      "name": "What Am I Gonna Do With You",
+      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 299066,
-      "name": "Love Makin' Music",
-      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
       "duration_ms": 433226,
       "name": "Playing Your Game, Baby",
       "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Honey Please, Can't Ya See",
-      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
     },
     {
       "added_at": null,
@@ -491,6 +475,38 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "I've Got So Much To Give",
+      "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Love Makin' Music",
+      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 112066,
-      "name": "Mellow Mood - Pt. I",
-      "url": "https://open.spotify.com/track/6MhRt1yRpJUgm5LSMWlBkx"
     }
   ],
   "unique_name": "This Is Barry White",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: The Story So Far
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,579 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,596 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 39 | [Hey Ben](https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Hey Ben](https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M) | 3:20 |
 | 40 | [use me](https://open.spotify.com/track/1r8j5j9hBIlkz0onyxl4hO) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:01 |
 | 41 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
-| 42 | [gonna make sure](https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [gonna make sure](https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9) | 3:17 |
-| 43 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 42 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 43 | [gonna make sure](https://open.spotify.com/track/71hxGyoTu6GvLcXSMAh6zF) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [gonna make sure](https://open.spotify.com/album/5xDdd8Ra6QApWjD64QGDS9) | 3:17 |
 | 44 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
 | 45 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
 | 46 | [The Best Part](https://open.spotify.com/track/0MRxHFczABU1lQmu5aZFFw) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [The Best Part](https://open.spotify.com/album/73iyohYCbdK5PhPfq4hgSS) | 2:56 |
 | 47 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
 | 48 | [Generational](https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Generational](https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv) | 2:09 |
 | 49 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
-| 50 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 |
-| 51 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 |
+| 50 | [Get Over It](https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [Get Over It](https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR) | 2:55 |
+| 51 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 |
 | 52 | [Tired Of Lying](https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Tired Of Lying](https://open.spotify.com/album/49IsBOpvYnNf9qWln652wg) | 3:51 |
 | 53 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
 | 54 | [Remember Her Like That](https://open.spotify.com/track/5PUeFk6KqTnnJrzeYhYyyb) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Remember Her Like That](https://open.spotify.com/album/3xNPSnUKCLjAyztiI42uF3) | 3:07 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 76 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 |
 | 77 | [The Credits](https://open.spotify.com/track/5S9NNVIDcsnk9rQVaMW0dL) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 3:04 |
 | 78 | [Superglue](https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 3:24 |
-| 79 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 |
+| 79 | [Life Goes On](https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Life Goes On](https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr) | 3:27 |
 | 80 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
 
 Snapshot ID: `Zj36rAAAAACCTxyqJkXolHuYaOWbDRrB`

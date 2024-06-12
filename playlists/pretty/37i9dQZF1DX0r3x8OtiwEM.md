@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,297 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,407 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 35 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 |
 | 36 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
 | 37 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 38 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
-| 39 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 |
+| 38 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 |
+| 39 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
 | 40 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 41 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
 | 42 | [Under Dark \- Innellea Remix](https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Under Dark \(Innellea Remix\)](https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO) | 6:45 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 57 | [No One Like You \- Edit](https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [No One Like You \- EP](https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK) | 4:16 |
 | 58 | [Wild Heart](https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 3:30 |
 | 59 | [The Bridge \(feat\. Kim Wilde\)](https://open.spotify.com/track/6GvQQq5RIDiH1sn5HN2Yg2) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [The Bridge \(feat\. Kim Wilde\)](https://open.spotify.com/album/7nPkvjM7DolYtCcyIAny4S) | 3:08 |
-| 60 | [Teufelsfisch \- Edit](https://open.spotify.com/track/1hrLJVXOVp74kl0GGn80eR) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Teufelsfisch](https://open.spotify.com/album/6TxPOJc7gsfuGzJrPaRTUW) | 4:31 |
+| 60 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
 
 Snapshot ID: `ZmKFwAAAAACoKnwkzNVouTYGT1/W3Qui`

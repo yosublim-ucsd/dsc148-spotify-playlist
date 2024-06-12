@@ -2,7 +2,7 @@
 
 ### [This Is Queen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ENBD2)
 
-> This is Queen\. The essential tracks, all in one playlist.
+> This is Queen\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
 69 songs - 4 hr 29 min
 
@@ -52,9 +52,9 @@
 | [One Vision \- Remastered 2011](https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 5:11 | 2022-09-17 |  |
 | [One Year Of Love \- Remastered 2011](https://open.spotify.com/track/1SvX2R7kPc0JsGnJaJVzZO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:27 | 2022-11-01 | 2024-05-14 |
 | [Play The Game \- Remastered 2011](https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:32 | 2022-09-17 |  |
-| [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 3:33 | 2022-09-17 | 2024-06-11 |
+| [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 3:33 | 2022-09-17 |  |
 | [Radio Ga Ga \- Live Aid](https://open.spotify.com/track/0YwBZKT8JE4U5TwmYE9BV9) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 4:05 | 2022-09-17 |  |
-| [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 | 2022-09-17 |  |
+| [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 | 2022-09-17 | 2024-06-12 |
 | [Save Me \- Remastered 2011](https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:49 | 2022-09-17 |  |
 | [Seaside Rendezvous \- Remastered 2011](https://open.spotify.com/track/0VU7avDE4OZ36oVmLPSEZA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:14 | 2023-09-10 | 2024-05-29 |
 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 | 2022-09-17 |  |

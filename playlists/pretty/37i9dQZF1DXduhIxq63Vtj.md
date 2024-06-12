@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Ay Jalisco no te rajes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,166 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,171 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 26 | [El Eco de Tu Voz](https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Canciones De Hotel](https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v) | 3:03 |
 | 27 | [Corazon Espinado \(feat\. Mana\)](https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:34 |
 | 28 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
-| 29 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 |
-| 30 | [Conmigo Siempre](https://open.spotify.com/track/1omuLiHsrZNngTOHr2FF9U) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yin](https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71) | 3:03 |
+| 29 | [Conmigo Siempre](https://open.spotify.com/track/1omuLiHsrZNngTOHr2FF9U) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Yin](https://open.spotify.com/album/53H9AYzn3j647Tr3JnGI71) | 3:03 |
+| 30 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 |
 | 31 | [El Son del Dolor](https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 4:00 |
 | 32 | [Náufrago](https://open.spotify.com/track/2tDP8CLX7r9DhSYwGhVkRs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 4:10 |
 | 33 | [El Tiempo de Ti](https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Canciones De Hotel](https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v) | 5:06 |

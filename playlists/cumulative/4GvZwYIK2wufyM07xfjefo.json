@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0SlhlIumG4Z8bgxZVsNrVT"
+      },
+      "artists": [
+        {
+          "name": "\u7531\u672b\u30a4\u30ea",
+          "url": "https://open.spotify.com/artist/1rHy3uxDsp5pvrLQooiJJ9"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114509,
+      "name": "11",
+      "url": "https://open.spotify.com/track/18EdadGVrOIWmrgVyRH4UU"
+    },
+    {
+      "album": {
         "name": "1224online",
         "url": "https://open.spotify.com/album/5x8GeYXpnuXm42RB42p0Hs"
       },
@@ -433,6 +451,24 @@
     },
     {
       "album": {
+        "name": "QUALE SINGLE",
+        "url": "https://open.spotify.com/album/1AGZxnpMuqFlL9Mmt9zS0h"
+      },
+      "artists": [
+        {
+          "name": "\u5409\u5ddd\u98db\u7a7a",
+          "url": "https://open.spotify.com/artist/4mgvZjkYOhncjBqlvqdNDv"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "QUALE",
+      "url": "https://open.spotify.com/track/4LIrtozz7UHfwnu4eatKju"
+    },
+    {
+      "album": {
         "name": "river_2023",
         "url": "https://open.spotify.com/album/5Rsq83dstJfwozpa6ZlmBH"
       },
@@ -466,7 +502,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 42644,
       "name": "ROOM",
       "url": "https://open.spotify.com/track/2O14JMrgAqeqW2RVJnfwIv"
@@ -599,7 +635,7 @@
       "artists": [
         {
           "name": "joinT",
-          "url": "https://open.spotify.com/artist/34AGtPMtPpEO7cFTZ74EUb"
+          "url": "https://open.spotify.com/artist/5kg7fCSkMPCVdBpxVvwSme"
         },
         {
           "name": "Hatsune Miku",
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 254814,
       "name": "\u30cf\u30fc\u30d5\u30e0\u30fc\u30f3",
       "url": "https://open.spotify.com/track/5sXvoCPEKzkukDNpDVjmiK"
@@ -1352,6 +1388,24 @@
       "duration_ms": 220805,
       "name": "\u30d4\u30c1\u30ab\u30fc\u30c8\u30c9\u30ed\u30c3\u30d7\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6pl9TqBuraGXsl0ZTWabyT"
+    },
+    {
+      "album": {
+        "name": "\u30ca\u30ed\u30fc\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30eb\u30fc\u30e0 e.p.",
+        "url": "https://open.spotify.com/album/6aSBHODdgwu8YLqgKclWIh"
+      },
+      "artists": [
+        {
+          "name": "msr",
+          "url": "https://open.spotify.com/artist/1NtnV8qf1Fk2pG1G6DnBw0"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170344,
+      "name": "\u30d4\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/4lU32UdLjpAsgFFGs5GAu8"
     },
     {
       "album": {
@@ -1639,6 +1693,46 @@
     },
     {
       "album": {
+        "name": "\u590f\u304c\u96f6\u308c\u3066\u3086\u304f",
+        "url": "https://open.spotify.com/album/44g5X0WFJrAyfMIOinNQfO"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u308a\u304f",
+          "url": "https://open.spotify.com/artist/4xBO5BxHEXvSsDTF1ME0FC"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290896,
+      "name": "\u590f\u304c\u96f6\u308c\u3066\u3086\u304f",
+      "url": "https://open.spotify.com/track/1u6d9HaJzFa9JqKyMxDvJo"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\u65e5\u8a8c",
+        "url": "https://open.spotify.com/album/3zvc9ouoqZcSoe8OSu2pHb"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30e1\u30eb\u30c4P",
+          "url": "https://open.spotify.com/artist/69PSxkMSs4XP1kRezRs5EY"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "\u590f\u5f85\u3061\u521d\u86cd (feat. KAITO)",
+      "url": "https://open.spotify.com/track/5lDPPRKIFtsa7pDsOqP7IV"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30f3\u306e\u3046\u308b\u3068\u3089!!",
         "url": "https://open.spotify.com/album/5kIWJGwu8izDwEVutvCzLo"
       },
@@ -1850,7 +1944,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 299094,
       "name": "\u6ce1\u6cab\u306e\u8857",
       "url": "https://open.spotify.com/track/76Yx4feEnLzKHEvpkfO49L"
@@ -1926,7 +2020,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 187466,
       "name": "\u706b\u661f\u306e\u30bf\u30eb\u30c8 - Band ver. (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5PaP9K2DxaEWlPYKW142OW"
@@ -1988,7 +2082,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 282447,
       "name": "\u77bc",
       "url": "https://open.spotify.com/track/1u7u7omltavgI69QCpei5i"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,800 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,805 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 3 | [18 Libras](https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 3:05 |
 | 4 | [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 |
 | 5 | [Todo Veo](https://open.spotify.com/track/33vhqnKK2bjeweICzJdtIT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:15 |
-| 6 | [Seguimos De Pie](https://open.spotify.com/track/39oXiJCb2hTwApmhnCqtDB) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Seguimos De Pie](https://open.spotify.com/album/17qGyplLRnEhPdpPASdcSy) | 2:46 |
+| 6 | [Seguimos de Pie](https://open.spotify.com/track/5uFNS0ukB8nH4IhkfMFb57) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 2:46 |
 | 7 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 |
 | 8 | [Como Debe Ser](https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP) | [Marca De Rancho](https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Como Debe Ser](https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM) | 2:10 |
 | 9 | [Lujos De La Vida](https://open.spotify.com/track/465CNemByQDps6aOI24859) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Gorra De Tijuana](https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:15 |
 | 50 | [18 Libras \(En Vivo\)](https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Pisteando Con Larry Hernández, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf) | 2:57 |
 
-Snapshot ID: `ZmTwgAAAAABU5SRL/ywKCfpWZWmUzUYZ`
+Snapshot ID: `ZmZCAAAAAABggzrpFWa7+p3/SDjJ7OyZ`

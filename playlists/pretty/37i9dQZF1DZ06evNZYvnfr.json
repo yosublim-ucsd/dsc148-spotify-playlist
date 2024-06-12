@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 2804,
+  "num_followers": 2811,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAA/jayeLuCSOmxqDNnjgm4V",
+  "snapshot_id": "ZmZCAAAAAAAoITX/8kbbws/mg3jyssTW",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lord You Are My Song",
-        "url": "https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX"
+        "name": "People Like Us (feat. Emerson Day)",
+        "url": "https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22"
       },
       "artists": [
-        {
-          "name": "Charity Gayle",
-          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
-        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         },
         {
-          "name": "Kaden Slay",
-          "url": "https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o"
+          "name": "Emerson Day",
+          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
         }
       ],
-      "duration_ms": 223565,
-      "name": "My God Fights for Me (feat. Micah Tyler & Kaden Slay)",
-      "url": "https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb"
+      "duration_ms": 226348,
+      "name": "People Like Us (feat. Emerson Day)",
+      "url": "https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw"
     },
     {
       "added_at": null,
@@ -175,22 +171,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Like Us (feat. Emerson Day)",
-        "url": "https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22"
+        "name": "Lord You Are My Song",
+        "url": "https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX"
       },
       "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        },
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         },
         {
-          "name": "Emerson Day",
-          "url": "https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ"
+          "name": "Kaden Slay",
+          "url": "https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o"
         }
       ],
-      "duration_ms": 226348,
-      "name": "People Like Us (feat. Emerson Day)",
-      "url": "https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw"
+      "duration_ms": 223565,
+      "name": "My God Fights for Me (feat. Micah Tyler & Kaden Slay)",
+      "url": "https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-79 songs - 3 hr 44 min
+84 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,11 @@
 | [852 Hz Heavenly Beckoning](https://open.spotify.com/track/3jO6989M6RubLcR0fF2n5d) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [852 Hz Heavenly Beckoning](https://open.spotify.com/album/09fWO5L2iHYcwxjm5hiCaj) | 3:23 | 2024-05-11 |  |
 | [852 Hz Holistic Mind](https://open.spotify.com/track/6EFYsOp3cX4vfmvjYZWNfo) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [852 Hz Holistic Mind](https://open.spotify.com/album/1lY1bhKI9bbBm3ZsZCTpwS) | 2:38 | 2023-11-30 |  |
 | [852 Hz Inner Strength](https://open.spotify.com/track/1l6CG5St0fxQTjtldzDifB) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Morning Miracle](https://open.spotify.com/album/4A2KCK3kY9pOVWdmVmFWoW) | 3:17 | 2023-03-10 |  |
+| [852 Hz Mystic Resurgence](https://open.spotify.com/track/7omE06qspvurjzLkBfFwvO) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [852 Hz Mystic Resurgence](https://open.spotify.com/album/3LlezQ16Z0yA8zUz3Gi2rF) | 2:35 | 2024-06-11 |  |
+| [852 Hz Pilgrimage of the Soul](https://open.spotify.com/track/1hUBmbVTFkyo8Ap2QtEfvB) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [852 Hz Pilgrimage of the Soul](https://open.spotify.com/album/4pEbRUr1EG3qqMVSVPzUHe) | 2:52 | 2024-06-11 |  |
 | [852 Hz Prismatic Pathways](https://open.spotify.com/track/1QL3c88UYwTWKVsxsw2k0l) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [852 Hz Prismatic Pathways](https://open.spotify.com/album/5CzZUkRV4KBju9hH5HQcL5) | 2:42 | 2023-11-30 |  |
 | [852 Hz Quantum Healing](https://open.spotify.com/track/6baWSwcYW5FHWClLyU9qfH) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Quantum Healing](https://open.spotify.com/album/52iSwVNPIJN7sMOJ82xfcT) | 3:11 | 2024-05-11 |  |
+| [852 Hz Reconnection](https://open.spotify.com/track/58zKGcuLXoHbDHQVy4sci5) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [852 Hz Reconnection](https://open.spotify.com/album/1Vg5ZoxB8INXLiEbMaQh1S) | 2:23 | 2024-06-11 |  |
 | [852 Hz Release](https://open.spotify.com/track/7hL171cw6hPhXsHdXWRiyC) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
 | [852 Hz Solfeggio Frequency](https://open.spotify.com/track/1BlShSC3ve29Ot3wFSrnVF) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [852 Hz Solfeggio Frequency](https://open.spotify.com/album/6YXl3OaEfbc3QwjBhrHVaI) | 2:29 | 2023-03-10 | 2023-12-07 |
 | [852 Hz Soothe Anxiety](https://open.spotify.com/track/1l3mTHxVzws34jKfWmXH0M) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [852 Hz Soothe Anxiety](https://open.spotify.com/album/5pfGTMLg9ot9u4HlUyiniK) | 2:29 | 2023-03-10 |  |
@@ -68,6 +71,7 @@
 | [Returning 852 Hz](https://open.spotify.com/track/0ucPLfm8DOAHrXUSqC0r6n) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Positive Change 417 Hz & Returning 852 Hz](https://open.spotify.com/album/4j3ea1tblHSGCqbw24dDUs) | 2:24 | 2023-03-10 |  |
 | [Revenir 852 Hz](https://open.spotify.com/track/5YXuSqhPDDFxRubPVayPNK) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Revenir 852 Hz](https://open.spotify.com/album/0LUwSdoFzX9Q3nMTvXXq9H) | 2:36 | 2023-03-10 |  |
 | [Right Path 852 Hz](https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Right Path 852 Hz](https://open.spotify.com/album/1ionnqL9Rk1nOHUQD5xny7) | 3:01 | 2023-08-07 |  |
+| [Sanctity Ascension 852 Hz](https://open.spotify.com/track/6k4rMVUcZ2mFX801UxzYjx) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [Sanctity Ascension 852 Hz](https://open.spotify.com/album/5oLZN6LAkKPu3uNkyD03DB) | 2:14 | 2024-06-11 |  |
 | [Schumann 432\-6 Pineal Third Eye Chakra](https://open.spotify.com/track/4MjZ0xLJbPD4kOMrCh44Gk) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Head Chakras](https://open.spotify.com/album/4Ec6M4v743f1lQCUxoIuSJ) | 3:58 | 2023-03-10 | 2023-08-08 |
 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/38XEEQHlHqevPvaIYgAcp0) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/6fGBewvgdMj4OKZqywVphx) | 5:03 | 2024-04-07 |  |
 | [See \(Third Eye 852Hz\)](https://open.spotify.com/track/4DFwQXEIVn26fSd6GRC7Tb) | [Altered Perspectives](https://open.spotify.com/artist/5z8Dm6QOSwVNH9CG28xLzl), [Echoes of Starlight](https://open.spotify.com/artist/5jAkNUHe2xCLAxAON1iuYW), [SINES](https://open.spotify.com/artist/2JX6iA3kZCBWVohNQ5lSq6) | [Altered Perspectives](https://open.spotify.com/album/4JBqvqMjI9bB5OVhoQnSiI) | 5:03 | 2023-03-10 | 2024-04-19 |
@@ -87,5 +91,6 @@
 | [Verse of Sublimity 852 Hz](https://open.spotify.com/track/0LbErCg0L20RcAZbkaUtJP) | [Silver Roses](https://open.spotify.com/artist/1D4JTnffy0RUs0yeRKNSUT) | [Verse of Sublimity 852 Hz](https://open.spotify.com/album/2V3oucrWjemTB125QQj4Jy) | 2:42 | 2024-05-11 |  |
 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 | 2023-03-10 |  |
 | [Warm Waves](https://open.spotify.com/track/0VlM8kZnbNBjWm0C0LpKSn) | [Quietmind](https://open.spotify.com/artist/47OpVUkgg3v5Il1hY3UpG6) | [Warm Waves](https://open.spotify.com/album/5O5EH3BDfwT7ntYTAFUiim) | 1:16 | 2023-03-10 | 2023-08-08 |
+| [Whispers of the Wind 852 Hz](https://open.spotify.com/track/6ua9BX1jbXz2IYUQTSLNYN) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Before Dawn](https://open.spotify.com/album/324mbypxKLdPIEKaNVW7Ht) | 3:45 | 2024-06-11 |  |
 
 \*This playlist was first scraped on 2023-08-01. Prior content cannot be recovered.

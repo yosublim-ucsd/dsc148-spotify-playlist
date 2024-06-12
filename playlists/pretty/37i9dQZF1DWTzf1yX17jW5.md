@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,172 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,183 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 38 | [:\(](https://open.spotify.com/track/7abEPkeDrajfoTxUBjuQ3G) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [</3 + :\(](https://open.spotify.com/album/4mD7rKj1et3PjyYy8Bw4yM) | 2:55 |
 | 39 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
 | 40 | [Cagoule](https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [XV](https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi) | 3:06 |
-| 41 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
-| 42 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/1U4jHPRjnjBPhVcAXw3skP) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
+| 41 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/1U4jHPRjnjBPhVcAXw3skP) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
+| 42 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
 | 43 | [2020 est.](https://open.spotify.com/track/2MiNSe2Mgi4bpCgTlkXjQb) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [2020 est.](https://open.spotify.com/album/2T68MkME37kh2wKG7x8NQU) | 2:08 |
 | 44 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 |
 | 45 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:29 |

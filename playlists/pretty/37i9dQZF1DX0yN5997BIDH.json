@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 572036,
+  "num_followers": 572008,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-01-13 21:02:37",
       "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "A-O-K",
+      "url": "https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7"
+    },
+    {
+      "added_at": "2023-01-13 21:02:37",
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 141984,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/4rw4ME6nh2kFfpivQyOYyA"
-    },
-    {
-      "added_at": "2023-01-13 21:02:37",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7"
     },
     {
       "added_at": "2023-01-13 21:02:37",

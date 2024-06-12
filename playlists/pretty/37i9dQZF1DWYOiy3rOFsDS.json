@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con MIA y Lucero Mijares en portada.",
-  "num_followers": 533530,
+  "num_followers": 533585,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-05-17 16:37:44",
       "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
+    },
+    {
+      "added_at": "2024-05-17 16:37:44",
+      "album": {
         "name": "Noche Sensacional",
         "url": "https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 197000,
       "name": "Noche Sensacional",
       "url": "https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5"
-    },
-    {
-      "added_at": "2024-05-17 16:37:44",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     },
     {
       "added_at": "2024-05-17 16:37:44",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-17 16:37:44",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
-        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9sar Avila",
-          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
-    },
-    {
-      "added_at": "2024-05-17 16:37:44",
-      "album": {
         "name": "Triolog\u00eda",
         "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 191546,
       "name": "Jacaranda",
       "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
+    },
+    {
+      "added_at": "2024-05-17 16:37:44",
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote en Cuarentena",
+        "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Avila",
+          "url": "https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
     },
     {
       "added_at": "2024-05-17 16:37:44",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-05-17 16:37:44",
       "album": {
+        "name": "En las Noches",
+        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 239412,
+      "name": "En las Noches",
+      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
+    },
+    {
+      "added_at": "2024-05-17 16:37:44",
+      "album": {
         "name": "A\u00fan Me Sigo Encontrando",
         "url": "https://open.spotify.com/album/1a72IUAiD277nR5ygMzPgv"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 189285,
       "name": "A\u00fan Me Sigo Encontrando",
       "url": "https://open.spotify.com/track/7Mmrk9FtkiKLpBMietviFf"
-    },
-    {
-      "added_at": "2024-05-17 16:37:44",
-      "album": {
-        "name": "En las Noches",
-        "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 239412,
-      "name": "En las Noches",
-      "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
     },
     {
       "added_at": "2024-05-17 16:37:44",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2024-05-17 16:37:44",
       "album": {
+        "name": "Te Tocaba A Ti Llorar",
+        "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "Te Tocaba A Ti Llorar",
+      "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
+    },
+    {
+      "added_at": "2024-05-17 16:37:44",
+      "album": {
         "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
         "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 244000,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
-    },
-    {
-      "added_at": "2024-05-17 16:37:44",
-      "album": {
-        "name": "Te Tocaba A Ti Llorar",
-        "url": "https://open.spotify.com/album/1QdQqLnwuQsKnfZ5blD3Al"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "Te Tocaba A Ti Llorar",
-      "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
     },
     {
       "added_at": "2024-05-17 16:37:44",

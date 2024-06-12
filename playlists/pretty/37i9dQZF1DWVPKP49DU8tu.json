@@ -1,6 +1,6 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 356330,
+  "num_followers": 356339,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
         "url": "https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
       },
@@ -635,42 +635,6 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -691,6 +655,22 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -727,6 +707,26 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "TUTA GOLD",
-        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        }
-      ],
-      "duration_ms": 178467,
-      "name": "TUTA GOLD",
-      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 261160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "TUTA GOLD",
+        "url": "https://open.spotify.com/album/298TPucavaqMuiInBsW7jX"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "duration_ms": 178467,
+      "name": "TUTA GOLD",
+      "url": "https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Goats Head Soup (Remastered 2009)",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Goats Head Soup (Remastered 2009)",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Anche Stasera",
-      "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
       },
@@ -1107,6 +1087,26 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Anche Stasera",
+      "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Tutto Qui",
-        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 211783,
-      "name": "Tutto Qui",
-      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Tutto Qui",
+        "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 211783,
+      "name": "Tutto Qui",
+      "url": "https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "DIAMANTI GREZZI",
-        "url": "https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV"
-      },
-      "artists": [
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "DIAMANTI GREZZI",
-      "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -1443,18 +1427,34 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Fuori dall'Hype Ringo Starr",
-        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
+        "name": "DIAMANTI GREZZI",
+        "url": "https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
         }
       ],
-      "duration_ms": 214733,
-      "name": "Ridere",
-      "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
+      "duration_ms": 192120,
+      "name": "DIAMANTI GREZZI",
+      "url": "https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+        "name": "Fuori dall'Hype Ringo Starr",
+        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+      "duration_ms": 214733,
+      "name": "Ridere",
+      "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "DUE ALTALENE",
-        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "DUE ALTALENE",
-      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 214926,
       "name": "Scrivile Scemo",
       "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "DUE ALTALENE",
+        "url": "https://open.spotify.com/album/7EylvV3blFKLH2ZQDW6CWl"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "DUE ALTALENE",
+      "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Onda Alta",
-        "url": "https://open.spotify.com/album/0VXxWeYHwVAP2HiOBG5Evx"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
       },
       "artists": [
         {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+          "name": "Des'ree",
+          "url": "https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B"
         }
       ],
-      "duration_ms": 214556,
-      "name": "Onda Alta",
-      "url": "https://open.spotify.com/track/586qiIWHIkjYnfwnIAFY38"
+      "duration_ms": 216040,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
     }
   ],
   "unique_name": "Canta Sotto La Doccia",

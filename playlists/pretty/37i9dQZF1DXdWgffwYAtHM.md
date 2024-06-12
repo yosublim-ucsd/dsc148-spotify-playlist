@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 ### [RADAR Podcasters Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:10naLy8QHctu1ODM0BqxEt">Histórias para adulto dormir</a>
+> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:10naLy8QHctu1ODM0BqxEt">Histórias pra adulto dormir</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,369 likes - 6 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,365 likes - 6 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,4 +15,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 5 | [Solucionado 8 anos depois por um motivo inusitado](https://open.spotify.com/episode/6wyuwrdORnyH97ueX4rtde) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 14:39 |
 | 6 | [como lidar com tempos difíceis?](https://open.spotify.com/episode/0lmnLwbinoM5F8zbzTy80n) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 8:48 |
 
-Snapshot ID: `Zl3NeQAAAAC7OjTNoqgawXWZWNu+CStr`
+Snapshot ID: `ZmiC8QAAAAA4b+R0T+ZV9X9XLVdPQFW2`

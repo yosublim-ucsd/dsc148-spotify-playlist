@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 251280,
       "name": "Born to Try",
       "url": "https://open.spotify.com/track/2iWyrSHvs6qhFzfpiLAK0z"
@@ -642,6 +642,32 @@
       "duration_ms": 257200,
       "name": "Elastic Heart",
       "url": "https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd"
+    },
+    {
+      "album": {
+        "name": "Fake Magic",
+        "url": "https://open.spotify.com/album/3YSm8I96IK40ovnp56h0Mh"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Fake Magic",
+      "url": "https://open.spotify.com/track/0lvXfUug5YmOHOyHgXufqF"
     },
     {
       "album": {

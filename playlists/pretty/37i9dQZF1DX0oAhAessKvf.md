@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,855 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,867 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 29 | [Robi\-Rob's Boriqua Anthem](https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Grandes Exitos](https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc) | 8:57 |
 | 30 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
 | 31 | [Donde Mi No Vengas](https://open.spotify.com/track/3PAKvNqqYklkKhg1xEieNB) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Homerun\-es](https://open.spotify.com/album/7uIGxnb0Th4Av0R5oui7A0) | 1:58 |
-| 32 | [Quieren Chorizo](https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Wassa Banga](https://open.spotify.com/artist/3TWyInhPb6Ai7SCUK4zo5X) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:24 |
-| 33 | [Wild Gilbert](https://open.spotify.com/track/5PKdhX6Gvqg7tnV6xB4MMp) | [Lovindeer](https://open.spotify.com/artist/2BHBhGqqA96TeKQB3Hrzcx) | [Jamaica Land of the People](https://open.spotify.com/album/2LOKPTo1YbmstOsqGURysV) | 6:16 |
-| 34 | [Ansias](https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:55 |
+| 32 | [Ansias](https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:55 |
+| 33 | [Quieren Chorizo](https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Wassa Banga](https://open.spotify.com/artist/3TWyInhPb6Ai7SCUK4zo5X) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:24 |
+| 34 | [Wild Gilbert](https://open.spotify.com/track/5PKdhX6Gvqg7tnV6xB4MMp) | [Lovindeer](https://open.spotify.com/artist/2BHBhGqqA96TeKQB3Hrzcx) | [Jamaica Land of the People](https://open.spotify.com/album/2LOKPTo1YbmstOsqGURysV) | 6:16 |
 | 35 | [EL Desorden](https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL) | [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko) | [Dancehall Reggaespanol](https://open.spotify.com/album/5VMm5Yt3XMbwv8nH9S3RMS) | 3:53 |
 | 36 | [Sientela](https://open.spotify.com/track/1YzG316tvhG7QereFQuq1A) | [Speedy](https://open.spotify.com/artist/5Z39pi8twNPXoHLcOM81X2) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:54 |
 | 37 | [Quiere Ser Like Me](https://open.spotify.com/track/2E6L2RNkPtZTiNcCBO5Vqw) | [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:58 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 39 | [Sabanas Blancas](https://open.spotify.com/track/5KF17ePUmiBbS6IEKu5gQL) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
 | 40 | [Tra, Tra](https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 3:27 |
 | 41 | [Chin A Chin](https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK) | [Ledesma](https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z) | [Fuera de lo Comun](https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk) | 3:49 |
-| 42 | [A Mover el Culo](https://open.spotify.com/track/4OWxMVxaovn4jM8VvGUwHe) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Barbero 507](https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 2:17 |
-| 43 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
+| 42 | [Marijuana](https://open.spotify.com/track/0fqj5uqf5iYvEFo6gyM1Ju) | [Baby J](https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov) | [Prime Underground 1](https://open.spotify.com/album/3UGPRfGaIVrdMhqWZYSCuv) | 2:51 |
+| 43 | [A Mover el Culo](https://open.spotify.com/track/4OWxMVxaovn4jM8VvGUwHe) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Barbero 507](https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 2:17 |
 | 44 | [Por Mi Reggae Muero](https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:36 |
 | 45 | [Muchos Quieren Tumbarme](https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:03 |
 | 46 | [Encendio](https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp) | [Falo](https://open.spotify.com/artist/5QfKUbR3EOkfzKoDNBV3xJ) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:46 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 58 | [Ven y Vuela](https://open.spotify.com/track/1uiWVO2cKT6qVnaLvgeJ7q) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Game Over](https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS) | 3:10 |
 | 59 | [Metimos Las Patas](https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst) | [OG Black y Master Joe](https://open.spotify.com/artist/5vLaYom9qPjl6xV7Y6wt9z) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 3:01 |
 | 60 | [Sentirte](https://open.spotify.com/track/0c9Qg1tEoKWF1eJ2MNyNGH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sandunguero II](https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET) | 3:28 |
-| 61 | [Me Arrepiento](https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:26 |
-| 62 | [Al Escuchar Mi Coro](https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:42 |
+| 61 | [Al Escuchar Mi Coro](https://open.spotify.com/track/7LBR7Fk58BXpaxMpMPlE8O) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Flashback](https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D) | 2:42 |
+| 62 | [Me Arrepiento](https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:26 |
 | 63 | [Un Nnuevo Estilo](https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:29 |
 | 64 | [Baila El Mambo](https://open.spotify.com/track/31tEgzedhAb2zllml0m50n) | [Notty Play](https://open.spotify.com/artist/1m5LVKalSAbpqNSOLGwCkr) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:14 |
 | 65 | [Outro \- Vamos A Darle Slow](https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3) | [El Hombre Tra](https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 1:23 |

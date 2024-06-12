@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,340 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,376 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 43 | [Physical](https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS) | 3:13 |
 | 44 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 |
 | 45 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 |
-| 46 | [Looking for Me](https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking for Me](https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o) | 3:31 |
-| 47 | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE) | 3:34 |
+| 46 | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/track/1rCcsYnmqbMYdkG7kS9GC5) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [Speechless \(feat\. Erika Sirola\)](https://open.spotify.com/album/6c9vwMfJN8ojcFFmPWEPRE) | 3:34 |
+| 47 | [Looking for Me](https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking for Me](https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o) | 3:31 |
 | 48 | [if we never met \- remix](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [if we never met \(remix\)](https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE) | 3:06 |
 | 49 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\)](https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Close To Me \(feat\. Swae Lee\)](https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ) | 3:02 |
 | 50 | [Forever Yours \- Avicii Tribute](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Avicii Tribute\)](https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y) | 3:13 |

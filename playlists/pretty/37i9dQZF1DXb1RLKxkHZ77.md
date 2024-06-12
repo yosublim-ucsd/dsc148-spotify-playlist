@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Ernie Zakri, Ade Govinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,702 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,743 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 33 | [Gelora](https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Gelora](https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc) | 3:48 |
 | 34 | [GADISKU](https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [FITTO](https://open.spotify.com/artist/3OG2k4C5SSrH69YbBU3Mbp), [Gard](https://open.spotify.com/artist/1YeerhN60nteXqkUo06htu) | [CHRONOSPHERE](https://open.spotify.com/album/4bUD7FuNjWluM7QlFxPl45) | 4:07 |
 | 35 | [Semangat Wira](https://open.spotify.com/track/18wkRaVoEO5Fg4RCyvh5Cx) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Semangat Wira](https://open.spotify.com/album/3Nbl6VxFMTxa0AaGlhcFoJ) | 3:48 |
-| 36 | [Padam Api Dalam Lantera](https://open.spotify.com/track/5K3YoXc2ZoNcqu4rLtVk5Z) | [Iera Milpan](https://open.spotify.com/artist/5zz4cBU2JXvmlgFuiCmiPI) | [Padam Api Dalam Lantera](https://open.spotify.com/album/30oY9Mg1zuHkr7odeTBHys) | 3:51 |
+| 36 | [Padam Api Dalam Lentera](https://open.spotify.com/track/5K3YoXc2ZoNcqu4rLtVk5Z) | [Iera Milpan](https://open.spotify.com/artist/5zz4cBU2JXvmlgFuiCmiPI) | [Padam Api Dalam Lentera](https://open.spotify.com/album/30oY9Mg1zuHkr7odeTBHys) | 3:51 |
 | 37 | [Suka](https://open.spotify.com/track/3N3s1Wv6w1dAwcwtWygy3w) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Suka](https://open.spotify.com/album/62GPiZLZMmqhB3DR8ZSy44) | 2:58 |
 | 38 | [OMK](https://open.spotify.com/track/63VSYAxNF3tHP6D0N9uQXm) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH), [Zubir Khan](https://open.spotify.com/artist/1PCuqpInYSxQue3sDDM1Q5) | [OMK](https://open.spotify.com/album/4Zlt3S1NUaTrDdT8ZwT2ju) | 3:47 |
 | 39 | [Kini](https://open.spotify.com/track/5AIAQ8Si5Gx9xFT3n3U3Jl) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini](https://open.spotify.com/album/46DOpLwkpDlUHfPusJ91cB) | 3:37 |

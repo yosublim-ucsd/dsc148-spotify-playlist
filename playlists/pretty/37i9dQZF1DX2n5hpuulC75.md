@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 845 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,19 +19,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 9 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 |
 | 10 | [another time \(world$tar money\)](https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy) | [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [another time \(world$tar money\)](https://open.spotify.com/album/0bMuRzy7dDIfKgliEaw4DV) | 3:01 |
 | 11 | [I've Always Been](https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Zach Berro](https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH) | [I've Always Been](https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV) | 1:54 |
-| 12 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
-| 13 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
+| 12 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 |
+| 13 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 |
 | 14 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 |
 | 15 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
-| 16 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
-| 17 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
+| 16 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
+| 17 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 |
 | 18 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
 | 19 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
 | 20 | [Do You Feel](https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Do You Feel](https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW) | 3:54 |
 | 21 | [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 |
 | 22 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 |
-| 23 | [Loss](https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Loss](https://open.spotify.com/album/5p9mx2AX05jn6rzjzKUYNX) | 3:39 |
-| 24 | [CARE](https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4) | [Aaron Sayre](https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ) | [CARE](https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp) | 3:28 |
+| 23 | [CARE](https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4) | [Aaron Sayre](https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ) | [CARE](https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp) | 3:28 |
+| 24 | [Loss](https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Loss](https://open.spotify.com/album/5p9mx2AX05jn6rzjzKUYNX) | 3:39 |
 | 25 | [The Edge of Forever](https://open.spotify.com/track/0v6dmK9TWQWY6NqBG7YVpK) | [Work Drugs](https://open.spotify.com/artist/0wLfAlTh58anndtgqA0MCU) | [The Edge of Forever](https://open.spotify.com/album/7KqxTEDu8NOKcr2665Zryv) | 4:59 |
 | 26 | [All Over Me](https://open.spotify.com/track/7N2KPKZAutekLgLNEg2AOF) | [Bedstudy](https://open.spotify.com/artist/7J2sXHrIECKuTgcKzNxz46) | [All Over Me](https://open.spotify.com/album/0UhBRmr4xtK0LMc9jwNyFC) | 3:35 |
 | 27 | [Limestone](https://open.spotify.com/track/6qSLypToYm6qOVhhN6vtZn) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Limestone](https://open.spotify.com/album/7Kv3acN8uo0IVK47s3oUBv) | 3:58 |

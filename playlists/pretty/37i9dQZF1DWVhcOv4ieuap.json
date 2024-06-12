@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1023242,
+  "num_followers": 1023259,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Sharo Towers",
-          "url": "https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "CARBON VRMOR",
-      "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 167674,
       "name": "La Triple T",
       "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sharo Towers",
+          "url": "https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "CARBON VRMOR",
+      "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -1315,26 +1335,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/1regh1ryWna3MRTKu401uD"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/1regh1ryWna3MRTKu401uD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "\u00c9xtasis",
         "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
       },
@@ -1379,22 +1399,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 240964,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+      "duration_ms": 186186,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1411,22 +1427,6 @@
       "duration_ms": 187315,
       "name": "Baja California",
       "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 186186,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1483,6 +1483,34 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Low Key (feat. Humby)",
+        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Humby",
+          "url": "https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag"
+        }
+      ],
+      "duration_ms": 216980,
+      "name": "Low Key (feat. Humby)",
+      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "BAIL\u00c9 CON MI EX",
         "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
       },
@@ -1495,22 +1523,6 @@
       "duration_ms": 161880,
       "name": "BAIL\u00c9 CON MI EX",
       "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Pasado Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1539,6 +1551,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Pasado Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Nuestro A\u00f1o",
         "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
       },
@@ -1555,22 +1583,6 @@
       "duration_ms": 189821,
       "name": "Nuestro A\u00f1o",
       "url": "https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1595,30 +1607,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Low Key (feat. Humby)",
-        "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Humby",
-          "url": "https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 216980,
-      "name": "Low Key (feat. Humby)",
-      "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Dame Un Break",
-        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Dame Un Break",
-      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 212466,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Dame Un Break",
+        "url": "https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Dame Un Break",
+      "url": "https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 186920,
       "name": "No Eres T\u00fa",
       "url": "https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

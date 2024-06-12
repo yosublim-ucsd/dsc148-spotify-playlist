@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,060 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,031 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 41 | [Cherry Plum](https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I) | [Astronauts, etc.](https://open.spotify.com/artist/2CXaub1yYrSk6ruDtOx6LZ) | [Cherry Plum](https://open.spotify.com/album/5Sojt1gA3COWCx7xxSgtyh) | 2:54 |
 | 42 | [You Come Down](https://open.spotify.com/track/7EdwWyPnHkbi9KuG4wyKmc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [That Iron Taste](https://open.spotify.com/album/1HBTigeKszgy2KJPna3hND) | 2:54 |
 | 43 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 |
-| 44 | [Middle of the Bed](https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:11 |
+| 44 | [Song for lovers](https://open.spotify.com/track/6j0wJaEnEIHoJoqycUJtZb) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful \(Bonus version\)](https://open.spotify.com/album/0LyXJDto4wI0F1OD45ZWPz) | 2:24 |
 | 45 | [I Remember](https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:31 |
-| 46 | [Song for lovers](https://open.spotify.com/track/6j0wJaEnEIHoJoqycUJtZb) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful \(Bonus version\)](https://open.spotify.com/album/0LyXJDto4wI0F1OD45ZWPz) | 2:24 |
+| 46 | [Middle of the Bed](https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:11 |
 | 47 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 48 | [Too Repressed \- Explicit](https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx) | [Sometymes Why](https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU) | [Sometimes Why](https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q) | 5:57 |
-| 49 | [Til It Breaks](https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Til It Breaks](https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC) | 3:21 |
-| 50 | [Burnt Sage](https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz) | [Le Siren](https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC) | [Take Care of Yourself](https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo) | 2:37 |
+| 49 | [Burnt Sage](https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz) | [Le Siren](https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC) | [Take Care of Yourself](https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo) | 2:37 |
+| 50 | [Til It Breaks](https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Til It Breaks](https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC) | 3:21 |
 
 Snapshot ID: `Zk90tQAAAAC4LzvU8p83XovsbVCu389Q`

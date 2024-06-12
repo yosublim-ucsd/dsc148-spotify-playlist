@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-344 songs - 19 hr 34 min
+345 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Ek Samay](https://open.spotify.com/track/0mo7QWcntm7G2syqkf0cNP) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:32 | 2024-04-19 |  |
 | [Ek Sheher](https://open.spotify.com/track/4IRryIKKfcEFvKgfcCTSGc) | [Alok](https://open.spotify.com/artist/3y7LfP3vkL9HrOItlNblh9), [Zion Mathew](https://open.spotify.com/artist/5f47cgKSrce8l22c8bZQ8X) | [Ek Sheher](https://open.spotify.com/album/7aX7q7EJb4cko8NLfzhMne) | 3:52 | 2023-09-08 | 2024-02-10 |
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |
-| [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-12 |  |
+| [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-12 | 2024-06-12 |
 | [Fidaa](https://open.spotify.com/track/2F4GxzCqfv0DAcnbWtr3Tk) | [Shubhranshu Tiwari](https://open.spotify.com/artist/1Zb6oNpoIxy7EelAwdpICD) | [Fidaa](https://open.spotify.com/album/57WGS0aqObOSiCOJhhWgRR) | 2:08 | 2024-01-08 | 2024-03-15 |
 | [Fly Fly Away \(Reprise\)](https://open.spotify.com/track/76MZxG3G1KFr6FGIJ9OGAp) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shivam\-Anuj](https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg) | [Garuudaa On The Terrace \- Season 1](https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x) | 2:49 | 2024-05-28 |  |
 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 | 2024-04-19 |
@@ -233,6 +233,7 @@
 | [Naya Jahaan \- Stripped](https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan \- Stripped](https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3) | 2:15 | 2023-08-30 | 2024-02-21 |
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
+| [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 |  |
 | [Paas Mere](https://open.spotify.com/track/6L8QciURnXIwZVZMeeNJB5) | [Rajraktim Konwar](https://open.spotify.com/artist/6y65f3ZHnYyTcVjnNQwvJZ), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Paas Mere](https://open.spotify.com/album/3zxrvRU4mO4kUBGIXG78xr) | 2:56 | 2023-08-28 | 2023-12-16 |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
 | [Pal Behta Jaaye 2.0](https://open.spotify.com/track/5SHfxmcRM55HoxnhPJLcal) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye 2.0](https://open.spotify.com/album/7nCPsjpyUj4pY2HI4EhwLV) | 3:03 | 2023-05-17 | 2024-02-10 |

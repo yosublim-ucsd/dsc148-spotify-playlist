@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,525 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,653 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 37 | [El Caballo de Mi Padre](https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Caballo de Mi Padre](https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI) | 3:21 |
 | 38 | [El Herradero \- En Vivo Desde El Rancho](https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:56 |
 | 39 | [El Demonio](https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:06 |
-| 40 | [El Pulmòn](https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR) | [Contrafuego](https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x), [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [El Pulmón](https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu) | 3:32 |
-| 41 | [El Nuevo Comandante](https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ) | [Oscar Solis Y Su Banda Magistral](https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8) | [Corridos Finos III](https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc) | 3:42 |
+| 40 | [El Nuevo Comandante](https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ) | [Oscar Solis Y Su Banda Magistral](https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8) | [Corridos Finos III](https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc) | 3:42 |
+| 41 | [El Pulmòn](https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR) | [Contrafuego](https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x), [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [El Pulmón](https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu) | 3:32 |
 | 42 | [El Caballo Bayo](https://open.spotify.com/track/6sFWewanbKBf56b0VQIwJI) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:26 |
 | 43 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
 | 44 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |

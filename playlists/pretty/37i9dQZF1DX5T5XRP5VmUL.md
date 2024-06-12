@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,687 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,674 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 96 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 |
 | 97 | [Christmas in California](https://open.spotify.com/track/7Giga9qA0SLacsMlIRD4X8) | [STACEY](https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ) | [Christmas in California](https://open.spotify.com/album/7zDHDUi94poNUi2prXFPSQ) | 3:09 |
 | 98 | [A Holly Jolly Christmas](https://open.spotify.com/track/1GpPsjjd4D1jsteGYpGGIN) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 2:22 |
-| 99 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
-| 100 | [My Christmas List](https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [My Christmas List](https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy) | 3:27 |
+| 99 | [My Christmas List](https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [My Christmas List](https://open.spotify.com/album/3VpSv9WqlJ2xwnsDcMgINy) | 3:27 |
+| 100 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 |
 
 Snapshot ID: `ZX0XsgAAAAASfthSPux2ewzeFY7w4naW`

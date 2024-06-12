@@ -1,12 +1,12 @@
 {
-  "description": "Com FKA twigs, Crystal Castles, Purity Ring e mais",
-  "num_followers": 26678,
-  "original_name": "R\u00e1dio de Grimes",
+  "description": "With FKA twigs, Crystal Castles, Purity Ring and more",
+  "num_followers": 26697,
+  "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zme9GAAAAAA9acLpRAWIhYB9L1ENJYaQ",
+  "snapshot_id": "ZmkOlAAAAACcnhEcPJEnh7NGLM1s8bjn",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Youth Novels",
         "url": "https://open.spotify.com/album/6zBW3pmU291VbFHq4EdU8C"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Time, My Time",
-        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm"
       },
       "artists": [
         {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/38WyDtxZhxm63jiythwemE"
     },
     {
       "added_at": null,
@@ -343,22 +359,6 @@
       "duration_ms": 126663,
       "name": "Cry (feat. Grimes)",
       "url": "https://open.spotify.com/track/1jR9XTpUeT6a82Yz4GNCCo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/38WyDtxZhxm63jiythwemE"
     },
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
         }
       ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
       "added_at": null,
@@ -467,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portamento",
-        "url": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 233639,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light & Magic",
         "url": "https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO"
       },
@@ -495,22 +475,6 @@
       "duration_ms": 277866,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ethereality",
-        "url": "https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW"
-      },
-      "artists": [
-        {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        }
-      ],
-      "duration_ms": 218384,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla"
     },
     {
       "added_at": null,
@@ -531,18 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
+        "name": "Ethereality",
+        "url": "https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         }
       ],
-      "duration_ms": 306533,
-      "name": "Realiti",
-      "url": "https://open.spotify.com/track/7gylDRTKkPXrLwWyyBUNsz"
+      "duration_ms": 218384,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla"
     },
     {
       "added_at": null,
@@ -559,6 +523,22 @@
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shinigami Eyes",
+        "url": "https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 159315,
+      "name": "Shinigami Eyes",
+      "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
     },
     {
       "added_at": null,
@@ -595,38 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/230rGveNEYVpC6pqrXRZ71"
-      },
-      "artists": [
-        {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shinigami Eyes",
-        "url": "https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 159315,
-      "name": "Shinigami Eyes",
-      "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -643,6 +591,54 @@
       "duration_ms": 213610,
       "name": "Sheesh (feat. Grimes)",
       "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/230rGveNEYVpC6pqrXRZ71"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "Realiti",
+      "url": "https://open.spotify.com/track/7gylDRTKkPXrLwWyyBUNsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 227160,
+      "name": "Black Out Days",
+      "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
+        "name": "The Moon and the Melodies",
+        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
       "artists": [
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 227160,
-      "name": "Black Out Days",
-      "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
+      "duration_ms": 189040,
+      "name": "Sea, Swallow Me",
+      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
     },
     {
       "added_at": null,
@@ -719,38 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon and the Melodies",
-        "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
+        "name": "Portamento",
+        "url": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 189040,
-      "name": "Sea, Swallow Me",
-      "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+      "duration_ms": 233639,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB"
     },
     {
       "added_at": null,
@@ -787,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/5fr0ocIee7TpDCRWaK0002"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
       },
@@ -803,18 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
       },
       "artists": [
         {
-          "name": "Pastel Ghost",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/5fr0ocIee7TpDCRWaK0002"
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
     },
     {
       "added_at": null,
@@ -873,6 +869,6 @@
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
     }
   ],
-  "unique_name": "R\u00e1dio de Grimes",
+  "unique_name": "Grimes Radio",
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo"
 }

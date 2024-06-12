@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Aitch, Luciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,154 likes - 107 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,159 likes - 107 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
 | 2 | [Beifahrer](https://open.spotify.com/track/5sxiqHHGSVjmeg5SrLZcKA) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Beifahrer](https://open.spotify.com/album/6RN9pJoOiIGdDMnO1Nt1Us) | 3:04 |
-| 3 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 3 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 4 | [Florenz](https://open.spotify.com/track/74vE9sxMnFuxzp4uDkrwKW) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Florenz](https://open.spotify.com/album/4QzKGQFEbtq1cSeluRu2or) | 2:32 |
 | 5 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 6 | [Anima ribelle](https://open.spotify.com/track/4je05tDXWa1lkgbJRYThZU) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Addio](https://open.spotify.com/album/2ej3ZX7h1N7noej8defaj1) | 3:04 |

@@ -1,6 +1,6 @@
 {
   "description": "Big D e varias pretona braba",
-  "num_followers": 52493,
+  "num_followers": 52556,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -39,6 +39,26 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Pensamentos Intrusivos",
+      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -67,26 +87,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 133517,
-      "name": "Pensamentos Intrusivos",
-      "url": "https://open.spotify.com/track/3owZapu16Fb3v2xb8K6CO9"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -223,6 +223,26 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr"
       },
@@ -263,26 +283,6 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 190722,
-      "name": "Homens Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
         "name": "Atlanta - Spotify Singles",
         "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
@@ -319,22 +319,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
         }
       ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Len\u00e7ol",
         "url": "https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm"
       },
@@ -451,6 +471,26 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 140208,
+      "name": "Big D!!!!! Pt. 2",
+      "url": "https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
@@ -475,22 +515,30 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+        "name": "5min",
+        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 140208,
-      "name": "Big D!!!!! Pt. 2",
-      "url": "https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB"
+      "duration_ms": 128181,
+      "name": "5min",
+      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -511,50 +559,6 @@
       "duration_ms": 168979,
       "name": "Splash",
       "url": "https://open.spotify.com/track/0MiKYMb1Xl8IKdPhX7FY42"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Levado - Spotify Singles",
-        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rennan Guerra",
-          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
-        },
-        {
-          "name": "Patrick Laplan",
-          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
-        }
-      ],
-      "duration_ms": 175922,
-      "name": "Levado - Spotify Singles",
-      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -599,6 +603,30 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
+        "name": "Levado - Spotify Singles",
+        "url": "https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rennan Guerra",
+          "url": "https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA"
+        },
+        {
+          "name": "Patrick Laplan",
+          "url": "https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o"
+        }
+      ],
+      "duration_ms": 175922,
+      "name": "Levado - Spotify Singles",
+      "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
         "name": "Nega Doce",
         "url": "https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ"
       },
@@ -619,50 +647,18 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "5min",
-        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
       },
       "artists": [
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 128181,
-      "name": "5min",
-      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -707,26 +703,22 @@
     {
       "added_at": "2024-05-31 03:01:00",
       "album": {
-        "name": "Verdinha Criminosa",
-        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
       "artists": [
         {
-          "name": "MC KTRINE",
-          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
         },
         {
-          "name": "Hug\u00e3o",
-          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
-        },
-        {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 159516,
-      "name": "Verdinha Criminosa",
-      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -751,6 +743,30 @@
       "duration_ms": 158884,
       "name": "+18",
       "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+    },
+    {
+      "added_at": "2024-05-31 03:01:00",
+      "album": {
+        "name": "Verdinha Criminosa",
+        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
+      },
+      "artists": [
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Hug\u00e3o",
+          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "duration_ms": 159516,
+      "name": "Verdinha Criminosa",
+      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
     },
     {
       "added_at": "2024-05-31 03:01:00",
@@ -795,22 +811,6 @@
       "duration_ms": 217263,
       "name": "Faz Assim",
       "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
-    },
-    {
-      "added_at": "2024-05-31 03:01:00",
-      "album": {
-        "name": "Glossy",
-        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 151596,
-      "name": "Glossy",
-      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": "2024-05-31 03:01:00",

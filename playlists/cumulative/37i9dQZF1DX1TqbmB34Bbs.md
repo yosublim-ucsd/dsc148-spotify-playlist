@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Jimmy Paige\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: YUNGIN, SINCE, sokodomo\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,181 songs - 2 day 17 hr 23 min
+1,182 songs - 2 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [Lord of the Flies](https://open.spotify.com/track/42bz8xrduuzDOe840MT1By) | [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [SOUR](https://open.spotify.com/album/13GoccGMKsQMAQ1ZwuLzBP) | 3:56 | 2022-06-03 | 2022-07-26 |
 | [Lost In Hell](https://open.spotify.com/track/7aPb5hRvYZqhVrYaXe8o63) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Demon Youth](https://open.spotify.com/album/4YPACcqstZ7TVAsuTB8yIF) | 1:45 | 2022-05-31 | 2022-06-22 |
 | [Lost In The Sauce](https://open.spotify.com/track/5asxRZbYlrnb0gvRidBf13) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [Strictly Business](https://open.spotify.com/album/5ug4HtgrTKilxcmY4X49r6) | 2:40 | 2022-05-31 | 2022-06-30 |
+| [Love Me No More](https://open.spotify.com/track/2K73iBXDb0gKhvhnR2LRzT) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Love Me No More](https://open.spotify.com/album/1p7FNVwY04dM4wpkvCm2Hd) | 2:32 | 2024-06-11 |  |
 | [Love Myself](https://open.spotify.com/track/6EGLGfhyIgbCZgTkQSoxRR) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [1Q87](https://open.spotify.com/album/4sSV6SA4ubFpNm62W8KYRr) | 2:55 | 2022-06-03 | 2022-07-13 |
 | [Love Peace](https://open.spotify.com/track/6qz92hc3MsNjVFVLPAwXsV) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [Love Peace](https://open.spotify.com/album/3wG0DRACgzpgDIvKH9MPcP) | 2:47 | 2022-05-28 | 2022-07-24 |
 | [Love Peace Movement \(Love Peace HypeerTime REMIX\)](https://open.spotify.com/track/0nKTc5g80iL1bpxJ9w9BIK) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6) | 5:15 | 2022-05-28 | 2022-07-29 |
@@ -647,7 +648,7 @@
 | [Money Warfare \(Feat\. Royal 44\)](https://open.spotify.com/track/4bF12yPC7eLWokTFYmhehx) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Gangnam EP](https://open.spotify.com/album/37UlgFjxwn0Q67WCJOqnvF) | 2:46 | 2022-08-15 | 2022-10-04 |
 | [Monster \(feat.노윤하\)](https://open.spotify.com/track/0MsOPluJ1VgCND8FgQEFBx) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [BLACK STREET](https://open.spotify.com/album/14Rb4SqwyoqIIDagxB8Iqm) | 2:36 | 2023-01-05 | 2023-03-22 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-01 |  |
-| [Moshpit Only \(Feat\. Paul Blanco\)](https://open.spotify.com/track/14J3fFtcGjaGqReC9bnQAz) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 2:21 | 2022-06-03 |  |
+| [Moshpit Only \(Feat\. Paul Blanco\)](https://open.spotify.com/track/14J3fFtcGjaGqReC9bnQAz) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 2:21 | 2022-06-03 | 2024-06-12 |
 | [MOSS \(Feat\. MINO, BOBBY\) \(Prod\. MINO\)](https://open.spotify.com/track/1cYDmIZtF2SGveyqhc7X1Y) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:04 | 2022-05-31 |  |
 | [Motor Show](https://open.spotify.com/track/3IOMwFPdDEz9pRhp57M9Me) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Louie](https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [YNR VS ALL](https://open.spotify.com/album/2K65RodurSpx5oPT94nG9b) | 3:26 | 2023-03-13 | 2023-04-15 |
 | [Mountain Kumgang \(Feat\. Don Mills, Ja Mezz\)](https://open.spotify.com/track/6tBk7VQiQ1XYS6T7hMWmnE) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:47 | 2022-07-19 | 2022-08-02 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 ### [This Is Ludmila Ferber](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jluEL)
 
-> This is Ludmila Ferber\. Todos os maiores hits em uma só playlist.
+> This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,544 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,543 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 6 | [Um Novo Começo](https://open.spotify.com/track/4Oc780FqTA7ZqnK9zeL3Tf) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 5:37 |
 | 7 | [Aguenta Firme \- Ao Vivo](https://open.spotify.com/track/0NR9d8dB0sT21mIogGTUNj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 5: Coragem \(Ao Vivo\)](https://open.spotify.com/album/18vcxTw8s6ZkvAkU9ulcFP) | 6:08 |
 | 8 | [Ouça e Tome Posse](https://open.spotify.com/track/6Oh73zhneF8DSBZ3K3qe9J) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 5:26 |
-| 9 | [Sopra Espírito](https://open.spotify.com/track/5922FUTIiDyxgRZoJ9Chlp) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Deus É Bom Demais](https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN) | 5:32 |
-| 10 | [Maravilhoso](https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 4:32 |
+| 9 | [Maravilhoso](https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 4:32 |
+| 10 | [Sopra Espírito](https://open.spotify.com/track/5922FUTIiDyxgRZoJ9Chlp) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Deus É Bom Demais](https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN) | 5:32 |
 | 11 | [Buscar Tua Face é Preciso \- Ao Vivo](https://open.spotify.com/track/1EeHWzE395JKcIOuHeJ35G) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:35 |
 | 12 | [Unção Sem Limites](https://open.spotify.com/track/5TFqXjqtCGvqxA9WSmgjPR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL) | 5:16 |
 | 13 | [O Mover do Espírito](https://open.spotify.com/track/6hDhsbyAXQbHdCEo258lNP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T) | 5:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 43 | [Faz Chover](https://open.spotify.com/track/1cVb9gErlRvhJJD5gERg0w) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 6:27 |
 | 44 | [Senhor que Cura](https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 5:06 |
 | 45 | [Totalmente aos Teus Pés](https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 3:21 |
-| 46 | [Hoje Eu Só Quero Te Adorar \- Ao Vivo](https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:09 |
-| 47 | [Jesus, A Rocha Eterna \- Ao Vivo](https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Alda Célia](https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(ao Vivo\)](https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF) | 3:47 |
+| 46 | [Jesus, A Rocha Eterna \- Ao Vivo](https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Alda Célia](https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Rastros de Amor \(ao Vivo\)](https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF) | 3:47 |
+| 47 | [Hoje Eu Só Quero Te Adorar \- Ao Vivo](https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:09 |
 | 48 | [Imenso Amor](https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Imenso Amor](https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4) | 3:23 |
 | 49 | [Toda Adoração](https://open.spotify.com/track/39y8RE8axgRjQZAPB0gsg4) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Silvério Peres](https://open.spotify.com/artist/20osU0MGKViBjY7vgDj57D), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 3:16 |
 | 50 | [Toma Teu Trono](https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:01 |
 
-Snapshot ID: `ZmTwgAAAAADENzhPMULOrT3KawMc6/M3`
+Snapshot ID: `ZmZCAAAAAADYwh35bVqG/1OJVEYL3EGl`

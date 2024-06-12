@@ -1,12 +1,12 @@
 {
-  "description": "This is Delia Derbyshire. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
   "num_followers": 2010,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAABa27aiNSkbatSE6HV+jGmU",
+  "snapshot_id": "ZmZCAAAAAABSuvv/6pOZj/3nUHUNPo6q",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
         }
       ],
-      "duration_ms": 105466,
-      "name": "Quest",
-      "url": "https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW"
+      "duration_ms": 126360,
+      "name": "Frontier of Knowledge",
+      "url": "https://open.spotify.com/track/3nHdx0RJhzQih0I21PnIju"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
         }
       ],
-      "duration_ms": 126360,
-      "name": "Frontier of Knowledge",
-      "url": "https://open.spotify.com/track/3nHdx0RJhzQih0I21PnIju"
+      "duration_ms": 105466,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 352197,
+      "name": "The Afterlife, Pt. 2",
+      "url": "https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electronic",
         "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 40160,
       "name": "Delia's Dream",
       "url": "https://open.spotify.com/track/4kcdAGV3GNVeWnv4gWJVWn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Afterlife",
-        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 352197,
-      "name": "The Afterlife, Pt. 2",
-      "url": "https://open.spotify.com/track/5GQmLF1yvOo9B5e3T78DbG"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Afterlife",
+        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 2113024,
+      "name": "The Afterlife, Pt. 3",
+      "url": "https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electronic",
         "url": "https://open.spotify.com/album/4vMGCvrkRkTedNMRrp96NS"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 35980,
       "name": "Delia's Psychadelian Waltz",
       "url": "https://open.spotify.com/track/3NmsD9RDuyEcrodadErSMk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Afterlife",
-        "url": "https://open.spotify.com/album/3IfnbyKCVjKDOFLCdDMmaI"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 2113024,
-      "name": "The Afterlife, Pt. 3",
-      "url": "https://open.spotify.com/track/0XH8WkXHjq0Hq5BubQRxuM"
     },
     {
       "added_at": null,

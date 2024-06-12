@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 553060,
+  "num_followers": 553031,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "Like I Used To (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
+        "name": "A Mouthful (Bonus version)",
+        "url": "https://open.spotify.com/album/0LyXJDto4wI0F1OD45ZWPz"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "The D\u00f8",
+          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Middle of the Bed",
-      "url": "https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq"
+      "duration_ms": 144400,
+      "name": "Song for lovers",
+      "url": "https://open.spotify.com/track/6j0wJaEnEIHoJoqycUJtZb"
     },
     {
       "added_at": "2024-05-23 16:54:13",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "A Mouthful (Bonus version)",
-        "url": "https://open.spotify.com/album/0LyXJDto4wI0F1OD45ZWPz"
+        "name": "Like I Used To (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
       "artists": [
         {
-          "name": "The D\u00f8",
-          "url": "https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Song for lovers",
-      "url": "https://open.spotify.com/track/6j0wJaEnEIHoJoqycUJtZb"
+      "duration_ms": 191560,
+      "name": "Middle of the Bed",
+      "url": "https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq"
     },
     {
       "added_at": "2024-05-23 16:54:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-23 16:54:13",
       "album": {
-        "name": "Til It Breaks",
-        "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "Til It Breaks",
-      "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
-    },
-    {
-      "added_at": "2024-05-23 16:54:13",
-      "album": {
         "name": "Take Care of Yourself",
         "url": "https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 157802,
       "name": "Burnt Sage",
       "url": "https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz"
+    },
+    {
+      "added_at": "2024-05-23 16:54:13",
+      "album": {
+        "name": "Til It Breaks",
+        "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Til It Breaks",
+      "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
     }
   ],
   "unique_name": "intertwined",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,510 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,570 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 71 | [Angie \(i’ve been lost\) \[feat\. Angie McMahon\]](https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 |
 | 72 | [SET ME FREE](https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [SET ME FREE](https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW) | 2:58 |
 | 73 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
-| 74 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
-| 75 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 |
+| 74 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 |
+| 75 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 76 | [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 |
 | 77 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 |
 | 78 | [Keep On Dancing](https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Keep On Dancing](https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi) | 3:05 |

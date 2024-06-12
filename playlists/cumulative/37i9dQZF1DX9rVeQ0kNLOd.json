@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 213666,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6lNoFGUr7bXvHRF8TM92gr"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 141120,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/6IPWxuGR03oMQ489Ggabwe"
@@ -712,10 +712,28 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 199662,
       "name": "FAKE MOON",
       "url": "https://open.spotify.com/track/44O74u3HNTWVEebEGLAoOk"
+    },
+    {
+      "album": {
+        "name": "After Rain Comes Sunshine",
+        "url": "https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz"
+      },
+      "artists": [
+        {
+          "name": "BLACK BERRY TIMES",
+          "url": "https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209642,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e"
     },
     {
       "album": {
@@ -770,6 +788,32 @@
       "duration_ms": 158785,
       "name": "fantasy",
       "url": "https://open.spotify.com/track/2xVfFL5ZUCmTskkFh8k8Ui"
+    },
+    {
+      "album": {
+        "name": "Remember Me?",
+        "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198097,
+      "name": "Feel Missing",
+      "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
     },
     {
       "album": {
@@ -864,7 +908,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 324797,
       "name": "flow",
       "url": "https://open.spotify.com/track/3vvCdYfbz8U7YfUCpxLGCj"
@@ -2093,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "No Time To Lose",
+        "url": "https://open.spotify.com/album/0yE17Y4lyRBCNESShifnhY"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "No Time To Lose",
+      "url": "https://open.spotify.com/track/70wXFwkMt7Ff9JYYDRU7mC"
+    },
+    {
+      "album": {
         "name": "Ima no Futari o Otagai ga Miteru",
         "url": "https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb"
       },
@@ -2338,6 +2400,24 @@
       "duration_ms": 143536,
       "name": "Re:Deadstock",
       "url": "https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb"
+    },
+    {
+      "album": {
+        "name": "Refrain",
+        "url": "https://open.spotify.com/album/0Z8e6p7ZqNSNpW2agJwATf"
+      },
+      "artists": [
+        {
+          "name": "Hazy Blue",
+          "url": "https://open.spotify.com/artist/2min1ksXdf3fra1lihn3sj"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Refrain",
+      "url": "https://open.spotify.com/track/2pK4IIWrmy0HoPeJK7ITSK"
     },
     {
       "album": {
@@ -2594,7 +2674,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 233924,
       "name": "Some True Love",
       "url": "https://open.spotify.com/track/57PdGtLaH4LKiMOe6hKLhg"
@@ -2888,7 +2968,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 186093,
       "name": "sweet moratorium",
       "url": "https://open.spotify.com/track/4176uZIGkBroM4czZZTtte"
@@ -4489,6 +4569,28 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002 (Jun Saito Remix)",
+        "url": "https://open.spotify.com/album/2DGSE70OQLmkXcrtJFEKj3"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        },
+        {
+          "name": "Jun Saito",
+          "url": "https://open.spotify.com/artist/1bqPq6zml4iC1qENWKoSXr"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289650,
+      "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002 - Jun Saito Remix",
+      "url": "https://open.spotify.com/track/3iO7xENmCkZ7TTxCgGt8nJ"
+    },
+    {
+      "album": {
         "name": "wheel of life",
         "url": "https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s"
       },
@@ -5364,7 +5466,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 227000,
       "name": "\u6d6e\u304b\u3070\u308c\u305f\u3044\u306d\u30b5\u30bf\u30c7\u30fc",
       "url": "https://open.spotify.com/track/0wzfMN8h09YxxyGm8g50yL"
@@ -5516,6 +5618,24 @@
       "duration_ms": 249477,
       "name": "\u7d19\u4e00\u91cd",
       "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
+    },
+    {
+      "album": {
+        "name": "\u7d2b\u82d1",
+        "url": "https://open.spotify.com/album/3NgD4PnatrEWfRI88cSA0c"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247554,
+      "name": "\u7d2b\u82d1",
+      "url": "https://open.spotify.com/track/0tzkqPsJQBm6lvtYp61rT5"
     },
     {
       "album": {
@@ -5718,7 +5838,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 191689,
       "name": "\u9003\u907f\u884c",
       "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-193 songs - 8 hr 21 min
+194 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [SAMAYA PERVAYA](https://open.spotify.com/track/0avFSJ9URBdqNM2M2ekzFa) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [SAMAYA PERVAYA](https://open.spotify.com/album/32b2Lta0ZHNuQCNb7DGj7O) | 3:48 | 2024-05-19 | 2024-05-28 |
 | [SAVE DAT](https://open.spotify.com/track/7l8Q5hVtKz2Ztold6N2gLh) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [SAVE DAT](https://open.spotify.com/album/5CrotczMtH0A2uHaCOPYb7) | 2:29 | 2024-03-23 | 2024-04-21 |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-16 | 2024-05-28 |
-| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 |  |
+| [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 | 2024-06-12 |
 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2024-05-15 | 2024-05-24 |
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-16 | 2024-03-17 |
 | [Song 404](https://open.spotify.com/track/3xaNTJk9G0yoKkkjlkOYv5) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o) | [Song 404](https://open.spotify.com/album/1GPbNVvuhI1JSinBRNIUS9) | 2:45 | 2024-04-28 | 2024-05-04 |
@@ -146,6 +146,7 @@
 | [Плачут Небеса](https://open.spotify.com/track/6euqOfQXC3YdneT6bGTyI6) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Доминик Джокер](https://open.spotify.com/artist/5YF9ggs1BDRHNx7OiLCvxe) | [Плачут Небеса](https://open.spotify.com/album/2d5EJLlYd2KLRhijE8gaZk) | 2:47 | 2024-01-30 | 2024-02-04 |
 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 | 2024-02-17 |  |
 | [Поезда](https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce), [Комната культуры](https://open.spotify.com/artist/0dTuwuNVB1hXbxaDM42ncA) | [Поезда](https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU) | 2:59 | 2024-01-29 |  |
+| [Пожары](https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/68sNUJIxWC1On3J9PQmEEs) | 3:17 | 2024-06-11 |  |
 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2024-01-29 |  |
 | [последнее лето](https://open.spotify.com/track/0M6DVxO3zzYsAx1PJoG7jO) | [kin](https://open.spotify.com/artist/3gWzZ1G1YylaEyFIwbQMtw) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/1LKztSqCqjJeO7aDFIkhPJ) | 2:17 | 2024-05-10 | 2024-05-13 |
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2024-01-29 |  |

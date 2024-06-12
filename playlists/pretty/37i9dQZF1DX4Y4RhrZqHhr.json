@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 805656,
+  "num_followers": 806344,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -223,38 +223,6 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-06-08 06:55:16",
-      "album": {
-        "name": "Sun Is Shining (Remixes)",
-        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
-      },
-      "artists": [
-        {
-          "name": "Funkstar De Luxe",
-          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Sun Is Shining - De Luxe Edit",
-      "url": "https://open.spotify.com/track/1Fka6XCbSxs4ElXQOe28xf"
-    },
-    {
-      "added_at": "2024-06-08 06:55:16",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -275,6 +243,38 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2024-06-08 06:55:16",
+      "album": {
+        "name": "Sun Is Shining (Remixes)",
+        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
+      },
+      "artists": [
+        {
+          "name": "Funkstar De Luxe",
+          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Sun Is Shining - De Luxe Edit",
+      "url": "https://open.spotify.com/track/1Fka6XCbSxs4ElXQOe28xf"
+    },
+    {
+      "added_at": "2024-06-08 06:55:16",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-06-08 06:55:16",
@@ -691,22 +691,22 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
         },
         {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2024-06-08 06:55:16",
@@ -731,22 +731,22 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         },
         {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
         }
       ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2024-06-08 06:55:16",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "added_at": "2024-06-08 06:55:16",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 229506,
       "name": "Feel This Moment (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
-    },
-    {
-      "added_at": "2024-06-08 06:55:16",
-      "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2024-06-08 06:55:16",
@@ -899,6 +899,26 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
+    },
+    {
+      "added_at": "2024-06-08 06:55:16",
+      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL"
-    },
-    {
-      "added_at": "2024-06-08 06:55:16",
-      "album": {
-        "name": "Globalization",
-        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "John Ryan",
-          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Fireball (feat. John Ryan)",
-      "url": "https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW"
     },
     {
       "added_at": "2024-06-08 06:55:16",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
+        "name": "She\u2019s Gone, Dance On",
+        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "She\u2019s Gone, Dance On",
+      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2024-06-08 06:55:16",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 230906,
       "name": "On The Floor - Radio Edit",
       "url": "https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"
-    },
-    {
-      "added_at": "2024-06-08 06:55:16",
-      "album": {
-        "name": "She\u2019s Gone, Dance On",
-        "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "She\u2019s Gone, Dance On",
-      "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
     },
     {
       "added_at": "2024-06-08 06:55:16",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
-    },
-    {
-      "added_at": "2024-06-08 06:55:16",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
+    },
+    {
+      "added_at": "2024-06-08 06:55:16",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
     },
     {
       "added_at": "2024-06-08 06:55:16",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-06-08 06:55:16",
       "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
+    },
+    {
+      "added_at": "2024-06-08 06:55:16",
+      "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
-    },
-    {
-      "added_at": "2024-06-08 06:55:16",
-      "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
     },
     {
       "added_at": "2024-06-08 06:55:16",

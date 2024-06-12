@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,836 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,835 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 36 | [La Hungara \- En Vivo](https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:21 |
 | 37 | [Dariel El Sabroso](https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Dariel El Sabroso](https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T) | 3:22 |
 | 38 | [Popurri Cumbias \- En Vivo](https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo Desde Los Mochis](https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W) | 5:03 |
-| 39 | [Un Idiota](https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Un Idiota](https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG) | 2:53 |
-| 40 | [Díganle](https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Díganle](https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z) | 3:00 |
-| 41 | [Callando Bocas](https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Carlitos Vazquez](https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB) | [Callando Bocas](https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z) | 2:40 |
-| 42 | [Me Muero](https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Muero](https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3) | 3:14 |
+| 39 | [Díganle](https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Díganle](https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z) | 3:00 |
+| 40 | [Un Idiota](https://open.spotify.com/track/1JUwppOYBF8S2zKGq6JDye) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Un Idiota](https://open.spotify.com/album/5DoFTiNjJxXKRIzUaiRQkG) | 2:53 |
+| 41 | [Me Muero](https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Muero](https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3) | 3:14 |
+| 42 | [Callando Bocas](https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Carlitos Vazquez](https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB) | [Callando Bocas](https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z) | 2:40 |
 | 43 | [Mi Ranchito \- En Vivo](https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mi Ranchito](https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z) | 2:54 |
 | 44 | [La Bruta \(En Vivo\)](https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [La Bruta \(En Vivo\)](https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z) | 4:16 |
 | 45 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 50 | [Tu Naturaleza](https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Naturaleza](https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x) | 3:04 |
 | 51 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 |
 
-Snapshot ID: `ZmTwgAAAAAArwUo/N25bXMse89xv+F2a`
+Snapshot ID: `ZmZCAAAAAADzj62HEcfVfNVrX/RgahyR`

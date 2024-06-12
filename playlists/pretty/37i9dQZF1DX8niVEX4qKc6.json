@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camila Buch y Los Otro D\u00edas.",
-  "num_followers": 184400,
+  "num_followers": 184412,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Un Bossa +",
-        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
+        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
+        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 86000,
-      "name": "Un Bossa +",
-      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+      "duration_ms": 177066,
+      "name": "C\u00f3mo Eran las Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
+        "name": "Un Bossa +",
+        "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 177066,
-      "name": "C\u00f3mo Eran las Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
+      "duration_ms": 86000,
+      "name": "Un Bossa +",
+      "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -647,6 +631,42 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -679,26 +699,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Ojitos de Md",
         "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 137052,
       "name": "Ojitos de Md",
       "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -731,22 +747,6 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "De Musica Ligera",
+        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1mdalo",
+          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
+        }
+      ],
+      "duration_ms": 174096,
+      "name": "De Musica Ligera",
+      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "De Musica Ligera",
-        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1mdalo",
-          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
-        }
-      ],
-      "duration_ms": 174096,
-      "name": "De Musica Ligera",
-      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Constelaciones en el Luna Park (En Vivo)",
         "url": "https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Hablando a tu coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+        "name": "Oma",
+        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Hablando a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
+      "duration_ms": 198405,
+      "name": "Oma",
+      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 233826,
       "name": "Una Canci\u00f3n Diferente",
       "url": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Oma",
-        "url": "https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198405,
-      "name": "Oma",
-      "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Abriendo Latidos",
         "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 194555,
       "name": "Abriendo Latidos",
       "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2024-06-07 03:00:00",

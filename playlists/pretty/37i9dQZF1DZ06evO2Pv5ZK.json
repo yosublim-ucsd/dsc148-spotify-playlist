@@ -1,12 +1,12 @@
 {
-  "description": "This is Vangelis. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 105037,
+  "description": "This is Vangelis. The essential tracks, all in one playlist.",
+  "num_followers": 105047,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAAZPBWko19/RzOwmX38wuSH",
+  "snapshot_id": "ZmZCAAAAAAD6I/OkqIWjYQWef3ENazkf",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta",
-        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 151408,
-      "name": "Celestial Whispers",
-      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the magic of Cosmos",
         "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 151408,
+      "name": "Celestial Whispers",
+      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
     },
     {
       "added_at": null,

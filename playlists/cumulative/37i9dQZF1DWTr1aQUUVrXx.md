@@ -4,7 +4,7 @@
 
 > Your favourite café with that warm and cozy Jazz vibe.
 
-208 songs - 12 hr 17 min
+211 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 | 2023-04-14 |  |
 | [A Poetic City](https://open.spotify.com/track/0cbPof9LM6kJJRdaFvQxmR) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [A Poetic City](https://open.spotify.com/album/1U1p1pem5XggODiDC4Urhj) | 3:24 | 2023-12-15 |  |
 | [A Real Show](https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [A Real Show](https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z) | 2:54 | 2023-04-14 |  |
+| [A Sight for Sore Eyes](https://open.spotify.com/track/35Fa1nwTxHXMJPYcK2mSGI) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [A Sight for Sore Eyes](https://open.spotify.com/album/5BpnW3JV6KgmIoUd5CDiAD) | 4:21 | 2024-06-11 |  |
 | [A Simple Book](https://open.spotify.com/track/2djXr7LTah8IBtXTviKLA7) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:35 | 2023-03-03 |  |
 | [A Thousand Candles](https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [A Thousand Candles](https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa) | 3:35 | 2023-03-03 |  |
 | [A Window to Your Soul](https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 3:40 | 2023-04-14 |  |
@@ -43,6 +44,7 @@
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2023-03-03 |  |
 | [Clear Out](https://open.spotify.com/track/0YEVAn2vGbx9jI7xY6Fguf) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Clear Out](https://open.spotify.com/album/2UAUzLv0n1w1QQ8U6iR2JU) | 3:25 | 2023-09-22 |  |
 | [Closing Time](https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Closing Time](https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh) | 3:36 | 2023-10-20 |  |
+| [Clouds Across the Sky](https://open.spotify.com/track/0OUhJHr2nci0RHw8GPYL0q) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Clouds Across the Sky](https://open.spotify.com/album/4zEyjWpg4T9qTvF4JifMZ9) | 2:35 | 2024-06-11 |  |
 | [Clouds Got In Our Way](https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Clouds Got In Our Way](https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq) | 3:19 | 2024-02-09 |  |
 | [Cloudy Water](https://open.spotify.com/track/6peWV8hO9r1FUP0VvBZb6u) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Cloudy Water](https://open.spotify.com/album/3YmMnjmRZ7NOQMlbt7fuVs) | 5:00 | 2023-12-15 |  |
 | [Clowns And Crowns](https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Clowns And Crowns](https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p) | 4:01 | 2023-03-16 |  |
@@ -91,7 +93,7 @@
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2023-03-03 |  |
 | [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 |  |
 | [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2023-03-03 |  |
-| [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2023-03-03 |  |
+| [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2023-03-03 | 2024-06-12 |
 | [I’m just on the road](https://open.spotify.com/track/5R6016N0exIZeQj0xAzI5k) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [I’m just on the road](https://open.spotify.com/album/45FXaj9wvYxVsEKRqEz3Ub) | 2:37 | 2023-04-14 |  |
 | [Jazz Odyssey](https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Jazz Odyssey](https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa) | 2:50 | 2023-08-31 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-04-20 |  |
@@ -112,7 +114,7 @@
 | [Lovestrung](https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Lovestrung](https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS) | 3:19 | 2024-03-08 |  |
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2023-03-03 |  |
 | [Make bad worse](https://open.spotify.com/track/0YSEDfbMKIihgvPsqmERWu) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make bad worse](https://open.spotify.com/album/7ty0Qser224kx5eqTevfPq) | 2:40 | 2023-10-06 |  |
-| [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2023-03-03 |  |
+| [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2023-03-03 | 2024-06-12 |
 | [May This Dance Last Forever](https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [May This Dance Last Forever](https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq) | 2:49 | 2024-05-24 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2023-03-03 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-03-03 |  |
@@ -208,6 +210,7 @@
 | [Wichita Lineman](https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Wichita Lineman](https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0) | 5:07 | 2023-03-03 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2023-03-03 |  |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |
+| [You and I](https://open.spotify.com/track/427IuTXYI61rljqrDaDYbg) | [Santiago Brown](https://open.spotify.com/artist/48ApFINfc4zrFBfjNeFnQ1) | [You and I](https://open.spotify.com/album/1o9LPT2T8blXqR2bdE2UyI) | 3:39 | 2024-06-11 |  |
 | [You Gave Me That Look](https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You Gave Me That Look](https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa) | 5:04 | 2023-10-20 |  |
 | [You Go To My Head](https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [You Go To My Head](https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a) | 4:59 | 2024-01-12 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2023-03-03 |  |

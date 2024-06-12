@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: Skrillex, Fred again.\. & Four Tet
 
-[](https://open.spotify.com/user/null) - 13,430 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,427 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

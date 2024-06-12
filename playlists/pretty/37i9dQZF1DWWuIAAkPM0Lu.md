@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> & <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI</a> har den idag med <a href="spotify:track:5ehIhNQBMskl6sPE9Jf4TH">Eneste</a> den her fredag 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,131 likes - 106 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,143 likes - 106 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 66 | [Paradise](https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Paradise](https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl) | 2:37 |
 | 67 | [Carry Your Name](https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [The Learning of Urgency](https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED) | 3:17 |
 | 68 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 |
-| 69 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 69 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 70 | [PATH!](https://open.spotify.com/track/5sPVsTFrZI5JxOC8oLftfe) | [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5), [74blade](https://open.spotify.com/artist/07CoGyrUbcBkSzvs1Kd9i6), [kg.mano](https://open.spotify.com/artist/2tyvDqlh4H19ImWprYjYnY) | [PATH!](https://open.spotify.com/album/15ZAldak5bHSEmjIauNYXe) | 1:26 |
 | 71 | [2 The Moon](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [2 The Moon](https://open.spotify.com/album/4jl6uAmBT25q5BtSxz2rRZ) | 3:05 |
 | 72 | [BMXXing](https://open.spotify.com/track/5xR8ngEQmlQ1U2xSE0KzTo) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [BMXXing](https://open.spotify.com/album/5cH3Lzm6kYM7sxkpDprzkd) | 2:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,131 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,143 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 33 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 |
 | 34 | [you broke me first \- Spotify Singles](https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 2:56 |
 | 35 | [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 |
-| 36 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 |
-| 37 | [I Don't Wanna Know \- Live from Spotify Studios NYC](https://open.spotify.com/track/4dMvtp8p5mzCCaA18dgzQy) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:35 |
+| 36 | [I Don't Wanna Know \- Live from Spotify Studios NYC](https://open.spotify.com/track/4dMvtp8p5mzCCaA18dgzQy) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:35 |
+| 37 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 |
 | 38 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
 | 39 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 |
 | 40 | [2002 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:12 |
-| 41 | [Girl from the North Country \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl), [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Spotify Singles](https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8) | 3:53 |
-| 42 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 |
+| 41 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 |
+| 42 | [Girl from the North Country \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/7xQHkdNrmdGb5kh56MSoRr) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl), [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Spotify Singles](https://open.spotify.com/album/2l64EH6TtWunXz3z2fM9u8) | 3:53 |
 | 43 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
 | 44 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 |
 | 45 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-429 songs - 1 day 1 hr 17 min
+430 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 | 2021-02-25 | 2022-03-18 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-07 |  |
 | [SNEAKING OUT OF HEAVEN](https://open.spotify.com/track/73nzSeXp43EsCJnehTvCbs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/3zrk39UHnfEr8PYZarjWMp) | 2:39 | 2023-10-12 |  |
+| [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-06-12 |  |
 | [So Cool](https://open.spotify.com/track/3LOWhH3yqYRd37EbYKIXL1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Read The Room](https://open.spotify.com/album/5NqfV2apntQO69Pri6b5xU) | 3:05 | 2023-05-19 |  |
 | [So Far, So Close](https://open.spotify.com/track/3GfoE5xAQx8QnUHEtxbMy7) | [Weta](https://open.spotify.com/artist/2AsaDvs6UY4MJ4X3UQeUbu) | [So Far, So Close](https://open.spotify.com/album/3kjBRkDsQxLSIDjmEG9pXD) | 4:32 | 2020-11-27 | 2022-03-18 |
 | [So Happy It Hurts](https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K) | 3:35 | 2021-10-15 |  |

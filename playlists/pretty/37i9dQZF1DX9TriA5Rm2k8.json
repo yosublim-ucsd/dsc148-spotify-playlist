@@ -1,6 +1,6 @@
 {
   "description": "Just good energy",
-  "num_followers": 501348,
+  "num_followers": 501360,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
         }
       ],
-      "duration_ms": 164545,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
       "artists": [
         {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 152304,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1043,42 +1043,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 239417,
-      "name": "You Were Right",
-      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Speed Drive (From Barbie The Album)",
         "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
       },
@@ -1119,6 +1083,42 @@
       "duration_ms": 211760,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/20ZP3Om9DvDazXrNUC7WM2"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "You Were Right",
+      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 172879,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "The von dutch remix with addison rae and a.g. cook",
         "url": "https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 157328,
       "name": "The von dutch remix with addison rae and a.g. cook",
       "url": "https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 172879,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61"
     }
   ],
   "unique_name": "Vibe Check",

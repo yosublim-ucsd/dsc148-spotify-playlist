@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 8 hr 31 min
+157 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Secrets](https://open.spotify.com/track/6MdNiXqTGsDvgGCRUjXxWy) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Good Company](https://open.spotify.com/album/0wLgtwKkMwsrm0WeN68WgZ) | 3:09 | 2023-12-30 |  |
 | [Sex Lies](https://open.spotify.com/track/0c1CovChUEOKWT0pkj37PR) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sex Lies \(Official Video\)](https://open.spotify.com/album/3du8mU3ivya86S6bA7XTxu) | 4:15 | 2024-01-09 | 2024-01-31 |
 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 | 2023-12-30 |  |
+| [Shadows \(with Kehlani\)](https://open.spotify.com/track/2iPnYQRutwTQopudwgkIfm) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:53 | 2024-06-11 |  |
 | [She Bumped Her Head \(feat\. Gunna\)](https://open.spotify.com/track/21dG6mNMHwkogPh7V5e83A) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 4:00 | 2023-12-30 |  |
 | [Shot & Wine](https://open.spotify.com/track/1M1k3Sxtf7u8Zj3eIzrJm0) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Shot & Wine](https://open.spotify.com/album/1bkP3XCKZg4v9fywRkiS1a) | 3:28 | 2023-12-31 |  |
 | [Shot & Wine](https://open.spotify.com/track/2qjy1hBtv5H2f6Adj3ZBP5) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Shot & Wine](https://open.spotify.com/album/3oFxh6lZOeywTaGSwEINEa) | 3:29 | 2023-12-30 | 2024-02-02 |

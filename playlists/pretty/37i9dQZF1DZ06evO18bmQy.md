@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 ### [This Is Djonga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18bmQy)
 
-> This is Djonga\. Todos os maiores hits em uma só playlist.
+> This Is Djonga\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,974 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,982 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 36 | [Todo Errado](https://open.spotify.com/track/540aOl7XanLFQPAxc9uDBd) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:17 |
 | 37 | [conversa com uma menina branca](https://open.spotify.com/track/47bTjCYOsrSZyP6tPbFRB6) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 1:40 |
 | 38 | [Obstinado](https://open.spotify.com/track/6qR1DhILkxhbxivh8HUDaP) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Obstinado](https://open.spotify.com/album/10Zjpt0jIDzij9ojE7vAui) | 4:11 |
-| 39 | [Só Quero Saber](https://open.spotify.com/track/759JQKhbfrQjs9wNcmyAfl) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Costela 4M](https://open.spotify.com/artist/3LueG3tmXa6Y5qWU6DtOPb) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 3:16 |
-| 40 | [FALCÃO](https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:42 |
+| 39 | [FALCÃO](https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 3:42 |
+| 40 | [Só Quero Saber](https://open.spotify.com/track/759JQKhbfrQjs9wNcmyAfl) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Costela 4M](https://open.spotify.com/artist/3LueG3tmXa6Y5qWU6DtOPb) | [O Cara Do Momento, Vol\. 2](https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf) | 3:16 |
 | 41 | [até sua alma](https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 5:00 |
 | 42 | [O Cara de Óculos](https://open.spotify.com/track/1chg0t03u3PDcYwABCYWKG) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Bia Nogueira](https://open.spotify.com/artist/337gunwEwXj6BjKbSo3Uo6), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 4:10 |
 | 43 | [Não Me Liga Mais](https://open.spotify.com/track/3BkXLQFYtkafM1zSNOji1V) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 50 | [ATÍPICO](https://open.spotify.com/track/0PnZJZwuVFs6rPlYuFkTpi) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:19 |
 | 51 | [Pódio](https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Pódio](https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T) | 4:52 |
 
-Snapshot ID: `ZmTwgAAAAABPVmqJqIl+N9hYbIh15A1q`
+Snapshot ID: `ZmZCAAAAAACYg2p571l9XWL03GhzbvsJ`

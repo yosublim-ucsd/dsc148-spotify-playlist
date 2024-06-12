@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,647 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,714 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 76 | [Grow Up](https://open.spotify.com/track/4DLDzrBkS6hP34imwHRKb3) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Grow Up](https://open.spotify.com/album/7hPk5gwOPd8LuR10r8FSPm) | 2:36 |
 | 77 | [Scenes from a rooftop](https://open.spotify.com/track/12FmPeSd352BilBmoraPTv) | [Black Tie Affair](https://open.spotify.com/artist/0Da7sIqlMiqvQWLfb6zc1u), [Dennis van Aarssen](https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi) | [Scenes from a rooftop](https://open.spotify.com/album/2YA3vbQ8kFrc1PmvIzs4tG) | 2:55 |
 | 78 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 |
-| 79 | [SWEET SMILE](https://open.spotify.com/track/5BY8gNoD2CCzG2dqENJVtq) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [EELS TIME!](https://open.spotify.com/album/2lOHd8IPP9Zw79yL3y9P1f) | 3:28 |
+| 79 | [Sweet Smile](https://open.spotify.com/track/5BY8gNoD2CCzG2dqENJVtq) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [EELS TIME!](https://open.spotify.com/album/2lOHd8IPP9Zw79yL3y9P1f) | 3:28 |
 | 80 | [One Last Gift \- Edit](https://open.spotify.com/track/5yo3rL4CeUX5vYWoXF0txw) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [One Last Gift](https://open.spotify.com/album/2sUVYLvpfUO6ViV1IAwi2S) | 3:34 |
 | 81 | [Under The Strikes](https://open.spotify.com/track/767IdfyG4k7BIczG9HQ3dQ) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Under The Strikes](https://open.spotify.com/album/3X2bhCGH9RNj9gErZuY0Qn) | 4:30 |
 | 82 | [Petco](https://open.spotify.com/track/6CovIpwJhaHiu5vDFWGQAE) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Petco](https://open.spotify.com/album/0phvBVPWWFu1sgYSm7rGuN) | 3:03 |

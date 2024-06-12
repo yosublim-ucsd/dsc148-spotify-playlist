@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,306 likes - 44 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,304 likes - 44 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Neverland](https://open.spotify.com/track/0dHgNgOUSrBVczZVhWwc0R) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Agency \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/2reUJ6F89zFPzF9ZVCVUq3) | 4:00 |
 | 2 | [Scream](https://open.spotify.com/track/1zQ9VgCQ3iiPETAWIzSqVW) | [Bjørn Olav Edvardsen](https://open.spotify.com/artist/0RtyQYQcDo0lPs8dLBAcDP) | [Agency \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/0DHtIOYFWjZ7voayZrQhKM) | 3:25 |
-| 3 | [Never Let Go](https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 |
+| 3 | [Never Let Go](https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM) | [KIM PUREUM](https://open.spotify.com/artist/09MsK3KFQJTL8syG6t7c5x) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 |
 | 4 | [You](https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Agency \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu) | 3:51 |
 | 5 | [Alarm](https://open.spotify.com/track/75dMjDJSRQH0AP4rJuOqfC) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Agency \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV) | 3:26 |
 | 6 | [Talk To Me](https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 37 | [Writing](https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 3:40 |
 | 38 | [Neverland \- Instrumental](https://open.spotify.com/track/59x7IwuUmaoboOgKZuMKob) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Agency \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/2reUJ6F89zFPzF9ZVCVUq3) | 4:00 |
 | 39 | [Scream \- Instrumental](https://open.spotify.com/track/1S2WSetELXUlKg03GfiEvf) | [Bjørn Olav Edvardsen](https://open.spotify.com/artist/0RtyQYQcDo0lPs8dLBAcDP) | [Agency \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/0DHtIOYFWjZ7voayZrQhKM) | 3:25 |
-| 40 | [Never Let Go \- Instrumental](https://open.spotify.com/track/3fPZ0jPf6Ts9XQ8w2VNhlN) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 |
+| 40 | [Never Let Go \- Instrumental](https://open.spotify.com/track/3fPZ0jPf6Ts9XQ8w2VNhlN) | [KIM PUREUM](https://open.spotify.com/artist/09MsK3KFQJTL8syG6t7c5x) | [Agency \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E) | 3:16 |
 | 41 | [You \- Instrumental](https://open.spotify.com/track/4eCXxRfrFUrBEVCWlTA1MH) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Agency \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu) | 3:51 |
 | 42 | [Alarm \- Instrumental](https://open.spotify.com/track/3iesiARYwUmdBJuRfI5RQu) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Agency \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV) | 3:26 |
 | 43 | [Don't Say \- Instrumental](https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 
 ### [This Is Banda MS de Sergio Lizárraga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1v3IU8)
 
-> This Is Banda MS de Sergio Lizárraga\. Los temas esenciales, todos en una lista.
+> This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,907 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,969 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1v3IU8.md) - [plain]
 | 49 | [141](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 |
 | 50 | [Me Cansé](https://open.spotify.com/track/3m9Kp9oZxrCQYDeaqBfWsz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:43 |
 
-Snapshot ID: `ZmTwgAAAAABj+YgXLseOIfaf4hRgLDRf`
+Snapshot ID: `ZmZCAAAAAADdPuYW28xD7BhonNsGUqBp`

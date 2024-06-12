@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Cassyette",
-  "num_followers": 679505,
+  "num_followers": 679737,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi"
     },
     {
+      "added_at": "2024-06-01 18:01:01",
+      "album": {
+        "name": "Metal Resistance",
+        "url": "https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 263773,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3"
+    },
+    {
       "added_at": "2024-02-16 12:14:47",
       "album": {
         "name": "The Phantom Agony (Expanded Edition)",
@@ -411,22 +427,6 @@
       "duration_ms": 243783,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
-    },
-    {
-      "added_at": "2024-06-01 18:01:01",
-      "album": {
-        "name": "Metal Resistance",
-        "url": "https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 263773,
-      "name": "Karate",
-      "url": "https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-01 18:01:01",
       "album": {
-        "name": "Post Orgasmic Chill",
-        "url": "https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Charlie Big Potato",
-      "url": "https://open.spotify.com/track/7Bf0RPsldDH7jVi9H3wODv"
-    },
-    {
-      "added_at": "2024-06-01 18:01:01",
-      "album": {
         "name": "Sevas Tra",
         "url": "https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 243893,
       "name": "Blood Pigs",
       "url": "https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57"
+    },
+    {
+      "added_at": "2024-06-01 18:01:01",
+      "album": {
+        "name": "Post Orgasmic Chill",
+        "url": "https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "Charlie Big Potato",
+      "url": "https://open.spotify.com/track/7Bf0RPsldDH7jVi9H3wODv"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Cure 4 Psycho",
-        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Cure 4 Psycho",
-      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
         "name": "Reeling",
         "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 170373,
       "name": "Life's a Bitch (But I Like it So Much)",
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Cure 4 Psycho",
+        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Cure 4 Psycho",
+      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1093,38 +1093,6 @@
       "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
-      "added_at": "2024-03-26 16:53:38",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
-      },
-      "artists": [
-        {
-          "name": "BUNNY",
-          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
-    },
-    {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
-    },
-    {
       "added_at": "2024-02-16 12:14:47",
       "album": {
         "name": "Bang Ya Head",
@@ -1143,6 +1111,22 @@
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1175,6 +1159,22 @@
       "duration_ms": 214069,
       "name": "Maverick",
       "url": "https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK"
+    },
+    {
+      "added_at": "2024-03-26 16:53:38",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr"
+      },
+      "artists": [
+        {
+          "name": "BUNNY",
+          "url": "https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
     },
     {
-      "added_at": "2024-02-16 12:14:47",
-      "album": {
-        "name": "Ghost Myself",
-        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
-      },
-      "artists": [
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ghost Myself",
-      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
-    },
-    {
       "added_at": "2024-06-01 18:01:01",
       "album": {
         "name": "Soma",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
+        "name": "Ghost Myself",
+        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
       },
       "artists": [
         {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
+      "duration_ms": 192000,
+      "name": "Ghost Myself",
+      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
     },
     {
       "added_at": "2024-02-16 12:14:47",
@@ -1311,18 +1295,34 @@
     {
       "added_at": "2024-02-16 12:14:47",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
+    },
+    {
+      "added_at": "2024-02-16 12:14:47",
+      "album": {
+        "name": "Rip It Out",
+        "url": "https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Rip It Out",
+      "url": "https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R"
     }
   ],
   "unique_name": "Heavy Queens",

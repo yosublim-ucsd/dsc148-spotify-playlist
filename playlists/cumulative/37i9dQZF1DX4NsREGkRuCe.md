@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-670 songs - 1 day 9 hr 35 min
+672 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 | 2024-05-03 |  |
 | [Everyday](https://open.spotify.com/track/53ntPKI0vPoR2i8mLc5Twp) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 2:29 | 2023-02-16 | 2023-03-11 |
 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 | 2024-02-09 |  |
-| [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 | 2024-04-05 |  |
+| [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 | 2024-04-05 | 2024-06-12 |
 | [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 | 2023-07-20 | 2023-11-23 |
 | [Ex Convict](https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/0j4TScmifAmAFxOYpzCVCH) | 3:22 | 2024-04-05 | 2024-04-19 |
 | [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-27 | 2024-03-22 |
@@ -370,7 +370,9 @@
 | [Love Garden](https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love Garden](https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3) | 2:30 | 2024-05-10 |  |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 |  |
 | [Loving You](https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Loving You](https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z) | 2:05 | 2022-06-08 | 2023-03-12 |
+| [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 | 2024-06-07 |  |
 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 | 2023-10-13 | 2024-04-12 |
+| [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 | 2024-06-07 |  |
 | [Maame Water](https://open.spotify.com/track/3jbTDcDDTAg8knx5dZgYFP) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Maame Water](https://open.spotify.com/album/4On2TPasGNGWc7yfkCi8zI) | 2:40 | 2022-10-13 | 2022-10-18 |
 | [Machala](https://open.spotify.com/track/2GiyNwLCSfXjsb1nwAg1Sq) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/2wzBXrWlqM29fbmKCT7J0I) | 2:34 | 2022-08-08 | 2022-09-10 |
 | [MAGICIAN](https://open.spotify.com/track/1TNMWejP82ZdXQ7qVszEAo) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [RAVI](https://open.spotify.com/album/2owJ8p6Y6XVkxyJKgPXGuQ) | 2:28 | 2023-12-01 | 2023-12-21 |
@@ -595,7 +597,7 @@
 | [Sundress](https://open.spotify.com/track/4gnAPznsSqXMqGfAFylZqK) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.1](https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE) | 2:35 | 2023-02-24 | 2023-03-11 |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-06-08 | 2023-01-21 |
 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 | 2024-01-15 |  |
-| [Sunshine](https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:05 | 2023-06-16 |  |
+| [Sunshine](https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:05 | 2023-06-16 | 2024-06-12 |
 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 | 2023-09-09 | 2023-11-09 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-01-12 | 2024-01-26 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-20 | 2023-09-29 |

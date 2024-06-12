@@ -2,7 +2,7 @@
 
 ### [This Is Nívea Soares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xMHov)
 
-> This is Nívea Soares\. The essential tracks, all in one playlist.
+> This is Nívea Soares。アーティストの代表曲をひとつのプレイリストに。
 
 66 songs - 7 hr 31 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,859 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,918 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 80 | [SHUT DOWN!](https://open.spotify.com/track/75qMqp9TI4OZ8VYirNS7Wm) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [SHUT DOWN!](https://open.spotify.com/album/0WdaKTTrfnWG6VBsGyu7mN) | 1:55 |
 | 81 | [PELICAN](https://open.spotify.com/track/0Dn6DRsKEFYaZm1MDyPE70) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [PELICAN](https://open.spotify.com/album/7xyRZHT9tq4HsUMHdsKN56) | 2:17 |
 | 82 | [10TOES](https://open.spotify.com/track/6ZHrDsAJ2EW57xMVlNDhK7) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [10TOES](https://open.spotify.com/album/5wqtyPHtL5xvBnzfwTscPJ) | 2:13 |
-| 83 | [+44 SMOKE](https://open.spotify.com/track/3OP0mGH2yViz32As5VZgWW) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS), [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49) | [+44 SMOKE](https://open.spotify.com/album/6Helf1VezDpPcy7n4vtgm4) | 2:37 |
+| 83 | [+44 SMOKE](https://open.spotify.com/track/3OP0mGH2yViz32As5VZgWW) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS), [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49) | [+44 SMOKE](https://open.spotify.com/album/6Helf1VezDpPcy7n4vtgm4) | 2:27 |
 | 84 | [OnlyFans](https://open.spotify.com/track/0kKHU3FB5KMH0RicKI2iRt) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [OnlyFans](https://open.spotify.com/album/3Vpv4yYx4izqGzND0fOK1c) | 3:41 |
 | 85 | [BANDS!](https://open.spotify.com/track/00DcGQYevuWmUzqXetdczu) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BANDS!](https://open.spotify.com/album/2AGvFNr5drvor5NZhh0oTe) | 2:22 |
 | 86 | [Atxmic\-Bxmb.](https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Atxmic\-Bxmb.](https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc) | 2:37 |

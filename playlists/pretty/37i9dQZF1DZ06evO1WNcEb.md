@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,799 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,800 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 20 | [Deus Proverá](https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Proverá](https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm) | 5:35 |
 | 21 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
 | 22 | [É Assim que Eu Quero Te Adorar](https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:33 |
-| 23 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |
-| 24 | [Sopra Espírito \- Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo](https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Sopra Espírito \- Na Igreja \(In Memoriam Ludmila Ferber, Ao Vivo\)](https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i) | 5:26 |
+| 23 | [Sopra Espírito \- Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo](https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Sopra Espírito \- Na Igreja \(In Memoriam Ludmila Ferber, Ao Vivo\)](https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i) | 5:26 |
+| 24 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |
 | 25 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
 | 26 | [Deus no Controle](https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:51 |
 | 27 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 42 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 |
 | 43 | [Simplesmente Te Adorar](https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 6:23 |
 | 44 | [Com o Teu Fogo](https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:13 |
-| 45 | [Vem Encher\-me](https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:53 |
-| 46 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
+| 45 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
+| 46 | [Vem Encher\-me](https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:53 |
 | 47 | [Lázaro](https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Lázaro](https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs) | 5:22 |
 | 48 | [Mais Que Uma Voz](https://open.spotify.com/track/25Hh17rnSPTIjoa4y9nBRN) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 4:02 |
 | 49 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 |
 | 50 | [Oleiro](https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Oleiro](https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT) | 4:11 |
 
-Snapshot ID: `ZmTwgAAAAAAJEHl33kO3Ta7g50CBIRmV`
+Snapshot ID: `ZmZCAAAAAAAEzdGPNeYdHOT3Rm3UeJYy`

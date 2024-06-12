@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,476 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,489 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 7 | [I Want to Conquer the World](https://open.spotify.com/track/0BlNkCzdgYi9eJXwnYUho9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:17 |
 | 8 | [Sorrow](https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:21 |
 | 9 | [Fuck You](https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 2:13 |
-| 10 | [New Dark Ages](https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [New Maps of Hell \(Deluxe Edition\)](https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA) | 2:47 |
+| 10 | [Social Suicide](https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:35 |
 | 11 | [No Control](https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:46 |
-| 12 | [Social Suicide](https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:35 |
+| 12 | [New Dark Ages](https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [New Maps of Hell \(Deluxe Edition\)](https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA) | 2:47 |
 | 13 | [Infected](https://open.spotify.com/track/16E7LWSzLLMPWYGNCwu7Sc) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 4:07 |
 | 14 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 |
-| 15 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
-| 16 | [Sinister Rouge](https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:53 |
+| 15 | [Sinister Rouge](https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:53 |
+| 16 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
 | 17 | [Big Bang](https://open.spotify.com/track/318CznWjAUDlkYDHP2VYTQ) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 1:42 |
 | 18 | [You Are \(The Government\)](https://open.spotify.com/track/4uKMHiWSI5omiZrSAUjrH8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:21 |
 | 19 | [We're Only Gonna Die](https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [The Approach](https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:25 |
 | 50 | [Wrong Way Kids](https://open.spotify.com/track/1L78NTjysRuvjRwLZIGdua) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Dissent Of Man \(Bonus Track Version\)](https://open.spotify.com/album/1wMkiD60ZCqlZQZ3m7kXSc) | 2:46 |
 
-Snapshot ID: `ZmTwgAAAAACB10a+yom/8QbC5icmTPCq`
+Snapshot ID: `ZmZCAAAAAACBHXLTzhXXItNTZe+JkpT3`

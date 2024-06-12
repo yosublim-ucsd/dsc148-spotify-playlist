@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,837 likes - 97 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,858 likes - 97 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 1 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 2 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 |
 | 3 | [Rule The World \(Everybody\) \[DEPARTAMENTO Remix\]](https://open.spotify.com/track/3UyIs0r6uaIbmYvpN75CbJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [DEPARTAMENTO](https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Rule The World \(Everybody\) \[DEPARTAMENTO Remix\]](https://open.spotify.com/album/1BH7G0q2IBC7QcMYkZpSFV) | 3:39 |
 | 4 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 |

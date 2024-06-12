@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Jasha Rudge
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,614 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,611 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cabrio](https://open.spotify.com/track/248Ymld7H87hYWNFQjgj1m) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Cabrio](https://open.spotify.com/album/79KnDx5OhASjv5kskHRbRv) | 2:09 |
-| 2 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 |
-| 3 | [Metronoom](https://open.spotify.com/track/3W5Oaik0KYTd4xc2VLxSO7) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Metronoom](https://open.spotify.com/album/2e0CEHEOyn9wcYw8xkSOQ3) | 2:06 |
-| 4 | [Rondje Van De Zaak](https://open.spotify.com/track/2PzhvCnYQGu4a70yeDSepT) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Rondje Van De Zaak](https://open.spotify.com/album/4dOEZOMOfq4IRYynXgqjgp) | 2:39 |
-| 5 | [HJB \(Stil\)](https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [HJB \(Stil\)](https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U) | 2:34 |
-| 6 | [Duizenden Liedjes](https://open.spotify.com/track/5LswOlrraI1zmCIposmytK) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Duizenden Liedjes](https://open.spotify.com/album/1bSK2iRbbItUOeUAXpxx92) | 3:06 |
-| 7 | [Liefde Doet Pijn](https://open.spotify.com/track/0dz6WOXIwroUc8fJs2DX3h) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [El Colombolandés](https://open.spotify.com/album/5kpYP9HhhizwdRuWI3cVR9) | 3:34 |
-| 8 | [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 |
-| 9 | [Parler Français](https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh) | 2:34 |
-| 10 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 |
+| 2 | [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 |
+| 3 | [Ik Wil Dat Je Liegt](https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Wil Dat Je Liegt](https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV) | 2:54 |
+| 4 | [Metronoom](https://open.spotify.com/track/3W5Oaik0KYTd4xc2VLxSO7) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Metronoom](https://open.spotify.com/album/2e0CEHEOyn9wcYw8xkSOQ3) | 2:06 |
+| 5 | [Rondje Van De Zaak](https://open.spotify.com/track/2PzhvCnYQGu4a70yeDSepT) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Rondje Van De Zaak](https://open.spotify.com/album/4dOEZOMOfq4IRYynXgqjgp) | 2:39 |
+| 6 | [HJB \(Stil\)](https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [HJB \(Stil\)](https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U) | 2:34 |
+| 7 | [Duizenden Liedjes](https://open.spotify.com/track/5LswOlrraI1zmCIposmytK) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Duizenden Liedjes](https://open.spotify.com/album/1bSK2iRbbItUOeUAXpxx92) | 3:06 |
+| 8 | [Liefde Doet Pijn](https://open.spotify.com/track/0dz6WOXIwroUc8fJs2DX3h) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [El Colombolandés](https://open.spotify.com/album/5kpYP9HhhizwdRuWI3cVR9) | 3:34 |
+| 9 | [Verleden Tijd](https://open.spotify.com/track/7FR89ZwB3ilNeUMsz1P80O) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Verleden Tijd](https://open.spotify.com/album/1jhy8byW2VtIarRBzAyoOC) | 2:56 |
+| 10 | [Parler Français](https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh) | 2:34 |
 | 11 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 |
 | 12 | [Dansen Met Je Dochter](https://open.spotify.com/track/13CT0XZzjTfHwp8BDGcMt3) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Dansen Met Je Dochter](https://open.spotify.com/album/2Bep7dx4HCLATfDOv48gfC) | 2:35 |
 | 13 | [Dansen Om Het Vuur](https://open.spotify.com/track/6m28vQjkw7kfEagXmJRI6Y) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Dansen Om Het Vuur](https://open.spotify.com/album/2DL4ovMwpyC3hxQKGqCFxF) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 74 | [Incognito](https://open.spotify.com/track/2ec9C3JxRSpZDk8vnBM6VX) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [Incognito](https://open.spotify.com/album/3c7BaxiV0tzo4VfYaiZXYP) | 2:10 |
 | 75 | [Tweeling](https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Tweeling](https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX) | 2:30 |
 
-Snapshot ID: `ZmIxYAAAAAC7QF+gV/5uAz3IbBPDkY4b`
+Snapshot ID: `ZmgE4gAAAADIeiORpNjIk8McbkEjo2J0`

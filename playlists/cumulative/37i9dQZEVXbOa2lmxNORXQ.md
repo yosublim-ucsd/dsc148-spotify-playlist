@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-1,028 songs - 2 day 8 hr 48 min
+1,029 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [DIFERENTE](https://open.spotify.com/track/0zjlDOMaan6IH87OFaosuZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:01 | 2024-05-18 | 2024-05-20 |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-12-24 |  |
-| [Dile a Tu Amiga](https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S) | [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Dile a Tu Amiga](https://open.spotify.com/album/6q8dHB9YC18YbIqU2Q0j7X) | 3:34 | 2024-04-19 |  |
+| [Dile a Tu Amiga](https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S) | [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [Dile a Tu Amiga](https://open.spotify.com/album/6q8dHB9YC18YbIqU2Q0j7X) | 3:34 | 2024-04-19 | 2024-06-12 |
 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 | 2022-02-25 | 2022-03-27 |
 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 | 2023-08-12 | 2023-08-27 |
 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-05 | 2022-11-11 |
@@ -981,6 +981,7 @@
 | [VENTE CONMIGO](https://open.spotify.com/track/7nIbwj1xJdJp4Gfxu2BcZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 3:06 | 2023-09-30 | 2023-10-05 |
 | [Vestido](https://open.spotify.com/track/2Jq4Ei6P87YbP67asm2rP6) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:06 | 2021-09-12 | 2021-09-15 |
 | [Vete](https://open.spotify.com/track/3ACihAMxekfqGod6LiuKEH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Vete](https://open.spotify.com/album/4IWgA9K4aBcXCrHiXpW2Wn) | 3:09 | 2023-11-26 | 2023-12-01 |
+| [Vete](https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Vete](https://open.spotify.com/album/0Py5k3RPR4YGEPzH3Rq2I4) | 3:09 | 2024-06-11 |  |
 | [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-01 | 2023-03-29 |
 | [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 | 2021-03-27\* | 2021-04-11 |
 | [Vidax](https://open.spotify.com/track/3VT3Pp9b6rnMBtCisGdspb) | [The Willsi](https://open.spotify.com/artist/4MbvF2hlj5qeYCY7QXPzvB), [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Vidax](https://open.spotify.com/album/7HY9TCqPP7xQhyWoRpErhP) | 2:31 | 2022-11-02 | 2022-11-19 |

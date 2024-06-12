@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,617 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,647 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 3 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 |
 | 4 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 |
 | 5 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
-| 6 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 |
-| 7 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 |
-| 8 | [So7ba](https://open.spotify.com/track/72Hxn5mWGhp1CDh6ZFT6zd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [So7ba](https://open.spotify.com/album/3bFQ38gXLJgtxR6SGraJSX) | 2:53 |
+| 6 | [So7ba](https://open.spotify.com/track/72Hxn5mWGhp1CDh6ZFT6zd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [So7ba](https://open.spotify.com/album/3bFQ38gXLJgtxR6SGraJSX) | 2:53 |
+| 7 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 |
+| 8 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 |
 | 9 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
 | 10 | [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC) | 2:46 |
 | 11 | [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 49 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 |
 | 50 | [DAMIRI](https://open.spotify.com/track/6hHjWLmwwZhXc50vdyPGN9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [DAMIRI](https://open.spotify.com/album/6kyrZ4AE8kkJ4wTPRWg6uA) | 3:58 |
 
-Snapshot ID: `ZmJbkAAAAADaF8SGwruOyYKSUQn4RVNs`
+Snapshot ID: `Zmg0SQAAAACcFntdA3iyN1373aezOPcO`

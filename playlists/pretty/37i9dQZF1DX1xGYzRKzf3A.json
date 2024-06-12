@@ -1,10 +1,10 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 132456,
+  "num_followers": 132542,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZUwN5QAAAAAFjMC3L+sCUg9ykgZ+hQGh",
   "tracks": [
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
-        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
-      },
-      "artists": [
-        {
-          "name": "Paco Silva y su Tropa Colombiana",
-          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "20 a\u00f1os",
-      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Pu\u00f1o De Tierra",
         "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 227706,
       "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
+        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
+      },
+      "artists": [
+        {
+          "name": "Paco Silva y su Tropa Colombiana",
+          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "20 a\u00f1os",
+      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "En vivo desde El Potrero",
+        "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
+      },
+      "artists": [
+        {
+          "name": "Israel Morales",
+          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Eres un encanto - En vivo",
+      "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "Cumbia De Las Velas",
         "url": "https://open.spotify.com/album/4iB78CfVjDQUyOjY5GKmHF"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 293362,
       "name": "Cumbia De Las Velas",
       "url": "https://open.spotify.com/track/1F2HeaOVvxpdfYl4K0NajA"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "En vivo desde El Potrero",
-        "url": "https://open.spotify.com/album/5aUra0wikb6Z7C5lms9DMf"
-      },
-      "artists": [
-        {
-          "name": "Israel Morales",
-          "url": "https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Eres un encanto - En vivo",
-      "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
-        "name": "Chimenea (En Vivo)",
-        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 180491,
-      "name": "Chimenea - En Vivo",
-      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 152448,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
     },
     {
       "added_at": "2023-11-08 22:38:29",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2023-11-08 22:38:29",
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 206069,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp"
+    },
+    {
+      "added_at": "2023-11-08 22:38:29",
+      "album": {
         "name": "La Decisi\u00f3n Vallenata: la Huella de Tu Amor",
         "url": "https://open.spotify.com/album/1u7Xd4ZE0fRCo6pba98oWr"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 299744,
       "name": "Toma de M\u00ed",
       "url": "https://open.spotify.com/track/7x24lss6mYJTc1RFMIkK5c"
-    },
-    {
-      "added_at": "2023-11-08 22:38:29",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/0tKCqqv4jHow4pUvwFiUsj"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 206069,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/5VtTEqT7UXNg1sN0HSdmjp"
     },
     {
       "added_at": "2023-11-08 22:38:29",

@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Orla Gartland",
-  "num_followers": 114433,
+  "num_followers": 114429,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "The Narcissist",
-        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 245225,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "One Bad Day",
         "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 200248,
       "name": "One Bad Day",
       "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Rag",
         "url": "https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
       },
       "artists": [
         {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
         }
       ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
+      "duration_ms": 261798,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 277815,
       "name": "Care",
       "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Pedestal",
-        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 261798,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "A Psychic Wound",
-        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
-        }
-      ],
-      "duration_ms": 241694,
-      "name": "A Psychic Wound",
-      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "A Psychic Wound",
+        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 241694,
+      "name": "A Psychic Wound",
+      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "24 hours",
+        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 220000,
+      "name": "24 hours",
+      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 152993,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "24 hours",
-        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "24 hours",
-      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Follow You Down",
-        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 136435,
-      "name": "Follow You Down",
-      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 233320,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Follow You Down",
+        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 136435,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Bucket",
-        "url": "https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS"
-      },
-      "artists": [
-        {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
-        }
-      ],
-      "duration_ms": 179563,
-      "name": "Bucket",
-      "url": "https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "GO GO GO",
         "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 145893,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Bucket",
+        "url": "https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 179563,
+      "name": "Bucket",
+      "url": "https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 219498,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 264986,
       "name": "Alright",
       "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 219498,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
     },
     {
       "added_at": "2024-05-16 23:00:00",

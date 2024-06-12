@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 
 > This Is Natanael Cano\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,574 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,143 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04adET.md) - [plain]
 | 45 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
 | 46 | [Los 4 Ases \(Corrido Tumbado\)](https://open.spotify.com/track/2MLb1cIk2HkTyfLjh1NEcz) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:58 |
 | 47 | [Cuento](https://open.spotify.com/track/3MP9oRQ2LVNzgzgS1aRU2d) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:49 |
-| 48 | [Se Habla de un Muchacho](https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Se Habla de un Muchacho](https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD) | 2:57 |
-| 49 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
+| 48 | [Arriba](https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Arriba](https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb) | 2:54 |
+| 49 | [Se Habla de un Muchacho](https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Se Habla de un Muchacho](https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD) | 2:57 |
 | 50 | [Don Chon \(En Vivo\)](https://open.spotify.com/track/0OeX94j6rMIBHX7DGlOGzB) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Don Chon \(En Vivo\)](https://open.spotify.com/album/1cBOY27IgwTFe342hIpGpX) | 3:46 |
 | 51 | [Platicame De Ti](https://open.spotify.com/track/3GfDHYumJhOu5xAZH88W9p) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Platicame De Ti](https://open.spotify.com/album/45QIufzJxZICkw5IFjCPRN) | 3:07 |
 
-Snapshot ID: `ZmTwgAAAAACJZ+U4x2glnjyLlk94U3Ru`
+Snapshot ID: `ZmZCAAAAAABz5RXABW5zfLDzY+EzYpFE`

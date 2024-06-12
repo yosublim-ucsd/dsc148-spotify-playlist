@@ -2,7 +2,7 @@
 
 ### [This Is Alfredo Olivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3guUH6)
 
-> This Is Alfredo Olivas\. Los temas esenciales, todos en una lista.
+> This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
 56 songs - 3 hr 14 min
 
@@ -32,7 +32,7 @@
 | [El Tonny](https://open.spotify.com/track/79FNFHz8idALaHXxYGJVGB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 4:10 | 2023-08-08 | 2024-04-29 |
 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 | 2023-08-08 |  |
 | [El Zoológico](https://open.spotify.com/track/0BIpn82Dpo4EdCwHnwoapp) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:40 | 2023-08-08 | 2024-06-01 |
-| [En Definitiva](https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:36 | 2023-08-08 |  |
+| [En Definitiva](https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:36 | 2023-08-08 | 2024-06-12 |
 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 | 2023-08-08 |  |
 | [Hoy Te Pierdo](https://open.spotify.com/track/1uNo4WxrVKwGnSzyexALea) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:54 | 2024-01-19 |  |
 | [Hoy Te Pierdo](https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Hoy Te Pierdo](https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg) | 3:54 | 2023-08-08 | 2024-01-06 |
@@ -46,7 +46,7 @@
 | [Medalla De Plata](https://open.spotify.com/track/6HhmRkKT5i2oGSECqQxrog) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:03 | 2024-01-27 |  |
 | [Ni Con Labios Prestados](https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ni Con Labios Prestados](https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx) | 4:04 | 2023-08-08 |  |
 | [No](https://open.spotify.com/track/2QrU43HoJRNBrbo2XLI9DS) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:07 | 2023-08-08 |  |
-| [No Me Olvides](https://open.spotify.com/track/2LjQsWmfe64mZg79IExTw9) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2024-05-11 | 2024-06-09 |
+| [No Me Olvides](https://open.spotify.com/track/2LjQsWmfe64mZg79IExTw9) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2024-05-11 |  |
 | [Otro Perdedor](https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Otro Perdedor](https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD) | 4:10 | 2023-08-08 |  |
 | [Que Sepas](https://open.spotify.com/track/0lPSo6OtN3vPrpBaZ9YHOm) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:16 | 2023-08-08 |  |
 | [Seguramente](https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:16 | 2023-08-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,111 likes - 90 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,352 likes - 90 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 60 | [In A Blurry World \- Teho Remix](https://open.spotify.com/track/60rFlNI2apIPEOMTz9fRXL) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [In A Blurry World \(Teho Remix\)](https://open.spotify.com/album/55uKvWwpBFVQLY6AtljvPY) | 6:14 |
 | 61 | [Dig My Moves \- Mila Journée Remix](https://open.spotify.com/track/1aqsbfYTNIedRz5nFUBKC2) | [Pole Position](https://open.spotify.com/artist/6VTArO79WpJg6t4vx9QjHF), [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Dig My Moves \(Mila Journée Remix\)](https://open.spotify.com/album/7frn6dZhWaJ4T5SlEs1AtL) | 5:44 |
 | 62 | [Avyun](https://open.spotify.com/track/3S0Rzhch6dOuCIrO1OWUU7) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Avyun](https://open.spotify.com/album/5FMnwMSDGvsHQikvhJ2TnA) | 6:10 |
-| 63 | [Never Enough](https://open.spotify.com/track/6MVEwL9XahptmFvi0zw7Y4) | [Sobek](https://open.spotify.com/artist/7id8eArvVd4finwH5fR2pL), [Yourr](https://open.spotify.com/artist/5pIfBhar6kHmVZlAvMD6Lk) | [Never Enough](https://open.spotify.com/album/6XVf9j7IReZG86kAvHpd0Z) | 6:42 |
+| 63 | [Never Enough](https://open.spotify.com/track/6MVEwL9XahptmFvi0zw7Y4) | [Sobek](https://open.spotify.com/artist/7id8eArvVd4finwH5fR2pL), [Yöurr](https://open.spotify.com/artist/1Zt82Ejt6v5R7zzySu8A1n) | [Never Enough](https://open.spotify.com/album/6XVf9j7IReZG86kAvHpd0Z) | 6:42 |
 | 64 | [My Reality \- Edit](https://open.spotify.com/track/6OTo39KHIXHEIuHzti1dyy) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Danny Losito](https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf) | [My Reality](https://open.spotify.com/album/6mh9WgNlfXjy4SCGmIm2F2) | 4:48 |
 | 65 | [Need You](https://open.spotify.com/track/0cvR8bb4xPmPaSF6PfINJD) | [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99) | [Need You](https://open.spotify.com/album/5NoM69Yxm4oKs8QUjxtgYu) | 2:06 |
 | 66 | [Time to Fly](https://open.spotify.com/track/0xKgHjP3tSGOK3IRsSwOYG) | [Benjamin Fröhlich](https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1) | [The Love Dilemma](https://open.spotify.com/album/1mZsSZORSRmAjkSBFV8DXD) | 4:40 |

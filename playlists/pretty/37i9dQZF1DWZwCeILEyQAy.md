@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: JT
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,053 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,043 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 37 | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [BING BONG \(Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur) | 2:46 |
 | 38 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 | 39 | [Tomioka \(with Flo Milli\) \- Remix](https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE) | [Jay Eazy](https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Tomioka \(with Flo Milli\) \[Remix\]](https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK) | 2:17 |
-| 40 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
-| 41 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 |
+| 40 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 |
+| 41 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
 | 42 | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 |
 | 43 | [Really Like That](https://open.spotify.com/track/55TQ3ZQJGezWlnDLf4PfjP) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Really Like That](https://open.spotify.com/album/5fBNuwpRTltWbyTpo1fGlz) | 2:33 |
 | 44 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 46 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
 | 47 | [Moving Day](https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Moving Day](https://open.spotify.com/album/6704YouVguYBevesjOlyC3) | 2:50 |
 | 48 | [Understand](https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:02 |
-| 49 | [In Dat Mode](https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:02 |
-| 50 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
+| 49 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
+| 50 | [In Dat Mode](https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:02 |
 
 Snapshot ID: `ZmKFwAAAAADA+rQ/SQi7zmN+QSJTaLxt`

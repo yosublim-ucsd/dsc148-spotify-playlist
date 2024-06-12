@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Charli XCX
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,041 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,053 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 13 | [She's A Baddie](https://open.spotify.com/track/0LhTTAqZPyEb9i0p45Sp0U) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [What We Live For](https://open.spotify.com/album/3NAuFVoDYWtDklzfrxsd0I) | 4:35 |
 | 14 | [All My Friends Are Hot](https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All My Friends Are Hot](https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0) | 2:59 |
 | 15 | [Close To You](https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Close To You](https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ) | 2:52 |
-| 16 | [Didn't Sign Up for This](https://open.spotify.com/track/2yA1cRUlJ5QWGniYcvg9hs) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Didn't Sign Up for This](https://open.spotify.com/album/5ZvrWtXqybepy7iT2nK9jp) | 3:24 |
+| 16 | [Didn't Sign Up For This](https://open.spotify.com/track/2yA1cRUlJ5QWGniYcvg9hs) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Didn't Sign Up For This](https://open.spotify.com/album/5ZvrWtXqybepy7iT2nK9jp) | 3:24 |
 | 17 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |
 | 18 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
 | 19 | [turn this car around](https://open.spotify.com/track/04KDlJC2willTjllZ6J1dw) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [turn this car around](https://open.spotify.com/album/06FGOLdBiYqhUwP7hDZbTg) | 3:39 |

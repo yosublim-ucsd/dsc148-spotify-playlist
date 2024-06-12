@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "About Yesterday",
+        "url": "https://open.spotify.com/album/0dTj6uVxvXUAkmXBiBwNR8"
+      },
+      "artists": [
+        {
+          "name": "J for Jazz",
+          "url": "https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165335,
+      "name": "About Yesterday",
+      "url": "https://open.spotify.com/track/2l8Rax99QLG2za0mCSVnQ6"
+    },
+    {
+      "album": {
         "name": "Above All",
         "url": "https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ"
       },
@@ -1695,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "As We Say Goodbye",
+        "url": "https://open.spotify.com/album/7Ii2hvgq8tlPv2BLCaQo80"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "As We Say Goodbye",
+      "url": "https://open.spotify.com/track/4scGI6ZJ4EwpgXY8RSApqw"
+    },
+    {
+      "album": {
         "name": "Balance Point",
         "url": "https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ"
       },
@@ -2262,7 +2298,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 206511,
       "name": "Beloved Moment",
       "url": "https://open.spotify.com/track/70SS4yWIkSGqWeeamWu5wi"
@@ -3588,6 +3624,24 @@
       "duration_ms": 216097,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp"
+    },
+    {
+      "album": {
+        "name": "Clouds Across the Sky",
+        "url": "https://open.spotify.com/album/4zEyjWpg4T9qTvF4JifMZ9"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Clouds Across the Sky",
+      "url": "https://open.spotify.com/track/0OUhJHr2nci0RHw8GPYL0q"
     },
     {
       "album": {
@@ -7312,7 +7366,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 264834,
       "name": "I Can\u2019t Get Started",
       "url": "https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR"
@@ -11258,7 +11312,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 264052,
       "name": "Luna",
       "url": "https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0"
@@ -14269,6 +14323,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4tdUUO1bWa0h0gijIBIIq9"
+      },
+      "artists": [
+        {
+          "name": "Tonic and their Time",
+          "url": "https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2bYlyQeTRZgfalIdw3VkkL"
+    },
+    {
+      "album": {
         "name": "Pink Balloons",
         "url": "https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q"
       },
@@ -14554,7 +14626,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 206854,
       "name": "Pretty Ballad",
       "url": "https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI"
@@ -16624,7 +16696,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 288877,
       "name": "Spring Is in the Air",
       "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
@@ -16718,6 +16790,24 @@
       "duration_ms": 226858,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/1BBwIeicvH1pRRyWZRz2cG"
+    },
+    {
+      "album": {
+        "name": "Stargrass",
+        "url": "https://open.spotify.com/album/3t9Peh81bY07N6hbHG1RXo"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart Trio",
+          "url": "https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192578,
+      "name": "Stargrass",
+      "url": "https://open.spotify.com/track/5xjLWTPSwxlAvG6FxeFAl6"
     },
     {
       "album": {
@@ -17182,7 +17272,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 164682,
       "name": "Sunset Stroll",
       "url": "https://open.spotify.com/track/1KYECtLMpjC6ov4SDRAj2Y"
@@ -20394,7 +20484,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 179824,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K"
@@ -20848,6 +20938,24 @@
       "duration_ms": 200721,
       "name": "Witness of Love",
       "url": "https://open.spotify.com/track/7zqAzOXMRtmlf0GQBtRDqJ"
+    },
+    {
+      "album": {
+        "name": "Wondering",
+        "url": "https://open.spotify.com/album/5TK9Lxijo9A0tUlBVfgtYb"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Wondering",
+      "url": "https://open.spotify.com/track/219BW1JC4d4VumSTIYpUUW"
     },
     {
       "album": {

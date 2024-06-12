@@ -4,7 +4,7 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-230 songs - 11 hr 47 min
+231 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baby \(with J Balvin\)](https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 3:13 | 2023-01-19 | 2023-03-21 |
 | [Baby \(with J Balvin\)](https://open.spotify.com/track/4L5ZhW0VJeQ6je2iqvqZ4X) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Famoso](https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT) | 3:13 | 2022-05-03 | 2022-07-27 |
 | [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf) | 3:07 | 2022-05-03 | 2022-07-29 |
+| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-11 |  |
 | [Bandito](https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [Bandito](https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh) | 2:39 | 2023-01-19 | 2023-03-21 |
 | [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 | 2024-05-15 |  |
 | [Blauer](https://open.spotify.com/track/3Nu1xzgGX1tTyMaw8VdyGa) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Blauer](https://open.spotify.com/album/14i0xkJKrPJS6Mv8VKOOIK) | 2:56 | 2022-05-03 | 2022-07-29 |
@@ -126,7 +127,7 @@
 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 | 2022-06-09 |  |
 | [m%n](https://open.spotify.com/track/5VSmYYZYuSCSlOweGMpM1A) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [m%n](https://open.spotify.com/album/6EkbZ11Pg8jQAViLSZ1o7y) | 2:54 | 2022-05-03 | 2022-07-29 |
 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 | 2022-05-03 |  |
-| [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 | 2022-05-03 |  |
+| [Ma Chérie \(feat\. Capo Plaza\)](https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 2:39 | 2022-05-03 | 2024-06-12 |
 | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz) | 2:38 | 2022-05-03 | 2022-05-18 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2022-05-03 |  |
 | [MALA \(feat\. Lazza, Tony Effe, JVLI\)](https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [PLC tape 1](https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF) | 2:58 | 2023-03-20 | 2023-08-09 |

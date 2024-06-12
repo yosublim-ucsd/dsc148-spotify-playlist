@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 69788,
+  "num_followers": 69794,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2024-04-16 15:51:49",
       "album": {
+        "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
+          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
+        },
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz"
+    },
+    {
+      "added_at": "2024-04-16 15:51:49",
+      "album": {
         "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\u301cMATSURI\u301c",
         "url": "https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 230933,
       "name": "\u7537\u5b50\u30bf\u30eb\u30e2\u30ce!\u301cMATSURI\u301c",
       "url": "https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84"
-    },
-    {
-      "added_at": "2024-04-16 15:51:49",
-      "album": {
-        "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq"
-      },
-      "artists": [
-        {
-          "name": "\u548c\u6cc9\u4e00\u7e54 (CV.\u5897\u7530\u4fca\u6a39)",
-          "url": "https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj"
-        },
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "\u89e3\u6c7a\u30df\u30b9\u30c6\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz"
     },
     {
       "added_at": "2024-04-16 15:51:49",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-04-16 15:51:49",
       "album": {
-        "name": "REGALITY",
-        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "U COMPLETE ME",
-      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
-    },
-    {
-      "added_at": "2024-04-16 15:51:49",
-      "album": {
         "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
         "url": "https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 267013,
       "name": "\u30a2\u30bd\u30b7\u30a8\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio"
+    },
+    {
+      "added_at": "2024-04-16 15:51:49",
+      "album": {
+        "name": "REGALITY",
+        "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "U COMPLETE ME",
+      "url": "https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO"
     },
     {
       "added_at": "2024-04-16 15:51:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-04-16 15:51:49",
       "album": {
-        "name": "Up to the nines",
-        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
-      },
-      "artists": [
-        {
-          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Up to the nines",
-      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
-    },
-    {
-      "added_at": "2024-04-16 15:51:49",
-      "album": {
         "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u2606\u30d5\u30a1\u30a4\u30bf\u30fc",
         "url": "https://open.spotify.com/album/6SEPaqjGbkToWj5l2ePNwR"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 324607,
       "name": "\u30d4\u30bf\u30b4\u30e9\u30b9\u2606\u30d5\u30a1\u30a4\u30bf\u30fc",
       "url": "https://open.spotify.com/track/10kBUC4nLCkzXyHMMtrKsY"
+    },
+    {
+      "added_at": "2024-04-16 15:51:49",
+      "album": {
+        "name": "Up to the nines",
+        "url": "https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI"
+      },
+      "artists": [
+        {
+          "name": "\u4e5d\u6761 \u5929 (CV.\u6589\u85e4\u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "Up to the nines",
+      "url": "https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ"
     },
     {
       "added_at": "2024-04-16 15:51:49",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-04-16 15:51:49",
       "album": {
+        "name": "my 10plate",
+        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
+      },
+      "artists": [
+        {
+          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
+          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "my 10plate",
+      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
+    },
+    {
+      "added_at": "2024-04-16 15:51:49",
+      "album": {
         "name": "Polished",
         "url": "https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 274946,
       "name": "\u5348\u524d4\u6642\u306eDusty Love",
       "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
-    },
-    {
-      "added_at": "2024-04-16 15:51:49",
-      "album": {
-        "name": "my 10plate",
-        "url": "https://open.spotify.com/album/2uRJHQyUej7qF3bh1xvfJ8"
-      },
-      "artists": [
-        {
-          "name": "\u5341 \u9f8d\u4e4b\u4ecb (CV.\u4f50\u85e4\u62d3\u4e5f)",
-          "url": "https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "my 10plate",
-      "url": "https://open.spotify.com/track/2kte2hCFMQSmYNkVXW78bn"
     },
     {
       "added_at": "2024-04-16 15:51:49",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-04-16 15:51:49",
       "album": {
-        "name": "Re:al Axis",
-        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
-      },
-      "artists": [
-        {
-          "name": "Re:vale",
-          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "\u6fc0\u60c5",
-      "url": "https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4"
-    },
-    {
-      "added_at": "2024-04-16 15:51:49",
-      "album": {
         "name": "WiSH VOYAGE / Dancing\u221eBEAT!!",
         "url": "https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 247520,
       "name": "WiSH VOYAGE",
       "url": "https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm"
+    },
+    {
+      "added_at": "2024-04-16 15:51:49",
+      "album": {
+        "name": "Re:al Axis",
+        "url": "https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "\u6fc0\u60c5",
+      "url": "https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4"
     },
     {
       "added_at": "2024-04-16 15:51:49",

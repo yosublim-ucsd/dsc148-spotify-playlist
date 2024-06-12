@@ -2,9 +2,9 @@
 
 ### [This Is Ajuliacosta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04mTU7)
 
-> This is Ajuliacosta\. The essential tracks, all in one playlist.
+> This is Ajuliacosta\. Todos os maiores hits em uma só playlist.
 
-29 songs - 1 hr 30 min
+30 songs - 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Pq a Policia Smp Acaba Com a Festa?](https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:25 | 2023-12-30 |  |
 | [Pânico](https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Unicórnio](https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS) | 3:03 | 2023-12-30 |  |
 | [Queen Chavosa](https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 | 2023-12-30 |  |
+| [Queen Chavosa \- Remix](https://open.spotify.com/track/2898k850lyu9U35V7zzSDY) | [DJ LOBA BOSS](https://open.spotify.com/artist/11SgixCrxwumlVChArMqLV), [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Queen Chavosa \(Remix\)](https://open.spotify.com/album/7ffZmm7UZXYVytqHoYgwFv) | 1:41 | 2024-06-12 |  |
 | [Roteiro Mudado](https://open.spotify.com/track/63mfLY9lu2Wm8WJ0suuwKK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:16 | 2023-12-30 | 2024-05-16 |
 | [Set Ajc](https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Set Ajc](https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh) | 5:43 | 2023-12-30 |  |
 | [Set Ajc 2](https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Set Ajc 2](https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm) | 4:25 | 2024-02-25 |  |

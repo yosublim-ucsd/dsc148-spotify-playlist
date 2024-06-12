@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Gabry Ponte, le Shuuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,177 likes - 79 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,182 likes - 79 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Psychotek](https://open.spotify.com/track/40S4EmuYBEY75SVGhejtrT) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Psychotek](https://open.spotify.com/album/1HMsXLMCLC990fsyTebV6h) | 3:26 |
-| 2 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 2 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 3 | [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 |
 | 4 | [No Promises](https://open.spotify.com/track/4TuH1lerJpmraZkEJcf9zJ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [No Promises](https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP) | 2:36 |
 | 5 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 78 | [By Myself](https://open.spotify.com/track/2oMyzGpk6tH1Gru6Bb6kkK) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK) | [By Myself](https://open.spotify.com/album/1BaqrITUIvpbEX0jCNCSEo) | 2:49 |
 | 79 | [Low](https://open.spotify.com/track/2gjgJbTawehy60Zw81aa9m) | [VEME](https://open.spotify.com/artist/6GexYMsvZbtafA7dN04XwW) | [Low](https://open.spotify.com/album/72WMhW0wdQMiOK40CMiTAZ) | 2:39 |
 
-Snapshot ID: `ZmIxYAAAAAAfsQo1yL2xP7PDEGYxDM/7`
+Snapshot ID: `ZmhdZAAAAAA+NlYgwAxZKvaMwjbwW+GN`

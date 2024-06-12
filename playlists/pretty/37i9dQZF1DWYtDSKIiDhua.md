@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  cehryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,086 likes - 86 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,098 likes - 86 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

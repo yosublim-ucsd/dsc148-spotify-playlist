@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 26 | [PISO FIRME](https://open.spotify.com/track/3bPXt1s3Amixv7hy6IE4lg) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 4:08 |
 | 27 | [Gucci](https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 3:47 |
 | 28 | [En Uno al 7 \(En Vivo\)](https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 3:06 |
-| 29 | [Naci En Pacoima](https://open.spotify.com/track/3GRIO9xmYBoxbrEw8Fq5KC) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Naci En Pacoima](https://open.spotify.com/album/3UTutRO58SE8ISyzb0fNP6) | 3:42 |
+| 29 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 |
 | 30 | [AHORA NOS VEN](https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:01 |
 | 31 | [Critíquenme](https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:37 |
-| 32 | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/track/6p3AgriQhiZSGLeOI1JASQ) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [The Cookie Plug \(En Vivo\)](https://open.spotify.com/album/1b3k7w3Ixl7sq0DQVYJBMQ) | 3:57 |
+| 32 | [Naci En Pacoima](https://open.spotify.com/track/3GRIO9xmYBoxbrEw8Fq5KC) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Naci En Pacoima](https://open.spotify.com/album/3UTutRO58SE8ISyzb0fNP6) | 3:42 |
 | 33 | [Hay Les Voy De Nuevo](https://open.spotify.com/track/72oyJ4ZmOWPuqyXw2d6I6m) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Juniors de California](https://open.spotify.com/artist/3Eqt4YgWB1MBq9E692lhk1) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:14 |
 | 34 | [EL LOS](https://open.spotify.com/track/6NAFF3diA0iYXsFHvtH94Y) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:21 |
 | 35 | [El Famoso Chino Antrax](https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Mafia De Corridos](https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 49 | [En 1 al 7](https://open.spotify.com/track/4WchYo3B9276gSE7YOJ324) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:11 |
 | 50 | [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 |
 
-Snapshot ID: `ZmTwgAAAAAC3akY+9JzuWmsoJS5as9dJ`
+Snapshot ID: `ZmZCAAAAAACA3XnDfa5qRmQE9D3vhgOl`

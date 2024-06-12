@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1223449,
+  "num_followers": 1223587,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Move On: A Sondheim Adventure",
-        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 171949,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Signature",
         "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 185733,
       "name": "A Kiss To Build A Dream On",
       "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Move On: A Sondheim Adventure",
+        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 171949,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
         }
       ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+      "duration_ms": 211360,
+      "name": "Sunday Kind of Love",
+      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
       "artists": [
         {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Sunday Kind of Love",
-      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Date With A Dream",
         "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 290653,
       "name": "Memories of You",
       "url": "https://open.spotify.com/track/27MP3QeTblV0W6ZnDtBk5r"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 229365,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Keep Me From The Cold",
         "url": "https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 343055,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 229365,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Here's To You - Songs For Shirley Horn",
-        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "A Song For You",
-      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Sweet Pumpkin",
         "url": "https://open.spotify.com/album/0POEh5608y0eem6LXKOG76"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 234446,
       "name": "Sweet Pumpkin",
       "url": "https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Here's To You - Songs For Shirley Horn",
+        "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
     },
     {
       "added_at": "2024-03-20 08:21:42",

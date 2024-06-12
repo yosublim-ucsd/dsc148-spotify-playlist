@@ -68,7 +68,7 @@
 | [Wash.](https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:58 | 2022-09-16 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-09-16 | 2023-10-11 |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 5:03 | 2023-10-10 |  |
-| [Woods](https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 | 2022-09-16 | 2024-06-11 |
+| [Woods](https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 4:45 | 2022-09-16 |  |
 | [Yi](https://open.spotify.com/track/5vEWPY949yZvv8GtixRR6W) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 0:31 | 2022-10-18 | 2022-10-23 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

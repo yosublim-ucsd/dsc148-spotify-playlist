@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,043 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,022 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 61 | [Closer](https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Boy With No Name](https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR) | 4:00 |
 | 62 | [Landline](https://open.spotify.com/track/5H9wA29ptgnn7mXAHKhUKc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:40 |
 | 63 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
-| 64 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
-| 65 | [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 |
+| 64 | [&Run](https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:46 |
+| 65 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
 | 66 | [Purple Yellow Red and Blue](https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 4:09 |
 | 67 | [Emergency](https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Emergency EP](https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J) | 2:49 |
 | 68 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDfBvFXqzpv.md) - [plain]
 | 79 | [Holding On](https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:50 |
 | 80 | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [We Got That Cool \(feat\. Afrojack & Icona Pop\)](https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q) | 3:33 |
 | 81 | [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 |
-| 82 | [Ay Caramba](https://open.spotify.com/track/0mfEHC4z5a7533o7VNOH2c) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Ay Caramba](https://open.spotify.com/album/1ME6eVTU1q7wGcVyktvmEJ) | 3:31 |
+| 82 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
 | 83 | [papi bones \(feat\. shygirl\)](https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:40 |
-| 84 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
+| 84 | [Ay Caramba](https://open.spotify.com/track/0mfEHC4z5a7533o7VNOH2c) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Ay Caramba](https://open.spotify.com/album/1ME6eVTU1q7wGcVyktvmEJ) | 3:31 |
 | 85 | [A Teen](https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [A Teen](https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi) | 3:21 |
 | 86 | [Big Talk](https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Big Talk](https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK) | 3:17 |
 | 87 | [Beamer \(Bad Boys\)](https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Beamer \(Bad Boys\)](https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh) | 3:15 |

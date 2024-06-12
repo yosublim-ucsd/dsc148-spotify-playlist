@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Cledos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,453 likes - 109 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,459 likes - 109 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 61 | [Aivastaa](https://open.spotify.com/track/4j8c4FzylrJtT4hrKtTtE5) | [RB23](https://open.spotify.com/artist/0AMt5hEkhOFwP4UfWXHQ1N), [AxSZN](https://open.spotify.com/artist/5BaTIZ3K241Pk3vxfbtZI5) | [Aivastaa](https://open.spotify.com/album/603c4gIAc9M4QT20PUJ31c) | 2:58 |
 | 62 | [Petoksii](https://open.spotify.com/track/0MPfYcIHJKWVJWElcaQ7JR) | [Cleme](https://open.spotify.com/artist/34bBpJxnHQpGOQpDPs4F7e) | [loverboy](https://open.spotify.com/album/0wAxyNLcIbQBJGU5u10kVL) | 2:40 |
 | 63 | [Don't Speak](https://open.spotify.com/track/3iegKMcDwOdWtOUgwa4afJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Don't Speak](https://open.spotify.com/album/72AWK6AZ95LODDCjLJnoqX) | 2:46 |
-| 64 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 64 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 65 | [Hometown](https://open.spotify.com/track/4FCe9FduTQpKBVSO8eScHL) | [Thnked](https://open.spotify.com/artist/2D2p1P0jMo3OhCcx0PoNNJ), [Lemonade Kenny](https://open.spotify.com/artist/7DQG94f9TSjhpIDm4JVqwP) | [Hometown](https://open.spotify.com/album/4oeJI1EyEzHkqpYjX6bAPY) | 2:43 |
 | 66 | [Helpompi unelmoida](https://open.spotify.com/track/45NS0GpDJ4LCvnpJnyzSQ8) | [Mängi](https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr), [AxuTee](https://open.spotify.com/artist/74zadYeBcE6LfYM1N9veQf) | [Helpompi unelmoida](https://open.spotify.com/album/0aaXIslGhct5OXyplYhXdE) | 3:26 |
 | 67 | [Be Ok](https://open.spotify.com/track/0iRfJGDstUYNKRGjc5CgJZ) | [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM), [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Be Ok](https://open.spotify.com/album/3hUI3B13nhuPdNJtjx8qnD) | 2:21 |

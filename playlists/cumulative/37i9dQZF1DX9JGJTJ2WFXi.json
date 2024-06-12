@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Natural Harvest 396Hz",
+        "url": "https://open.spotify.com/album/09gxcguTKBxad2tLqjrKzV"
+      },
+      "artists": [
+        {
+          "name": "Caleb Carter",
+          "url": "https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Natural Harvest 396Hz",
+      "url": "https://open.spotify.com/track/0PwKrJCX7KPwzdiggZjTzb"
+    },
+    {
+      "album": {
         "name": "Solfeggios for Root Chakra",
         "url": "https://open.spotify.com/album/5yHk2mxxyE3OmRcdlaAkMo"
       },

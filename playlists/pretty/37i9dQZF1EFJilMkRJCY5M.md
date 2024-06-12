@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 55 | [Mustang](https://open.spotify.com/track/2De0YSP8u3FhJDFyOpzdmB) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Mustang](https://open.spotify.com/album/1fgR6If4iS7yOoaHs8uoLD) | 2:44 |
 | 56 | [This Side Of The Dirt](https://open.spotify.com/track/2fsYoZ2E7LNRkNqCH5FuMo) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [This Side Of The Dirt](https://open.spotify.com/album/7zkixgWE2b1OoR3L8UClPZ) | 3:21 |
 | 57 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
-| 58 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
-| 59 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 |
+| 58 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 |
+| 59 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
 | 60 | [Dandelion](https://open.spotify.com/track/0BoDLO2lrH1jh1RaCzmkYJ) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Mat Kearney](https://open.spotify.com/album/3DBFBwe5OkJzj1j992u0bG) | 3:23 |
 | 61 | [Boots to the Club](https://open.spotify.com/track/3Owpgh1KoJVeUfRUuVdaJX) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Commitment Issues](https://open.spotify.com/album/2eTS8YvTafTRUsqcMzTN9w) | 2:49 |
 | 62 | [Somebody Cares](https://open.spotify.com/track/4sidaSzSofX1IBxlKLnWW8) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 2:46 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 96 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 97 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AbTtrAAAAACnen6MiKa819GWr4Ovd/LZ`
+Snapshot ID: `AbTzTAAAAABNLnwhW0DtDfPwe8sTwGMv`

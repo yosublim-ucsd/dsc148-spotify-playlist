@@ -2,7 +2,7 @@
 
 ### [This Is Cassiane](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40KrGE)
 
-> This is Cassiane\. Todos os maiores hits em uma só playlist.
+> This is Cassiane\. The essential tracks, all in one playlist.
 
 66 songs - 5 hr 38 min
 
@@ -18,7 +18,7 @@
 | [Com Cristo é Vencer](https://open.spotify.com/track/4gm9T7Qpul7DteuK1sIpVz) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:24 | 2023-07-09 |  |
 | [Com Muito Louvor](https://open.spotify.com/track/0suvVjf5ZT2Pasu1cDPEVr) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 5:05 | 2023-07-09 |  |
 | [Contigo Está](https://open.spotify.com/track/0vkZn9FT5xohaQgqm7QkvL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 4:50 | 2023-07-09 | 2024-05-05 |
-| [De Valor em Valor](https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 4:28 | 2024-06-11 |  |
+| [De Valor em Valor](https://open.spotify.com/track/4CvQslmcng11Gj20yFa33I) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 4:28 | 2024-06-11 | 2024-06-12 |
 | [Deus Tem Poder](https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:08 | 2024-05-03 |  |
 | [Deus Velará por Ti](https://open.spotify.com/track/7EtEkZQfJEDHlsLaMZ2jIg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:00 | 2023-07-09 |  |
 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 | 2024-01-22 |  |
@@ -43,7 +43,7 @@
 | [Mergulhe](https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:36 | 2023-07-09 |  |
 | [Minha Bênção](https://open.spotify.com/track/5SS4AAEBMOMVGJTlKS7Hnw) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:20 | 2023-07-09 |  |
 | [Não Abro Mão \(Ao Vivo\)](https://open.spotify.com/track/1TGWFsVx97mxmo247s5pj3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [Não Abro Mão \(Ao Vivo\)](https://open.spotify.com/album/0XHjlbrPHz5B7CvtyUuVDh) | 4:31 | 2023-07-25 | 2023-08-05 |
-| [Não Negue a Jesus](https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:21 | 2023-07-09 | 2024-06-11 |
+| [Não Negue a Jesus](https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:21 | 2023-07-09 |  |
 | [Não Negue a Jesus / Com Cristo é Vencer / Contigo Está](https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 4:17 | 2024-03-25 |  |
 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 | 2023-07-09 |  |
 | [Não Posso Desistir](https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Posso Desistir](https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3) | 3:36 | 2023-07-09 | 2023-12-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 168 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107 likes - 168 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 68 | [U12](https://open.spotify.com/track/6zqO3HXUuZrj9c2VMVaOyu) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:23 |
 | 69 | [Thirsty](https://open.spotify.com/track/7LDzQTet3Z9pjplwHCNv2U) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:19 |
 | 70 | [10/10](https://open.spotify.com/track/0s2vC5MwdoLvQ8PdNBjUGX) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:06 |
-| 71 | [Roommates](https://open.spotify.com/track/73A6HiR1xE9cAwy61mP7AA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/2Cp9X2MWTLEAVp7EuIiEFt) | 3:23 |
-| 72 | [Silly](https://open.spotify.com/track/0Brx9I3vh7Po30gxsTtLz5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:38 |
+| 71 | [Silly](https://open.spotify.com/track/0Brx9I3vh7Po30gxsTtLz5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:38 |
+| 72 | [Roommates](https://open.spotify.com/track/73A6HiR1xE9cAwy61mP7AA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Roommates](https://open.spotify.com/album/2Cp9X2MWTLEAVp7EuIiEFt) | 3:23 |
 | 73 | [Sunflower \(Synth Reprise\)](https://open.spotify.com/track/0K5uqkxgZlxKJvA03E1e90) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:36 |
 | 74 | [Can't Go Back, Baby](https://open.spotify.com/track/6fNyEK8kTquBSUTHbqbfaK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:21 |
 | 75 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 167 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 168 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AbTt3gAAAAAjrK2L1YXajKmvV0nLyXSg`
+Snapshot ID: `AbTzQgAAAABAOMf2hbEneQbat/Eu3Sn6`

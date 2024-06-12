@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,341,123 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,341,495 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 91 | [Lollipop \- Remix](https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Lollipop \(Remix\)](https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR) | 4:26 |
 | 92 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
 | 93 | [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 |
-| 94 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/17XeomF5xiiR4bQVQx0uWB), [Omar Courtz](https://open.spotify.com/artist/6ju131sNPISiZTbmJMTAE4) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
+| 94 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
 | 95 | [Linea Del Perreo](https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Linea Del Perreo](https://open.spotify.com/album/5QAA9U04wuRM8qnRbrKnOI) | 3:01 |
 | 96 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 |
 | 97 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 |

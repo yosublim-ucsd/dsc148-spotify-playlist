@@ -1,12 +1,12 @@
 {
-  "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
-  "num_followers": 41706,
+  "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
+  "num_followers": 41723,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAABV8ichHCFWYBPB7MBbVGwm",
+  "snapshot_id": "ZmZCAAAAAABdZZI6WihEj1SHP5gtV+Gw",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 225072,
-      "name": "Llegaste t\u00fa (feat. Reykon)",
-      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diane Warren: The Cave Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 200739,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0cw83fumWofmtmNd2hVAPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 225072,
+      "name": "Llegaste t\u00fa (feat. Reykon)",
+      "url": "https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL"
     },
     {
       "added_at": null,
@@ -547,30 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gotta Be Patient",
-        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 160318,
-      "name": "Gotta Be Patient",
-      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
         "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 204707,
       "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gotta Be Patient",
+        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 160318,
+      "name": "Gotta Be Patient",
+      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
     },
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Let You Go (feat. Sofia Reyes)",
+        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 162537,
+      "name": "Never Let You Go (feat. Sofia Reyes)",
+      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goofy, Pt. 2 (Remix)",
         "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 174545,
       "name": "A Tu Manera [CORBATA]",
       "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Let You Go (feat. Sofia Reyes)",
-        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 162537,
-      "name": "Never Let You Go (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
     },
     {
       "added_at": null,

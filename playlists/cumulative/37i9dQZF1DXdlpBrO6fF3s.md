@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-147 songs - 8 hr 12 min
+148 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [WONDERLAND \- Japanese Ver.](https://open.spotify.com/track/0Qu9rh4SIrFQBdLQPLkgg9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Into the A to Z](https://open.spotify.com/album/4UfjyHIT2Nvb2XC7hnaPC0) | 3:20 | 2022-02-03 |  |
 | [WONDERLAND \- SEAN OH's Skrt Mix](https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [SEAN OH](https://open.spotify.com/artist/7lCMxLzay3subrSfwEcZxc) | [TREASURE EP\. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 3:18 | 2022-02-03 |  |
 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 | 2024-06-04 |  |
+| [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5qti5IxeLXnhbiMi92R5GC) | 3:00 | 2024-06-11 |  |
 | [Youth \(YUNHO, MINGI\)](https://open.spotify.com/track/136oL23K6A6g4PvptBWcS7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:29 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2022-07-11. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,463 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,536 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 57 | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Something To Hold On To \(feat\. Clementine Douglas\)](https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI) | 2:55 |
 | 58 | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/track/5TRubkfle0s3bQAPtBPQIf) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Juanmih](https://open.spotify.com/artist/1ONFKxaF62UuzaaMwzuzm9) | [Es un secreto \(feat\. Pensión & Juanmih\)](https://open.spotify.com/album/3dKKWOI7rNPtfwn8lVX6HY) | 1:52 |
 | 59 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 |
-| 60 | [Dip It Low](https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [Dip It Low](https://open.spotify.com/album/6NSuHHPPZZ8d4849ndMqIv) | 2:15 |
-| 61 | [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 |
+| 60 | [Ray Of Solar \- Mau P Remix](https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Ray Of Solar \(Mau P Remix\)](https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh) | 4:11 |
+| 61 | [Dip It Low](https://open.spotify.com/track/1JM6JF5IUWmggaC1rYDAiH) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [Dip It Low](https://open.spotify.com/album/6NSuHHPPZZ8d4849ndMqIv) | 2:15 |
 | 62 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 |
 | 63 | [UNTZ UNTZ](https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [UNTZ UNTZ](https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9) | 2:26 |
 | 64 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Global.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763,943 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763,958 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLiRSasKsNU9.md) - [plain]
 | 49 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 50 | [Mtg Forró e Desmantelo](https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV) | [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Mtg Forró e Desmantelo](https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc) | 2:29 |
 
-Snapshot ID: `LfplGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

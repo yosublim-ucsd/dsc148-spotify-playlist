@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ray Volpe",
-  "num_followers": 976165,
+  "num_followers": 976163,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1333,6 +1333,22 @@
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
     },
     {
+      "added_at": "2024-04-05 04:00:45",
+      "album": {
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/2KadoM6f5oT6yXrLBpqZG3"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/1DoFiO1x9P3Ls2LVI40qVj"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "CAN YOU SEE ME?",
@@ -1351,22 +1367,6 @@
       "duration_ms": 222219,
       "name": "CUT ME OUT",
       "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
-    },
-    {
-      "added_at": "2024-04-05 04:00:45",
-      "album": {
-        "name": "Don't Tell Me",
-        "url": "https://open.spotify.com/album/2KadoM6f5oT6yXrLBpqZG3"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/1DoFiO1x9P3Ls2LVI40qVj"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1673,26 +1673,6 @@
       "url": "https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "MARAVILLOSA",
@@ -1711,6 +1691,26 @@
       "duration_ms": 152812,
       "name": "MARAVILLOSA",
       "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/2stkLdopWeNgAWr3cBV3Tn"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1753,6 +1753,26 @@
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "On Forever",
@@ -1775,26 +1795,6 @@
       "duration_ms": 209556,
       "name": "On Forever",
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1861,6 +1861,22 @@
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "SAXORiDDiM",
+        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "SAXORiDDiM",
+      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
+    },
+    {
       "added_at": "2024-02-12 18:48:17",
       "album": {
         "name": "Rainbow Funk",
@@ -1883,18 +1899,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "SAXORiDDiM",
-        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Clara Park",
+          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
         }
       ],
-      "duration_ms": 188571,
-      "name": "SAXORiDDiM",
-      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
+      "duration_ms": 269538,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1923,30 +1947,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "You Found Me",
-        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Clara Park",
-          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "BANG YOUR HEAD",
         "url": "https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk"
       },
@@ -1969,24 +1969,28 @@
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Dhunga",
-        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "Toxic Rob",
-          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Dhunga",
-      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2029,28 +2033,24 @@
       "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
       },
       "artists": [
         {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         },
         {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "KC",
-          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "added_at": "2023-10-20 04:01:00",

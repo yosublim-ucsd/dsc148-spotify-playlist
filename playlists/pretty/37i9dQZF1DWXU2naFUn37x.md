@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Nabi in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,512 likes - 55 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,542 likes - 55 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 47 | [DO YOU RINGO \(feat\. Don Pero\)](https://open.spotify.com/track/7tXS3GFgQg880jnVgjV6l9) | [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [DO YOU RINGO \(feat\. Don Pero\)](https://open.spotify.com/album/5WoVwg9eq5XM8JYSggvEi0) | 3:26 |
 | 48 | [ZÉ](https://open.spotify.com/track/6Jt8OWHFEQa2gFzLhFvuJe) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [ZÉ](https://open.spotify.com/album/7wMjDkXgZ8VOJWDnMA8bla) | 2:34 |
 | 49 | [Il Signore delle Mosche](https://open.spotify.com/track/2y4gPh9HoBSr88eD56PiPq) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 3:13 |
-| 50 | [5X5](https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [5X5](https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu) | 2:18 |
-| 51 | [CP COMPANY](https://open.spotify.com/track/1qKTihNxQh2kSeuLjd3KAg) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [SILENZIO](https://open.spotify.com/album/39NYzf6GQLB8KZyyxfYKRh) | 3:15 |
-| 52 | [VORREI \(feat\. Neima Ezza\)](https://open.spotify.com/track/0dtyvuccg5VBKvrz8J90PL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [BALORDO \(Deluxe\)](https://open.spotify.com/album/7uHUZgUJnxloRFB2prwMQB) | 2:55 |
-| 53 | [Guai \(feat\. Fre\_nky\)](https://open.spotify.com/track/0gkuPf9a7MRecMn2GVc2uX) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [Ninho De La Calle](https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB) | 2:30 |
-| 54 | [Vis a Vis](https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Vis a Vis](https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz) | 2:27 |
+| 50 | [FULL FULL](https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [FULL FULL](https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9) | 1:51 |
+| 51 | [5X5](https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [5X5](https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu) | 2:18 |
+| 52 | [CP COMPANY](https://open.spotify.com/track/1qKTihNxQh2kSeuLjd3KAg) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [SILENZIO](https://open.spotify.com/album/39NYzf6GQLB8KZyyxfYKRh) | 3:15 |
+| 53 | [VORREI \(feat\. Neima Ezza\)](https://open.spotify.com/track/0dtyvuccg5VBKvrz8J90PL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [BALORDO \(Deluxe\)](https://open.spotify.com/album/7uHUZgUJnxloRFB2prwMQB) | 2:55 |
+| 54 | [Guai \(feat\. Fre\_nky\)](https://open.spotify.com/track/0gkuPf9a7MRecMn2GVc2uX) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [Ninho De La Calle](https://open.spotify.com/album/5kY0llILiYXXRouvjRSBEB) | 2:30 |
 | 55 | [Regionale \(feat\. Disme\)](https://open.spotify.com/track/4P8Jdoeq2JvtZJXJnqW5B8) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Regionale \(feat\. Disme\)](https://open.spotify.com/album/41AVJvVTeRc0yK3iJkZrZ8) | 2:32 |
 
-Snapshot ID: `ZmaptAAAAABz9CJXoH8yOf55dlE8z7+Y`
+Snapshot ID: `ZmgQCAAAAACIeegx46qv3vSc/Vnl7ey6`

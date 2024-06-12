@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist Berre
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,257 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,260 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 63 | [How to Say I Love You](https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [How to Say I Love You](https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s) | 3:26 |
 | 64 | [NO GO LIE](https://open.spotify.com/track/4g9Ir7rXdtFNvdTC2tUikT) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [NO GO LIE](https://open.spotify.com/album/17rLjk1Ju70Rnhclnn0d5j) | 2:46 |
 | 65 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 |
-| 66 | [SWEET SMILE](https://open.spotify.com/track/5BY8gNoD2CCzG2dqENJVtq) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [EELS TIME!](https://open.spotify.com/album/2lOHd8IPP9Zw79yL3y9P1f) | 3:28 |
+| 66 | [Sweet Smile](https://open.spotify.com/track/5BY8gNoD2CCzG2dqENJVtq) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [EELS TIME!](https://open.spotify.com/album/2lOHd8IPP9Zw79yL3y9P1f) | 3:28 |
 | 67 | [One Last Gift \- Edit](https://open.spotify.com/track/5yo3rL4CeUX5vYWoXF0txw) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [One Last Gift](https://open.spotify.com/album/2sUVYLvpfUO6ViV1IAwi2S) | 3:34 |
 | 68 | [Under The Strikes](https://open.spotify.com/track/767IdfyG4k7BIczG9HQ3dQ) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Under The Strikes](https://open.spotify.com/album/3X2bhCGH9RNj9gErZuY0Qn) | 4:30 |
 | 69 | [Petco](https://open.spotify.com/track/6CovIpwJhaHiu5vDFWGQAE) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Petco](https://open.spotify.com/album/0phvBVPWWFu1sgYSm7rGuN) | 3:03 |

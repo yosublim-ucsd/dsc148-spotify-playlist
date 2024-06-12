@@ -4,7 +4,7 @@
 
 > Your new favourite songs! Cover: Sabrina Carpenter
 
-553 songs - 1 day 5 hr 37 min
+554 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Bumpa](https://open.spotify.com/track/7zE8qmq6AJuAANgUyHcjy1) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Bumpa](https://open.spotify.com/album/63Pj8e2jkWuOA5i1uDEaNQ) | 2:04 | 2024-04-25 | 2024-05-17 |
 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-29 | 2023-08-03 |
 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 | 2024-03-28 | 2024-04-26 |
-| [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 | 2024-04-18 |  |
+| [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 | 2024-04-18 | 2024-06-12 |
 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 | 2023-06-15 | 2023-06-30 |
 | [Can I Shower At Yours](https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours](https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj) | 1:54 | 2023-06-22 | 2023-09-29 |
 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 | 2024-01-11 | 2024-02-09 |
@@ -294,6 +294,7 @@
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-03-25 | 2024-04-12 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-27 | 2023-12-16 |
 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 | 2024-04-04 | 2024-05-10 |
+| [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [SiriusXM Session](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-11 |  |
 | [Lipstick](https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lipstick](https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV) | 3:28 | 2023-08-17 | 2023-10-13 |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2023-10-05 | 2023-11-17 |
 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 | 2023-06-15 | 2023-07-07 |

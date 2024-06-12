@@ -1,12 +1,12 @@
 {
-  "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 56965,
+  "description": "This Is Lalo Mora. Los temas esenciales, todos en una lista.",
+  "num_followers": 56979,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACdrvT/iUTu7p0f1pwzRn8V",
+  "snapshot_id": "ZmZCAAAAAABAlUFz5/cmphvZGdQpVt13",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 20 \u00c9xitos Con Banda",
         "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 161840,
       "name": "Trono Ca\u00eddo",
       "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos Con Sax, Vol. 2",
-        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Yo Te Amo Mar\u00eda",
-      "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Exitos Vol. 1",
         "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 163013,
       "name": "Flor de Dalia",
       "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Yo Te Amo Mar\u00eda",
+      "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
     },
     {
       "added_at": null,

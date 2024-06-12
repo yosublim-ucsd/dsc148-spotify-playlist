@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60102,
+  "num_followers": 60112,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "No Corro, No Grito, No Empujo",
@@ -55,6 +39,22 @@
       "duration_ms": 156960,
       "name": "Excusez-Moi",
       "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2022-01-11 02:50:37",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Dream Maker (Guitar Smooth Jazz)",
         "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 202826,
       "name": "Susano's Calipso",
       "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -219,22 +219,6 @@
       "duration_ms": 254269,
       "name": "Raz\u00f3n de Vivir (Desde Casa)",
       "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -347,18 +331,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
       "artists": [
         {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
         }
       ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -375,6 +359,22 @@
       "duration_ms": 167026,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -555,6 +555,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Semillas De Copinol",
+        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
+      },
+      "artists": [
+        {
+          "name": "Juanjo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
+        },
+        {
+          "name": "Xuc Tr\u00edo",
+          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
+        }
+      ],
+      "duration_ms": 352952,
+      "name": "En Cualquier Momento",
+      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "D\u00edas Lentos",
         "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
@@ -591,22 +611,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
       "artists": [
         {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
-        },
-        {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
         }
       ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -627,18 +643,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
+        "name": "Chucho en Chipp's",
+        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
       },
       "artists": [
         {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
+          "name": "Chucho Zarzosa Su Piano y su Conjunto",
+          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
         }
       ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+      "duration_ms": 155120,
+      "name": "Bula",
+      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -663,34 +679,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Chucho en Chipp's",
-        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
       "artists": [
         {
-          "name": "Chucho Zarzosa Su Piano y su Conjunto",
-          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
         }
       ],
-      "duration_ms": 155120,
-      "name": "Bula",
-      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mujer De Luna",
-        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
-      },
-      "artists": [
-        {
-          "name": "Patricia Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "Ana's Song",
-      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+        "name": "Mujer De Luna",
+        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
       },
       "artists": [
         {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+          "name": "Patricia Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+      "duration_ms": 285746,
+      "name": "Ana's Song",
+      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
     },
     {
       "added_at": "2021-07-28 16:44:28",

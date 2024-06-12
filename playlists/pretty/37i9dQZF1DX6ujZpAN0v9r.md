@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,723 likes - 148 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,908 likes - 148 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 38 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
 | 39 | [On My Own \- 2019 remaster](https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 6:39 |
 | 40 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 |
-| 41 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
-| 42 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 41 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 42 | [Drive Blind \- 2001 Remaster](https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Smile](https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs) | 4:45 |
 | 43 | [Guilt](https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:13 |
 | 44 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 45 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 65 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
 | 66 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
 | 67 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
-| 68 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
-| 69 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 |
+| 68 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 |
+| 69 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
 | 70 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
 | 71 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
 | 72 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |

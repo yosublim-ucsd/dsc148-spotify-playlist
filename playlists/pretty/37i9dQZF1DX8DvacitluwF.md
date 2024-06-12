@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=YPYyRAe6S7ylntcdmbc48g>Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,836 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,855 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 63 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 |
 | 64 | [Guide Me](https://open.spotify.com/track/5nnGqBHjGNGUu6Khin46XL) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:45 |
 | 65 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 |
-| 66 | [IBIZA](https://open.spotify.com/track/0yzXQ1yTjxKTtUc28XFBPL) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [JIGGY STAPES](https://open.spotify.com/artist/3BSv85ORhVkvvqlrUYSyvW) | [IBIZA](https://open.spotify.com/album/1WvongU8fEccauGewV5MS7) | 4:00 |
+| 66 | [IBIZA](https://open.spotify.com/track/0yzXQ1yTjxKTtUc28XFBPL) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF) | [IBIZA](https://open.spotify.com/album/1WvongU8fEccauGewV5MS7) | 4:00 |
 | 67 | [Same Things](https://open.spotify.com/track/10iNh3l2Re2FDwH9yWxniw) | [Tselan](https://open.spotify.com/artist/5eSYzWpjjFMNLmUudEaab8) | [Same Things](https://open.spotify.com/album/4RUWoECBYIuKeft0gZz24S) | 2:50 |
 | 68 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 |
 | 69 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 76482,
+  "num_followers": 76526,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACuIX96IbynX2Q0ICqLmMzJ",
+  "snapshot_id": "ZmZCAAAAAAA3zAPXd6OSCdeEFiBQYDAF",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
     },
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pheelz Good",
-        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -279,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
       },
@@ -307,6 +271,22 @@
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw"
     },
     {
       "added_at": null,
@@ -351,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 147021,
-      "name": "FOR THE ROAD",
-      "url": "https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -379,6 +343,22 @@
       "duration_ms": 176470,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 147021,
+      "name": "FOR THE ROAD",
+      "url": "https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD"
     },
     {
       "added_at": null,
@@ -419,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 198801,
-      "name": "OVER DEM",
-      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
         "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
@@ -459,6 +423,22 @@
       "duration_ms": 206069,
       "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
       "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 198801,
+      "name": "OVER DEM",
+      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
     },
     {
       "added_at": null,
@@ -1039,6 +1019,26 @@
       "duration_ms": 212405,
       "name": "Dream Girl - Global Remix",
       "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deal with It",
+        "url": "https://open.spotify.com/album/73chBzty2A658sLKCYy54h"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 217154,
+      "name": "Ride for You",
+      "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
     }
   ],
   "unique_name": "This Is Davido",

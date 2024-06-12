@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Antonio Aguilar, Vol. 3",
+        "url": "https://open.spotify.com/album/1g2KmviRFszwsmhiXsfZG5"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147771,
+      "name": "Anillo Grabado",
+      "url": "https://open.spotify.com/track/0PdvrE8he4lEyHOAgS0dk8"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es La Vida",
         "url": "https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/7mgm1NtgPgemOFsopkCszE"

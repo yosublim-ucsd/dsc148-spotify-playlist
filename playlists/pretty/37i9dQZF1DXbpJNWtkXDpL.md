@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a la Generación 2024 de RADAR México\. CHOCA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,922 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,942 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 5 | [Perreo Saiko](https://open.spotify.com/track/0KNCaO7ZPTZz965SQwvYoO) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu), [Dj Alexis Najera](https://open.spotify.com/artist/4HvTa7hPj4FL8f397lcNqa) | [Perreo Saiko](https://open.spotify.com/album/1JqKdS32E49gcOWtCM7vgy) | 2:22 |
 | 6 | [Punta Cana](https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Punta Cana](https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK) | 2:48 |
 | 7 | [Haganse A Un Lado](https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Haganse A Un Lado](https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B) | 2:36 |
-| 8 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
-| 9 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
+| 8 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
+| 9 | [Un Suspiró](https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Un Suspiró](https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT) | 3:04 |
 | 10 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 |
 | 11 | [Derecho y Chueco](https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Derecho y Chueco](https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm) | 2:37 |
 | 12 | [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 65 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 |
 | 66 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |
 | 67 | [Peda Con Cupido](https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Peda Con Cupido](https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc) | 2:30 |
-| 68 | [Dime Ya](https://open.spotify.com/track/14jfifo7CTWMWiogwX5UK2) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [Jasiel Ayon](https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S) | [Dime Ya](https://open.spotify.com/album/59bw7STmN2fRL5jqvdMNuX) | 3:20 |
-| 69 | [Astros](https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Astros](https://open.spotify.com/album/3jGQw9Tu58SELgqLSWu208) | 3:23 |
+| 68 | [Astros](https://open.spotify.com/track/0EHjeBjck1oNsCoKixkTlt) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Astros](https://open.spotify.com/album/3jGQw9Tu58SELgqLSWu208) | 3:23 |
+| 69 | [Dime Ya](https://open.spotify.com/track/14jfifo7CTWMWiogwX5UK2) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ), [Jasiel Ayon](https://open.spotify.com/artist/0CfIdkJumeeRu6I61IIL8S) | [Dime Ya](https://open.spotify.com/album/59bw7STmN2fRL5jqvdMNuX) | 3:20 |
 | 70 | [Vampiro](https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Zapandú](https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0) | 4:56 |
 | 71 | [Morra](https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Morra](https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg) | 3:37 |
 | 72 | [Fumar Beber](https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Fumar Beber](https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw) | 3:14 |

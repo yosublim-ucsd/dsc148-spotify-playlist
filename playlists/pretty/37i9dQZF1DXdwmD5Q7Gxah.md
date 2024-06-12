@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > cover: billie eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,926 likes - 125 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,999 likes - 125 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

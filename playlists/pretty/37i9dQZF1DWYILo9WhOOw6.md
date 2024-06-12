@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,910 likes - 119 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,180 likes - 119 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

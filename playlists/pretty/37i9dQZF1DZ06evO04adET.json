@@ -1,12 +1,12 @@
 {
   "description": "This Is Natanael Cano. Los temas esenciales, todos en una lista.",
-  "num_followers": 661574,
+  "num_followers": 662143,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACJZ+U4x2glnjyLlk94U3Ru",
+  "snapshot_id": "ZmZCAAAAAABz5RXABW5zfLDzY+EzYpFE",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 174642,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Habla de un Muchacho",
         "url": "https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 177523,
       "name": "Se Habla de un Muchacho",
       "url": "https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174642,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
     },
     {
       "added_at": null,

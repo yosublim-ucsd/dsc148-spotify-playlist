@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804 likes - 33 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,811 likes - 33 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 4 | [Walking Free](https://open.spotify.com/track/2Vgo0mLTvZj6jWFv4Nqgo7) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:21 |
 | 5 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
 | 6 | [What Mercy Did for Me \(feat\. Crystal Yates, Micah Tyler & Joshua Sherman\)](https://open.spotify.com/track/7lKYLdBXZtYbwysK0GFnOr) | [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8), [Crystal Yates](https://open.spotify.com/artist/1px9WTV9bYGfGYjLimvsxJ), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Joshua Sherman](https://open.spotify.com/artist/7adV3tjip6mYhVUxLUZ4QR) | [The Emerging Sound, Vol\. 3](https://open.spotify.com/album/1NIgu5W7M1HFNqNuzUmwjP) | 4:08 |
-| 7 | [My God Fights for Me \(feat\. Micah Tyler & Kaden Slay\)](https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Kaden Slay](https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o) | [Lord You Are My Song](https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX) | 3:43 |
+| 7 | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22) | 3:46 |
 | 8 | [AMEN](https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 2:55 |
 | 9 | [Never Been a Moment](https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:20 |
-| 10 | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [People Like Us \(feat\. Emerson Day\)](https://open.spotify.com/album/2iAW5epYLEtGgzMnFSHF22) | 3:46 |
+| 10 | [My God Fights for Me \(feat\. Micah Tyler & Kaden Slay\)](https://open.spotify.com/track/5jZpp4a0E77ESDHtriYvlb) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Kaden Slay](https://open.spotify.com/artist/5dH8GEZ4cLQddQIWwAkL4o) | [Lord You Are My Song](https://open.spotify.com/album/7uvmYf2SgOokDnGyxF6moX) | 3:43 |
 | 11 | [Nothing Too Broken](https://open.spotify.com/track/6NmSmXmPs4YZJZYFHM3rwR) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 3:34 |
 | 12 | [New Today](https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:20 |
 | 13 | [Comeback Song](https://open.spotify.com/track/7p17D91YMHqR6LuhnDcR2D) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:05 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 32 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 |
 | 33 | [The Warrior](https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:49 |
 
-Snapshot ID: `ZmTwgAAAAAA/jayeLuCSOmxqDNnjgm4V`
+Snapshot ID: `ZmZCAAAAAAAoITX/8kbbws/mg3jyssTW`

@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-123 songs - 5 hr 56 min
+124 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Love Bowls 396 Hz](https://open.spotify.com/track/7MqIXr9SyUJpl6wcz6uQ4b) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Love Bowls 396 Hz](https://open.spotify.com/album/3BALz4cCJB05dWOQB5f7C5) | 2:58 | 2023-03-10 | 2023-12-01 |
 | [Mindful Rest 396 Hz](https://open.spotify.com/track/3DuZAwQAflZTXp3PKb0Lcz) | [Slumra](https://open.spotify.com/artist/7LZjHVBpyfix3KUNCWHEWD) | [Mindful Rest 396 Hz](https://open.spotify.com/album/6nvOu7tPa5DTv6KFzJ0yIq) | 2:35 | 2023-09-21 |  |
 | [Muladhara Chakra](https://open.spotify.com/track/0eag94edbwjPa6NpvRPnui) | [MusicoterapiaTeam](https://open.spotify.com/artist/1HgoOuZod8eiyQcMPfltWt) | [Ultimate Harmony](https://open.spotify.com/album/6wMJe5xibl6zu5nR7UEJMF) | 4:54 | 2023-03-10 | 2023-08-08 |
+| [Natural Harvest 396Hz](https://open.spotify.com/track/0PwKrJCX7KPwzdiggZjTzb) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Natural Harvest 396Hz](https://open.spotify.com/album/09gxcguTKBxad2tLqjrKzV) | 2:50 | 2024-06-11 |  |
 | [Pace Setting \(396 Hz\)](https://open.spotify.com/track/0MrfRWL1e7BzteaVRLM86J) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Solfeggios for Root Chakra](https://open.spotify.com/album/5yHk2mxxyE3OmRcdlaAkMo) | 3:46 | 2023-03-10 |  |
 | [Picturize \(396 Hz\)](https://open.spotify.com/track/2wGi1eRBJ03U61QNaVyI4p) | [Souloner](https://open.spotify.com/artist/1mCbX209L3vGpGgVDJVM6R) | [Base Healer](https://open.spotify.com/album/6s9FrbHI13ZqKW016EDSQw) | 3:13 | 2023-03-10 |  |
 | [Profound Stimulation 396Hz](https://open.spotify.com/track/3KitrNzND1kml4eFYlRoAI) | [Ancient Practicer](https://open.spotify.com/artist/7iA6wah9iVlbJ1xxk9RVA7) | [Profound Stimulation 396Hz](https://open.spotify.com/album/79hjQDQavIK2NYifIE9MMb) | 2:48 | 2023-03-10 |  |

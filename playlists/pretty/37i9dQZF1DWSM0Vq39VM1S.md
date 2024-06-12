@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,012 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,043 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 32 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 |
 | 33 | [Growing Up \(feat\. Ed Sheeran\)](https://open.spotify.com/track/44T13PWJ87jb3lFElhVIHx) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 5:05 |
 | 34 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 |
-| 35 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
-| 36 | [To Know Him Is To Love Him \- Live](https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:25 |
+| 35 | [To Know Him Is To Love Him \- Live](https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:25 |
+| 36 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 37 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 |
 | 38 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 |
 | 39 | [Gaffe aux autres](https://open.spotify.com/track/6PbRfvvnsJr6fIi3iunNyn) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:51 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 41 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 42 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 |
 | 43 | [Your Heart Is As Black As Night](https://open.spotify.com/track/3afTrFAg0LjBVL54PiHZSP) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/3LNuQe1oprSo8VcxgJnKAV) | 2:42 |
-| 44 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
-| 45 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 |
+| 44 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 |
+| 45 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
 | 46 | [A Man I Know](https://open.spotify.com/track/4Abirka1cnsMtWOMhpwKx5) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [Sometimes Awake](https://open.spotify.com/album/6IH8hFGQ2t5YKTcgNJTy4h) | 3:53 |
 | 47 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
 | 48 | [Double Shifts](https://open.spotify.com/track/34JhrCXAX7JXmc3gjVaspA) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Double Shifts](https://open.spotify.com/album/1UT0X66HAow7RWwlx7Jlwb) | 3:28 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 71 | [Gravity](https://open.spotify.com/track/1r7J1I74FgrxkmJ6kJBKs6) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Maratea](https://open.spotify.com/album/2OSdHB4RYfDZ0wFzbNoh7G) | 3:06 |
 | 72 | [So Real](https://open.spotify.com/track/5s9biQ8jLtbUnE76sxDtQ8) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 2:57 |
 | 73 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
-| 74 | [As It Seems](https://open.spotify.com/track/0gaKJGfV5ZOpLW202BGdVs) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Midnight In The Garden](https://open.spotify.com/album/4vyY7OVLoRKoleCNVpK5qI) | 3:03 |
-| 75 | [Ailleurs](https://open.spotify.com/track/70a8PRbdLuwLVgVnwucYx0) | [Joe Bel](https://open.spotify.com/artist/2vDwHj2hEnJPsD5cOrbo7G) | [Ailleurs](https://open.spotify.com/album/0KQ2jt5KdWEr3lyWtXFhaZ) | 5:24 |
+| 74 | [Ailleurs](https://open.spotify.com/track/70a8PRbdLuwLVgVnwucYx0) | [Joe Bel](https://open.spotify.com/artist/2vDwHj2hEnJPsD5cOrbo7G) | [Ailleurs](https://open.spotify.com/album/0KQ2jt5KdWEr3lyWtXFhaZ) | 5:24 |
+| 75 | [As It Seems](https://open.spotify.com/track/0gaKJGfV5ZOpLW202BGdVs) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Midnight In The Garden](https://open.spotify.com/album/4vyY7OVLoRKoleCNVpK5qI) | 3:03 |
 
 Snapshot ID: `Zk+8YAAAAAAKUMrS8sUSCtfwe7p3513y`

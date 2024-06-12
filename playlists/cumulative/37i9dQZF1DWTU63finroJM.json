@@ -3441,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Bu Gece Son",
+        "url": "https://open.spotify.com/album/2g9H0x9HQi68RoI0krAO8p"
+      },
+      "artists": [
+        {
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+        }
+      ],
+      "date_added": "2024-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Bu Gece Son",
+      "url": "https://open.spotify.com/track/1k2asRqf2pyMDc6Yh7Y3Ec"
+    },
+    {
+      "album": {
         "name": "Buat Ku Sempurna",
         "url": "https://open.spotify.com/album/0Zk8UiB0JmFI3kaf9YQz7j"
       },
@@ -6154,6 +6172,24 @@
       "duration_ms": 230327,
       "name": "Dreaming With You",
       "url": "https://open.spotify.com/track/0hoiu4phiHzoJwhl5kutX3"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141220,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn"
     },
     {
       "album": {
@@ -12833,6 +12869,24 @@
     },
     {
       "album": {
+        "name": "Letting Me Down",
+        "url": "https://open.spotify.com/album/3tr4XwzXCdOGeyTPQLSqqH"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178778,
+      "name": "Letting Me Down",
+      "url": "https://open.spotify.com/track/790lsYX1YEx6393ShjoSct"
+    },
+    {
+      "album": {
         "name": "Liebe verloren",
         "url": "https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF"
       },
@@ -14410,7 +14464,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 182367,
       "name": "Mona",
       "url": "https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc"
@@ -16298,7 +16352,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 254348,
       "name": "Obvio Bien",
       "url": "https://open.spotify.com/track/1tB9yQnhyBrnft7mUSpbEh"
@@ -19988,7 +20042,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 143821,
       "name": "Should Be Us",
       "url": "https://open.spotify.com/track/110vOPCNhnG4Xe1Gmhe32O"

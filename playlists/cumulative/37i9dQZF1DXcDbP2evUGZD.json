@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "\uc720\ub2e4\ube48\ubc34\ub4dc 1\uc9d1",
+        "url": "https://open.spotify.com/album/0qDUVf1CfwX9DPWLRhAHtx"
+      },
+      "artists": [
+        {
+          "name": "YdBB",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "LETTER",
+      "url": "https://open.spotify.com/track/3mfOAjzjzByCZMl79v0stf"
+    },
+    {
+      "album": {
         "name": "YUDABINBAND 1st",
         "url": "https://open.spotify.com/album/6FZ5FvYqtLOiW4VMwTPxUW"
       },
@@ -2446,24 +2464,6 @@
       "duration_ms": 206500,
       "name": "LETTER",
       "url": "https://open.spotify.com/track/1Aa1rMwSzxD5Z90ox1Mqlb"
-    },
-    {
-      "album": {
-        "name": "\uc720\ub2e4\ube48\ubc34\ub4dc 1\uc9d1",
-        "url": "https://open.spotify.com/album/0qDUVf1CfwX9DPWLRhAHtx"
-      },
-      "artists": [
-        {
-          "name": "YUDABINBAND",
-          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
-        }
-      ],
-      "date_added": "2023-09-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 206500,
-      "name": "LETTER",
-      "url": "https://open.spotify.com/track/3mfOAjzjzByCZMl79v0stf"
     },
     {
       "album": {
@@ -4236,7 +4236,7 @@
       },
       "artists": [
         {
-          "name": "YUDABINBAND",
+          "name": "YdBB",
           "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
         }
       ],

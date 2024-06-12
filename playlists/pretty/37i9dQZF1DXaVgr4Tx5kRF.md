@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,504 likes - 65 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,526 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 5 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 6 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
 | 7 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
-| 8 | [Handbags And Gladrags](https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 4:37 |
+| 8 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 9 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
-| 10 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
+| 10 | [Handbags And Gladrags](https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 4:37 |
 | 11 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 |
 | 12 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
 | 13 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 46 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
 | 47 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
 | 48 | [No Surprises](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:49 |
-| 49 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 |
-| 50 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
-| 51 | [This Is How It Feels \- Radio Mix](https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [This Is How It Feels](https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54) | 3:14 |
-| 52 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 |
+| 49 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
+| 50 | [Wide Open Space](https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ) | 4:31 |
+| 51 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 |
+| 52 | [This Is How It Feels \- Radio Mix](https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [This Is How It Feels](https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54) | 3:14 |
 | 53 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |
 | 54 | [Tattva](https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Kollected \- The Best Of Kula Shaker](https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q) | 3:44 |
 | 55 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 4:49 |

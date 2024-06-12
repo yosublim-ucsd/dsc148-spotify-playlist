@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Wyatt C\. Louis
 
-1,713 songs - 3 day 16 hr 19 min
+1,714 songs - 3 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 | 2023-08-04 | 2023-09-02 |
 | [Falling Behind](https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Falling Behind](https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw) | 3:48 | 2023-09-01 | 2023-10-06 |
 | [FAMOUS.](https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [FAMOUS.](https://open.spotify.com/album/4JeveqBfuL7HgGLuCns8hG) | 1:55 | 2024-05-03 | 2024-06-08 |
-| [Fan Club](https://open.spotify.com/track/6fLHSJWsR4dyQu6oiyGlNE) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Fan Club](https://open.spotify.com/album/32DDuDDHJzrnQ3HjAd6ysN) | 2:00 | 2024-06-07 |  |
+| [Fan Club](https://open.spotify.com/track/6fLHSJWsR4dyQu6oiyGlNE) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Fan Club](https://open.spotify.com/album/32DDuDDHJzrnQ3HjAd6ysN) | 2:00 | 2024-06-07 | 2024-06-12 |
 | [Fashion Freak](https://open.spotify.com/track/4ltEQhFTyPkD969kxqlPuu) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Amor Hardcore](https://open.spotify.com/album/3HAyLU5CetaZN8mRfI3aAv) | 2:30 | 2022-11-30 | 2023-02-04 |
 | [Fast Life](https://open.spotify.com/track/6qv2lBdSdFof7UY0FLQMvu) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Fast Life](https://open.spotify.com/album/5w5Qyq7m9ZpQPmoRPx0IkF) | 1:55 | 2022-02-04 | 2022-03-05 |
 | [Fatal Flaw](https://open.spotify.com/track/3APUm7NkHTlKjnNeMdAsCy) | [Allegra Jordyn](https://open.spotify.com/artist/2CVFLhroSUN5E5r8FW25LR) | [Fatal Flaw](https://open.spotify.com/album/1yBhmKGCaj9OzjRzvpY2XJ) | 3:32 | 2023-08-04 | 2023-09-02 |
@@ -781,6 +781,7 @@
 | [Jinx](https://open.spotify.com/track/1jlwVdghHRjWUKkP6W1uFB) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Jinx](https://open.spotify.com/album/0xxP3ktTkNDO3XC7upMDi2) | 3:32 | 2022-01-07 | 2022-02-05 |
 | [JOLIGENTIL](https://open.spotify.com/track/622aeJLMWkE4lkkmoWNUFC) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [BLOODMOON](https://open.spotify.com/album/570Dv2BkqT7E8ZStfpNi1Y) | 4:16 | 2024-04-05 | 2024-05-03 |
 | [JOSHUA DESERT](https://open.spotify.com/track/6ZBXzvN3ZPXsJBxDFNOA4t) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [JOSHUA DESERT](https://open.spotify.com/album/6vrMNLdP0mkpMIwk7Gnvoi) | 3:00 | 2022-05-06 | 2022-06-04 |
+| [Joy](https://open.spotify.com/track/2S89P2c2Vk7pn0moME75Mb) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Joy](https://open.spotify.com/album/4gqUCncKr9a5wK98U5e3NR) | 3:32 | 2024-06-11 |  |
 | [Juan Song](https://open.spotify.com/track/22ztW5zxpuWmyowpNgUa3v) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [Juan Song](https://open.spotify.com/album/6REqsoB35rjJIt25v0luuq) | 3:31 | 2022-05-06 | 2022-06-04 |
 | [Judge Me](https://open.spotify.com/track/0sWwA3apfTCkLMMrivpPeJ) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Judge Me](https://open.spotify.com/album/1koBXSMqbuHkIbQhaTQ7V5) | 3:20 | 2022-03-04 | 2022-04-02 |
 | [Juice](https://open.spotify.com/track/7F0vG9Iygq00mmlzsDltM5) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Juice](https://open.spotify.com/album/3cHMUPKv4O5wkvonGQO24o) | 2:30 | 2022-01-07 | 2022-02-05 |

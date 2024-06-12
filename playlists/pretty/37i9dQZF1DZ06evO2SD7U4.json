@@ -1,29 +1,13 @@
 {
-  "description": "This is Botellita De Jerez. The essential tracks, all in one playlist.",
+  "description": "This Is Botellita De Jerez. Los temas esenciales, todos en una lista.",
   "num_followers": 3783,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAAsHsNgO9rmUHzOKYcWrKG6",
+  "snapshot_id": "ZmZCAAAAAAATM8NAUF6Jry02nGM795MY",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Botellita De Jerez",
-        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Alarmala De Tos",
-      "url": "https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 222226,
       "name": "Ni\u00f1a de Mis Ojos",
       "url": "https://open.spotify.com/track/49D7h2TW0SqGTPuZA7S7c1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Botellita De Jerez",
+        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Alarmala De Tos",
+      "url": "https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 40733,
-      "name": "Carefoca\u00b4s Swing",
-      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
+      "duration_ms": 213200,
+      "name": "El Chin Pun Cuaz",
+      "url": "https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando Patria",
-        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 213200,
-      "name": "El Chin Pun Cuaz",
-      "url": "https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV"
+      "duration_ms": 40733,
+      "name": "Carefoca\u00b4s Swing",
+      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
     },
     {
       "added_at": null,

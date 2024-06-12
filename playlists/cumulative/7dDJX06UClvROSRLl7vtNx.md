@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-398 songs - 17 hr 25 min
+399 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Sleep](https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C) | [ConKi](https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Runforrest](https://open.spotify.com/artist/6m4TPomVwYgFtvzRDjaaF5) | [Sleep](https://open.spotify.com/album/49rPIZxBEwNFxZSdhcjiMr) | 2:58 | 2024-04-21 |  |
 | [Slow Down](https://open.spotify.com/track/0fmiU57491EXzACkiKJrLN) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Slow Down](https://open.spotify.com/album/1tzUJiSHMB30oeNy1EHRQW) | 2:17 | 2023-10-01 | 2024-01-28 |
 | [Smalltown Boy](https://open.spotify.com/track/2rMogniPbEZEDIBnZmg9MY) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q), [Chill Covers](https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc) | [Smalltown Boy](https://open.spotify.com/album/2YplDs9AvBIDnz2YX9W40D) | 2:30 | 2023-11-12 |  |
-| [Smell The Roses \(feat\. Gavriel\)](https://open.spotify.com/track/7nQ74Lp7FvDTCzmP4CXzpy) | [Survol](https://open.spotify.com/artist/3NGnHk3VEx1z4Yihzzc6Ou), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Smell The Roses](https://open.spotify.com/album/6vVIdug5q8YayFDgKOx3MG) | 2:42 | 2024-06-01 |  |
+| [Smell The Roses](https://open.spotify.com/track/7nQ74Lp7FvDTCzmP4CXzpy) | [Survol](https://open.spotify.com/artist/3NGnHk3VEx1z4Yihzzc6Ou), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Smell The Roses](https://open.spotify.com/album/6vVIdug5q8YayFDgKOx3MG) | 2:42 | 2024-06-01 |  |
 | [Smile Again](https://open.spotify.com/track/2mGvo3ClBGV0nJQ89wswui) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Smile Again](https://open.spotify.com/album/6NEWWH4PLY1AyS6VahHYmx) | 2:18 | 2023-10-27 | 2024-04-16 |
 | [Smooth Operator](https://open.spotify.com/track/0EnilVWwRs0G4VeijF8c4O) | [Beachlife](https://open.spotify.com/artist/2kWRTTOH8rNyFCcFJgPYqF) | [Smooth Operator](https://open.spotify.com/album/4kvcwzM0CsmqnYGgkGX7HM) | 3:12 | 2023-10-07 | 2024-01-15 |
 | [Smooth Operator](https://open.spotify.com/track/3z9W9fT8TFFeBY3t5WGLmm) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Smooth Operator](https://open.spotify.com/album/0yv0ZcxUJ5wUxRXYpL21Gk) | 3:06 | 2023-12-12 |  |
@@ -401,6 +401,7 @@
 | [Wondrous](https://open.spotify.com/track/6AZ2iSCR0pzqutaeBXXooi) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Wondrous](https://open.spotify.com/album/35eoDCF09R5E0R1t6YI5bL) | 2:43 | 2024-02-02 | 2024-04-19 |
 | [Wondrous](https://open.spotify.com/track/7r6dJAxWNa2Y2gIKwpeiKl) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Wondrous](https://open.spotify.com/album/35Zw8yOhUDI7aYJ6payRNU) | 2:43 | 2023-11-10 | 2024-02-03 |
 | [You Bring Me Up](https://open.spotify.com/track/4BoKz5vu9cPFA8hcBBi5HS) | [Løvento](https://open.spotify.com/artist/147Xjr0mly4tsEfY5yLPDC), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [You Bring Me Up](https://open.spotify.com/album/4TKDFj9O3YSUSFkUqw1JgH) | 2:33 | 2024-04-15 |  |
+| [You Might](https://open.spotify.com/track/1oinzBaNm1f9ekaMB3dfKs) | [Gktrk](https://open.spotify.com/artist/2hoTdea8RAt8OxW7RIcR6d), [Raïko](https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4) | [You Might](https://open.spotify.com/album/46eBS54UdLP5VuqTuhQ21G) | 3:23 | 2024-06-11 |  |
 | [You're Somebody Else](https://open.spotify.com/track/2wLIUEezoxZDKBtK3Qzmbk) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [You're Somebody Else](https://open.spotify.com/album/7rfuNg4YLJnnAOCni8HEfq) | 2:38 | 2024-02-10 | 2024-04-16 |
 | [You're The One](https://open.spotify.com/track/5HHDQBZzFWm00giwxPSF51) | [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT) | [You're The One](https://open.spotify.com/album/5b0KyQO9kGU0w9z4nmWU8A) | 2:53 | 2024-05-04 |  |
 | [You've Got the Love](https://open.spotify.com/track/0VYbWQ55gP8h8WepmgJjHI) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Louise CS](https://open.spotify.com/artist/0dn1gA4vEmgPxarhdWcLCM) | [You've Got the Love](https://open.spotify.com/album/0qRHUIyo4izAh674KJrMe2) | 3:00 | 2023-09-22 | 2024-06-10 |

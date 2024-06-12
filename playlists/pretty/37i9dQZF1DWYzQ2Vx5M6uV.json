@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 116023,
+  "num_followers": 116015,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
+        "name": "WONDALAND",
+        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "MOSLADO",
+      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
         "name": "Afrobocelli",
         "url": "https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 218733,
       "name": "Afrobocelli",
       "url": "https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
-        "name": "WONDALAND",
-        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "MOSLADO",
-      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
     },
     {
       "added_at": "2024-06-07 09:14:55",

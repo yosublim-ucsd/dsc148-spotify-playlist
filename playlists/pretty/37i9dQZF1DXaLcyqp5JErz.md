@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,447 likes - 70 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,513 likes - 70 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 3 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 |
 | 4 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 |
 | 5 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |
-| 6 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 |
-| 7 | [Arde Outra Vez](https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Na Sala do Pai](https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V) | 7:10 |
+| 6 | [Arde Outra Vez](https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Na Sala do Pai](https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V) | 7:10 |
+| 7 | [Meu Barquinho](https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B) | [Meu Barquinho](https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0) | 4:47 |
 | 8 | [Sou Humano](https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:48 |
 | 9 | [Galileu \- Ao Vivo](https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Galileu \(ao Vivo\)](https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3) | 5:25 |
 | 10 | [Deus é Deus](https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Nada Além da Graça](https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV) | 4:31 |

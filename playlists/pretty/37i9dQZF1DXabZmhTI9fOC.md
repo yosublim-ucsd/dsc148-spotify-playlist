@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,607 likes - 225 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,620 likes - 225 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

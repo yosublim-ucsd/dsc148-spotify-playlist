@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,179 likes - 41 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,186 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 17 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 |
 | 18 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 |
 | 19 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 |
-| 20 | [Sad Girl Summer](https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Sad Girl Summer](https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse) | 2:58 |
-| 21 | [Back Pew](https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 |
+| 20 | [Back Pew](https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Runnin’ Outta Time](https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK) | 3:12 |
+| 21 | [Sad Girl Summer](https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Sad Girl Summer](https://open.spotify.com/album/5tRiNa7N3ILmcbx0EFaSse) | 2:58 |
 | 22 | [Sound Of A Heartbreak](https://open.spotify.com/track/2p4m654rK4ovizIpqTGSaF) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Sound Of A Heartbreak](https://open.spotify.com/album/3SDuRmpRWHaonAyJgG0wKu) | 2:38 |
 | 23 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
 | 24 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 30 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 31 | [Streetwise](https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e), [xmal](https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H) | [Streetwise](https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv) | 2:06 |
 | 32 | [Can't Be Still](https://open.spotify.com/track/6XUTviMKLT68nRa3Sowgn2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/2jCBWWbsHm37ZGLybkiJvF) | 2:58 |
-| 33 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
-| 34 | [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 |
+| 33 | [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 |
+| 34 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
 | 35 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 36 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 37 | [Breaking News \(feat\. Rico Nasty & Kilo Kish\)](https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [Handle With Care](https://open.spotify.com/album/4oxjxQHLiK29jfYVlZjcEt) | 2:48 |

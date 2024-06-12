@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 137267,
+  "num_followers": 137288,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 301850,
+      "name": "Si Te Portas Bonito",
+      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Brazilian Compilation Series, Vol. 2",
         "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 300000,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Si Te Portas Bonito",
-        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 301850,
-      "name": "Si Te Portas Bonito",
-      "url": "https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
     },
     {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
       "added_at": "2024-03-07 19:13:49",
       "album": {
         "name": "Bella",
@@ -615,22 +631,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Feel The Heat",
-        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
-      },
-      "artists": [
-        {
-          "name": "Bon Lui",
-          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
-        }
-      ],
-      "duration_ms": 319677,
-      "name": "Feel The Heat",
-      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
-    },
-    {
       "added_at": "2023-10-28 00:57:17",
       "album": {
         "name": "Madres",
@@ -1107,6 +1091,22 @@
       "duration_ms": 236129,
       "name": "Madres",
       "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6"
+      },
+      "artists": [
+        {
+          "name": "Bon Lui",
+          "url": "https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg"
+        }
+      ],
+      "duration_ms": 319677,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Rain Check",
         "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Juniore",
-        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
       "artists": [
         {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
         }
       ],
-      "duration_ms": 218040,
-      "name": "A la plage",
-      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
+      "duration_ms": 240000,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1251,6 +1235,22 @@
       "duration_ms": 261224,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Juniore",
+        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A la plage",
+      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Jogar",
-        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
-      },
-      "artists": [
-        {
-          "name": "Souleance",
-          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
-        }
-      ],
-      "duration_ms": 259750,
-      "name": "Segrados Do Samba",
-      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 451362,
       "name": "Girl",
       "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Jogar",
+        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
+      },
+      "artists": [
+        {
+          "name": "Souleance",
+          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
+        }
+      ],
+      "duration_ms": 259750,
+      "name": "Segrados Do Samba",
+      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Keep On It",
+        "url": "https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ"
+      },
+      "artists": [
+        {
+          "name": "Mar Vei",
+          "url": "https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI"
+        }
+      ],
+      "duration_ms": 257075,
+      "name": "Keep On It",
+      "url": "https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 229386,
       "name": "Boney M Down",
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Keep On It",
-        "url": "https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ"
-      },
-      "artists": [
-        {
-          "name": "Mar Vei",
-          "url": "https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI"
-        }
-      ],
-      "duration_ms": 257075,
-      "name": "Keep On It",
-      "url": "https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ"
     },
     {
       "added_at": "2023-08-14 14:58:41",

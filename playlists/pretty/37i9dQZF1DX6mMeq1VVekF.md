@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Lancey Foux
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,704 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,718 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 17 | [The Mantra \- Heat in the Street Freestyle](https://open.spotify.com/track/58E4qtpkOmMqbJxHM1dm6I) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [The Mantra \(Heat in the Street Freestyle\)](https://open.spotify.com/album/3dZaDT52KPLtRFvt7xs3AD) | 1:37 |
 | 18 | [Sweet Boys Turned Sour](https://open.spotify.com/track/31QmFXYklf0s872nAp3GUg) | [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ) | [Sweet Boys Turned Sour](https://open.spotify.com/album/6Gr9Upfd4Xf8rIgIbCfVVn) | 3:12 |
 | 19 | [Marley Flow](https://open.spotify.com/track/7KhqcuwBgF2myOiucn5w2R) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Marley Flow](https://open.spotify.com/album/1dMnuVDSbgwh6EHyJsfeqM) | 3:10 |
-| 20 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 |
+| 20 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
 | 21 | [pocket](https://open.spotify.com/track/1fbLUwk34YPUrcxITkuF6V) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Good Friday 2](https://open.spotify.com/album/1tEix482Jwi92KYAmq9d1D) | 2:05 |
-| 22 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
+| 22 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 |
 | 23 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
 | 24 | [The Curb](https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [The Curb](https://open.spotify.com/album/40w80xZ6Qg785sg4XRrHmV) | 3:32 |
 | 25 | [HOTnKOLD \(feat\. BXKS\)](https://open.spotify.com/track/02Vl9QdBH7GvFbaBzhXHMW) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [COBALT: SOMUCHMoRE](https://open.spotify.com/album/6Z0u6ZZA5DISPvzMXbfGx8) | 2:31 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 31 | [Energy](https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Energy](https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD) | 2:56 |
 | 32 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
 | 33 | [Bring Me Up](https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Bring Me Up](https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz) | 2:22 |
-| 34 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 |
-| 35 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
+| 34 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
+| 35 | [Los Pollos Hermanos](https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Los Pollos Hermanos](https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM) | 1:35 |
 | 36 | [Step by Step](https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Step by Step](https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe) | 3:45 |
 | 37 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
 | 38 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 |

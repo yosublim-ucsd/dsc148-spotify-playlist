@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=1no\-\_9A0RySzCGhZdGWScw">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,862 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,913 likes - 70 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

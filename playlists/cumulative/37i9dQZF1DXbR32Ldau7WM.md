@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now!  Cover: Plastic Tree
+> The biggest rock artists in Japan right now!  Cover: Crossfaith
 
-1,064 songs - 2 day 22 hr 22 min
+1,065 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bayside Lover](https://open.spotify.com/track/0hQfPQFUIkORbgj6rZtswa) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/6d2qlAU7swT2j5rkSwrGFd) | 3:26 | 2022-11-29 | 2022-12-01 |
 | [Bayside Lover](https://open.spotify.com/track/28hG6uREADxqxdfg7mQUzC) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [Ken Yokoyama](https://open.spotify.com/artist/3P0HfRJSGDbTYjSeYPAqVs) | [Bayside Lover](https://open.spotify.com/album/0dM5w3G09YZRE7SN3eMsbe) | 3:26 | 2022-11-29 | 2022-12-14 |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2022-05-10 | 2023-02-22 |
-| [Beast Mode](https://open.spotify.com/track/72RapxkrkCUmGvd4ojwxSZ) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode / Octave](https://open.spotify.com/album/05bEOygcDYO7vClLouhuuQ) | 4:10 | 2024-05-28 |  |
+| [Beast Mode](https://open.spotify.com/track/72RapxkrkCUmGvd4ojwxSZ) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode / Octave](https://open.spotify.com/album/05bEOygcDYO7vClLouhuuQ) | 4:10 | 2024-05-28 | 2024-06-12 |
 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-07 | 2023-02-08 |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 | 2023-06-09 |
 | [birdy](https://open.spotify.com/track/4RsLOdf3aH9UndQVzdBJXu) | [Bloodthirsty Butchers](https://open.spotify.com/artist/63qkJPRz0f5lssgosVUum1) | [birdy](https://open.spotify.com/album/46sDbfKKTHlXaY9rVlpDFT) | 4:41 | 2024-01-23 | 2024-01-31 |
@@ -265,7 +265,7 @@
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2023-06-27 | 2024-04-19 |
-| [L.A.M.N](https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N](https://open.spotify.com/album/3pNIxjpfSByM75kDQJCT9O) | 2:42 | 2024-04-23 |  |
+| [L.A.M.N](https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N](https://open.spotify.com/album/3pNIxjpfSByM75kDQJCT9O) | 2:42 | 2024-04-23 | 2024-06-12 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-21 | 2023-04-26 |
 | [LAST FOREVER](https://open.spotify.com/track/1v8PMncTxjuhu0n6Lr15dX) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/1rWSXluWjnTFoCdLC2WJiu) | 4:16 | 2023-05-16 | 2023-05-18 |
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-05-16 | 2023-06-07 |
@@ -607,6 +607,7 @@
 | [Wanna Wanna Do](https://open.spotify.com/track/15j2NH07boLC7GerPS3Lwq) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Wanna Wanna Do](https://open.spotify.com/album/3qJYXbayDKvI4ZN5SC3Rtz) | 2:50 | 2024-02-27 | 2024-04-04 |
 | [Waratteokure](https://open.spotify.com/track/4Yn9nYaGEjHA9R7oEU0Xyi) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [LOVE&PEACE!MASTERPEACE!](https://open.spotify.com/album/4BMVhIUdTJ8tos2dDXm3nt) | 4:33 | 2023-12-05 | 2023-12-13 |
 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 | 2023-10-10 | 2023-11-01 |
+| [Warriors](https://open.spotify.com/track/6SiLb2AJVSRIv7EODUou2d) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Warriors](https://open.spotify.com/album/1VYUoVJpO8mqfNGIzw0FxY) | 3:59 | 2024-06-11 |  |
 | [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 | 2023-10-03 | 2023-10-11 |
 | [We Will Never Give Up](https://open.spotify.com/track/3JiRL0aueGceNcM0lH2rtt) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [We Will Never Give Up](https://open.spotify.com/album/47q1dJtdX5WL2GVlSGCOaN) | 4:10 | 2023-08-15 | 2023-08-23 |
 | [Weekend](https://open.spotify.com/track/2FWDTbucnvUDT2pv3HR5Jl) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [Weekend](https://open.spotify.com/album/1K5jez1Rj40wTRegT4BK15) | 3:55 | 2022-06-21 | 2022-07-14 |
@@ -843,7 +844,7 @@
 | [三叉路のふたり](https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz) | [Moonriders](https://open.spotify.com/artist/01o8KYRik9Eb3RbAm4T2hh) | [It's the moooonriders](https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc) | 2:56 | 2022-05-12 | 2022-05-18 |
 | [下を向いて歩こう](https://open.spotify.com/track/1asktHGEURdlQRGFGWLpi9) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [下を向いて歩こう](https://open.spotify.com/album/17UUaCzdhyI4M9lXWP5qUK) | 5:02 | 2023-10-17 | 2023-11-11 |
 | [世界の真昼](https://open.spotify.com/track/7CvhO8yF4Xw0mbrBLQXrSB) | [割礼](https://open.spotify.com/artist/4BrmvqrDvcagflvt6lFNJ1) | [セカイノマヒル](https://open.spotify.com/album/7keZGSUJVc4X1Dbfcxro6m) | 4:12 | 2022-05-12 | 2022-06-06 |
-| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-12-12 | 2024-06-10 |
+| [世界の終わり \- Primitive Version](https://open.spotify.com/track/0c6f2H2CXN779Ooh3GrcmT) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [cult grass stars](https://open.spotify.com/album/4XSgfMQODTOQYV1uPGKQ5n) | 5:46 | 2023-12-12 |  |
 | [世界はこのまま変わらない](https://open.spotify.com/track/5LWAMBZqkfFzZ4lJvI4pNP) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [感覚は道標](https://open.spotify.com/album/0ueyYjPqJg4dWaDDTlnPfz) | 4:14 | 2023-10-03 | 2023-10-05 |
 | [世界は変わる](https://open.spotify.com/track/6uUXrI5TQTnrDgWj08OuoL) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [世界は変わる](https://open.spotify.com/album/5LdgdWiTXcrbTI5qkUh244) | 3:22 | 2022-06-09 | 2022-07-14 |
 | [乱土](https://open.spotify.com/track/3XOQImZq2wMFCJXFRPbsqU) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 2:05 | 2024-01-23 | 2024-01-31 |

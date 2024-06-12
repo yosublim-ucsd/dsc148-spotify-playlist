@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 55787,
+  "num_followers": 55830,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Spirit of the Forest",
         "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 163989,
       "name": "Spirit of the Forest",
       "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "SOUL VOICES",
         "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 463164,
       "name": "Soul Voices",
       "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -919,6 +919,34 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Pilled Up on a Couple of Doves",
+        "url": "https://open.spotify.com/album/0J8haEuiXYtr6z7Pg4HFz6"
+      },
+      "artists": [
+        {
+          "name": "PDP III",
+          "url": "https://open.spotify.com/artist/2Esvw7cg26pnkY21vbFuos"
+        },
+        {
+          "name": "Britton Powell",
+          "url": "https://open.spotify.com/artist/2JrU8x8JbXJRhiVNvvXpxV"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        },
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 339692,
+      "name": "Calendar of Days",
+      "url": "https://open.spotify.com/track/4BCCwuUMSjpOzpoBJJ6eYo"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
       },
@@ -951,22 +979,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Saturna",
         "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
       },
@@ -979,6 +991,22 @@
       "duration_ms": 126187,
       "name": "Saturna",
       "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1035,34 +1063,6 @@
       "duration_ms": 473075,
       "name": "Illogical Lullaby",
       "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Pilled Up on a Couple of Doves",
-        "url": "https://open.spotify.com/album/0J8haEuiXYtr6z7Pg4HFz6"
-      },
-      "artists": [
-        {
-          "name": "PDP III",
-          "url": "https://open.spotify.com/artist/2Esvw7cg26pnkY21vbFuos"
-        },
-        {
-          "name": "Britton Powell",
-          "url": "https://open.spotify.com/artist/2JrU8x8JbXJRhiVNvvXpxV"
-        },
-        {
-          "name": "Lucy Railton",
-          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
-        },
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 339692,
-      "name": "Calendar of Days",
-      "url": "https://open.spotify.com/track/4BCCwuUMSjpOzpoBJJ6eYo"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Dango (Colloid Version)",
-        "url": "https://open.spotify.com/album/5tbc91panu3bb9H1Cg3ull"
-      },
-      "artists": [
-        {
-          "name": "Satomimagae",
-          "url": "https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf"
-        }
-      ],
-      "duration_ms": 268555,
-      "name": "Dango - Colloid Version",
-      "url": "https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Japanese Summer Lost",
         "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+        "name": "Dango (Colloid Version)",
+        "url": "https://open.spotify.com/album/5tbc91panu3bb9H1Cg3ull"
       },
       "artists": [
         {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+          "name": "Satomimagae",
+          "url": "https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf"
         }
       ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
+      "duration_ms": 268555,
+      "name": "Dango - Colloid Version",
+      "url": "https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+      },
+      "artists": [
+        {
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
-      },
-      "artists": [
-        {
-          "name": "Hisaki Kato",
-          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
-        }
-      ],
-      "duration_ms": 146993,
-      "name": "Prologue",
-      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Grand Views",
         "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
       },
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+        "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
       },
       "artists": [
         {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+          "name": "Hisaki Kato",
+          "url": "https://open.spotify.com/artist/0Fcjo0ht8BO6LJTIujUC2U"
         }
       ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+      "duration_ms": 146993,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/4ZekhHXJ8lBq2moSWDAT9Y"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1835,22 +1835,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
       "artists": [
         {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
-        },
-        {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
         }
       ],
-      "duration_ms": 96450,
-      "name": "Clotho",
-      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
     }
   ],
   "unique_name": "ethereal voices",

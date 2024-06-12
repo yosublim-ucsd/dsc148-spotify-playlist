@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,944 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,974 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 4 | [Nafas](https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Selim Kusur](https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi), [Glen Velez](https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr), [Setrak Sarkissian](https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc) | [Nafas](https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy) | 1:34 |
 | 5 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
 | 6 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
-| 7 | [Callipyge](https://open.spotify.com/track/7y3dNztX8wlDmkbRd5QgWg) | [Toufic Farroukh](https://open.spotify.com/artist/1qEcIbzDD8hnKqIuFA0Uag) | [Drab Zeen](https://open.spotify.com/album/4ROXK7Hp0z9BJtX5j4cndo) | 2:22 |
-| 8 | [Nawwâr](https://open.spotify.com/track/70WgBnBaeDzJWxJTjgFijm) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Asfâr](https://open.spotify.com/album/3MJ3XAgSv92V5VcZTBXYlx) | 4:39 |
+| 7 | [Nawwâr](https://open.spotify.com/track/70WgBnBaeDzJWxJTjgFijm) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Asfâr](https://open.spotify.com/album/3MJ3XAgSv92V5VcZTBXYlx) | 4:39 |
+| 8 | [Callipyge](https://open.spotify.com/track/7y3dNztX8wlDmkbRd5QgWg) | [Toufic Farroukh](https://open.spotify.com/artist/1qEcIbzDD8hnKqIuFA0Uag) | [Drab Zeen](https://open.spotify.com/album/4ROXK7Hp0z9BJtX5j4cndo) | 2:22 |
 | 9 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
 | 10 | [Tal'aa Min Beit Abouha](https://open.spotify.com/track/3J7o3mkgNbD9iayT580hao) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:19 |
 | 11 | [Hal Asmar El\-Lon](https://open.spotify.com/track/1LJfErM0iTdKxp2BOM3sEA) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 5:22 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Megan Thee Stallion. Los temas esenciales, todos en una lista.",
-  "num_followers": 271692,
+  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
+  "num_followers": 271771,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAD9vubLV60EiP0YQDVXZbXV",
+  "snapshot_id": "ZmZCAAAAAAC7q+gzY/eFn0DWZNhNqZ+v",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
       "duration_ms": 154732,
       "name": "BOA",
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
     },
     {
       "added_at": null,
@@ -191,34 +171,6 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-        "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
     },
     {
       "added_at": null,
@@ -391,6 +343,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+        "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
+      "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butter (Megan Thee Stallion Remix)",
         "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
       },
@@ -407,26 +383,6 @@
       "duration_ms": 164457,
       "name": "Butter (Megan Thee Stallion Remix)",
       "url": "https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 154433,
-      "name": "Ungrateful (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
     },
     {
       "added_at": null,
@@ -467,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 154433,
+      "name": "Ungrateful (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/6vA7RdHmU23h3ygUPPFXz5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
       },
@@ -483,30 +459,6 @@
       "duration_ms": 192539,
       "name": "Cash Shit (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
-        "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
-      "url": "https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2"
     },
     {
       "added_at": null,
@@ -927,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 143957,
+      "name": "All Dat (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woptober II",
         "url": "https://open.spotify.com/album/6hopdoEE79EsQ6mjjBUbFU"
       },
@@ -979,6 +951,22 @@
       "duration_ms": 183142,
       "name": "B.I.T.C.H.",
       "url": "https://open.spotify.com/track/06scTb0zbkxYNgpAB3J9fN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 170641,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

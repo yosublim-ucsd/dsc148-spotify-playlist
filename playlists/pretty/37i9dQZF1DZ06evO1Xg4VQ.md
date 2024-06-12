@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This Is Lila Downs\. Los temas esenciales, todos en una lista.
+> This is Lila Downs\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 69,104 likes - 51 songs - 3 hr 10 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 50 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 |
 | 51 | [La San Marqueña](https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:10 |
 
-Snapshot ID: `ZmTwgAAAAAA7iKrTo2SJznvwy0K9Mbsp`
+Snapshot ID: `ZmZCAAAAAAB00s2PB4EJJ/8DYOGI0EHx`

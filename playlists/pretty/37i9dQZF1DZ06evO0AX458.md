@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,350 likes - 39 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,351 likes - 39 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 9 | [Palm Dreams](https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:26 |
 | 10 | [Home Away from Here](https://open.spotify.com/track/698tUiegVocxceqJSBKK4S) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:50 |
 | 11 | [Come Heroine](https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:50 |
-| 12 | [To Write Content \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/0m6G3bInllyMRVfNQATn49) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:57 |
+| 12 | [DNA \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:08 |
 | 13 | [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 |
 | 14 | [Uppers / Downers](https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 |
 | 15 | [Feign](https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:48 |
-| 16 | [DNA \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:08 |
+| 16 | [Kerosene \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 1:42 |
 | 17 | [Displacement](https://open.spotify.com/track/1cgbkpTMiVUsmNhBfL9MJf) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:11 |
 | 18 | [The Great Repetition](https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:48 |
 | 19 | [Lament](https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:20 |
-| 20 | [Kerosene \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 1:42 |
+| 20 | [To Write Content \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/0m6G3bInllyMRVfNQATn49) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:57 |
 | 21 | [Eight Seconds](https://open.spotify.com/track/4zyomJpB6fgmXZ6A79721l) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 1:32 |
 | 22 | [Honest Sleep](https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 2:32 |
 | 23 | [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 38 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 |
 | 39 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 |
 
-Snapshot ID: `ZmTwgAAAAAB5MsiKcvatlKegXDM/BkBG`
+Snapshot ID: `ZmZCAAAAAADuQPV8cIvD2MnQcLdwJrjA`

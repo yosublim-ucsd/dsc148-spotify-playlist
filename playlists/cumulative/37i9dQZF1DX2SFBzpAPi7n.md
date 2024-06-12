@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
 
-696 songs - 1 day 18 hr 7 min
+697 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [BLEACHING \(feat\. Crush\)](https://open.spotify.com/track/1hRKY6hYZZ7jLsUJvsG32J) | [MILLIC](https://open.spotify.com/artist/3fHPyTsMe9svn7cz1MWbfx), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [\~](https://open.spotify.com/album/04Sfl1yGp1CuMYDA0RuNhg) | 4:04 | 2023-06-13 | 2023-06-23 |
 | [Blessed \(Punk Tech\-XI Remix\)](https://open.spotify.com/track/2Waqgry98Xo11k2LdArGL0) | [D'scoTech\-XI](https://open.spotify.com/artist/3FWym5aKInnu807CBuJhGA), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [DTX 1st : Blessed ride](https://open.spotify.com/album/6qHCN2r5Y8smeXRDhkT5eS) | 3:03 | 2023-02-14 | 2023-02-24 |
 | [Bloomer](https://open.spotify.com/track/53J8QLyMIkwMwRVLKDkiFM) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Bloomer](https://open.spotify.com/album/14g0sNqOr1UXqvXCSpdmkL) | 4:24 | 2022-07-04 | 2022-07-23 |
+| [Blue Moon](https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Once in a BLUE MOON](https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4) | 3:35 | 2024-06-07 |  |
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 |  |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
@@ -208,7 +209,7 @@
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-05-24 | 2023-04-06 |
 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 | 2022-08-12 | 2022-08-19 |
-| [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-06 |  |
+| [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-06 | 2024-06-12 |
 | [Going On](https://open.spotify.com/track/05hmP7we4C8bf4DLcrcxeo) | [PAGO](https://open.spotify.com/artist/3M4zeC84P7onkK1PsrI1cE) | [Going On](https://open.spotify.com/album/0VGsRsvO6Cdi5C8qA7A2Kz) | 4:22 | 2022-04-22 | 2022-05-11 |
 | [Golden Hour](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Golden Hour \- SM STATION : NCT LAB](https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR) | 3:19 | 2024-06-05 |  |
 | [Golden Mask](https://open.spotify.com/track/4g7Up38eOByMRnGX6SiHw5) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Golden Mask](https://open.spotify.com/album/2mxkNX39Eoi2NSX7B67xVe) | 4:01 | 2023-05-12 | 2023-06-14 |

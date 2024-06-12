@@ -2,9 +2,9 @@
 
 ### [This Is Gabito Ballesteros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43Xw6T)
 
-> This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
+> This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 27 min
+71 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,13 @@
 | [Arriba Las Manos](https://open.spotify.com/track/6XJIs2gL8FwY2qmhd8YIgx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [XX](https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ) | 2:16 | 2024-05-24 |  |
 | [Así Es El Amor](https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:37 | 2024-02-13 | 2024-02-25 |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2024-01-29 |  |
-| [BELIKON](https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:33 | 2024-05-27 |  |
+| [BELIKON](https://open.spotify.com/track/3cZ7HCLpXjKGy0mLNNPvxr) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:33 | 2024-05-27 | 2024-06-12 |
 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2NevP3nWVRhKbdHXWWCksP) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Torbellino](https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF) | 3:12 | 2024-05-26 |  |
 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1) | 3:12 | 2024-01-29 | 2024-05-26 |
 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 | 2024-01-29 |  |
 | [Dante](https://open.spotify.com/track/51ekFzMssWoTd3esRVbg4M) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Dante](https://open.spotify.com/album/3RfvANcRyder97orXrfuBp) | 2:55 | 2024-01-29 | 2024-06-02 |
 | [DIME QUE HAY QUE HACER \(with Gabito Ballesteros\)](https://open.spotify.com/track/1NI2e5ins81xjWlohNsqZm) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:58 | 2024-01-29 | 2024-05-19 |
+| [Dolido](https://open.spotify.com/track/5Y2Lozc5neSagsc8250JDj) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:55 | 2024-06-12 |  |
 | [El Agujero](https://open.spotify.com/track/3nIbByNpERy2YQnBJLwVVl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:23 | 2024-01-29 |  |
 | [El Boss](https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Boss](https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk) | 3:45 | 2024-03-30 |  |
 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 | 2024-01-29 |  |

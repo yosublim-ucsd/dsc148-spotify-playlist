@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Be\u00e9le x Maria Becerra x JoeBoy x Humby",
-  "num_followers": 53794,
+  "num_followers": 53791,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARlBeZFs9vrMaE8Erq17cGJ/9Y9z+H",
+  "snapshot_id": "AAARmvX+gZqfDzrOVQt3KqoZhBxboatg",
   "tracks": [
     {
       "added_at": "2024-06-07 01:52:05",
@@ -161,6 +161,70 @@
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
+      "added_at": "2024-04-25 00:18:05",
+      "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-06-11 15:58:51",
+      "album": {
+        "name": "Sensible",
+        "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 205290,
+      "name": "Sensible",
+      "url": "https://open.spotify.com/track/5hezYkGjsT559hGnJsKUyN"
+    },
+    {
+      "added_at": "2023-09-01 00:31:01",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
+    },
+    {
+      "added_at": "2024-05-17 04:57:00",
+      "album": {
+        "name": "DARUMAS",
+        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 186908,
+      "name": "Mago",
+      "url": "https://open.spotify.com/track/0Q4oppQ566CUYqfPhbkQB9"
+    },
+    {
       "added_at": "2024-05-31 12:12:16",
       "album": {
         "name": "Cafecito",
@@ -183,38 +247,6 @@
       "duration_ms": 154710,
       "name": "Cafecito",
       "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
-    },
-    {
-      "added_at": "2024-05-31 20:21:57",
-      "album": {
-        "name": "FRANCISCO",
-        "url": "https://open.spotify.com/album/1GY1TKnZp8ITZI3ZNVeCXw"
-      },
-      "artists": [
-        {
-          "name": "Neeus",
-          "url": "https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "No Import\u00f3",
-      "url": "https://open.spotify.com/track/5f85eyVFDkF2REjrJJvhxh"
-    },
-    {
-      "added_at": "2024-05-17 04:57:00",
-      "album": {
-        "name": "DARUMAS",
-        "url": "https://open.spotify.com/album/0sUg9ENEYuVX1LLci90JxS"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 186908,
-      "name": "Mago",
-      "url": "https://open.spotify.com/track/0Q4oppQ566CUYqfPhbkQB9"
     },
     {
       "added_at": "2024-05-31 12:49:57",
@@ -241,6 +273,22 @@
       "url": "https://open.spotify.com/track/5tt2V5NfowSz690MCLBlKO"
     },
     {
+      "added_at": "2024-05-31 20:21:57",
+      "album": {
+        "name": "FRANCISCO",
+        "url": "https://open.spotify.com/album/1GY1TKnZp8ITZI3ZNVeCXw"
+      },
+      "artists": [
+        {
+          "name": "Neeus",
+          "url": "https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "No Import\u00f3",
+      "url": "https://open.spotify.com/track/5f85eyVFDkF2REjrJJvhxh"
+    },
+    {
       "added_at": "2024-05-31 12:55:33",
       "album": {
         "name": "Posdata:",
@@ -255,22 +303,6 @@
       "duration_ms": 169162,
       "name": "Posdata:",
       "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
-    },
-    {
-      "added_at": "2024-04-25 00:18:05",
-      "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2024-05-03 00:08:39",
@@ -2667,22 +2699,6 @@
       "duration_ms": 173547,
       "name": "Copa Vac\u00eda",
       "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
-    },
-    {
-      "added_at": "2023-09-01 00:31:01",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
     },
     {
       "added_at": "2023-09-01 00:31:01",

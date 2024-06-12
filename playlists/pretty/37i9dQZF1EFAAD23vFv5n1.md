@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 932 likes - 111 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 933 likes - 111 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 29 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 |
 | 30 | [Ricomincio da tre \(feat\. Fulminacci\)](https://open.spotify.com/track/1Kgamo1ceMHjNvizIFNavf) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CRUSH](https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5) | 3:12 |
 | 31 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 |
-| 32 | [E PENSIER MI](https://open.spotify.com/track/1v0mhr3VzTSpzHRylqXk4E) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:37 |
-| 33 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 |
+| 32 | [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 |
+| 33 | [E PENSIER MI](https://open.spotify.com/track/1v0mhr3VzTSpzHRylqXk4E) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:37 |
 | 34 | [THE WORLD IS YOURS](https://open.spotify.com/track/4UaGQWKASSvNQZ2D1wRzel) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:06 |
 | 35 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 |
 | 36 | [Fossi come te](https://open.spotify.com/track/5pafOHmAwdomCxamPvH4Rv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/3JzyaYeVAQhbiq3ALmlneb) | 3:03 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 78 | [CHE MUTANDE HAI v9](https://open.spotify.com/track/4QWsUSBK8aL8nNwqtF9MWS) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:22 |
 | 79 | [Cosa volevi da me](https://open.spotify.com/track/5du0P9jrdjk30gjVcCfUBO) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Indico](https://open.spotify.com/album/47sbHniMtApzvNu7FZDOje) | 2:56 |
 | 80 | [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 |
-| 81 | [infarto v666](https://open.spotify.com/track/2XGsNDowDiiIYrjaDgWya5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:59 |
-| 82 | [Apatia](https://open.spotify.com/track/4zRo75TW6X6zdu8In4qPIm) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 3:08 |
+| 81 | [Apatia](https://open.spotify.com/track/4zRo75TW6X6zdu8In4qPIm) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 3:08 |
+| 82 | [infarto v666](https://open.spotify.com/track/2XGsNDowDiiIYrjaDgWya5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:59 |
 | 83 | [IO HO PAURA v0](https://open.spotify.com/track/5M9BvqGIf9yOVQ192vITVR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:37 |
 | 84 | [POV](https://open.spotify.com/track/2c0BAH4Q2KiNTEoF91Xeyr) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:40 |
 | 85 | [asimmetrico v10](https://open.spotify.com/track/79w1RDXWcQxtgjWn3ca4iZ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:04 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 110 | [Hotel Corallo](https://open.spotify.com/track/7tjhWatS9Fha34m8Q9YxKW) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 3:29 |
 | 111 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `AbTtrAAAAABCpM7lmD0phS2TUkW4urkq`
+Snapshot ID: `AbTzTAAAAADA5R/Kynu6Zcf7dDnnAMSp`

@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-550 songs - 1 day 13 hr 4 min
+552 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-07 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/1geq0EI4AJRDQIkJZbkAC1) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The Practice of Love](https://open.spotify.com/album/29Chk1LOPq2ZZZGs2th7f1) | 4:15 | 2023-01-17 | 2024-01-12 |
 | [Ashes to Ashes](https://open.spotify.com/track/4Zukdn6jguBDio8x3ILzqF) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Ashes to Ashes](https://open.spotify.com/album/6diOnRFM1wJlqTjJxaePhq) | 4:15 | 2023-01-17 | 2024-05-25 |
+| [Ashes to Ashes](https://open.spotify.com/track/2lJa0SY7vZpvJ7QDFanOuZ) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/05yaXrjKbKZ7hjNx3KtrXR) | 5:10 | 2023-01-17 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894) | 5:10 | 2023-01-17 | 2024-04-19 |
 | [Ashore of the Cosmic Sea](https://open.spotify.com/track/0YRdlcBnQibaFqzVRpe2tR) | [Gloria de Oliveira](https://open.spotify.com/artist/3v9hkdHUrX788NVKB8sijb), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Oceans of Time](https://open.spotify.com/album/0imX1W8lzMviLxmv4PtCjy) | 3:20 | 2023-01-17 |  |
 | [At last 6 falls](https://open.spotify.com/track/6iWFo5Tm8vPttw4B0XSSaJ) | [Black Boboi](https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn) | [SILK](https://open.spotify.com/album/33Zc6DviWdhw8yFGui98cU) | 3:20 | 2023-01-17 |  |
@@ -50,6 +51,7 @@
 | [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-09-25 | 2024-04-19 |
 | [Before We Begin](https://open.spotify.com/track/4yx0aYJgnWIy18akJtxmON) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Behind the Backs of Houses](https://open.spotify.com/track/2m1iKwWyFR49YOVUpX6FG0) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Behind the Backs of Houses](https://open.spotify.com/album/1s8AIgVgFsMkigJlEz23ht) | 6:38 | 2023-01-17 |  |
+| [Believe](https://open.spotify.com/track/76ekLbfyuNyUFqTwr7qVLd) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/5H95zxOs0ctqostVPsULG1) | 3:22 | 2023-01-17 |  |
 | [Believe](https://open.spotify.com/track/7LU69DVvvm8SXa3f4R7qzH) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/317uI12DItPAj28IxEA8qz) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Bend The Round](https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Bend The Round](https://open.spotify.com/album/5wnRlXirKPPP7DrFswTIdq) | 3:27 | 2023-07-25 |  |
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2023-01-17 |  |
@@ -133,7 +135,7 @@
 | [Dream](https://open.spotify.com/track/2hyi2lp9nOTbTtNUpdYZFq) | [Jesper Zacco](https://open.spotify.com/artist/7BPXZSsEdd5Da674ciA284) | [Dream](https://open.spotify.com/album/1NA38XFxLQWFoHp7LTPNw4) | 4:12 | 2023-01-17 |  |
 | [Dream for Dreaming](https://open.spotify.com/track/6EYovLuhOyBLJWWIW3XUwo) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream for Dreaming](https://open.spotify.com/album/3KgYLdX59AWiaUcLWC2IXs) | 3:39 | 2023-01-17 |  |
 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 | 2023-01-17 | 2023-10-30 |
-| [Dreams](https://open.spotify.com/track/0qqdR1TZcAAVsZ8lQqnl33) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/1tNF8fGMGdCpHnZybCGW0R) | 4:39 | 2023-01-17 |  |
+| [Dreams](https://open.spotify.com/track/0qqdR1TZcAAVsZ8lQqnl33) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/1tNF8fGMGdCpHnZybCGW0R) | 4:39 | 2023-01-17 | 2024-06-12 |
 | [Dreams](https://open.spotify.com/track/4cqtXFFWc1AZaPw2qX8anQ) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 4:39 | 2023-01-17 | 2024-04-19 |
 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 | 2023-01-17 |  |
 | [Dreams Tonite](https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 3:16 | 2023-01-17 | 2024-04-19 |
@@ -288,7 +290,7 @@
 | [Love In Mine](https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Love In Mine](https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB) | 3:18 | 2023-01-17 | 2024-04-19 |
 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 | 2023-01-17 |  |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2023-01-17 |  |
-| [Love Yourself](https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/1sIogRBpTHg0jkbrgIJWR0) | 3:48 | 2023-01-17 |  |
+| [Love Yourself](https://open.spotify.com/track/1Gna86CVYMyQxLNHqqp8fK) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/1sIogRBpTHg0jkbrgIJWR0) | 3:48 | 2023-01-17 | 2024-06-12 |
 | [Love Yourself](https://open.spotify.com/track/1aqdjguUGEzyTjPhXPXUxT) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Love Yourself / With My Whole Heart](https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs) | 3:48 | 2023-01-17 | 2024-04-19 |
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2023-01-17 |  |
 | [Lylz](https://open.spotify.com/track/1C9t8whBQcIDcI3mwmmFhp) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Lylz](https://open.spotify.com/album/5fMUdHAcRZ3IHPd4yvg1ct) | 3:03 | 2023-01-17 |  |

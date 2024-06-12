@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,556 likes - 149 songs - 8 hr 15 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,557 likes - 149 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Witchy \(feat\. Childish Gambino\)](https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:47 |
-| 2 | [Russian Roulette \- Radio Edit](https://open.spotify.com/track/1bsEruFb1Ucj5bXalsNhCq) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Russian Roulette](https://open.spotify.com/album/46pZqqmjNR7gwqEiiSFYoh) | 3:31 |
+| 2 | [Russian Roulette \- Edit](https://open.spotify.com/track/1bsEruFb1Ucj5bXalsNhCq) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Russian Roulette](https://open.spotify.com/album/46pZqqmjNR7gwqEiiSFYoh) | 3:31 |
 | 3 | [Black Ice Mudra](https://open.spotify.com/track/2Jey7LyTYCdLuEGBjzElRY) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Black Ice Mudra](https://open.spotify.com/album/6PZ3fBqZM8LdAaP6NkVs8z) | 2:46 |
 | 4 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
 | 5 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 |

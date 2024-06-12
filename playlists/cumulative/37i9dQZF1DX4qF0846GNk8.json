@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Ana Msh Faker El Kobleh",
+        "url": "https://open.spotify.com/album/69ri14oRZGne9mxRRNdE9G"
+      },
+      "artists": [
+        {
+          "name": "G. Oka",
+          "url": "https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Ana Msh Faker El Kobleh",
+      "url": "https://open.spotify.com/track/1yJt6UC4eFykMMhT1CrUyD"
+    },
+    {
+      "album": {
         "name": "Awlad Misk",
         "url": "https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT"
       },
@@ -250,6 +268,28 @@
       "duration_ms": 171428,
       "name": "Elgedan",
       "url": "https://open.spotify.com/track/1EtBobRh4eoIAZVzoL7t1a"
+    },
+    {
+      "album": {
+        "name": "Welad Rizk 2 Movie",
+        "url": "https://open.spotify.com/album/3xIatP7By9zVzZCyWZ59k3"
+      },
+      "artists": [
+        {
+          "name": "Mohamed El Fannan",
+          "url": "https://open.spotify.com/artist/1zbtcySnplid7ZnVins0nJ"
+        },
+        {
+          "name": "Eslam El Abyad",
+          "url": "https://open.spotify.com/artist/4iLbHUpk93fcrgDVg4kXlh"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184581,
+      "name": "Elsabaana Kasbana",
+      "url": "https://open.spotify.com/track/7F3b8E2gPiqEUBllwXpLP2"
     },
     {
       "album": {
@@ -584,6 +624,24 @@
       "duration_ms": 274301,
       "name": "Salamat Ala Nas Amloly Ekhwat",
       "url": "https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD"
+    },
+    {
+      "album": {
+        "name": "Shar3 El Gharam",
+        "url": "https://open.spotify.com/album/7czdNABFHZBRFHxB0uDj0z"
+      },
+      "artists": [
+        {
+          "name": "G. Oka",
+          "url": "https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Shar3 El Gharam",
+      "url": "https://open.spotify.com/track/3QAzsIzgCOJlbCbAwr7LzI"
     },
     {
       "album": {
@@ -1085,6 +1143,42 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0639\u0648\u062f\u0629 \u0645\u0646 \u0628\u0639\u062f \u0627\u0644\u063a\u064a\u0627\u0628",
+        "url": "https://open.spotify.com/album/1dDpWoqT9YSFfkXzeLzX5Y"
+      },
+      "artists": [
+        {
+          "name": "Felo",
+          "url": "https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "\u0627\u0644\u0639\u0648\u062f\u0629 \u0645\u0646 \u0628\u0639\u062f \u0627\u0644\u063a\u064a\u0627\u0628",
+      "url": "https://open.spotify.com/track/4NRlZae2zcdVHGauLgJpHX"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0639\u064a\u0648\u0646 \u0628\u0627\u0635\u0647 \u0639\u0644\u064a\u0627",
+        "url": "https://open.spotify.com/album/6nzxtk62DizT8gnOvNgn6g"
+      },
+      "artists": [
+        {
+          "name": "Magdy El Zahar",
+          "url": "https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213714,
+      "name": "\u0627\u0644\u0639\u064a\u0648\u0646 \u0628\u0627\u0635\u0647 \u0639\u0644\u064a\u0627",
+      "url": "https://open.spotify.com/track/1uVWKDtpuWljWjai86O3fh"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0641\u0644\u0648\u0633 (\u0627\u062d\u0646\u0627 \u062c\u0627\u0645\u062f\u064a\u0646 \u0627\u0648\u064a \u0627\u0648\u064a \u0627\u0648\u064a)",
         "url": "https://open.spotify.com/album/3CeCK1MJ361CXE83m7s41E"
       },
@@ -1118,7 +1212,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 199200,
       "name": "\u0627\u0644\u0641\u0646 \u0641\u0646 [\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0643\u0648\u0628\u0631\u0627]",
       "url": "https://open.spotify.com/track/5lces4EJVfofGSoyWBl1zp"
@@ -1336,7 +1430,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 256161,
       "name": "\u0627\u0646\u0627 \u0627\u0644\u0627\u0633\u062f \u0633\u0627\u064a\u0642 \u0639\u0631\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/3cEPZWcFZiF6kkktcfBoH8"
@@ -1848,7 +1942,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 126315,
       "name": "\u0628\u0639\u0645\u0644\u0647\u0627 \u0643\u062f\u0647",
       "url": "https://open.spotify.com/track/3jxlTNSqdZnz0hb5fDgORI"
@@ -2052,6 +2146,32 @@
       "duration_ms": 285126,
       "name": "\u062e\u0627\u0631\u062c \u0627\u0644\u0634\u0627\u0631\u0639 \u0645\u062a\u062d\u0648\u0644",
       "url": "https://open.spotify.com/track/3wt6bx8Up4q1ujsRoVtsx6"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0635\u0645\u064a \u0627\u0644\u0632\u0627\u064a\u0641",
+        "url": "https://open.spotify.com/album/4vFuPjaXNv4ibGtfvytw7r"
+      },
+      "artists": [
+        {
+          "name": "Fares Zezo",
+          "url": "https://open.spotify.com/artist/4o337qB8c2ciGL4spdX7su"
+        },
+        {
+          "name": "Shwaha",
+          "url": "https://open.spotify.com/artist/0y9Lt4V8MCaO1vJBgNpb0d"
+        },
+        {
+          "name": "7l2olo",
+          "url": "https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336842,
+      "name": "\u062e\u0635\u0645\u064a \u0627\u0644\u0632\u0627\u064a\u0641",
+      "url": "https://open.spotify.com/track/2rFoGamJCAO3b9URna86UR"
     },
     {
       "album": {
@@ -2427,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "\u0634\u0642\u0637\u062a \u0645\u0646\u0643 \u062d\u0628\u064a\u0628\u062a\u0643",
+        "url": "https://open.spotify.com/album/3X1Mf3RY35DhpvtAhLuv0Q"
+      },
+      "artists": [
+        {
+          "name": "Hamo ElTikha",
+          "url": "https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362300,
+      "name": "\u0634\u0642\u0637\u062a \u0645\u0646\u0643 \u062d\u0628\u064a\u0628\u062a\u0643",
+      "url": "https://open.spotify.com/track/53U8I2P8ScFHNC2fa9Q3FY"
+    },
+    {
+      "album": {
         "name": "\u0634\u0642\u0637\u062a \u0645\u0646\u0643 \u062d\u0628\u064a\u0628\u062a\u0643 \u064a\u0627\u0639\u0645",
         "url": "https://open.spotify.com/album/7qWys684xM31U3iRKfQKyl"
       },
@@ -2456,7 +2594,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 214529,
       "name": "\u0634\u0648\u0641\u062a\u0648 \u0627\u0644\u062c\u0639\u0627\u0646\u064a\u0646 \u0648\u0644\u0627\u062f \u0627\u0644\u062c\u0639\u0627\u0646\u064a\u0646",
       "url": "https://open.spotify.com/track/7EY1IjsNKFawcqFnUaDCYS"
@@ -3035,6 +3173,28 @@
     },
     {
       "album": {
+        "name": "\u0639\u0645 \u062c\u064a\u0644\u0643",
+        "url": "https://open.spotify.com/album/2STONBp3pEIu2X3X3IVPrn"
+      },
+      "artists": [
+        {
+          "name": "Hoda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        },
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182291,
+      "name": "\u0639\u0645 \u062c\u064a\u0644\u0643",
+      "url": "https://open.spotify.com/track/3IpRQcaxa6d9y6wzoPOrjQ"
+    },
+    {
+      "album": {
         "name": "\u0639\u0645 \u062c\u064a\u0644\u0648 ( \u0637\u0628 \u062e\u062f \u0648\u0644\u0627 \u0627\u0646\u062a \u0645\u0628\u062a\u0639\u0631\u0641\u0634 \u062a\u0635\u062f )",
         "url": "https://open.spotify.com/album/1HiStqQC5wtvSrdyt7nc1o"
       },
@@ -3312,6 +3472,24 @@
       "duration_ms": 382548,
       "name": "\u0641\u064a \u064a\u0648\u0645 \u0641\u0631\u0627\u0642\u0643",
       "url": "https://open.spotify.com/track/4zEqPTikQAUACfHrDRa41K"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0627\u0639\u062f \u0648\u0628\u062a\u0641\u0631\u062c",
+        "url": "https://open.spotify.com/album/0R5x0p6thoiMolIIHWhxKw"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Amer",
+          "url": "https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198504,
+      "name": "\u0642\u0627\u0639\u062f \u0648\u0628\u062a\u0641\u0631\u062c",
+      "url": "https://open.spotify.com/track/45UhzjLtR3VMPgx7xO2plv"
     },
     {
       "album": {
@@ -4040,7 +4218,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 183196,
       "name": "\u0645\u0646\u062d\u0631\u0641\u064a\u0646 ( \u0641\u064a \u062d\u0636\u0648\u0631\u0646\u0627 \u0627\u0644\u062f\u0646\u064a\u0627 \u0628\u062a\u062a\u0634\u0642\u0644\u0628 )",
       "url": "https://open.spotify.com/track/0T61bGOEKCv09tvbbiXb8u"
@@ -4146,6 +4324,28 @@
       "duration_ms": 287346,
       "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u062e\u0635\u0645\u064a \u0628\u0643\u064a\u0641\u0648 \u0645\u0643\u062a\u0641\u0648",
       "url": "https://open.spotify.com/track/3L8EMN39GeZr6kXTxHTXpz"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0634\u062f\u0648 \u0627\u0644\u0633\u0644\u0627\u062d",
+        "url": "https://open.spotify.com/album/2VqCa4vMTbOmdg8TihIsXy"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Moza",
+          "url": "https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl"
+        },
+        {
+          "name": "7l2olo",
+          "url": "https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335830,
+      "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0634\u062f\u0648 \u0627\u0644\u0633\u0644\u0627\u062d",
+      "url": "https://open.spotify.com/track/0lJvCLfTRjt7H7OtbWrFP6"
     },
     {
       "album": {
@@ -4876,7 +5076,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 48000,
       "name": "\u064a\u0644\u0627 \u0646\u0644\u0639\u0628\u0648 \u062c\u0648\u0644\u0647",
       "url": "https://open.spotify.com/track/7AVngULvj8UIiF4TvM2zFt"

@@ -2501,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "Creed III: The Soundtrack",
+        "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173840,
+      "name": "Shadows (with Kehlani)",
+      "url": "https://open.spotify.com/track/2iPnYQRutwTQopudwgkIfm"
+    },
+    {
+      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },

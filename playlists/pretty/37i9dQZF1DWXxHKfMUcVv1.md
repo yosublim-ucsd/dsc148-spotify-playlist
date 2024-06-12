@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,685 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,705 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 11 | [Mi Mujer](https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS) | [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [My Destiny](https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG) | 3:32 |
 | 12 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |
 | 13 | [El Gallo Rojo](https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Gallo Rojo](https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH) | 2:35 |
-| 14 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
-| 15 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 14 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 15 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
 | 16 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 |
 | 17 | [Si Yo Fuera El](https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Gracias](https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7) | 3:12 |
 | 18 | [Corazón](https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU) | [Cumbia Juan](https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:15 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 30 | [Ruge Uge](https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Christian Puga y los Ladrones Sueltos](https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E) | 3:43 |
 | 31 | [Si Tú Supieras](https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [Emergencia de Amor](https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK) | 3:47 |
 | 32 | [Pense Que Te Olvide](https://open.spotify.com/track/6mcKcKUigHBg8z2tz7AKOR) | [Lalo Monte](https://open.spotify.com/artist/3SB8njtBUMJOVsNZ37xB53) | [Pense Que Te Olvide](https://open.spotify.com/album/4gDQufSUCOgyk8EZVMyhyE) | 3:39 |
-| 33 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
-| 34 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
+| 33 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |
+| 34 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
 | 35 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 36 | [Te Regalo](https://open.spotify.com/track/7b3h31GXmBdFbTWZ0xem7V) | [Ivan Zavala](https://open.spotify.com/artist/6UjgZ5FpxLsjRvPiN4yoI2) | [Imposible](https://open.spotify.com/album/3GK2930aijx836XgQ720GV) | 2:54 |
 | 37 | [Quiero!](https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Agua Para El Mar](https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ) | 3:05 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 > This Is Los Huracanes del Norte\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,321 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,335 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nomas Por Tu Culpa](https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:40 |
 | 2 | [La Escuadra \(En Que Trabaja El Muchacho\)](https://open.spotify.com/track/3gxbdfAgpjJiODrpx64e0C) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:01 |
 | 3 | [La Suburban Dorada](https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [10 Corridos Pesados](https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf) | 3:15 |
-| 4 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
+| 4 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
 | 5 | [El Gato De Chihuahua](https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:21 |
-| 6 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
+| 6 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
 | 7 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
 | 8 | [Viaje Eterno](https://open.spotify.com/track/4ajgw37ARwrMUV9ESMVfvd) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Viaje Eterno](https://open.spotify.com/album/7rm2ZPIHjRuEnM9LIek5fX) | 2:49 |
 | 9 | [Nada Contigo](https://open.spotify.com/track/3YgsU6KawiLl25xqaUGEPj) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Dejate Querer](https://open.spotify.com/album/5U7O4yUcT9DZTycloxy5zO) | 2:52 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 39 | [El Moro De Cumpas](https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 4:06 |
 | 40 | [Como Tu No Hay Dos](https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [\#](https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG) | 3:16 |
 | 41 | [El Corrido De Los Perez](https://open.spotify.com/track/4BLxjH7MYEcnf8UuI739mq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:25 |
-| 42 | [El Embrujado](https://open.spotify.com/track/3ImJG38rC30tii4Mx5iFhS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:04 |
-| 43 | [Paloma Querida](https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Puro Pa\` Arriba](https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY) | 2:57 |
+| 42 | [Paloma Querida](https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Puro Pa\` Arriba](https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY) | 2:57 |
+| 43 | [El Embrujado](https://open.spotify.com/track/3ImJG38rC30tii4Mx5iFhS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:04 |
 | 44 | [Senor Cantinero](https://open.spotify.com/track/0JE7SeFEDRiUrRY5ENtHs7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 3:17 |
 | 45 | [La Viudita](https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mensaje De Oro](https://open.spotify.com/album/7zMSnsRCy5WV88vepzSIZy) | 2:12 |
 | 46 | [La Higuera](https://open.spotify.com/track/4LSjWECyl1hUIr2B6bD9R6) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Que Quede Entre Nos](https://open.spotify.com/track/00pciCD6Bt2aBQKj5wSIqt) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Alma Bohemia](https://open.spotify.com/album/0TDShw4C1noAeuUoBfh1mG) | 2:40 |
 | 50 | [Por Eso La Deje](https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Por Eso La Deje](https://open.spotify.com/album/63EVky6PEKdJYaBowGkYBg) | 4:20 |
 
-Snapshot ID: `ZmTwgAAAAABilsVU/XSjNMH7KCT6ucmd`
+Snapshot ID: `ZmZCAAAAAACnkNtKVVMvOy7Tke7GfVY2`

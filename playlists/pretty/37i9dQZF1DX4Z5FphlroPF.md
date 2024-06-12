@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z5FphlroPF.md) - [plain]
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,055 likes - 33 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,058 likes - 33 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STEP](https://open.spotify.com/track/20kZESl2411eCyQ7Sf5Sgi) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.9\)](https://open.spotify.com/album/3tY2H0EStVSnrB9lK8xk1b) | 3:35 |
 | 2 | [Deneb](https://open.spotify.com/track/7apKcB7zICUb87xSryhrQh) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Cheer Up \(Original Soundtrack Part.8\)](https://open.spotify.com/album/6gnHVF0GgZVXg14At7CPYW) | 5:03 |
 | 3 | [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/1SF9zCNjbChZTiIkxjgJXa) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 |
-| 4 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 |
+| 4 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 |
 | 5 | [Enjoy This Moment](https://open.spotify.com/track/4KypfbPEKRtgZz7omZgcwT) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Cheer Up \(Original Soundtrack Part.4\)](https://open.spotify.com/album/158L4bgweqW5INvRXD9BpH) | 3:04 |
 | 6 | [RINGING](https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn) | [Mi Joo Lee](https://open.spotify.com/artist/0aATviqzHMSQHDengVEH74) | [Cheer Up \(Original Soundtrack Part.3\)](https://open.spotify.com/album/5ycHYSK1rnY4YDCPGczxYH) | 3:31 |
 | 7 | [Confession](https://open.spotify.com/track/59OQ9zPGXtzMMIz2q8INhg) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Cheer Up \(Original Soundtrack Part.2\)](https://open.spotify.com/album/7quVqU9K0eqi8P7214gFIy) | 4:39 |

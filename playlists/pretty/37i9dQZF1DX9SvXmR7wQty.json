@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
-  "num_followers": 40921,
+  "num_followers": 40923,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Otra",
-        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
+        "name": "On y va",
+        "url": "https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Otra",
-      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
+      "duration_ms": 155496,
+      "name": "On y va",
+      "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -467,22 +471,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "On y va",
-        "url": "https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm"
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
       },
       "artists": [
         {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        },
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 155496,
-      "name": "On y va",
-      "url": "https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g"
+      "duration_ms": 134000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Imad",
-        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
-      },
-      "artists": [
-        {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Si \u00e7a va",
-      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Mise \u00e0 jour",
         "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 200360,
       "name": "Me prends pas la t\u00eate",
       "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Imad",
+        "url": "https://open.spotify.com/album/2JQGzY8aNTwefM5JBoL5M7"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Si \u00e7a va",
+      "url": "https://open.spotify.com/track/3qL5wlh5GaEKam28diqZo9"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "HASTA LA VISTA",
+        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "HASTA LA VISTA",
+      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "HASTA LA VISTA",
-        "url": "https://open.spotify.com/album/7hUqFjJC3W7ClnQolEO3NT"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "HASTA LA VISTA",
-      "url": "https://open.spotify.com/track/14j9HbZoSdTooGK12uTNRc"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 201055,
       "name": "Les Montgolfi\u00e8res",
       "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Chaque seconde",
+      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Chaque seconde",
-      "url": "https://open.spotify.com/track/5QKXM4zRBrVzofZJxlO5tL"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "IL LE FALLAIT",
         "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
       },
@@ -823,6 +823,42 @@
       "duration_ms": 153006,
       "name": "NO LACK",
       "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "PAF",
+        "url": "https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "PAF",
+      "url": "https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 157643,
+      "name": "Sentiments",
+      "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -847,22 +883,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 157643,
-      "name": "Sentiments",
-      "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "GINGER BOY",
         "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 151410,
       "name": "Bodyguard",
       "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "SHE LIT",
-        "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
-      },
-      "artists": [
-        {
-          "name": "J9ueve",
-          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
-        },
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SHE LIT",
-      "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY?si=kFdho2ClQOClpcwUCzq2CQ">Solo Ntsizwa Ka Mthimkhulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,767 likes - 59 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,782 likes - 59 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This is Charlie Monttana\. The essential tracks, all in one playlist.
+> This Is Charlie Monttana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,562 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,557 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 23 | [Cayendo](https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 4:02 |
 | 24 | [Pobre de Ti](https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:42 |
 | 25 | [¿Dónde Estás?](https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:38 |
-| 26 | [Ramillete de Piernas](https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 5:44 |
-| 27 | [Me Gusta Tu Chava](https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Presente: Mi Legado](https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5) | 3:26 |
+| 26 | [Me Gusta Tu Chava](https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Presente: Mi Legado](https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5) | 3:26 |
+| 27 | [Ramillete de Piernas](https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 5:44 |
 | 28 | [Todas Esas Lagrimas \- En Vivo](https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 5:20 |
 | 29 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
 | 30 | [Estoy Ardiendo](https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:16 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 44 | [Estoy Tan Solo](https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 3:12 |
 | 45 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 |
 | 46 | [De Que el Amor Apesta Apesta \- En Vivo](https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7) | 5:01 |
-| 47 | [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 |
-| 48 | [El Burro Siempre Hablando de Orejas](https://open.spotify.com/track/1UIOXV2J2exhh0NpSbDEr8) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:48 |
-| 49 | [Las Encueradas](https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:26 |
-| 50 | [Déjame Rocanrolearte](https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 2:59 |
+| 47 | [El Burro Siempre Hablando de Orejas](https://open.spotify.com/track/1UIOXV2J2exhh0NpSbDEr8) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:48 |
+| 48 | [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 |
+| 49 | [Déjame Rocanrolearte](https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 2:59 |
+| 50 | [Las Encueradas](https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:26 |
 
-Snapshot ID: `ZmTwgAAAAADWYEIQgujudbSz6HhkAUHO`
+Snapshot ID: `ZmZCAAAAAAA+3kNkqh1TnJBuvSVk8kk1`

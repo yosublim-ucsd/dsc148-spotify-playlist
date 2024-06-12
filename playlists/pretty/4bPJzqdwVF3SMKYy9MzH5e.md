@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,911 songs - 4 day 6 hr 57 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,912 songs - 4 day 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1919,5 +1919,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1909 | [Valeria Bounze](https://open.spotify.com/track/11e5AvoqPT3sljkQItmhwt) | [cvcvdup](https://open.spotify.com/artist/3uNyHplRvma6haqXTOWrtN), [cvcvka5](https://open.spotify.com/artist/5iyld87rVUV5fDvMp7EGc6) | [Valeria Bounze](https://open.spotify.com/album/6ldZMxvvh3SV2yXLyTtz3N) | 1:41 |
 | 1910 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 |
 | 1911 | [puke my gutzz O\_o](https://open.spotify.com/track/6kqlHdAgxs12KJCrnVKfht) | [zeija](https://open.spotify.com/artist/6m8acOBf7WOpC5ikjqcRTr) | [puke my gutzz O\_o](https://open.spotify.com/album/3UFtX4dv9LcSJ4Q1DubVzL) | 2:26 |
+| 1912 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 
-Snapshot ID: `AAADE/uet3QG4aKE3vErUwyXwnD10xsP`
+Snapshot ID: `AAADFKSgkmKRHxM1yC6n0sef6lWUTL44`

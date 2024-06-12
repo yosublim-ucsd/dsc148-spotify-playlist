@@ -1,6 +1,6 @@
 {
   "description": "All your favourite mood boosting bangers...",
-  "num_followers": 1086743,
+  "num_followers": 1086731,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,18 @@
     {
       "added_at": "2024-05-31 12:06:22",
       "album": {
-        "name": "Miles On It",
-        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 168355,
-      "name": "Miles On It",
-      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
       "added_at": "2024-05-31 12:06:22",
@@ -331,18 +327,22 @@
     {
       "added_at": "2024-05-31 12:06:22",
       "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+        "name": "Miles On It",
+        "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+      "duration_ms": 168355,
+      "name": "Miles On It",
+      "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
       "added_at": "2024-05-31 12:06:22",

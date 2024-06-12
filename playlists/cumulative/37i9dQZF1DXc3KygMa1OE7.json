@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
@@ -562,6 +562,24 @@
       "duration_ms": 209600,
       "name": "Every Woman in the World",
       "url": "https://open.spotify.com/track/6OxnToSgslbtjJuNSKSdDQ"
+    },
+    {
+      "album": {
+        "name": "The Best of Air Supply: Ones That You Love",
+        "url": "https://open.spotify.com/album/09xjEibrHp8sYnLDg4ehJ9"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Every Woman In The World - Digitally Remastered 1999",
+      "url": "https://open.spotify.com/track/30IcbXIfDDhKi7rW6TNUV0"
     },
     {
       "album": {

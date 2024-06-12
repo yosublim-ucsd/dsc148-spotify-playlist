@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: FIGHTMASTER",
-  "num_followers": 158335,
+  "num_followers": 158423,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-05 18:27:01",
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "The Melting Of The Sun",
-      "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
-    },
-    {
-      "added_at": "2024-06-05 18:27:01",
-      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "added_at": "2024-06-05 18:27:01",
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "The Melting Of The Sun",
+      "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
     },
     {
       "added_at": "2024-06-05 18:27:01",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-05 18:27:01",
       "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 147134,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
-    },
-    {
-      "added_at": "2024-06-05 18:27:01",
-      "album": {
         "name": "More Like You",
         "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2024-06-05 18:27:01",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU"
     },
     {
       "added_at": "2024-06-05 18:27:01",

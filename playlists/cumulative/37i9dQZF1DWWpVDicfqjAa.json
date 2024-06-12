@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Coolest In The City",
+        "url": "https://open.spotify.com/album/0QGXEwAUfWpUIPE5AR6TBM"
+      },
+      "artists": [
+        {
+          "name": "AQUTIE",
+          "url": "https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF"
+        },
+        {
+          "name": "Paulina Singer",
+          "url": "https://open.spotify.com/artist/3iFyOMYm2fhl5ZM0guEzK6"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312195,
+      "name": "Big Bag Bounce",
+      "url": "https://open.spotify.com/track/6AMLDi1PdJgrWuHCS4qVfk"
+    },
+    {
+      "album": {
         "name": "Swarm",
         "url": "https://open.spotify.com/album/61Z4oJ5YbH1PCXjXWzCkIK"
       },
@@ -3874,7 +3896,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 199180,
       "name": "MONCLER",
       "url": "https://open.spotify.com/track/4kbMThlSBxsO7AJL12eNrb"

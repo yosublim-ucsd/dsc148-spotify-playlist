@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Nabi in cover.
 
-549 songs - 1 day 1 hr 16 min
+550 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 | 2022-07-21 | 2022-08-30 |
 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 | 2023-03-16 | 2023-05-11 |
 | [FUCK THE INDUSTRY \(feat\. Rondodasosa, Central Cee, Nko\)](https://open.spotify.com/track/0lWbTtEZCeej46pYi4LJMu) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 3:08 | 2022-06-02 | 2022-09-30 |
+| [FULL FULL](https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP) | [VMonster](https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a) | [FULL FULL](https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9) | 1:51 | 2024-06-11 |  |
 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 | 2023-05-11 | 2023-06-02 |
 | [Fumo Con Lei](https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Fumo Con Lei](https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe) | 2:14 | 2023-02-09 | 2023-05-12 |
 | [G CLASS](https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [G CLASS](https://open.spotify.com/album/5i8sSSUmC6NMJd70gLS4Hn) | 2:25 | 2022-05-19 | 2022-06-17 |
@@ -529,7 +530,7 @@
 | [VIENI DALLA BADDIE \- interlude](https://open.spotify.com/track/6VpkhPUKnXxDsse0jnG64F) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VIENI DALLA BADDIE \(interlude\)](https://open.spotify.com/album/1QkVXwwI2F9q54Xu3O3zib) | 1:33 | 2024-04-18 |  |
 | [Viral](https://open.spotify.com/track/3Nww47FJ3MiIdpHCMarCBU) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/5OkP2IKTap8fIUptFcFbNN) | 2:27 | 2023-03-27 | 2023-04-07 |
 | [Viral](https://open.spotify.com/track/6YMAvSYRPLi9O0Qq4IL3Rs) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Viral](https://open.spotify.com/album/7EgdSz7TNzcYnPCHgkcXZy) | 2:27 | 2023-03-09 | 2023-03-29 |
-| [Vis a Vis](https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Vis a Vis](https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz) | 2:27 | 2024-05-23 |  |
+| [Vis a Vis](https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Vis a Vis](https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz) | 2:27 | 2024-05-23 | 2024-06-12 |
 | [Vita](https://open.spotify.com/track/7unxZsFlo58iTbnxkoJ8lk) | [Iltunsi](https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ), [Tiasnow](https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe), [PrinceDrago](https://open.spotify.com/artist/2mfn0ywC0PsPmdMsx9Q7cu) | [Vita](https://open.spotify.com/album/0SVrYSdrhwIblseZvJXtqS) | 2:51 | 2022-09-08 | 2022-10-14 |
 | [Vita Nuova](https://open.spotify.com/track/7L5AMtUojyMd0bpVyWePE1) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Vita Nuova](https://open.spotify.com/album/3u3wHdWqQt4Xlkb9suOeq6) | 2:33 | 2023-12-14 | 2024-01-19 |
 | [VITA PUTTANA](https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [VITA PUTTANA](https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA) | 3:31 | 2022-06-23 | 2022-07-22 |

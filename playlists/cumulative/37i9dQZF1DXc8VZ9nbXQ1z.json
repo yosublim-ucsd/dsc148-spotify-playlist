@@ -3689,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/606SgggHvF1yvrGENcNoxv"
+      },
+      "artists": [
+        {
+          "name": "Stereo Cassette",
+          "url": "https://open.spotify.com/artist/6NRuO6KTcl8Zpx3Ue8Zau0"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483057,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/76SrVCh8HYV0BSMz08HIBE"
+    },
+    {
+      "album": {
         "name": "Home (JAMIIE Remix)",
         "url": "https://open.spotify.com/album/38RJlLHQvbB0HmTqakiPah"
       },
@@ -11472,6 +11490,28 @@
       "duration_ms": 375917,
       "name": "You Need Me (feat. Maxine Ashley & Sun-El Musician) (feat. Maxine Ashley & Sun-El Musician)",
       "url": "https://open.spotify.com/track/5XXmLfa7hehw6WNPntuvFx"
+    },
+    {
+      "album": {
+        "name": "Young Lover",
+        "url": "https://open.spotify.com/album/6tEn7ThyiplcEqfjBwYoXV"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Biishop",
+          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261812,
+      "name": "Young Lover",
+      "url": "https://open.spotify.com/track/4PRKdIJ3PqW30Q81apkpiA"
     },
     {
       "album": {

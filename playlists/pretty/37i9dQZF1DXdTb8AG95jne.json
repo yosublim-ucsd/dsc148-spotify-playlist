@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: cott(\ucf67)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 466916,
+  "num_followers": 466966,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-06-06 14:09:23",
       "album": {
-        "name": "Baby I Need You",
-        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Baby I Need You",
-      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
-    },
-    {
-      "added_at": "2024-06-06 14:09:23",
-      "album": {
         "name": "FROM : X",
         "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 171106,
       "name": "When It Snows",
       "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
+    },
+    {
+      "added_at": "2024-06-06 14:09:23",
+      "album": {
+        "name": "Baby I Need You",
+        "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Baby I Need You",
+      "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
     },
     {
       "added_at": "2024-06-06 14:09:23",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-06 14:09:23",
       "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
-    },
-    {
-      "added_at": "2024-06-06 14:09:23",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 284000,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
+    },
+    {
+      "added_at": "2024-06-06 14:09:23",
+      "album": {
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2024-06-06 14:09:23",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-06-06 14:09:23",
       "album": {
+        "name": "How To Go On",
+        "url": "https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "How To Go On",
+      "url": "https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w"
+    },
+    {
+      "added_at": "2024-06-06 14:09:23",
+      "album": {
         "name": "Playground",
         "url": "https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-06-06 14:09:23",
       "album": {
-        "name": "How To Go On",
-        "url": "https://open.spotify.com/album/0GzLiI9ZLKSztLSj6uzHwP"
+        "name": "2 Minutes",
+        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
         }
       ],
-      "duration_ms": 217000,
-      "name": "How To Go On",
-      "url": "https://open.spotify.com/track/0orRPUR6XYEknr7oLFkk5w"
+      "duration_ms": 120453,
+      "name": "2 Minutes",
+      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
       "added_at": "2024-06-06 14:09:23",
@@ -827,22 +843,6 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
-    },
-    {
-      "added_at": "2024-06-06 14:09:23",
-      "album": {
-        "name": "2 Minutes",
-        "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 120453,
-      "name": "2 Minutes",
-      "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
       "added_at": "2024-06-06 14:09:23",

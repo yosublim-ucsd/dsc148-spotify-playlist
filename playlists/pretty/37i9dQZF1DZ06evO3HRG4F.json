@@ -1,12 +1,12 @@
 {
-  "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 4562,
+  "description": "This Is Charlie Monttana. Los temas esenciales, todos en una lista.",
+  "num_followers": 4557,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADWYEIQgujudbSz6HhkAUHO",
+  "snapshot_id": "ZmZCAAAAAAA+3kNkqh1TnJBuvSVk8kk1",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 344920,
-      "name": "Ramillete de Piernas",
-      "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente: Mi Legado",
         "url": "https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 206693,
       "name": "Me Gusta Tu Chava",
       "url": "https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 344920,
+      "name": "Ramillete de Piernas",
+      "url": "https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "El Burro Siempre Hablando de Orejas",
+      "url": "https://open.spotify.com/track/1UIOXV2J2exhh0NpSbDEr8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -795,38 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "El Burro Siempre Hablando de Orejas",
-      "url": "https://open.spotify.com/track/1UIOXV2J2exhh0NpSbDEr8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 206239,
-      "name": "Las Encueradas",
-      "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pares y Duetos: Disco 1",
         "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 179546,
       "name": "D\u00e9jame Rocanrolearte",
       "url": "https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 206239,
+      "name": "Las Encueradas",
+      "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
     }
   ],
   "unique_name": "This Is Charlie Monttana",

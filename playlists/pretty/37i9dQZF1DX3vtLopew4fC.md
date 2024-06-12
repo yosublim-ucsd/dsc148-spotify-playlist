@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Haviah Mighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,381 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,383 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 30 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 |
 | 31 | [aphrodite](https://open.spotify.com/track/4WcUzdI6EYFPzlYaNV2GkS) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [aphrodite](https://open.spotify.com/album/5skz2rgdXWvRLHs3VVgZpU) | 2:44 |
 | 32 | [Way Too Long](https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Way Too Long](https://open.spotify.com/album/1mby3xq3SFGEeTSojPrsVH) | 3:03 |
-| 33 | [Shut It Down](https://open.spotify.com/track/7nMj0zIe9OUJxrY7XMKR6n) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Shut It Down](https://open.spotify.com/album/0p5AtdlpYYlhZ2ej8thYvn) | 2:50 |
-| 34 | [Gasoline](https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending](https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z) | 2:00 |
-| 35 | [FROM KALLI WITH LOVE](https://open.spotify.com/track/5YNfWXqUbIhIQs45iDEcaB) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [MOOD RING](https://open.spotify.com/album/0gSBpcyID5faN64X9wDveP) | 2:49 |
-| 36 | [Confession](https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:36 |
-| 37 | [Botoxxx](https://open.spotify.com/track/2TOscIenZ5PxE2Uw25CE9T) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Botoxxx](https://open.spotify.com/album/4yuhs9GqdOJxBcm1f22ZAZ) | 2:43 |
-| 38 | [The Woman You Are](https://open.spotify.com/track/1NFaE6OehRDrF2ilGhCIad) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [The Woman You Are](https://open.spotify.com/album/3UXDHjWuYJDxkl3ua47iKm) | 3:42 |
-| 39 | [Messed Up Miracle](https://open.spotify.com/track/3JSz2xfoOVZUsSUYOqu1o5) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [The Machine](https://open.spotify.com/album/4fQEqCOLjTsccvZtwupzAV) | 3:46 |
-| 40 | [Dirt On Us](https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Dirt On Us](https://open.spotify.com/album/6tvUq3lJ1nVe3taTIREnDS) | 3:03 |
-| 41 | [Show You Why](https://open.spotify.com/track/3muePZbjLu66YSChxJY5WZ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:53 |
-| 42 | [i don't feel safe in my body](https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [i don't feel safe in my body](https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3) | 2:43 |
-| 43 | [for me?](https://open.spotify.com/track/2FH9IMdubO8636y7oCLZ7v) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [for me?](https://open.spotify.com/album/5EUYC3R26THlm8JoVcyaGB) | 2:13 |
-| 44 | [Hungry](https://open.spotify.com/track/5DXII5xF64zteIp1DqOkuJ) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [self ish](https://open.spotify.com/album/2mpsNWPM7JNntloMEJJa5O) | 3:22 |
-| 45 | [EASY](https://open.spotify.com/track/59yoFcvHpRhabjWTgKrXXx) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [EASY](https://open.spotify.com/album/5jo7LJSFmo6Dqt24bT6d7k) | 1:37 |
-| 46 | [Gooder Than Good](https://open.spotify.com/track/6jFEFBx5YzxutzG1JLN2Pe) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT) | [Gooder Than Good](https://open.spotify.com/album/3MvIY6vxLCtMuEGWHCe3wW) | 2:25 |
-| 47 | [Happy Again](https://open.spotify.com/track/5SSvYQfL5NQsVzDm0Ex9tq) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Happy Again](https://open.spotify.com/album/5RIHCllHuGG46jAgj4BWfW) | 2:41 |
-| 48 | [the sex was good!](https://open.spotify.com/track/55PS08HRXhFcUbLG0KypSU) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [The Sex Was Good Until It Wasn't](https://open.spotify.com/album/3aB3aPWoj4jMDNE3nC8DFf) | 2:51 |
-| 49 | [From Friends To Strangers](https://open.spotify.com/track/0cJJN21I6njClZyPJeXMgS) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From Friends To Strangers](https://open.spotify.com/album/57gpvZPjR7eZACFtu0eZNf) | 3:15 |
+| 33 | [Gasoline](https://open.spotify.com/track/3AEhzP83T8HxudeMahwjAV) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [The Alternate Ending](https://open.spotify.com/album/79J7lTojt5GNstcDpZhD0z) | 2:00 |
+| 34 | [FROM KALLI WITH LOVE](https://open.spotify.com/track/5YNfWXqUbIhIQs45iDEcaB) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [MOOD RING](https://open.spotify.com/album/0gSBpcyID5faN64X9wDveP) | 2:49 |
+| 35 | [Confession](https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:36 |
+| 36 | [Botoxxx](https://open.spotify.com/track/2TOscIenZ5PxE2Uw25CE9T) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Botoxxx](https://open.spotify.com/album/4yuhs9GqdOJxBcm1f22ZAZ) | 2:43 |
+| 37 | [The Woman You Are](https://open.spotify.com/track/1NFaE6OehRDrF2ilGhCIad) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [The Woman You Are](https://open.spotify.com/album/3UXDHjWuYJDxkl3ua47iKm) | 3:42 |
+| 38 | [Messed Up Miracle](https://open.spotify.com/track/3JSz2xfoOVZUsSUYOqu1o5) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [The Machine](https://open.spotify.com/album/4fQEqCOLjTsccvZtwupzAV) | 3:46 |
+| 39 | [Dirt On Us](https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Dirt On Us](https://open.spotify.com/album/6tvUq3lJ1nVe3taTIREnDS) | 3:03 |
+| 40 | [Show You Why](https://open.spotify.com/track/3muePZbjLu66YSChxJY5WZ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 3:53 |
+| 41 | [i don't feel safe in my body](https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [i don't feel safe in my body](https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3) | 2:43 |
+| 42 | [for me?](https://open.spotify.com/track/2FH9IMdubO8636y7oCLZ7v) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [for me?](https://open.spotify.com/album/5EUYC3R26THlm8JoVcyaGB) | 2:13 |
+| 43 | [Hungry](https://open.spotify.com/track/5DXII5xF64zteIp1DqOkuJ) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [self ish](https://open.spotify.com/album/2mpsNWPM7JNntloMEJJa5O) | 3:22 |
+| 44 | [EASY](https://open.spotify.com/track/59yoFcvHpRhabjWTgKrXXx) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [EASY](https://open.spotify.com/album/5jo7LJSFmo6Dqt24bT6d7k) | 1:37 |
+| 45 | [Gooder Than Good](https://open.spotify.com/track/6jFEFBx5YzxutzG1JLN2Pe) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT) | [Gooder Than Good](https://open.spotify.com/album/3MvIY6vxLCtMuEGWHCe3wW) | 2:25 |
+| 46 | [Happy Again](https://open.spotify.com/track/5SSvYQfL5NQsVzDm0Ex9tq) | [Heather Russell](https://open.spotify.com/artist/2207WvrklK8Cn1XeMOlzVN) | [Happy Again](https://open.spotify.com/album/5RIHCllHuGG46jAgj4BWfW) | 2:41 |
+| 47 | [the sex was good!](https://open.spotify.com/track/55PS08HRXhFcUbLG0KypSU) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [The Sex Was Good Until It Wasn't](https://open.spotify.com/album/3aB3aPWoj4jMDNE3nC8DFf) | 2:51 |
+| 48 | [From Friends To Strangers](https://open.spotify.com/track/0cJJN21I6njClZyPJeXMgS) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [From Friends To Strangers](https://open.spotify.com/album/57gpvZPjR7eZACFtu0eZNf) | 3:15 |
+| 49 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 |
 | 50 | [Situations](https://open.spotify.com/track/4Kx3VCXLvPHkyI0uoLD2Gt) | [Nicolina](https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb) | [Situations](https://open.spotify.com/album/2280f5xyyysOeCA87Eu5vn) | 2:45 |
 
-Snapshot ID: `ZmcrogAAAADgzoZLP3vA9v0utEk3lsdW`
+Snapshot ID: `ZmibXgAAAADQ9K+erILM59BiBGln0StJ`

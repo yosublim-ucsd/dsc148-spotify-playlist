@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 ### [This Is La Receta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YzskP)
 
-> This Is La Receta\. Los temas esenciales, todos en una lista.
+> This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,565 likes - 52 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,612 likes - 52 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 27 | [Somos Mayiza](https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX) | 3:12 |
 | 28 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
 | 29 | [No Voy Con Rodeos](https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:47 |
-| 30 | [El Nieto Del Mayo](https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:11 |
-| 31 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
+| 30 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
+| 31 | [El Nieto Del Mayo](https://open.spotify.com/track/3UlOVxthiA5teotaf00kCk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:11 |
 | 32 | [Mcklein \(Comanches\)](https://open.spotify.com/track/2YdwRw1wiAmgLfQKPIBR4J) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:22 |
 | 33 | [El Gerente](https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:57 |
 | 34 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 51 | [Al Modo Culiacán](https://open.spotify.com/track/63eQoXTDQFMi8hO5D0fcUx) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4) | [Al Modo Culiacán](https://open.spotify.com/album/6Y3QJ12QIF9hD9jyIZq7gk) | 1:51 |
 | 52 | [La Captura Del Niño Vicente](https://open.spotify.com/track/1vW9v99lo2DlhoAofsJAiS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 3:12 |
 
-Snapshot ID: `ZmTwgAAAAADAAsSUpiX9Ry4QXHYWb0PZ`
+Snapshot ID: `ZmZCAAAAAAAhnqdDkZYPjZj/UHvEFJC3`

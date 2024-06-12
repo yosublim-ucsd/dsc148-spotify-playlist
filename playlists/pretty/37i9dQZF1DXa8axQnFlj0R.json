@@ -1,6 +1,6 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 82037,
+  "num_followers": 82023,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 259186,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
+      "duration_ms": 244000,
+      "name": "champagne problems",
+      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 244000,
-      "name": "champagne problems",
-      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 243804,
+      "name": "Girl Crush - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 256124,
       "name": "Snow On The Beach (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 243804,
-      "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 182240,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 151240,
       "name": "Rookery",
       "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "The Old Pine E.P.",
-        "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 289074,
-      "name": "Follaton Wood",
-      "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Seastroke",
         "url": "https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 275528,
       "name": "Seastroke",
       "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "The Old Pine E.P.",
+        "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 289074,
+      "name": "Follaton Wood",
+      "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
     },
     {
       "added_at": "2023-12-01 16:37:09",

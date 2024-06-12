@@ -4,7 +4,7 @@
 
 > When everything around you is falling apart.
 
-123 songs - 8 hr 16 min
+124 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Rihaee](https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3T5JCm38jn7s7ZtpULyPP9) | 3:02 | 2023-05-15 |  |
 | [Rihaee](https://open.spotify.com/track/5lyJgRJwhK9SD7F444LPtW) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Rihaee](https://open.spotify.com/album/3cwskKGP4ZNX7fZ6h1RzgG) | 3:02 | 2023-12-15 | 2024-04-19 |
 | [Roke Na Ruke Naina \(From "Badrinath Ki Dulhania"\)](https://open.spotify.com/track/6jzUvO5F2fnOvYqCTMd5U1) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heart Touching Songs](https://open.spotify.com/album/17tjOnr6MqgosUNRmThObQ) | 4:38 | 2023-05-15 |  |
+| [Roya Jab Tu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Azeem Dayani](https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 5:00 | 2024-06-11 |  |
 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 | 2023-05-15 |  |
 | [Saiyaara](https://open.spotify.com/track/1ocYa8PoVd5e2vPn0xHJcA) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Tarannum Malik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Ek Tha Tiger](https://open.spotify.com/album/1vATJtFK74jkmkg5M8ffvq) | 4:12 | 2024-03-22 |  |
 | [Tanha Rahun Main](https://open.spotify.com/track/0nJptnLo28LIFeZzcUlYG7) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr), [Jahnavi Rao](https://open.spotify.com/artist/2OjHId4Ml8WRQL40hRj1Z6) | [Tanha Rahun Main](https://open.spotify.com/album/1wdykphFC8ZpQMDx7znwdx) | 4:50 | 2023-05-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 
 > Move your body with your favorite 90s songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,820 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,106 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMm3yYbD7IO.md) - [plain]
 | 67 | [U Got 2 Let The Music \- Brescia Edit](https://open.spotify.com/track/7dIa8yS7HIPKkBvOmERSZ7) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [Best Of Cappella](https://open.spotify.com/album/5WnAHnV4xlvxZXEDOtISxX) | 3:38 |
 | 68 | [Crush \(Dance Mix\)](https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Crush](https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B) | 3:18 |
 | 69 | [Boom Boom Boom \(Radio Version\)](https://open.spotify.com/track/3zg4stPJlbNSBPA8HJzLZA) | [The Outhere Brothers](https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK) | [Boom Boom Boom](https://open.spotify.com/album/09KqsXmFtmMiRi885CPxOq) | 3:21 |
-| 70 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 |
-| 71 | [Feel It \- Radio Version](https://open.spotify.com/track/3tfVgoh2zXTq0rpPcm3Vvy) | [The Tamperer](https://open.spotify.com/artist/1hK5unnJvXQcBMO25YxOFZ), [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Alex Farolfi](https://open.spotify.com/artist/4FVWo02JNAzbxhp5FIXQLe), [Maya](https://open.spotify.com/artist/5wexzX1W2zWN2fZ1iXhxSl) | [Feel It](https://open.spotify.com/album/4aLuGBoXT0PEo7KIYq1Ew3) | 2:58 |
+| 70 | [Feel It \- Radio Version](https://open.spotify.com/track/3tfVgoh2zXTq0rpPcm3Vvy) | [The Tamperer](https://open.spotify.com/artist/1hK5unnJvXQcBMO25YxOFZ), [Get Far](https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA), [Alex Farolfi](https://open.spotify.com/artist/4FVWo02JNAzbxhp5FIXQLe), [Maya](https://open.spotify.com/artist/5wexzX1W2zWN2fZ1iXhxSl) | [Feel It](https://open.spotify.com/album/4aLuGBoXT0PEo7KIYq1Ew3) | 2:58 |
+| 71 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 |
 | 72 | [Too Blind to See It](https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG) | [Kym Sims](https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM) | [Too Blind To See It](https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3) | 3:31 |
 | 73 | [\(You Drive Me\) Crazy \[The Stop Remix!\] \- Remastered](https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:17 |
 | 74 | [Shine On](https://open.spotify.com/track/3Io2In7udpJEV80QePss2x) | [Degrees Of Motion](https://open.spotify.com/artist/0KsCD2zWvNNio55SHdC6s7) | [Degrees of Motion](https://open.spotify.com/album/65JXIFXtXfx2P3E1FL336I) | 5:01 |

@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-71 songs - 3 hr 36 min
+73 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [963 Hz \- Quiet Stars](https://open.spotify.com/track/6ZHHNp3E5pMskA4zGPmk9s) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Quiet Stars](https://open.spotify.com/album/7HtP4dHkmBSY6bmEzRUqAg) | 1:53 | 2023-07-13 | 2024-03-14 |
 | [963 Hz \- Sedang Tidur Part II](https://open.spotify.com/track/2tGu6Cz1fMnjoGZW5GNRI5) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur Part II](https://open.spotify.com/album/14g28ydElevtgofcH7Br51) | 2:28 | 2023-07-13 |  |
 | [963 Hz \- Soledad Tranquilo](https://open.spotify.com/track/3LbYuOrbDiJhnGzugPrd62) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Soledad Tranquilo](https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF) | 2:07 | 2023-07-13 |  |
+| [963 Hz \- Unfolding Space](https://open.spotify.com/track/68RfzLWOuXFVYqarMbhzWI) | [Synalyse Flow](https://open.spotify.com/artist/36pa0ZluG8Sr6eUvHMRnId) | [963 Hz \- Unfolding Space](https://open.spotify.com/album/4j1m80MunivAI9y6WlHcDF) | 2:15 | 2024-06-11 |  |
 | [963 Hz Conscious Care](https://open.spotify.com/track/5E57Zw3EzEqgXH3nfbXkBL) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Conscious Care](https://open.spotify.com/album/14kkMme3UE3XXbBsvdmzAp) | 2:44 | 2024-03-13 |  |
 | [963 Hz Coyuntura](https://open.spotify.com/track/3meLZFGFHBrdMa00aGwM4S) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 2:55 | 2023-07-13 |  |
 | [963 Hz Deep Breathing](https://open.spotify.com/track/0pY9RfLWbqMKguhWXrCCQ3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Deep Breathing](https://open.spotify.com/album/4gVsivQcSQfT3oEkMGtNJ5) | 2:38 | 2023-11-30 |  |
@@ -50,6 +51,7 @@
 | [Dissolving Tension 963 Hz](https://open.spotify.com/track/06bjoMmEMTXh2Xv5Xp7Acu) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Dissolving Tension 963 Hz](https://open.spotify.com/album/4jfmV4UmZum9mhBTXuo4Jw) | 3:24 | 2024-05-11 |  |
 | [Divine Hemispheres 963 Hz](https://open.spotify.com/track/3lnR4q4hog4TLdisyEXS97) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Divine Hemispheres 963 Hz](https://open.spotify.com/album/4B9ApONvomSvUlR6lIiNEo) | 2:55 | 2023-07-13 |  |
 | [Enlightment \- 963Hz](https://open.spotify.com/track/2nY7UgFmtpqeeQcB9vc6TD) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Enlightment \- 963Hz](https://open.spotify.com/album/2Ms7ggeaMmwqjmC0sgS6gM) | 2:48 | 2024-03-13 | 2024-05-12 |
+| [Eons 963 Hz](https://open.spotify.com/track/1gVQ73OlKpDeeOrMm1QJhi) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Eons 963 Hz](https://open.spotify.com/album/0l0lFnYU4MdiBa1sSHLtoG) | 3:14 | 2024-06-11 |  |
 | [Golden Intuition 963Hz](https://open.spotify.com/track/0HFNgMACGjYIen6R3vf4dk) | [Introspective Release](https://open.spotify.com/artist/0lOSiJ1BplaLxVIEEw3CHS) | [Golden Intuition 963Hz](https://open.spotify.com/album/6OvmLeuNefIkVJ879kpoc6) | 3:06 | 2023-07-13 |  |
 | [Harmonizing Crown Chakra](https://open.spotify.com/track/4bWp3WpPKS92o4hoWLsRjH) | [Vincent de Carsenti](https://open.spotify.com/artist/3o0sqYPgNVNs4Br8gQxSMs) | [All the Ways of God \(Meditative Music\)](https://open.spotify.com/album/0RzeIk6LNn3zkl2e7Cy1uD) | 1:04 | 2023-07-13 | 2023-12-01 |
 | [Higher Self 963 Hz](https://open.spotify.com/track/36c9hZ9vpMyKbHbg8geYvL) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:16 | 2023-07-13 |  |

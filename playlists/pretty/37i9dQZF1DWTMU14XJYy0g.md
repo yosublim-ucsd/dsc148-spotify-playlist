@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Los Piojos
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,466 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,485 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 46 | [Superman](https://open.spotify.com/track/2bjZVdbKirAuoARSGjb6Iy) | [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W) | [Superman](https://open.spotify.com/album/5Rhcjg2AVjkAHV6VPD2xux) | 3:39 |
 | 47 | [Cangrejal](https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a Destruir](https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm) | 4:10 |
 | 48 | [La Era Del Dragón](https://open.spotify.com/track/0Vmb4M1Ianl3hxYOOwUUja) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Era Del Dragón](https://open.spotify.com/album/6XHIbN2hCilPmLura52crR) | 3:40 |
-| 49 | [Serenata de una ruta larga](https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Serenata de una ruta larga](https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV) | 4:44 |
+| 49 | [Serenata de una ruta larga](https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Serenata de una ruta larga](https://open.spotify.com/album/6ViG0ICnYnj5KlVjxR6MDV) | 4:47 |
 | 50 | [Insomnio](https://open.spotify.com/track/0soxXSBCM7CrfzF2kfAo11) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Insomnio](https://open.spotify.com/album/5PYPuzpJjLgxu4j8QLySVI) | 4:07 |
 | 51 | [Cuchillos y Escudos](https://open.spotify.com/track/4Kr7A6YCXPcsjGy4iPpOYU) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Cuchillos y Escudos](https://open.spotify.com/album/5a63Im2wu5TKzoPsf8zbNn) | 3:54 |
 | 52 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |

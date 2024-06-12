@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "639 Hz The Anthem of Connection",
+        "url": "https://open.spotify.com/album/1cLyjr7T2DNLKl8ikluGgc"
+      },
+      "artists": [
+        {
+          "name": "Sigh and Release",
+          "url": "https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "639 Hz The Anthem of Connection",
+      "url": "https://open.spotify.com/track/6oCLYmIoXXgaSUVD1s37y6"
+    },
+    {
+      "album": {
         "name": "Tolerance",
         "url": "https://open.spotify.com/album/1Bxqf6Q41Gte8MJGXBgJqr"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 32312,
+  "num_followers": 32332,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "Everything for Nothing",
+      "url": "https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "NOT BY CHANCE",
         "url": "https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 230574,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/0abL7FZysjxpaxEPURpBsl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "Everything for Nothing",
-      "url": "https://open.spotify.com/track/0nrzVrjEz8G49T0lSQd2sy"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/1q8TJAtMTvA3FFjhcsDhvZ"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Dancing on Top of the World",
+      "url": "https://open.spotify.com/track/2YNKo5RSCPFs0X0YQmYGme"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "DAILY",
         "url": "https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 194368,
       "name": "DAILY",
       "url": "https://open.spotify.com/track/3dO540N74bBzkNctFZK76s"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/1q8TJAtMTvA3FFjhcsDhvZ"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Dancing on Top of the World",
-      "url": "https://open.spotify.com/track/2YNKo5RSCPFs0X0YQmYGme"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Currency",
-        "url": "https://open.spotify.com/album/0iE9w3HQScgdOPXoFEwGWh"
-      },
-      "artists": [
-        {
-          "name": "Ben Ford",
-          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Currency",
-      "url": "https://open.spotify.com/track/4OzUSLeplKwTm2iSbrkF8g"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/5p4J0GlaNKf5Ti8P3YjNYw"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 178878,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7qN4u1nehLLf702kG6j1QJ"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Currency",
+        "url": "https://open.spotify.com/album/0iE9w3HQScgdOPXoFEwGWh"
+      },
+      "artists": [
+        {
+          "name": "Ben Ford",
+          "url": "https://open.spotify.com/artist/10WbhRSfvwdGvzcOx0Ezgi"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Currency",
+      "url": "https://open.spotify.com/track/4OzUSLeplKwTm2iSbrkF8g"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Lazarus",
+        "url": "https://open.spotify.com/album/1mYVX6VT8bhVHlu3aUyfTc"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/4s3FRxV2vVlAUFHlrXyTUu"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/6Z0UDE7UctY5H0T3oBdHnX"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 189024,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Lazarus",
-        "url": "https://open.spotify.com/album/1mYVX6VT8bhVHlu3aUyfTc"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/4s3FRxV2vVlAUFHlrXyTUu"
     },
     {
       "added_at": "2023-02-18 06:22:02",

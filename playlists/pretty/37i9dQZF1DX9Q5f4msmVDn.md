@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,431 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,436 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 13 | [LEMONHEAD \(feat\. 42 Dugg\)](https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:10 |
 | 14 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 |
 | 15 | [dothatshit!](https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:04 |
-| 16 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 |
-| 17 | [Smoothies In 1991](https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Out The Trunk](https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ) | 3:44 |
+| 16 | [Smoothies In 1991](https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Out The Trunk](https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ) | 3:44 |
+| 17 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 |
 | 18 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 |
 | 19 | [Ocean Views](https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:50 |
 | 20 | [Got It All](https://open.spotify.com/track/5sHVIQEzTg8qcEstqlIig1) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:39 |

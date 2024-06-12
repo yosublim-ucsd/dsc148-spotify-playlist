@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,255 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,256 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 76 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
 | 77 | [Only Songs \(Radio Edit\)](https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 3:03 |
 | 78 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
-| 79 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
-| 80 | [Losing You](https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug) | 3:26 |
+| 79 | [Losing You](https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/3ZJHDe4rj9pnsAMMKiYMug) | 3:26 |
+| 80 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 81 | [The Records Were Ours](https://open.spotify.com/track/4UdsKKXEUAFqufpanvpdsW) | [Pierce Brothers](https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB) | [The Records Were Ours](https://open.spotify.com/album/4BXUB780HfPgYfi9lerlR9) | 3:05 |
 | 82 | [Love At Your Convenience](https://open.spotify.com/track/5RmYeDWwImW4OC63UQsbG0) | [The Ghost of Paul Revere](https://open.spotify.com/artist/30fXKjFrJ6I9tfwia1ZZMG) | [Love At Your Convenience](https://open.spotify.com/album/60a4GdYNRT135ejymVVsCt) | 3:33 |
 | 83 | [One Night Show](https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:48 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 94 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 |
 | 95 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
 | 96 | [Feel Like Going Home \(OurVinyl Sessions\)](https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Miko Marks \| OurVinyl Sessions](https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR) | 4:41 |
-| 97 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
-| 98 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 |
+| 97 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 |
+| 98 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Boy Named Banjo](https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
 | 99 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
 | 100 | [Way Back](https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G) | [The Lighthouse And The Whaler](https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3) | [Way Back](https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q) | 4:18 |
 

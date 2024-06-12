@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-401 songs - 21 hr 20 min
+402 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,11 +138,12 @@
 | [Fille à porter](https://open.spotify.com/track/6qpxifNt7ZpB8fmW2p6Vhx) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 3:15 | 2022-05-27 | 2022-07-29 |
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-08-27 | 2024-03-30 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-06-17 | 2022-10-30 |
+| [Forgive Me](https://open.spotify.com/track/6GZ1fXt4LMbYxqsh4KkzoU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:51 | 2024-06-11 |  |
 | [Fous N'importe Où](https://open.spotify.com/track/1wNStegcXC3X7jn7h7XUKt) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Fous N'importe Où](https://open.spotify.com/album/1UbFH7IAXYqKaHUcUVKvAF) | 3:00 | 2022-05-27 | 2022-07-03 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2022-06-17 | 2024-04-20 |
 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 | 2024-03-29 | 2024-05-06 |
 | [Funkds \(Life's A Beach\)](https://open.spotify.com/track/491Vb6fSo5Jgr5jaHYXEid) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Brighid Rose](https://open.spotify.com/artist/4wgAG8UPmfUVB1sVqgsDYB) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 3:40 | 2022-05-27 | 2022-06-12 |
-| [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 | 2024-05-11 |  |
+| [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 | 2024-05-11 | 2024-06-12 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-12 |  |
 | [Going up the Coast](https://open.spotify.com/track/2bTvNKT8bxyyPhzHu4A2Wx) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Going up the Coast](https://open.spotify.com/album/229OwGf2JaBsr2DFw9ixjy) | 2:54 | 2022-05-27 | 2022-07-29 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-07-26 | 2023-07-01 |

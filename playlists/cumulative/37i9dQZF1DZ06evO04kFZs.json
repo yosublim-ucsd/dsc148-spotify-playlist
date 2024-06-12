@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "30 (feat. Bizzy Banks)",
+      "url": "https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -60,7 +82,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 175756,
       "name": "Aim For The Moon (feat. Quavo)",
       "url": "https://open.spotify.com/track/6O7fPYTsb2mY0PiFt2ymDB"
@@ -78,7 +100,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 171891,
       "name": "AP - Music from the film Boogie",
       "url": "https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI"
@@ -162,7 +184,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 48000,
       "name": "Bad Bitch From Tokyo (Intro)",
       "url": "https://open.spotify.com/track/4OGIeHtYhRTJ8iW21UUyZW"
@@ -242,7 +264,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 182880,
       "name": "Brother Man",
       "url": "https://open.spotify.com/track/7wttMlE6un70hfwymwniYl"
@@ -352,7 +374,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 202815,
       "name": "Creature (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/3eV2WT9YhfzkxbufnBF8wK"
@@ -392,7 +414,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -490,7 +512,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 197938,
       "name": "Enjoy Yourself (feat. Karol G)",
       "url": "https://open.spotify.com/track/3NWrHCwvyII4fTx05PN3IO"
@@ -552,7 +574,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
@@ -592,7 +614,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Gangstas",
       "url": "https://open.spotify.com/track/1hg3RlqFZXJb5YgRoK9qmF"
@@ -672,7 +694,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 164579,
       "name": "Got It On Me",
       "url": "https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1"
@@ -712,7 +734,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
@@ -810,7 +832,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 204000,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj"
@@ -832,7 +854,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 160560,
       "name": "Mannequin (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 165640,
       "name": "Shake The Room (feat. Quavo)",
       "url": "https://open.spotify.com/track/7rSnKi58HPIVC0FVyh04Q1"
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
@@ -1414,7 +1436,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 156000,
       "name": "Woo Baby (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM"

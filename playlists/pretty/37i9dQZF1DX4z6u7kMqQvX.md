@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,264 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,258 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 45 | [Pediste flores \(con Loli Molina\)](https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Pediste flores \(con Loli Molina\)](https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5) | 3:13 |
 | 46 | [Por qué te quiero tanto?](https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Por qué te quiero tanto?](https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih) | 3:50 |
 | 47 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 |
-| 48 | [Conexión de Almas](https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Conexión de Almas](https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ) | 3:15 |
-| 49 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
+| 48 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
+| 49 | [Conexión de Almas](https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Conexión de Almas](https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ) | 3:15 |
 | 50 | [Aquellos misterios](https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Aquellos misterios](https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT) | 2:29 |
 | 51 | [Ciclo Lunar](https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Ciclo Lunar](https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl) | 3:33 |
 | 52 | [otr\(a v\)ez](https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [\(re\)definiciones](https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b) | 2:46 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 69 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
 | 70 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
 | 71 | [Polvo de estrellas](https://open.spotify.com/track/3SAaPKojF6MTyxoLd5WCXa) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Gerardo Nieto](https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2) | [Los Abrazos son Instantes Decisivos Vol\. II](https://open.spotify.com/album/555R1YI4L8OshPz3dNkZdL) | 3:44 |
-| 72 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 |
-| 73 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
+| 72 | [Cuando Estoy con El \- Sesión Jeanette](https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Cuando Estoy con El \(Sesión Jeanette\)](https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno) | 5:26 |
+| 73 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 |
 | 74 | [Domingo](https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [MIXTO](https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR) | 4:03 |
 | 75 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 |
 | 76 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 78 | [Luna en piscis](https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:26 |
 | 79 | [Tripulantes](https://open.spotify.com/track/0wX8N4xGeF5fZnq2yB8CGl) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Tripulantes](https://open.spotify.com/album/47BgPHezfsfaXbcE0Legup) | 3:48 |
 | 80 | [Solo](https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Solo](https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55) | 2:50 |
-| 81 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
-| 82 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
+| 81 | [Romance de Fin de Semana](https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy), [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Romance de Fin de Semana](https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN) | 4:35 |
+| 82 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
 | 83 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 |
 | 84 | [Sin mí :\(](https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf) | [PADAWVN](https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE), [Ussi](https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF) | [Sin mí :\(](https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4) | 3:47 |
 | 85 | [Nosotros Dos](https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Nosotros Dos](https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj) | 4:06 |

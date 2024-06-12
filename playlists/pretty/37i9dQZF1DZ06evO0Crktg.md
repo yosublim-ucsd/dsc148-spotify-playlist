@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 ### [This Is Jelly Roll](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Crktg)
 
-> This is Jelly Roll\. The essential tracks, all in one playlist.
+> This Is Jelly Roll\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,531 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,736 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 3 | [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 |
 | 4 | [Son Of A Sinner](https://open.spotify.com/track/6ngGiVX91DRmGDH4G5EgeO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:52 |
 | 5 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |
-| 6 | [Bottle and Mary Jane](https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:52 |
+| 6 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
 | 7 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
-| 8 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
+| 8 | [Bottle and Mary Jane](https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:52 |
 | 9 | [Only](https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 3:18 |
 | 10 | [Son Of The Dirty South](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 2:59 |
 | 11 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 40 | [Winds of Change](https://open.spotify.com/track/5jJOhbVGJt9O28IrPlBs7e) | [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Tommy Vext](https://open.spotify.com/artist/0C8Tdbzb05PRgz58aKN5gc), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Waylon & Willie IV](https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R) | 4:45 |
 | 41 | [Backslide](https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:03 |
 | 42 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
-| 43 | [Copenhagen In A Cadillac](https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:32 |
-| 44 | [Money](https://open.spotify.com/track/1MUhjYSAGXuejDzD8Qi8Qo) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Mud Mouth](https://open.spotify.com/album/2gCg9nIRbDzzAAdBFXdK6I) | 5:18 |
+| 43 | [Money](https://open.spotify.com/track/1MUhjYSAGXuejDzD8Qi8Qo) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Mud Mouth](https://open.spotify.com/album/2gCg9nIRbDzzAAdBFXdK6I) | 5:18 |
+| 44 | [Copenhagen In A Cadillac](https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:32 |
 | 45 | [5 AM](https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 3:46 |
 | 46 | [Train Tracks \(feat\. Struggle\)](https://open.spotify.com/track/2pDgan1hrEIgjFU21MOLf6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle](https://open.spotify.com/artist/0EmCmRWJM3kIDf0IBrj62j) | [Sobriety Sucks](https://open.spotify.com/album/2Y0q8RgRdv3zyX3mndNSPK) | 3:29 |
 | 47 | [Outlaw Classics](https://open.spotify.com/track/3MZI08IlR1CnfxJLMkm5rg) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Waylon & Willie III](https://open.spotify.com/album/138S8GterIlZRtIQCzMeml) | 3:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 50 | [Band Plays On](https://open.spotify.com/track/62x93blgkWEz6Huop8eSQA) | [Lil Wyte](https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [No Filter](https://open.spotify.com/album/0dE86L3lCP52MRnPjUOTtf) | 3:41 |
 | 51 | [I Went To College / I Went To Jail \(feat\. Jelly Roll\)](https://open.spotify.com/track/3FULZo3F26XP00rsLrXTLE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5) | 3:34 |
 
-Snapshot ID: `ZmTwgAAAAADc5ysqWLJXTeigPxKD3SYi`
+Snapshot ID: `ZmZCAAAAAAAy+d9FeC6NWLtRc/z19I/I`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jes\u00fas Adri\u00e1n Romero. Los temas esenciales, todos en una lista.",
-  "num_followers": 189860,
+  "description": "This Is Jes\u00fas Adri\u00e1n Romero. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 189909,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAABf34PN5s5B9Lf5wmlmaQXW",
+  "snapshot_id": "ZmZCAAAAAAAkEfnspkc8t6EUsAQssBU9",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marcela Gandara (Live)",
-        "url": "https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq"
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
       },
       "artists": [
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 330786,
-      "name": "T\u00fa Est\u00e1s Aqu\u00ed (Live)",
-      "url": "https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW"
+      "duration_ms": 289200,
+      "name": "Que Ser\u00eda De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
     },
     {
       "added_at": null,
@@ -167,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+        "name": "Marcela Gandara (Live)",
+        "url": "https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq"
       },
       "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Que Ser\u00eda De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
+      "duration_ms": 330786,
+      "name": "T\u00fa Est\u00e1s Aqu\u00ed (Live)",
+      "url": "https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW"
     },
     {
       "added_at": null,

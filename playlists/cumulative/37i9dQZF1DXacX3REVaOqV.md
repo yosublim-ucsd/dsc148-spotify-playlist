@@ -4,7 +4,7 @@
 
 > The best in house music
 
-442 songs - 1 day 6 hr 25 min
+443 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bangene](https://open.spotify.com/track/5zOPtrHceMJO6ydtLPvObb) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Bangene](https://open.spotify.com/album/5RXCW7G28MF7QzvpXxgEmX) | 2:45 | 2022-04-14 | 2022-07-29 |
 | [Be Funky](https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Be Funky](https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3) | 3:27 | 2022-04-14 | 2024-04-12 |
 | [Be with You \- Radio Edit](https://open.spotify.com/track/0DqwFLo68dQ8HsjFFrdPiF) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB), [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan) | [Be with You](https://open.spotify.com/album/3zEdRynsO932VFMxNFpGsy) | 3:22 | 2022-12-15 |  |
+| [Beautiful Day \(feat\. Liisi Lafontaine\)](https://open.spotify.com/track/2bBxIUeztazGNrbDYJF9RT) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Liisi Lafontaine](https://open.spotify.com/artist/06Sjyv44sQpv2i9EElnXWE) | [Beautiful Day \(feat\. Liisi Lafontaine\)](https://open.spotify.com/album/1bwb9TFemPzbyJMru309sq) | 3:59 | 2024-06-06 |  |
 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 | 2023-02-16 | 2023-03-19 |
 | [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 |  |
 | [Better \(feat\. Jena\)](https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Better \(feat\. Jena\)](https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i) | 2:52 | 2023-06-08 |  |
@@ -222,7 +223,7 @@
 | [Let the Sun Shine \- Purple Disco Machine Remix](https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Let the Sun Shine \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh) | 2:46 | 2022-04-20 | 2024-04-12 |
 | [Levante](https://open.spotify.com/track/6Pf7har3IRGctriYzbanjM) | [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq), [Miki Sax](https://open.spotify.com/artist/3cAeOoTvF23n4F59GgpvZM) | [Levante](https://open.spotify.com/album/6HQMIkx3pO5qAAhRmw5vcR) | 5:56 | 2022-04-14 | 2022-07-29 |
 | [Life](https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Life](https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b) | 2:50 | 2022-09-15 | 2023-06-09 |
-| [Life So Bright](https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Life So Bright EP](https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo) | 5:06 | 2022-10-27 |  |
+| [Life So Bright](https://open.spotify.com/track/2t0LqsZpeBXUkhLUneynjA) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Life So Bright EP](https://open.spotify.com/album/6Opq0kA0g15ql0eEz51VAo) | 5:06 | 2022-10-27 | 2024-06-12 |
 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-25 |  |
 | [Lights Go Down](https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 3:03 | 2023-12-01 | 2024-04-12 |
 | [Lights Go Down \(with SIDEPIECE\)](https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:03 | 2022-04-20 | 2023-12-11 |

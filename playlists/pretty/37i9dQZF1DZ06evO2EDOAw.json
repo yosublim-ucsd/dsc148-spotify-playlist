@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4373,
+  "num_followers": 4374,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADhk+XRNinoIUd0JBIpSB2E",
+  "snapshot_id": "ZmZCAAAAAAB33cdshMmk7yh9yWP+anHz",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Things of Heaven",
+        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 338448,
+      "name": "Now Here (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things Work Together",
         "url": "https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 294893,
       "name": "Worth It (feat. Kierra Sheard & Jawan Harris)",
       "url": "https://open.spotify.com/track/3qa9CI4W8SQf85VZzi7GIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things of Heaven",
-        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 338448,
-      "name": "Now Here (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
     },
     {
       "added_at": null,
@@ -499,6 +499,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 238610,
+      "name": "We Need You",
+      "url": "https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 247825,
+      "name": "I Choose You (Live)",
+      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
       },
@@ -527,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
       "artists": [
         {
@@ -536,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 247825,
-      "name": "I Choose You (Live)",
-      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
     },
     {
       "added_at": null,
@@ -563,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
       "artists": [
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
         }
       ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
+      "duration_ms": 402034,
+      "name": "My Redeemer (Live) (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/4PTSv8ZP7qStahGRZUw3p2"
     },
     {
       "added_at": null,
@@ -595,26 +639,6 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 402034,
-      "name": "My Redeemer (Live) (feat. Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/4PTSv8ZP7qStahGRZUw3p2"
     },
     {
       "added_at": null,
@@ -663,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Love Like Crazy",
+      "url": "https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -679,22 +719,6 @@
       "duration_ms": 276111,
       "name": "Done For Me (feat. Jekalyn Carr)",
       "url": "https://open.spotify.com/track/4myxhQ5I0XeClzbRHliMOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bold Right Life",
-        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Love Like Crazy",
-      "url": "https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb"
     },
     {
       "added_at": null,
@@ -731,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 335816,
-      "name": "Making A Way (feat. Adia)",
-      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
       },
@@ -775,6 +779,26 @@
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 335816,
+      "name": "Making A Way (feat. Adia)",
+      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
     },
     {
       "added_at": null,
@@ -819,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
       },
@@ -847,6 +855,22 @@
       "duration_ms": 75557,
       "name": "Intro (I Am Free) - Live",
       "url": "https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
     },
     {
       "added_at": null,
@@ -887,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 205178,
-      "name": "Mo' Better",
-      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
       },
@@ -915,6 +923,22 @@
       "duration_ms": 55573,
       "name": "Interlude - Live",
       "url": "https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 205178,
+      "name": "Mo' Better",
+      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
     },
     {
       "added_at": null,
@@ -951,26 +975,6 @@
       "duration_ms": 229840,
       "name": "Praise Him Now",
       "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 547048,
-      "name": "You Must Break - Live",
-      "url": "https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK"
     },
     {
       "added_at": null,

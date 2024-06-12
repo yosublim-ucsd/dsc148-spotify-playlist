@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Crossfaith",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6253\u9996\u7344\u9580\u540c\u597d\u4f1a",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 219146,
       "name": "Ain't That So Awesome",
       "url": "https://open.spotify.com/track/2AttQgWAUvUHABf6van7PO"
@@ -794,6 +794,24 @@
       "duration_ms": 231428,
       "name": "BUG",
       "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
+    },
+    {
+      "album": {
+        "name": "BUNBUN SUIBUN",
+        "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "BUNBUN SUIBUN",
+      "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
     },
     {
       "album": {
@@ -2705,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0mo1q8CqwCzEIarbF64a6L"
+      },
+      "artists": [
+        {
+          "name": "SHIFT_CONTROL",
+          "url": "https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165506,
+      "name": "MUSIC",
+      "url": "https://open.spotify.com/track/1nEqHv1JzL3d8f9Kh7IJNE"
+    },
+    {
+      "album": {
         "name": "My One Wish",
         "url": "https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk"
       },
@@ -3850,7 +3886,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
@@ -3912,6 +3948,24 @@
       "duration_ms": 192753,
       "name": "SLAY!!",
       "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
+    },
+    {
+      "album": {
+        "name": "smileY:)",
+        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115769,
+      "name": "smileY:)",
+      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
     },
     {
       "album": {
@@ -5174,7 +5228,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 229642,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u524d\u30bd\u30f3\u30b0 - 2\u5e74\u4ee5\u5185\u306b\u5225\u308c\u306a\u3044ver.",
       "url": "https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq"

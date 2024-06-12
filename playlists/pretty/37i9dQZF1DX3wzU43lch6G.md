@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,786 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,789 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 32 | [Şarkılar Güzelse Hala](https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Esirinim](https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs) | 3:37 |
 | 33 | [Gözlerinin Hapsindeyim](https://open.spotify.com/track/7B35SoCqYSOKiea23ZJ3QK) | [Kayahan](https://open.spotify.com/artist/71wTGSTWEPSLnfe7tA2wkX) | [Yemin Ettim](https://open.spotify.com/album/0wk9uSvvpf9DncU45NDb8V) | 2:52 |
 | 34 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
-| 35 | [Gördüm Günümü](https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:19 |
-| 36 | [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 |
+| 35 | [Güneşe Dokundum \- Deep Mix](https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe) | [Güneşe Dokundum \(Deep Mix\)](https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o) | 2:30 |
+| 36 | [Gördüm Günümü](https://open.spotify.com/track/0EkBcELE7lOOJqvWEDcW8l) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:19 |
 | 37 | [Sarmaşık](https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sarmaşık](https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY) | 4:05 |
 | 38 | [Güneşin Kızkardeşi](https://open.spotify.com/track/65Nr8C2BnozPaFH02SP38v) | [Gökçe Kılınçer](https://open.spotify.com/artist/1XDrTgMm3OOlIPOfyxm4xM) | [Kalbimde İzi Var](https://open.spotify.com/album/2hWypQdjsGKsyER7NlmIZj) | 4:37 |
 | 39 | [Bi' Fazla](https://open.spotify.com/track/5CEDFlX2WDEwZNHv588tJc) | [Elçin Orçun](https://open.spotify.com/artist/1e6JMnBTnlsmLfUIshPefJ), [Birkan Nasuhoğlu](https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d) | [Bi' Fazla](https://open.spotify.com/album/5ZytuhJ7mB6QwiUUQVbOFv) | 3:23 |

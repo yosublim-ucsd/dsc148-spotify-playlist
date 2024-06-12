@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 ### [This Is Vilma Palma e Vampiros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3uRjKu)
 
-> This Is Vilma Palma e Vampiros\. Los temas esenciales, todos en una lista.
+> This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,209 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,216 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Besos en el Ascensor](https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a) | [Manu Piró](https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Besos en el Ascensor](https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03) | 3:10 |
 | 50 | [La Carta](https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 4:16 |
 
-Snapshot ID: `ZmTwgAAAAABPUp++MItDF0cC0cbdf353`
+Snapshot ID: `ZmZCAAAAAAAoppolO/+JO9N4hGR0ugs/`

@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-333 songs - 15 hr 54 min
+340 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2021-11-11 |  |
 | [beslow](https://open.spotify.com/track/07QmUmO6lJaMGr6jKCekXl) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [beslow](https://open.spotify.com/album/2zs9DYVAe53LBaoWzRzAQr) | 3:46 | 2022-07-08 | 2022-09-23 |
 | [Best of Luck](https://open.spotify.com/track/1qmbbOdAxdHuyxT3YU5jCh) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Best of Luck](https://open.spotify.com/album/2H031CDVjncr8LcOEFRGD5) | 2:51 | 2022-01-21 | 2023-10-20 |
+| [Better Days Are Coming](https://open.spotify.com/track/08IKOjwZgFlgNyXF5hPF2F) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Better Days Are Coming](https://open.spotify.com/album/1IB8TKBejd4LgmJyzQf7Xv) | 2:43 | 2024-06-11 |  |
 | [Bibaa](https://open.spotify.com/track/1Vh0lvwArznG7Y67uUFlBJ) | [Eye Tide](https://open.spotify.com/artist/1jEP1ZVf7FIRHLof2S0j48) | [Aston Villa](https://open.spotify.com/album/3ZmT16JHQLpKeTMw4CfPFO) | 3:37 | 2022-01-21 |  |
 | [Blinders](https://open.spotify.com/track/08G0wuFm4k0UjklJ05ePBg) | [Pimmo](https://open.spotify.com/artist/6Oe4ufKNdUJ2JnpbmEvRh9) | [Blinders](https://open.spotify.com/album/63htBYCdBMxsnlh5Y81LY6) | 3:48 | 2021-11-11 | 2022-07-22 |
 | [blu sparks](https://open.spotify.com/track/5RwVk97sKysWUoyBXbbRno) | [xThiago](https://open.spotify.com/artist/7nq1gvw8Yv2vVFlmGJ2fqd) | [blu sparks](https://open.spotify.com/album/3G91aiN6UnIHlSKU7Co8ij) | 3:16 | 2021-11-11 | 2022-09-17 |
@@ -123,6 +124,7 @@
 | [Forever Yours](https://open.spotify.com/track/6uviz3fvF7MzJobVeJCXsZ) | [Reza Solhi](https://open.spotify.com/artist/1Tm9n1qxzzLEpXGSu3nWIJ) | [Forever Yours](https://open.spotify.com/album/0nWeoNfUl2JRU8yWd88KLL) | 4:07 | 2021-11-11 | 2022-01-22 |
 | [Foundation](https://open.spotify.com/track/0n5EQPSY4Gm8ckMKuprHzy) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Foundation](https://open.spotify.com/album/54rJNwktOmmRTnukRyMxTL) | 2:27 | 2021-11-11 |  |
 | [foxy](https://open.spotify.com/track/5ulkTVmdOUNaymBoWKA9Ng) | [QOOKi](https://open.spotify.com/artist/5TOUzS7Af3LJBfnTF7E0sq) | [foxy](https://open.spotify.com/album/7AvbXLf6cNq3QUEyZLQ4M4) | 2:00 | 2022-04-05 | 2023-04-29 |
+| [Free](https://open.spotify.com/track/7yfwAtUNPSOma9fyHX7WhI) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Free](https://open.spotify.com/album/5VZQ23cctrSjHoQWXwYNaJ) | 2:32 | 2024-06-11 |  |
 | [French Pink](https://open.spotify.com/track/1hNVgS6zFUasAyXMQYnPoP) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [French Pink](https://open.spotify.com/album/42Al4KDJEapvINkmsovE7X) | 2:21 | 2022-01-21 |  |
 | [Frivolous](https://open.spotify.com/track/1fVj0isyvpOfiLYonUNnte) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Frivolous](https://open.spotify.com/album/0aRy2vynizabbfMoWyIHLC) | 3:18 | 2021-11-11 | 2022-01-22 |
 | [Gambia](https://open.spotify.com/track/3dFgvv8ft1DHbW28Akce50) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Gambia](https://open.spotify.com/album/6MBaL1snqhQFgwVM5SwaFT) | 3:57 | 2021-11-11 | 2022-04-15 |
@@ -131,6 +133,7 @@
 | [Get in Line](https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Get in Line](https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS) | 3:24 | 2022-02-10 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-11-11 | 2022-09-17 |
 | [glacial](https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2) | [Tiriba](https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ) | [glacial](https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g) | 3:35 | 2022-02-10 | 2023-10-03 |
+| [go slow](https://open.spotify.com/track/6bEDklgyA7SdQTrRZjI1n4) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [go slow](https://open.spotify.com/album/1T4REAJHL1tDzgEsNOTblY) | 2:38 | 2024-06-11 |  |
 | [great view](https://open.spotify.com/track/74UTn1kkhqB9jX3uaDuN6S) | [Awrail](https://open.spotify.com/artist/7bNQNzvOo3pNycy6qspOXO) | [great view](https://open.spotify.com/album/44a0fRSPj0KQpv3wR5YNo9) | 2:04 | 2022-07-01 | 2023-05-06 |
 | [grenadine](https://open.spotify.com/track/7ILFq1DgzrSm8vJE0GINBY) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [grenadine](https://open.spotify.com/album/0tBFQCg1QzmVCraGDfEqAl) | 2:53 | 2022-05-13 | 2023-08-25 |
 | [Ground Concrete](https://open.spotify.com/track/7rhoPowNAOMG9GPzZUCQD9) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Architecture](https://open.spotify.com/album/3NbGDz98pX5aWxroN1t0Cy) | 2:09 | 2021-11-11 | 2022-05-20 |
@@ -160,6 +163,7 @@
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2021-11-11 | 2022-01-22 |
 | [Last Call](https://open.spotify.com/track/6ygeLzsdN6NrxDVcGWlV0u) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Last Call](https://open.spotify.com/album/5UlDa30dE4XZP1G5hCdr5P) | 2:52 | 2023-11-17 |  |
 | [Leaning Backwards](https://open.spotify.com/track/5MXNVNhGjeAJ7iVTYZTAZm) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [Equality](https://open.spotify.com/album/4bCi8izrMc43Wdenchwy56) | 3:11 | 2021-11-11 | 2022-04-06 |
+| [Lemonade](https://open.spotify.com/track/16Ittgs2X1wTQCBIKew3xw) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Lemonade](https://open.spotify.com/album/43cUAvWfFqefn4TGY1gPFF) | 2:31 | 2024-06-11 |  |
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2021-11-11 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-11 |  |
 | [Lifesaver](https://open.spotify.com/track/0ErNDv1Ki7vVXlWPUoEVC0) | [Adam Doschki](https://open.spotify.com/artist/6Srxg2LqSxDvLlgxWkvUzO) | [Lifesaver](https://open.spotify.com/album/0xuZTpvDmtYL3ychCXbNHl) | 1:46 | 2021-11-11 | 2022-04-06 |
@@ -177,6 +181,7 @@
 | [Lunar Eclipse](https://open.spotify.com/track/5DUNwt1A9BmKM0mWhufyAn) | [Serge Rey](https://open.spotify.com/artist/0KKCxS6r36wfKylvGK1gSy) | [Lunar Eclipse](https://open.spotify.com/album/4OeQwVd6QMFEtYordZZJV8) | 3:12 | 2021-11-11 | 2022-01-22 |
 | [luscious](https://open.spotify.com/track/7I7Y9ZPGOLbtpjs39VVH2o) | [temperley](https://open.spotify.com/artist/5lDF5BScxTU2sgkyqBONFU) | [luscious](https://open.spotify.com/album/4w7NyepbdBl8SVahPqD2O9) | 2:51 | 2022-05-13 |  |
 | [Magashi](https://open.spotify.com/track/7tONyJJejLCK78e4xX7xa8) | [Ørn](https://open.spotify.com/artist/2g8oDoqZwwzpF6Km7f0kp2) | [Magashi](https://open.spotify.com/album/6yKU6BYwDtZMwo3xLGHqTv) | 3:13 | 2023-05-26 | 2023-12-02 |
+| [Mai Tai](https://open.spotify.com/track/5jJKF6d8eejxBMeVFzhpJ7) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Mai Tai](https://open.spotify.com/album/0mHFQ6lcS72deE18NqgiWc) | 2:32 | 2024-06-11 |  |
 | [Mannequin](https://open.spotify.com/track/36Uz12ctE58QztkK67Doya) | [Chewy WO](https://open.spotify.com/artist/3pa7MdSYqgFazXfYIQehhV) | [Mannequin](https://open.spotify.com/album/4k3gJQHthd1Vcs90viihk1) | 3:09 | 2021-11-11 | 2022-02-11 |
 | [Manzana](https://open.spotify.com/track/03nyiU9gpCQSywZIGK2LGM) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Manzana](https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb) | 3:25 | 2022-07-29 | 2022-10-14 |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-11 |  |
@@ -212,6 +217,7 @@
 | [Numberless](https://open.spotify.com/track/5ZDSl9sx8sDxzrrcAddsJm) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Numberless](https://open.spotify.com/album/4u2RN3NRm5qXEkI7eE0E24) | 2:46 | 2022-06-03 |  |
 | [Off screen](https://open.spotify.com/track/08kFs2GspiW38XeXbqTZ40) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Off screen](https://open.spotify.com/album/3uu5ymy6XsnxGZWp0SKGzU) | 3:09 | 2024-05-11 |  |
 | [Old Fashioned](https://open.spotify.com/track/50VvyaIar4rnXV1twzQF8j) | [AVEVO](https://open.spotify.com/artist/2NH3ru36Tjtp62Mm3Mz2k3) | [Old Fashioned](https://open.spotify.com/album/5WpXyo5UI39l08h14H3gYe) | 2:39 | 2023-07-21 |  |
+| [Olhos Verdes](https://open.spotify.com/track/1uHAWWCOwlkBGZbLNYzCC4) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb) | [Olhos Verdes](https://open.spotify.com/album/78nu0k7uAB6ZziKrAW2Uq7) | 2:46 | 2024-06-11 |  |
 | [Once I Was Blue](https://open.spotify.com/track/5RcrJT6Kj5rkdrYcVSqGQG) | [Jaake Alsonn](https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f) | [Once I Was Blue](https://open.spotify.com/album/7oSckTig9Rl8YeTP5n1Vi0) | 3:24 | 2024-02-13 |  |
 | [Once More](https://open.spotify.com/track/1IV1l4rbdAFBOHBJTr1icq) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Once More](https://open.spotify.com/album/5S6sjt5S3sVJyUD9JR35Z9) | 2:22 | 2021-11-11 | 2022-04-15 |
 | [One for Babushka](https://open.spotify.com/track/6YfQRaPuHSNcNSyMQ3DXno) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Claptrap](https://open.spotify.com/album/7j1jLxax94o0cRXF7bf81A) | 3:17 | 2021-11-11 |  |
@@ -239,6 +245,7 @@
 | [Punt](https://open.spotify.com/track/6ZqRspECTUuHwKbtagUaNh) | [Steve Residence](https://open.spotify.com/artist/3PGuQmihozoJRR9SeY7ldd) | [Punt](https://open.spotify.com/album/0nV0Z5sT5iAk3kG5BtUCM9) | 2:59 | 2021-11-11 | 2022-09-17 |
 | [Purity](https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [Purity](https://open.spotify.com/album/7MqAJ6JKmdhqgb5TZyNK5u) | 3:45 | 2022-09-16 |  |
 | [Purple Lobby](https://open.spotify.com/track/7tRv23Uvd3lhucDZ0OwVHI) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Second Floor](https://open.spotify.com/album/4NyAacQTvQf1Qc78nnPUKk) | 1:34 | 2021-11-11 | 2022-05-20 |
+| [push](https://open.spotify.com/track/4heyh6NfIMy01GUgoXJBfT) | [sugar namnam](https://open.spotify.com/artist/0ik5AyIo0Nqj2u3LlEuvy3) | [push](https://open.spotify.com/album/3K8mlJvdvOkyvav4t13B8J) | 2:05 | 2024-06-11 |  |
 | [Raincloud](https://open.spotify.com/track/3z8CzX8qNNsiQsEd9jSIny) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Raincloud](https://open.spotify.com/album/4XkBtM09TG8aAC2QLDzKel) | 2:25 | 2022-10-28 |  |
 | [Relax](https://open.spotify.com/track/7mv5cFn0qM2Mlx3BLqy3Zp) | [Yavuz Grill](https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA) | [Relax](https://open.spotify.com/album/6WE2SguoidmTrZtYXrEAoU) | 2:16 | 2024-03-04 |  |
 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 | 2021-11-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6646,
+  "num_followers": 6655,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACrdQIoW+hckKI0IwU7ysf+",
+  "snapshot_id": "ZmZCAAAAAACYO2De32gBpRvJe9ZqTjgT",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 187213,
-      "name": "Sanko",
-      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
+      "duration_ms": 208040,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 208040,
-      "name": "Don Dada",
-      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
+      "duration_ms": 187213,
+      "name": "Sanko",
+      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
     },
     {
       "added_at": null,
@@ -227,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Serious",
-        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
       "artists": [
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 245626,
-      "name": "Good Or Bad (Oway)",
-      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
+      "duration_ms": 173840,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
     },
     {
       "added_at": null,
@@ -263,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
       },
       "artists": [
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
+        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 173840,
-      "name": "Born to Win",
-      "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
+      "duration_ms": 245626,
+      "name": "Good Or Bad (Oway)",
+      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 280841,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ah Blem Blem",
-        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ah Blem Blem",
-      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
     },
     {
       "added_at": null,

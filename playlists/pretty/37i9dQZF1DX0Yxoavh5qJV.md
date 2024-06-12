@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,581,238 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,580,548 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 70 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 |
 | 71 | [Lonely This Christmas](https://open.spotify.com/track/5DMItYJluCFc7YtFdP4aXo) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [A's, B's And Rarities](https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW) | 3:33 |
 | 72 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 |
-| 73 | [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 |
-| 74 | [Silent Night](https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 4:11 |
+| 73 | [Silent Night](https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 4:11 |
+| 74 | [8 Days of Christmas](https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:29 |
 | 75 | [Under The Mistletoe](https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Under The Mistletoe](https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U) | 3:45 |
 | 76 | [Grown\-Up Christmas List](https://open.spotify.com/track/24lCPIiEWKg9K7k1Gh1h8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 5:02 |
 | 77 | [Santa Baby](https://open.spotify.com/track/6YJdPrH3i2POzu7hdHIRrb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 2:50 |

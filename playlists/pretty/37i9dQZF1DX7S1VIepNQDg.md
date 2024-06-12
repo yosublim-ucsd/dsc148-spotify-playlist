@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,458 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,455 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 51 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 |
 | 52 | [Asthma \- Billy Lemos Remix](https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Asthma \(Billy Lemos Remix\)](https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn) | 2:03 |
 | 53 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 |
-| 54 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
-| 55 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
+| 54 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
+| 55 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
 | 56 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
 | 57 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
 | 58 | [Always Got The Love](https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:27 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 69 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
 | 70 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
 | 71 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
-| 72 | [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 |
-| 73 | [Territory Day](https://open.spotify.com/track/48e8TRm8xNuvCvGH9nQ6WM) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 5:26 |
+| 72 | [Territory Day](https://open.spotify.com/track/48e8TRm8xNuvCvGH9nQ6WM) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 5:26 |
+| 73 | [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 |
 | 74 | [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 |
 | 75 | [Endit \(feat\. Rromarin\)](https://open.spotify.com/track/3L2Lpa6cIeJEnr81n1TbUs) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit \(feat\. Rromarin\)](https://open.spotify.com/album/0vslTcnIU2dvfgOsP4tlJR) | 4:51 |
 

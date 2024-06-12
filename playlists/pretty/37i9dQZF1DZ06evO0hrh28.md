@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 ### [This Is Emilia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hrh28)
 
-> This is Emilia\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Emilia\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,618 likes - 46 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,725 likes - 46 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 40 | [Billion](https://open.spotify.com/track/0LX3DnrnDI7dkiKsfWbgj5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Billion](https://open.spotify.com/album/52wcnAEamts2IYdOxpDMcm) | 2:59 |
 | 41 | [BB \- Emilia en Vivo](https://open.spotify.com/track/2EaqSjTQuzsQ3F8ncmsFKW) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Emilia en Vivo](https://open.spotify.com/album/3jxfIy0En401wjrtIZcBXh) | 2:45 |
 | 42 | [828](https://open.spotify.com/track/5FYUCl30XA4avs2aBKhKaL) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [828](https://open.spotify.com/album/6aBXXL93A2l6PEsXHfGomS) | 3:24 |
-| 43 | [No Más](https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [No Más](https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ) | 2:32 |
-| 44 | [Pal Perreo](https://open.spotify.com/track/607uAAsoV2mkEZuZR5J59s) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Pal Perreo](https://open.spotify.com/album/7GRrr1fX97vePkRz5ATbi6) | 2:42 |
+| 43 | [Pal Perreo](https://open.spotify.com/track/607uAAsoV2mkEZuZR5J59s) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Pal Perreo](https://open.spotify.com/album/7GRrr1fX97vePkRz5ATbi6) | 2:42 |
+| 44 | [No Más](https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [No Más](https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ) | 2:32 |
 | 45 | [Te Doy Mi Vida \(Masters en Parranda\)](https://open.spotify.com/track/5qVqk68C5AmFL2faVr8iCg) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [Te Doy Mi Vida \(Masters en Parranda\)](https://open.spotify.com/album/4zRYBvcLwIaCeEBHqQQ5Di) | 3:04 |
 | 46 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:53 |
 
-Snapshot ID: `ZmTwgAAAAABsJG16EtS6zLx7xgQkNs24`
+Snapshot ID: `ZmZCAAAAAABmp6DyfyoIeAhiEP9IWEAV`

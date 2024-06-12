@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,026 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,012 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 33 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 34 | [Silent Night](https://open.spotify.com/track/7xCJ4D6ka7bXhGbL4NsEEi) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Silent Night](https://open.spotify.com/album/2InCKrQ5NeFtanOHA46WAz) | 3:45 |
 | 35 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
-| 36 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
-| 37 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 |
+| 36 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 |
+| 37 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
 | 38 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 39 | [Together In Electric Dreams](https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Together In Electric Dreams](https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy) | 3:21 |
 | 40 | [White Christmas \(with Shania Twain\)](https://open.spotify.com/track/114461rbzcgTriw8n4FOPW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:38 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 67 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas Wishes](https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI) | 2:46 |
 | 68 | [Give Love on Christmas Day \(Piano Version\) \- Recorded Live at Spotify Studios NYC](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \(Piano Version\) \[Recorded Live at Spotify Studios NYC\]](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |
 | 69 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 |
-| 70 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
-| 71 | [It May Be Winter Outside \(But In My Heart It's Spring\)](https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Ultimate Pop Christmas](https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm) | 3:08 |
+| 70 | [It May Be Winter Outside \(But In My Heart It's Spring\)](https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Ultimate Pop Christmas](https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm) | 3:08 |
+| 71 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
 | 72 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 73 | [What I Want For Xmas](https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4) | [Orba Squara](https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX) | [What I Want For Xmas](https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w) | 2:54 |
 | 74 | [Together at Christmas](https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D) | [Together at Christmas](https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98) | 3:37 |

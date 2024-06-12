@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: SZA",
+  "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: Rosal\u00eda",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -5124,8 +5124,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
           "name": "Justin Bieber",
@@ -11030,6 +11030,28 @@
       "duration_ms": 202333,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
+    },
+    {
+      "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202061,
+      "name": "Strip That Down (feat. Quavo)",
+      "url": "https://open.spotify.com/track/29JrmE89KgRyCxBIzq2Ocw"
     },
     {
       "album": {

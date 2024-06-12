@@ -12809,6 +12809,24 @@
     },
     {
       "album": {
+        "name": "Sensible",
+        "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205290,
+      "name": "Sensible",
+      "url": "https://open.spotify.com/track/5hezYkGjsT559hGnJsKUyN"
+    },
+    {
+      "album": {
         "name": "Ser\u00e9",
         "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
       },

@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Offspring. Los temas esenciales, todos en una lista.",
-  "num_followers": 388878,
+  "description": "This is The Offspring. The essential tracks, all in one playlist.",
+  "num_followers": 388964,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACZR9tkXY5QRgLBlDR9Csex",
+  "snapshot_id": "ZmZCAAAAAADlHemKLPgCpO/X5JiaKviK",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,25 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Pretty Fly (For A White Guy)",
-      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
+      "duration_ms": 133586,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": null,
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Half-Truism",
-      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Splinter",
         "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
       },
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 133586,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
+      "duration_ms": 205946,
+      "name": "Half-Truism",
+      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228653,
+      "name": "She's Got Issues",
+      "url": "https://open.spotify.com/track/2uUqUZtmUHMymhrW9c4gl9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 142413,
       "name": "Dividing By Zero",
       "url": "https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Defy You",
-      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Defy You",
+      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 189813,
       "name": "Secrets From The Underground",
       "url": "https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Mota",
-      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
       "duration_ms": 167240,
       "name": "Come Out Swinging",
       "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "Mota",
+      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
       "added_at": null,
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Kristy, Are You Doing Okay?",
-      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
+      "duration_ms": 240213,
+      "name": "Dirty Magic",
+      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
     },
     {
       "added_at": null,
@@ -719,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
@@ -728,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 240213,
-      "name": "Dirty Magic",
-      "url": "https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX"
+      "duration_ms": 222866,
+      "name": "Kristy, Are You Doing Okay?",
+      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 155360,
       "name": "Jennifer Lost The War",
       "url": "https://open.spotify.com/track/1AeosetkVBmPqON7FkWSLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "We Never Have Sex Anymore",
-      "url": "https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200"
     }
   ],
   "unique_name": "This Is The Offspring",

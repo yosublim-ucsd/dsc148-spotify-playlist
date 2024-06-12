@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,547 likes - 41 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,546 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 | 7 | [Oh Babe](https://open.spotify.com/track/3baxT5h8rJ3j5RPVpanOz9) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Oh Babe](https://open.spotify.com/album/0gO51tYSNKHZk6zjv0dglZ) | 2:49 |
 | 8 | [Higher](https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Umaedo](https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74) | [Higher](https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS) | 2:55 |
 | 9 | [Move With Tha](https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Move With Tha](https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ) | 3:06 |
-| 10 | [Unexpected](https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Unexpected](https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3) | 2:54 |
-| 11 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 |
+| 10 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 |
+| 11 | [Unexpected](https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Unexpected](https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3) | 2:54 |
 | 12 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
 | 13 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 |
 | 14 | [Is It Me](https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Is It Me](https://open.spotify.com/album/1PwT4vLwRrpzOcJlnogRSf) | 2:32 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 | 40 | [Light It Up](https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:08 |
 | 41 | [Amped](https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I) | 3:01 |
 
-Snapshot ID: `ZmTwgAAAAAAkc9KmJYpYxek74IxWj98j`
+Snapshot ID: `ZmZCAAAAAACWgHPuMt5GwT/5BjpQHULg`

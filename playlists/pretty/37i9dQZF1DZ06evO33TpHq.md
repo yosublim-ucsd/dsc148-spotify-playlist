@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,180 likes - 48 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,204 likes - 48 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 47 | [Cannons](https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC) | 4:09 |
 | 48 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 
-Snapshot ID: `ZmTwgAAAAACQvZ3nGoaLKGrlL+o8Cfr1`
+Snapshot ID: `ZmZCAAAAAABdcxfYgzZJTAvzYvwrTv+Q`

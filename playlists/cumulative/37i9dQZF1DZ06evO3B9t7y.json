@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Carin Leon. Los temas esenciales, todos en una lista.",
+  "description": "This is Carin Leon. The essential tracks, all in one playlist.",
   "name": "This Is Carin Leon",
   "tracks": [
     {
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 168000,
       "name": "Me Gusta Estar Contigo",
       "url": "https://open.spotify.com/track/4mmaQPVzYMBlUKGehvrfOB"
@@ -1996,6 +1996,24 @@
       "duration_ms": 160153,
       "name": "Pedazo De Tonto",
       "url": "https://open.spotify.com/track/3jasf0mJzfHDxP5q3ZNpPx"
+    },
+    {
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174206,
+      "name": "Por culpa de un tercero",
+      "url": "https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX"
     },
     {
       "album": {

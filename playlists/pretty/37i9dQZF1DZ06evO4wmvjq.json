@@ -1,12 +1,12 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 2050,
+  "num_followers": 2052,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACps//smEBroLuoyUtpxHo4",
+  "snapshot_id": "ZmZCAAAAAABLk+0BysN38/5i+mTvCqQs",
   "tracks": [
     {
       "added_at": null,
@@ -403,18 +403,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marley Bell",
-        "url": "https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30"
+        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
+        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
       },
       "artists": [
         {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Cecil Lytle",
+          "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
         }
       ],
-      "duration_ms": 43468,
-      "name": "Marley Bell",
-      "url": "https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn"
+      "duration_ms": 117400,
+      "name": "5 Preludes, Op. 74: No. 2. Tres lent, contemplatif",
+      "url": "https://open.spotify.com/track/5fvAOnB3TFJWaehSr9L7Dt"
     },
     {
       "added_at": null,
@@ -439,26 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
-        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
+        "name": "Marley Bell",
+        "url": "https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30"
       },
       "artists": [
         {
-          "name": "Alexander Scriabin",
-          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
-        },
-        {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Cecil Lytle",
-          "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
         }
       ],
-      "duration_ms": 117400,
-      "name": "5 Preludes, Op. 74: No. 2. Tres lent, contemplatif",
-      "url": "https://open.spotify.com/track/5fvAOnB3TFJWaehSr9L7Dt"
+      "duration_ms": 43468,
+      "name": "Marley Bell",
+      "url": "https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn"
     },
     {
       "added_at": null,
@@ -747,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+        "name": "Way Out Yonder",
+        "url": "https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
         }
       ],
-      "duration_ms": 347906,
-      "name": "Crucifixion Voices",
-      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
+      "duration_ms": 827826,
+      "name": "Dark Queen",
+      "url": "https://open.spotify.com/track/0lmQpxXHIUXD8qdgDrGzqD"
     },
     {
       "added_at": null,
@@ -772,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Tango Ladeado",
-      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
+      "duration_ms": 276146,
+      "name": "Llanto",
+      "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
     },
     {
       "added_at": null,
@@ -815,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Way Out Yonder",
-        "url": "https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m"
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Gyan Riley",
-          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
         }
       ],
-      "duration_ms": 827826,
-      "name": "Dark Queen",
-      "url": "https://open.spotify.com/track/0lmQpxXHIUXD8qdgDrGzqD"
+      "duration_ms": 347906,
+      "name": "Crucifixion Voices",
+      "url": "https://open.spotify.com/track/3YrSRU1HKiCPFnjAbZ7Rr7"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 276146,
-      "name": "Llanto",
-      "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
+      "duration_ms": 207746,
+      "name": "Tango Ladeado",
+      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
     },
     {
       "added_at": null,

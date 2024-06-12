@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,484 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,489 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 50 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
 | 51 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
 | 52 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 |
-| 53 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
-| 54 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 |
+| 53 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 |
+| 54 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
 | 55 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
 | 56 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
-| 57 | [space jazz](https://open.spotify.com/track/5JngOFWX3RuNDAhxbofBht) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [space jazz](https://open.spotify.com/album/0BGU49UTwEGwvzxjJK1gUo) | 2:18 |
-| 58 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 |
-| 59 | [Toyohashi](https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Toyohashi](https://open.spotify.com/album/2rgsNRuba87QugaU6gFtmD) | 1:32 |
-| 60 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 |
-| 61 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 |
-| 62 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 |
+| 57 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 |
+| 58 | [space jazz](https://open.spotify.com/track/5JngOFWX3RuNDAhxbofBht) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [space jazz](https://open.spotify.com/album/0BGU49UTwEGwvzxjJK1gUo) | 2:18 |
+| 59 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 |
+| 60 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 |
+| 61 | [Toyohashi](https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Toyohashi](https://open.spotify.com/album/2rgsNRuba87QugaU6gFtmD) | 1:32 |
+| 62 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 |
 | 63 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
 | 64 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
 | 65 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |

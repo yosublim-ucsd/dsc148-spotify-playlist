@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 ### [This Is Green Day](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nBpII)
 
-> This is Green Day\. Todos os maiores hits em uma só playlist.
+> This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,722 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,868 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 30 | [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 |
 | 31 | [Give Me Novacaine / She's a Rebel](https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 5:26 |
 | 32 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
-| 33 | [1981](https://open.spotify.com/track/5p5lAB6YJioo8gJIck84JJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:09 |
+| 33 | [The American Dream Is Killing Me](https://open.spotify.com/track/0yq78eXBvWVgkqojBe46SX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:06 |
 | 34 | [Stray Heart](https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡DOS!](https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs) | 3:44 |
 | 35 | [Redundant](https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 3:18 |
 | 36 | [Walking Contradiction](https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
 | 50 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 |
 
-Snapshot ID: `ZmTwgAAAAACofIarWwEQdks9Iv+lm8Cm`
+Snapshot ID: `ZmZCAAAAAACwe2ljIHK5MOdcm07wmDDV`

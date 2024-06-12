@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Goat Girl
 
-1,271 songs - 3 day 0 hr 27 min
+1,272 songs - 3 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A New Hope](https://open.spotify.com/track/3QCUjzsCibWHRferuahfXK) | [Kitschen Boy](https://open.spotify.com/artist/3us25I84azA5CwbzFMB8vC) | [Now Arriving At Panic Station](https://open.spotify.com/album/2yobcjl3jVYiYpxgHM0qzx) | 4:38 | 2024-05-10 |  |
 | [A Place You Grew Up In](https://open.spotify.com/track/6x7Urov7z6SvWEnOZYtlgF) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [A Place You Grew Up In](https://open.spotify.com/album/747rEJWxtjhJBDetMDt9yU) | 3:55 | 2023-04-14 | 2023-06-16 |
 | [a vision of you](https://open.spotify.com/track/6jsg8ZDaCjAwFHYvdkzI2M) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [a vision of you](https://open.spotify.com/album/5YVWwGXF1In8WQgk6snPfL) | 3:22 | 2021-04-02 | 2022-04-21 |
+| [A/B](https://open.spotify.com/track/6uYxmyVvwe1uWkS7hQkMxg) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Rocky Top Ballads](https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc) | 4:57 | 2024-06-11 |  |
 | [A/B Futures](https://open.spotify.com/track/3W4Nr0J4tfKet8YjHGHXLd) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Indistinct Conversations](https://open.spotify.com/album/3a3g4ZBJyIWNmUtzUKFxGn) | 3:39 | 2021-03-05 | 2022-03-12 |
 | [Abalone](https://open.spotify.com/track/4OGBU3agg96CA483Q280FP) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Abalone](https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT) | 2:06 | 2022-12-16 | 2023-03-04 |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-03-05 | 2022-04-19 |

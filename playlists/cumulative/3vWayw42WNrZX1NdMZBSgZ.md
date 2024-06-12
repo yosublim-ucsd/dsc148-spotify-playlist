@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Beéle x Maria Becerra x JoeBoy x Humby
 
-786 songs - 1 day 18 hr 2 min
+787 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 | 2022-11-11 | 2023-05-26 |
 | [Se va 1 llegan 2](https://open.spotify.com/track/0K6DNAyidju52N6vKWNTyH) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:23 | 2024-02-28 |  |
 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 | 2023-08-18 |  |
+| [Sensible](https://open.spotify.com/track/5hezYkGjsT559hGnJsKUyN) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:25 | 2024-06-11 |  |
 | [Seré](https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Seré](https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL) | 2:43 | 2023-01-20 | 2023-06-01 |
 | [Serías Tú](https://open.spotify.com/track/7fzskw4tFfvERodAJxSL1o) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Serías Tú](https://open.spotify.com/album/38IW31iaOK3Zsr73cmSyds) | 3:26 | 2022-05-06 | 2023-05-26 |
 | [SHOFAR](https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [K4G](https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU) | [CVRBON VRMOR \[C\_DE: G\_D.O.N.\]](https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE) | 4:08 | 2024-05-03 |  |

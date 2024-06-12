@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19126,
+  "num_followers": 19127,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAABw3EmtfGP5wvjNpjnzBYz",
+  "snapshot_id": "ZmZCAAAAAAB3VxwvM6pBEXJbiCU62Gr9",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chop Life, Vol. 1: Mzansi Chronicles",
         "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 194819,
       "name": "Wena",
       "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Short Skirt",
-      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 151543,
+      "name": "Jamboree",
+      "url": "https://open.spotify.com/track/17Yhnis5nnAKKRQKMAHtse"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 151543,
-      "name": "Jamboree",
-      "url": "https://open.spotify.com/track/17Yhnis5nnAKKRQKMAHtse"
     },
     {
       "added_at": null,

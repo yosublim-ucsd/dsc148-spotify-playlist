@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,475 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,468 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 39 | [Last Christmas](https://open.spotify.com/track/5K8Ka64VtY8EoqfNgKqYlN) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [ChipTune](https://open.spotify.com/artist/70GKv0GShE7KGqElJe9gxy) | [Last Christmas](https://open.spotify.com/album/54g1r68fEM0mbkMt7OmFku) | 2:28 |
 | 40 | [I Wish \(feat\. Mabel\) \- Christmas Version](https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\) \[Christmas Version\]](https://open.spotify.com/album/6c09xz3peTV2CvMv8Hzezy) | 3:20 |
 | 41 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
-| 42 | [Christmas With You](https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Tom Faber](https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Christmas With You](https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX) | 2:27 |
+| 42 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
 | 43 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 |
-| 44 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
+| 44 | [Christmas With You](https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Tom Faber](https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Christmas With You](https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX) | 2:27 |
 | 45 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
 | 46 | [Last Christmas \- Techno Remix](https://open.spotify.com/track/0BnZyRDwbkEKyIZKuwoK1r) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1) | [Last Christmas \(Techno Remix\)](https://open.spotify.com/album/72Zzvgn7JbEeUquIXEUwe3) | 2:27 |
 | 47 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Cure. Los temas esenciales, todos en una lista.",
-  "num_followers": 533601,
+  "description": "This is The Cure. The essential tracks, all in one playlist.",
+  "num_followers": 533696,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAD9XXoVYGnLJ2jBOPxMAcr/",
+  "snapshot_id": "ZmZCAAAAAABhv4MtEP0HDFqiC22PzYpX",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Charlotte Sometimes - Single Version",
+      "url": "https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 399866,
+      "name": "One Hundred Years",
+      "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "The Hanging Garden",
-      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Head on the Door (Deluxed Edition)",
         "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "The Hanging Garden",
+      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wish (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 213293,
       "name": "Cut - 1990 Demo",
       "url": "https://open.spotify.com/track/0DuagCkRRIggdD2K058KHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disintegration (Remastered)",
-        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 426013,
-      "name": "Homesick - Remastered",
-      "url": "https://open.spotify.com/track/21F3fMG5BEWbUSuwC3dv5I"
     }
   ],
   "unique_name": "This Is The Cure",

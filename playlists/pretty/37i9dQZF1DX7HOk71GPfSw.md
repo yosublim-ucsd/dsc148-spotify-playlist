@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. charli
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,473 likes - 142 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,648 likes - 142 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

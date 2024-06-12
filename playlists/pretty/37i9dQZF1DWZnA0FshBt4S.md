@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,064 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,097 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 38 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 |
 | 39 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 40 | [Get This Party Started](https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Momentum](https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB) | 2:22 |
-| 41 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
-| 42 | [Faith My Eyes](https://open.spotify.com/track/7IWNJRIemIyC3NA8qf5Zy8) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [40 Acres](https://open.spotify.com/album/5uiJsWmOVFUVukiEJ7JJSL) | 4:41 |
+| 41 | [Faith My Eyes](https://open.spotify.com/track/7IWNJRIemIyC3NA8qf5Zy8) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [40 Acres](https://open.spotify.com/album/5uiJsWmOVFUVukiEJ7JJSL) | 4:41 |
+| 42 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
 | 43 | [Don't Look At Me](https://open.spotify.com/track/3fyMwcqHxruPGAaGtDt4sh) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Genuine](https://open.spotify.com/album/3yurqtwBDlirDKcQt2pEMk) | 3:36 |
 | 44 | [Get Down](https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [The Ultimate Collection](https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy) | 3:14 |
 | 45 | [All Over Me](https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP) | [The Benjamin Gate](https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG) | [Untitled](https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk) | 4:10 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 63 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 64 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 65 | [Deeper \- Live](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |
-| 66 | [Undo Me](https://open.spotify.com/track/6XxaPcDid3vhKTSam6HTfz) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/0uo9Z8fbOU1zdsEsqNsRYL) | 3:23 |
-| 67 | [Sadie Hawkins Dance](https://open.spotify.com/track/5pZXriIfUJ5G0MiuoIkiww) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Anatomy of the Tongue in Cheek](https://open.spotify.com/album/4sb1t4vquXRUBjVYYsWlCM) | 2:57 |
+| 66 | [Sadie Hawkins Dance](https://open.spotify.com/track/5pZXriIfUJ5G0MiuoIkiww) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Anatomy of the Tongue in Cheek](https://open.spotify.com/album/4sb1t4vquXRUBjVYYsWlCM) | 2:57 |
+| 67 | [Undo Me](https://open.spotify.com/track/6XxaPcDid3vhKTSam6HTfz) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/0uo9Z8fbOU1zdsEsqNsRYL) | 3:23 |
 | 68 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 | 69 | [I Want to Know You](https://open.spotify.com/track/5eZzdOGs6t1eVeRD6jbCDh) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicFlood](https://open.spotify.com/album/3XRRl4djOAvjc4CXvOXcJl) | 4:33 |
 | 70 | [Gasoline](https://open.spotify.com/track/0YYLrRSnq6li2bs7nms8WO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [The Early Years](https://open.spotify.com/album/3D0HQxzoAIhnQqe3oVMxNh) | 4:02 |
 | 71 | [Free At Last \- Live](https://open.spotify.com/track/7uqQEvERrdjk5SmWVwZ3Jv) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/2tgpJm3SloLVqAjAEWYr7c) | 4:44 |
 | 72 | [Prophet, Priest and King](https://open.spotify.com/track/2NgEHoXZTfjkdF7I6tSrnt) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/4AhydqgVrGNbcbkMzq1SSA) | 3:36 |
-| 73 | [Into You](https://open.spotify.com/track/3kuvxRA8GLCg0q2MPBQlsd) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/1iCXn3d2XYNAZ8eE6eiCoD) | 3:04 |
-| 74 | [Gravity](https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/1Ag1b3t64FzUp3pdaIcgVH) | 3:19 |
+| 73 | [Gravity](https://open.spotify.com/track/1jMdYE6b4sUolT8UnEOs8F) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/1Ag1b3t64FzUp3pdaIcgVH) | 3:19 |
+| 74 | [Into You](https://open.spotify.com/track/3kuvxRA8GLCg0q2MPBQlsd) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/1iCXn3d2XYNAZ8eE6eiCoD) | 3:04 |
 | 75 | [Lord I Lift Your Name On High](https://open.spotify.com/track/4YGyH585tBURMPnryf3OpV) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 6:21 |
 
 Snapshot ID: `ZIxZcgAAAAAT01gQg7bJ7a7z6BZpZMY0`

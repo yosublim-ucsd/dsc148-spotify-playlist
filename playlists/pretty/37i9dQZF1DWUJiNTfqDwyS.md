@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,330 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,388 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,18 +39,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 29 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
 | 30 | [Hallelujah](https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hallelujah](https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE) | 2:36 |
 | 31 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
-| 32 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
-| 33 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
+| 32 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
+| 33 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
 | 34 | [Diamonds](https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Diamonds](https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy) | 4:06 |
 | 35 | [Simple Man \- 2005 Remaster](https://open.spotify.com/track/0OKl4ySuPS2VCuB0gby2pj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 6:20 |
 | 36 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
-| 37 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
-| 38 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
+| 37 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
+| 38 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 39 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
 | 40 | [Let It Go](https://open.spotify.com/track/4Cf7HDam6eNq1Rg2Gv8Ag7) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Phantom](https://open.spotify.com/album/2QZhGE2USg7NCL98E7DkpS) | 4:22 |
 | 41 | [Come Together](https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live And Inspired](https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF) | 3:46 |
-| 42 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
-| 43 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
+| 42 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
+| 43 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
 | 44 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
 | 45 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 46 | [Gimme Shelter](https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Gimme Shelter](https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg) | 3:58 |

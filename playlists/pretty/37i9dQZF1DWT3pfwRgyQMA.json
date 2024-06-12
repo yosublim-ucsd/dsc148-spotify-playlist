@@ -1,6 +1,6 @@
 {
   "description": "Walk down memory lane with the biggest rock anthems.",
-  "num_followers": 630051,
+  "num_followers": 630260,
   "original_name": "Songs We Rocked Out To",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2024-01-27 09:26:58",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2024-01-27 09:26:58",
@@ -55,22 +71,6 @@
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
-    },
-    {
-      "added_at": "2024-01-27 09:26:58",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2024-01-27 09:26:58",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-01-27 09:26:58",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
-    },
-    {
-      "added_at": "2024-01-27 09:26:58",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
+    },
+    {
+      "added_at": "2024-01-27 09:26:58",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
     },
     {
       "added_at": "2024-01-27 09:26:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-01-27 09:26:58",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
-    },
-    {
-      "added_at": "2024-01-27 09:26:58",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2024-01-27 09:26:58",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
       "added_at": "2024-01-27 09:26:58",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-01-27 09:26:58",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2024-01-27 09:26:58",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-01-27 09:26:58",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
     },
     {
       "added_at": "2024-01-27 09:26:58",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-01-27 09:26:58",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+      "duration_ms": 193893,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     }
   ],
   "unique_name": "Songs We Rocked Out To",

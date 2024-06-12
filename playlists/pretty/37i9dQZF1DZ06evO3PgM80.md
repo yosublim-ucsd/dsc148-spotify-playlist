@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 ### [This Is Julia Vitória](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3PgM80)
 
-> This is Julia Vitória\. Todos os maiores hits em uma só playlist.
+> This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,094 likes - 44 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,095 likes - 44 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 43 | [Eu Canto \- Ao Vivo](https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Para as Nações \(Ao Vivo\)](https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v) | 8:19 |
 | 44 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 |
 
-Snapshot ID: `ZmTwgAAAAABq+u7ABuBzw0VVxb/zMf/0`
+Snapshot ID: `ZmZCAAAAAADecYFR1B6B4CtY1TsJ2+uY`

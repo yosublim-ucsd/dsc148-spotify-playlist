@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This Is Grupo Arriesgado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,166 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,163 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Jimenez](https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 3:04 |
 | 50 | [Somos Gente Del Sombrero \- En Vivo](https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Somos Gente Del Sombrero \(En Vivo\)](https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK) | 3:23 |
 
-Snapshot ID: `ZmTwgAAAAACNQnu/oEW6P5j5zBR/afNP`
+Snapshot ID: `ZmZCAAAAAACxskqxdeqPargUPq7QzN1r`

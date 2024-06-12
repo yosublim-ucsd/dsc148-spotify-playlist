@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > 6 in the morning
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,460 likes - 278 songs - 19 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,630 likes - 278 songs - 19 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,7 +214,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 204 | [Krayzee](https://open.spotify.com/track/3TvbT40I2mQUn6jliOM82r) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Astro\-Cat](https://open.spotify.com/artist/7AqFHR0xmbUjgrIuQvj8zW) | [Krayzee](https://open.spotify.com/album/0mh0kqpTJViSsWPCaW8mgY) | 5:37 |
 | 205 | [Favela Joint](https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Favela Joint](https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9) | 3:38 |
 | 206 | [JOY \(Now That It's Over\)](https://open.spotify.com/track/5S9f2bOCsnexTnIkXgGwPI) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Cult Classics](https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6) | 3:58 |
-| 207 | [Mariposa](https://open.spotify.com/track/2nMURIP9uIZhQpEbbPABJE) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [Mariposa](https://open.spotify.com/album/3LB3YzIKp5J8pmiHBExXAZ) | 3:13 |
+| 207 | [mariposa](https://open.spotify.com/track/2nMURIP9uIZhQpEbbPABJE) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [mariposa](https://open.spotify.com/album/3LB3YzIKp5J8pmiHBExXAZ) | 3:13 |
 | 208 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 209 | [A LITTLE BIT FUNKIER](https://open.spotify.com/track/3mCxV76XNNfvHfYiElQjHT) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [A LITTLE BIT FUNKIER](https://open.spotify.com/album/5I7rEnTWEmjoZ9rNHaoRA8) | 3:41 |
 | 210 | [Tripasia](https://open.spotify.com/track/4NqaNXn9bw7PmXjOFW8vmp) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/0WzBEyEM7oj5GqehqqwHlg) | 2:56 |

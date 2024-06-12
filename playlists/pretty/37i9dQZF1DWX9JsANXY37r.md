@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,498 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,502 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 28 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
 | 29 | [Pressure \(with SG Lewis\)](https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Pressure \(with SG Lewis\)](https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW) | 2:49 |
 | 30 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 |
-| 31 | [Late Nights & Heartbreak](https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v) | [Hannah Williams](https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg), [The Affirmations](https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g) | [Late Nights & Heartbreak](https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp) | 4:15 |
-| 32 | [I Wish I Missed My Ex](https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:23 |
+| 31 | [I Wish I Missed My Ex](https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:23 |
+| 32 | [Late Nights & Heartbreak](https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v) | [Hannah Williams](https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg), [The Affirmations](https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g) | [Late Nights & Heartbreak](https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp) | 4:15 |
 | 33 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
 | 34 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 |
 | 35 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |

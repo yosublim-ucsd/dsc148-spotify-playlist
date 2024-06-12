@@ -1,6 +1,6 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 109759,
+  "num_followers": 109761,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "HOW?",
-        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Earth, Wind & Fire",
-      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "<ASSEMBLE24>",
-        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
       },
       "artists": [
         {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 187920,
-      "name": "Girls Never Die",
-      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 154360,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Finale",
-        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 178453,
       "name": "Nxde",
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "\u2018The ReVe Festival\u2019 Finale",
+        "url": "https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
       },
@@ -867,18 +883,18 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -899,22 +915,6 @@
       "duration_ms": 214760,
       "name": "Standing Next to You (USHER Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
-        "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 191964,
-      "name": "CASE 143",
-      "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
         "name": "DREAM( )SCAPE",
         "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 160942,
       "name": "3D (Justin Timberlake Remix)",
       "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -1615,50 +1615,18 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "Hot Sauce - The 1st Album",
-        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
-        "name": "The 1st Mini Album 'WE UNIS'",
-        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
-      },
-      "artists": [
-        {
-          "name": "UNIS",
-          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "SUPERWOMAN",
-      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 210573,
-      "name": "Alcohol-Free",
-      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
+      "duration_ms": 189049,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -1679,18 +1647,34 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 189049,
-      "name": "Peek-A-Boo",
-      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
+      "duration_ms": 210573,
+      "name": "Alcohol-Free",
+      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -1707,6 +1691,22 @@
       "duration_ms": 174840,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "The 1st Mini Album 'WE UNIS'",
+        "url": "https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim"
+      },
+      "artists": [
+        {
+          "name": "UNIS",
+          "url": "https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "SUPERWOMAN",
+      "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
-        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "Don't Wanna Cry",
-      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "WHY..",
         "url": "https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa"
       },
@@ -1823,6 +1807,22 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
+        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
+        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
         "name": "Fact Check - The 5th Album",
         "url": "https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr"
       },
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "Beatbox - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Beatbox",
-      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "GREAT!",
         "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 208863,
       "name": "BBoom BBoom",
       "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Beatbox",
+      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -2011,26 +2011,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "EENIE MEENIE",
-        "url": "https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        },
-        {
-          "name": "Hongjoong of ATEEZ",
-          "url": "https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
-      "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -2059,6 +2039,26 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "EENIE MEENIE",
+        "url": "https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Hongjoong of ATEEZ",
+          "url": "https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "EENIE MEENIE (Feat. Hongjoong of ATEEZ)",
+      "url": "https://open.spotify.com/track/3WFTUAPrXvqg3SXC0bsukz"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 185320,
+      "name": "Cream Soda",
+      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
         "name": "NOBODY",
         "url": "https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 161120,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
-        "name": "EXIST \u2013 The 7th Album",
-        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 185320,
-      "name": "Cream Soda",
-      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
+        "name": "I burn",
+        "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "HWAA",
+      "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
@@ -2435,18 +2451,18 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "I burn",
-        "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 197320,
-      "name": "HWAA",
-      "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -2467,22 +2483,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "Positive",
         "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
       },
@@ -2495,22 +2495,6 @@
       "duration_ms": 198795,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
-        "name": "Teddy Bear",
-        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -2551,6 +2535,22 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
@@ -2567,8 +2567,8 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "ZERO : FEVER Part.2",
-        "url": "https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB"
+        "name": "TREASURE EPILOGUE : Action To Answer",
+        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
       },
       "artists": [
         {
@@ -2576,9 +2576,9 @@
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 209574,
-      "name": "Fireworks (I'm The One)",
-      "url": "https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v"
+      "duration_ms": 219760,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -2735,8 +2735,8 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "TREASURE EPILOGUE : Action To Answer",
-        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
+        "name": "ZERO : FEVER Part.2",
+        "url": "https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB"
       },
       "artists": [
         {
@@ -2744,9 +2744,9 @@
           "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
+      "duration_ms": 209574,
+      "name": "Fireworks (I'm The One)",
+      "url": "https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -2899,22 +2899,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 207650,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
       },
@@ -2947,6 +2931,22 @@
       "duration_ms": 150053,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 207650,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
     },
     {
       "added_at": "2024-05-09 14:07:34",
@@ -3039,22 +3039,6 @@
     {
       "added_at": "2024-05-09 14:07:34",
       "album": {
-        "name": "Gum",
-        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 162693,
-      "name": "Gum",
-      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
-    },
-    {
-      "added_at": "2024-05-09 14:07:34",
-      "album": {
         "name": "Favorite - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX"
       },
@@ -3067,6 +3051,22 @@
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
+    },
+    {
+      "added_at": "2024-05-09 14:07:34",
+      "album": {
+        "name": "Gum",
+        "url": "https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 162693,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu"
     },
     {
       "added_at": "2024-05-09 14:07:34",

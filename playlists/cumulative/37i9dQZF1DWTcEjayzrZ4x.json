@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Again Tomorrow",
+        "url": "https://open.spotify.com/album/7pWZSISFYh2VZ1ODE5fWBi"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223437,
+      "name": "Again Tomorrow",
+      "url": "https://open.spotify.com/track/68b9Tqgqh5Jlh3rLqRi1E3"
+    },
+    {
+      "album": {
         "name": "Akaishi",
         "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
       },
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 342520,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1"
@@ -2404,7 +2422,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 203189,
       "name": "Cherry Stone",
       "url": "https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR"
@@ -2537,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Clouds Across the Sky",
+        "url": "https://open.spotify.com/album/4zEyjWpg4T9qTvF4JifMZ9"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Clouds Across the Sky",
+      "url": "https://open.spotify.com/track/0OUhJHr2nci0RHw8GPYL0q"
+    },
+    {
+      "album": {
         "name": "Clouds Got In Our Way",
         "url": "https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq"
       },
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 241516,
       "name": "Clowns And Crowns",
       "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
@@ -4300,6 +4336,24 @@
       "duration_ms": 229822,
       "name": "Freesia",
       "url": "https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH"
+    },
+    {
+      "album": {
+        "name": "Friday Afternoon",
+        "url": "https://open.spotify.com/album/1sowMEQg7SoVaqGsuwq2GX"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372149,
+      "name": "Friday Afternoon",
+      "url": "https://open.spotify.com/track/1jilxm4NFTfMko4DUgVt7F"
     },
     {
       "album": {
@@ -8074,7 +8128,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 264052,
       "name": "Luna",
       "url": "https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0"
@@ -8576,7 +8630,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 271277,
       "name": "Miles and Miles",
       "url": "https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh"
@@ -10658,7 +10712,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 210487,
       "name": "Railroads",
       "url": "https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ"
@@ -13222,7 +13276,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 207367,
       "name": "Then you appeared",
       "url": "https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON"

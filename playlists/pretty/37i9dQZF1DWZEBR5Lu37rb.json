@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 63456,
+  "num_followers": 63842,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Ukhamba",
         "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 227460,
+      "name": "Let Me Love You Now",
+      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "DaKAR II",
         "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 328226,
       "name": "Ngiyaz'fela Ngawe (feat. Thabsie)",
       "url": "https://open.spotify.com/track/1un5fgTEsqfK5VSzDlDggU"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 227460,
-      "name": "Let Me Love You Now",
-      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 320012,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1463,18 +1463,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Barua ya Dunia",
-        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
+        "name": "Me Ne Woa",
+        "url": "https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi"
       },
       "artists": [
         {
-          "name": "Elani",
-          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 254986,
-      "name": "Kookoo",
-      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
+      "duration_ms": 220890,
+      "name": "Me Ne Woa",
+      "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Me Ne Woa",
-        "url": "https://open.spotify.com/album/7bnH1nS04TKA0a54f7OLwi"
+        "name": "Barua ya Dunia",
+        "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
       },
       "artists": [
         {
-          "name": "M.anifest",
-          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Elani",
+          "url": "https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26"
         }
       ],
-      "duration_ms": 220890,
-      "name": "Me Ne Woa",
-      "url": "https://open.spotify.com/track/4iKbFZqn3GWffFZGGrczpC"
+      "duration_ms": 254986,
+      "name": "Kookoo",
+      "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mababaza",
-        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
-      },
-      "artists": [
-        {
-          "name": "Joe Nina",
-          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "Zodwa",
-      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Mababaza",
+        "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
+      },
+      "artists": [
+        {
+          "name": "Joe Nina",
+          "url": "https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "Zodwa",
+      "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Kulture Noir",
         "url": "https://open.spotify.com/album/5NWVDJtZsH6eHwaBfcwC5z"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Zaneliza: How the Water Moves",
-        "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        }
-      ],
-      "duration_ms": 325433,
-      "name": "Liwa Lentliziyo",
-      "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "In The Building",
         "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 173617,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Zaneliza: How the Water Moves",
+        "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 325433,
+      "name": "Liwa Lentliziyo",
+      "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Book of Kirya",
-        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "The Blue Dress Song",
-      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mfalme Wa Mapenzi",
         "url": "https://open.spotify.com/album/2wgSxbkNeLOwBVM1LuSSnj"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 286511,
       "name": "Mfalme Wa Mapenzi",
       "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Book of Kirya",
+        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "The Blue Dress Song",
+      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
     },
     {
       "added_at": "2024-05-22 11:00:00",

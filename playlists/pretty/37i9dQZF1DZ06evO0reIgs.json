@@ -1,12 +1,12 @@
 {
-  "description": "This is Cynthia Luz. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 81353,
+  "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
+  "num_followers": 81345,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAA3f6X87ob0ir1wrVbngw/+",
+  "snapshot_id": "ZmZCAAAAAAAdIpeo0ytbk3LCkiVXLCEZ",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00f4-Zaico",
         "url": "https://open.spotify.com/album/1GNTB8OIhFhnHPfKdJzbaj"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 158784,
       "name": "M\u00f4-Zaico",
       "url": "https://open.spotify.com/track/6KyU16IER1SJUORRmACOpV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gado",
-        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
     },
     {
       "added_at": null,
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         },
         {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+          "name": "NOX",
+          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
         }
       ],
-      "duration_ms": 182000,
-      "name": "T\u00e3o Forte",
-      "url": "https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0"
+      "duration_ms": 169032,
+      "name": "Bom Te Encontrar",
+      "url": "https://open.spotify.com/track/0NFW6UfBWkgpNpsWeDOk1I"
     },
     {
       "added_at": null,
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         },
         {
-          "name": "NOX",
-          "url": "https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO"
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
         }
       ],
-      "duration_ms": 169032,
-      "name": "Bom Te Encontrar",
-      "url": "https://open.spotify.com/track/0NFW6UfBWkgpNpsWeDOk1I"
+      "duration_ms": 182000,
+      "name": "T\u00e3o Forte",
+      "url": "https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0"
     },
     {
       "added_at": null,

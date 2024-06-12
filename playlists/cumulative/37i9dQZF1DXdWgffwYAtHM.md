@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:10naLy8QHctu1ODM0BqxEt">Histórias para adulto dormir</a>
+> Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:10naLy8QHctu1ODM0BqxEt">Histórias pra adulto dormir</a>
 
 23 songs - 12 hr 46 min
 

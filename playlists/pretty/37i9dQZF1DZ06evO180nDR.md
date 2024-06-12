@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 ### [This Is Los Dareyes De La Sierra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO180nDR)
 
-> This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
+> This Is Los Dareyes De La Sierra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,075 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,086 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 5 | [Las Dos R](https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:30 |
 | 6 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 7 | [Buenas Rachas](https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Buenas Rachas](https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e) | 2:33 |
-| 8 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
-| 9 | [Las 745](https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Las 745](https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg) | 2:43 |
+| 8 | [Las 745](https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Las 745](https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg) | 2:43 |
+| 9 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
 | 10 | [Hace Frío Aquí en la Cima](https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Hace Frío Aquí en la Cima](https://open.spotify.com/album/1RpdlGnhty9ymIv72o0EGw) | 2:57 |
 | 11 | [La Pobreza Buena](https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Pobreza Buena](https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI) | 3:29 |
 | 12 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
 | 50 | [La Neta \- En Vivo](https://open.spotify.com/track/2IKNbUKTFTaN5Tflyg9wTm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Parranda Con Darey \(En Vivo\)](https://open.spotify.com/album/3oIBYT7NlLS89k4yu80Mj2) | 3:23 |
 
-Snapshot ID: `ZmTwgAAAAABseZoNaGtu9cLtbWGeGW3l`
+Snapshot ID: `ZmZCAAAAAACeV/ENx2ddI7HfdcbN48Vn`

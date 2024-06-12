@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Recoditos en portada.",
-  "num_followers": 1217038,
+  "num_followers": 1217081,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -415,22 +415,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 180120,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+      "duration_ms": 185434,
+      "name": "CHSM El Higado",
+      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "De Ellas",
         "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "CHSM El H\u00edgado X2",
-        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 185434,
-      "name": "CHSM El Higado",
-      "url": "https://open.spotify.com/track/2SIaxVDnOZGBATjFaSzm5Q"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "El Patrocinador",
         "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 206960,
       "name": "El Patrocinador",
       "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -763,6 +779,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Se Sabe",
+        "url": "https://open.spotify.com/album/4SMg6KtkjfhnPelGQEmCA9"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 184796,
+      "name": "Se Sabe",
+      "url": "https://open.spotify.com/track/1bWnuEI6gTCidJa1m0ak8m"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -783,24 +815,8 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Se Sabe",
-        "url": "https://open.spotify.com/album/4SMg6KtkjfhnPelGQEmCA9"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 184796,
-      "name": "Se Sabe",
-      "url": "https://open.spotify.com/track/1bWnuEI6gTCidJa1m0ak8m"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+        "name": "Tutorial Para Olvidar",
+        "url": "https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP"
       },
       "artists": [
         {
@@ -808,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
+      "duration_ms": 197265,
+      "name": "Tutorial Para Olvidar",
+      "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -851,6 +867,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Y \u00bfQu\u00e9 Tiene?",
+        "url": "https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Olv\u00eddalo Conmigo",
+      "url": "https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -883,6 +915,22 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Que Hay Que Hacer",
+        "url": "https://open.spotify.com/album/4WEs7qbShxaXYMMJhSoZQV"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 213562,
+      "name": "Que Hay Que Hacer",
+      "url": "https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -923,22 +971,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Y \u00bfQu\u00e9 Tiene?",
-        "url": "https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Olv\u00eddalo Conmigo",
-      "url": "https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -971,22 +1003,6 @@
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Tutorial Para Olvidar",
-        "url": "https://open.spotify.com/album/39v3Q460WaU1ZHMOMgU6UP"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 197265,
-      "name": "Tutorial Para Olvidar",
-      "url": "https://open.spotify.com/track/3xnwUTX6029BDnDm3UoFnl"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 149986,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1115,6 +1131,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Mis \u00c9xitos Con Banda",
         "url": "https://open.spotify.com/album/70xvkcWIfyzG4BYPbf4szA"
       },
@@ -1131,18 +1167,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Que Hay Que Hacer",
-        "url": "https://open.spotify.com/album/4WEs7qbShxaXYMMJhSoZQV"
+        "name": "Aqui Ando En El Caloron (En Vivo)",
+        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
       "artists": [
         {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        },
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
         }
       ],
-      "duration_ms": 213562,
-      "name": "Que Hay Que Hacer",
-      "url": "https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj"
+      "duration_ms": 232820,
+      "name": "Aqui Ando En El Caloron - En Vivo",
+      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1167,26 +1207,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "M En El Radar",
         "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 140546,
       "name": "M En El Radar",
       "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Aqui Ando En El Caloron (En Vivo)",
-        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        },
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 232820,
-      "name": "Aqui Ando En El Caloron - En Vivo",
-      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Hola Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 185514,
       "name": "Hola Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/6v1pjf9L6PD20AGEq4w4yp"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "El 30 de Febrero",
+        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 181204,
+      "name": "El 30 de Febrero",
+      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "El Chulo",
         "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "El 30 de Febrero",
-        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 181204,
-      "name": "El 30 de Febrero",
-      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Me Gustas Mucho T\u00fa",
         "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
       },
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+        "name": "Qu\u00e9 Te Hizo Olvidarme",
+        "url": "https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+      "duration_ms": 152250,
+      "name": "Qu\u00e9 Te Hizo Olvidarme",
+      "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Te Hizo Olvidarme",
-        "url": "https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv"
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 152250,
-      "name": "Qu\u00e9 Te Hizo Olvidarme",
-      "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Por Si Me Les Adelanto",
-        "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 157561,
-      "name": "Por Si Me Les Adelanto",
-      "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "La Bolsita",
         "url": "https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 163320,
       "name": "De Memoria Me Las S\u00e9",
       "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Por Si Me Les Adelanto",
+        "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 157561,
+      "name": "Por Si Me Les Adelanto",
+      "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
-        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+        "name": "Cada Dia Me Gustas Mas",
+        "url": "https://open.spotify.com/album/48fYEdzeoaUg5S57ZDQvzS"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 423653,
-      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
-      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
+      "duration_ms": 166478,
+      "name": "Cada Dia Me Gustas Mas",
+      "url": "https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1955,6 +1955,22 @@
       "duration_ms": 163978,
       "name": "Fruta Prohibida (En Vivo)",
       "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
+        "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 423653,
+      "name": "Popurr\u00ed Al Divo (La Diferencia, Si Quieres, Mi Fracaso)",
+      "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1991,22 +2007,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Cada Dia Me Gustas Mas",
-        "url": "https://open.spotify.com/album/48fYEdzeoaUg5S57ZDQvzS"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 166478,
-      "name": "Cada Dia Me Gustas Mas",
-      "url": "https://open.spotify.com/track/6S0LhPTWbTautF6mIm3idP"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "A Como Yo Lo Veo",
         "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
       },
@@ -2035,6 +2035,26 @@
       "duration_ms": 143786,
       "name": "Amor Ranchero",
       "url": "https://open.spotify.com/track/6usuEveqwUGH07BI7AWM7f"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "As\u00ed Es la Vida",
+        "url": "https://open.spotify.com/album/32I7mJQL9TjGakh9EXyAhT"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        },
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/3tDVsiVNkTklWmPb0KdGBN"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -2075,22 +2095,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Tatuajes",
-        "url": "https://open.spotify.com/album/2ckk95XUTF7wxUS3E2ypV9"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/3OshQHBRhfbuX9Zm70GKk0"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Mi Destino Es Ser Borracho",
         "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
       },
@@ -2103,6 +2107,22 @@
       "duration_ms": 199552,
       "name": "Mi Destino Es Ser Borracho",
       "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Tatuajes",
+        "url": "https://open.spotify.com/album/2ckk95XUTF7wxUS3E2ypV9"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/3OshQHBRhfbuX9Zm70GKk0"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -2127,26 +2147,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "As\u00ed Es la Vida",
-        "url": "https://open.spotify.com/album/32I7mJQL9TjGakh9EXyAhT"
-      },
-      "artists": [
-        {
-          "name": "La Inolvidable Banda Agua De La Llave",
-          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
-        },
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/3tDVsiVNkTklWmPb0KdGBN"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Volver\u00e9",
         "url": "https://open.spotify.com/album/0OegCeE6bu1HNDepUaUZKa"
       },
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Estuve",
-        "url": "https://open.spotify.com/album/3QFuxWR9lWZ4H7NlT2yQny"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 212427,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/3AzYL6aGCfkbtoGvP9Vwbs"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Nada De Nada",
         "url": "https://open.spotify.com/album/4a1sv1wxgBQok1K5ug0ZcA"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 204680,
       "name": "Nada De Nada",
       "url": "https://open.spotify.com/track/7cnunap9w1egvi4B9ZXCuh"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "La Bruja",
+        "url": "https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 146756,
+      "name": "La Bruja - Radio Edit",
+      "url": "https://open.spotify.com/track/11lwWnUgcjlGTzGv4WnDnP"
     }
   ],
   "unique_name": "Banda 2024",

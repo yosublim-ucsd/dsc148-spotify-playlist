@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 722614,
+  "num_followers": 722622,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Find Me Here",
         "url": "https://open.spotify.com/album/2tHSqpBPk7BusITOcdfaS1"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 234320,
       "name": "Find Me Here - Broke Down",
       "url": "https://open.spotify.com/track/0iXQ0GWaYAC4XMivDRYR5Y"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4"
     }
   ],
   "unique_name": "Country Coffeehouse",

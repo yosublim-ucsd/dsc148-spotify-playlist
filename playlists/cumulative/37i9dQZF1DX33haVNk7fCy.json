@@ -2003,6 +2003,28 @@
     },
     {
       "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Azeem Dayani",
+          "url": "https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300434,
+      "name": "Roya Jab Tu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB"
+    },
+    {
+      "album": {
         "name": "Saaya",
         "url": "https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu"
       },

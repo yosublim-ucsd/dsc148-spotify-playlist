@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NEXZ
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Jung Kook
 
-1,064 songs - 2 day 9 hr 39 min
+1,065 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Good Boy Gone Bad \- Japanese Ver.](https://open.spotify.com/track/1n52exGqPZkKBItLYxMksJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [GOOD BOY GONE BAD](https://open.spotify.com/album/0nTPrUjlLwEJD6Fdw2GGoU) | 3:12 | 2022-08-30 | 2022-11-30 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-01-15 | 2024-03-20 |
 | [GRAB ME](https://open.spotify.com/track/6ad1x6RTZbAINCBUqiuoAV) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: FOUND](https://open.spotify.com/album/5iuOgrQuJFL4RgUBmF5ieO) | 3:16 | 2024-01-23 | 2024-02-14 |
+| [GRAB ME \- Japanese ver\. \-](https://open.spotify.com/track/4eCxt8h7dTYNrdsdpOJuW8) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GRAB ME \- Japanese ver\. \-](https://open.spotify.com/album/2rRTnXXvVLHlQfSTJbSkCw) | 3:16 | 2024-06-11 |  |
 | [Grand Prix](https://open.spotify.com/track/5btc1Il6aABmVNUOjooNK8) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Grand Prix](https://open.spotify.com/album/6lriTwnKW6GIKoRYOJ2Dy9) | 3:07 | 2023-11-07 | 2023-12-15 |
 | [Gravity](https://open.spotify.com/track/3qaw1x6fazbhitNdWXJltj) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [Gravity](https://open.spotify.com/album/0ABUfTXhUfaZIfgzbtqWU6) | 3:15 | 2023-12-14 | 2024-01-10 |
 | [Grey Suit](https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Grey Suit \- The 2nd Mini Album](https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB) | 3:42 | 2022-04-04 | 2022-06-15 |

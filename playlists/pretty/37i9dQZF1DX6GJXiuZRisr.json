@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1551298,
+  "num_followers": 1551415,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -375,30 +375,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Sorry (with Madonna)",
-        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
         },
         {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Darmon",
-          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
         }
       ],
-      "duration_ms": 161627,
-      "name": "Sorry (with Madonna)",
-      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+      "duration_ms": 207992,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -427,26 +423,30 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "In The Dust",
-        "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
+        "name": "Sorry (with Madonna)",
+        "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
       "artists": [
         {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Jelen",
-          "url": "https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Darmon",
+          "url": "https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8"
         }
       ],
-      "duration_ms": 191570,
-      "name": "In The Dust",
-      "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
+      "duration_ms": 161627,
+      "name": "Sorry (with Madonna)",
+      "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -471,26 +471,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
+        "name": "In The Dust",
+        "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
         },
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+          "name": "Jelen",
+          "url": "https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT"
         },
         {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
         }
       ],
-      "duration_ms": 207992,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+      "duration_ms": 191570,
+      "name": "In The Dust",
+      "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -763,8 +763,8 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Shiver (Cassian Remix)",
-        "url": "https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni"
+        "name": "Fade Out (with MKLA)",
+        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
       "artists": [
         {
@@ -772,17 +772,13 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
         }
       ],
-      "duration_ms": 245669,
-      "name": "Shiver - Cassian Remix",
-      "url": "https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7"
+      "duration_ms": 230909,
+      "name": "Fade Out (with MKLA)",
+      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -923,8 +919,8 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Fade Out (with MKLA)",
-        "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
+        "name": "Shiver (Cassian Remix)",
+        "url": "https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni"
       },
       "artists": [
         {
@@ -932,13 +928,17 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         }
       ],
-      "duration_ms": 230909,
-      "name": "Fade Out (with MKLA)",
-      "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
+      "duration_ms": 245669,
+      "name": "Shiver - Cassian Remix",
+      "url": "https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -955,6 +955,22 @@
       "duration_ms": 167691,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
       },
@@ -1015,6 +1015,30 @@
       "duration_ms": 159047,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "No Promises",
+        "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/4TuH1lerJpmraZkEJcf9zJ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1127,30 +1151,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "No Promises",
-        "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "No Promises",
-      "url": "https://open.spotify.com/track/4TuH1lerJpmraZkEJcf9zJ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
       },
@@ -1163,26 +1163,6 @@
       "duration_ms": 207638,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Over Again",
-        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 159458,
-      "name": "Over Again",
-      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1203,6 +1183,26 @@
       "duration_ms": 213333,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "duration_ms": 159458,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Out Of Context",
-        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "Out Of Context",
-      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Gate / Masterplan",
         "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 343764,
       "name": "Gate",
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Out Of Context",
+        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "Out Of Context",
+      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
       },
@@ -1651,42 +1667,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
       },
       "artists": [
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
         }
       ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Forget",
-        "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        }
-      ],
-      "duration_ms": 258545,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1711,18 +1703,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
         }
       ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
+      "duration_ms": 258545,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "The Little Mushroom That Got Away",
         "url": "https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 335409,
       "name": "The Little Mushroom That Got Away",
       "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2024-06-07 04:00:00",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 ### [This Is Isadora Pompeo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04Bs6I)
 
-> This is Isadora Pompeo\. Todos os maiores hits em uma só playlist.
+> This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,436 likes - 49 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,457 likes - 49 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 41 | [Não Há o Que Temer](https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Não Há o Que Temer](https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ) | 4:12 |
 | 42 | [Tu És Tudo](https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 12:53 |
 | 43 | [Guia\-me](https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Guia\-me](https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS) | 4:08 |
-| 44 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 |
-| 45 | [Cruz em Ti \- Ao Vivo](https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:58 |
+| 44 | [Cruz em Ti \- Ao Vivo](https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:58 |
+| 45 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 |
 | 46 | [Diante De Ti](https://open.spotify.com/track/6kF89RbyQkJnpkVwO96q24) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 4:49 |
 | 47 | [Espero Por Ti](https://open.spotify.com/track/00L5VK0Etex3Kolo7iglIV) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Espero Por Ti](https://open.spotify.com/album/6HPsW00Ig5tKjcU5jywqVb) | 5:48 |
-| 48 | [10 Anos](https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [10 Anos](https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z) | 3:19 |
-| 49 | [Aliança \- Ao Vivo](https://open.spotify.com/track/4vxgb344xS9W4X99Klkl9j) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 5:32 |
+| 48 | [Aliança \- Ao Vivo](https://open.spotify.com/track/4vxgb344xS9W4X99Klkl9j) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 5:32 |
+| 49 | [10 Anos](https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [10 Anos](https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z) | 3:19 |
 
-Snapshot ID: `ZmTwgAAAAAD0mxkmcYP29e68/zpMNqmM`
+Snapshot ID: `ZmZCAAAAAAACnj0ijni6djbOXvOUNaqI`

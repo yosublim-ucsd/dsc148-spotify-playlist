@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 386871,
+  "num_followers": 386883,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "fake face dance music (night drive remix)",
-        "url": "https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA"
-      },
-      "artists": [
-        {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
-        },
-        {
-          "name": "ESME MORI",
-          "url": "https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "fake face dance music - night drive remix",
-      "url": "https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1"
-    },
-    {
-      "added_at": "2024-06-04 15:00:00",
-      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 186926,
       "name": "SPACE",
       "url": "https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT"
+    },
+    {
+      "added_at": "2024-06-04 15:00:00",
+      "album": {
+        "name": "fake face dance music (night drive remix)",
+        "url": "https://open.spotify.com/album/4z1ACaaeLSMwfQClzKW3YA"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        },
+        {
+          "name": "ESME MORI",
+          "url": "https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "fake face dance music - night drive remix",
+      "url": "https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1"
     },
     {
       "added_at": "2024-06-04 15:00:00",
@@ -1783,22 +1783,22 @@
     {
       "added_at": "2024-06-04 15:00:00",
       "album": {
-        "name": "\u3076\u304e\u30fb\u3070\u304f\u30fb\u3079\u3044\u3073\u30fc",
-        "url": "https://open.spotify.com/album/3EDhGontjbBDIAjm1Pz0bx"
+        "name": "A24",
+        "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
       },
       "artists": [
         {
-          "name": "Ozawa Kenji",
-          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
+          "name": "BANNY BUGS",
+          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
         },
         {
-          "name": "SCHA DARA PARR",
-          "url": "https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X"
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
         }
       ],
-      "duration_ms": 173506,
-      "name": "\u3076\u304e\u30fb\u3070\u304f\u30fb\u3079\u3044\u3073\u30fc",
-      "url": "https://open.spotify.com/track/3HVY8hWXikwYvPnNDxRE5z"
+      "duration_ms": 180461,
+      "name": "A24",
+      "url": "https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC"
     }
   ],
   "unique_name": "Tokyo Rising",

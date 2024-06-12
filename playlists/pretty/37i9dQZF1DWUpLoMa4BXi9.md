@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUpLoMa4BXi9.md) - [plain]
 
 > Listen to narrated stories from your family's favorite Disney movies like The Lion King, Toy Story, and The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,374 likes - 30 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,487 likes - 30 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUpLoMa4BXi9.md) - [plain]
 | 18 | [Wreck\-It Ralph](https://open.spotify.com/track/3FEx5KiBaGmrJq0u094qjo) | [Nolan North](https://open.spotify.com/artist/6BKh5PiiIVM7K2aTtS60cU) | [Songs and Story: Wreck\-It Ralph](https://open.spotify.com/album/6IAqezhgjV6UskVCCcwK10) | 9:35 |
 | 19 | [Sleeping Beauty](https://open.spotify.com/track/5igPvKQ6hLqSVLGibysbSw) | [Cindy Robinson](https://open.spotify.com/artist/7Cky42ttadk7opBWW0yi38) | [Songs and Story: Sleeping Beauty](https://open.spotify.com/album/0g9VcAua5r6AIaQs2BINWu) | 19:03 |
 | 20 | [Snow White and the Seven Dwarfs](https://open.spotify.com/track/0x7Q063J96VqFLKIKnlZEM) | [Mary D'Arcy](https://open.spotify.com/artist/6QSxC78BCVazLwA28o0sDc) | [Songs and Story: Snow White](https://open.spotify.com/album/2cWFLGizkUaUWDjMeh7wP8) | 13:24 |
-| 21 | [Monsters, Inc.](https://open.spotify.com/track/7ETl2ZrFKwLjS9Lzivpg3G) | [Dom De Luise](https://open.spotify.com/artist/2o76Naw3g8vbPe18S9Hscy) | [Songs and Story: Monsters, Inc.](https://open.spotify.com/album/6PekV9VFO61iS9M1qqUZPg) | 22:23 |
+| 21 | [Monsters, Inc.](https://open.spotify.com/track/7ETl2ZrFKwLjS9Lzivpg3G) | [Dom DeLuise](https://open.spotify.com/artist/2AcMWXxaylA3zMcmvxlrrk) | [Songs and Story: Monsters, Inc.](https://open.spotify.com/album/6PekV9VFO61iS9M1qqUZPg) | 22:23 |
 | 22 | [101 Dalmatians \(Animated\) \- Storyteller](https://open.spotify.com/track/7862XC8i1wphnOtlspiSyA) | [Michael Gough](https://open.spotify.com/artist/1UUNseJdZHwfIUzoaGUD3l) | [101 Dalmatians \(Animated\) \[Storyteller\]](https://open.spotify.com/album/62SOQWaxuV2EzQwyqOSOpQ) | 9:29 |
 | 23 | [Moana Storyette Pt\. 1](https://open.spotify.com/track/1I6H2p3cWeBNoEakXnY58G) | [Rena Owen](https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe) | [Moana Storyette](https://open.spotify.com/album/3WsxUDFhioIDuNfTM7Shk4) | 4:20 |
 | 24 | [Moana Storyette Pt\. 2](https://open.spotify.com/track/6oQoHy85zaMXxlkue6XENN) | [Rena Owen](https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe) | [Moana Storyette](https://open.spotify.com/album/3WsxUDFhioIDuNfTM7Shk4) | 5:00 |

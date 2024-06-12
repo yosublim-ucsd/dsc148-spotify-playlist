@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,025 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,050 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 58 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 59 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 60 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
-| 61 | [Impala](https://open.spotify.com/track/5mZkyOiu3gQK7ybJqQoPYu) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [Impala](https://open.spotify.com/album/7s8IGcnpC6nSZ2HXdzxoys) | 3:00 |
-| 62 | [Mood 111](https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Soma](https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez) | 3:39 |
+| 61 | [Mood 111](https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Soma](https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez) | 3:39 |
+| 62 | [Impala](https://open.spotify.com/track/5mZkyOiu3gQK7ybJqQoPYu) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [Impala](https://open.spotify.com/album/7s8IGcnpC6nSZ2HXdzxoys) | 3:00 |
 | 63 | [Orgulho](https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Orgulho](https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX) | 4:24 |
 | 64 | [Mo Ki Nu Ta Fazi](https://open.spotify.com/track/678MOfN1hxfPoOGodwKU10) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Mo Ki Nu Ta Fazi](https://open.spotify.com/album/5xaOy0KY0SKrRNccDXZua9) | 3:40 |
 | 65 | [Eu Sei \#6](https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO), [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Eu Sei \#6](https://open.spotify.com/album/7zxYPMBvLHPqSbpMQsl7V1) | 2:45 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 68 | [Mundo Novo](https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Karyna Gomes](https://open.spotify.com/artist/67hvQPQ8FN8EGyItUlaxwa) | [Mundo Novo](https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM) | 3:11 |
 | 69 | [Balanço](https://open.spotify.com/track/3BztRRXfI7cdknMdwYiHA8) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Balanço](https://open.spotify.com/album/3bIQw7jaTIG5t2K95sUJ62) | 2:38 |
 | 70 | [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 |
-| 71 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
-| 72 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
+| 71 | [osciLAR](https://open.spotify.com/track/4LKpP7kf74byC2i25NThVS) | [Santos, Só](https://open.spotify.com/artist/1o2g31CSRtHMGcma7TneY0) | [osciLAR](https://open.spotify.com/album/58GajZ2rwYs38CFECnDfHr) | 4:05 |
+| 72 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 |
 | 73 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
 | 74 | [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 |
 | 75 | [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 |

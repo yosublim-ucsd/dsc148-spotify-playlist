@@ -2,7 +2,7 @@
 
 ### [This Is Slipknot](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYGncI)
 
-> This is Slipknot\. Todos os maiores hits em uma só playlist.
+> This is Slipknot\. The essential tracks, all in one playlist.
 
 63 songs - 4 hr 43 min
 
@@ -29,7 +29,7 @@
 | [Gematria \(The Killing Name\)](https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 6:01 | 2024-06-03 | 2024-06-04 |
 | [Gently](https://open.spotify.com/track/00WbLoO3bSlUdAy8al106S) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:54 | 2024-01-06 | 2024-01-08 |
 | [H377](https://open.spotify.com/track/38YxfCfUuQJU4r4pe3jeYb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:23 | 2022-10-02 | 2022-10-22 |
-| [Heirloom](https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:31 | 2022-10-12 |  |
+| [Heirloom](https://open.spotify.com/track/7d0XwaQbPLT8tPX81uRYMv) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:31 | 2022-10-12 | 2024-06-12 |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-10-01 |  |
 | [I Am Hated](https://open.spotify.com/track/1hrDDgkVbbS5bySL8uHLh3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 2:37 | 2022-12-10 | 2024-06-11 |
 | [Killpop](https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 3:45 | 2022-05-30 |  |
@@ -47,7 +47,7 @@
 | [Purity](https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 4:25 | 2022-05-30 |  |
 | [Red Flag](https://open.spotify.com/track/4SsgF844NGbl7UFcymqWKy) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:11 | 2022-05-30 |  |
 | [Skeptic](https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:46 | 2022-05-30 |  |
-| [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 | 2022-05-30 | 2024-06-11 |
+| [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 | 2022-05-30 |  |
 | [Solway Firth](https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 5:55 | 2022-05-30 |  |
 | [Spit It Out](https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:39 | 2022-05-30 |  |
 | [Sulfur](https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone \(10th Anniversary\)](https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk) | 4:37 | 2024-05-25 |  |
@@ -70,6 +70,6 @@
 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 | 2022-05-30 |  |
 | [Warranty](https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:51 | 2022-10-02 |  |
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-08 | 2022-10-12 |
-| [Yen](https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:43 | 2022-10-11 | 2024-06-11 |
+| [Yen](https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:43 | 2022-10-11 |  |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

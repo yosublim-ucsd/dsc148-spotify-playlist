@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,921 songs - 4 day 3 hr 18 min
+1,922 songs - 4 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,7 +825,7 @@
 | [II MOST WANTED](https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:28 | 2024-03-30 | 2024-04-13 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-06-07 | 2021-09-28 |
 | [Ikon](https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Ikon](https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md) | 2:41 | 2023-02-01 | 2023-02-28 |
-| [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-12 |  |
+| [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-12 | 2024-06-12 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-21 |
 | [In corpore sano](https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg) | [Konstrakta](https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt) | [In corpore sano](https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI) | 2:59 | 2022-05-16 | 2022-05-29 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-02-28 | 2022-06-10 |
@@ -1818,6 +1818,7 @@
 | [Visa vid vindens ängar](https://open.spotify.com/track/0fmQ692NrBq51GSFVNV3og) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Luften bor i mina steg](https://open.spotify.com/album/58nibN4cRCN643kIiqIG5W) | 5:14 | 2022-06-25 | 2022-06-27 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-31 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-07 | 2023-07-29 |
+| [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 | 2024-06-11 |  |
 | [VOI](https://open.spotify.com/track/6pUm3MoTibn5ql3VkNCghC) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [VOI](https://open.spotify.com/album/4IsIz3slcNGveMr1uJ8CuJ) | 2:42 | 2021-04-26 | 2023-02-06 |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2021-03-27\* | 2021-06-27 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-06-02 |

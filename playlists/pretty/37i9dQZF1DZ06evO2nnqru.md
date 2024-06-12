@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 
 ### [This Is Marca MP](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nnqru)
 
-> This Is Marca MP\. Los temas esenciales, todos en una lista.
+> This is Marca MP\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,553 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,575 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 12 | [Ven Conmigo](https://open.spotify.com/track/642pJ6MwUEE6QI426ScXmO) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
 | 13 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
 | 14 | [Lealtad](https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:17 |
-| 15 | [Lo Que Hay x Aquí](https://open.spotify.com/track/3Ck2hZFoRgNL2CUUkp64Bf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Lo Que Hay x Aquí](https://open.spotify.com/album/6b2PIJN4fzFif2Y1RivYOb) | 3:30 |
-| 16 | [Buen Resultado \- En Vivo](https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Buen Resultado \(En Vivo\)](https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB) | 2:54 |
+| 15 | [Buen Resultado \- En Vivo](https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Buen Resultado \(En Vivo\)](https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB) | 2:54 |
+| 16 | [Lo Que Hay x Aquí](https://open.spotify.com/track/3Ck2hZFoRgNL2CUUkp64Bf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Lo Que Hay x Aquí](https://open.spotify.com/album/6b2PIJN4fzFif2Y1RivYOb) | 3:30 |
 | 17 | [Aunque Digan](https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:31 |
 | 18 | [Tal Vez](https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:02 |
 | 19 | [El Velador](https://open.spotify.com/track/1bnM75H69llLIWrazZwKty) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 3:49 |
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 37 | [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 |
 | 38 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 |
 | 39 | [Tenis Balenciaga](https://open.spotify.com/track/4fARTnrr52kbgDgZW3rABR) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:46 |
-| 40 | [No Me Voy a Rajar \- En vivo](https://open.spotify.com/track/6yiRCPwBdcXkLYgHjwRvdq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 2:58 |
-| 41 | [Tu Ventana](https://open.spotify.com/track/1S65ib6SBhlsneaVmjbdrw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:06 |
+| 40 | [Tu Ventana](https://open.spotify.com/track/1S65ib6SBhlsneaVmjbdrw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:06 |
+| 41 | [No Me Voy a Rajar \- En vivo](https://open.spotify.com/track/6yiRCPwBdcXkLYgHjwRvdq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 2:58 |
 | 42 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 |
 | 43 | [Vasito Rojo](https://open.spotify.com/track/7mzUUkd8RTfA9EeHxzfmlD) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 3:17 |
-| 44 | [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 |
-| 45 | [De Morro](https://open.spotify.com/track/51ZB417tafnkR0UQYTIWzs) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [De Morro](https://open.spotify.com/album/4ujXW1MC4b4a2d7Uq7Cw33) | 2:44 |
-| 46 | [Tolin Infante](https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:47 |
-| 47 | [Sobrino Del Chavalon \- En Vivo](https://open.spotify.com/track/4IZvy2zGSrlUkGCRZ02pVN) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo Desde Anaheim, CA](https://open.spotify.com/album/77ZS3zOcl24hgHQpI9S9Z1) | 3:28 |
+| 44 | [De Morro](https://open.spotify.com/track/51ZB417tafnkR0UQYTIWzs) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [De Morro](https://open.spotify.com/album/4ujXW1MC4b4a2d7Uq7Cw33) | 2:44 |
+| 45 | [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 |
+| 46 | [Sobrino Del Chavalon \- En Vivo](https://open.spotify.com/track/4IZvy2zGSrlUkGCRZ02pVN) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo Desde Anaheim, CA](https://open.spotify.com/album/77ZS3zOcl24hgHQpI9S9Z1) | 3:28 |
+| 47 | [Tolin Infante](https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:47 |
 | 48 | [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 |
-| 49 | [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 |
-| 50 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 |
-| 51 | [R1](https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:59 |
+| 49 | [Y Me Ven \- En Vivo](https://open.spotify.com/track/17AY40sV0Fy9SzsPwYI4xc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 2:54 |
+| 50 | [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 |
+| 51 | [Mi Despedida](https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 4:05 |
 
-Snapshot ID: `ZmTwgAAAAACizMHUCNOeIkgOBRs9juPT`
+Snapshot ID: `ZmZCAAAAAABLVBy/hYYu96CIGBL5aIgU`

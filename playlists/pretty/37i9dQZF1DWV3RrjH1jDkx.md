@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,293 likes - 113 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,291 likes - 113 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 70 | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Only Way Is Up \(feat\. Izzy Bizu\)](https://open.spotify.com/album/4FFYAaeCVsCx6lfiZ5FPcD) | 2:29 |
 | 71 | [This Year's Love](https://open.spotify.com/track/1kK9VfP8KJcfDH5j3wahvd) | [Alejandro Fuentes](https://open.spotify.com/artist/43uURL7UXIZoVIsTTrLe7d) | [This Year's Love](https://open.spotify.com/album/4ITEQe7tM7OAYqICzWepTC) | 3:57 |
 | 72 | [Don't Speak](https://open.spotify.com/track/3iegKMcDwOdWtOUgwa4afJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Don't Speak](https://open.spotify.com/album/72AWK6AZ95LODDCjLJnoqX) | 2:46 |
-| 73 | [Maybe](https://open.spotify.com/track/52pjOGTH7XQL8bMQ0Ec1xj) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [MAYBE](https://open.spotify.com/album/0tUiNj5W3gz47T7MYcFOqE) | 3:10 |
+| 73 | [MAYBE](https://open.spotify.com/track/52pjOGTH7XQL8bMQ0Ec1xj) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [MAYBE](https://open.spotify.com/album/0tUiNj5W3gz47T7MYcFOqE) | 3:10 |
 | 74 | [2 The Moon](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [2 The Moon](https://open.spotify.com/album/4jl6uAmBT25q5BtSxz2rRZ) | 3:05 |
 | 75 | [Gata Only \(Remix\)](https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gata Only \(Remix\)](https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu) | 3:50 |
 | 76 | [HIGH LIFE](https://open.spotify.com/track/5UAB4PboEMvv0WRrF30Hup) | [Pop Boyz](https://open.spotify.com/artist/192AJKraTrQqcUswXuNjwW), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Karlavagnen](https://open.spotify.com/artist/2N2oxv7SJWA8Em0GWuxlqB) | [HIGH LIFE](https://open.spotify.com/album/6TWCwxbhE4vYoHYkkLoQHp) | 2:34 |

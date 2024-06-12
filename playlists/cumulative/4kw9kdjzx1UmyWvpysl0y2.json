@@ -2529,6 +2529,28 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7lbBABIl4JaV5388pOs2Af"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4wO2U9v7ho8sEGU0t3O9uq"
+    },
+    {
+      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/5WbsiwMrYMBtkAc9dUTAzB"
       },

@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-784 songs - 1 day 18 hr 6 min
+785 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-06 |  |
 | [Snow](https://open.spotify.com/track/0mxbKFPnLLZaSxRZuubdPu) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [Snow](https://open.spotify.com/album/57aENVs14og7AO7IXFQpSO) | 3:15 | 2020-02-07 | 2021-05-12 |
 | [snow angels](https://open.spotify.com/track/4tyD9sivpD8NGM8KEEabAl) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [a study of the human experience volume two](https://open.spotify.com/album/4k9Mz7WO4U1rx3JIRF3iFz) | 3:30 | 2022-10-07 |  |
+| [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-06-12 |  |
 | [Solitude](https://open.spotify.com/track/31AuJaUuJV7LI0grZeJM1y) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Solitude](https://open.spotify.com/album/6uhLzJ1bQ7BvavKtMl57DV) | 2:58 | 2019-08-27\* | 2021-12-04 |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2023-09-15 |  |
 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 | 2021-06-12 |  |

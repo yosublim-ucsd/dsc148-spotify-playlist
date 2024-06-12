@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Lou Rawls. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
   "name": "This Is Lou Rawls",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 215240,
       "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
       "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 357040,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"

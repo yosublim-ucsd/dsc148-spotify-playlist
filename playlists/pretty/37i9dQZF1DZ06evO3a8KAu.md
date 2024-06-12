@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,805 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,813 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 34 | [Nunca Sin Ti](https://open.spotify.com/track/3D08yHvC1hxntER3FPGMBk) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 2:33 |
 | 35 | [La Venia Bendita](https://open.spotify.com/track/2g15lf6AxoP1tEl5qHpuoi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:16 |
 | 36 | [Déjame Decirle](https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:13 |
-| 37 | [Dile Luna](https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Dile Luna](https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M) | 3:11 |
-| 38 | [11:11](https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:55 |
+| 37 | [11:11](https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:55 |
+| 38 | [Dile Luna](https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Dile Luna](https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M) | 3:11 |
 | 39 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 |
 | 40 | [Porque Llegaste Tu](https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:04 |
 | 41 | [Después No Hay Después](https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 4:12 |
 | 51 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
 
-Snapshot ID: `ZmTwgAAAAADYbpdaB7vg+hh/1gWqloLU`
+Snapshot ID: `ZmZCAAAAAAC0VvMOTTs4HOTMKFHxCs6l`

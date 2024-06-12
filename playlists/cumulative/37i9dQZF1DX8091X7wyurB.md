@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-359 songs - 1 day 9 hr 45 min
+360 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Blessings Follow Me](https://open.spotify.com/track/6K2Pm2e6qTqb1vC8qT3INV) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [KS Bloom](https://open.spotify.com/artist/5tjO5VGPByZF90lhuAQc6A) | [Blessings Follow Me](https://open.spotify.com/album/2x7GuHDER800C7nHwUTZrm) | 2:45 | 2022-09-30 | 2023-05-08 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 |  |
 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 | 2023-10-06 | 2023-12-15 |
-| [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 | 2023-12-15 |  |
+| [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 | 2023-12-15 | 2024-06-12 |
 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 |  |
 | [Chinedum](https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Chinedum](https://open.spotify.com/album/5V0vhc3p1EllrWsBNQR6Hh) | 4:40 | 2023-09-29 | 2023-10-26 |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-06-30 | 2023-01-20 |
@@ -164,6 +164,7 @@
 | [Ikechi \(Power of God\)](https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr) | 2:57 | 2023-07-07 | 2024-02-12 |
 | [Imela \(feat\. Enitan Adaba\)](https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Enitan Adaba](https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 5:54 | 2023-12-05 | 2023-12-10 |
 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 | 2023-12-15 |  |
+| [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/7w7q9tajAO0CiPw1Fx7vOG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/7b73uskrR9eUx516A9WSim) | 3:04 | 2024-03-29 |  |
 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 | 2024-05-10 |  |
 | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 | 2023-10-13 |  |
 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 | 2023-12-05 | 2023-12-10 |

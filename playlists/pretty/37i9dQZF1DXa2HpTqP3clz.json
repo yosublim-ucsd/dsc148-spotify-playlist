@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 161755,
+  "num_followers": 161758,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Tiny Wooden Box",
-        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 247813,
-      "name": "Tiny Wooden Box",
-      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
         "name": "Places I've Been",
         "url": "https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 188186,
       "name": "Shays' Rebellion",
       "url": "https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
+        "name": "Tiny Wooden Box",
+        "url": "https://open.spotify.com/album/1ioQmlcY8eg8BeGBsir850"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 247813,
+      "name": "Tiny Wooden Box",
+      "url": "https://open.spotify.com/track/0FMQTEGsEqpOdiAptT3I68"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Morning Shift",
-        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263216,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
+        "name": "Morning Shift",
+        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263216,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+      "duration_ms": 230032,
+      "name": "Blue Smoke",
+      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
         }
       ],
-      "duration_ms": 230032,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
-      },
-      "artists": [
-        {
-          "name": "Hogslop String Band",
-          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
-        }
-      ],
-      "duration_ms": 256997,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
         "name": "Love Train",
         "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
       },
@@ -1367,6 +1335,38 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
+      },
+      "artists": [
+        {
+          "name": "Hogslop String Band",
+          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
+        }
+      ],
+      "duration_ms": 256997,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+      },
+      "artists": [
+        {
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
         "name": "No Matter Where It Goes from Here",
         "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 236666,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
-        "name": "Kinetic Tone",
-        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
-      },
-      "artists": [
-        {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Saltbush Express",
-        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+        "name": "Kinetic Tone",
+        "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
       "artists": [
         {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
         }
       ],
-      "duration_ms": 171823,
-      "name": "Saltbush Express",
-      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+      "duration_ms": 292000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1455,6 +1439,22 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Something You Didn't Count On",
-        "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 173183,
-      "name": "Something You Didn\u2019t Count On",
-      "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
         "name": "Brand New Day",
         "url": "https://open.spotify.com/album/0nOo0LwXS3wb3Mkj0bOhyB"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 204106,
       "name": "Fire Song",
       "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
+        "name": "Something You Didn't Count On",
+        "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 173183,
+      "name": "Something You Didn\u2019t Count On",
+      "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "3+ (EP)",
-        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
-      },
-      "artists": [
-        {
-          "name": "Mike Barnett",
-          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        },
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        },
-        {
-          "name": "Paul Kowert",
-          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Born To Be With You",
-      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
@@ -1635,6 +1603,38 @@
       "duration_ms": 175128,
       "name": "All the Mornings Have an Echo",
       "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
+        "name": "3+ (EP)",
+        "url": "https://open.spotify.com/album/1YtOxEHSYw9paGyn4yU2gY"
+      },
+      "artists": [
+        {
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "Born To Be With You",
+      "url": "https://open.spotify.com/track/6Q20ozWxYzouSPyCOpKCL0"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
+    },
+    {
+      "added_at": "2024-06-07 07:06:46",
+      "album": {
         "name": "Kentucky for Me",
         "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 239000,
       "name": "Chasin' Indigo",
       "url": "https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ"
-    },
-    {
-      "added_at": "2024-06-07 07:06:46",
-      "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2024-06-07 07:06:46",
@@ -1803,22 +1803,18 @@
     {
       "added_at": "2024-06-07 07:06:46",
       "album": {
-        "name": "Far Away Again",
-        "url": "https://open.spotify.com/album/4b9zR844J9pihzB5Q63T8I"
+        "name": "Just Let Me Know",
+        "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
       },
       "artists": [
         {
-          "name": "Cory Walker",
-          "url": "https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Far Away Again",
-      "url": "https://open.spotify.com/track/4OnWVEvkYoFbEDWPwkvqLl"
+      "duration_ms": 168000,
+      "name": "Just Let Me Know",
+      "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
     },
     {
       "added_at": "2024-06-07 07:06:46",

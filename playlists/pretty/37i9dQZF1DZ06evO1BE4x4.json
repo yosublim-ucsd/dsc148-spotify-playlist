@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADG+OqLldZKsonJO6DKiBV+",
+  "snapshot_id": "ZmZCAAAAAACDHETpz7ec5PSM+07uJ1yZ",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Domestic La La",
-        "url": "https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3"
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 219773,
-      "name": "Domestic La La",
-      "url": "https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN"
+      "duration_ms": 234414,
+      "name": "Tinderbox",
+      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
+        "name": "Domestic La La",
+        "url": "https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 234414,
-      "name": "Tinderbox",
-      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
+      "duration_ms": 219773,
+      "name": "Domestic La La",
+      "url": "https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN"
     },
     {
       "added_at": null,

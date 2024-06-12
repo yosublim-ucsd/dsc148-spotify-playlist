@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,120 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,121 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 37 | [How I Love Jesus](https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 6:41 |
 | 38 | [Amazing Grace](https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 4:12 |
 | 39 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 |
-| 40 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 |
-| 41 | [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Greenleaf \(Gospel Companion Soundtrack, Vol\. 1\)](https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ) | 4:08 |
-| 42 | [Fill This House](https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 6:12 |
-| 43 | [I Feel Like Praising Him](https://open.spotify.com/track/6ZmVj4bahhA9TkJpbNX7Jy) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Gospel Legends](https://open.spotify.com/album/7irL5EpfIUFH2Q21XRhXVA) | 5:27 |
-| 44 | [God Will Take Care of You](https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 1:58 |
-| 45 | [Lord Let Your Spirit Fall On Me](https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 4:53 |
+| 40 | [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Greenleaf \(Gospel Companion Soundtrack, Vol\. 1\)](https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ) | 4:08 |
+| 41 | [I Feel Like Praising Him](https://open.spotify.com/track/6ZmVj4bahhA9TkJpbNX7Jy) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Gospel Legends](https://open.spotify.com/album/7irL5EpfIUFH2Q21XRhXVA) | 5:27 |
+| 42 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 |
+| 43 | [Fill This House](https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 6:12 |
+| 44 | [Lord Let Your Spirit Fall On Me](https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 4:53 |
+| 45 | [God Will Take Care of You](https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 1:58 |
 | 46 | [This Is My Prayer](https://open.spotify.com/track/4MCGM8Symn7QTUi51R7OAY) | [Charles Jenkins & Fellowship Chicago](https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Praise Party, Volume 1](https://open.spotify.com/album/1oBDxwqNSZM3G2PLdQvSyC) | 4:23 |
 | 47 | [Sweeping Through the City \(Live\)](https://open.spotify.com/track/1FFqxSXK9HOZuzLQrNrJmJ) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE), [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI), [Mighty Clouds Of Joy](https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS), [Dr\. Bobby Jones](https://open.spotify.com/artist/170IwFb5hhPEvgwMDLBq6t), [New Life](https://open.spotify.com/artist/4M0bqq6d5Pwx7KXCRrU1Qu) | [Black Gospel Explosion: Recorded Live](https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I) | 5:03 |
-| 48 | [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 |
-| 49 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 |
+| 48 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 |
+| 49 | [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 |
 | 50 | [I Cannot Stop Praising Him](https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 |
 
-Snapshot ID: `ZmTwgAAAAAC3YuNraZSB5t/H6m1ajJ6H`
+Snapshot ID: `ZmZCAAAAAAD7umXU7GM7OIY91Jma3xem`

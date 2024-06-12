@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,946 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,925 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 56 | [Sunshine Reggae](https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:17 |
 | 57 | [Wildberry Lillet](https://open.spotify.com/track/6LBmaJYwbLHfQwIreMCLlw) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:11 |
 | 58 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
-| 59 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX) | 3:55 |
-| 60 | [La Isla Bonita](https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:02 |
+| 59 | [La Isla Bonita](https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:02 |
+| 60 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX) | 3:55 |
 
 Snapshot ID: `ZgKxwQAAAAA3sKPhP+CaY6Qm7Ks9YcvA`

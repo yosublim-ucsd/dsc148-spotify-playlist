@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 ### [This Is Lalo Mora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dhOKA)
 
-> This is Lalo Mora\. The essential tracks, all in one playlist.
+> This Is Lalo Mora\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,965 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,979 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 22 | [Amigo Mío \- Dueto Con Lalo Mora](https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 4:00 |
 | 23 | [Bonita \- Norteña Version](https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Visión 20.20 Éxitos](https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1) | 2:55 |
 | 24 | [A Punto de Marcharme](https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:45 |
-| 25 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 |
-| 26 | [Trono Caído](https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:41 |
+| 25 | [Trono Caído](https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:41 |
+| 26 | [Baraja de Oro](https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las Norteñas Consentidas en la Voz de Lalo Mora](https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU) | 3:13 |
 | 27 | [En Mil Pedazos](https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [También De Los Ranchos Bajan](https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj) | 3:14 |
 | 28 | [Necesito Odiarte](https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:01 |
 | 29 | [De Nada Sirvió](https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:58 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 34 | [Aguanta Corazón](https://open.spotify.com/track/5fWwSOimDb4PDeiV7Gyld1) | [Carlo Mora](https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguanta Corazón](https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb) | 2:14 |
 | 35 | [La Casita De Adobe](https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:11 |
 | 36 | [Pero María](https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:07 |
-| 37 | [Yo Te Amo María](https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:39 |
-| 38 | [Flor de Dalia](https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Exitos Vol\. 1](https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt) | 2:43 |
+| 37 | [Flor de Dalia](https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [15 Exitos Vol\. 1](https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt) | 2:43 |
+| 38 | [Yo Te Amo María](https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:39 |
 | 39 | [Me Regalo Contigo](https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Casita De Adobe](https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ) | 3:07 |
 | 40 | [Rafael Caro Quintero](https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 3:03 |
 | 41 | [La Carga Ladeada](https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [El Corrido de Ramiro Quiroz](https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Las + Tocadas](https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv) | 3:00 |
 | 50 | [Bajo Mil Llaves](https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Bajo Mil Llaves](https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe) | 2:29 |
 
-Snapshot ID: `ZmTwgAAAAACdrvT/iUTu7p0f1pwzRn8V`
+Snapshot ID: `ZmZCAAAAAABAlUFz5/cmphvZGdQpVt13`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls\. Todos os maiores hits em uma só playlist.
+> This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,426 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,430 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 42 | [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 |
 | 43 | [Be Anything \(But Be Mine\)](https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Shades of Blue](https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN) | 3:43 |
 | 44 | [Wind Beneath My Wings \- Single Version](https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \- The Very Best Of](https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN) | 3:52 |
-| 45 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
-| 46 | [I Wish It Were Yesterday](https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:27 |
-| 47 | [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 |
+| 45 | [Willow Weep For Me](https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 5:57 |
+| 46 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
+| 47 | [I Wish It Were Yesterday](https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:27 |
 | 48 | [I Go Crazy](https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Shades of Blue](https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN) | 3:52 |
 | 49 | [Stormy Weather \(Keeps Rainin' All The Time\) \- 2006 Remaster](https://open.spotify.com/track/1fSPsAKuv7b9E9dTKPmW4N) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Tobacco Road](https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh) | 3:02 |
 | 50 | [We Understand Each Other](https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:16 |
 
-Snapshot ID: `ZmTwgAAAAAB/bZ+jgCq9S0w0gUBinZpi`
+Snapshot ID: `ZmZCAAAAAAAWrvDbtKixWMpoRwU+jERM`

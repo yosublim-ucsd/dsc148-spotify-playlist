@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 
 > hop on board, nonstop bops only!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,365 likes - 70 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,392 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

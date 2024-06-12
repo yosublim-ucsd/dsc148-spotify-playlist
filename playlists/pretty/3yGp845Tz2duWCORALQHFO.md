@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,707 likes - 61 songs - 3 hr 17 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,711 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 37 | [Tidal Waves](https://open.spotify.com/track/6NlUXu8kiu0CepKDliuunH) | [Hidden Axis](https://open.spotify.com/artist/2yccyWCH3p3R8ZZXMGBq30) | [Tidal Waves](https://open.spotify.com/album/7mXyrDcrtbILCKxZx3rYUt) | 3:08 |
 | 38 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
 | 39 | [Thousand Sides](https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Thousand Sides](https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8) | 3:11 |
-| 40 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 40 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 41 | [Lenda](https://open.spotify.com/track/10BvbmIVI24CBEhnhpxPmZ) | [Dim3nsion](https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL), [Mirage](https://open.spotify.com/artist/5uOKNdDGSzc6aGyRPKq0pf) | [Lenda](https://open.spotify.com/album/2Op4vCzrAghNvkzQtXPfe8) | 3:51 |
 | 42 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
 | 43 | [Psychotek](https://open.spotify.com/track/40S4EmuYBEY75SVGhejtrT) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Psychotek](https://open.spotify.com/album/1HMsXLMCLC990fsyTebV6h) | 3:26 |

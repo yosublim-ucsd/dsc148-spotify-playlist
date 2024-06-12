@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 3693,
+  "num_followers": 3697,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAABL8vO5QAf5jt7OfbmpSWGu",
+  "snapshot_id": "ZmZCAAAAAAA2Da0y7JEMx5cpxFvhMgvO",
   "tracks": [
     {
       "added_at": null,
@@ -18,15 +18,11 @@
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 227518,
-      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
-      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
+      "duration_ms": 256971,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
     },
     {
       "added_at": null,
@@ -90,11 +86,15 @@
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 256971,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
+      "duration_ms": 227518,
+      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
+      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
     },
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Veces (feat. Feid)",
-        "url": "https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191555,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4"
       },
@@ -287,6 +267,22 @@
       "duration_ms": 204003,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 233169,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv"
     },
     {
       "added_at": null,
@@ -319,78 +315,6 @@
       "duration_ms": 165560,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1IpzwwhCo2eoCyecfhDqt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 233169,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 175028,
-      "name": "No Puedo",
-      "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Necio (feat. LIT killah)",
-      "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
     },
     {
       "added_at": null,
@@ -431,6 +355,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 175028,
+      "name": "No Puedo",
+      "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 218840,
+      "name": "Necio (feat. LIT killah)",
+      "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noche Complicada",
         "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
       },
@@ -447,22 +407,6 @@
       "duration_ms": 211208,
       "name": "Noche Complicada",
       "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Por Deporte",
-      "url": "https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH"
     },
     {
       "added_at": null,
@@ -511,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Por Deporte",
+      "url": "https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
       },
@@ -527,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+        "name": "Noche de Novela (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Tenso",
-      "url": "https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2"
+      "duration_ms": 191896,
+      "name": "Noche de Novela (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5"
     },
     {
       "added_at": null,
@@ -555,6 +519,22 @@
       "duration_ms": 212819,
       "name": "Confiado y Tranquilo",
       "url": "https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Tenso",
+      "url": "https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2"
     },
     {
       "added_at": null,
@@ -599,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 154986,
-      "name": "Chango",
-      "url": "https://open.spotify.com/track/3FlLbxMOhAgiWCwfcsvwF8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cansado",
         "url": "https://open.spotify.com/album/2xx2vcIQ5RhMKhvGVphwDu"
       },
@@ -631,6 +595,22 @@
       "duration_ms": 182307,
       "name": "Cansado",
       "url": "https://open.spotify.com/track/4IWSiikKGhA9cBmAL6r3iy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "Chango",
+      "url": "https://open.spotify.com/track/3FlLbxMOhAgiWCwfcsvwF8"
     },
     {
       "added_at": null,
@@ -655,6 +635,26 @@
       "duration_ms": 174424,
       "name": "The World Is Yours To Take - Latin Remix / Budweiser Anthem Of The FIFA World Cup 2022",
       "url": "https://open.spotify.com/track/5zGzSO40FsFK65IloXM7DN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Est\u00e1 Bien",
+        "url": "https://open.spotify.com/album/6q1LxPFBvRsiZ1PLh7bsrl"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        }
+      ],
+      "duration_ms": 208100,
+      "name": "Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/1lD3u5hjnHSiECLPhwsYHr"
     }
   ],
   "unique_name": "This Is Paulo Londra",

@@ -1,33 +1,13 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 7081,
+  "num_followers": 7083,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADRGsxZhJnnWWJI5OrnNNW1",
+  "snapshot_id": "ZmZCAAAAAAADIYgnfoRTA4sRNdNu6RX6",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186552,
-      "name": "Someone Like You (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
     {
       "added_at": null,
       "album": {
@@ -143,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
       "artists": [
         {
@@ -152,15 +132,15 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 185054,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Questions, Chaos & Faith",
-        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
         {
@@ -168,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 237915,
-      "name": "Questions, Chaos & Faith",
-      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
     },
     {
       "added_at": null,
@@ -191,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
       },
       "artists": [
         {
@@ -200,9 +180,41 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+      "duration_ms": 185054,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Questions, Chaos & Faith",
+        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 237915,
+      "name": "Questions, Chaos & Faith",
+      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
     },
     {
       "added_at": null,
@@ -231,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -251,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
       },
       "artists": [
         {
@@ -260,15 +288,15 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
         {
@@ -276,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 197767,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
+      "duration_ms": 229426,
+      "name": "breathe again",
+      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
     },
     {
       "added_at": null,
@@ -427,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
       "artists": [
         {
@@ -436,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 166649,
-      "name": "Wild Enough",
-      "url": "https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV"
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": null,
@@ -475,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 166649,
+      "name": "Wild Enough",
+      "url": "https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
       },
@@ -507,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "younger days",
-      "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -539,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
         {
@@ -548,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 161706,
-      "name": "judas",
-      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
+      "duration_ms": 214346,
+      "name": "younger days",
+      "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
     },
     {
       "added_at": null,
@@ -847,42 +875,6 @@
       "duration_ms": 279614,
       "name": "Animals & Angels",
       "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Tim Gent",
-          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "mercy",
-      "url": "https://open.spotify.com/track/69WTFVh5FGpQGTXtNmCVli"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's How God Made Me (Anything\u2019s Possible Soundtrack)",
-        "url": "https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 194623,
-      "name": "That's How God Made Me",
-      "url": "https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

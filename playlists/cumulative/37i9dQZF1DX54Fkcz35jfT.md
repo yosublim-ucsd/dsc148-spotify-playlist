@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Crossfaith
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 打首獄門同好会
 
-315 songs - 18 hr 11 min
+318 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [6or9](https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [6or9](https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW) | 3:35 | 2023-09-05 |  |
 | [a humble border](https://open.spotify.com/track/0Y7JvSq8M8oedxot1Njfrg) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [a humble border](https://open.spotify.com/album/0Igc1reJ3VXW0PExraM40T) | 3:34 | 2023-12-12 | 2023-12-20 |
 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 | 2024-02-27 | 2024-06-02 |
-| [Ain't That So Awesome](https://open.spotify.com/track/2AttQgWAUvUHABf6van7PO) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/05eS7MkETxSTk4UcyieA4s) | 3:39 | 2024-04-18 |  |
+| [Ain't That So Awesome](https://open.spotify.com/track/2AttQgWAUvUHABf6van7PO) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/05eS7MkETxSTk4UcyieA4s) | 3:39 | 2024-04-18 | 2024-06-12 |
 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2023-07-20 | 2024-04-19 |
 | [ALVA](https://open.spotify.com/track/1WsN1q1NTWYEJbw81KWsws) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/14gl92ZGLwr2pEJvhsMenp) | 4:00 | 2023-07-20 | 2023-10-04 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-07-20 | 2024-01-30 |
@@ -50,6 +50,7 @@
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-03 |  |
 | [Bucho puccho dou?](https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Bochibochi veteran](https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1) | 3:27 | 2024-01-02 | 2024-01-24 |
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-07-20 |  |
+| [BUNBUN SUIBUN](https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [BUNBUN SUIBUN](https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0) | 3:11 | 2024-06-11 |  |
 | [Chin Age Negotiation](https://open.spotify.com/track/2DGJX6CxOTpXvYspATCQRg) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Chin Age Negotiation](https://open.spotify.com/album/51Wg05oEpQ48VcwdskP7R7) | 4:02 | 2023-11-21 | 2023-12-13 |
 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 | 2023-11-14 | 2023-12-30 |
 | [CRAZY BEAUTIFUL NIGHT](https://open.spotify.com/track/1BvsiUIXqmq0i7Fa8cC3LV) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [CRAZY BEAUTIFUL NIGHT](https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ) | 3:38 | 2023-08-31 | 2023-11-01 |
@@ -152,6 +153,7 @@
 | [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 | 2023-07-20 |  |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-07-20 |  |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 |  |
+| [MUSIC](https://open.spotify.com/track/1nEqHv1JzL3d8f9Kh7IJNE) | [SHIFT\_CONTROL](https://open.spotify.com/artist/3YJMtowBKCM8vhFWYNVWI9) | [MUSIC](https://open.spotify.com/album/0mo1q8CqwCzEIarbF64a6L) | 2:45 | 2024-06-11 |  |
 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 | 2023-10-17 | 2024-03-04 |
 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2023-07-20 |  |
 | [NANNMANNKAITEN](https://open.spotify.com/track/03qGe5uhebN3BJ50jDU44W) | [iTuca](https://open.spotify.com/artist/44cqjOXwBrkrNaFG07J3vt) | [SONOSAKIHE TOBE](https://open.spotify.com/album/1nX8N0hK1kLJ7aT9W5OsKv) | 3:43 | 2023-11-23 | 2024-02-21 |
@@ -213,10 +215,11 @@
 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 | 2023-12-05 | 2024-05-15 |
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 | 2023-12-20 |
 | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/track/2f46PpC09Fg0H7jAI8Oo8L) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/album/38cEkAqmg13qoj9CnXRIX3) | 3:42 | 2024-06-03 |  |
-| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2023-11-21 |  |
+| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2023-11-21 | 2024-06-12 |
 | [SKY PRAYER](https://open.spotify.com/track/26F9zTeLrSRGJlKD5EZSwG) | [STAMINA MAYONNAISE](https://open.spotify.com/artist/7Ma5W6ANNZt2pPMrt0lDXe) | [BATTLE CRY](https://open.spotify.com/album/4aoB4oMgk7i2HzsJhgyogJ) | 1:18 | 2024-01-02 | 2024-01-10 |
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2023-07-20 |  |
 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 | 2023-07-20 |  |
+| [smileY:\)](https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [smileY:\)](https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn) | 1:55 | 2024-06-11 |  |
 | [Something New](https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RED APHELION](https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU) | 3:57 | 2023-12-19 |  |
 | [Song For The Weak.](https://open.spotify.com/track/12wm3tZxnlvGBy3ccrjqYr) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Song For The Weak.](https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6) | 5:14 | 2024-01-09 | 2024-01-24 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-20 |  |
@@ -285,7 +288,7 @@
 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 | 2024-01-16 | 2024-04-19 |
 | [チン♂アゲ⤴交渉中](https://open.spotify.com/track/2gL6fYOjVWCiJNgCmWkNJS) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [チン♂アゲ⤴交渉中](https://open.spotify.com/album/6nL65keILGOcGalS1eRcZl) | 4:02 | 2023-11-21 | 2023-11-23 |
 | [ディア・ライフ](https://open.spotify.com/track/112ACjUKFwxpu63VutgJlj) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/3XgYoL9XngiOQfU8djgAqQ) | 3:43 | 2023-08-15 | 2023-08-17 |
-| [ハッピーウェディング前ソング \- 2年以内に別れないver.](https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [ハッピーウェディング前ソング \(2年以内に別れないver.\)](https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd) | 3:49 | 2023-07-20 |  |
+| [ハッピーウェディング前ソング \- 2年以内に別れないver.](https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [ハッピーウェディング前ソング \(2年以内に別れないver.\)](https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd) | 3:49 | 2023-07-20 | 2024-06-12 |
 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2023-07-20 | 2024-04-19 |
 | [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 | 2024-04-18 |  |
 | [ビキニ・スポーツ・ポンチン](https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [LUST \(Selected Edition\)](https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE) | 3:42 | 2023-07-20 | 2024-03-27 |

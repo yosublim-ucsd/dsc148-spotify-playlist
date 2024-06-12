@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:7M7UXUwtz3Wb25PVS8dwHs">SEU Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,878 likes - 97 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,909 likes - 97 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 49 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 |
 | 50 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 |
 | 51 | [Yewo](https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yewo](https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM) | 2:34 |
-| 52 | [Energy](https://open.spotify.com/track/5wd1xIFVrAJ6wvZhebqfaT) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Energy](https://open.spotify.com/album/721CIYJgTdFZs9DuWzJDRd) | 3:20 |
+| 52 | [Spiritual Energy](https://open.spotify.com/track/5wd1xIFVrAJ6wvZhebqfaT) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Spiritual Energy](https://open.spotify.com/album/721CIYJgTdFZs9DuWzJDRd) | 3:20 |
 | 53 | [Everything](https://open.spotify.com/track/0FELObnpMwe7tqUMwOiSZD) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Everything](https://open.spotify.com/album/36rgLMtBtJqzn0Q6x0AQFd) | 2:38 |
 | 54 | [Human Like Me](https://open.spotify.com/track/0sHRLPcOLOY60qtJKu1Sna) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Human Like Me](https://open.spotify.com/album/1BiuLtFDlAGpjfAClQtTqp) | 3:00 |
 | 55 | [Abide](https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Abide](https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR) | 3:01 |

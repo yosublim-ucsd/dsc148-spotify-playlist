@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52419,
+  "num_followers": 52416,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkrfBgAAAAChIGYzsTyMMM01JRodQlTy",
+  "snapshot_id": "ZmfmlgAAAADRiKoZbGcbEkRdiVnwssnq",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Winds of Haryana",
         "url": "https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 176106,
       "name": "The Tower of Embellion",
       "url": "https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -239,6 +239,22 @@
       "duration_ms": 163684,
       "name": "Endless Sleep",
       "url": "https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj"
+    },
+    {
+      "added_at": "2024-06-11 05:54:30",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl"
+      },
+      "artists": [
+        {
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d"
+        }
+      ],
+      "duration_ms": 196999,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -339,22 +355,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w"
-      },
-      "artists": [
-        {
-          "name": "Sufi Sheman",
-          "url": "https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok"
-        }
-      ],
-      "duration_ms": 130541,
-      "name": "Sentiment",
-      "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
       },
@@ -371,18 +371,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sea Of Tranquility",
-        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w"
       },
       "artists": [
         {
-          "name": "Julius Aston",
-          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+          "name": "Sufi Sheman",
+          "url": "https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok"
         }
       ],
-      "duration_ms": 175318,
-      "name": "Sea Of Tranquility",
-      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
+      "duration_ms": 130541,
+      "name": "Sentiment",
+      "url": "https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -399,6 +399,22 @@
       "duration_ms": 190000,
       "name": "This night",
       "url": "https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Sea Of Tranquility",
+        "url": "https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3"
+      },
+      "artists": [
+        {
+          "name": "Julius Aston",
+          "url": "https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm"
+        }
+      ],
+      "duration_ms": 175318,
+      "name": "Sea Of Tranquility",
+      "url": "https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -531,22 +547,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Night Walk",
-        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 106050,
       "name": "Origami",
       "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -651,22 +667,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Envision",
-        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
-      },
-      "artists": [
-        {
-          "name": "Amaranth Cove",
-          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Vague",
-      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 119080,
       "name": "The Great Plains Hymn",
       "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Cove",
+          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Vague",
+      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -827,22 +843,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
-      },
-      "artists": [
-        {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dulces Sue\u00f1os",
         "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 325400,
       "name": "The Breath Inside the Breath",
       "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
+      },
+      "artists": [
+        {
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
-        }
-      ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 163012,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Bubble",
-          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Eternal Thoughts",
         "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 241438,
       "name": "Eternal Thoughts",
       "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Bubble",
+          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Time to Heal",
-        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
-      },
-      "artists": [
-        {
-          "name": "Vittoria Emanuelle",
-          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
-        }
-      ],
-      "duration_ms": 154642,
-      "name": "Time to Heal",
-      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Heavenly Walk",
         "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 284513,
       "name": "Heavenly Walk",
       "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Time to Heal",
+        "url": "https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP"
+      },
+      "artists": [
+        {
+          "name": "Vittoria Emanuelle",
+          "url": "https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q"
+        }
+      ],
+      "duration_ms": 154642,
+      "name": "Time to Heal",
+      "url": "https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "Lorimar",
-      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "New Romantic Classical Piano and Violin Duets",
-        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
       },
       "artists": [
         {
-          "name": "Violin Music",
-          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
         }
       ],
-      "duration_ms": 272730,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
+      "duration_ms": 222916,
+      "name": "Lorimar",
+      "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1523,6 +1523,22 @@
       "duration_ms": 374879,
       "name": "Sonno Profondo",
       "url": "https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "New Romantic Classical Piano and Violin Duets",
+        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
+      },
+      "artists": [
+        {
+          "name": "Violin Music",
+          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
+        }
+      ],
+      "duration_ms": 272730,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1635,22 +1651,6 @@
       "duration_ms": 356000,
       "name": "Uno",
       "url": "https://open.spotify.com/track/3wDjJstO6soS2ewJ3xhyDG"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Koyasan: Reiki Sound Healing",
-        "url": "https://open.spotify.com/album/4iVHdg8bb5lkUZGhAbwVCf"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 572146,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/4O20FRyWVCr4t6bl3Xxvsj"
     }
   ],
   "unique_name": "Nidra",

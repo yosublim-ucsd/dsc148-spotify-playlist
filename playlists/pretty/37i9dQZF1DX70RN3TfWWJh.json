@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4815155,
+  "num_followers": 4815055,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Chase It (Mmm Da Da Da)",
+        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Chase It (Mmm Da Da Da)",
+      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Chase It (Mmm Da Da Da)",
-        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Chase It (Mmm Da Da Da)",
-      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Hotstepper",
         "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 141795,
       "name": "Hotstepper",
       "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1739,30 +1739,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 198995,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Espresso (Working Late Remixes)",
         "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
       },
@@ -1783,6 +1759,30 @@
       "duration_ms": 184156,
       "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
       "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 198995,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
     },
     {
       "added_at": "2024-05-31 04:00:00",

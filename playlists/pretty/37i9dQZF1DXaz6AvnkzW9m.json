@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20  Los Master Plus en portada.",
-  "num_followers": 130396,
+  "num_followers": 130416,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
-        "name": "Morro",
-        "url": "https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "Morro",
-      "url": "https://open.spotify.com/track/4awv86vKJ63MzgLngfpdUv"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Morro",
+        "url": "https://open.spotify.com/album/2bex0ef9qNmSybJa28I87K"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Morro",
+      "url": "https://open.spotify.com/track/4awv86vKJ63MzgLngfpdUv"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Es Dificil Ser Un Santo",
-        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Es Dificil Ser Un Santo",
-      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "La Guagua",
         "url": "https://open.spotify.com/album/4qcYprsGD3dG5PZvjh33y4"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 186590,
       "name": "La Guagua",
       "url": "https://open.spotify.com/track/2RHMD7tOoCtiVh5gS4IOlc"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Es Dificil Ser Un Santo",
+        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Es Dificil Ser Un Santo",
+      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
     },
     {
       "added_at": "2024-05-31 06:00:00",

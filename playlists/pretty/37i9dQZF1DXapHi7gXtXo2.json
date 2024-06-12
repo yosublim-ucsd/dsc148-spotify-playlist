@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85791,
+  "num_followers": 85802,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Liit",
-        "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 167449,
-      "name": "Liit",
-      "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
       },
@@ -371,8 +351,8 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
       },
       "artists": [
         {
@@ -380,13 +360,13 @@
           "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         },
         {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 178392,
-      "name": "El Encuentro",
-      "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
+      "duration_ms": 212044,
+      "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
+      "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -403,6 +383,26 @@
       "duration_ms": 198558,
       "name": "Mismo Amor",
       "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Liit",
+        "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 167449,
+      "name": "Liit",
+      "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Hola Precioso",
-        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 206515,
-      "name": "Ir derecho",
-      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Sue\u00f1o C\u00edtrico",
         "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
       },
@@ -495,22 +479,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Conducci\u00f3n Temeraria",
-        "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
+        "name": "Hola Precioso",
+        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
       },
       "artists": [
         {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 212044,
-      "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
-      "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
+      "duration_ms": 206515,
+      "name": "Ir derecho",
+      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -547,6 +527,26 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "duration_ms": 178392,
+      "name": "El Encuentro",
+      "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 237456,
       "name": "Otro Lado",
       "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
-      },
-      "artists": [
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        }
-      ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 225264,
       "name": "Desnuda",
       "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 208908,
-      "name": "SUR",
-      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Historia de un Amor",
         "url": "https://open.spotify.com/album/7GNyEER5rbwEVpAWeep70c"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 165000,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/1ummXcPcrn21a5OFOjHlpT"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 208908,
+      "name": "SUR",
+      "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "No Me Quiero Ir Lejos",
+        "url": "https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy"
+      },
+      "artists": [
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        }
+      ],
+      "duration_ms": 204614,
+      "name": "No Me Quiero Ir Lejos",
+      "url": "https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Me da igual",
         "url": "https://open.spotify.com/album/3HIPYDTugzWUO0IIJ2lRzV"
       },
@@ -1555,18 +1571,34 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "No Me Quiero Ir Lejos",
-        "url": "https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy"
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
       },
       "artists": [
         {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 204614,
-      "name": "No Me Quiero Ir Lejos",
-      "url": "https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW"
+      "duration_ms": 133711,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Pinamar",
+        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Pinamar",
+      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1587,22 +1619,6 @@
       "duration_ms": 208790,
       "name": "Llamame",
       "url": "https://open.spotify.com/track/52pBr4O7TlAQ7rDS8TPxlf"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Pinamar",
-        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Pinamar",
-      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 133711,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Te Odio",
+        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "Te odio",
+      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Aquellos misterios",
         "url": "https://open.spotify.com/album/0LdBzI3szBHNkZ0fPbsBLT"
       },
@@ -1739,30 +1759,6 @@
       "duration_ms": 149625,
       "name": "Aquellos misterios",
       "url": "https://open.spotify.com/track/3eL6hWEtP8reMoUp7Zlx9A"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Tu Vereda",
-        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Ivan C. Bakmas",
-          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
-        },
-        {
-          "name": "Fer Moreno",
-          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
-        }
-      ],
-      "duration_ms": 147198,
-      "name": "Tu Vereda",
-      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
     }
   ],
   "unique_name": "Radio Indie",

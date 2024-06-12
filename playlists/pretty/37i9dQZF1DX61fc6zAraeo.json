@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98623,
+  "num_followers": 98626,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Midnight Lover",
         "url": "https://open.spotify.com/album/2idGqa3Qj3PMa1thq4lYZQ"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 123423,
       "name": "Midnight Lover",
       "url": "https://open.spotify.com/track/0waC54U6IPRJws5gPW5LgW"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Back In '99",
+        "url": "https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 167678,
+      "name": "Back In '99",
+      "url": "https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Pretty Little Lies",
         "url": "https://open.spotify.com/album/3FoBg7SY8EkQ69NkSx3eAL"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Back In '99",
-        "url": "https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs"
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
       },
       "artists": [
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
         }
       ],
-      "duration_ms": 167678,
-      "name": "Back In '99",
-      "url": "https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh"
+      "duration_ms": 154831,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 163155,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/2xVWEQ74TsZoSR8Nzu7sY6"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 154831,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/6RMvpffQpXfowQRlp8EVIc"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Can't Talk Right Now",
         "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Could You Be The One",
+        "url": "https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Katy Alex",
+          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+        }
+      ],
+      "duration_ms": 121750,
+      "name": "Could You Be The One",
+      "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Like Thunder",
         "url": "https://open.spotify.com/album/18zUdfT1bfo8ndN0upWRsO"
       },
@@ -1675,22 +1695,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Could You Be The One",
-        "url": "https://open.spotify.com/album/56VRXsZ7MUAz421NkITjmK"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
       },
       "artists": [
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
         },
         {
-          "name": "Katy Alex",
-          "url": "https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB"
+          "name": "Guillaume Gordon",
+          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
         }
       ],
-      "duration_ms": 121750,
-      "name": "Could You Be The One",
-      "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
+      "duration_ms": 162712,
+      "name": "Got a Friend",
+      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1711,26 +1731,6 @@
       "duration_ms": 153024,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
-      },
-      "artists": [
-        {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
-        },
-        {
-          "name": "Guillaume Gordon",
-          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
-        }
-      ],
-      "duration_ms": 162712,
-      "name": "Got a Friend",
-      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1771,30 +1771,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Stand In Line",
-        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Future Class",
-          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
-        },
-        {
-          "name": "RYVM",
-          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
-        }
-      ],
-      "duration_ms": 185451,
-      "name": "Stand In Line",
-      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Slowly Going Crazy (feat. EKE)",
         "url": "https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc"
       },
@@ -1819,6 +1795,30 @@
       "duration_ms": 147187,
       "name": "Slowly Going Crazy (feat. EKE)",
       "url": "https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Stand In Line",
+        "url": "https://open.spotify.com/album/6oOQUuzEJhcCzE8WYxVM13"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Future Class",
+          "url": "https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+        }
+      ],
+      "duration_ms": 185451,
+      "name": "Stand In Line",
+      "url": "https://open.spotify.com/track/29Hs0AdqnVUoPe3llVZ2fZ"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1943,6 +1943,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "A Little Bit More",
+        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
+      },
+      "artists": [
+        {
+          "name": "Gaudini",
+          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
+        },
+        {
+          "name": "KVKI",
+          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "A Little Bit More",
+      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS"
       },
@@ -1967,46 +1987,30 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "A Little Bit More",
-        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
+        "name": "Only You and I",
+        "url": "https://open.spotify.com/album/47cpXq5eoAPVwTojjZwYP3"
       },
       "artists": [
         {
-          "name": "Gaudini",
-          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
+          "name": "Get Far",
+          "url": "https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA"
         },
         {
-          "name": "KVKI",
-          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
+          "name": "Miner V",
+          "url": "https://open.spotify.com/artist/4rkduvnKTAP1gOAoa9lLAS"
+        },
+        {
+          "name": "LennyMendy",
+          "url": "https://open.spotify.com/artist/5AH8sDoAuqf0vp9hSex10V"
+        },
+        {
+          "name": "Brave Culture",
+          "url": "https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd"
         }
       ],
-      "duration_ms": 145161,
-      "name": "A Little Bit More",
-      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/32f4pScUf8EVH2JCVtldsK"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Toxic Joy",
-          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
-        },
-        {
-          "name": "NEIV",
-          "url": "https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/0LbJ4vV5xlLp6asZJDtqqH"
+      "duration_ms": 175300,
+      "name": "Only You and I",
+      "url": "https://open.spotify.com/track/79KGZzqNgevzXDN18Gmdqm"
     }
   ],
   "unique_name": "Power Up!",

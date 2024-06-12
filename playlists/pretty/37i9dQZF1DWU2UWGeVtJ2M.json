@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 159173,
+  "num_followers": 159179,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
+        "name": "Basement Grooves",
+        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
         "name": "untitled (what's it gonna be)",
         "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Basement Grooves",
-        "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
         }
       ],
-      "duration_ms": 169142,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1395,22 +1411,6 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1443,42 +1443,6 @@
       "duration_ms": 218627,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
-        "name": "yellow",
-        "url": "https://open.spotify.com/album/01ilKhmXUXqmgkZd9PvLjH"
-      },
-      "artists": [
-        {
-          "name": "Nathanie",
-          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
-        }
-      ],
-      "duration_ms": 72741,
-      "name": "yellow",
-      "url": "https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
-      },
-      "artists": [
-        {
-          "name": "hohoman16",
-          "url": "https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk"
-        },
-        {
-          "name": "Isla K",
-          "url": "https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
     },
     {
       "added_at": "2024-06-09 16:00:00",
@@ -1519,22 +1483,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
-      },
-      "artists": [
-        {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Virtual Lover",
         "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
       },
@@ -1555,6 +1503,58 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
+      },
+      "artists": [
+        {
+          "name": "hohoman16",
+          "url": "https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk"
+        },
+        {
+          "name": "Isla K",
+          "url": "https://open.spotify.com/artist/0BtSuJKKjzsal6MQSwHN3A"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+      },
+      "artists": [
+        {
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "yellow",
+        "url": "https://open.spotify.com/album/01ilKhmXUXqmgkZd9PvLjH"
+      },
+      "artists": [
+        {
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
+        }
+      ],
+      "duration_ms": 72741,
+      "name": "yellow",
+      "url": "https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
         "name": "Hello, I said",
         "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-06-09 16:00:00",
       "album": {
-        "name": "Ambivalence",
-        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
-        }
-      ],
-      "duration_ms": 225422,
-      "name": "April Smile",
-      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
-    },
-    {
-      "added_at": "2024-06-09 16:00:00",
-      "album": {
         "name": "Don't Trust Myself",
         "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 169434,
       "name": "Don't Trust Myself",
       "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
+    },
+    {
+      "added_at": "2024-06-09 16:00:00",
+      "album": {
+        "name": "Ambivalence",
+        "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/0e6x6jekPEsRu9blCb1MWZ"
+        }
+      ],
+      "duration_ms": 225422,
+      "name": "April Smile",
+      "url": "https://open.spotify.com/track/4rhTbLNVEHvSENW3KWuHTX"
     },
     {
       "added_at": "2024-06-09 16:00:00",

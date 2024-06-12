@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,598 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,594 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 | 49 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 |
 | 50 | [Badass!](https://open.spotify.com/track/6L1yx4dM2VrAMWJaUm9R7Q) | [Marko Damian](https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z) | [SKEETER](https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC) | 2:40 |
 
-Snapshot ID: `LfplGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

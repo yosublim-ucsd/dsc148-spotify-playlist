@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,881 songs - 4 day 3 hr 12 min
+1,882 songs - 4 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1317,7 +1317,7 @@
 | [Playlist](https://open.spotify.com/track/0TLtjH5IDsmrZvvPSwB0A6) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc), [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Playlist](https://open.spotify.com/album/19p2ZM4dceuzqmCQUSyecU) | 2:33 | 2021-05-05 | 2022-04-14 |
 | [Please Don't Leave Just Yet](https://open.spotify.com/track/1kHTb9Mq9FbBKqhH4RjCIi) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Please Don't Leave Just Yet](https://open.spotify.com/album/27L7VdlM5R2B1ZK9hjZYDT) | 3:49 | 2021-08-06 | 2022-06-15 |
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-12 | 2024-02-17 |
-| [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-15 |  |
+| [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-15 | 2024-06-12 |
 | [pop tarts](https://open.spotify.com/track/3P23kcmBXrFyGmbthN3DLK) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [who gives a f\*\*k?](https://open.spotify.com/album/6LAD5tDe1O0PGXWgOqoND9) | 3:07 | 2021-02-22 | 2021-02-27 |
 | [poppin](https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [poppin](https://open.spotify.com/album/2Z5ksNiLa2fNEi7zWWt7Z5) | 3:49 | 2021-08-06 | 2022-04-15 |
 | [Porsche](https://open.spotify.com/track/1mYzzRRD6wB9xVAxUllDqw) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Porsche](https://open.spotify.com/album/2QoW4xvavVf9KYiIGNBNm8) | 3:35 | 2020-10-20 | 2021-06-03 |
@@ -1576,6 +1576,7 @@
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-05 | 2022-12-10 |
 | [strawberry cheeks](https://open.spotify.com/track/4zaLAS8k38OrOzcixofzwj) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [strawberry cheeks](https://open.spotify.com/album/0qy7ydTLwBmQeHbJMHL88t) | 2:14 | 2021-06-02 | 2022-04-14 |
 | [strawberry cheesecake](https://open.spotify.com/track/4bh2jy0vLIrXE1Cnq2u8gG) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [strawberry cheesecake](https://open.spotify.com/album/2Iyj7AAgMDMutkGHhc8tF8) | 2:20 | 2021-10-12 | 2021-10-16 |
+| [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-06-07 |  |
 | [Strawberry Kisses](https://open.spotify.com/track/4LXuSaMzY515ubvtGnCvBi) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Strawberry Kisses](https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH) | 3:01 | 2021-11-12 | 2022-07-29 |
 | [Strawberry Lemonade](https://open.spotify.com/track/1cUSOt18Y43uL5RMJDrxA2) | [Neptune](https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N) | [Strawberry Lemonade](https://open.spotify.com/album/5H525vy6qp579VdthbASUp) | 2:51 | 2021-09-27 | 2022-01-21 |
 | [Strawberry Sunscreen](https://open.spotify.com/track/6uIt9AyMilUMqhjcsDJbyM) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Strawberry Sunscreen](https://open.spotify.com/album/3lhMJMHvBw0tez72e0jnrs) | 2:09 | 2020-10-13\* | 2022-04-14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sonny Okosun. The essential tracks, all in one playlist.",
-  "num_followers": 475,
+  "num_followers": 474,
   "original_name": "This Is Sonny Okosun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAAD5pLyHd0sqlf6BH0wg7VxV",
+  "snapshot_id": "ZmZCAAAAAADB6M8k2IxNmGbNr8qTlI68",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ozziddi For Sale",
-        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 684933,
-      "name": "Festival Of The Hunters",
-      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire In Soweto",
         "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 479120,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ozziddi For Sale",
+        "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 684933,
+      "name": "Festival Of The Hunters",
+      "url": "https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v"
     },
     {
       "added_at": null,

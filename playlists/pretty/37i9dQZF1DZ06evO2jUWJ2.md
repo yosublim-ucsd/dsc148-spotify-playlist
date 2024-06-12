@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 ### [This Is Elevation Worship](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
 
-> This is Elevation Worship\. The essential tracks, all in one playlist.
+> This Is Elevation Worship\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,613 likes - 51 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,686 likes - 51 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 40 | [Used To This \(feat\. Naomi Raine & Brandon Lake\)](https://open.spotify.com/track/1d7RCdfczxJNVSgXL4Gkil) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 7:37 |
 | 41 | [La Bendición \(The Blessing\)](https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Tumbas A Jardines](https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf) | 6:59 |
 | 42 | [Won't Stop Now](https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:04 |
-| 43 | [Overcome](https://open.spotify.com/track/1f5KIqQTDinSwnqQHsaNmn) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:00 |
+| 43 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 |
 | 44 | [Names \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 7:00 |
-| 45 | [Forever YHWH \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:19 |
-| 46 | [Available \(Live\)](https://open.spotify.com/track/6TbG237Ir0ublbxXq2T3Yp) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 9:41 |
-| 47 | [There Is a Cloud](https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 5:47 |
+| 45 | [Overcome](https://open.spotify.com/track/1f5KIqQTDinSwnqQHsaNmn) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:00 |
+| 46 | [Forever YHWH \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:19 |
+| 47 | [Available \(Live\)](https://open.spotify.com/track/6TbG237Ir0ublbxXq2T3Yp) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 9:41 |
 | 48 | [Tumbas A Jardines \(feat\. Elevation Worship\)](https://open.spotify.com/track/0RHSDsa4EkiNBC0UJtGn7l) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Mil Generaciones](https://open.spotify.com/album/7He2T1RondwBwTaEofMIsA) | 4:54 |
-| 49 | [The One You Love](https://open.spotify.com/track/7ssoLXeu8jLn1hLbPgG3TK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 7:57 |
-| 50 | [Gone](https://open.spotify.com/track/2A0GDEZCIvKq38kj2SgENg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 4:10 |
-| 51 | [Encuéntrame Otra Vez \(Here Again\)](https://open.spotify.com/track/7dimXs7O4MhSYcLhb0Xfkd) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:49 |
+| 49 | [There Is a Cloud](https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 5:47 |
+| 50 | [The One You Love](https://open.spotify.com/track/7ssoLXeu8jLn1hLbPgG3TK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 7:57 |
+| 51 | [Gone](https://open.spotify.com/track/2A0GDEZCIvKq38kj2SgENg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [At Midnight \- EP](https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu) | 4:10 |
 
-Snapshot ID: `ZmTwgAAAAADbdKWQTiVaBAj6Ub2IqwrK`
+Snapshot ID: `ZmZCAAAAAACE417AC0JixgNsFuuZPJok`

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 657961,
+  "num_followers": 658046,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACPEb+xDcC+Cs2VN0nyLJuW",
+  "snapshot_id": "ZmZCAAAAAAB2yD8prZn1viy3BGMpUuTw",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,30 @@
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
       "added_at": null,
@@ -915,22 +939,6 @@
       "duration_ms": 308880,
       "name": "Drowned World / Substitute for Love",
       "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Life",
-        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL"
     }
   ],
   "unique_name": "This Is Madonna",

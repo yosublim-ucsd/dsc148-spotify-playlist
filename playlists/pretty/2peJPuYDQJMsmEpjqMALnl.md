@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 320,156 likes - 110 songs - 7 hr 40 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 320,165 likes - 110 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Our Lips Are Sealed](https://open.spotify.com/track/78wTOLl1ANJtgOkOoNNZ06) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Return To The Valley Of The Go\-Go's](https://open.spotify.com/album/2Fz3LCOdrEUXSYMKaQ5C2f) | 2:45 |
-| 2 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
-| 3 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
+| 1 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 |
+| 2 | [Our Lips Are Sealed](https://open.spotify.com/track/78wTOLl1ANJtgOkOoNNZ06) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Return To The Valley Of The Go\-Go's](https://open.spotify.com/album/2Fz3LCOdrEUXSYMKaQ5C2f) | 2:45 |
+| 3 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 4 | [Luka](https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 3:51 |
 | 5 | [The Look Of Love, Pt.1](https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby) | [ABC](https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh) | [The Lexicon Of Love](https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66) | 3:29 |
 | 6 | [If You Leave \- From "Pretty In Pink"](https://open.spotify.com/track/05oFyvdztPdpwSwpoclD4c) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [If You Leave](https://open.spotify.com/album/3FSWIgpM4r649Pgr6KoMNf) | 4:28 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 109 | [Sofa \#2 \- Live](https://open.spotify.com/track/5T2alV23Cti08eTqK5Y42Q) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [You Can't Do That On Stage Anymore, Vol\. 1 \(Live\)](https://open.spotify.com/album/2Ekqr3FJo41daBiMY3VkaS) | 3:02 |
 | 110 | [DV2 \(Kool Thing\) \- 8 Track Demo](https://open.spotify.com/track/0YqVGMsrMYDnXxqCLKP2z3) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo \(Deluxe Edition\)](https://open.spotify.com/album/1Qsx0sOd9rcIeTuI1j419U) | 4:17 |
 
-Snapshot ID: `AAAEJqbbJIectXxM+L3yyHve6mKfDqdM`
+Snapshot ID: `AAAEK+HJmSZDU8wCV7cYEC6fARDctELy`

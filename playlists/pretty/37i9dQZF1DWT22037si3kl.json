@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Vulgo FK, Oruam, Tz da Coronel",
-  "num_followers": 137951,
+  "num_followers": 137970,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "DIAS ANTES DO CAOS",
+        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "TAMBOR",
+      "url": "https://open.spotify.com/track/6lUV4vN68pfhLI4k0NSBYP"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 157868,
       "name": "Casa Bomba",
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "DIAS ANTES DO CAOS",
-        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "TAMBOR",
-      "url": "https://open.spotify.com/track/6lUV4vN68pfhLI4k0NSBYP"
     },
     {
       "added_at": "2024-06-07 03:01:00",

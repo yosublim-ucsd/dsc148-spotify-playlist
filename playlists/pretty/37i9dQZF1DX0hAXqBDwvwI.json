@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 604860,
+  "num_followers": 605182,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u30a2\u30ab\u30b7\u30a2",
-        "url": "https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 262106,
-      "name": "\u30a2\u30ab\u30b7\u30a2",
-      "url": "https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "\u5149\u306e\u4e2d\u3078",
         "url": "https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 258265,
       "name": "\u5149\u306e\u4e2d\u3078",
       "url": "https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u30a2\u30ab\u30b7\u30a2",
+        "url": "https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 262106,
+      "name": "\u30a2\u30ab\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq"
     },
     {
       "added_at": "2024-04-30 15:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-04-30 15:00:00",
       "album": {
-        "name": "\u7d19\u4e00\u91cd",
-        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 249477,
-      "name": "\u7d19\u4e00\u91cd",
-      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
-    },
-    {
-      "added_at": "2024-04-30 15:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4c1Fq2QlSHxUxKlNrmtpjO"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 173626,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3yBeQAxk5Jb6bzvUpqu5qX"
+    },
+    {
+      "added_at": "2024-04-30 15:00:00",
+      "album": {
+        "name": "\u7d19\u4e00\u91cd",
+        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 249477,
+      "name": "\u7d19\u4e00\u91cd",
+      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
     }
   ],
   "unique_name": "Anime On Replay",

@@ -1,6 +1,6 @@
 {
   "description": "Nuevos temas de g\u00e9neros tropicales. Foto: NATTI NATASHA",
-  "num_followers": 63528,
+  "num_followers": 63537,
   "original_name": "Novedades Tropicales",
   "owner": {
     "name": "Spotify",
@@ -436,12 +436,12 @@
       },
       "artists": [
         {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        },
-        {
           "name": "Cumbia Machine",
           "url": "https://open.spotify.com/artist/3nMgAD8mwuLXwtSNUzw8qc"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
       "duration_ms": 233042,

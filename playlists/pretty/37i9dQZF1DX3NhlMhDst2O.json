@@ -1,6 +1,6 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 83985,
+  "num_followers": 84146,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "El Quinto Trago",
         "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 258733,
       "name": "La \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
         "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 151133,
       "name": "Tu Cabeza en Mi Hombro",
       "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
-      },
-      "artists": [
-        {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 165493,
       "name": "Cuando Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
+        "name": "La Rondalla Etc.",
+        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
       },
       "artists": [
         {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
+      "duration_ms": 146800,
+      "name": "Wendolyne",
+      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "La Rondalla Etc.",
-        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
+        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
       },
       "artists": [
         {
-          "name": "La Rondalla De Saltillo",
-          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
         }
       ],
-      "duration_ms": 146800,
-      "name": "Wendolyne",
-      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
+      "duration_ms": 234493,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
+        "name": "Serie Sensacional Regional Mexican Yndio",
+        "url": "https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "Serie Sensacional Regional Mexican Yndio",
-        "url": "https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6nAkDgnYiBWK7cwGXdAMZ4"
     },
     {
       "added_at": "2023-11-06 20:37:56",

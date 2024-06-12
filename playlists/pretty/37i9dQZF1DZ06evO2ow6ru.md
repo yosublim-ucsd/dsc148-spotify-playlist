@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,813 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,807 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Oh, Calamity!](https://open.spotify.com/track/02Yrhsjo8H8UkjOm0kr7ca) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic: It's Longer Now!](https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d) | 3:46 |
 | 50 | [Runaways](https://open.spotify.com/track/60d8m5JYa6vHGg8hPFBZwQ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:34 |
 
-Snapshot ID: `ZmTwgAAAAADeA63MTpll47NwsQEOuUJx`
+Snapshot ID: `ZmZCAAAAAAA168TPLll66GzTkO1XfMhF`

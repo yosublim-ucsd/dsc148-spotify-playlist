@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,615 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,630 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 14 | [When You Say My Name](https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [When You Say My Name](https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5) | 2:28 |
 | 15 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 |
 | 16 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
-| 17 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 |
-| 18 | [Little Girl Gone](https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP) | 3:08 |
+| 17 | [Little Girl Gone](https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP) | 3:08 |
+| 18 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 |
 | 19 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 20 | [EVIL](https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 4:06 |
 | 21 | [Better People To Leave On Read](https://open.spotify.com/track/7szJfhzlrGh2hkNwEPDWpn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People To Leave On Read](https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A) | 2:11 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 27 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
 | 28 | [Kiss With A Fist](https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:03 |
 | 29 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 |
-| 30 | [Something To Hide](https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 1:59 |
-| 31 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
+| 30 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
+| 31 | [Something To Hide](https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 1:59 |
 | 32 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 33 | [faceplant](https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [faceplant](https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup) | 2:41 |
 | 34 | [GOOD ENEMY](https://open.spotify.com/track/6dZs7mu5SC42LofoapXg8S) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 45 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 |
 | 46 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
 | 47 | [Dead To Me](https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Dead To Me](https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO) | 2:32 |
-| 48 | [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 |
-| 49 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 |
+| 48 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 |
+| 49 | [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 |
 | 50 | [EVIL](https://open.spotify.com/track/6TP4g6horaauqlRG7uhCz5) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 4:06 |
 
 Snapshot ID: `ZWdsSQAAAACSfhVDg53hbJVLeR9VK8nz`

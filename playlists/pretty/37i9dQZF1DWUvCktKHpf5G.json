@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 227045,
+  "num_followers": 227059,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "PUEBLO DE MEDALLO",
-        "url": "https://open.spotify.com/album/3kXdGpyHMbzuwgkYCN7liX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "PUEBLO DE MEDALLO",
-      "url": "https://open.spotify.com/track/1l66Vx6g2i50WdeH6VU658"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "PUEBLO DE MEDALLO",
+        "url": "https://open.spotify.com/album/3kXdGpyHMbzuwgkYCN7liX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "PUEBLO DE MEDALLO",
+      "url": "https://open.spotify.com/track/1l66Vx6g2i50WdeH6VU658"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Un Bezito",
+        "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Un Bezito",
+      "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 190160,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Un Bezito",
-        "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Un Bezito",
-      "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Luces Tenues",
-        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 190967,
-      "name": "Luces Tenues",
-      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Luces Tenues",
+        "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 190967,
+      "name": "Luces Tenues",
+      "url": "https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -1103,6 +1103,26 @@
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1123,30 +1143,6 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "J. Rey Soul",
-          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
-        }
-      ],
-      "duration_ms": 249142,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1175,22 +1171,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY"
+      "duration_ms": 249142,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Mr. W",
-        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "Perreo 101",
-      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Tak Tiki Tak",
         "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "DUBAI",
+        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "DUBAI",
-        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
+        "name": "Mr. W",
+        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 146000,
-      "name": "DUBAI",
-      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
+      "duration_ms": 204633,
+      "name": "Perreo 101",
+      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 191588,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Pol\u00e9mica",
-        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 151718,
-      "name": "Pol\u00e9mica",
-      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1687,26 +1687,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "LATIGAZO",
-        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
+        "name": "Mayor Que Usted",
+        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 175200,
-      "name": "LATIGAZO",
-      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
+      "duration_ms": 233519,
+      "name": "Mayor Que Usted",
+      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1731,26 +1731,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Mayor Que Usted",
-        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
+        "name": "LATIGAZO",
+        "url": "https://open.spotify.com/album/6oBH3yGHL8n3ntl1ft5szg"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         },
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         }
       ],
-      "duration_ms": 233519,
-      "name": "Mayor Que Usted",
-      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+      "duration_ms": 175200,
+      "name": "LATIGAZO",
+      "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1855,22 +1855,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "1000CANCIONES",
-        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 246600,
-      "name": "1000CANCIONES",
-      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
+      "duration_ms": 200494,
+      "name": "Fabuloso",
+      "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1895,22 +1895,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+        "name": "1000CANCIONES",
+        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
         }
       ],
-      "duration_ms": 200494,
-      "name": "Fabuloso",
-      "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
+      "duration_ms": 246600,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
     },
     {
       "added_at": "2024-06-07 06:00:00",

@@ -4,7 +4,7 @@
 
 > ¡Al cien para un buen ejercicio!
 
-569 songs - 1 day 4 hr 59 min
+570 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 | 2024-05-01 |  |
 | [Crónicas de la Batalla](https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Crónicas de la Batalla](https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC) | 3:29 | 2022-02-14 | 2022-07-27 |
 | [Crónicas de un Gallo](https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 | 2022-05-27 | 2022-05-30 |
+| [Cuando Andaba Recio \(El Cholo\)](https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:19 | 2024-05-01 |  |
 | [Cuando los Necesité \- Banda](https://open.spotify.com/track/6Qx0b9ArGdO5LCnG9UBdkO) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 3:02 | 2022-02-14 | 2023-11-12 |
 | [Cuernito Armani](https://open.spotify.com/track/0l0DpvZQgeOfBcwRno8qBI) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/1K64Sg4DrrqmEQhc46N063) | 3:03 | 2022-02-14 | 2022-07-28 |
 | [Cuernito Armani](https://open.spotify.com/track/2oAlRe4XfVRm3LOOHiErdD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:03 | 2022-06-10 | 2022-12-08 |
@@ -566,7 +567,7 @@
 | [Vueltas](https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Vueltas](https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34) | 2:39 | 2024-05-01 |  |
 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2023-09-29 | 2024-05-02 |
 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 | 2022-12-08 | 2023-01-10 |
-| [Y Te Vas \(En Vivo\)](https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Y Te Vas \(En Vivo\)](https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x) | 3:55 | 2024-05-01 |  |
+| [Y Te Vas \(En Vivo\)](https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Y Te Vas \(En Vivo\)](https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x) | 3:55 | 2024-05-01 | 2024-06-12 |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2024-05-01 |  |
 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 | 2024-05-01 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2024-05-01 |  |

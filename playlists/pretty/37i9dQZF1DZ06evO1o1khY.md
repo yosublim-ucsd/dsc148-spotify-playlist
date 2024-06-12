@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,807 likes - 39 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,841 likes - 39 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 38 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 | 39 | [Can’t Get ‘Em](https://open.spotify.com/track/6DXOKzHb12X2Cg6xN8M2Z9) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [FCK GIRL SZN](https://open.spotify.com/album/190BmxsocJbQBw3yNdluVN) | 2:15 |
 
-Snapshot ID: `ZmTwgAAAAAB0KvW40qAkDDLe40uYmwKA`
+Snapshot ID: `ZmZCAAAAAAC9dE6HpFF4oSp5WrGvGI+U`

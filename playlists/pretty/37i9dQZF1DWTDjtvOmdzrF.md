@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,888 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,913 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 56 | [Kusut](https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:20 |
 | 57 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 |
 | 58 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 |
-| 59 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
-| 60 | [Apa Mungkin \- Demo Version](https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin \(Demo Version\)](https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf) | 2:11 |
-| 61 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 |
+| 59 | [Apa Mungkin \- Demo Version](https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin \(Demo Version\)](https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf) | 2:11 |
+| 60 | [Jikalau](https://open.spotify.com/track/4fBFN8NLLIbvw6JzaiD2hp) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:06 |
+| 61 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 |
 | 62 | [Menuju Senja](https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:06 |
-| 63 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 |
+| 63 | [Menghapus Jejakmu](https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Rejoz The GROOVE](https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv), [Rejoz](https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9) | [Menghapus Jejakmu](https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq) | 3:02 |
 | 64 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 |
 | 65 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
 | 66 | [cigarettes of ours](https://open.spotify.com/track/77SiKnkNEnRw0uoPE4wuEp) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [a letter to my 17 year old](https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h) | 3:42 |
 | 67 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 |
 | 68 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
-| 69 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 |
-| 70 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 |
+| 69 | [Tanpa Pamrih](https://open.spotify.com/track/2WKS8Tk8OwHnAY847eq1Xr) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tanpa Pamrih](https://open.spotify.com/album/73wlf7LjR5ytZvdINDIowe) | 3:32 |
+| 70 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 |
 | 71 | [Pupus](https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Cerita Hanin Dhiya](https://open.spotify.com/album/1MFgXbGxEoiVD1FUeOvlKH) | 3:54 |
-| 72 | [Ijinkan Aku Menyayangimu](https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [In Love](https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o) | 4:42 |
-| 73 | [Lagunya Begini, Nadanya Begitu](https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Sekilas Info](https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh) | 5:50 |
+| 72 | [Lagunya Begini, Nadanya Begitu](https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Sekilas Info](https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh) | 5:50 |
+| 73 | [Ijinkan Aku Menyayangimu](https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [In Love](https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o) | 4:42 |
 | 74 | [Tak Ingin Pisah Lagi](https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Tak Ingin Pisah Lagi](https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4) | 4:25 |
-| 75 | [Pegang Tanganku](https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Perspektif Bodoh, Vol\. 2](https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1) | 5:08 |
+| 75 | [Kau Cantik Hari Ini](https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr) | [Lobow](https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib) | [Terus Bersinar](https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG) | 4:44 |
 
 Snapshot ID: `ZmAaYgAAAAB17pMSDYGh1Oh+gH24vYDE`

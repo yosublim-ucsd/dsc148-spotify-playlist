@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 142899,
+  "num_followers": 142911,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-06-06 13:26:13",
       "album": {
+        "name": "Seja Para Mim (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 181129,
+      "name": "Seja Para Mim - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft"
+    },
+    {
+      "added_at": "2024-06-06 13:26:13",
+      "album": {
         "name": "Deixe Me Ir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 213191,
       "name": "Deixe Me Ir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-06-06 13:26:13",
-      "album": {
-        "name": "Seja Para Mim (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 181129,
-      "name": "Seja Para Mim - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft"
     },
     {
       "added_at": "2024-06-06 13:26:13",

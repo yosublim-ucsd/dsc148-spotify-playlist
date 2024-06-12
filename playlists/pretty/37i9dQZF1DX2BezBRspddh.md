@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,156 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,208 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

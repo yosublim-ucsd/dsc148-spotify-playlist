@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,698 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,696 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

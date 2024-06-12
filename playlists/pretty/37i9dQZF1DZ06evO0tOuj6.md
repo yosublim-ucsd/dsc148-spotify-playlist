@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0tOuj6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0tOuj6)
 
-### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
+### [This Is 東京スカパラダイスオーケストラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This Is Tokyo Ska Paradise Orchestra\. Los temas esenciales, todos en una lista.
+> This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,141 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,151 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 15 | [リボン \- feat.桜井和寿\(Mr.Children\)](https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Kazutoshi Sakurai](https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN) | [リボン \[feat.桜井和寿\(Mr.Children\)\]](https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk) | 3:56 |
 | 16 | [Good Morning〜ブルー・デイジー \- feat.aiko](https://open.spotify.com/track/1aDAbunCg2yNlCTG4dZcrS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [TOKYO SKA TREASURES〜ベスト・オブ・東京スカパラダイスオーケストラ〜](https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC) | 4:28 |
 | 17 | [めくれたオレンジ](https://open.spotify.com/track/2UC9VOUmqjHeUd2fnZpxbG) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 5:15 |
-| 18 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 |
-| 19 | [Remember Me \(End Credit Version\) \- Japanese Version](https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk) | [Kavka Shishido](https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Coco \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9) | 2:58 |
+| 18 | [Remember Me \(End Credit Version\) \- Japanese Version](https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk) | [Kavka Shishido](https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Coco \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9) | 2:58 |
+| 19 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 |
 | 20 | [追憶のライラック \- feat.ハナレグミ \[2020 Remaster\]](https://open.spotify.com/track/5alRebdMl0mgrkyu1UlOLo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [TOKYO SKA TREASURES〜ベスト・オブ・東京スカパラダイスオーケストラ〜](https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC) | 5:01 |
 | 21 | [星降る夜に](https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 4:13 |
 | 22 | [めでたしソング feat.ムロツヨシ](https://open.spotify.com/track/61aXifFjpzPth7uaCPUjEx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [めでたしソング feat.ムロツヨシ](https://open.spotify.com/album/4jQPR3IaxMJkH8e8gCwZoH) | 4:42 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 34 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 |
 | 35 | [JUMON \- feat.アイナ・ジ・エンド](https://open.spotify.com/track/1L2graoM4Kycxf3qLRmMJA) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:24 |
 | 36 | [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 |
-| 37 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 |
-| 38 | [流れゆく世界の中で](https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [SKA ME FOREVER](https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P) | 5:13 |
+| 37 | [流れゆく世界の中で](https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [SKA ME FOREVER](https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P) | 5:13 |
+| 38 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 |
 | 39 | [Glorious](https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 2:48 |
 | 40 | [多重露光 \- feat.川上洋平](https://open.spotify.com/track/1S29G9NDzS6CTjPeQpyWCd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:13 |
 | 41 | [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 |
 | 50 | [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 |
 
-Snapshot ID: `ZmTwgAAAAABIFkiOPzy8doMFukGKk+cr`
+Snapshot ID: `ZmZCAAAAAABXrTSW7HJnrYanz6xc15wf`

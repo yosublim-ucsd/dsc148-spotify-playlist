@@ -4,7 +4,7 @@
 
 > Rap per non smettere mai di crederci 🏆 💪🏋️🏃‍♀ Ademola Lookman in cover.
 
-207 songs - 11 hr 28 min
+208 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 | 2023-09-20 |  |
 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-09-28 | 2023-03-12 |
 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-09-08 | 2022-10-26 |
+| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-11 |  |
 | [Barking](https://open.spotify.com/track/7amMgNDcObIDkIXv4xcvc2) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Barking](https://open.spotify.com/album/5ZyO9Yu6zYWcGcU1CwTu0X) | 3:22 | 2022-05-03 | 2022-07-29 |
 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 | 2022-07-04 | 2024-04-19 |
 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 | 2022-07-04 |  |
@@ -168,7 +169,7 @@
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2022-07-04 |  |
 | [Simba](https://open.spotify.com/track/69d3X2Nv5AWHUeTktfOqpV) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68](https://open.spotify.com/album/6GO4KkMREfAw1gMjPdNy9u) | 3:19 | 2022-05-03 | 2022-07-29 |
 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 | 2024-06-04 |  |
-| [Soldi in Nero \- feat\. Sfera Ebbasta](https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Soldi in Nero \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH) | 3:03 | 2022-05-03 |  |
+| [Soldi in Nero \- feat\. Sfera Ebbasta](https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Soldi in Nero \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH) | 3:03 | 2022-05-03 | 2024-06-12 |
 | [Sparami \- feat\. Salmo, Fabri Fibra](https://open.spotify.com/track/2goEcSJEnmaHyKgmBJJzNm) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [17](https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7) | 3:08 | 2022-05-03 | 2022-07-20 |
 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 | 2022-07-04 | 2024-04-19 |
 | [SPLASH \(feat\. Enzo Dong\)](https://open.spotify.com/track/0CjTQ01ADXx3BMO07LxpKx) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [HOURS](https://open.spotify.com/album/6wo9LoC6T6VWdsSR35SXlE) | 2:52 | 2022-05-03 | 2022-07-29 |

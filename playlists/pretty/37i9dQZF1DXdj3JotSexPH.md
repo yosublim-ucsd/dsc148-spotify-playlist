@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,873 likes - 47 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,874 likes - 47 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

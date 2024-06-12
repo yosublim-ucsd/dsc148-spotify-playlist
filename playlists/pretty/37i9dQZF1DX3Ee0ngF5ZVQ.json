@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Kaitlin Butts",
-  "num_followers": 411613,
+  "num_followers": 411598,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Made In Texas",
-        "url": "https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ"
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 144573,
-      "name": "Made In Texas",
-      "url": "https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my"
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -483,22 +487,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
+        "name": "Made In Texas",
+        "url": "https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+      "duration_ms": 144573,
+      "name": "Made In Texas",
+      "url": "https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Honky Tonk Halo",
-        "url": "https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ"
+        "name": "Woman Outta Love",
+        "url": "https://open.spotify.com/album/2KwOQM2jpMnCuO1P0oBIKT"
       },
       "artists": [
         {
-          "name": "Mikayla Lane",
-          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Honky Tonk Halo",
-      "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
+      "duration_ms": 188271,
+      "name": "Woman Outta Love",
+      "url": "https://open.spotify.com/track/3nyPmeaOu3z4nzrBulMe5p"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Woman Outta Love",
-        "url": "https://open.spotify.com/album/2KwOQM2jpMnCuO1P0oBIKT"
+        "name": "Honky Tonk Halo",
+        "url": "https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ"
       },
       "artists": [
         {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Mikayla Lane",
+          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
         }
       ],
-      "duration_ms": 188271,
-      "name": "Woman Outta Love",
-      "url": "https://open.spotify.com/track/3nyPmeaOu3z4nzrBulMe5p"
+      "duration_ms": 237013,
+      "name": "Honky Tonk Halo",
+      "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Desperate Company",
-        "url": "https://open.spotify.com/album/19Bp8pSJzPssr1QqC3dY7G"
+        "name": "Honky Tonk City",
+        "url": "https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR"
       },
       "artists": [
         {
-          "name": "Red Shahan",
-          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 243105,
-      "name": "Desperate Company",
-      "url": "https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z"
+      "duration_ms": 152253,
+      "name": "Honky Tonk City",
+      "url": "https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Honky Tonk City",
-        "url": "https://open.spotify.com/album/6KmJTSwySjjcGGs16wqPIR"
+        "name": "Desperate Company",
+        "url": "https://open.spotify.com/album/19Bp8pSJzPssr1QqC3dY7G"
       },
       "artists": [
         {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Red Shahan",
+          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
         }
       ],
-      "duration_ms": 152253,
-      "name": "Honky Tonk City",
-      "url": "https://open.spotify.com/track/4sdtcGaySrotXJHPBsF3id"
+      "duration_ms": 243105,
+      "name": "Desperate Company",
+      "url": "https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z"
     },
     {
       "added_at": "2024-05-31 04:00:00",

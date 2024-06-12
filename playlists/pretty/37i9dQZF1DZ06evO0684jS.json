@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 852300,
+  "num_followers": 852421,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAACM1+tzie3mSnzOgCwBJn6W",
+  "snapshot_id": "ZmZCAAAAAAC9UJb71kr5wJSK4joqsCNV",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,26 @@
       "duration_ms": 172137,
       "name": "FTCU",
       "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": null,
@@ -319,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 216408,
-      "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion, Pain & Pleasure (Deluxe Version)",
         "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
       },
@@ -383,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreams Worth More Than Money",
         "url": "https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo"
       },
@@ -423,6 +399,26 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
       "added_at": null,

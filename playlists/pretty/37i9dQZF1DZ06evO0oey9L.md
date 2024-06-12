@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,035 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,048 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 50 | [El Mismo Morro](https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Clave 210](https://open.spotify.com/artist/3WJpNFakTQrmngFia1tX7Y) | [El Mismo Morro](https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI) | 2:20 |
 | 51 | [El Mejor Del Montón](https://open.spotify.com/track/0I18wPVPkFSPvJKSBoc5EA) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 2:27 |
 
-Snapshot ID: `ZmTwgAAAAABpLGBRQFIuXPGkCscMUr4e`
+Snapshot ID: `ZmZCAAAAAAC7XHZreGZbPmSo1bProOvB`

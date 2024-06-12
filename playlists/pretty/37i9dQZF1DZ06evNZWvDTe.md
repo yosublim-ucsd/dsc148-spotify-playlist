@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,669 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,672 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 31 | [Vawulence \(Remix\)](https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Vawulence \(Remix\)](https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri) | 2:54 |
 | 32 | [Mewu \(feat\. Akwaboah\)](https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 3:25 |
 | 33 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 |
-| 34 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 |
-| 35 | [Grind Day \(Remix\) \[feat\. Sarkodie & Medikal\]](https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Grind Day \(Remix\) \[feat\. Sarkodie & Medikal\]](https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez) | 4:02 |
+| 34 | [Grind Day \(Remix\) \[feat\. Sarkodie & Medikal\]](https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Grind Day \(Remix\) \[feat\. Sarkodie & Medikal\]](https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez) | 4:02 |
+| 35 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 |
 | 36 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 |
 | 37 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 |
 | 38 | [Happy Day](https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Happy Day](https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk) | 3:32 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 50 | [Ajeei \(feat\. Nana Boroo & Sarkodie\)](https://open.spotify.com/track/3dx6COHzPCAB1JFFMj58gW) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 3:40 |
 | 51 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 |
 
-Snapshot ID: `ZmTwgAAAAAA/WixgHRLqF60e9NEZNbxn`
+Snapshot ID: `ZmZCAAAAAAAerO52mhEuQXDX2w9GMFJ8`

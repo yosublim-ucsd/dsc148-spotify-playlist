@@ -1,12 +1,12 @@
 {
-  "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 2823,
+  "description": "This Is Lakeyah. Los temas esenciales, todos en una lista.",
+  "num_followers": 2826,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADRWtIm21Msp79a5LmWMu5+",
+  "snapshot_id": "ZmZCAAAAAADOdk5d/0JRWDEuY6pkxIvv",
   "tracks": [
     {
       "added_at": null,
@@ -40,13 +40,13 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         },
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 173752,
-      "name": "Female Goat",
-      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+      "duration_ms": 147859,
+      "name": "Worst Thing",
+      "url": "https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV"
     },
     {
       "added_at": null,
@@ -95,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hear My Cry",
         "url": "https://open.spotify.com/album/0JMoNRUAl0DJe7PP2d2eRz"
       },
@@ -118,15 +138,11 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 147859,
-      "name": "Worst Thing",
-      "url": "https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV"
+      "duration_ms": 199395,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD"
     },
     {
       "added_at": null,
@@ -199,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure (Pt. 2)",
         "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
       },
@@ -242,31 +242,11 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 141512,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 178857,
-      "name": "Don\u2019t Go",
-      "url": "https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw"
+      "duration_ms": 168997,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
     },
     {
       "added_at": null,
@@ -287,6 +267,26 @@
       "duration_ms": 155933,
       "name": "Big FlexHer",
       "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Tee Half Beast",
+        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "MilTroit (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
     },
     {
       "added_at": null,
@@ -316,29 +316,25 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 168997,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
+      "duration_ms": 152094,
+      "name": "Young and Ratchet",
+      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Half Tee Half Beast",
-        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H"
       },
       "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 144000,
-      "name": "MilTroit (feat. Lakeyah)",
-      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
+      "duration_ms": 178857,
+      "name": "Don\u2019t Go",
+      "url": "https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw"
     },
     {
       "added_at": null,
@@ -371,22 +367,6 @@
       "duration_ms": 165517,
       "name": "WANT EM HOOD",
       "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 152094,
-      "name": "Young and Ratchet",
-      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
     },
     {
       "added_at": null,
@@ -655,6 +635,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 98997,
+      "name": "From the Bottom",
+      "url": "https://open.spotify.com/track/2sjHIIXE36kRK8Mms0LDTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 141289,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/2hOY49Bn0zV1HdZdckeiyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 117235,
+      "name": "Shots Fired",
+      "url": "https://open.spotify.com/track/4dvJ4fo8Su6u3eW9oVekUK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Da Club",
         "url": "https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G"
       },
@@ -691,26 +723,6 @@
       "duration_ms": 197496,
       "name": "Giannis (feat. Icewear Vezzo & Peezy)",
       "url": "https://open.spotify.com/track/4wMsfCTbVOz1UuZTr7Vlcs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 117235,
-      "name": "Shots Fired",
-      "url": "https://open.spotify.com/track/4dvJ4fo8Su6u3eW9oVekUK"
     },
     {
       "added_at": null,

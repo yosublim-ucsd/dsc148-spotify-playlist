@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 50770,
+  "num_followers": 50806,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -439,22 +443,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "It Means Everything",
-        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
-      },
-      "artists": [
-        {
-          "name": "Save Ferris",
-          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "Come on Eileen",
-      "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -467,6 +455,22 @@
       "duration_ms": 205723,
       "name": "She Got Arrested",
       "url": "https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "It Means Everything",
+        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "Come on Eileen",
+      "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -527,22 +531,18 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
         }
       ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Fantasma de la Rana",
-      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Fabulosos Exitos",
         "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Fantasma de la Rana",
+      "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Klub Ska",
         "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 206039,
       "name": "S\u00f3lo Vivir",
       "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -871,8 +871,8 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Devuelve El Tiempo?",
-        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
       "artists": [
         {
@@ -880,13 +880,13 @@
           "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         },
         {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 210164,
-      "name": "Qui\u00e9n devuelve el tiempo?",
-      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -975,8 +975,8 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+        "name": "Qui\u00e9n Devuelve El Tiempo?",
+        "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
       "artists": [
         {
@@ -984,13 +984,13 @@
           "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
         },
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+      "duration_ms": 210164,
+      "name": "Qui\u00e9n devuelve el tiempo?",
+      "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "Tania",
         "url": "https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 261321,
       "name": "Tania",
       "url": "https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Que te vaya bien.",
-        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
-      },
-      "artists": [
-        {
-          "name": "Las Mambas Mx",
-          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Que te vaya bien.",
-      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
-    },
-    {
-      "added_at": "2024-05-31 06:00:00",
-      "album": {
         "name": "The Sound Of Revolution",
         "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 205527,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+    },
+    {
+      "added_at": "2024-05-31 06:00:00",
+      "album": {
+        "name": "Ruder Than Rude",
+        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
+      },
+      "artists": [
+        {
+          "name": "The Busters",
+          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Don't Worry, Be Happy",
+      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
     },
     {
       "added_at": "2024-05-31 06:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-05-31 06:00:00",
       "album": {
-        "name": "Ruder Than Rude",
-        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
+        "name": "Que te vaya bien.",
+        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
       },
       "artists": [
         {
-          "name": "The Busters",
-          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
+          "name": "Las Mambas Mx",
+          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
         }
       ],
-      "duration_ms": 177800,
-      "name": "Don't Worry, Be Happy",
-      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+      "duration_ms": 279213,
+      "name": "Que te vaya bien.",
+      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
     },
     {
       "added_at": "2024-05-31 06:00:00",

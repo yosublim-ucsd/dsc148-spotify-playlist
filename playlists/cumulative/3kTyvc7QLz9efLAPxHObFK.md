@@ -4,7 +4,7 @@
 
 > 
 
-1,445 songs - 3 day 6 hr 58 min
+1,446 songs - 3 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Big Bang](https://open.spotify.com/track/1tBDAobL98qy58PcxJ318W) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Big Bang](https://open.spotify.com/album/2OHhxQzUJaozPw01HAbkbd) | 3:35 | 2023-09-06 |  |
 | [BIG HEAD BANGING \(Uncut Edition\)](https://open.spotify.com/track/6KZtHyBFIJzwGJFBi60gLl) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [ハートエイク・デバッグ \-Heartache Debug\-](https://open.spotify.com/album/10AFyHPkg2yHQtXdHxi3xO) | 4:08 | 2022-08-11 |  |
 | [Big Ol' Whip](https://open.spotify.com/track/6wYnfNBHGNi67vW0wYcl8X) | [FrenchFaces](https://open.spotify.com/artist/5I6ibYN9zhp6iqtJGuHjMt), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Unmasked](https://open.spotify.com/album/6IbpUrVZNoAyHqkT0bPz4U) | 2:13 | 2023-03-08 |  |
+| [BIG STAINS](https://open.spotify.com/track/2mKU0XmEUBSC6z7FqIG8Wp) | [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [BIG STAINS](https://open.spotify.com/album/14igV0MT8jX91uy6Jr8NOz) | 2:20 | 2024-06-11 |  |
 | [Birds Of Prey](https://open.spotify.com/track/7hRfEhxrcO80pJUmrT59kr) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Maintain](https://open.spotify.com/artist/2dXEbXQ9fhc8cI9Vla7fR0) | [Birds Of Prey](https://open.spotify.com/album/47W7mse88m5QeXraSc28Ga) | 3:05 | 2023-08-26 |  |
 | [Bitch I Can \- Dominator Edit](https://open.spotify.com/track/6w4k0Gk5tG2wXdPNgkRI60) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE) | [Dominator \- Maze Of Martyr](https://open.spotify.com/album/3jfhhU4NjCEcUBXHKmSkNo) | 1:33 | 2022-11-21 |  |
 | [Bitch I Can \- Yoshiko & Doris Remix](https://open.spotify.com/track/3CHXflxrQwNXxTe1A2XyP7) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Doris](https://open.spotify.com/artist/6GMuNB7yEleCIuMyk0qskf) | [Bitch I Can \(Yoshiko & Doris Remix\)](https://open.spotify.com/album/67yDkmMGeLFDqrVOsk3P5W) | 3:03 | 2023-09-28 |  |
@@ -1016,7 +1017,7 @@
 | [Rainbow Dream \- EXTENDED MIX](https://open.spotify.com/track/7fZABx3x5cbfshRJhvgXRb) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB), [Yukacco](https://open.spotify.com/artist/4zu3DQyVnu3BnzErDmPULM) | [ULTIMATE HAPPY CARNIVAL](https://open.spotify.com/album/1K5SbC5wm0foPdbjbKUnOn) | 3:59 | 2022-08-10 |  |
 | [Raise the Weapon](https://open.spotify.com/track/1mQj2BBE4y2sudqnbXOxWp) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Raise the Weapon](https://open.spotify.com/album/44mdm2yl9RaKKGlBCVzBV5) | 3:09 | 2023-07-21 |  |
 | [Raise Your Weapon](https://open.spotify.com/track/4CRkKX6sB9h34k5w7cbO0C) | [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Raise Your Weapon](https://open.spotify.com/album/3fr9OieHxzIB8F2TXQLryy) | 2:45 | 2024-05-17 |  |
-| [Raised By The Street](https://open.spotify.com/track/6MaUCMktSXG8JEmCGVb9Tw) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Raised By The Streets](https://open.spotify.com/album/2IKB3euYazpgRDDyqZu2zM) | 2:50 | 2024-06-08 |  |
+| [Raised By The Streets](https://open.spotify.com/track/6MaUCMktSXG8JEmCGVb9Tw) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d), [Madsin](https://open.spotify.com/artist/32PugX56xGoO6rUWgvzNSz) | [Raised By The Streets](https://open.spotify.com/album/2IKB3euYazpgRDDyqZu2zM) | 2:50 | 2024-06-08 |  |
 | [Rapid Fire](https://open.spotify.com/track/5c7hDErpdoe8O0SCR4DzvQ) | [Astro Blast](https://open.spotify.com/artist/1FyI6MTG6K4XJB7efaCoK4) | [Rapid Fire](https://open.spotify.com/album/2GKdTIMYEawezCoZK7OoS8) | 3:05 | 2024-01-08 |  |
 | [Rave All Night](https://open.spotify.com/track/5DRdNoPSdWzeRsjzE79iyL) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Tamika](https://open.spotify.com/artist/6lLNAKhNy2T0B2TcVI3VVR) | [Rave All Night](https://open.spotify.com/album/7xFQUKfhmboxFwLbKUo08M) | 3:00 | 2023-12-08 |  |
 | [Rave Attack](https://open.spotify.com/track/15NUL9MpKieMkFulxmBvnc) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [Rave Attack](https://open.spotify.com/album/5i0kSgrcTEThujlgwHEDyZ) | 3:00 | 2024-03-29 |  |

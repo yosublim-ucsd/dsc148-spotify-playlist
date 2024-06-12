@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-238 songs - 14 hr 7 min
+239 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Happy](https://open.spotify.com/track/08ihn3Nhji9aa5v4F98ZRf) | [Alana Marie](https://open.spotify.com/artist/0TJqjUyiiT1yckuKKASNMa), [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [Naked Bossa](https://open.spotify.com/album/6G8mBCMLC17Id0xLSNYWcP) | 3:42 | 2021-12-09 | 2022-01-13 |
 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2021-12-09 |  |
 | [Hard Woman](https://open.spotify.com/track/5CnJxBqumusw9dIbCqZ28B) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [A New Beginning](https://open.spotify.com/album/6z4Kn9cZZW3gqu8DKorKcT) | 3:54 | 2021-12-09 |  |
-| [Hazard](https://open.spotify.com/track/0h62LobkzlOtaLekngojE9) | [Calore Amore](https://open.spotify.com/artist/404FUFalLSmGrSm81VXc6W) | [Hazard](https://open.spotify.com/album/0bFwIcFExIJ1JEMcMDA0wD) | 4:36 | 2021-12-09 |  |
+| [Hazard](https://open.spotify.com/track/0h62LobkzlOtaLekngojE9) | [Calore Amore](https://open.spotify.com/artist/404FUFalLSmGrSm81VXc6W) | [Hazard](https://open.spotify.com/album/0bFwIcFExIJ1JEMcMDA0wD) | 4:36 | 2021-12-09 | 2024-06-12 |
 | [Here Comes the Sun](https://open.spotify.com/track/4lGneSloc1ac2MjEx7nBgt) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Here Comes the Sun](https://open.spotify.com/album/3oXDBWtwUbumiEvre3Oq2O) | 3:27 | 2022-10-13 | 2023-01-20 |
 | [Here Comes the Sun](https://open.spotify.com/track/7J29m3Vq5L3JuwGp8KjFMj) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 2:32 | 2021-12-09 | 2023-05-13 |
 | [Here With Me](https://open.spotify.com/track/79zZq9vB2Ih6E1aHupvMD8) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Mia Rainn](https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP) | [Here With Me](https://open.spotify.com/album/42k2R4x3MRWiN9n8PNVe49) | 2:39 | 2023-06-01 |  |
@@ -103,6 +103,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/5QTX7rX1uq11ic4R40tlsW) | [Maria Augusta](https://open.spotify.com/artist/5nfHJzpqgnoQKC4tlczmDN) | [Cool Covers in Bossa Nova: Taste of Saudade](https://open.spotify.com/album/1iK2rhkqrsZzrvu3EOhkeG) | 3:24 | 2021-12-09 | 2022-05-05 |
 | [I Cannot Believe It's True](https://open.spotify.com/track/7odoFGdUnYxXhcQSO2dLaN) | [Banda Do Sul](https://open.spotify.com/artist/1HfyFtXcke6aZDFJlQA2p6), [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [I Cannot Believe It's True](https://open.spotify.com/album/6Jvh0eEYUMd50V3uI79Oe3) | 3:31 | 2021-12-09 | 2023-05-13 |
 | [I Gotta Feeling](https://open.spotify.com/track/1yuwQM4hjfcpa45pkFzdDY) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [I Gotta Feeling](https://open.spotify.com/album/4uNbYNWDqQqL8IEn23QkNn) | 3:51 | 2021-12-09 |  |
+| [I Just Can't Get You Out of My Head](https://open.spotify.com/track/5MStYWjvHYF86IjyZl6G0L) | [Vira Novo](https://open.spotify.com/artist/7uZaYU5nFEvLJ0IyTFCyhM) | [I Just Can't Get You Out of My Head](https://open.spotify.com/album/3uWGPJmTmFksZnRTXFOJDz) | 3:50 | 2024-06-11 |  |
 | [I Just Can't Stop Loving](https://open.spotify.com/track/5fNnGGaAQeaZghPOlCzRSQ) | [Brazil XXI](https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR), [Deise Costa](https://open.spotify.com/artist/5CjitNvv0s1DcoYMKBzqOQ) | [I Just Can't Stop Loving You](https://open.spotify.com/album/71z9O74KepJ8GRWc24F47F) | 3:48 | 2021-12-09 | 2023-05-13 |
 | [I Say a Little Prayer](https://open.spotify.com/track/2egCR3hVFAG6emyUkThwnq) | [Trio Musical](https://open.spotify.com/artist/0Nu4JXTv2Rhp7PT6Qt3oUy) | [I Say a Little Prayer](https://open.spotify.com/album/6ehD10Ec33yCIyWcrO5zbg) | 3:44 | 2021-12-09 |  |
 | [I Say a Little Prayer For You](https://open.spotify.com/track/2XJCThaQQPWv9HHY3SCaU5) | [Taryn Szpilman](https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC) | [Cool Covers in Bossa Nova: Taste of Saudade](https://open.spotify.com/album/1iK2rhkqrsZzrvu3EOhkeG) | 3:13 | 2021-12-09 | 2022-05-05 |

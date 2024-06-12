@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90085,
+  "num_followers": 90071,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy"
+      },
+      "artists": [
+        {
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
+        }
+      ],
+      "duration_ms": 138110,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Hoods Hottest",
         "url": "https://open.spotify.com/album/0NQw8iZDOn5TWIR6NUdsgC"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 192000,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/6RmKXyV7UPKye1lMX9memT"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Frozen Gold",
-        "url": "https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy"
-      },
-      "artists": [
-        {
-          "name": "MKAY",
-          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
-        }
-      ],
-      "duration_ms": 138110,
-      "name": "Frozen Gold",
-      "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 153045,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
     },
     {
       "added_at": "2023-08-01 17:14:44",

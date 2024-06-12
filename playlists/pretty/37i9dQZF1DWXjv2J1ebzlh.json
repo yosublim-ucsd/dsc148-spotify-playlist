@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 109896,
+  "num_followers": 109930,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 158376,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
-      },
-      "artists": [
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 158376,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Jorge Ben",
         "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
@@ -683,6 +703,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Pa\u00eds Tropical",
+      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Exporta\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn"
       },
@@ -759,38 +795,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Pa\u00eds Tropical",
-      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
         "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
       },
@@ -803,22 +807,6 @@
       "duration_ms": 219624,
       "name": "Ayonha",
       "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
-      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -839,6 +827,38 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+      "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Angola 72/74",
         "url": "https://open.spotify.com/album/0wKklfUh0GTGAICfuQxpMP"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 300837,
       "name": "Mona Ki Ngi Xica",
       "url": "https://open.spotify.com/track/08fsjbOK2ruSfbBTcmEZHZ"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 192965,
+      "name": "Lotus 72 D",
+      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Melodies",
         "url": "https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 420720,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 192965,
-      "name": "Lotus 72 D",
-      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Ag\u00fazate",
         "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Turn This Mutha Out",
         "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 516586,
       "name": "Could Heaven Ever Be Like This",
       "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Bruca Manigu\u00e1",
-      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Bruca Manigu\u00e1",
+      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Zungguzungguguzungguzeng!",
         "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 388226,
       "name": "Zungguzungguguzungguzeng",
       "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Objectif perfection",
-        "url": "https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4"
-      },
-      "artists": [
-        {
-          "name": "Balla Et Ses Balladins",
-          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Paulette",
-      "url": "https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Objectif perfection",
+        "url": "https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4"
+      },
+      "artists": [
+        {
+          "name": "Balla Et Ses Balladins",
+          "url": "https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Paulette",
+      "url": "https://open.spotify.com/track/70gworYN6uq7jd4qfl3QU7"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1j719jACnXxvk7c0fgrT7a"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Richman",
+          "url": "https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5"
+        },
+        {
+          "name": "The Modern Lovers",
+          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
+        }
+      ],
+      "duration_ms": 158240,
+      "name": "Egyptian Reggae (Live)",
+      "url": "https://open.spotify.com/track/426eL4gFMqgtu3hulUEMFs"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Sings Love",
         "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 140162,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1j719jACnXxvk7c0fgrT7a"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Richman",
-          "url": "https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5"
-        },
-        {
-          "name": "The Modern Lovers",
-          "url": "https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz"
-        }
-      ],
-      "duration_ms": 158240,
-      "name": "Egyptian Reggae (Live)",
-      "url": "https://open.spotify.com/track/426eL4gFMqgtu3hulUEMFs"
     },
     {
       "added_at": "2024-06-04 22:00:00",

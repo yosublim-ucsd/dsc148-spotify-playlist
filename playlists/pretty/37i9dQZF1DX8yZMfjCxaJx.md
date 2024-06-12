@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Los Chavalitos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,024 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,072 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 48 | [Fuga Del Jefe](https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Contrato A La Vida](https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD) | 2:43 |
 | 49 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 50 | [Clave 18](https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Clave 18](https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S) | 3:55 |
-| 51 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 |
-| 52 | [Desde Topo Hasta La Sierra](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 |
+| 51 | [Desde Topo Hasta La Sierra](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 |
+| 52 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 |
 | 53 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 |
 | 54 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
 | 55 | [Los Brothers \(09/19\)](https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers \(09/19\)](https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI) | 3:36 |

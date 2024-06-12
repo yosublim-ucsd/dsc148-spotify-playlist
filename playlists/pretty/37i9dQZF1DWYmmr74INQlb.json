@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: Usher",
-  "num_followers": 4661476,
+  "num_followers": 4661681,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "The Emancipation of Mimi",
@@ -431,18 +415,34 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Rock Wit U (Awww Baby)",
-      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "Rappa Ternt Sanga (Expanded Edition)",
+        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "I'm Sprung",
+      "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
-      "added_at": "2023-09-14 14:32:45",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Rappa Ternt Sanga (Expanded Edition)",
-        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
       },
       "artists": [
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 231040,
-      "name": "I'm Sprung",
-      "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
+      "duration_ms": 209120,
+      "name": "Rock Wit U (Awww Baby)",
+      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Jennifer Hudson",
-        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "My Thoughts",
@@ -1643,6 +1627,22 @@
       "duration_ms": 268515,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Jennifer Hudson",
+        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
     },
     {
       "added_at": "2023-09-14 14:32:45",

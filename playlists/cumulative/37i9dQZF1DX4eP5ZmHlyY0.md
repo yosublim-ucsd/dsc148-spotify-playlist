@@ -2,9 +2,9 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: A.B.C\-Z
+> 日本で活躍するボーイズグループを特集。cover: Travis Japan
 
-243 songs - 14 hr 13 min
+244 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Come Alive](https://open.spotify.com/track/4yl2H7Dh1ppXvZHFVDHkgA) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Come Alive](https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh) | 3:33 | 2023-11-23 | 2024-02-21 |
 | [Counterattack](https://open.spotify.com/track/39Jr3uGUyooQvBEOF1vyo4) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Counterattack](https://open.spotify.com/album/2mPY33iJ5So2RSJnYR9YfG) | 3:19 | 2024-06-04 |  |
 | [Crazy Love](https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [Crazy Love](https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt) | 5:02 | 2023-11-23 | 2024-01-10 |
-| [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 | 2023-11-23 |  |
+| [CRUISIN'](https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'](https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8) | 3:25 | 2023-11-23 | 2024-06-12 |
 | [CyberHelix](https://open.spotify.com/track/5U4nj0Gt9A9dIMyBQPAH6Q) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [CyberHelix](https://open.spotify.com/album/39LkA12lKbHhlNkv87U9u2) | 3:59 | 2024-04-09 | 2024-05-08 |
 | [DARK MATTER](https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [FANTASTIC ROCKET](https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6) | 3:11 | 2023-12-05 | 2024-01-03 |
 | [Darlin’](https://open.spotify.com/track/7BHFfKeKQuY7XfYi2DjO9E) | [DEEP](https://open.spotify.com/artist/3uh7AvkWcUbrc7ZXR0MW4b) | [Darlin’](https://open.spotify.com/album/7s0tExsJ0h3OWFEqfrsZIT) | 3:31 | 2024-01-02 | 2024-01-17 |
@@ -70,11 +70,11 @@
 | [Furete](https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [Furete](https://open.spotify.com/album/3Mgfnr0yrpFMMVAm4mBEIu) | 3:41 | 2024-04-16 | 2024-04-19 |
 | [Gifted\. \- Orchestra ver.](https://open.spotify.com/track/6eVpSSlmikGCpP6gdt0FnH) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Gifted\. \-Orchestra ver.\-](https://open.spotify.com/album/0k3aV68FkJd7YOMlteL4WD) | 3:51 | 2024-03-26 | 2024-05-01 |
 | [Girlfriend](https://open.spotify.com/track/7GfzepybK1its9ZO9H9Bqz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Girlfriend](https://open.spotify.com/album/6wmaWic8SNvOknibUnCN6b) | 3:45 | 2024-05-28 |  |
-| [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 | 2023-11-23 | 2024-06-05 |
+| [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 | 2023-11-23 |  |
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-02 | 2024-03-13 |
 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 | 2024-03-12 |  |
 | [God Mode](https://open.spotify.com/track/02bRlgNPp9ctqByOhAMs9d) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [God Mode](https://open.spotify.com/album/3j6i1vKHTjehKad1kwqdJV) | 3:34 | 2024-01-31 | 2024-02-07 |
-| [Good Luck](https://open.spotify.com/track/0u5f07aW3aQsRK0EdIPEXm) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Good Luck](https://open.spotify.com/album/0mk4PMcHThPUtvUojBbomB) | 3:02 | 2024-04-30 |  |
+| [Good Luck](https://open.spotify.com/track/0u5f07aW3aQsRK0EdIPEXm) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Good Luck](https://open.spotify.com/album/0mk4PMcHThPUtvUojBbomB) | 3:02 | 2024-04-30 | 2024-06-12 |
 | [halfmoon](https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [halfmoon](https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF) | 4:15 | 2024-05-21 |  |
 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 | 2024-02-28 |
 | [Hapidan](https://open.spotify.com/track/76WBsSpMMB0UPnLNkQ3SGc) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Hapidan](https://open.spotify.com/album/2qjrUKfhSIxsvtMxcWoeBm) | 3:08 | 2023-11-24 | 2024-01-10 |
@@ -185,6 +185,7 @@
 | [Sugar Blood Kiss](https://open.spotify.com/track/14vIy9ZQnigIz5bU1k7G59) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Sugar Blood Kiss](https://open.spotify.com/album/1Yom3QQprg3A5Ui2sT6kmB) | 3:32 | 2024-04-23 | 2024-05-15 |
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [surge \(single edit\)](https://open.spotify.com/track/2QmfJsRUsAlcW9wL0MiA6f) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY), [Takumi Kawanishi](https://open.spotify.com/artist/3O8CN28tWSzQszV5K3pi2h) | [surge \(single edit\)](https://open.spotify.com/album/5cHhtcIfWnqNj35VoCWSAw) | 6:37 | 2024-04-30 |  |
+| [Sweetest Tune](https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Sweetest Tune](https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc) | 3:25 | 2024-06-11 |  |
 | [SWITCHing](https://open.spotify.com/track/0t6EeePFHmdIXdS4TBRqyk) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [SWITCHing](https://open.spotify.com/album/6zYRDSWPlRRb1B0FQantp8) | 3:05 | 2023-11-23 | 2024-02-26 |
 | [T.G.I\. Friday Night](https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [T.G.I\. Friday Night](https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT) | 3:35 | 2024-03-19 |  |
 | [TALKIN'](https://open.spotify.com/track/2BZcMGnMHydT4heylUMrrk) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [TALKIN'](https://open.spotify.com/album/6KaE7SAZv0WhVISS6eOaG6) | 3:16 | 2024-02-29 | 2024-04-24 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This Is The Delfonics. Los temas esenciales, todos en una lista.",
+  "description": "This is The Delfonics. The essential tracks, all in one playlist.",
   "name": "This Is The Delfonics",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 124733,
       "name": "Hurt so Bad",
       "url": "https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 190531,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/1AFFq11T6bTm3R8K3bYM4x"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 140866,
       "name": "Let It Be Me - Remastered",
       "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 171426,
       "name": "Looking for a Girl",
       "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 193400,
       "name": "Love You Till I Die",
       "url": "https://open.spotify.com/track/31t93KUPU6GowlVUnT55u2"
@@ -1483,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "Adrian Younge Presents: The Delfonics",
+        "url": "https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168853,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3XZjheXv1mkK700t7AphsZ"
+    },
+    {
+      "album": {
         "name": "Philly Groove Records Presents: This Time",
         "url": "https://open.spotify.com/album/4JiEK0vq0RvCZIYB4PdCMs"
       },
@@ -1614,7 +1636,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 213413,
       "name": "Tell Me This Is a Dream",
       "url": "https://open.spotify.com/track/5iJ3TFsnziFusTvu8hM9pL"
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 198893,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9"
@@ -1770,7 +1792,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 182706,
       "name": "To Be Your One",
       "url": "https://open.spotify.com/track/1q9BIP3IJap9bwjk1h8oj0"
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 182280,
       "name": "Walk Right Up to the Sun",
       "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"

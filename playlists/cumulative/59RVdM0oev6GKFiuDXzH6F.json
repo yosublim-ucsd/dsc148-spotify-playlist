@@ -3001,6 +3001,28 @@
     },
     {
       "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/0CwJK5uOYwpyQyLN4f2jSQ"
+      },
+      "artists": [
+        {
+          "name": "ATTICUS",
+          "url": "https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J"
+        },
+        {
+          "name": "DJ BIG S",
+          "url": "https://open.spotify.com/artist/516QrqBwm3soALhns5ACzA"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175125,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/1bcM9x7FX0aiayjtd1ZNuW"
+    },
+    {
+      "album": {
         "name": "Do My Thing",
         "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
       },
@@ -6375,6 +6397,24 @@
     },
     {
       "album": {
+        "name": "Latenight",
+        "url": "https://open.spotify.com/album/0oOcnd5YlFzP9UVfyVqVDB"
+      },
+      "artists": [
+        {
+          "name": "Lahox",
+          "url": "https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Latenight - Radio Mix",
+      "url": "https://open.spotify.com/track/7byMAHyVjnkDkzsGsp31uE"
+    },
+    {
+      "album": {
         "name": "Left & Right (BYOR Remix)",
         "url": "https://open.spotify.com/album/4hAi4Tlk2KrSplJ37ISIDx"
       },
@@ -7820,6 +7860,24 @@
       "duration_ms": 162253,
       "name": "Mesmerize",
       "url": "https://open.spotify.com/track/02hqI4JJPBb9mLDIwGIDSN"
+    },
+    {
+      "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/3OeHdvzXW7J61LgSFHpo7d"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/5nYWOu3zriPJJvHh9j2hpS"
     },
     {
       "album": {

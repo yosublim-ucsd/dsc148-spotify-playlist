@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Saudi Arabia.",
-  "num_followers": 8497,
+  "num_followers": 8505,
   "original_name": "Top 50 - Saudi Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LfplGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -41,39 +41,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 212241,
-      "name": "Like Crazy",
-      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -89,27 +57,23 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -129,7 +93,27 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -145,39 +129,23 @@
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 166812,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -193,7 +161,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "SLAY!",
         "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
@@ -209,7 +177,23 @@
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -225,23 +209,23 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -265,7 +249,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -285,43 +269,39 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "3D : The Remixes",
-        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
       },
       "artists": [
         {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 343120,
-      "name": "BLUE",
-      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
@@ -341,39 +321,59 @@
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -405,23 +405,23 @@
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "MONTAGEM DIAMANTE ROSA",
         "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
@@ -441,7 +441,23 @@
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -457,7 +473,87 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "Nasrat Al Badr Collection",
+        "url": "https://open.spotify.com/album/7uUcCbO0rCZTiysnpi1gFm"
+      },
+      "artists": [
+        {
+          "name": "Nasrat Al Badr",
+          "url": "https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5"
+        }
+      ],
+      "duration_ms": 290377,
+      "name": "Haram Aliek",
+      "url": "https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "Rdy",
+        "url": "https://open.spotify.com/album/0IoOphEIvuBQxelbffR5Jc"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "duration_ms": 270118,
+      "name": "Rdy",
+      "url": "https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
@@ -477,71 +573,7 @@
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 148082,
-      "name": "FRI(END)S",
-      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
@@ -561,39 +593,39 @@
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "Rdy",
-        "url": "https://open.spotify.com/album/0IoOphEIvuBQxelbffR5Jc"
+        "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
+        "url": "https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P"
       },
       "artists": [
         {
-          "name": "Ayed",
-          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+          "name": "Aws Al Saber",
+          "url": "https://open.spotify.com/artist/5cLIxAVjEMmvPOZviDlhO4"
         }
       ],
-      "duration_ms": 270118,
-      "name": "Rdy",
-      "url": "https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp"
+      "duration_ms": 360055,
+      "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
+      "url": "https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "Nasrat Al Badr Collection",
-        "url": "https://open.spotify.com/album/7uUcCbO0rCZTiysnpi1gFm"
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
       "artists": [
         {
-          "name": "Nasrat Al Badr",
-          "url": "https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 290377,
-      "name": "Haram Aliek",
-      "url": "https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb"
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -617,71 +649,7 @@
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "\u0639\u0627\u0644\u0645 \u0645\u0648\u0627\u0632\u064a",
-        "url": "https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ"
-      },
-      "artists": [
-        {
-          "name": "Abdul Majeed Abdullah",
-          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
-        }
-      ],
-      "duration_ms": 295648,
-      "name": "\u064a\u0627 \u0627\u0628\u0646 \u0627\u0644\u0623\u0648\u0627\u062f\u0645",
-      "url": "https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -697,55 +665,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "Alby Habak",
         "url": "https://open.spotify.com/album/3CKbMHt8RQ1PgGDB6lQnUe"
@@ -761,23 +681,87 @@
       "url": "https://open.spotify.com/track/0KttvAWyAu87kMUmSs7Te7"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
-        "url": "https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P"
+        "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+        "url": "https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI"
       },
       "artists": [
         {
-          "name": "Aws Al Saber",
-          "url": "https://open.spotify.com/artist/5cLIxAVjEMmvPOZviDlhO4"
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
         }
       ],
-      "duration_ms": 360055,
-      "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
-      "url": "https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u"
+      "duration_ms": 210714,
+      "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+      "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "\u0639\u0627\u0644\u0645 \u0645\u0648\u0627\u0632\u064a",
+        "url": "https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "duration_ms": 295648,
+      "name": "\u064a\u0627 \u0627\u0628\u0646 \u0627\u0644\u0623\u0648\u0627\u062f\u0645",
+      "url": "https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
@@ -793,23 +777,7 @@
       "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 333986,
-      "name": "L\u2019AMOUR DE MA VIE",
-      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
-    },
-    {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
@@ -825,40 +793,68 @@
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
       },
       "artists": [
         {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-06-10 09:04:54",
+      "added_at": "2024-06-11 09:29:47",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "name": "21",
+        "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+      "duration_ms": 242973,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 333986,
+      "name": "L\u2019AMOUR DE MA VIE",
+      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
+    },
+    {
+      "added_at": "2024-06-11 09:29:47",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     }
   ],
   "unique_name": "Top 50 - Saudi Arabia",

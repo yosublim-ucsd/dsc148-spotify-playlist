@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,722 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,740 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 16 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 |
 | 17 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 |
 | 18 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
-| 19 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
-| 20 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
+| 19 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
+| 20 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
 | 21 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 |
 | 22 | [CA VA CHANGER](https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [CA VA CHANGER](https://open.spotify.com/album/5SL4UrYn4VkqJT0ca8FmBR) | 3:52 |
 | 23 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 |
 | 24 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 |
 | 25 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 |
-| 26 | [PAGHIIIIIIIIIIZ](https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [PAGHIIIIIIIIIIZ](https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X) | 2:22 |
+| 26 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 |
 | 27 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
-| 28 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 |
-| 29 | [المكتوب](https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [المكتوب](https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d) | 2:56 |
+| 28 | [المكتوب](https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [المكتوب](https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d) | 2:56 |
+| 29 | [PAGHIIIIIIIIIIZ](https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [PAGHIIIIIIIIIIZ](https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X) | 2:22 |
 | 30 | [Tal Abib](https://open.spotify.com/track/2i6giSzSXbv6ByxD1EU2Lg) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [SULTAN](https://open.spotify.com/album/4clzoFbF4ygMmBSP5xKH3M) | 3:15 |
 | 31 | [OMG](https://open.spotify.com/track/1bCiTfGvySuWQiOVwghr5J) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [OMG](https://open.spotify.com/album/5ZkU2Bpyms27ABdDTnVfqR) | 3:39 |
 | 32 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 |

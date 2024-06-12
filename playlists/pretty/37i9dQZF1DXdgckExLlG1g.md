@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,753 likes - 74 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,914 likes - 74 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

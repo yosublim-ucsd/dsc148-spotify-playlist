@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: HOMIES\(호미들\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,732 likes - 105 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,674 likes - 105 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

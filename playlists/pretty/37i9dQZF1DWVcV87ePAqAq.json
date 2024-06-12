@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 365647,
+  "num_followers": 365616,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+        "name": "Man In Finance (G6 Trust Fund)",
+        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
         }
       ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+      "duration_ms": 151405,
+      "name": "Man In Finance (G6 Trust Fund)",
+      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -443,22 +447,18 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Man In Finance (G6 Trust Fund)",
-        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
       },
       "artists": [
         {
-          "name": "Girl On Couch",
-          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         }
       ],
-      "duration_ms": 151405,
-      "name": "Man In Finance (G6 Trust Fund)",
-      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        }
+      ],
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "\u00c4lskade \u00e4ngel",
         "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 160519,
       "name": "SUPA (Studentl\u00e5ten)",
       "url": "https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        }
-      ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Sommarn\u00e4tter",
+        "url": "https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        },
+        {
+          "name": "J.O.X",
+          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+        }
+      ],
+      "duration_ms": 144874,
+      "name": "Sommarn\u00e4tter",
+      "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "STUDENTEN (Hardstyle)",
         "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
       },
@@ -1303,22 +1323,26 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Sommarn\u00e4tter",
-        "url": "https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu"
+        "name": "ALLA F\u00c5R KOMMA",
+        "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
       },
       "artists": [
         {
-          "name": "PERZZONA",
-          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
         },
         {
-          "name": "J.O.X",
-          "url": "https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9"
+          "name": "Akin Jensen",
+          "url": "https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX"
+        },
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
         }
       ],
-      "duration_ms": 144874,
-      "name": "Sommarn\u00e4tter",
-      "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
+      "duration_ms": 144732,
+      "name": "ALLA F\u00c5R KOMMA",
+      "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1343,30 +1367,6 @@
       "duration_ms": 162861,
       "name": "Fest i v\u00e5ra l\u00e4nder",
       "url": "https://open.spotify.com/track/3LIVbFIzbWDgtkLt29Quhx"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "ALLA F\u00c5R KOMMA",
-        "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
-      },
-      "artists": [
-        {
-          "name": "FESTEN",
-          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
-        },
-        {
-          "name": "Akin Jensen",
-          "url": "https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX"
-        },
-        {
-          "name": "BR0D3R",
-          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
-        }
-      ],
-      "duration_ms": 144732,
-      "name": "ALLA F\u00c5R KOMMA",
-      "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
     },
     {
       "added_at": "2024-06-06 22:00:00",

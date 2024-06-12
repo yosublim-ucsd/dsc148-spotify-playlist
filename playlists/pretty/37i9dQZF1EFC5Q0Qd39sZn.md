@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,798 likes - 509 songs - 1 day 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,801 likes - 509 songs - 1 day 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 148 | [Call the Shots \- From the Motion Picture "Miss Bala"](https://open.spotify.com/track/0omgsCxtyJoNhm0e5h9yPv) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Call the Shots \(From the Motion Picture "Miss Bala"\)](https://open.spotify.com/album/4IpwdybMmuiddQze9ul20w) | 3:31 |
 | 149 | [We All Fall Down](https://open.spotify.com/track/6eckoL4HX101w6fFqSSaRM) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 5:14 |
 | 150 | [Somebody's Somebody](https://open.spotify.com/track/7AuYG9icp1t2Q5BRAJ7AiC) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 5:02 |
-| 151 | [Let's Make It Last All Night](https://open.spotify.com/track/6uZfdeaNSXh42d16eSj49M) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Two Fires](https://open.spotify.com/album/2F9ywIws07eHYcIvg8KFTn) | 4:06 |
-| 152 | [You'll Never Stand Alone](https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:20 |
+| 151 | [You'll Never Stand Alone](https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:20 |
+| 152 | [Let's Make It Last All Night](https://open.spotify.com/track/6uZfdeaNSXh42d16eSj49M) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Two Fires](https://open.spotify.com/album/2F9ywIws07eHYcIvg8KFTn) | 4:06 |
 | 153 | [You Knew Me When](https://open.spotify.com/track/0pW7lNBM7and8vGVQ6jMxo) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [I Am \(Deluxe\)](https://open.spotify.com/album/6rhUimbVJnPEmsmOBa5i2Y) | 3:40 |
 | 154 | [La Luna Hizo Esto](https://open.spotify.com/track/7gYRMOKThN8mxf18dR7vTO) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:28 |
 | 155 | [Next Plane Out](https://open.spotify.com/track/1p9CqOzaTceVjCy2DR1Tn0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:57 |
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 230 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
 | 231 | [Painfully Beautiful](https://open.spotify.com/track/6LzT0Yxtju2JilZ2ByIV0a) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:45 |
 | 232 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
-| 233 | [Until U Love U \- Nicole Scherzinger](https://open.spotify.com/track/1vMfU4wCxvVzXxMqUuDX5l) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 3:38 |
-| 234 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
+| 233 | [I Hear Your Voice](https://open.spotify.com/track/5kcdhV63UOtO2CCj59olOC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Time](https://open.spotify.com/album/4o5S5EwZLGCIvWOaWonhkA) | 4:00 |
+| 234 | [Until U Love U \- Nicole Scherzinger](https://open.spotify.com/track/1vMfU4wCxvVzXxMqUuDX5l) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination \(Deluxe\)](https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5) | 3:38 |
 | 235 | [Live For Loving You](https://open.spotify.com/track/4ssavZbXxHM2O2skLe77i5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:37 |
 | 236 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
 | 237 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
@@ -518,4 +518,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 508 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 509 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 
-Snapshot ID: `AbTt4gAAAAB3NAsiancJGG1ybKv24aqO`
+Snapshot ID: `AbTzQgAAAAD0e9aJiCzH6Xw5BQQCqpO7`

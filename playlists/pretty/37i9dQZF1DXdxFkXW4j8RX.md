@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,933 likes - 101 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,930 likes - 101 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 100 | [Caribbean Connectah](https://open.spotify.com/track/7twCigufBJOoA6tSzVLSzw) | [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Cristoblah](https://open.spotify.com/artist/13fex8ULY9z5x5Mw5XYkkM) | [Caribbean Connectah](https://open.spotify.com/album/28ZpAE4Os1XP0uuPkxCRDy) | 3:44 |
 | 101 | [Lucha](https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Lucha](https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6) | 3:26 |
 
-Snapshot ID: `Zlk9MAAAAABk1ALL/VlWj9pdDNRZrNzO`
+Snapshot ID: `ZmiZgAAAAABTl8V9mcxhoLKdAY/9FV5J`

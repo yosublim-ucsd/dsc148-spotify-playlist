@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 94692,
+  "num_followers": 94682,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADnaa5H0h0LMzu9UKywRGVu",
+  "snapshot_id": "ZmZCAAAAAABTHYldbqYB3WDK/LSxpa0f",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
-        "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 194843,
-      "name": "Leaders (feat. NAV)",
-      "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -683,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+        "name": "On My Own (2016)",
+        "url": "https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo"
       },
       "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 133773,
-      "name": "Foreign (feat. Nav)",
-      "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
+      "duration_ms": 168828,
+      "name": "On My Own (2016)",
+      "url": "https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH"
     },
     {
       "added_at": null,
@@ -731,22 +707,6 @@
       "duration_ms": 204363,
       "name": "Habits",
       "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On My Own (2016)",
-        "url": "https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 168828,
-      "name": "On My Own (2016)",
-      "url": "https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH"
     },
     {
       "added_at": null,
@@ -1051,6 +1011,38 @@
       "duration_ms": 257493,
       "name": "A$AP Ferg",
       "url": "https://open.spotify.com/track/4EbULzyWMuFx94aoIY1MlJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 156518,
+      "name": "Make It Right Back",
+      "url": "https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 170536,
+      "name": "Saint Laurenttt",
+      "url": "https://open.spotify.com/track/2oPQVgCTYqA4FBknwAroWf"
     }
   ],
   "unique_name": "This Is NAV",

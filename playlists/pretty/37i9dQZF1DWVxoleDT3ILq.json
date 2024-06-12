@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Yaima Cat y Ni\u00f1a Tormenta",
-  "num_followers": 121901,
+  "num_followers": 121896,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
+      },
+      "artists": [
+        {
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 221610,
       "name": "ELLA (CAE LA NOCHE)",
       "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
-      },
-      "artists": [
-        {
-          "name": "Hija de Rojo",
-          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 197566,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Labios de Miel",
-        "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
-      },
-      "artists": [
-        {
-          "name": "Adri Stuven",
-          "url": "https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn"
-        }
-      ],
-      "duration_ms": 140649,
-      "name": "Labios de Miel",
-      "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "Tengo una Herida",
         "url": "https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs"
       },
@@ -1531,22 +1515,18 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Refresco",
-        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
+        "name": "Labios de Miel",
+        "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
       },
       "artists": [
         {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Juanita La O",
-          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
+          "name": "Adri Stuven",
+          "url": "https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn"
         }
       ],
-      "duration_ms": 197881,
-      "name": "XAT - Juanita La O Remix",
-      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
+      "duration_ms": 140649,
+      "name": "Labios de Miel",
+      "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1563,6 +1543,26 @@
       "duration_ms": 204617,
       "name": "Corazonada",
       "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Refresco",
+        "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
+        }
+      ],
+      "duration_ms": 197881,
+      "name": "XAT - Juanita La O Remix",
+      "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
-        "name": "Anatta",
-        "url": "https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG"
-      },
-      "artists": [
-        {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
-        },
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 398380,
-      "name": "Anatta",
-      "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
         "name": "TAMAGOTCHI",
         "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 199453,
       "name": "TAMAGOTCHI",
       "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
+        "name": "Anatta",
+        "url": "https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 398380,
+      "name": "Anatta",
+      "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
     },
     {
       "added_at": "2024-06-07 03:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-06-07 03:00:00",
       "album": {
+        "name": "Cenizas",
+        "url": "https://open.spotify.com/album/1UqjdcUWYIruAA8ybNyXZ9"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "En Libertad",
+      "url": "https://open.spotify.com/track/4CRdKP15xOYIKWgcPj9pvT"
+    },
+    {
+      "added_at": "2024-06-07 03:00:00",
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/43g4QrYuckeoF2NX1o6cr7"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 233528,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/3OrnisN6iubVnRmhNlmQ5g"
-    },
-    {
-      "added_at": "2024-06-07 03:00:00",
-      "album": {
-        "name": "Cenizas",
-        "url": "https://open.spotify.com/album/1UqjdcUWYIruAA8ybNyXZ9"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "En Libertad",
-      "url": "https://open.spotify.com/track/4CRdKP15xOYIKWgcPj9pvT"
     },
     {
       "added_at": "2024-06-07 03:00:00",

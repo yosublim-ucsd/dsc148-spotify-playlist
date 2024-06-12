@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,347 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,467 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 11 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 |
 | 12 | [Decompress \(Beta 118 Hz \- 132 Hz\)](https://open.spotify.com/track/3fCxL73pqo8SRRB9a1JvlF) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Decompress & Realign \(Binaural Beta\)](https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD) | 3:12 |
 | 13 | [Beta Waves Therapy 92 hz \- 90,2 hz](https://open.spotify.com/track/1bmzp8SQ3b6N7JyaJhVA3J) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:53 |
-| 14 | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/track/5rDXovOMkiDjVobbFH2iYx) | [Lavendea](https://open.spotify.com/artist/65C8AHZg2NmgDjfkQFs3bF) | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/album/4xjqSRTGYHmte6r1XMjGgz) | 2:39 |
-| 15 | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/track/6pB1rlj3t9CyyQ39LETvnc) | [Mayor Deseo](https://open.spotify.com/artist/5kuSOXj2E125pcnCnhh31g) | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/album/1IXb9BD9Syya3mVcUPndQi) | 2:14 |
+| 14 | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/track/6pB1rlj3t9CyyQ39LETvnc) | [Mayor Deseo](https://open.spotify.com/artist/5kuSOXj2E125pcnCnhh31g) | [Beta Sinus 191 Hz \- L 220 Hz](https://open.spotify.com/album/1IXb9BD9Syya3mVcUPndQi) | 2:14 |
+| 15 | [Beta Sinus 90 Hz \- 120 Hz](https://open.spotify.com/track/7hu35Cc7XxthGP1gZ7SkgK) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Higher Highs](https://open.spotify.com/album/7IxHihP3UrmIRVUeXPfl7t) | 3:31 |
 | 16 | [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 |
-| 17 | [Beta Sinus 90 Hz \- 120 Hz](https://open.spotify.com/track/7hu35Cc7XxthGP1gZ7SkgK) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Higher Highs](https://open.spotify.com/album/7IxHihP3UrmIRVUeXPfl7t) | 3:31 |
+| 17 | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/track/5rDXovOMkiDjVobbFH2iYx) | [Lavendea](https://open.spotify.com/artist/65C8AHZg2NmgDjfkQFs3bF) | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/album/4xjqSRTGYHmte6r1XMjGgz) | 2:39 |
 | 18 | [Total Focus \(Beta Sinus\)](https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 3:33 |
 | 19 | [Soaring Eagle Beta Sinus 116 Hz \- 131 Hz](https://open.spotify.com/track/3qR90xoCsHQceqOGhdgPbs) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 3:13 |
 | 20 | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9) | 3:06 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 60 | [Beta Time 86,4 hz \-84,1 hz](https://open.spotify.com/track/2pGVCr1MRiSC5a4EeG7iOn) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 2:57 |
 | 61 | [Binaural Beta Sinus Beats](https://open.spotify.com/track/2lVAIA4kdj8ecjNwzrHj6q) | [Erwin Oscár](https://open.spotify.com/artist/1w1y7dpUPIsZovT5YAHG3v) | [Binaural Brain Waves](https://open.spotify.com/album/4S6iWJHAR9R5lNsH9kJbVI) | 2:39 |
 
-Snapshot ID: `ZgLbzgAAAADxrHy9ZQ3Rjtm1pNJC4cTd`
+Snapshot ID: `ZmiBJQAAAAD+Pe4pv6FNC4lHdtuujeWt`

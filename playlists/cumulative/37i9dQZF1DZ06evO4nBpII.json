@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is Green Day. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Green Day. The essential tracks, all in one playlist.",
   "name": "This Is Green Day",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 129692,
       "name": "1981",
       "url": "https://open.spotify.com/track/5p5lAB6YJioo8gJIck84JJ"
@@ -1400,6 +1400,24 @@
       "duration_ms": 196794,
       "name": "Suzie Chapstick",
       "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
+    },
+    {
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186270,
+      "name": "The American Dream Is Killing Me",
+      "url": "https://open.spotify.com/track/0yq78eXBvWVgkqojBe46SX"
     },
     {
       "album": {

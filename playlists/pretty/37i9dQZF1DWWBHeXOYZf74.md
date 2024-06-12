@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,495 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,463 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 13 | [Little Faded](https://open.spotify.com/track/3sEf1LsyioXny79MJeQbnQ) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Double Eagle](https://open.spotify.com/album/4mhvnNKkepZ8zDgAKB36ZP) | 2:39 |
 | 14 | [MORNING DEW](https://open.spotify.com/track/5dZiqJidHLQ0MzO7fcfGv2) | [FRANK LEONE](https://open.spotify.com/artist/6hyHkgqHkUlJU6QMmzCNMK), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [FISH](https://open.spotify.com/album/0H2Fx7S4szHIgkfHHc35RD) | 2:47 |
 | 15 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
-| 16 | [All You Can Do Is Try \(Remix\)](https://open.spotify.com/track/1GPQcQ8F7DlZQ6dTBhP2cP) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [All You Can Do Is Try \(Bella Boo Remix\)](https://open.spotify.com/album/7HMTlbumdbuj9sCmRtJnhl) | 3:39 |
+| 16 | [All You Can Do Is Try \(Bella Boo Remix\)](https://open.spotify.com/track/1GPQcQ8F7DlZQ6dTBhP2cP) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [All You Can Do Is Try \(Bella Boo Remix\)](https://open.spotify.com/album/7HMTlbumdbuj9sCmRtJnhl) | 3:39 |
 | 17 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 |
 | 18 | [When Ur Near \- Edit](https://open.spotify.com/track/1CNm0rxrvh3J32GAZ1F8A5) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [When Ur Near](https://open.spotify.com/album/3qd2PhcpBzHYbt2ijyrFMo) | 3:09 |
 | 19 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 |

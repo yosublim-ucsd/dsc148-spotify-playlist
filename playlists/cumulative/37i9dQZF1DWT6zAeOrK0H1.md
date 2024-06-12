@@ -2,7 +2,7 @@
 
 ### [The Best Bands In The Universe 🪐](https://open.spotify.com/playlist/37i9dQZF1DWT6zAeOrK0H1)
 
-> Home of the best bands orbiting the universe right now\. Cover: Bleachers
+> Home of the best bands orbiting the universe right now\. Cover: Fontaines D.C.
 
 280 songs - 16 hr 57 min
 
@@ -184,13 +184,13 @@
 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 | 2024-02-02 |  |
 | [Ready To Let Go](https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:07 | 2022-03-15 |  |
 | [Real Love Song](https://open.spotify.com/track/6LZK9ue0bADrYdK0Qm7e7e) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:42 | 2022-03-15 | 2023-03-18 |
-| [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 | 2024-02-02 |  |
+| [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 | 2024-02-02 | 2024-06-12 |
 | [Rice](https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 2:39 | 2023-02-09 |  |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-03-16 |  |
 | [Robbery](https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:43 | 2022-03-15 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-11 |  |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-22 | 2024-06-02 |
-| [Sanity \(Re: Jack Antonoff\)](https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds) | 3:27 | 2024-02-16 | 2024-06-02 |
+| [Sanity \(Re: Jack Antonoff\)](https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds) | 3:27 | 2024-02-16 |  |
 | [Security](https://open.spotify.com/track/20atdt1Upmx1npN3zY4JtM) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/09hDOH6485A7SIg1FmpuX2) | 3:47 | 2022-06-02 |  |
 | [Security](https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 3:47 | 2023-06-20 | 2024-04-19 |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-07-08 | 2023-07-16 |

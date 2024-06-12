@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 106936,
+  "num_followers": 106944,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -744,22 +744,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 315953,
-      "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
-      "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
@@ -771,6 +755,22 @@
       "duration_ms": 229341,
       "name": "You're The One - Spotify Singles",
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0GCIrOKHsVmCyk1RsWYCWt"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 315953,
+      "name": "Holding On - Recorded at Spotify Studios NYC, 6/07/2017",
+      "url": "https://open.spotify.com/track/3rfvu2jVkQVnMZe8wDDCoi"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1112,22 +1112,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 622000,
-      "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN"
       },
       "artists": [
@@ -1139,6 +1123,22 @@
       "duration_ms": 208396,
       "name": "Electric Touch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 622000,
+      "name": "home/i want your love - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "RBF: Part 1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "RBF: Part 1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 235979,
       "name": "Pressure - Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "RBF: Part 1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "RBF: Part 1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/3vofXquO3Brq3j4TMKQ19F"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1620,22 +1620,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 208159,
-      "name": "Headlock - Spotify Singles",
-      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
       },
       "artists": [
@@ -1647,6 +1631,22 @@
       "duration_ms": 214823,
       "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Headlock - Spotify Singles",
+      "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1679,26 +1679,6 @@
       "duration_ms": 253514,
       "name": "Los Ageless - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
-        "url": "https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        },
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 181828,
-      "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
-      "url": "https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1747,6 +1727,26 @@
       "duration_ms": 198119,
       "name": "Everybody Wants To Be Famous - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+        "url": "https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 181828,
+      "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+      "url": "https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1816,22 +1816,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Gold Rush - Live at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb"
       },
       "artists": [
@@ -1843,6 +1827,22 @@
       "duration_ms": 303195,
       "name": "Blanket Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4bMHWD1vEnq76Ro208gZHd"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Gold Rush - Live at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 199575,
-      "name": "Genghis Khan - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 344666,
       "name": "tonite - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 199575,
+      "name": "Genghis Khan - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
     },
     {
       "added_at": "2023-01-11 22:54:33",

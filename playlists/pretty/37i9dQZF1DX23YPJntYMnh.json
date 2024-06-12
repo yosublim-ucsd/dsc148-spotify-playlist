@@ -1,10 +1,10 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 468900,
+  "num_followers": 468945,
   "original_name": "Funk Rock",
   "owner": {
-    "name": "",
-    "url": "https://open.spotify.com/user/null"
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "ZmBlwwAAAACzuXqVpWxnARC6WoR6ZpDb",
   "tracks": [
@@ -669,7 +669,7 @@
         }
       ],
       "duration_ms": 254839,
-      "name": "Stop",
+      "name": "Stop!",
       "url": "https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc"
     },
     {

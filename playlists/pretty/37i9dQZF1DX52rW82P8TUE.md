@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,360 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,370 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 34 | [A História dos Animais](https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Társis Iraídes](https://open.spotify.com/artist/0p942FANsPACepQGy7HuF7), [Elson Gollub](https://open.spotify.com/artist/4CnTjFbM00kSSgLddqNgqh), [José Barbalho](https://open.spotify.com/artist/3nTd1c0vX2OvYS4cF6otAo), [Ronaldo Fagundes](https://open.spotify.com/artist/3k8WlBrUAmrPAAwGILLlMj) | [Arautos do Rei pra Baixinhos e Grandões](https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK) | 3:54 |
 | 35 | [Medley das Crianças](https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl), [Galo Jacó](https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L) | [Medley das Crianças](https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH) | 4:12 |
 | 36 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 |
-| 37 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
-| 38 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
-| 39 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
+| 37 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
+| 38 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
+| 39 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
 | 40 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
 | 41 | [Fico Feliz](https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Rafael de Oliveira](https://open.spotify.com/artist/4qRoHdCs4qUXd7ptMkjs80), [Lara Maria](https://open.spotify.com/artist/2u6lfISZVmVMzhOv5KHWf2), [Alyce Maria](https://open.spotify.com/artist/4wQVjWUP0rzD6PhfFCAMVj), [Ana Lunna](https://open.spotify.com/artist/7DJnoHcMYpn6e685BbPGC8) | [Gba Stage Kids](https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW) | 4:40 |
 | 42 | [A, E, I, O, U](https://open.spotify.com/track/3ECu0Ipd7bspFhrJTuYwoA) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [A,E,I,O,U](https://open.spotify.com/album/5xWQKN7mnHZ9b2WxW5JrF9) | 2:26 |

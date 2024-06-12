@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,063 likes - 132 songs - 4 hr 18 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,064 likes - 132 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

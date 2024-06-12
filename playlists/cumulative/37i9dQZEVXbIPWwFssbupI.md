@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,856 songs - 4 day 2 hr 24 min
+1,857 songs - 4 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Canelo](https://open.spotify.com/track/0qPAUzGoux1vXyuA7wo3NG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:39 | 2021-11-07 | 2021-11-13 |
 | [Canette dans les mains](https://open.spotify.com/track/5Wgw0xELVgMedzUXhAxSui) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:12 | 2022-12-10 | 2022-12-20 |
 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 | 2024-05-17 | 2024-06-02 |
-| [Cannelloni](https://open.spotify.com/track/6XvpC5A373UZAKJOHRryB4) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:18 | 2024-06-01 | 2024-06-11 |
+| [Cannelloni](https://open.spotify.com/track/6XvpC5A373UZAKJOHRryB4) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:18 | 2024-06-01 |  |
 | [Capitaine](https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA \(Parties 1 & 2\)](https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS) | 2:35 | 2023-03-28 | 2023-09-14 |
 | [CARLO](https://open.spotify.com/track/2rpbU67Z8u8D21wdP9ObRU) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 2:23 | 2023-10-29 | 2023-11-03 |
 | [Carolina](https://open.spotify.com/track/22IP2WKjuGYQ19JAz5GpAv) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [REDVOLUTION](https://open.spotify.com/artist/4hzO4p4VzL72ZFXF0YFYBn) | [Carolina](https://open.spotify.com/album/4VsXxNxkWjYV6nlPPt6A64) | 3:15 | 2022-10-15 | 2022-10-23 |
@@ -332,7 +332,7 @@
 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:49 | 2023-12-02 | 2024-02-18 |
 | [CARTIER PANTHÈRE](https://open.spotify.com/track/14sdOJ9PZHGZaJmrxrbpSh) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:05 | 2023-03-18 | 2023-03-21 |
 | [Cartier Panthère](https://open.spotify.com/track/39u64b5XPIpyHn2CP1PJq4) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Cartier Panthère](https://open.spotify.com/album/2sXfEROFW7ZUESK44AXb5j) | 3:05 | 2022-12-17 | 2022-12-21 |
-| [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-07-08 |  |
+| [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-07-08 | 2024-06-12 |
 | [Casanova](https://open.spotify.com/track/5xriTc82DdSAGToWcixBKf) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [Casanova](https://open.spotify.com/album/2QS8mwj4JvGDRsv9suNzN9) | 2:52 | 2021-03-27\* | 2021-07-17 |
 | [Cash](https://open.spotify.com/track/46dmfqeT2mzwKbSBD6V2o3) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:40 | 2023-04-15 | 2023-04-23 |
 | [Cassage de nuques, pt\. 4](https://open.spotify.com/track/4ik5xNgCimGENgiCkzYgkA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:59 | 2021-06-27 | 2021-07-02 |
@@ -1142,6 +1142,7 @@
 | [Michael Jordan](https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [Michael Jordan](https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU) | 3:43 | 2024-05-02 |  |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-04-21 | 2022-09-02 |
 | [Mignon tout plein](https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:24 | 2024-01-27 | 2024-02-09 |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-11 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-10 | 2024-05-25 |
 | [Millions](https://open.spotify.com/track/70jyIxNr3R5k3bofVYX9GS) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Millions](https://open.spotify.com/album/11HeVcLDKQI362IGgGxysq) | 3:17 | 2021-06-20 | 2021-11-21 |
 | [Miné sur Paname](https://open.spotify.com/track/3hc9T5XzWBHxX7uEaG3Kdz) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [La route est longue](https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs) | 3:46 | 2023-12-09 | 2023-12-22 |
@@ -1158,7 +1159,7 @@
 | [MOLLY](https://open.spotify.com/track/682C1KGj7SigHyZIFzP0yT) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 | 2022-07-02 | 2022-07-04 |
 | [MOLLY \- A COLORS SHOW](https://open.spotify.com/track/6KNw3UKRp3QRsO7Cf4ASVE) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [MOLLY \- A COLORS SHOW](https://open.spotify.com/album/6ZIJvsgdRVinkp5FaVbgRz) | 2:22 | 2022-06-01 | 2022-09-25 |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-12-29 | 2024-03-20 |
-| [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-11 |  |
+| [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-11 | 2024-06-12 |
 | [Mon amour](https://open.spotify.com/track/6lBCjH1gpm5sk9KBll9akT) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 2:52 | 2022-03-05 | 2022-03-11 |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-06-17 | 2023-06-24 |
 | [Mon poto \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/1SelxYHPb04GjUy0oYV1Jw) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [En Passant Pécho \(Bande originale inspirée du film\)](https://open.spotify.com/album/5Z31afWU0NIldn8hRK5CZq) | 3:03 | 2021-03-27\* | 2021-04-18 |

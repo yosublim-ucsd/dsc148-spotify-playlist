@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,592 songs - 5 day 18 hr 17 min
+2,593 songs - 5 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1762,6 +1762,7 @@
 | [Pablo](https://open.spotify.com/track/2KYCodLLNP0AWsrq08P9xz) | [Bernard Lavilliers](https://open.spotify.com/artist/20YtJDRaSzJREUlVvNfYB3) | [Pablo](https://open.spotify.com/album/2Sju2CaCQCO8ZThFtlZKod) | 4:07 | 2022-04-01 | 2022-04-16 |
 | [Pablo](https://open.spotify.com/track/0KifVydMFjrwl53BPjhS0o) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Pablo](https://open.spotify.com/album/1pU0VS9klvCOCdoEkjQfOW) | 3:07 | 2022-07-08 | 2022-07-30 |
 | [Paddleboard](https://open.spotify.com/track/6NeoGh2gWvguAhmVb7GrCl) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [Paddleboard](https://open.spotify.com/album/1GCqWdsIp8QjHaZiZZbfTM) | 3:20 | 2022-05-06 | 2022-05-14 |
+| [PAF](https://open.spotify.com/track/2RGG3LWnqjEHpplIkieJqP) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [PAF](https://open.spotify.com/album/6pgypgF6c5yIrfmQ099g8x) | 2:52 | 2024-06-07 |  |
 | [Page blanche](https://open.spotify.com/track/3tYWn4tOynT63XNmLO5XPj) | [Alexandra Willett](https://open.spotify.com/artist/2Ch4UuvEp3AOtdISvdHjFX) | [Page blanche](https://open.spotify.com/album/1nFPNsBjgcPN5IJhXBYnfA) | 3:54 | 2021-12-31 | 2022-01-15 |
 | [Palavé \(feat\. Tiakola\)](https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LMDB](https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3) | 2:39 | 2022-07-08 | 2022-07-23 |
 | [Pam Nan](https://open.spotify.com/track/5Y25i6g3gMPwt5BDpCBu7v) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw) | [Pam Nan](https://open.spotify.com/album/04M1C1nKoIIRBSn7wY3AS4) | 3:11 | 2024-03-15 | 2024-03-23 |
@@ -2132,7 +2133,7 @@
 | [Shatta \(feat\. Ghost Killer Track\)](https://open.spotify.com/track/2CrMndt2MVGC0ZrBV1J0jv) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Après Gambinerie](https://open.spotify.com/album/7eEGUogVe7Et5HU0NPqPtF) | 2:05 | 2023-09-08 | 2023-10-07 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-28 | 2023-09-23 |
 | [Shawty](https://open.spotify.com/track/3CUL5WU1HGJKQmX2QpGi7x) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Young Paris](https://open.spotify.com/artist/44DhAhLWsSFvSqVXDUruVE) | [Shawty](https://open.spotify.com/album/6wUSxMbKzYcp4miD7eQNe6) | 3:26 | 2022-08-12 | 2022-08-27 |
-| [SHE LIT](https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [SHE LIT](https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B) | 2:17 | 2024-04-26 |  |
+| [SHE LIT](https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [SHE LIT](https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B) | 2:17 | 2024-04-26 | 2024-06-12 |
 | [Shirley Temple](https://open.spotify.com/track/0FA6d3PTjv6R9V4AhQEU6K) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [NEXUS](https://open.spotify.com/album/7DjjUxRUmeQKjyhfPd6tLO) | 2:36 | 2023-10-13 | 2023-10-21 |
 | [Shloshlo](https://open.spotify.com/track/5MaOfkPL7Fa4pUxmkH4q3K) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Shloshlo](https://open.spotify.com/album/3fn2ktuUz09Mk0dBUMRBBW) | 3:06 | 2024-05-10 | 2024-05-18 |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-04-23 |

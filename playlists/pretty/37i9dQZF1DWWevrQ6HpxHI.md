@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 
 > Over 5 hours of classic heaters 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,619 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,800 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWevrQ6HpxHI.md) - [plain]
 | 81 | [Who Do You Think Of? \- Zac Samuel Remix](https://open.spotify.com/track/0dOxEPEzBFvhGvMfurJI1A) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 2:47 |
 | 82 | [Cheatin' \(feat\. MALIKA\)](https://open.spotify.com/track/1Ei4I19L2hnsMQYAlaqQLM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb) | [Cheatin' \(feat\. MALIKA\)](https://open.spotify.com/album/5TMEkU8Z3GWcIDI6xq5dDU) | 2:58 |
 | 83 | [I Got U](https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [I Got U](https://open.spotify.com/album/5U06Y2CHfkglWCTyqY98pN) | 4:45 |
-| 84 | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/track/1qE47wUKG2juJwPoLqg4C9) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission](https://open.spotify.com/album/4b6Si351g8brcy6TtHFn13) | 2:56 |
+| 84 | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/track/1qE47wUKG2juJwPoLqg4C9) | [Major Lazer](https://open.spotify.com/artist/78895QQcLtTagD8auJBHfE), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission](https://open.spotify.com/album/4b6Si351g8brcy6TtHFn13) | 2:56 |
 | 85 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
 | 86 | [One Night \(feat\. Raphaella\)](https://open.spotify.com/track/4QUA94c3ycZm8dnpPih4sf) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [One Night \(feat\. Raphaella\)](https://open.spotify.com/album/7yA2y59fjfh7VaIuwg3sfZ) | 2:41 |
 | 87 | [Cut Me Loose](https://open.spotify.com/track/29Pqz6wtpeRWfY0SZkKbHE) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Cardboard Foxes](https://open.spotify.com/artist/4cz5606ByK5SmBO27dcf2g), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose](https://open.spotify.com/album/5yXDR0hv1kK8CbhpOszNp4) | 4:59 |

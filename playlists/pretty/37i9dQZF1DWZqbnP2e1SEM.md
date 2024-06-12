@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,422 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,408 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 47 | [Take It Off](https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Take It Off](https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J) | 3:14 |
 | 48 | [Don't Stop Just Yet](https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Belters Only](https://open.spotify.com/album/7fSPGNZ9RY2yS9btOkO9Hu) | 3:06 |
 | 49 | [My Love](https://open.spotify.com/track/5Vi0u7cGTcPrXk6ZOoppnp) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj) | [My Love](https://open.spotify.com/album/09zYedT6OABvIqKBuEH3zE) | 2:36 |
-| 50 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
-| 51 | [Deep End](https://open.spotify.com/track/61eyaitcIdl1jpnc6Kb8M3) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Deep End](https://open.spotify.com/album/18WO0cnGjnQiBehYVtF33g) | 2:36 |
+| 50 | [Deep End](https://open.spotify.com/track/61eyaitcIdl1jpnc6Kb8M3) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Deep End](https://open.spotify.com/album/18WO0cnGjnQiBehYVtF33g) | 2:36 |
+| 51 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
 | 52 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 |
 | 53 | [Mad At Me](https://open.spotify.com/track/5iKxBjFOldF5hCpCvcvcf0) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Mad At Me](https://open.spotify.com/album/02oVf19wXURdIAfzgUW3xr) | 3:58 |
 | 54 | [Love Me](https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Love Me](https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz) | 1:56 |

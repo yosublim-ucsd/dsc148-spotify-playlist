@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,148 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,146 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 23 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 24 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
 | 25 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
-| 26 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
-| 27 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
+| 26 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 |
+| 27 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 |
 | 28 | [Oh Give Thanks \(Psalm 136\)](https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Spirit Of David](https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h) | 4:55 |
 | 29 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 |
 | 30 | [Oh Give Thanks \- Live](https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [Live in Chicago](https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ) | 5:29 |

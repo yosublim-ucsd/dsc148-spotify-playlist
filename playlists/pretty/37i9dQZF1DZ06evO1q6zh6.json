@@ -1,12 +1,12 @@
 {
-  "description": "This Is Judas Priest. Los temas esenciales, todos en una lista.",
-  "num_followers": 165549,
+  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
+  "num_followers": 165579,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADzvEAYLmXVpb+2STiOVqpg",
+  "snapshot_id": "ZmZCAAAAAADydCPe1b7GA+84QOGWirzb",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
+      "duration_ms": 202626,
+      "name": "The Green Manalishi (With the Two Pronged Crown)",
+      "url": "https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 202626,
-      "name": "The Green Manalishi (With the Two Pronged Crown)",
-      "url": "https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq"
+      "duration_ms": 203066,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
     },
     {
       "added_at": null,

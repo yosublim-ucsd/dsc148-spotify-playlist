@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,582 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,587 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 46 | [RED GEM WINK](https://open.spotify.com/track/6puhUOFB5b7CggOnVUufpI) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:55 |
 | 47 | [Love is all, I sing love is all!](https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Ohara Mari](https://open.spotify.com/album/4tZnuXnlf0Lcn8dMRHnL9a) | 5:10 |
 | 48 | [地元愛♡満タン☆サマーライフ](https://open.spotify.com/track/4e8YOAhIclDTz2ffTYycZ1) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY) | [デュオトリオコレクション \(VOL.1 〜SUMMER VACATION〜\)](https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW) | 4:45 |
-| 49 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 |
+| 49 | [また君に会うんだ](https://open.spotify.com/track/1JJ8aZtzq1Mtgs9BoTVtiW) | [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [LoveLive! Sunshine!! Third Solo Concert Album ～THE STORY OF “OVER THE RAINBOW”～ starring Ohara Mari](https://open.spotify.com/album/2YiJ7O5r2c55VerozwGvuh) | 4:20 |
 | 50 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 |
 
 Snapshot ID: `ZUp+lAAAAAAgLmVqIomw7v729U4QOcBz`

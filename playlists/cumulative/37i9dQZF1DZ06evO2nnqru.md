@@ -2,9 +2,9 @@
 
 ### [This Is Marca MP](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nnqru)
 
-> This Is Marca MP\. Los temas esenciales, todos en una lista.
+> This is Marca MP\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 24 min
+102 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Que Casualidad \- En vivo](https://open.spotify.com/track/2puoDFA9WmRPqF2QUPymxI) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 3 \(En vivo\)](https://open.spotify.com/album/4jufeGTVJpClLZiktiMMGn) | 3:18 | 2022-06-01 | 2022-07-07 |
 | [Que Fue Lo Que Paso](https://open.spotify.com/track/3ewS8DYitFRgZBv9X4f7qZ) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:47 | 2022-06-01 |  |
 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 | 2022-06-01 |  |
-| [R1](https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:59 | 2023-08-02 |  |
+| [R1](https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 3:59 | 2023-08-02 | 2024-06-12 |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-06-01 |  |
 | [Rios Por Apellido \- En vivo](https://open.spotify.com/track/6AY4yiKt405DygjNOXWDAK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:04 | 2022-06-01 | 2022-12-25 |
 | [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 | 2022-06-01 |  |
@@ -106,6 +106,7 @@
 | [Ven Conmigo](https://open.spotify.com/track/642pJ6MwUEE6QI426ScXmO) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 | 2022-06-01 |  |
 | [Vengo A Confesar](https://open.spotify.com/track/71C5O8r7jGfggDjzEm6wG1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:31 | 2023-05-31 | 2023-10-11 |
 | [Vida Rencorosa](https://open.spotify.com/track/6FdGKzJRwqIoZCpxUiQKzr) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo Desde el Malecon: Sold Out](https://open.spotify.com/album/5UNBJmHfoH32MrZBKNkhc6) | 2:48 | 2022-06-01 | 2022-06-26 |
+| [Y Me Ven \- En Vivo](https://open.spotify.com/track/17AY40sV0Fy9SzsPwYI4xc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 2:54 | 2024-06-12 |  |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2022-06-01 |  |
 | [Yo Quisiera Entrar](https://open.spotify.com/track/4UobQ7x4ioXVDuXrajpgUb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR) | 4:41 | 2022-06-01 | 2022-10-13 |
 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 | 2022-06-01 |  |

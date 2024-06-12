@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from King Hannah
 
-1,524 songs - 3 day 11 hr 56 min
+1,525 songs - 3 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Better Than Nothing](https://open.spotify.com/track/1lYWpkFVDY9HvVDWuAnyA6) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Better Than Nothing](https://open.spotify.com/album/3BiDzIyOjLyXSbPaNr1xoR) | 3:43 | 2024-01-26 | 2024-04-06 |
 | [Between Your Teeth](https://open.spotify.com/track/1uwmPWrxBZ4V4WQ0QwGaZ0) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Between Your Teeth](https://open.spotify.com/album/4QstdyKGItbksEglSAglQR) | 5:11 | 2023-11-10 | 2024-01-27 |
 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 | 2023-07-31 | 2023-10-14 |
-| [Big Swimmer](https://open.spotify.com/track/3msstebr0HfNT4kdJexWXe) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 5:22 | 2024-06-07 |  |
+| [Big Swimmer](https://open.spotify.com/track/3msstebr0HfNT4kdJexWXe) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Big Swimmer](https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc) | 5:22 | 2024-06-07 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-26 |  |
 | [Bike Ride](https://open.spotify.com/track/26FSZGVmztwje4htwcwQyv) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Bike Ride](https://open.spotify.com/album/1nDQaNNs7tCs3fZHiZU2GE) | 2:56 | 2021-11-19 | 2022-04-19 |
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2022-08-26 | 2022-11-12 |
@@ -1192,6 +1192,7 @@
 | [Snakes](https://open.spotify.com/track/3ZaskGSb0pLpkab29rcffI) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Good Grief!](https://open.spotify.com/album/2HLIi5PEynIaVHEFDAmFpV) | 3:12 | 2021-10-22 | 2022-04-16 |
 | [Snowbank Blues](https://open.spotify.com/track/3SsGrCb1eaSpGhRDqPaTln) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:17 | 2022-10-28 | 2023-04-01 |
 | [So Clear](https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB) | [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Go Around](https://open.spotify.com/album/59n5hJUTjae754GA75MRMx) | 2:38 | 2021-06-25 | 2022-04-21 |
+| [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-06-11 |  |
 | [So Grown Up](https://open.spotify.com/track/6GUdaisS4CFhiuBqaoCygz) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [So Grown Up](https://open.spotify.com/album/7xgUCfCUkPGJzraY6hQwDf) | 3:35 | 2021-10-08 | 2022-04-08 |
 | [So Medieval](https://open.spotify.com/track/1XXyubI3J3GRqpmVQPcBCT) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:54 | 2024-04-12 | 2024-06-01 |
 | [Soak it In](https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Mundane Pleasure](https://open.spotify.com/album/3NeuhQcs23QELh77ERy0fm) | 2:23 | 2024-03-29 |  |

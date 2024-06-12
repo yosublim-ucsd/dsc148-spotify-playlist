@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1471465,
+  "num_followers": 1472110,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADv4UOg6P9OPIGZb1cIfEiP",
+  "snapshot_id": "ZmZCAAAAAADtqBvbx9iH9xCOLvxEjSVs",
   "tracks": [
     {
       "added_at": null,
@@ -135,38 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "HUMBLE.",
-      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -187,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swimming Pools (Drank)",
-        "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
@@ -196,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 247800,
-      "name": "Swimming Pools (Drank)",
-      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
       "added_at": null,
@@ -212,29 +180,25 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Swimming Pools (Drank)",
+        "url": "https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH"
       },
       "artists": [
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
         }
       ],
-      "duration_ms": 213400,
-      "name": "LOVE. FEAT. ZACARI.",
-      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+      "duration_ms": 247800,
+      "name": "Swimming Pools (Drank)",
+      "url": "https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi"
     },
     {
       "added_at": null,
@@ -259,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
         }
       ],
-      "duration_ms": 234693,
-      "name": "King Kunta",
-      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+      "duration_ms": 213400,
+      "name": "LOVE. FEAT. ZACARI.",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
     },
     {
       "added_at": null,
@@ -284,15 +252,15 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 283642,
-      "name": "Count Me Out",
-      "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
       "artists": [
         {
@@ -300,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+      "duration_ms": 234693,
+      "name": "King Kunta",
+      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
     },
     {
       "added_at": null,
@@ -327,6 +295,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 283642,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1989 (Taylor's Version) [Deluxe]",
         "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
       },
@@ -343,6 +343,46 @@
       "duration_ms": 199773,
       "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
       "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 382760,
+      "name": "Stay Ready (What A Life)",
+      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "LOYALTY. FEAT. RIHANNA.",
+      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
     },
     {
       "added_at": null,
@@ -371,46 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "LOYALTY. FEAT. RIHANNA.",
-      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sail Out",
-        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 382760,
-      "name": "Stay Ready (What A Life)",
-      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Section.80",
         "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 215509,
       "name": "A.D.H.D",
       "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 255377,
-      "name": "United In Grief",
-      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
     },
     {
       "added_at": null,
@@ -483,6 +467,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 214265,
+      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oxymoron (Deluxe)",
         "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 299960,
       "name": "Collard Greens",
       "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
       "added_at": null,
@@ -643,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "Doves In The Wind (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hillbillies",
         "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "untitled unmastered.",
-        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "untitled 08 | 09.06.2014.",
-      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "untitled unmastered.",
+        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "untitled 08 | 09.06.2014.",
+      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 161137,
-      "name": "Chapter Six",
-      "url": "https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
         "url": "https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 229670,
       "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
       "url": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 161137,
+      "name": "Chapter Six",
+      "url": "https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow"
     },
     {
       "added_at": null,

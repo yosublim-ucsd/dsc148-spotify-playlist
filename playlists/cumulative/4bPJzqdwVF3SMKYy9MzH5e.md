@@ -4,7 +4,7 @@
 
 > 
 
-1,919 songs - 4 day 7 hr 32 min
+1,920 songs - 4 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [2nd Hand](https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XII: The Dark Glacier Saga](https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj) | 2:03 | 2021-08-05 |  |
 | [3 Musketeers](https://open.spotify.com/track/57Oi4yqY27uJzCyqFWIP5q) | [NextYoungin](https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t), [ppcocaine](https://open.spotify.com/artist/2u1aL8XADqj0nJFHMKRjNw) | [3 Musketeers](https://open.spotify.com/album/21x636uz6Wlo6T5ets8bek) | 2:46 | 2021-08-05 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-05-13 |  |
+| [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-11 |  |
 | [4 bit 9d api+e+6 \[126.26\]](https://open.spotify.com/track/3NK7KFnTh3rKCgUvsKIDfi) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 4:28 | 2022-02-18 |  |
 | [4 Morant](https://open.spotify.com/track/57jFUz9DgJDQXL8LbPWjR3) | [Grindol](https://open.spotify.com/artist/6YgR7mphFTyEB0mZDewlxG) | [4 Morant](https://open.spotify.com/album/1DT3lkFPzSy2slR11GBuiA) | 2:52 | 2022-11-11 |  |
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2021-08-05 |  |

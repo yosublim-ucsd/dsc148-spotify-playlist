@@ -4,7 +4,7 @@
 
 > 
 
-283 songs - 19 hr 2 min
+285 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,10 +38,11 @@
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-02 | 2022-07-14 |
 | [big daddy ya](https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:09 | 2022-06-20 | 2022-11-01 |
 | [Birth4000](https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Birth4000](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx) | 4:46 | 2023-10-17 | 2024-06-01 |
-| [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-03-22 |  |
+| [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-03-22 | 2024-06-12 |
 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 | 2023-07-25 | 2024-04-10 |
 | [blu](https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blu](https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU) | 2:16 | 2024-05-17 |  |
 | [Blue Lights](https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Blue Lights](https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7) | 3:41 | 2023-03-31 | 2023-07-07 |
+| [blush](https://open.spotify.com/track/6EBIty8gWIvorUu9JFg1sP) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/4LYE5oTcpLgZBW1Un1vyia) | 2:43 | 2024-06-11 |  |
 | [Blush Me Out!](https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [MOSQUITO](https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK) | 3:26 | 2022-09-16 | 2023-01-12 |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2023-01-10 |
 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 | 2024-05-08 |  |
@@ -110,6 +111,7 @@
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-17 | 2023-07-19 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-14 | 2023-03-02 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-24 | 2023-10-17 |
+| [Gone](https://open.spotify.com/track/6M1vXz1vXshANbF1uxpQCG) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Gone](https://open.spotify.com/album/2fSm1YvQwa77zAQ7PRBUnI) | 2:14 | 2024-06-11 |  |
 | [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 4:57 | 2022-02-04 | 2022-09-17 |
 | [Grammar](https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Grammar](https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi) | 7:41 | 2022-04-05 | 2023-04-20 |
 | [GUNZ](https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [GUNZ](https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS) | 3:15 | 2023-08-17 | 2023-09-06 |
@@ -240,7 +242,7 @@
 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 | 2023-08-18 |
 | [Sunsleeper](https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Sunsleeper](https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M) | 3:42 | 2023-02-22 | 2023-08-30 |
 | [Sweet Devotion](https://open.spotify.com/track/7MxsDJl8a1piNsqGwheXKS) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 5:34 | 2024-04-30 |  |
-| [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 | 2024-02-15 |  |
+| [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 | 2024-02-15 | 2024-06-12 |
 | [Telescope](https://open.spotify.com/track/29oH20WCU0mVO3SwfIaaib) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Telescope](https://open.spotify.com/album/6M3hPrILsU7h2ifDR3XKGW) | 4:46 | 2024-05-03 |  |
 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-05-15 | 2023-08-18 |
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2022-12-08 | 2023-01-10 |

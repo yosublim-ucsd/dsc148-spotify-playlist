@@ -1,6 +1,6 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 31560,
+  "num_followers": 31603,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -215,8 +215,8 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245425,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "See You Again (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 229525,
       "name": "See You Again (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -315,8 +315,8 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
@@ -324,25 +324,9 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -359,6 +343,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Breakeven",
-      "url": "https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 206493,
       "name": "Love Me or Leave Me",
       "url": "https://open.spotify.com/track/1n73Qe6oEprLsUNHXET2pb"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Breakeven",
+      "url": "https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "hopeless fountain kingdom (Deluxe)",
-        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Fire On Fire (From \"Watership Down\")",
         "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 246735,
       "name": "Fire On Fire - From \"Watership Down\"",
       "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "hopeless fountain kingdom (Deluxe)",
+        "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/44n97yHySt0Z9rqPaXgjCK"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 224743,
       "name": "You Said You'd Grow Old With Me",
       "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3O566wiW97oPoP3QzSYF7P"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Fortitude",
+      "url": "https://open.spotify.com/track/7DVDhXLWkxtUVNHqXtJEpb"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0IHMJOuhVv3YyFScmeX6RM"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 220264,
       "name": "Blue ft. Berre",
       "url": "https://open.spotify.com/track/6W851KE7s5gwJvEk8L9h2q"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3O566wiW97oPoP3QzSYF7P"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Fortitude",
-      "url": "https://open.spotify.com/track/7DVDhXLWkxtUVNHqXtJEpb"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -2495,6 +2495,22 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
+        "name": "One Call Away (Acoustic)",
+        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
         "name": "Nothing Really Matters",
         "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
       },
@@ -2511,22 +2527,6 @@
     {
       "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "All the Little Lights",
-        "url": "https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
       },
@@ -2539,6 +2539,22 @@
       "duration_ms": 285040,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "All the Little Lights",
+        "url": "https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I"
     },
     {
       "added_at": "2024-05-30 22:00:00",
@@ -2655,22 +2671,6 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "One Call Away (Acoustic)",
-        "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
     },
     {
       "added_at": "2024-05-30 22:00:00",

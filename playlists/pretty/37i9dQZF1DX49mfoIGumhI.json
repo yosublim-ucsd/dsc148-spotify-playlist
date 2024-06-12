@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 204313,
+  "num_followers": 204395,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Solo Salsa",
-        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 290742,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Mas Grande Que Nunca",
         "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 281186,
       "name": "Dese\u00e1ndote",
       "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
+        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
-        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+        "name": "Solo Salsa",
+        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
         }
       ],
-      "duration_ms": 290453,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
+      "duration_ms": 290742,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
       "artists": [
         {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 336160,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+      "duration_ms": 336160,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
     },
     {
       "added_at": "2022-12-30 20:18:36",

@@ -5279,6 +5279,28 @@
     },
     {
       "album": {
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198352,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
+    },
+    {
+      "album": {
         "name": "Like a Genie",
         "url": "https://open.spotify.com/album/6CPyP019sUyscChGc4HUed"
       },

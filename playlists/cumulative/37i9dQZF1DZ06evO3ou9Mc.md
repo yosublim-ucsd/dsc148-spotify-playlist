@@ -2,7 +2,7 @@
 
 ### [This Is The Offspring](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ou9Mc)
 
-> This Is The Offspring\. Los temas esenciales, todos en una lista.
+> This is The Offspring\. The essential tracks, all in one playlist.
 
 67 songs - 3 hr 35 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [\(Can't Get My\) Head Around You](https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 2:14 | 2022-09-16 |  |
 | [All Along](https://open.spotify.com/track/5nAQcpqxbKNicsAlEbX7ro) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 1:38 | 2024-05-11 | 2024-06-07 |
-| [All I Want](https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 1:54 | 2022-09-16 | 2024-06-11 |
+| [All I Want](https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 1:54 | 2022-09-16 |  |
 | [Americana](https://open.spotify.com/track/0CUYFHDVPANZRwa2SQsoWs) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:15 | 2022-09-16 |  |
 | [Army Of One](https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:11 | 2022-09-16 |  |
 | [Bad Habit](https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:43 | 2022-09-16 |  |
@@ -49,12 +49,12 @@
 | [Nothingtown](https://open.spotify.com/track/0KKWophXFSiaZr62j7lQp1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:29 | 2024-06-07 | 2024-06-09 |
 | [One Fine Day](https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 2:45 | 2022-09-16 |  |
 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 | 2022-09-16 |  |
-| [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 | 2022-09-16 |  |
+| [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 | 2022-09-16 | 2024-06-12 |
 | [Race Against Myself](https://open.spotify.com/track/1ZoTvDjwvmXDOQ3B2g5nDx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:32 | 2022-09-16 | 2022-10-27 |
 | [Secrets From The Underground](https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 3:09 | 2022-09-16 |  |
 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 | 2022-09-16 |  |
 | [Session \- 2008 Remaster](https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition \(2008 Remaster\)](https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF) | 2:32 | 2022-10-12 |  |
-| [She's Got Issues](https://open.spotify.com/track/2uUqUZtmUHMymhrW9c4gl9) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:48 | 2024-04-30 | 2024-06-11 |
+| [She's Got Issues](https://open.spotify.com/track/2uUqUZtmUHMymhrW9c4gl9) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:48 | 2024-04-30 |  |
 | [she's got issues \- lofi](https://open.spotify.com/track/5fxZUjE2FwWMyOvCPEcphq) | [lonelyboy](https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [americana, but lofi](https://open.spotify.com/album/5p4J2BquvG7uey5A8Xt7mS) | 2:05 | 2023-09-25 | 2023-11-11 |
 | [Slim Pickens Does The Right Thing And Rides The Bomb To Hell](https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:36 | 2022-09-16 |  |
 | [Spare Me The Details](https://open.spotify.com/track/2mZ2h6VPJK2Xf2Nkik5r65) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:24 | 2022-09-16 |  |
@@ -71,7 +71,7 @@
 | [Walla Walla](https://open.spotify.com/track/4Kk6O5Q7UAgxP0QwyES72F) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:57 | 2024-05-11 | 2024-06-07 |
 | [Want You Bad](https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:22 | 2022-09-16 |  |
 | [Way Down The Line](https://open.spotify.com/track/6hyZliAlUzUmU3sAeWLDwp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:36 | 2024-04-26 |  |
-| [We Never Have Sex Anymore](https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:30 | 2022-09-16 |  |
+| [We Never Have Sex Anymore](https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:30 | 2022-09-16 | 2024-06-12 |
 | [What Happened to You?](https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 2:12 | 2022-09-16 |  |
 | [Why Don't You Get A Job](https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:52 | 2022-09-16 |  |
 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 | 2022-09-16 |  |

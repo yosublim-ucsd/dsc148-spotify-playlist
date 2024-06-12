@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,728 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,758 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 11 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 |
 | 12 | [Pines and Cedars](https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Pines and Cedars](https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA) | 2:30 |
 | 13 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
-| 14 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
-| 15 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
+| 14 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
+| 15 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
 | 16 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 17 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
 | 18 | [Shizukana](https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0) | [Isshi Matsuriza](https://open.spotify.com/artist/3II88PGmCu7WfT5ni8F5fi) | [Shizukana](https://open.spotify.com/album/74x8LKWeBPXDJxB0IDlCep) | 2:11 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 29 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
 | 30 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 31 | [Adoration](https://open.spotify.com/track/14wPl9Hv5LFqZZdz2AbwRL) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Adoration](https://open.spotify.com/album/495Axa6G5QO6M0NjP0zLD2) | 2:37 |
-| 32 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 |
-| 33 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
-| 34 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
-| 35 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 |
-| 36 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 |
-| 37 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
+| 32 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
+| 33 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
+| 34 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 |
+| 35 | [Slow Movements](https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Slow Movements](https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX) | 2:53 |
+| 36 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
+| 37 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 |
 | 38 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 |
 | 39 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 |
 | 40 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |

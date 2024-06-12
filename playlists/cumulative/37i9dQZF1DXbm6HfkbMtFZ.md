@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-568 songs - 1 day 10 hr 5 min
+569 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Chess \- Opium Factory Remix](https://open.spotify.com/track/3NZEdsk7NgbwTpIVmwNdvb) | [Joon Moon](https://open.spotify.com/artist/0SYUPmAqWcyik557LEq2Z0) | [Chess EP](https://open.spotify.com/album/3mHiKTsOCWP6lOmYF6fzQH) | 3:03 | 2021-12-16 | 2022-06-24 |
 | [Circles](https://open.spotify.com/track/6ZoXt2on0ub2ORSTWnJCjs) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:18 | 2021-12-16 | 2022-06-28 |
 | [Circles](https://open.spotify.com/track/59FqreVbI6rLyFaxIUnAEg) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:18 | 2022-09-26 | 2024-04-19 |
+| [Clara Clairvoyant](https://open.spotify.com/track/6zxLYIQWWvfyz6sYEOzSzf) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Open Road](https://open.spotify.com/album/4qA2vh48jfsWeTLxwszs00) | 2:49 | 2024-05-20 |  |
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2021-12-16 | 2023-02-14 |
 | [Come On In](https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:38 | 2022-07-26 | 2024-04-19 |
@@ -351,7 +352,7 @@
 | [Obaa Y Ewa](https://open.spotify.com/track/40DTvPYNew0qRoyR02Q4Gk) | [Pa Joe](https://open.spotify.com/artist/0iS7PY13GGEjJ2kJi2oABn), [Donne Robert](https://open.spotify.com/artist/0qE1CyKMJ640Iih6q0yUYN), [Alpha Yaya Diallo](https://open.spotify.com/artist/3nuijO3a8pSxPkxeW50cf0), [Madagascar Slim](https://open.spotify.com/artist/47zKci8p5iqybZqG8zsPFT), [Mighty Popo](https://open.spotify.com/artist/7dv44sJXfXnSTMHWklWaNQ), [Kofi Ackah](https://open.spotify.com/artist/6IJp6kPpIT1x7TrzUKAONk), [Theo Yaa Boakye](https://open.spotify.com/artist/4bgUd8x4yVnGVPWgsZApQ8) | [African Guitar Summit](https://open.spotify.com/album/6qNVBhCor4iqR6MJDE5nSv) | 4:43 | 2021-12-16 | 2022-07-29 |
 | [Obvious Guy](https://open.spotify.com/track/0LZbOlYdwrFbe0unSOBkVX) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:21 | 2022-10-14 | 2024-04-11 |
 | [Obvious Guy](https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:21 | 2022-03-30 | 2022-10-13 |
-| [Ocean Blue](https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH) | [Moniker](https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW) | [Hunt for the Wilderpeople \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg) | 2:25 | 2024-04-10 |  |
+| [Ocean Blue](https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH) | [Moniker](https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW) | [Hunt for the Wilderpeople \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg) | 2:25 | 2024-04-10 | 2024-06-12 |
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-07-25 | 2023-09-20 |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-26 | 2023-07-28 |
 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 | 2023-12-21 | 2024-04-19 |

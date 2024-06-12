@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,498 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,504 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

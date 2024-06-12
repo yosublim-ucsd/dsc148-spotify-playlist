@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 154302,
+  "num_followers": 154331,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
+        "name": "Rachael & Vilray",
+        "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 175071,
+      "name": "Do Friends Fall in Love?",
+      "url": "https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
         "name": "Sleeping Satellite",
         "url": "https://open.spotify.com/album/57aN9GJYwKxpSe0bJDTT2G"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 159497,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/6mqDkgdHcTSkUujnJZtFnJ"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
-        "name": "Rachael & Vilray",
-        "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 175071,
-      "name": "Do Friends Fall in Love?",
-      "url": "https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
+        "name": "The Composers' Voice: Celebrating Australian Women Composers",
+        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
+      },
+      "artists": [
+        {
+          "name": "Elly Hoyt",
+          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 226389,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
-        "name": "The Composers' Voice: Celebrating Australian Women Composers",
-        "url": "https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y"
-      },
-      "artists": [
-        {
-          "name": "Elly Hoyt",
-          "url": "https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
         "name": "No Meanness",
         "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 238524,
       "name": "No Meanness",
       "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+      },
+      "artists": [
+        {
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+        }
+      ],
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
         "name": "Song Like Ours",
         "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 298549,
       "name": "Song Like Ours",
       "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "Sunshine & Lullaby",
-        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
-      },
-      "artists": [
-        {
-          "name": "Matthew Hermosura",
-          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Sunshine & Lullaby",
-      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
         "name": "Day by Day",
         "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 394997,
       "name": "Cup of Tea",
       "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
+        "name": "Sunshine & Lullaby",
+        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hermosura",
+          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Sunshine & Lullaby",
+      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "Sugilite",
-        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Newhall",
-          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
-        }
-      ],
-      "duration_ms": 278961,
-      "name": "Sugilite",
-      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
         "name": "Let's Get Lost",
         "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
       },
@@ -1211,18 +1195,38 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+        "name": "Sugilite",
+        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
       "artists": [
         {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+          "name": "Jeanne Newhall",
+          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
         }
       ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
+      "duration_ms": 278961,
+      "name": "Sugilite",
+      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
+        "name": "Baby, It's Cold Outside",
+        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
+      },
+      "artists": [
+        {
+          "name": "JP Maurice",
+          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
+        },
+        {
+          "name": "Pyper Geddes",
+          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
+        }
+      ],
+      "duration_ms": 188273,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "Baby, It's Cold Outside",
-        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
       },
       "artists": [
         {
-          "name": "JP Maurice",
-          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
-        },
-        {
-          "name": "Pyper Geddes",
-          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
         }
       ],
-      "duration_ms": 188273,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 311002,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
         "name": "Snowflakes",
         "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 224400,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 311002,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
     },
     {
       "added_at": "2024-05-30 06:12:21",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-30 06:12:21",
       "album": {
-        "name": "Sleepy Time",
-        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 158641,
-      "name": "Sleepy Time",
-      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
-    },
-    {
-      "added_at": "2024-05-30 06:12:21",
-      "album": {
         "name": "Beautiful Way",
         "url": "https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 282800,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"
+    },
+    {
+      "added_at": "2024-05-30 06:12:21",
+      "album": {
+        "name": "Sleepy Time",
+        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 158641,
+      "name": "Sleepy Time",
+      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
     },
     {
       "added_at": "2024-05-30 06:12:21",

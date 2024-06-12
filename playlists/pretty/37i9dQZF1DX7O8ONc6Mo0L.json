@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Ton Carfi",
-  "num_followers": 300708,
+  "num_followers": 300776,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
         "name": "T\u00e1 Tudo Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 242963,
       "name": "T\u00e1 Tudo Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Estou Com Voc\u00ea - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 236013,
       "name": "Meu Barquinho",
       "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
+        "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Estou Com Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
-        "name": "Vendavais (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Vendavais - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
         "name": "Som das \u00c1guas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 225840,
       "name": "Som das \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
+        "name": "Vendavais (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Vendavais - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
     },
     {
       "added_at": "2024-04-26 03:41:46",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-04-26 03:41:46",
       "album": {
+        "name": "Instrumental Acoustic Worship II",
+        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Cacilias",
+          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
+        }
+      ],
+      "duration_ms": 331544,
+      "name": "Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
+    },
+    {
+      "added_at": "2024-04-26 03:41:46",
+      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
-    },
-    {
-      "added_at": "2024-04-26 03:41:46",
-      "album": {
-        "name": "Instrumental Acoustic Worship II",
-        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Cacilias",
-          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
-        }
-      ],
-      "duration_ms": 331544,
-      "name": "Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
     },
     {
       "added_at": "2024-04-26 03:41:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,374 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,436 likes - 75 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 36 | [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Wisdom Through Music](https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme) | 5:18 |
 | 37 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
 | 38 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
-| 39 | [Flowers](https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Flowers](https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks) | 8:52 |
-| 40 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
+| 39 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
+| 40 | [Flowers](https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Flowers](https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks) | 8:52 |
 | 41 | [Fazon](https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0) | [Sopwith Camel](https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf) | [The Miraculous Hump Returns From The Moon](https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ) | 5:14 |
 | 42 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
 | 43 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 56 | [The Limit](https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:21 |
 | 57 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 |
 | 58 | [Gated Area](https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 3:48 |
-| 59 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
-| 60 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
+| 59 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
+| 60 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
 | 61 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
 | 62 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
 | 63 | [I Love You](https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY) | [Karriem](https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d) | [I Love You](https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN) | 6:55 |

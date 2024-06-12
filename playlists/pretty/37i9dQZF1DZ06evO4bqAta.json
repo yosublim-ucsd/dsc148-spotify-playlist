@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Dylan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 515681,
+  "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
+  "num_followers": 515737,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmTwgAAAAADf/zR/fEyIHA3gaScKcVep",
+  "snapshot_id": "ZmZCAAAAAADzmeFVjxnfqIijP8XyJaPa",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 149880,
       "name": "Knockin' On Heaven's Door",
       "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 107226,
+      "name": "Oxford Town",
+      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
       },
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 157933,
-      "name": "One Too Many Mornings",
-      "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 171106,
-      "name": "Love Minus Zero",
-      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+      "duration_ms": 157933,
+      "name": "One Too Many Mornings",
+      "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 418293,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l"
+      "duration_ms": 161466,
+      "name": "Corrina, Corrina",
+      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
     }
   ],
   "unique_name": "This Is Bob Dylan",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Aitch, Luciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,736 likes - 96 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,925 likes - 96 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
 | 2 | [Beifahrer](https://open.spotify.com/track/5sxiqHHGSVjmeg5SrLZcKA) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Beifahrer](https://open.spotify.com/album/6RN9pJoOiIGdDMnO1Nt1Us) | 3:04 |
-| 3 | [Man In Finance](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
+| 3 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 |
 | 4 | [Florenz](https://open.spotify.com/track/74vE9sxMnFuxzp4uDkrwKW) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Florenz](https://open.spotify.com/album/4QzKGQFEbtq1cSeluRu2or) | 2:32 |
 | 5 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 6 | [Beautiful Reason](https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Beautiful Reason](https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl) | 3:03 |

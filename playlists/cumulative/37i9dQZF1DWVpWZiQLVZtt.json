@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
+    },
+    {
+      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
       },
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-12",
       "duration_ms": 226330,
       "name": "Mu\u00f1ecos de Papel",
       "url": "https://open.spotify.com/track/1OeN1DxQCgN4aXzuDur3Jk"

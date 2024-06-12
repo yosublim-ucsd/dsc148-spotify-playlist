@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGErAqqJ96kpRvVIbqpyigno8n+OEc",
+  "snapshot_id": "AAAGGeGsDtD3yKij2/c7x23UXLFSvvLQ",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -6757,22 +6757,6 @@
       "url": "https://open.spotify.com/track/6arK7mjjvqG3cVLJrYVYYW"
     },
     {
-      "added_at": "2024-02-15 05:45:17",
-      "album": {
-        "name": "Rebecca Black Was Here",
-        "url": "https://open.spotify.com/album/6vXI5FEqyxKPD2AFJd6rkC"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 170886,
-      "name": "Better in My Memory",
-      "url": "https://open.spotify.com/track/0eWCi968jvfFZiLSMiOeFD"
-    },
-    {
       "added_at": "2024-02-15 05:59:47",
       "album": {
         "name": "Gag Order",
@@ -8261,22 +8245,6 @@
       "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
     },
     {
-      "added_at": "2024-06-08 16:52:13",
-      "album": {
-        "name": "Fantasy Black Channel",
-        "url": "https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi"
-      },
-      "artists": [
-        {
-          "name": "Late of the Pier",
-          "url": "https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b"
-        }
-      ],
-      "duration_ms": 75213,
-      "name": "Hot Tent Blues",
-      "url": "https://open.spotify.com/track/71Vlx8pCp21bmgNx9PZsx5"
-    },
-    {
       "added_at": "2024-06-08 17:08:20",
       "album": {
         "name": "#RICHAXXHAITIAN",
@@ -8293,24 +8261,68 @@
       "url": "https://open.spotify.com/track/10t3LYApAgfZi8ok52rj4e"
     },
     {
-      "added_at": "2024-06-11 02:53:22",
+      "added_at": "2024-06-11 16:13:25",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        },
-        {
-          "name": "Isa Reyes",
-          "url": "https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1"
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
         }
       ],
-      "duration_ms": 196389,
-      "name": "GET OFF UR PHONE",
-      "url": "https://open.spotify.com/track/4Y0dZtNmCOjaj5FaU3RQaY"
+      "duration_ms": 238490,
+      "name": "It's A Passage",
+      "url": "https://open.spotify.com/track/2AEfMWp1FGvgjASlFPqu8K"
+    },
+    {
+      "added_at": "2024-06-11 16:24:45",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/5TzJP7CDqmtLCj7YcHPEaL"
+      },
+      "artists": [
+        {
+          "name": "Orchards",
+          "url": "https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "Leave Us Here (We're Fine)",
+      "url": "https://open.spotify.com/track/71OhvvtYoZDKkvVT6fUUur"
+    },
+    {
+      "added_at": "2024-06-11 19:36:41",
+      "album": {
+        "name": "What an enormous room",
+        "url": "https://open.spotify.com/album/2NdMVSjrgxqhELnvW1Odje"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 207494,
+      "name": "Happy man's shoes",
+      "url": "https://open.spotify.com/track/1PTicAZhKJ9K9PspzIDHz2"
+    },
+    {
+      "added_at": "2024-06-12 01:00:05",
+      "album": {
+        "name": "Vroom Vroom EP",
+        "url": "https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     }
   ],
   "unique_name": "Zacklog",

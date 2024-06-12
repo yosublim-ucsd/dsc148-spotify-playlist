@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 ### [This Is Simon & Garfunkel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO48MYmY)
 
-> This is Simon & Garfunkel\. The essential tracks, all in one playlist.
+> This Is Simon & Garfunkel\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,415 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,463 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 43 | [Hey, Schoolgirl \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 0:45 |
 | 44 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 
-Snapshot ID: `ZmTwgAAAAABx5lauflfrzRgC5lgJU6Ed`
+Snapshot ID: `ZmZCAAAAAACKmRCvRJcpmfcTAXSqGuNo`

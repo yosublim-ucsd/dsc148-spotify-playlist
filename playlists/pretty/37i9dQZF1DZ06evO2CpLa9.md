@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,135 likes - 52 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,213 likes - 52 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 43 | [Nunca Imaginé](https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Nunca Imaginé](https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf) | 2:48 |
 | 44 | [Un Día Todo Se Termina \(Remix\)](https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 4:11 |
 | 45 | [No Me Arrepiento \(feat\. Gera MX, Neto Peña, Santa Fe Klan\)](https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 4:28 |
-| 46 | [R8](https://open.spotify.com/track/3a7qCKAsriTv30qXsh2zV9) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:13 |
-| 47 | [Mi Religión](https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
+| 46 | [Mi Religión](https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
+| 47 | [R8](https://open.spotify.com/track/3a7qCKAsriTv30qXsh2zV9) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:13 |
 | 48 | [Malvivientes](https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Karlos Loayzat](https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU) | [Malvivientes](https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI) | 4:54 |
 | 49 | [Diente Por Diente](https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Diente Por Diente](https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu) | 2:18 |
 | 50 | [Maldita Tentación](https://open.spotify.com/track/3SC3Wfipjci9gEMFCZErgw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [RAZZ](https://open.spotify.com/artist/5rRsKY7EykyWCpURh3a64G), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Maldita Tentación](https://open.spotify.com/album/0w9a7qRyEYARR98kwiv1wl) | 4:17 |
 | 51 | [Familia](https://open.spotify.com/track/7nlwjDDc7jNvb9sy8EcQCE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
 | 52 | [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 |
 
-Snapshot ID: `ZmTwgAAAAAD29taC494j7l62W97F0kCP`
+Snapshot ID: `ZmZCAAAAAABaMW69m3xfgfFMS6MS5XIx`

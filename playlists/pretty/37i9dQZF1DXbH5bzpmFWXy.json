@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme Malafe en portada.",
-  "num_followers": 168391,
+  "num_followers": 168412,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "R\u00e1pido Soy",
-        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 114125,
-      "name": "R\u00e1pido Soy",
-      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "R\u00e1pido Soy",
+        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 114125,
+      "name": "R\u00e1pido Soy",
+      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 211352,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "ICE CREAM",
-        "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
-      },
-      "artists": [
-        {
-          "name": "Los mismos De La M",
-          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "ICE CREAM",
-      "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "San Pedro",
         "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
       },
@@ -1007,6 +987,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "ICE CREAM",
+        "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
+      },
+      "artists": [
+        {
+          "name": "Los mismos De La M",
+          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "ICE CREAM",
+      "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1019,26 +1019,6 @@
       "duration_ms": 168210,
       "name": "YW&F - Versi\u00f3n Reggaeton",
       "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Capuchas",
-        "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Capuchas",
-      "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1059,6 +1039,26 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Capuchas",
+        "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Capuchas",
+      "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Un Bezito",
         "url": "https://open.spotify.com/album/73ak0lB4a1hE6glj88jp9b"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 156734,
       "name": "Un Bezito",
       "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1691,6 +1691,30 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "RBS",
+        "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 173934,
+      "name": "RBS",
+      "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "CUMBIA 85",
         "url": "https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D"
       },
@@ -1727,30 +1751,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "RBS",
-        "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 173934,
-      "name": "RBS",
-      "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "El Morrillo",
         "url": "https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd"
       },
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Porte Malandro Fres\u00f3n",
-        "url": "https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 149761,
-      "name": "Porte Malandro Fres\u00f3n",
-      "url": "https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "La Caravana",
         "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 143250,
       "name": "La Caravana",
       "url": "https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Porte Malandro Fres\u00f3n",
+        "url": "https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 149761,
+      "name": "Porte Malandro Fres\u00f3n",
+      "url": "https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ"
     },
     {
       "added_at": "2024-06-07 06:00:00",
