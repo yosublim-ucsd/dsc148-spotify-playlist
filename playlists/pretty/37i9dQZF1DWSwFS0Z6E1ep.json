@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 257716,
+  "num_followers": 257759,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -235,8 +235,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Come Fly With Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -403,8 +403,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 134640,
-      "name": "Just In Time - Remastered 1998",
-      "url": "https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockabilly 50",
         "url": "https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 117111,
       "name": "Hey Baby Doll",
       "url": "https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 134640,
+      "name": "Just In Time - Remastered 1998",
+      "url": "https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        }
+      ],
+      "duration_ms": 112561,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Rockin' with My Baby / It's Me Baby",
         "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 141785,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bush",
-          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
-        }
-      ],
-      "duration_ms": 112561,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Little Richard",
-        "url": "https://open.spotify.com/album/7jstlbnGMRZ2esWVqVGfoH"
+        "name": "Essential Sun Rockabillies Vol.1",
+        "url": "https://open.spotify.com/album/3olS3X2vcYccsIQMfJvXHJ"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
         }
       ],
-      "duration_ms": 137066,
-      "name": "Keep A Knockin",
-      "url": "https://open.spotify.com/track/5n5h1rwx8arEaRureuyNeS"
+      "duration_ms": 153391,
+      "name": "Red Hot - Original",
+      "url": "https://open.spotify.com/track/5nfPJteJ9PWGmD3j6iPH7s"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2055,22 +2055,6 @@
       "duration_ms": 144600,
       "name": "Roll Over Beethoven",
       "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Essential Sun Rockabillies Vol.1",
-        "url": "https://open.spotify.com/album/3olS3X2vcYccsIQMfJvXHJ"
-      },
-      "artists": [
-        {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "Red Hot - Original",
-      "url": "https://open.spotify.com/track/5nfPJteJ9PWGmD3j6iPH7s"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2119,6 +2103,22 @@
       "duration_ms": 161958,
       "name": "Papa Loves Mambo",
       "url": "https://open.spotify.com/track/4wWsQBbp4C6wVxp5zsc55C"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Essential Little Richard (Remastered)",
+        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 142400,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2187,8 +2187,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Little Richard (Remastered)",
-        "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7jstlbnGMRZ2esWVqVGfoH"
       },
       "artists": [
         {
@@ -2196,9 +2196,9 @@
           "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 142400,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
+      "duration_ms": 137066,
+      "name": "Keep A Knockin",
+      "url": "https://open.spotify.com/track/5n5h1rwx8arEaRureuyNeS"
     }
   ],
   "unique_name": "50s Party",

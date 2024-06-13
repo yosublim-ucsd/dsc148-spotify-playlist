@@ -2,7 +2,7 @@
 
 ### [Country Top 50](https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y)
 
-> Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
+> Country music's 50 most played songs in the world\. Updated weekly\. Cover: Post Malone and Morgan Wallen
 
 256 songs - 14 hr 17 min
 

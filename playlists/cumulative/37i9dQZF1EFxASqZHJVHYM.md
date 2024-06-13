@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 27 min
+118 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Middle of the Ocean](https://open.spotify.com/track/410TZrK18uRjtsTunG14cl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 5:56 | 2024-01-29 |  |
 | [Miseducation \(feat\. Lil Wayne\)](https://open.spotify.com/track/26jblnixKDcidyOQV2UYi4) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Miseducation \(feat\. Lil Wayne\)](https://open.spotify.com/album/7LkyxPOg9v13qCJMAyaW7o) | 3:07 | 2024-01-29 |  |
 | [Missing My Idols](https://open.spotify.com/track/51dPQyVG0gSxrgybhR7Pxi) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:26 | 2024-01-29 |  |
-| [Movin' Around \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/2YzvqgbG4VZpmoGZpBTQOF) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/79yQxmlPsMM41NH3AiVSNK) | 4:18 | 2024-01-29 |  |
+| [Movin' Around](https://open.spotify.com/track/57Oj1BIV9A36qCEdKHAxiA) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/5sU40ix3D2JI8ERh4L0nIF) | 4:18 | 2024-06-12 |  |
+| [Movin' Around \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/2YzvqgbG4VZpmoGZpBTQOF) | [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [No Dope On Sundays](https://open.spotify.com/album/79yQxmlPsMM41NH3AiVSNK) | 4:18 | 2024-01-29 | 2024-06-13 |
 | [NEW LIFE](https://open.spotify.com/track/2q1UohI917QXdb0YiLWHzy) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 2:35 | 2024-01-29 |  |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2024-01-29 |  |
 | [NO RAP KAP \(feat\. Trippie Redd\)](https://open.spotify.com/track/2sIottAN4ZxxxlaZAh0oxR) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [NO RAP KAP \(feat\. Trippie Redd\)](https://open.spotify.com/album/1FCEeTgrrUizTXaNhpHNuC) | 3:35 | 2024-01-29 |  |

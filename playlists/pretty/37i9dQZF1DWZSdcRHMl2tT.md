@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,672 likes - 308 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,835 likes - 308 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 104 | [Barcelona](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR) | [Salavant](https://open.spotify.com/artist/4bPwvN46TZwzf5G00otLbO) | [Barcelona](https://open.spotify.com/album/78AcTNepM0678k7YasmNpe) | 2:23 |
 | 105 | [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 |
 | 106 | [Day in the Sun](https://open.spotify.com/track/1bfxkN23k0KStToEYlTRNC) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Day in the Sun](https://open.spotify.com/album/0E1uImHFbIBHhGIaDGGO9g) | 2:53 |
-| 107 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 |
+| 107 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/72XZynqAgAS9w2ZCdvrNYz) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 |
 | 108 | [Generate!](https://open.spotify.com/track/6XAT7NrzHuFjs9laJj5E1u) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Generate!](https://open.spotify.com/album/4hhL13mgv1K8L1ApSndOIa) | 2:37 |
 | 109 | [SkyReach](https://open.spotify.com/track/2ULxlHALf8NqrJDEqtX22f) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [SkyReach](https://open.spotify.com/album/4OK9S0Bz51bNBUnkbFuDmW) | 2:54 |
 | 110 | [Why So Gloomy](https://open.spotify.com/track/7lZQllW8bnGoVK4Fvy10lo) | [Lofive](https://open.spotify.com/artist/2MIjUuqUlQPxk995OG41Tq) | [Why So Gloomy](https://open.spotify.com/album/7ARy3F1vjtuCf4oBB14ZKA) | 2:29 |

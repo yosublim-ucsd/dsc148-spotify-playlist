@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,711 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,724 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 70 | [Será](https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Será](https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f) | 2:37 |
 | 71 | [Qué Pensaste](https://open.spotify.com/track/1qde1NqHQno17MdNziaYmN) | [Grupo Dominio](https://open.spotify.com/artist/3AIAbiLXeCSSSqYqo8zMAi), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Qué Pensaste](https://open.spotify.com/album/1375E6oaMeXeSJM7Y0zWes) | 3:20 |
 | 72 | [Iguales](https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Iguales](https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw) | 2:19 |
-| 73 | [Cumbia Del Clavi](https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [El Clavijas](https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ) | [Cumbia Del Clavi](https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY) | 2:49 |
-| 74 | [El Mariachi Lloró](https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Mariachi Lloró](https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM) | 2:57 |
+| 73 | [El Mariachi Lloró](https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Mariachi Lloró](https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM) | 2:57 |
+| 74 | [Cumbia Del Clavi](https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [El Clavijas](https://open.spotify.com/artist/10t2ZueXTVRNzyjd7tOXTQ) | [Cumbia Del Clavi](https://open.spotify.com/album/4ICPECk52pvNK0J0nvVPYY) | 2:49 |
 | 75 | [LADRONA \- con Mario Luis](https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [LADRONA \- con Mario Luis](https://open.spotify.com/album/4YosCnSnhwNbaHthn1bk93) | 2:57 |
 | 76 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 |
 | 77 | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby) | [Fany y sus Tropicales](https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393) | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh) | 3:11 |

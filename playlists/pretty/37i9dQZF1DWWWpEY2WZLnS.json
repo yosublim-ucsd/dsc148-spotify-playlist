@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 490250,
+  "num_followers": 491001,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmckWAAAAABxKUKrmefHDlbC+tHcWjGY",
+  "snapshot_id": "Zmn4CwAAAAAHeibqNHfAR6uAZhfzzgTP",
   "tracks": [
     {
       "added_at": "2024-04-11 23:04:36",
@@ -169,34 +169,10 @@
       "url": "https://open.spotify.com/track/3a5oq7iRY1kLKTwojU7Qfa"
     },
     {
-      "added_at": "2024-04-04 22:55:58",
+      "added_at": "2024-06-12 19:33:31",
       "album": {
-        "name": "Fulete",
-        "url": "https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Fulete",
-      "url": "https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Onana",
-        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+        "name": "Dicelo Si Tu la Vez",
+        "url": "https://open.spotify.com/album/1Uv7JCmOkNI7DgfAPHarzj"
       },
       "artists": [
         {
@@ -204,25 +180,25 @@
           "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Onana",
-      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+      "duration_ms": 125624,
+      "name": "Dicelo Si Tu la Vez",
+      "url": "https://open.spotify.com/track/5HAZBGTTjn6RrnM7lN50vd"
     },
     {
-      "added_at": "2024-04-04 22:53:18",
+      "added_at": "2024-02-01 23:43:50",
       "album": {
-        "name": "Tetere",
-        "url": "https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m"
+        "name": "Frename En El Party Sin Panty",
+        "url": "https://open.spotify.com/album/4CwK9U1R8rBwNPavmuzbLY"
       },
       "artists": [
         {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
         }
       ],
-      "duration_ms": 117120,
-      "name": "Tetere",
-      "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
+      "duration_ms": 112682,
+      "name": "Frename En El Party Sin Panty",
+      "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
     },
     {
       "added_at": "2024-05-29 17:43:56",
@@ -245,6 +221,22 @@
       "url": "https://open.spotify.com/track/17xJgs1Qeg1u5VnpJbNq3M"
     },
     {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+    },
+    {
       "added_at": "2024-05-23 20:07:45",
       "album": {
         "name": "Ma Buena",
@@ -265,6 +257,22 @@
       "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
     },
     {
+      "added_at": "2024-04-04 22:53:18",
+      "album": {
+        "name": "Tetere",
+        "url": "https://open.spotify.com/album/3eE9ricKdDv1I7kDK9Kn5m"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "Tetere",
+      "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
+    },
+    {
       "added_at": "2024-01-18 22:36:41",
       "album": {
         "name": "Pitone",
@@ -279,22 +287,6 @@
       "duration_ms": 124499,
       "name": "Pitone",
       "url": "https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW"
-    },
-    {
-      "added_at": "2024-02-01 23:43:50",
-      "album": {
-        "name": "Frename En El Party Sin Panty",
-        "url": "https://open.spotify.com/album/4CwK9U1R8rBwNPavmuzbLY"
-      },
-      "artists": [
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 112682,
-      "name": "Frename En El Party Sin Panty",
-      "url": "https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni"
     },
     {
       "added_at": "2024-05-04 15:35:51",
@@ -335,6 +327,30 @@
       "duration_ms": 169660,
       "name": "Me Arregle - El loco",
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
+    },
+    {
+      "added_at": "2024-04-04 22:55:58",
+      "album": {
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/17AXAN9SJJEA0zsF2GPU1S"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/4L6EwdEcRJxqjWOhgtyopO"
     },
     {
       "added_at": "2024-05-23 20:07:45",
@@ -855,30 +871,6 @@
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Di Di Di",
-        "url": "https://open.spotify.com/album/15uTVBS0whFMY5nRZ3nS5d"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        },
-        {
-          "name": "Don Forty Five",
-          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 193639,
-      "name": "Di Di Di",
-      "url": "https://open.spotify.com/track/0rD5giObodw4ahrR9i4rpl"
     },
     {
       "added_at": "2023-10-13 04:00:00",

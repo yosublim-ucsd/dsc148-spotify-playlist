@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Angelina Mango
 
-433 songs - 20 hr 1 min
+434 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [MISS](https://open.spotify.com/track/3vlTKfJa18JHBlzrrERz4u) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [MISS](https://open.spotify.com/album/2qXQEILrMAiwH9IdcKJNCd) | 3:05 | 2023-05-18 | 2023-07-07 |
 | [mon amie freestyle](https://open.spotify.com/track/5mC23FcCHeUWjsARR60Jqb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [mon amie freestyle](https://open.spotify.com/album/7KmLYmRPkDkkRsK8llzJuE) | 2:37 | 2023-03-23 | 2023-07-07 |
 | [MOSTRO](https://open.spotify.com/track/2AzbPKN2Vf3CUukNZGnjYx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [MOSTRO](https://open.spotify.com/album/21aHeeZe4eCanYhoAPuiaX) | 2:55 | 2023-03-23 | 2023-04-28 |
+| [Musica Animale](https://open.spotify.com/track/6ELrB0W2OjbLGANsGU7gBn) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Musica Animale](https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ) | 3:02 | 2024-06-12 |  |
 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 | 2024-03-28 |  |
 | [NEVE SU MARTE \(feat\. Annalisa\)](https://open.spotify.com/track/3vMigJ03XjZTUMtrhDBIrK) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [FRAGILE](https://open.spotify.com/album/6W0JuhlBiFbVakn06IpC63) | 3:17 | 2023-03-23 | 2023-04-14 |
 | [niente](https://open.spotify.com/track/6DVMWxdestSTiCSI0Ejnbm) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [niente](https://open.spotify.com/album/31KUQDz09OrNeF5bW0MeSz) | 2:25 | 2023-09-28 | 2023-11-10 |

@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 132672,
       "name": "hannah montana",
       "url": "https://open.spotify.com/track/0qYvzxghGnQjaLmo64zxrR"
@@ -6088,6 +6088,24 @@
       "duration_ms": 148000,
       "name": "Un \u00c1ngel Se Apodero de Mi",
       "url": "https://open.spotify.com/track/5sd5uEfQFwRCt12oRXt2LQ"
+    },
+    {
+      "album": {
+        "name": "Una de Kanye",
+        "url": "https://open.spotify.com/album/2sxePUQCS9x9ai2IlNLUKV"
+      },
+      "artists": [
+        {
+          "name": "Marcos Naide",
+          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144904,
+      "name": "Una de Kanye",
+      "url": "https://open.spotify.com/track/11lOUlbdS0eksQpupq0VWw"
     },
     {
       "album": {

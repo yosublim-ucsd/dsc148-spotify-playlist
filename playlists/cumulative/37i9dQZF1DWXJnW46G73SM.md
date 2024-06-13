@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: محمد سعيد
 
-978 songs - 2 day 7 hr 18 min
+979 songs - 2 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [إستمارة 6](https://open.spotify.com/track/570rEFeCi8o1gfjJVmzlMD) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [إستمارة 6](https://open.spotify.com/album/52FCk5Px74jp8QVX3YjYCT) | 3:15 | 2022-07-30 | 2022-10-21 |
 | [إكشف](https://open.spotify.com/track/5VUx0VtxOY7NeM8j0WgBGN) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [إكشف](https://open.spotify.com/album/2XArlbaa3p0modU9dsoHYJ) | 3:32 | 2023-09-14 | 2023-12-30 |
 | [إنتي الحياه \- إيجار قديم](https://open.spotify.com/track/2P2jPhzQiHlm2yVg5E1RIw) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [إنتي الحياه \(إيجار قديم\)](https://open.spotify.com/album/5WQ92QnGxYMPfEoUM6zPx2) | 3:46 | 2022-12-15 | 2023-02-10 |
-| [ابن ابوه](https://open.spotify.com/track/3QBNk0pRaYpWpKdM6RKXaf) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [ابن ابوه](https://open.spotify.com/album/079BNFRCtr3nPhRQpiHqJl) | 3:45 | 2024-03-10 |  |
+| [ابن ابوه](https://open.spotify.com/track/3QBNk0pRaYpWpKdM6RKXaf) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [ابن ابوه](https://open.spotify.com/album/079BNFRCtr3nPhRQpiHqJl) | 3:45 | 2024-03-10 | 2024-06-13 |
 | [ابن امبارح](https://open.spotify.com/track/74zhameHOFlWAhXWTwp5GQ) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ابن امبارح](https://open.spotify.com/album/31igzNV5FN0huFzyxNNo1J) | 3:59 | 2024-02-01 | 2024-03-11 |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-10 |  |
 | [احسن حد](https://open.spotify.com/track/7vLDQJQ0YqbXrH35uR8Ozy) | [مشاعل بنت محمد](https://open.spotify.com/artist/5hMpabYClaGFv8u2O7Y1gK) | [احسن حد](https://open.spotify.com/album/5NsoLUMKvzQq1g67lv1p2O) | 3:41 | 2023-11-21 | 2024-01-18 |
@@ -953,6 +953,7 @@
 | [و كأنك سكر](https://open.spotify.com/track/15h5ScWGj3I5ug5IWTMvFc) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [و كأنك سكر](https://open.spotify.com/album/1GCEK4U0hPAG4QJi9Blq4z) | 3:48 | 2023-05-22 | 2023-07-13 |
 | [وأنا بتفرج](https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [وأنا بتفرج](https://open.spotify.com/album/3jc6omieErB61xPgF2FrrJ) | 4:06 | 2022-07-01 | 2022-09-24 |
 | [واحد بس](https://open.spotify.com/track/0BNmhMgicJEEbWXOi3JAES) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [واحد بس](https://open.spotify.com/album/2M4E9lvrpNSfmCgfVNpOC3) | 3:09 | 2023-08-30 | 2023-12-22 |
+| [واحدة بعد نص الليل \- من مسلسل دواعي السفر](https://open.spotify.com/track/4nozvYRQESQ0BS090Gjjd8) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Salma Elkashef](https://open.spotify.com/artist/2ORUmPVdZR9nbH5w4TukVM) | [دواعي السفر](https://open.spotify.com/album/3rnT11hLCkoyjhcPWRnDjn) | 2:40 | 2024-06-12 |  |
 | [واحشني نفسي \- تتر بدايه مسلسل جعفر العمده](https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [واحشني نفسي \(تتر بدايه مسلسل جعفر العمده\)](https://open.spotify.com/album/3NkID0eCtnmq4UIky0SfYe) | 3:51 | 2023-04-05 | 2023-05-19 |
 | [واديني اهو عايش في حالي \- بس بقيت عايش في حالي](https://open.spotify.com/track/79mIGuAMuhDsH0sXS7zIPo) | [Ahmed Mashal](https://open.spotify.com/artist/5fKTVxUJTVu6uYin0ppPdf) | [واديني اهو عايش في حالي \- بس بقيت عايش في حالي](https://open.spotify.com/album/4g64lnZRXEZYw3GoynEOfd) | 3:11 | 2024-06-06 |  |
 | [والله](https://open.spotify.com/track/1yIC2CxzGZzec1f9VCxEai) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [والله](https://open.spotify.com/album/4VXKepecSRxXQgWut9g2Rp) | 2:51 | 2024-04-24 |  |

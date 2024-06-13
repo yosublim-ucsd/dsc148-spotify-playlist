@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Leo
 
-123 songs - 7 hr 20 min
+124 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Nee Singam Dhan](https://open.spotify.com/track/0vua5LbAth2HzKqpbnVRZk) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Pathu Thala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6y3yImd357ZGmMfb0mb1ts) | 4:07 | 2023-05-08 |  |
 | [Neeye Oli](https://open.spotify.com/track/11qgUXxN2YEGNOfDDUOT2K) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Shan Vincent De Paul](https://open.spotify.com/artist/0pJlp3FfdJ2WRYmLsUc548) | [Sarpatta Parambarai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42NavG08x69GDTN5nnbovL) | 3:57 | 2021-11-15 | 2022-09-20 |
 | [Nenjame](https://open.spotify.com/track/6bUHZRZ4YpVxB1RWrPH5dh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Doctor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVOaTioI70p4A36YtSDbY) | 4:16 | 2021-11-15 | 2022-08-06 |
+| [Nenjin Ezhuth](https://open.spotify.com/track/7Et1EN5V7xAyPjYOk8nSh3) | [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Vidya Lakshmi G](https://open.spotify.com/artist/3lzErVdKehpglGTvEUwDH8) | [Nenjin Ezhuth](https://open.spotify.com/album/4gwvLFWCnLtWvGHpW5SUoV) | 3:49 | 2024-06-12 |  |
 | [Once Upon a Time](https://open.spotify.com/track/4wCy7erulqUfFQNVaZBD9b) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 2:23 | 2022-05-27 |  |
 | [Onnoda Nadandhaa](https://open.spotify.com/track/5ppk5XtvJJjkYYfmJrnPX9) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:15 | 2023-04-03 | 2023-04-19 |
 | [Oo Solriya Oo Oo Solriya](https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj) | [Pushpa \- The Rise](https://open.spotify.com/album/6mirm559XB8jiveF7ONuUx) | 3:43 | 2021-12-20 | 2024-06-12 |

@@ -1,15 +1,39 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 350786,
+  "num_followers": 350779,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lfu2mAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lf0IGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Toque Carinhoso",
+        "url": "https://open.spotify.com/album/7kuchmS0xo9mmBQ6aO4dS4"
+      },
+      "artists": [
+        {
+          "name": "Kempa",
+          "url": "https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP"
+        },
+        {
+          "name": "Jhony Carvalho",
+          "url": "https://open.spotify.com/artist/3klWRLFvprNcghYABkzIlY"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "duration_ms": 186994,
+      "name": "Toque Carinhoso",
+      "url": "https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Morena Tropicana (MTG)",
         "url": "https://open.spotify.com/album/0882bZ1EHZa1EXJT4VBrkY"
@@ -25,7 +49,7 @@
       "url": "https://open.spotify.com/track/6xCAXCTuUeY2nT0p9cAdvB"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
@@ -45,7 +69,7 @@
       "url": "https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Pira\u00e7\u00e3o 2.0",
         "url": "https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX"
@@ -61,7 +85,47 @@
       "url": "https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Ei Moto T\u00e1xi",
+        "url": "https://open.spotify.com/album/5QlKVH6TE9oXTQgM5XxfVF"
+      },
+      "artists": [
+        {
+          "name": "Mc Monik do pix",
+          "url": "https://open.spotify.com/artist/6DpNrfbj0tD4MQlCPipDaf"
+        },
+        {
+          "name": "DJ Fabricio Satisfaction",
+          "url": "https://open.spotify.com/artist/3vK8tLmV0wh0mo4O1BN2oI"
+        },
+        {
+          "name": "DJ Luan Indiscutivel",
+          "url": "https://open.spotify.com/artist/0ulHnN48lSv9jPnJp086uR"
+        }
+      ],
+      "duration_ms": 172895,
+      "name": "Ei Moto T\u00e1xi",
+      "url": "https://open.spotify.com/track/3maK7XfMybZF8gO2bltuDG"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+        "url": "https://open.spotify.com/album/7lxG16hpakQIeJJEuZxH3i"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        }
+      ],
+      "duration_ms": 117576,
+      "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+      "url": "https://open.spotify.com/track/13KLZ8VI9P7H7bxs0vtsXC"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Sonho Dela (Cowboy)",
         "url": "https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq"
@@ -85,67 +149,23 @@
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "MTG QUEM N\u00c3O QUER SOU EU",
-        "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
       },
       "artists": [
         {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Mc Leozin",
-          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 123692,
-      "name": "MTG QUEM N\u00c3O QUER SOU EU",
-      "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
-        "url": "https://open.spotify.com/album/7lxG16hpakQIeJJEuZxH3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        }
-      ],
-      "duration_ms": 117576,
-      "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
-      "url": "https://open.spotify.com/track/13KLZ8VI9P7H7bxs0vtsXC"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -161,27 +181,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Set The Tone (Guns & Roses)",
-        "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Te Maceto Depois do Baile",
         "url": "https://open.spotify.com/album/3S84WqT6S97NTnegU0gvtg"
@@ -209,47 +209,51 @@
       "url": "https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "Slide da Treme Mel\u00f3dica v2",
-        "url": "https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0"
+        "name": "MTG QUEM N\u00c3O QUER SOU EU",
+        "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
       "artists": [
         {
-          "name": "DJ FNK",
-          "url": "https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA"
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
         },
         {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
-      "duration_ms": 165107,
-      "name": "Slide da Treme Mel\u00f3dica v2",
-      "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
+      "duration_ms": 123692,
+      "name": "MTG QUEM N\u00c3O QUER SOU EU",
+      "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "Machuquei",
-        "url": "https://open.spotify.com/album/7jIx5u4CbPvoTVJSucx86K"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Mc guizinho niazi",
-          "url": "https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD"
-        },
-        {
-          "name": "Dj Luizinho MPC",
-          "url": "https://open.spotify.com/artist/7cwzNkrMN3oFVemvRcNQWW"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 187384,
-      "name": "Machuquei",
-      "url": "https://open.spotify.com/track/6GS4LfVknh458V4z6llLRa"
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -265,47 +269,7 @@
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Mtg Forr\u00f3 e Desmantelo",
-        "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
-      },
-      "artists": [
-        {
-          "name": "dj sv",
-          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
-        },
-        {
-          "name": "Doug Hits",
-          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
-        },
-        {
-          "name": "Manim Vaqueiro",
-          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Mtg Forr\u00f3 e Desmantelo",
-      "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -321,39 +285,7 @@
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "MEGA FUNK FAZ MACETE",
-        "url": "https://open.spotify.com/album/04dUdcmIYAHaMBwmOyr7z1"
-      },
-      "artists": [
-        {
-          "name": "TAIDigital",
-          "url": "https://open.spotify.com/artist/1rpIqBtHIGInNjPbRVha5x"
-        }
-      ],
-      "duration_ms": 238129,
-      "name": "MEGA FUNK FAZ MACETE",
-      "url": "https://open.spotify.com/track/7ECXBUFzjEn2sw3OKiKGIe"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
@@ -377,23 +309,23 @@
       "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "Ontem Eu Tinha Certeza (Hoje Eu Tenho Mais)",
-        "url": "https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo"
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
       "artists": [
         {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 155805,
-      "name": "to bem",
-      "url": "https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq"
+      "duration_ms": 164284,
+      "name": "Von dutch",
+      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -409,7 +341,263 @@
       "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Ontem Eu Tinha Certeza (Hoje Eu Tenho Mais)",
+        "url": "https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 155805,
+      "name": "to bem",
+      "url": "https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Mega Funk Faz Macete",
+        "url": "https://open.spotify.com/album/3iFkNCEW4SfoWqr2ETf4he"
+      },
+      "artists": [
+        {
+          "name": "TAIDigital",
+          "url": "https://open.spotify.com/artist/1rpIqBtHIGInNjPbRVha5x"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Mega Funk Faz Macete",
+      "url": "https://open.spotify.com/track/5YzDr5BIEDHfmY0XfGiTXn"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Tava na Paropeba Curtindo no Sapatinho - Tropa de Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/6bn7UL1uEWl9KK08YpDAtE"
+      },
+      "artists": [
+        {
+          "name": "MC NIQUE FXR",
+          "url": "https://open.spotify.com/artist/00fKIxv4l4SmNg5ZvPdrCB"
+        },
+        {
+          "name": "DJ PSICO DE CAXIAS",
+          "url": "https://open.spotify.com/artist/3LGIFvM03aaCTDFYelZT6a"
+        },
+        {
+          "name": "Dj Nariz 22",
+          "url": "https://open.spotify.com/artist/5fqlFVIYK9csUopLAbQVpA"
+        }
+      ],
+      "duration_ms": 137576,
+      "name": "Tava na Paropeba Curtindo no Sapatinho - Tropa de Cuiab\u00e1",
+      "url": "https://open.spotify.com/track/1N2n59kOBsk1tWFbIYKJwI"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Machuquei",
+        "url": "https://open.spotify.com/album/7jIx5u4CbPvoTVJSucx86K"
+      },
+      "artists": [
+        {
+          "name": "Mc guizinho niazi",
+          "url": "https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD"
+        },
+        {
+          "name": "Dj Luizinho MPC",
+          "url": "https://open.spotify.com/artist/7cwzNkrMN3oFVemvRcNQWW"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Machuquei",
+      "url": "https://open.spotify.com/track/6GS4LfVknh458V4z6llLRa"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Mtg Forr\u00f3 e Desmantelo",
+        "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
+      },
+      "artists": [
+        {
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        },
+        {
+          "name": "Manim Vaqueiro",
+          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Mtg Forr\u00f3 e Desmantelo",
+      "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Bonde das Oncinhas",
+        "url": "https://open.spotify.com/album/4VjMuQ9SnC2KC5oPsHHCse"
+      },
+      "artists": [
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "DJ RD DA DZ7",
+          "url": "https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj"
+        },
+        {
+          "name": "DJ KLP OFC",
+          "url": "https://open.spotify.com/artist/7klY8pRrv9CWCdMqu534yC"
+        },
+        {
+          "name": "Mc Vuk Vuk",
+          "url": "https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Bonde das Oncinhas",
+      "url": "https://open.spotify.com/track/3UceMFR2MPAC4sCGfmCspe"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Como Um Beijo",
+        "url": "https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        },
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Como Um Beijo",
+      "url": "https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "CHEGOU 3",
+        "url": "https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj"
+      },
+      "artists": [
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "Mc Magrinho",
+          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
+        }
+      ],
+      "duration_ms": 159456,
+      "name": "CHEGOU 3",
+      "url": "https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+        "url": "https://open.spotify.com/album/4epLXw8yQ5PPRTDyLGErR6"
+      },
+      "artists": [
+        {
+          "name": "Djay L Beats",
+          "url": "https://open.spotify.com/artist/22XiT8DHddIU2VcuGDEU0o"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
+      "url": "https://open.spotify.com/track/5BpNdbgj7stB4AwaV1Tu2R"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "THE BOX MEDLEY FUNK 2",
         "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
@@ -441,83 +629,39 @@
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Meu Sonho",
+        "url": "https://open.spotify.com/album/2uol5nnCAv9RHeadO2TRoJ"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
         }
       ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+      "duration_ms": 157741,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/1dGxOpMQknNgkD5d9BCObF"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "Bonde das Oncinhas",
-        "url": "https://open.spotify.com/album/4VjMuQ9SnC2KC5oPsHHCse"
+        "name": "Mtg Toca Aquela 24 por 48 (Pique Das Antiga)",
+        "url": "https://open.spotify.com/album/6RXuJA59HoQv0HpZQwp6xT"
       },
       "artists": [
         {
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "name": "DJ RD DA DZ7",
-          "url": "https://open.spotify.com/artist/0LwSj7oJtIyooMGm0PlCbj"
-        },
-        {
-          "name": "DJ KLP OFC",
-          "url": "https://open.spotify.com/artist/7klY8pRrv9CWCdMqu534yC"
-        },
-        {
-          "name": "Mc Vuk Vuk",
-          "url": "https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx"
+          "name": "DJ 4F",
+          "url": "https://open.spotify.com/artist/4vulVeP4vQ0VxG81QCCiSQ"
         }
       ],
-      "duration_ms": 134769,
-      "name": "Bonde das Oncinhas",
-      "url": "https://open.spotify.com/track/3UceMFR2MPAC4sCGfmCspe"
+      "duration_ms": 123794,
+      "name": "Mtg Toca Aquela 24 por 48 (Pique Das Antiga)",
+      "url": "https://open.spotify.com/track/5iEA6ZdJkENzankJhWkRaE"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "BLUE",
-      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "To Coberto X Bato Com o Placo",
         "url": "https://open.spotify.com/album/16Tt8niDXmy2wTt0vaTazd"
@@ -545,91 +689,23 @@
       "url": "https://open.spotify.com/track/5RczWF9S4A5dI2F3m1OC94"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
         }
       ],
-      "duration_ms": 164284,
-      "name": "Von dutch",
-      "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
-        "url": "https://open.spotify.com/album/4epLXw8yQ5PPRTDyLGErR6"
-      },
-      "artists": [
-        {
-          "name": "Djay L Beats",
-          "url": "https://open.spotify.com/artist/22XiT8DHddIU2VcuGDEU0o"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "MTG J\u00e1 Que C\u00ea Gosta Tanto de Rua",
-      "url": "https://open.spotify.com/track/5BpNdbgj7stB4AwaV1Tu2R"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Mtg Toca Aquela 24 por 48 (Pique Das Antiga)",
-        "url": "https://open.spotify.com/album/6RXuJA59HoQv0HpZQwp6xT"
-      },
-      "artists": [
-        {
-          "name": "DJ 4F",
-          "url": "https://open.spotify.com/artist/4vulVeP4vQ0VxG81QCCiSQ"
-        }
-      ],
-      "duration_ms": 123794,
-      "name": "Mtg Toca Aquela 24 por 48 (Pique Das Antiga)",
-      "url": "https://open.spotify.com/track/5iEA6ZdJkENzankJhWkRaE"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "CHEGOU 3",
-        "url": "https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj"
-      },
-      "artists": [
-        {
-          "name": "shonci",
-          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
-        },
-        {
-          "name": "Mc Magrinho",
-          "url": "https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI"
-        }
-      ],
-      "duration_ms": 159456,
-      "name": "CHEGOU 3",
-      "url": "https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
@@ -645,7 +721,59 @@
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "Slide da Treme Mel\u00f3dica v2",
+        "url": "https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0"
+      },
+      "artists": [
+        {
+          "name": "DJ FNK",
+          "url": "https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "Slide da Treme Mel\u00f3dica v2",
+      "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Bloquinho P5",
         "url": "https://open.spotify.com/album/5qbDFvGiABxXGLBPcDU6sL"
@@ -661,47 +789,7 @@
       "url": "https://open.spotify.com/track/4zJNs4JLa4UIhkmBUlkfgx"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "CONFIA",
-        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "N\u00f3s Combina",
-      "url": "https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
@@ -721,23 +809,7 @@
       "url": "https://open.spotify.com/track/2Kuf7IkhGSFLHVRNojyxV2"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 333986,
-      "name": "L\u2019AMOUR DE MA VIE",
-      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
@@ -761,43 +833,23 @@
       "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "Ei Moto Taxi",
-        "url": "https://open.spotify.com/album/4AOm9ZMUyLrLpHpdT6ti8o"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "DJ Helinho",
-          "url": "https://open.spotify.com/artist/65JO5VBS6mLrqybYlIy5s4"
-        },
-        {
-          "name": "Mc Monik do pix",
-          "url": "https://open.spotify.com/artist/6DpNrfbj0tD4MQlCPipDaf"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 151510,
-      "name": "Ei Moto Taxi",
-      "url": "https://open.spotify.com/track/04XZsmTKhKMKNbRXA4oUKX"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/12pvgwWkIk0pFubSnSHbP0"
-      },
-      "artists": [
-        {
-          "name": "Patrulha",
-          "url": "https://open.spotify.com/artist/4xQu4zkxSB5Z9GURkxfO9L"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Crina Negra",
-      "url": "https://open.spotify.com/track/4W1PrnmuzeY1EmJZlDj5lt"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -813,91 +865,31 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "\u00c9 Que Eu Te Sarrei",
-        "url": "https://open.spotify.com/album/4RgsivVOT7p5GMQ8M6L8ow"
+        "name": "CONFIA",
+        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
       },
       "artists": [
         {
-          "name": "DJ THG",
-          "url": "https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc"
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         },
         {
-          "name": "Mc Arizinho",
-          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Tavin",
-          "url": "https://open.spotify.com/artist/6LvBXrHENAPT94VZWQECs7"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         }
       ],
-      "duration_ms": 140528,
-      "name": "\u00c9 Que Eu Te Sarrei",
-      "url": "https://open.spotify.com/track/7uPInsxTeMbyrJkDQaRwPh"
+      "duration_ms": 204813,
+      "name": "N\u00f3s Combina",
+      "url": "https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Deixa Eu Botar",
-        "url": "https://open.spotify.com/album/6qrfUroN8CeYDn87ORpFcc"
-      },
-      "artists": [
-        {
-          "name": "Douth!",
-          "url": "https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz"
-        },
-        {
-          "name": "dj andreoli",
-          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
-        },
-        {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Deixa Eu Botar",
-      "url": "https://open.spotify.com/track/7bBD12XmRKP577rmXmcyho"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Diga N\u00e3o ao Job",
-        "url": "https://open.spotify.com/album/3IHiIRt3wzqm22gGrxl6R4"
-      },
-      "artists": [
-        {
-          "name": "Dj Vigarista",
-          "url": "https://open.spotify.com/artist/0lVMV1mYDMcR3sPqHlbsKG"
-        },
-        {
-          "name": "Batista 011",
-          "url": "https://open.spotify.com/artist/4R3M2LfJ9LHyxO0DhKybOx"
-        }
-      ],
-      "duration_ms": 112153,
-      "name": "Diga N\u00e3o ao Job",
-      "url": "https://open.spotify.com/track/0G99TcXaDOiIm33hGXnxEs"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Apeguei na Putaria",
         "url": "https://open.spotify.com/album/2svdcoJyoWS6vA4WV143WH"
@@ -917,23 +909,39 @@
       "url": "https://open.spotify.com/track/3Feijeq7oiMl03z8p0HzTL"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "Lindo Momento",
-        "url": "https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV"
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },
       "artists": [
         {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 893787,
-      "name": "Lindo Momento",
-      "url": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw"
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
+      "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2024-06-12 16:11:13",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
@@ -949,32 +957,24 @@
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-06-10 16:24:53",
+      "added_at": "2024-06-12 16:11:13",
       "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+        "name": "FALTA DE QU\u00ca?",
+        "url": "https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt"
       },
       "artists": [
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
         },
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
         }
       ],
-      "duration_ms": 145812,
-      "name": "CONFISS\u00d5ES PT2",
-      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
+      "duration_ms": 152245,
+      "name": "FALTA DE QU\u00ca?",
+      "url": "https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 459640,
+  "num_followers": 459643,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Keti",
-          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
-        }
-      ],
-      "duration_ms": 123760,
-      "name": "A Voz do Morro",
-      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Sandra de S\u00e1 - 1982",
         "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+        }
+      ],
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Um dos Poetas do Samba",
         "url": "https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 201666,
       "name": "O Feij\u00e3o de Dona Nen\u00e9m",
       "url": "https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -727,6 +711,38 @@
       "duration_ms": 185544,
       "name": "Chega",
       "url": "https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 189040,
+      "name": "Swing de Campo Grande",
+      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -759,22 +775,6 @@
       "duration_ms": 254200,
       "name": "Velha Roupa Colorida",
       "url": "https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 189040,
-      "name": "Swing de Campo Grande",
-      "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
     },
     {
       "added_at": "2021-11-26 03:18:52",

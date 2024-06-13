@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 155320,
       "name": "Date With The Night",
       "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 203920,
       "name": "Heads Will Roll - A-Trak Remix Radio Edit",
       "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
@@ -954,6 +954,24 @@
     {
       "album": {
         "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233106,
+      "name": "Soft Shock",
+      "url": "https://open.spotify.com/track/0kzNjXP0hX34NBSIFkbwST"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
       },
       "artists": [
@@ -964,7 +982,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 233106,
       "name": "Soft Shock",
       "url": "https://open.spotify.com/track/4Ku70eDzBKu5EP3oH7Ki9v"
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 109800,
       "name": "Tick",
       "url": "https://open.spotify.com/track/2NjbIZpz7YMyo8s0hgheqD"

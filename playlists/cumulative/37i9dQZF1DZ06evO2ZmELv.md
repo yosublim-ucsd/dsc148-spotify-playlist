@@ -4,7 +4,7 @@
 
 > This is Cheli Madrid\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 15 min
+62 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [No Lo Hice Bien \- En Vivo](https://open.spotify.com/track/0hQGltiywFTqXxi8SPyodj) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [DEL Records Presenta \- En Vivo Desde La Finca El Cielo](https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq) | 3:11 | 2023-03-10 |  |
 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 | 2023-03-10 |  |
 | [No Volveré \- Versión Banda En Vivo](https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:22 | 2023-03-10 |  |
+| [NOS VALE MADRE](https://open.spotify.com/track/7bcD0xvqzdOWB7KNd0xfCe) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j), [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [NOS VALE MADRE](https://open.spotify.com/album/43NoqcA11wC5ZDw61N43Sc) | 2:54 | 2024-06-13 |  |
 | [Ojitos Verdes \- Versión Banda En Vivo](https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 2:40 | 2023-03-10 |  |
 | [Pa' Todo el Año \- Versión Banda En Vivo](https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 3:49 | 2023-03-10 |  |
 | [Para Morir Iguales \- Versión Banda En Vivo](https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Canciones de Oro \(En Vivo\)](https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr) | 4:06 | 2023-03-10 |  |

@@ -2,7 +2,7 @@
 
 ### [Indie Sleaze](https://open.spotify.com/playlist/37i9dQZF1DWVmFSstZWJmo)
 
-> Is "indie sleaze" in the room with us now? ft\. M.I.A
+> Is "indie sleaze" in the room with us now? ft\. Peaches
 
 231 songs - 14 hr 37 min
 

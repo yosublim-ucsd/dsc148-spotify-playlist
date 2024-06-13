@@ -531,6 +531,26 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "Algu\u00e9m Tinha Que Falar De Amor",
+        "url": "https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "Algu\u00e9m Tinha Que Falar De Amor",
-        "url": "https://open.spotify.com/album/61EMtt0oFtdaLZmP8EmxGf"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Talvez",
-      "url": "https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "Perto do Sol",
+        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
+      },
+      "artists": [
+        {
+          "name": "RNT",
+          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Perto do Sol",
+      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "Perto do Sol",
-        "url": "https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r"
-      },
-      "artists": [
-        {
-          "name": "RNT",
-          "url": "https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Perto do Sol",
-      "url": "https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "Nossas M\u00eddias",
+        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
+      },
+      "artists": [
+        {
+          "name": "Gabziim",
+          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
+        },
+        {
+          "name": "Sim\u00f8n",
+          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Nossas M\u00eddias",
+      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Olha esse mar",
         "url": "https://open.spotify.com/album/6NTdLGZVkZMakGaRXbLMEj"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 245933,
       "name": "Olha esse mar",
       "url": "https://open.spotify.com/track/4YHDclUZsRrP9G5Hq27j5v"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "Nossas M\u00eddias",
-        "url": "https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt"
-      },
-      "artists": [
-        {
-          "name": "Gabziim",
-          "url": "https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6"
-        },
-        {
-          "name": "Sim\u00f8n",
-          "url": "https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Nossas M\u00eddias",
-      "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -1659,6 +1659,42 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
+        "name": "Puro Suco Stronda",
+        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
+      },
+      "artists": [
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
+        },
+        {
+          "name": "YoungAlxn",
+          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "Puro Suco Stronda",
+      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
         "name": "Jeito Bom #2",
         "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
       },
@@ -1683,42 +1719,6 @@
       "duration_ms": 209378,
       "name": "Jeito Bom #2",
       "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
-        "name": "Puro Suco Stronda",
-        "url": "https://open.spotify.com/album/3uihtsjHXuNvtqM30f4UIa"
-      },
-      "artists": [
-        {
-          "name": "Diego Thug",
-          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
-        },
-        {
-          "name": "YoungAlxn",
-          "url": "https://open.spotify.com/artist/5efPHAUTNMCmlrD4viZ0w4"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "Puro Suco Stronda",
-      "url": "https://open.spotify.com/track/3CIBwDCGbrYAyUIT9Gt7Bc"
     }
   ],
   "unique_name": "Resenha na Praia",

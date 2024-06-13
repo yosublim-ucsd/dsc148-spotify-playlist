@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-239 songs - 12 hr 25 min
+240 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 | 2021-04-08 |  |
 | [Show Me Love \- Acoustic](https://open.spotify.com/track/3K6XGKHABwuTGex94DRZuy) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Show Me Love \(Acoustic\)](https://open.spotify.com/album/1pKNXryic0E9p65bLM25MP) | 3:11 | 2019-10-13 | 2022-08-07 |
 | [Sit Down \- Acoustic](https://open.spotify.com/track/5dGgyreFnyXsYTRW7vV7Xy) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Sit Down \(Acoustic\)](https://open.spotify.com/album/58BKYmicaHsxUzmIfjkJvo) | 2:47 | 2021-08-01 | 2024-04-20 |
+| [Sk8er Boi \- Acoustic](https://open.spotify.com/track/2sMcfmeQgoLAxnVKxEtIUM) | [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [Sk8er Boi \(Acoustic\)](https://open.spotify.com/album/65A1NOcJVODQovfVI3hQOX) | 2:35 | 2024-06-12 |  |
 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 | 2019-10-13 |  |
 | [Smells Like Teen Spirit \- Acoustic](https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Smells Like Teen Spirit \(Acoustic\)](https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu) | 2:30 | 2021-04-13 |  |
 | [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 | 2023-01-27 | 2024-02-03 |

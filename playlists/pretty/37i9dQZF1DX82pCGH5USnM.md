@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,310,952 likes - 362 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,311,078 likes - 362 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 70 | [Blue Lagoon](https://open.spotify.com/track/2mpy5N86A2YZDhiUvY1OGP) | [Undefined Space](https://open.spotify.com/artist/4tvalX4nEpCqTBOyUR3U19) | [Blue Lagoon](https://open.spotify.com/album/4YNQ7SeDU0W7GfSzlrR2Wa) | 2:49 |
 | 71 | [Purple Sand](https://open.spotify.com/track/3eBpMMIXBTUji8SEbhlTnJ) | [Costavibe](https://open.spotify.com/artist/4HLlUXwO3kK48kH2iDfPpA) | [Purple Sand](https://open.spotify.com/album/51bBM5VyrgBi9yzMWRQTlu) | 2:11 |
 | 72 | [Rodolex](https://open.spotify.com/track/2xbgIcJoOCn8CksOxpNRpo) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Rodolex](https://open.spotify.com/album/4yft3TXCdLTbHSg1TjJD1T) | 2:39 |
-| 73 | [Skipper's Tale](https://open.spotify.com/track/41CUgsSWTYxMf7Tu6ed1e7) | [Tree House Club](https://open.spotify.com/artist/1ghseo4S7q5vSLnammn0vE) | [Skipper's Tale](https://open.spotify.com/album/5Mgyt4mxPFGBPhcLXnkAuI) | 2:56 |
+| 73 | [Skipper's Tale](https://open.spotify.com/track/41CUgsSWTYxMf7Tu6ed1e7) | [Tree House Club](https://open.spotify.com/artist/31bzQy94fSp3QZKe4U35Qa) | [Skipper's Tale](https://open.spotify.com/album/5Mgyt4mxPFGBPhcLXnkAuI) | 2:56 |
 | 74 | [Candle](https://open.spotify.com/track/1bUXKZBvJjxG2GizStYDHr) | [One Astra](https://open.spotify.com/artist/3dMytoLrOfFv2VBrrdQzg6) | [Candle](https://open.spotify.com/album/1kX74857084y9kaHHjS7z0) | 2:40 |
 | 75 | [Arcade Lounge](https://open.spotify.com/track/3ctC0SWZpD2T2O2qfKvXPy) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Arcade Lounge](https://open.spotify.com/album/0ccC9OTqqjk07KVlLCemms) | 3:16 |
 | 76 | [Ultra Vox](https://open.spotify.com/track/5XkvJe4K43yHEIsJpDoj4s) | [Hamasi](https://open.spotify.com/artist/6RQzicg4zJqgbzvIx3qqgm) | [Ultra Vox](https://open.spotify.com/album/7LGHiA1kv2ZkIL4iwBJdDQ) | 2:05 |

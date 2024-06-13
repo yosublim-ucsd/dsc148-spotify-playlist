@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 189714,
       "name": "Alone in This Universe",
       "url": "https://open.spotify.com/track/37HW6U2qjlvsMYjismB2qs"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O"
@@ -2585,6 +2585,28 @@
     },
     {
       "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/5jP03lBK3249e0oDbt1UKG"
+      },
+      "artists": [
+        {
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        },
+        {
+          "name": "me-mai",
+          "url": "https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/5boZxSDhEwewI6GYrIZsNR"
+    },
+    {
+      "album": {
         "name": "Come My Way",
         "url": "https://open.spotify.com/album/5vjaJfEugqmEFxItbDYiZS"
       },
@@ -2958,7 +2980,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 196191,
       "name": "DANCING ON A GRAVEYARD",
       "url": "https://open.spotify.com/track/50kPsp9qv18LL7Eh3oSShy"
@@ -3252,7 +3274,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 162020,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
@@ -3443,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/3fmFGrUV5K4gN82pvxje31"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
+    },
+    {
+      "album": {
         "name": "Do I Care Too Much",
         "url": "https://open.spotify.com/album/0prwA9DdZkDMec5T5aLcEk"
       },
@@ -3454,7 +3494,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 244821,
       "name": "Do I Care Too Much",
       "url": "https://open.spotify.com/track/7eSo5rcuv7zeoBkbJ4lJRL"
@@ -3754,7 +3794,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 229166,
       "name": "don't tell me i'm going to hell",
       "url": "https://open.spotify.com/track/2evOGNgFQEAhArKH7R8sWv"
@@ -4832,7 +4872,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 253095,
       "name": "Fortune Cookie",
       "url": "https://open.spotify.com/track/2DEcavRxaAOuEgVcgcNaJ0"
@@ -5387,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "willow tree",
+        "url": "https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "goodnight, don\u2019t wait",
+      "url": "https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna"
+    },
+    {
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -5550,7 +5608,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 84000,
       "name": "hand on my heart",
       "url": "https://open.spotify.com/track/7tYZhK3J2Rl6Fq5ivzJur6"
@@ -5929,6 +5987,24 @@
     },
     {
       "album": {
+        "name": "Here4U",
+        "url": "https://open.spotify.com/album/3idK4rxpyKAuU3qEU3XoOg"
+      },
+      "artists": [
+        {
+          "name": "DOLLA",
+          "url": "https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219432,
+      "name": "Here4U - Eng ver.",
+      "url": "https://open.spotify.com/track/2LZA0dQ29ZFA6iZYZltWaw"
+    },
+    {
+      "album": {
         "name": "High Forever",
         "url": "https://open.spotify.com/album/1bx0R8DQSEriOR0xDHPmzh"
       },
@@ -5998,6 +6074,24 @@
       "duration_ms": 233640,
       "name": "His Way",
       "url": "https://open.spotify.com/track/4WWeTzsyYWKlMMyHJtKlya"
+    },
+    {
+      "album": {
+        "name": "Hold Hands",
+        "url": "https://open.spotify.com/album/1vkHevjCbUuMw66cu8u6IK"
+      },
+      "artists": [
+        {
+          "name": "Haneri",
+          "url": "https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224210,
+      "name": "Hold Hands",
+      "url": "https://open.spotify.com/track/3CikomFbSb4FiohC8VouxI"
     },
     {
       "album": {
@@ -6516,7 +6610,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 199436,
       "name": "Hurt Me Too",
       "url": "https://open.spotify.com/track/0vOJuzy8PJqErvoPPAWX8H"
@@ -6534,7 +6628,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 163846,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4L6CcNShN9p1sYbXob1yYn"
@@ -7372,7 +7466,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 219258,
       "name": "In A Month Or So",
       "url": "https://open.spotify.com/track/301TKfBwT7rYA0v8C5t3vF"
@@ -7538,7 +7632,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 237606,
       "name": "into you",
       "url": "https://open.spotify.com/track/3VLqM6AK5hlMklETMtcs0X"
@@ -8434,7 +8528,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
@@ -8576,7 +8670,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 176216,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/4Id1V7jy2XXmCYWIflaq8Z"
@@ -9610,7 +9704,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 174152,
       "name": "Maybe?",
       "url": "https://open.spotify.com/track/5xEPUpkAaWBNEDWXlMMGOn"
@@ -9972,7 +10066,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 230250,
       "name": "Mr. Feelgood",
       "url": "https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH"
@@ -10026,7 +10120,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 269048,
       "name": "Museum of My Mess",
       "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
@@ -10352,7 +10446,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 200425,
       "name": "No Cares Era",
       "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
@@ -10444,10 +10538,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
+    },
+    {
+      "album": {
+        "name": "No Label",
+        "url": "https://open.spotify.com/album/1qrjBgsemZYkh5ePPj3soV"
+      },
+      "artists": [
+        {
+          "name": "Syaz Smooth",
+          "url": "https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185274,
+      "name": "No Label",
+      "url": "https://open.spotify.com/track/1mH8hdrgN9A8YsR3sMy1qB"
     },
     {
       "album": {
@@ -11150,7 +11262,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
@@ -11846,7 +11958,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 269477,
       "name": "Rain In Manhattan",
       "url": "https://open.spotify.com/track/6RA4Lkqah33nNfNadjuPdW"
@@ -14587,6 +14699,24 @@
     },
     {
       "album": {
+        "name": "The Goo",
+        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154346,
+      "name": "The Goo",
+      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
+    },
+    {
+      "album": {
         "name": "the moon is not here",
         "url": "https://open.spotify.com/album/0HecTvp2QgaJ69MlhDZbol"
       },
@@ -15704,7 +15834,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 208854,
       "name": "undo",
       "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
@@ -16360,7 +16490,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 146181,
       "name": "What A Tragedy",
       "url": "https://open.spotify.com/track/1BCqvzNMzVcAHjPMyLmaG7"
@@ -16835,6 +16965,24 @@
     },
     {
       "album": {
+        "name": "WONDERFUL DAY",
+        "url": "https://open.spotify.com/album/6QymlEi6qNgBNWde5kfcbl"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "WONDERFUL DAY",
+      "url": "https://open.spotify.com/track/4pleqmLkMTAzpW7kwMctRa"
+    },
+    {
+      "album": {
         "name": "Worry",
         "url": "https://open.spotify.com/album/3oMFAfDIjrbrLXBjoiFRrC"
       },
@@ -16886,6 +17034,24 @@
       "duration_ms": 188569,
       "name": "worth it",
       "url": "https://open.spotify.com/track/6cBcNlf0IXnS1TXnwRtBsO"
+    },
+    {
+      "album": {
+        "name": "would you be mine?",
+        "url": "https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190432,
+      "name": "would you be mine?",
+      "url": "https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK"
     },
     {
       "album": {
@@ -17256,6 +17422,32 @@
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
+    },
+    {
+      "album": {
+        "name": "YSL",
+        "url": "https://open.spotify.com/album/1WaM6OhFDqbvDhsXFTgjwE"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "Shoi",
+          "url": "https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/04XBgITLomwrQHkVs6MwtL"
     },
     {
       "album": {

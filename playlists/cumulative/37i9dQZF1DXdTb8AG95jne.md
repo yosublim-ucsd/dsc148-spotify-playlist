@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: cott\(콧\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: YdBB\(유다빈밴드\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-726 songs - 1 day 20 hr 22 min
+727 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Roller Coaster](https://open.spotify.com/track/5JQMzYEIZsakVeVq7kVMub) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:24 | 2022-04-12 | 2022-04-19 |
 | [Rotten Flower](https://open.spotify.com/track/4Cfo60WsyTpelx87mdMtiP) | [Woo Hye Mi](https://open.spotify.com/artist/3md5p13jiHC7M6qtL9qlo9) | [Rotten Flower](https://open.spotify.com/album/4MlSb1X82NlpyB8jYj5EWY) | 4:06 | 2022-04-12 | 2022-04-21 |
 | [roundnround](https://open.spotify.com/track/45S6KXFoyTifmUAyd00D9o) | [Jinoa](https://open.spotify.com/artist/5B9a2sEypgeereR5g4ieXK) | [roundnround](https://open.spotify.com/album/5i5RAswwxozRfdm0W1G683) | 3:05 | 2022-05-03 | 2022-05-12 |
+| [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq) | 3:30 | 2024-06-12 |  |
 | [Safety Distance](https://open.spotify.com/track/513DfQz8PCkHlnWcn1QeLJ) | [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH) | [Safety Distance](https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9) | 3:47 | 2022-05-02 | 2022-05-12 |
 | [Same Constellation 같은 별자리](https://open.spotify.com/track/3k8C88CZl8AP8fKysgS4Ug) | [lalasweet](https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1) | [Same Constellation 같은 별자리](https://open.spotify.com/album/5C5GOjn5IV3cz1VZiZZMWq) | 4:15 | 2022-03-31 | 2022-04-02 |
 | [Same 같아 \(With Marvin\)](https://open.spotify.com/track/3EsRJZrf0y1HUMywkQ85nW) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Marvin](https://open.spotify.com/artist/363B8ECJtLIGgkXrSPwPNr) | [EQUAL](https://open.spotify.com/album/5ZqIdPhee05PccRIL0fsux) | 3:26 | 2022-03-31 | 2022-04-18 |
@@ -661,7 +662,7 @@
 | [WATER](https://open.spotify.com/track/6EIShxhgO0xfGx4wQ0zzPL) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [PRISM](https://open.spotify.com/album/4ob0pdaU2exF0jD5QST4oU) | 4:46 | 2022-03-31 | 2022-06-06 |
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-31 | 2022-04-03 |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-25 | 2023-02-15 |
-| [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 |  |
+| [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 | 2024-06-13 |
 | [Wedding diary 신혼일기](https://open.spotify.com/track/0mT5mNsNgqlOovlJRE4I4F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Wedding diary 신혼일기](https://open.spotify.com/album/54g9wr8FNNiOCSgtQMqwnZ) | 3:23 | 2022-03-31 | 2022-04-18 |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-03-18 | 2022-04-16 |
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-04-12 | 2024-05-01 |

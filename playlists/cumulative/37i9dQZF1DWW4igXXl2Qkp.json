@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:3J0qyBq8miao9sTXOlAkWp\">Ozer</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:0TY3Wab2Z1kmp5jZoxdPjZ\">Cuzzos</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -890,7 +890,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 103529,
       "name": "Accountability, Pt. 2",
       "url": "https://open.spotify.com/track/2L21Fp6dHOvzRB1Ju83aI3"
@@ -4589,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "Choir",
+        "url": "https://open.spotify.com/album/2QGlgMu2tNiRWNCVqEGKwj"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Choir",
+      "url": "https://open.spotify.com/track/7FSKBsexkaRNAvDZRZfx8y"
+    },
+    {
+      "album": {
         "name": "Soda Club Deluxe",
         "url": "https://open.spotify.com/album/64FP3WkK5JBqjasPoHeRGN"
       },
@@ -4889,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "Could've Been A Kingpin",
+        "url": "https://open.spotify.com/album/0ODeRdnWQukesq5w03djmk"
+      },
+      "artists": [
+        {
+          "name": "Scotty Atl",
+          "url": "https://open.spotify.com/artist/5kf5KPLB7nXG4xYdI1QXoa"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149543,
+      "name": "Could've Been A Kingpin",
+      "url": "https://open.spotify.com/track/555D5GJNnZw8f0Q4rxsfIf"
+    },
+    {
+      "album": {
         "name": "Covenant",
         "url": "https://open.spotify.com/album/0COAiol8gZ3kcdlviRKzOz"
       },
@@ -5174,7 +5210,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 161739,
       "name": "Cut & Paste",
       "url": "https://open.spotify.com/track/1cQWY7njTuPQ3Z9UIoVUB4"
@@ -5784,6 +5820,28 @@
     {
       "album": {
         "name": "Different",
+        "url": "https://open.spotify.com/album/596jKXysp9NH8BNS30Lnw1"
+      },
+      "artists": [
+        {
+          "name": "BERNA",
+          "url": "https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed"
+        },
+        {
+          "name": "Glizz",
+          "url": "https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/55lXPhDmmXp0GwhzJL32VS"
+    },
+    {
+      "album": {
+        "name": "Different",
         "url": "https://open.spotify.com/album/58iJdUduIIV0jjDyLkXWIH"
       },
       "artists": [
@@ -6268,7 +6326,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 131142,
       "name": "DONT KNOW",
       "url": "https://open.spotify.com/track/707vYpO9mBmnmqaIoJ5HmB"
@@ -8904,7 +8962,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 105209,
       "name": "GOOD KARMA (Freestyle)",
       "url": "https://open.spotify.com/track/2zO50GzOus1QE8O0rLd2Nt"
@@ -10123,6 +10181,28 @@
     },
     {
       "album": {
+        "name": "I LUV IT",
+        "url": "https://open.spotify.com/album/4vpbw2pSINiXAhk4Lj64Ur"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        },
+        {
+          "name": "Sizzle Girls",
+          "url": "https://open.spotify.com/artist/08vYqItH0KNxBHQo4l5Ojb"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195792,
+      "name": "I LUV IT",
+      "url": "https://open.spotify.com/track/7zqph5TuHWutyiRUcFylyN"
+    },
+    {
+      "album": {
         "name": "i'll be fine'",
         "url": "https://open.spotify.com/album/1Ztl27sDRwIq80pjAbwucu"
       },
@@ -10658,6 +10738,28 @@
       "duration_ms": 167993,
       "name": "ITS STRAIGHT",
       "url": "https://open.spotify.com/track/2qVR8fPHIAcK0lKbF8A950"
+    },
+    {
+      "album": {
+        "name": "ITSLIKE",
+        "url": "https://open.spotify.com/album/64sdHoPoUevnYJc1YxD5v4"
+      },
+      "artists": [
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        },
+        {
+          "name": "El Londo",
+          "url": "https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111486,
+      "name": "ITSLIKE",
+      "url": "https://open.spotify.com/track/02QwLdLDKDEWfMTScV4TeD"
     },
     {
       "album": {
@@ -12869,6 +12971,24 @@
     },
     {
       "album": {
+        "name": "Magnolia Rain",
+        "url": "https://open.spotify.com/album/7b7SNa88HbYj7AWwAdUXa5"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166257,
+      "name": "Magnolia Rain",
+      "url": "https://open.spotify.com/track/5UHNA6wKJ4NEYC4H9NJ8ys"
+    },
+    {
+      "album": {
         "name": "BSG",
         "url": "https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3"
       },
@@ -13104,7 +13224,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 147750,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/0MF9Ou33Xrn2bcGio8QKvM"
@@ -14044,7 +14164,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 157832,
       "name": "Move On",
       "url": "https://open.spotify.com/track/49ls140oDSDqXIwkfygGMe"
@@ -15358,7 +15478,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 93915,
       "name": "No Reddit",
       "url": "https://open.spotify.com/track/0JoGNwd82CGzVsOe40atmX"
@@ -15556,7 +15676,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 112243,
       "name": "nothing like uuu",
       "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
@@ -15632,7 +15752,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 175280,
       "name": "omega",
       "url": "https://open.spotify.com/track/6LThhAnu5UpqQwh1cxwDy3"
@@ -15748,6 +15868,28 @@
       "duration_ms": 192471,
       "name": "On The Run",
       "url": "https://open.spotify.com/track/09ymqRvHbSzrzCdIQgP6Un"
+    },
+    {
+      "album": {
+        "name": "Once More & Again (Our Mourning)",
+        "url": "https://open.spotify.com/album/2y51ddf8ZwjYbvE4ow9ugE"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Matthews",
+          "url": "https://open.spotify.com/artist/6Ow6yFUJ7YmITlMbdMUNTE"
+        },
+        {
+          "name": "IdixTeco",
+          "url": "https://open.spotify.com/artist/10sE8HCDHMxvatHKji2VnX"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281263,
+      "name": "Once More & Again (Our Mourning)",
+      "url": "https://open.spotify.com/track/2FfI24lT7dh0EyPWEdFtcI"
     },
     {
       "album": {
@@ -15906,7 +16048,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 129438,
       "name": "Out The Park",
       "url": "https://open.spotify.com/track/6ZLXpxRiSETjNZQXmHPeyG"
@@ -16829,6 +16971,24 @@
     },
     {
       "album": {
+        "name": "PRESSED",
+        "url": "https://open.spotify.com/album/4QgQudGWYsfCkNWCePS0Iz"
+      },
+      "artists": [
+        {
+          "name": "Niyah DeNae",
+          "url": "https://open.spotify.com/artist/4N3HWX1fkh6FE6zQqfBJaV"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99134,
+      "name": "PRESSED",
+      "url": "https://open.spotify.com/track/76iv4nlUeQqJgUJuafBGvf"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/3MFCVVQtLwHznU66hWOYKF"
       },
@@ -17712,7 +17872,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 154335,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/1kK58GF4QqwnD5px2S1Gcq"
@@ -18108,6 +18268,24 @@
       "duration_ms": 160056,
       "name": "Roll Up",
       "url": "https://open.spotify.com/track/7rjguvonSMd8610eH6JDjL"
+    },
+    {
+      "album": {
+        "name": "Rug Burn",
+        "url": "https://open.spotify.com/album/2etVzffBW8oWkzkKo3BWW5"
+      },
+      "artists": [
+        {
+          "name": "Wynne",
+          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191080,
+      "name": "Rug Burn",
+      "url": "https://open.spotify.com/track/1TjzdG5MVNo5tUXcSbZ3iX"
     },
     {
       "album": {
@@ -21733,6 +21911,28 @@
     },
     {
       "album": {
+        "name": "The First Lady",
+        "url": "https://open.spotify.com/album/1QpImHMH1H8R9zocMvmbsq"
+      },
+      "artists": [
+        {
+          "name": "Big Bratt",
+          "url": "https://open.spotify.com/artist/4H7s71IsQDWe4DFArSBzD4"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Toxic Situation",
+      "url": "https://open.spotify.com/track/72v4BijnUMQoU2LB9lAZTU"
+    },
+    {
+      "album": {
         "name": "TRACKHAWK",
         "url": "https://open.spotify.com/album/1ItLOxHON2RHBRTl6GP3bY"
       },
@@ -23276,7 +23476,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 163728,
       "name": "Where My Ring",
       "url": "https://open.spotify.com/track/0eTNohUeDqzsoiwTiOlaZB"
@@ -23664,6 +23864,24 @@
       "duration_ms": 137165,
       "name": "Without It",
       "url": "https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG"
+    },
+    {
+      "album": {
+        "name": "MR. R2R",
+        "url": "https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv"
+      },
+      "artists": [
+        {
+          "name": "R2R MOE",
+          "url": "https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114206,
+      "name": "Without the Gang",
+      "url": "https://open.spotify.com/track/2s5PU3dY4F5xkPecSOray1"
     },
     {
       "album": {

@@ -1,13 +1,65 @@
 {
   "description": "back up in the sky",
-  "num_followers": 231303,
+  "num_followers": 231380,
   "original_name": "IRL ANGEL ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj0cXQAAAABA5SG2syqtSkEBirtv0c5W",
+  "snapshot_id": "ZmoCeQAAAABOCLGa3dBgX/GRHNTasK90",
   "tracks": [
+    {
+      "added_at": "2024-06-12 20:18:00",
+      "album": {
+        "name": "icantbelieveiletyougetaway",
+        "url": "https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 135880,
+      "name": "icantbelieveiletyougetaway",
+      "url": "https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM"
+    },
+    {
+      "added_at": "2024-06-12 20:18:00",
+      "album": {
+        "name": "Perfectly Blue (feat. Winter)",
+        "url": "https://open.spotify.com/album/65gzOnTds7R6w4Pvej8Brq"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Perfectly Blue (feat. Winter)",
+      "url": "https://open.spotify.com/track/1yTIls3wv8W1XscrAR00Iy"
+    },
+    {
+      "added_at": "2023-12-05 16:58:04",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
+    },
     {
       "added_at": "2024-03-01 19:50:05",
       "album": {
@@ -41,36 +93,20 @@
       "url": "https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO"
     },
     {
-      "added_at": "2023-12-05 16:58:04",
+      "added_at": "2024-06-12 20:18:00",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8"
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb"
       },
       "artists": [
         {
-          "name": "Suzy Clue",
-          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+          "name": "Trxy!",
+          "url": "https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD"
         }
       ],
-      "duration_ms": 251818,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/2gd00D6APhLate8i83azYd"
-    },
-    {
-      "added_at": "2023-12-28 18:19:18",
-      "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
+      "duration_ms": 115401,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8"
     },
     {
       "added_at": "2024-02-28 00:36:49",
@@ -197,6 +233,38 @@
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
     },
     {
+      "added_at": "2023-12-05 16:58:04",
+      "album": {
+        "name": "Everything I Do Is For You",
+        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 156349,
+      "name": "Everything I Do Is For You",
+      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
+    },
+    {
+      "added_at": "2023-12-28 18:19:18",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
+    },
+    {
       "added_at": "2023-12-28 18:19:18",
       "album": {
         "name": "Demon Compass",
@@ -283,22 +351,6 @@
     {
       "added_at": "2023-12-05 16:58:04",
       "album": {
-        "name": "Everything I Do Is For You",
-        "url": "https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 156349,
-      "name": "Everything I Do Is For You",
-      "url": "https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE"
-    },
-    {
-      "added_at": "2023-12-05 16:58:04",
-      "album": {
         "name": "Half Nelson",
         "url": "https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb"
       },
@@ -311,6 +363,22 @@
       "duration_ms": 191410,
       "name": "Half Nelson",
       "url": "https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6"
+    },
+    {
+      "added_at": "2023-12-05 16:58:04",
+      "album": {
+        "name": "My Time As a Ghostly Someone Else",
+        "url": "https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "My Time As a Ghostly Someone Else",
+      "url": "https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl"
     },
     {
       "added_at": "2024-03-01 16:01:00",
@@ -423,22 +491,6 @@
       "duration_ms": 297875,
       "name": "theres this girl",
       "url": "https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl"
-    },
-    {
-      "added_at": "2023-12-05 16:58:04",
-      "album": {
-        "name": "My Time As a Ghostly Someone Else",
-        "url": "https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO"
-      },
-      "artists": [
-        {
-          "name": "R. Missing",
-          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "My Time As a Ghostly Someone Else",
-      "url": "https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl"
     },
     {
       "added_at": "2023-12-05 16:58:04",
@@ -1579,22 +1631,6 @@
     {
       "added_at": "2023-12-05 16:58:04",
       "album": {
-        "name": "New Normal",
-        "url": "https://open.spotify.com/album/0hxkBuqU47PF8B1gKEoX2T"
-      },
-      "artists": [
-        {
-          "name": "Izzy Spears",
-          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
-        }
-      ],
-      "duration_ms": 140350,
-      "name": "New Normal",
-      "url": "https://open.spotify.com/track/1YByuyHH5sOO2c7ojGflsA"
-    },
-    {
-      "added_at": "2023-12-05 16:58:04",
-      "album": {
         "name": "As She Grows",
         "url": "https://open.spotify.com/album/4Jtp0VJExXGLjufjffIyLC"
       },
@@ -1727,22 +1763,6 @@
       "duration_ms": 236400,
       "name": "f my haterz anthem",
       "url": "https://open.spotify.com/track/6N0mSXLOh1j3agMiCxQlCo"
-    },
-    {
-      "added_at": "2023-12-05 16:58:04",
-      "album": {
-        "name": "shutting me out / goo lagoon",
-        "url": "https://open.spotify.com/album/3KYjSlyLTpzkCxWNlg2IqL"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "shutting me out",
-      "url": "https://open.spotify.com/track/0hxy957I8oiUktegIZPK9P"
     }
   ],
   "unique_name": "IRL ANGEL ",

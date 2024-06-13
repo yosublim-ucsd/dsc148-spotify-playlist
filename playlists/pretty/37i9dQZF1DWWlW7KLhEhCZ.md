@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ajuliacosta ❤️ MAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,038 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,057 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 28 | [MLK MONSTRO](https://open.spotify.com/track/3bV84mm4scfSDw6AmALYfs) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [MLK MONSTRO](https://open.spotify.com/album/3eksBWsguoaZ5DmowEP8rz) | 2:00 |
 | 29 | [After Party](https://open.spotify.com/track/39O5jUbXuRmtSLtW0t46yk) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Gabriel Lucchini](https://open.spotify.com/artist/4wm6Of8OD4MeU9AYpQ9Ocs) | [After Party](https://open.spotify.com/album/5OnEFLCrBXHykrmCWgMPTt) | 3:07 |
 | 30 | [ME DIZ QUEM](https://open.spotify.com/track/05sxyHW2Kc1iUE23LPLUPK) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [ME DIZ QUEM](https://open.spotify.com/album/5Nu3kt1PhXlhDalF9k9WPi) | 4:24 |
-| 31 | [Gigante](https://open.spotify.com/track/0eC20mKOpXiUPUcQhXYe7X) | [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH) | [Gigante](https://open.spotify.com/album/5rp2OGItkAy4HTHc4vJzXY) | 2:26 |
+| 31 | [Gigante](https://open.spotify.com/track/0eC20mKOpXiUPUcQhXYe7X) | [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [Gigante](https://open.spotify.com/album/5rp2OGItkAy4HTHc4vJzXY) | 2:26 |
 | 32 | [TROPA DO ZAZA](https://open.spotify.com/track/7M60C46QUgF45y1e77JNsI) | [The Boy](https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH) | [TROPA DO ZAZA](https://open.spotify.com/album/1O6NWNnND9zAMilImnzl6G) | 2:45 |
 | 33 | [Lenda](https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 3:12 |
 | 34 | [Tic Tac](https://open.spotify.com/track/3rlHmQ0Esl4d1utdUrBM8z) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Tic Tac](https://open.spotify.com/album/0RzJlPj22xSVHh7kILUSaN) | 1:50 |

@@ -4,10 +4,11 @@
 
 > The Official Trap Nation Playlist
 
-1,073 songs - 2 day 7 hr 38 min
+1,073 songs - 2 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 0:00 | 2024-05-10 |  |
 | ['iiblis](https://open.spotify.com/track/0IUGa7sG1RNgA1DHFwHqMh) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [jacob.](https://open.spotify.com/artist/4TZfht59B1e5LZE8JsE1OE) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 3:20 | 2022-01-14 | 2022-04-08 |
 | [\(Give It To Me Like I\) Want It](https://open.spotify.com/track/5z5sA9z9PqN0pciTUnmkki) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [\(Give It To Me Like I\) Want It](https://open.spotify.com/album/6MHlPJOdgHXcWBmvtqKYo3) | 3:36 | 2022-01-14 | 2022-09-15 |
 | [2 of Us!](https://open.spotify.com/track/45hJFt1e8mTYDrI97QFLcf) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 4:27 | 2022-10-14 | 2023-02-22 |
@@ -224,7 +225,6 @@
 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 | 2023-02-21 |  |
 | [Diamond](https://open.spotify.com/track/1qErURHcNx7WWrVUiOrKMs) | [Jacknife](https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo) | [Diamond](https://open.spotify.com/album/0UVd1KUra44FpzWYa3ZIg0) | 3:04 | 2022-01-14 | 2022-09-15 |
 | [Diamond Ring](https://open.spotify.com/track/4UadczGuTz5gWOt6nwGskx) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Diamond Ring](https://open.spotify.com/album/14Qa3VaQUTOkTtWjCmbFrB) | 2:44 | 2022-02-18 | 2022-09-15 |
-| [did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 1:55 | 2024-05-10 |  |
 | [Different Mood](https://open.spotify.com/track/6qdYk0uDeX2fTOD0TNvzyY) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Bassline](https://open.spotify.com/album/7Jaq1HSRWeweq0YQG2TShv) | 2:23 | 2022-01-14 | 2022-02-17 |
 | [digiphunk](https://open.spotify.com/track/2QtZI9AahQIZ3B9UY9Q7Xd) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [digiphunk](https://open.spotify.com/album/6QTs9TrzSqQwr5opTboF4w) | 1:34 | 2024-05-15 |  |
 | [Digita](https://open.spotify.com/track/06CaeQTDHlppW9ObQ2to2g) | [Ephex](https://open.spotify.com/artist/137d6SNcjHO2XxtuXcpPKu) | [Digita](https://open.spotify.com/album/3dM078GQ05Droml2dgYeYV) | 2:47 | 2024-04-02 |  |

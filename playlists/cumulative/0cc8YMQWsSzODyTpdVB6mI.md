@@ -2,7 +2,7 @@
 
 ### [Kitsuné Musique Essential](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> Have a listen to our Kitsuné's essential tracks and meet all generations of artists from 20 years ago to these past few  months\. 🎧
+> Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
 
 145 songs - 8 hr 12 min
 

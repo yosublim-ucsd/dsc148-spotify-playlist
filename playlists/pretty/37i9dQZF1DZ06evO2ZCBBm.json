@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 43410,
+  "num_followers": 43421,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAABIi4H3Y/6rTl+8w/TikPnr",
+  "snapshot_id": "ZmeTgAAAAAD6OZtndwC2gQuJOAKS5wJt",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 165868,
       "name": "MEDZ",
       "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": null,
@@ -191,6 +175,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dearly Departed (feat. robbietheused)",
         "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
       },
@@ -211,6 +231,22 @@
       "duration_ms": 196560,
       "name": "Dearly Departed (feat. robbietheused)",
       "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
     },
     {
       "added_at": null,
@@ -243,22 +279,6 @@
       "duration_ms": 217946,
       "name": "Take It Away",
       "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "A Box Full of Sharp Objects",
-      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
     },
     {
       "added_at": null,
@@ -443,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
@@ -452,9 +472,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
+      "duration_ms": 169160,
+      "name": "Noise and Kisses",
+      "url": "https://open.spotify.com/track/3J0cTSuhrsoG9lY2AonjmH"
     },
     {
       "added_at": null,
@@ -475,38 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Are Vomit",
-        "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 172146,
-      "name": "People Are Vomit",
-      "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 133518,
-      "name": "Pinky Swear",
-      "url": "https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -516,41 +504,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Sound Effects and Overdramatics",
-      "url": "https://open.spotify.com/track/4dlyVQH6YlWuOOF2HZAFoz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Empty With You",
-      "url": "https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH"
+      "duration_ms": 176786,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
     },
     {
       "added_at": null,
@@ -571,6 +527,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "People Are Vomit",
+        "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 172146,
+      "name": "People Are Vomit",
+      "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Empty With You",
+      "url": "https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 133518,
+      "name": "Pinky Swear",
+      "url": "https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -583,6 +635,22 @@
       "duration_ms": 172706,
       "name": "Liar Liar (Burn in Hell)",
       "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 157489,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
     },
     {
       "added_at": null,
@@ -607,38 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Transformers: Revenge Of The Fallen The Album",
-        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 157489,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginary Enemy",
         "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
       },
@@ -651,22 +687,6 @@
       "duration_ms": 244680,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184105,
-      "name": "Bloody Nose",
-      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
     },
     {
       "added_at": null,
@@ -703,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartwork (Deluxe)",
-        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184286,
-      "name": "River Stay",
-      "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -735,6 +739,22 @@
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184286,
+      "name": "River Stay",
+      "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
     },
     {
       "added_at": null,
@@ -771,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Slit Your Own Throat",
-      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -799,6 +803,22 @@
       "duration_ms": 184706,
       "name": "Cathedral Bell",
       "url": "https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Slit Your Own Throat",
+      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
     },
     {
       "added_at": null,

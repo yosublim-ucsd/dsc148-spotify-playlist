@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩 cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,597 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,707 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 |
 | 75 | [glow worms](https://open.spotify.com/track/3JG9JpvaYjmq0i17qnu8y4) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS), [Naveih](https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt) | [glow worms](https://open.spotify.com/album/73WH6rOigOwshc88l9Hm83) | 1:55 |
 
-Snapshot ID: `ZhxCIwAAAADrsDXfVDKSwWMphhGFEROk`
+Snapshot ID: `ZmnyYAAAAABCGmoQByQ7TSOlOT/qflkT`

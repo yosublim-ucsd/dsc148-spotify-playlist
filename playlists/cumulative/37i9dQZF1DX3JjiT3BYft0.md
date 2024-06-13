@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-398 songs - 1 day 4 hr 48 min
+399 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1000回潤んだ空](https://open.spotify.com/track/0auqVPmbobwbmqwJbPu0Tr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」OP主題歌「ときめきエクスペリエンス!」](https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh) | 5:31 | 2022-05-17 | 2022-07-27 |
 | [A DECLARATION OF ×××](https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:15 | 2022-06-23 | 2022-10-02 |
 | [A DECLARATION OF ×××](https://open.spotify.com/track/5tmdbGdlFk5MckinctDpMj) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 5:15 | 2022-09-20 | 2023-06-01 |
-| [A DECLARATION OF ×××](https://open.spotify.com/track/36hzInQxdEAYvuGYDck85k) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [A DECLARATION OF ×××](https://open.spotify.com/album/6I9fsaIls8q8daqfyf38Qo) | 5:16 | 2022-06-23 |  |
+| [A DECLARATION OF ×××](https://open.spotify.com/track/36hzInQxdEAYvuGYDck85k) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [A DECLARATION OF ×××](https://open.spotify.com/album/6I9fsaIls8q8daqfyf38Qo) | 5:16 | 2022-06-23 | 2024-06-13 |
 | [A Distant Heartbeat](https://open.spotify.com/track/01hHmEBYk9oQClRa6A81HC) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 4:00 | 2022-06-23 | 2022-10-02 |
 | [A Song No More](https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS) | 4:37 | 2022-06-23 | 2022-08-31 |
 | [Apocalypse](https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Apocalypse](https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d) | 4:12 | 2023-09-21 |  |
@@ -94,7 +94,7 @@
 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 | 2022-05-17 |  |
 | [Glee! Glee! Glee!](https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:31 | 2022-09-20 | 2024-04-19 |
 | [GO! GO! MANIAC](https://open.spotify.com/track/3LgVlvdNcEa4iKhLxgdexo) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/1kkgobIs7hST3jqja1LUMd) | 4:07 | 2022-06-23 | 2022-10-02 |
-| [GO! GO! MANIAC](https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:07 | 2022-05-17 |  |
+| [GO! GO! MANIAC](https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:07 | 2022-05-17 | 2024-06-13 |
 | [GO! GO! MANIAC](https://open.spotify.com/track/3bq1rFkB36oXG5yd9oGQQC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/3fL6Q3WtPj6Unm0IZAc5fd) | 4:09 | 2023-06-29 | 2023-08-15 |
 | [Hanazono Electric Guitar!!!](https://open.spotify.com/track/3PepTcSJv2jHSnrSIzDGyR) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 3:17 | 2022-06-23 | 2022-10-02 |
 | [HELL! or HELL?](https://open.spotify.com/track/2YJKOIJlh9K14Q8TBZoKrk) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [DRIVE US CRAZY](https://open.spotify.com/album/3RKqfMngxktugTGzWQ5Be7) | 4:41 | 2022-05-17 | 2024-05-25 |
@@ -116,6 +116,7 @@
 | [Kanayume](https://open.spotify.com/track/2btNnLZtaV5xEaYyvObdBg) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Kanayume](https://open.spotify.com/album/5zD7LxOX0ZYXrXJ8xURfyf) | 5:07 | 2022-06-23 | 2022-10-02 |
 | [Keep Heart](https://open.spotify.com/track/1eanLmF0Q6F3UbwZMlfPS6) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Keep Heart / Original Call](https://open.spotify.com/album/3YOAnJSLfYRuUfPOsYt9N5) | 4:06 | 2022-06-23 | 2022-07-19 |
 | [Kizuna Music♪](https://open.spotify.com/track/5QeOdb0nDwmrWCCVQXsGaI) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 5:16 | 2022-06-23 | 2022-10-02 |
+| [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 | 2024-06-12 |  |
 | [Light a fire](https://open.spotify.com/track/2wBHkB3R5IOhGO3CPZt5pO) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:29 | 2022-05-17 | 2022-07-28 |
 | [Light Delight](https://open.spotify.com/track/1uY6uOC7DfLsrxFWcNqJHW) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [CiRCLING](https://open.spotify.com/album/4Myv0aLwr7OhYJqq2HzH2T) | 5:09 | 2022-05-17 | 2022-07-21 |
 | [Live Beyond!!](https://open.spotify.com/track/35leZAoLw6bjXchbPqXv0f) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK) | 5:14 | 2022-06-23 | 2022-07-29 |
@@ -277,7 +278,7 @@
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2022-07-29 |
 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/27Ze4gl303ysO24LUUZdrq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/4fP150ebRoP4PvCIy8rSeH) | 3:52 | 2022-09-20 | 2023-07-01 |
 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/4fcpTiauZx5tEi7JvtmWNf) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [SMILE ON PARADE](https://open.spotify.com/album/179xDc6x7RPbG09o0rEjXW) | 3:53 | 2023-07-27 | 2024-04-19 |
-| [わちゃ･もちゃ･ぺったん行進曲](https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T) | 3:53 | 2022-05-17 | 2024-04-26 |
+| [わちゃ･もちゃ･ぺったん行進曲](https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T) | 3:53 | 2022-05-17 |  |
 | [アイのシナリオ](https://open.spotify.com/track/0s0vCO5OkaM99xHLYUaeYG) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:19 | 2024-03-23 |  |
 | [イニシャル](https://open.spotify.com/track/28K904SKzdLam6ZI7fF45u) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イニシャル/夢を撃ち抜く瞬間に! \(Special Edition\)](https://open.spotify.com/album/5Ou7gzfqsGIwhii2xYHYS3) | 4:54 | 2022-05-17 | 2022-07-24 |
 | [イニシャル](https://open.spotify.com/track/0XkiNxWiq0F01MoGRGHuK6) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3) | 4:55 | 2022-10-25 | 2022-12-14 |

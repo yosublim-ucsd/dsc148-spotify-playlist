@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 130497,
+  "num_followers": 130509,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2"
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Emerald",
+          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
         }
       ],
-      "duration_ms": 218021,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn"
+      "duration_ms": 274426,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -631,38 +631,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
-      },
-      "artists": [
-        {
-          "name": "Emerald",
-          "url": "https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "paratroop(\u901a\u5e38\u76e4)",
-        "url": "https://open.spotify.com/album/6tmqRQRqrU9lrOd5EzjsYx"
-      },
-      "artists": [
-        {
-          "name": "sleepy.ab",
-          "url": "https://open.spotify.com/artist/6K5m40eGoEYPBOg7hSLjwy"
-        }
-      ],
-      "duration_ms": 313360,
-      "name": "\u30c9\u30ec\u30df",
-      "url": "https://open.spotify.com/track/7GtfuAf9L1zSNgm7AOve9Q"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
@@ -683,18 +651,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Re-\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo"
+        "name": "paratroop(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/6tmqRQRqrU9lrOd5EzjsYx"
       },
       "artists": [
         {
-          "name": "\u5ca1\u6751\u5321\u7d18",
-          "url": "https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR"
+          "name": "sleepy.ab",
+          "url": "https://open.spotify.com/artist/6K5m40eGoEYPBOg7hSLjwy"
         }
       ],
-      "duration_ms": 278518,
-      "name": "Re-\u9b54\u6cd5",
-      "url": "https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW"
+      "duration_ms": 313360,
+      "name": "\u30c9\u30ec\u30df",
+      "url": "https://open.spotify.com/track/7GtfuAf9L1zSNgm7AOve9Q"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -711,6 +679,38 @@
       "duration_ms": 239160,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "Re-\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u6751\u5321\u7d18",
+          "url": "https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR"
+        }
+      ],
+      "duration_ms": 278518,
+      "name": "Re-\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 218021,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/5zQraIoPAXGCBRx9spNtCn"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
-        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
-      },
-      "artists": [
-        {
-          "name": "Akina Nakamori",
-          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
-        }
-      ],
-      "duration_ms": 382866,
-      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
-      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "Westbound EP",
         "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 228005,
       "name": "Separate Seasons",
       "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
+        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
+      },
+      "artists": [
+        {
+          "name": "Akina Nakamori",
+          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+        }
+      ],
+      "duration_ms": 382866,
+      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
+      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
         "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 245746,
       "name": "\u5e0c\u671b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
-        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
-      },
-      "artists": [
-        {
-          "name": "Takehara Pistol",
-          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
-        }
-      ],
-      "duration_ms": 331984,
-      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
-      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 244666,
       "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
       "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
+        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
+      },
+      "artists": [
+        {
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+        }
+      ],
+      "duration_ms": 331984,
+      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
+      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "SUPERMARKET",
-        "url": "https://open.spotify.com/album/5RFQeZyK2dQb4MhdKx0XXq"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 94600,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/4HwY4xYxPeI93qsT3rpnwv"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "SUPERMARKET",
+        "url": "https://open.spotify.com/album/5RFQeZyK2dQb4MhdKx0XXq"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 94600,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/4HwY4xYxPeI93qsT3rpnwv"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        },
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
         }
       ],
-      "duration_ms": 233946,
-      "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
-      "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
+      "duration_ms": 392173,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

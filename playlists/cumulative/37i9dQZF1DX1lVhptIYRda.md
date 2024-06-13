@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Carly Pearce
+> Thank you to everyone who helped us heat up Spotify House at CMA Fest!
 
 777 songs - 1 day 17 hr 56 min
 

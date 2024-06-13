@@ -1,12 +1,12 @@
 {
   "description": "This Is Kenny G. Los temas esenciales, todos en una lista.",
-  "num_followers": 133826,
+  "num_followers": 133869,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAACDkf0n2EA8LUW79URVS9yO",
+  "snapshot_id": "ZmeTgAAAAAAd2emmayvqNYgJsKgLNqis",
   "tracks": [
     {
       "added_at": null,
@@ -250,11 +250,15 @@
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 256506,
-      "name": "Going Home - Edit",
-      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
+      "duration_ms": 261866,
+      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
+      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
     },
     {
       "added_at": null,
@@ -314,15 +318,11 @@
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 261866,
-      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
-      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
+      "duration_ms": 256506,
+      "name": "Going Home - Edit",
+      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 39766,
+  "num_followers": 39773,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAADsP/BXPP07NJI3cB7ubJ4E",
+  "snapshot_id": "ZmeTgAAAAAB4bRuxzvDB0jswwTe/9RKj",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
-        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "\u6c38\u9060",
-      "url": "https://open.spotify.com/track/0esGPhsobf4wut5WyVhtRf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANG!!!",
         "url": "https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 211320,
       "name": "Tonight Tonight",
       "url": "https://open.spotify.com/track/0u6qh4GP6vNsUtj35KeG17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "\u6c38\u9060",
+      "url": "https://open.spotify.com/track/0esGPhsobf4wut5WyVhtRf"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
-        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 301813,
-      "name": "The Everlasting Guilty Crown Nightcore mix",
-      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
+      "duration_ms": 96893,
+      "name": "The Everlasting Guilty Crown -TV Edit-",
+      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 96893,
-      "name": "The Everlasting Guilty Crown -TV Edit-",
-      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
         "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
+        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 301813,
+      "name": "The Everlasting Guilty Crown Nightcore mix",
+      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 257986,
       "name": "\u30ab\u30ca\u30c7\u30ca\u30eb",
       "url": "https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
-        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 143946,
-      "name": "London Bridge is falling down",
-      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
+        "url": "https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "London Bridge is falling down",
+      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 36948,
       "name": "prelude",
       "url": "https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 475773,
-      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
-      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 95506,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c(TV Edit)-Instrumental-",
       "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 475773,
+      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
+      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
     },
     {
       "added_at": null,

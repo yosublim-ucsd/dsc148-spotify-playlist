@@ -2,7 +2,7 @@
 
 ### [Rap Motivazionale](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Rap per non smettere mai di crederci 🏆 💪🏋️🏃‍♀ Ademola Lookman in cover.
+> Gianmarco Tamberi, oro europeo 🥇 Rap per non smettere mai di crederci 🏆 💪🏋️
 
 208 songs - 11 hr 31 min
 

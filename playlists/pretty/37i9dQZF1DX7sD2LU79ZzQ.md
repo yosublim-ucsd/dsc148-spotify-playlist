@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Elma Dae
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,142 likes - 95 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,193 likes - 95 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

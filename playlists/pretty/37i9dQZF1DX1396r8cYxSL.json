@@ -1,6 +1,6 @@
 {
   "description": "2024 yaz\u0131na damga vuracak \u015fark\u0131lar. Kapak: Reynmen",
-  "num_followers": 224387,
+  "num_followers": 224880,
   "original_name": "Yaz Hitleri 2024",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-05 21:01:00",
       "album": {
-        "name": "Tek Ba\u015f\u0131ma",
-        "url": "https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 209136,
-      "name": "Tek Ba\u015f\u0131ma",
-      "url": "https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ"
-    },
-    {
-      "added_at": "2024-06-05 21:01:00",
-      "album": {
         "name": "Elini Ver",
         "url": "https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 142600,
       "name": "Elini Ver",
       "url": "https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR"
+    },
+    {
+      "added_at": "2024-06-05 21:01:00",
+      "album": {
+        "name": "Tek Ba\u015f\u0131ma",
+        "url": "https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 209136,
+      "name": "Tek Ba\u015f\u0131ma",
+      "url": "https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ"
     },
     {
       "added_at": "2024-06-05 21:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-06-05 21:01:00",
       "album": {
-        "name": "Yan\u0131ba\u015f\u0131mda",
-        "url": "https://open.spotify.com/album/29DQUx0KYURggIpSJIiU0r"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        }
-      ],
-      "duration_ms": 143437,
-      "name": "Yan\u0131ba\u015f\u0131mda",
-      "url": "https://open.spotify.com/track/3I69y3FlCsZ6UlOQinRs3l"
-    },
-    {
-      "added_at": "2024-06-05 21:01:00",
-      "album": {
         "name": "Beni Bilen \u0130yi Biliyor",
         "url": "https://open.spotify.com/album/4nRRJVYley92QxPklnm67w"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 137553,
       "name": "Beni Bilen \u0130yi Biliyor",
       "url": "https://open.spotify.com/track/5wEezGcajXGdCMv5erl4WV"
+    },
+    {
+      "added_at": "2024-06-05 21:01:00",
+      "album": {
+        "name": "Yan\u0131ba\u015f\u0131mda",
+        "url": "https://open.spotify.com/album/29DQUx0KYURggIpSJIiU0r"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 143437,
+      "name": "Yan\u0131ba\u015f\u0131mda",
+      "url": "https://open.spotify.com/track/3I69y3FlCsZ6UlOQinRs3l"
     },
     {
       "added_at": "2024-06-05 21:01:00",

@@ -4,7 +4,7 @@
 
 > Tu banda sonora de este verano\. Foto: Omar Montes
 
-201 songs - 11 hr 14 min
+202 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,10 +157,11 @@
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-05-12 | 2023-06-07 |
 | [Pasa\_je\_ro](https://open.spotify.com/track/5wPrJkHbugqIJuMQJN2qjp) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pasa\_je\_ro](https://open.spotify.com/album/6iYDWq8eBZDw4Te0dOsnAI) | 4:07 | 2023-06-20 | 2023-07-11 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2023-05-12 | 2024-06-07 |
-| [Piscinita en tu ombligo](https://open.spotify.com/track/6vvwLNlIDCpcIdJyr0Yvy5) | [Alberto Gambino](https://open.spotify.com/artist/2KaaIknCVW5SstugreNkha), [Andy CM](https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos) | [Piscinita en tu ombligo](https://open.spotify.com/album/7bPDSnwz55mgTZ7exgFH0F) | 3:08 | 2024-06-06 |  |
+| [Piscinita en tu ombligo](https://open.spotify.com/track/6vvwLNlIDCpcIdJyr0Yvy5) | [Alberto Gambino](https://open.spotify.com/artist/2KaaIknCVW5SstugreNkha), [Andy CM](https://open.spotify.com/artist/0KMMGx2gkuprvNDT8sNWos) | [Piscinita en tu ombligo](https://open.spotify.com/album/7bPDSnwz55mgTZ7exgFH0F) | 3:08 | 2024-06-06 | 2024-06-13 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:57 | 2023-05-12 | 2024-05-25 |
 | [Pobre Diabla](https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Musica Tropical Para Bailar](https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e) | 4:15 | 2023-06-06 | 2024-05-25 |
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-06-09 | 2024-05-25 |
+| [Potra Salvaje \- Hard Remix](https://open.spotify.com/track/4gdpQ6zuDsePnD1YIDJCRw) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3), [Fernando Moreno](https://open.spotify.com/artist/4TQTQKrC6eNENv4xSH3Ax6) | [Potra Salvaje \(Hard Remix\)](https://open.spotify.com/album/7ztKmDnGDBWN0aFhuwXRfW) | 5:42 | 2024-06-12 |  |
 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 | 2024-06-03 |  |
 | [PUNTO G](https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:31 | 2023-05-12 | 2024-05-25 |
 | [Que Calor \(feat\. J Balvin & El Alfa\)](https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:49 | 2023-06-06 | 2023-06-23 |

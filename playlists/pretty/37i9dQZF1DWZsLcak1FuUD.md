@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,124 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,132 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [Completamente Nervioso \- Remastered Version](https://open.spotify.com/track/3JO0HoztZFs5N3R8LZ9Agp) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 3:04 |
 | 55 | [Viernes, 3 AM](https://open.spotify.com/track/0pudcmeGkwDCCRrnkbIY7W) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [La Grasa De Las Capitales](https://open.spotify.com/album/1UHipEAE5QRHaIM8giC8hs) | 4:06 |
 
-Snapshot ID: `ZgF/2QAAAADNFi1s7y/+bM7oWPmhr6hC`
+Snapshot ID: `ZmozJAAAAAC4VTOdcgUQR8DwWq5UFV24`

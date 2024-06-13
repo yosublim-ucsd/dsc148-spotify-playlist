@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Oficina G3",
-  "num_followers": 137090,
+  "num_followers": 137110,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,18 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
-        "name": "Onde Tem Lenha",
-        "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
+        "name": "Deus Me Livre",
+        "url": "https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv"
       },
       "artists": [
         {
-          "name": "Luzlive",
-          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
-        },
-        {
-          "name": "Jeff Damaceno",
-          "url": "https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ"
-        },
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+          "name": "Igor Pinheiro de Lima",
+          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
         }
       ],
-      "duration_ms": 594705,
-      "name": "Onde Tem Lenha",
-      "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
+      "duration_ms": 220000,
+      "name": "Deus Me Livre",
+      "url": "https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -195,18 +187,26 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
-        "name": "Deus Me Livre",
-        "url": "https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv"
+        "name": "Onde Tem Lenha",
+        "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
       },
       "artists": [
         {
-          "name": "Igor Pinheiro de Lima",
-          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
+          "name": "Luzlive",
+          "url": "https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa"
+        },
+        {
+          "name": "Jeff Damaceno",
+          "url": "https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ"
+        },
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Deus Me Livre",
-      "url": "https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6"
+      "duration_ms": 594705,
+      "name": "Onde Tem Lenha",
+      "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+    },
+    {
+      "added_at": "2024-06-07 17:39:54",
+      "album": {
         "name": "Castelo Forte (Ao Vivo)",
         "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
       },
@@ -659,26 +675,6 @@
       "duration_ms": 223440,
       "name": "Castelo Forte - Ao Vivo",
       "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
-    },
-    {
-      "added_at": "2024-06-07 17:39:54",
-      "album": {
-        "name": "Louco (feat. PG)",
-        "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 309383,
-      "name": "Louco (feat. PG)",
-      "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -739,18 +735,22 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "Louco (feat. PG)",
+        "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+      "duration_ms": 309383,
+      "name": "Louco (feat. PG)",
+      "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
+        "name": "Falhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+          "name": "Daniel Juan",
+          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
         }
       ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
+      "duration_ms": 379130,
+      "name": "Falhas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -855,18 +855,34 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
-        "name": "Falhas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
+        "name": "John",
+        "url": "https://open.spotify.com/album/5Kkg9ZUfUlO7nTyHmrrMuD"
       },
       "artists": [
         {
-          "name": "Daniel Juan",
-          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
+          "name": "Geisson Augusto",
+          "url": "https://open.spotify.com/artist/4UBl1COiNkZVcA0blaQKle"
         }
       ],
-      "duration_ms": 379130,
-      "name": "Falhas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+      "duration_ms": 210720,
+      "name": "John",
+      "url": "https://open.spotify.com/track/2VrZk39CZtqr7TIjF0aJIp"
+    },
+    {
+      "added_at": "2024-06-07 17:39:54",
+      "album": {
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -919,22 +935,6 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
-    },
-    {
-      "added_at": "2024-06-07 17:39:54",
-      "album": {
-        "name": "John",
-        "url": "https://open.spotify.com/album/5Kkg9ZUfUlO7nTyHmrrMuD"
-      },
-      "artists": [
-        {
-          "name": "Geisson Augusto",
-          "url": "https://open.spotify.com/artist/4UBl1COiNkZVcA0blaQKle"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "John",
-      "url": "https://open.spotify.com/track/2VrZk39CZtqr7TIjF0aJIp"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
-      },
-      "artists": [
-        {
-          "name": "Ana Diniz",
-          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
-        }
-      ],
-      "duration_ms": 240805,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
-    },
-    {
-      "added_at": "2024-06-07 17:39:54",
-      "album": {
         "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
         "url": "https://open.spotify.com/album/2nQY0SJ4s0mMjNSFgW0Bcx"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-06-07 17:39:54",
       "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
+      },
+      "artists": [
+        {
+          "name": "Ana Diniz",
+          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
+        }
+      ],
+      "duration_ms": 240805,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
+    },
+    {
+      "added_at": "2024-06-07 17:39:54",
+      "album": {
         "name": "Ex\u00edlio",
         "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
       },
@@ -1039,6 +1039,26 @@
       "duration_ms": 279510,
       "name": "Sobre as \u00c1guas",
       "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+    },
+    {
+      "added_at": "2024-06-07 17:39:54",
+      "album": {
+        "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3o5ypx5amOeFcUF7F2xsYe"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vasques",
+          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
+        },
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        }
+      ],
+      "duration_ms": 562285,
+      "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BSwIem2uF7yyKNF8h9n37"
     },
     {
       "added_at": "2024-06-07 17:39:54",
@@ -1071,26 +1091,6 @@
       "duration_ms": 193662,
       "name": "Fui Encontrado",
       "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
-    },
-    {
-      "added_at": "2024-06-07 17:39:54",
-      "album": {
-        "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3o5ypx5amOeFcUF7F2xsYe"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vasques",
-          "url": "https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf"
-        },
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 562285,
-      "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5BSwIem2uF7yyKNF8h9n37"
     },
     {
       "added_at": "2024-06-07 17:39:54",

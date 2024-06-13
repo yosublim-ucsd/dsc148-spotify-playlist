@@ -4,7 +4,7 @@
 
 > el nombre lo dice todo.
 
-207 songs - 12 hr 19 min
+208 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [No te enamores de él](https://open.spotify.com/track/6R0DBvEERp0MrxqxNsQ6rw) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [No te enamores de él](https://open.spotify.com/album/0iqIzRLZwJlE757cS7Ow6Z) | 3:17 | 2024-06-07 |  |
 | [No Te Quiero Perder](https://open.spotify.com/track/48fSe5XXSej9Gc0L9QlNGN) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Diaz Antes: La Ciudad De Los Niños Tristes](https://open.spotify.com/album/77AXHIqpK3pxuX6PsKkfhd) | 4:31 | 2022-03-22 | 2022-05-13 |
 | [No Te Vayas](https://open.spotify.com/track/0vRPGvIiFaRwohogbqmzKx) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [La Escuela](https://open.spotify.com/album/7jcuqVDIb9BYElfLRxjy3h) | 3:58 | 2022-03-22 | 2022-05-13 |
-| [No Te Veo \- Remix](https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Te Veo](https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP) | 4:12 | 2022-03-22 |  |
+| [No Te Veo \- Remix](https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Te Veo](https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP) | 4:12 | 2022-03-22 | 2024-06-13 |
 | [Noche De Entierro](https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Hector](https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 4:23 | 2023-05-12 | 2023-05-26 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2023-05-12 |  |
 | [Nos Entendemos](https://open.spotify.com/track/2WNPC43XdiYmOsCp9qxmUp) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Gaviria](https://open.spotify.com/artist/6oub1Q2hC7ZILcOWWn3Eo9), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5) | [Nos Entendemos](https://open.spotify.com/album/4dB5Xsylj0T1dfT6A83L2U) | 3:01 | 2022-03-22 | 2022-05-13 |
@@ -157,6 +157,7 @@
 | [Pobre Diabla](https://open.spotify.com/track/5UBWRjsOZXe9CWdNejj9hY) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Cocina Latina](https://open.spotify.com/album/3NRFRl5E9VZQnz3VZ0fOha) | 4:15 | 2022-08-05 | 2022-11-13 |
 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 | 2022-03-22 |  |
 | [PORFA](https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [PORFA](https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc) | 3:53 | 2022-03-22 | 2023-05-13 |
+| [PREFIERO ESTAR SOLO](https://open.spotify.com/track/3sw8U5X765Vw2ufOWtAYhu) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [EL NIÑO DE LOS CORAZONES](https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i) | 2:35 | 2024-06-07 |  |
 | [Quizas \- Remix](https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Marioso](https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu) | 4:00 | 2022-03-22 |  |
 | [Qué Más Pues](https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:23 | 2022-03-22 |  |
 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 | 2022-03-22 | 2023-05-13 |

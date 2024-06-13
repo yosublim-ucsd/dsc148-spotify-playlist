@@ -1,6 +1,6 @@
 {
   "description": "Disfruta de canciones pop para toda la familia.",
-  "num_followers": 236723,
+  "num_followers": 236724,
   "original_name": "Pop para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
@@ -299,38 +299,6 @@
     {
       "added_at": "2024-05-29 20:28:24",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Rosa Pastel",
-      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
-    },
-    {
-      "added_at": "2024-05-29 20:28:24",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/5Du2vpaVpdPeg47O3k1Me6"
-      },
-      "artists": [
-        {
-          "name": "Cham\u00e1nki",
-          "url": "https://open.spotify.com/artist/5F6YydtvzaoNs2W8qGwHyh"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0VfpaqdqsrDpk1fQZDz4y0"
-    },
-    {
-      "added_at": "2024-05-29 20:28:24",
-      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -351,6 +319,38 @@
       "duration_ms": 215600,
       "name": "VAGABUNDO",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2024-05-29 20:28:24",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/5Du2vpaVpdPeg47O3k1Me6"
+      },
+      "artists": [
+        {
+          "name": "Cham\u00e1nki",
+          "url": "https://open.spotify.com/artist/5F6YydtvzaoNs2W8qGwHyh"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0VfpaqdqsrDpk1fQZDz4y0"
+    },
+    {
+      "added_at": "2024-05-29 20:28:24",
+      "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK"
     },
     {
       "added_at": "2024-05-29 20:28:24",

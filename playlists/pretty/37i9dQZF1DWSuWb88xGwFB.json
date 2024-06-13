@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 34808,
+  "num_followers": 34820,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
-      },
-      "artists": [
-        {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Follow Me - Club Mix",
-      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Higher State Of Consciousness",
         "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 377960,
       "name": "Higher State of Consciousness - Tweekin Acid Funk",
       "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Follow Me - Club Mix",
+      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -219,6 +219,42 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
+        }
+      ],
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
+      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
+        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Darryl D'Bonneau",
+          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
+        }
+      ],
+      "duration_ms": 566026,
+      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
+      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Love Thang",
         "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
       },
@@ -247,26 +283,6 @@
       "duration_ms": 428760,
       "name": "Boy - MK Deep Dub",
       "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
-        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Darryl D'Bonneau",
-          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
-        }
-      ],
-      "duration_ms": 566026,
-      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
-      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -407,6 +423,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Asuca (Remixes)",
+        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca - Tribal Mix",
+      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Tribal - EP (Remixes)",
         "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
       },
@@ -435,22 +467,6 @@
       "duration_ms": 780936,
       "name": "Break Night - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/18BSfCDcxdUMJ6Q0e78Ra1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Asuca (Remixes)",
-        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 356676,
-      "name": "Asuca - Tribal Mix",
-      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -635,6 +651,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
       },
@@ -647,22 +679,6 @@
       "duration_ms": 440320,
       "name": "Curious - Vocal Mix",
       "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
-        }
-      ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
-      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -695,22 +711,6 @@
       "duration_ms": 364347,
       "name": "Carnival '95 - Pride Vocal Mix",
       "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",

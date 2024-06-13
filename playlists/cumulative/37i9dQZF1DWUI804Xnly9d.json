@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 250000,
       "name": "Ab Hum Bache",
       "url": "https://open.spotify.com/track/6UrSaCOb8RetvfElMRdGeI"
@@ -2257,6 +2257,36 @@
     },
     {
       "album": {
+        "name": "Javeda Sufiaana",
+        "url": "https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Tochi Raina",
+          "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Raman Mahadevan",
+          "url": "https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "Iktara - Male Version",
+      "url": "https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq"
+    },
+    {
+      "album": {
         "name": "ilhaam",
         "url": "https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH"
       },
@@ -3944,7 +3974,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 228510,
       "name": "Main Badal Gaya",
       "url": "https://open.spotify.com/track/7zDWmBat5hPhGzrvsz4aGH"
@@ -6624,6 +6654,24 @@
       "duration_ms": 191376,
       "name": "Tuney Na Jaana",
       "url": "https://open.spotify.com/track/3UmiabeUzFCIsVvZeD3bpQ"
+    },
+    {
+      "album": {
+        "name": "Tuta Pull Wahan",
+        "url": "https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313170,
+      "name": "Tuta Pull Wahan",
+      "url": "https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK"
     },
     {
       "album": {

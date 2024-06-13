@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189283,
+      "name": "BADVILLAIN",
+      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/4ycaoQvk5OsGiRoXP1SLq5"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 212600,
       "name": "Beautiful Ashes",
       "url": "https://open.spotify.com/track/3SLhntsE0KgkioZHs7l4ol"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 192240,
       "name": "BODY",
       "url": "https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5"
@@ -6822,7 +6840,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 204813,
       "name": "Girls\u2019 Night",
       "url": "https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG"
@@ -10026,10 +10044,32 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 164266,
       "name": "Like Magic",
       "url": "https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk"
+    },
+    {
+      "album": {
+        "name": "Like that",
+        "url": "https://open.spotify.com/album/49i3C9ZMmMAXUBL0xbfrO3"
+      },
+      "artists": [
+        {
+          "name": "Ellui",
+          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
+        },
+        {
+          "name": "Richboy Hardy",
+          "url": "https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156581,
+      "name": "Like that",
+      "url": "https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT"
     },
     {
       "album": {
@@ -10262,6 +10302,28 @@
       "duration_ms": 192000,
       "name": "Look Where We Are",
       "url": "https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75"
+    },
+    {
+      "album": {
+        "name": "LOOP",
+        "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163480,
+      "name": "LOOP (feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
       "album": {
@@ -15445,6 +15507,24 @@
     },
     {
       "album": {
+        "name": "Kep1going On",
+        "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
+    },
+    {
+      "album": {
         "name": "Omnibus, Pt. 2: Inside Out",
         "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
       },
@@ -16530,6 +16610,24 @@
       "duration_ms": 185093,
       "name": "Stupid O'clock",
       "url": "https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb"
+    },
+    {
+      "album": {
+        "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
+      },
+      "artists": [
+        {
+          "name": "ECLIPSE",
+          "url": "https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233031,
+      "name": "Sudden Shower",
+      "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
     },
     {
       "album": {
@@ -19246,7 +19344,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 138306,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/4NxbUHGeXsQgxvR8YKbHjC"

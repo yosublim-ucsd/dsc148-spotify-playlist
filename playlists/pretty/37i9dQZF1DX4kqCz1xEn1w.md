@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,414 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,410 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 93 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 94 | [Just One Drop \- Live From New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live From New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 |
 | 95 | [Jesus Paid It All](https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6vt5cLaUYuAg77XKgfnxYQ) | 5:46 |
-| 96 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
-| 97 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
-| 98 | [Jesus Victorious](https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm) | [Mozaiek Worship](https://open.spotify.com/artist/7h4EivNSDwUKAn0O2EVYqZ), [Kees Kraayenoord](https://open.spotify.com/artist/10WtuxUJ22JY0d03VCT070) | [Jesus Victorious](https://open.spotify.com/album/32SVBmVICRKdy1WMsReKZy) | 6:18 |
+| 96 | [Thank You](https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Thank You](https://open.spotify.com/album/344FLgN07l7Ye9un6qWaNu) | 4:33 |
+| 97 | [Jesus Victorious](https://open.spotify.com/track/6zQCsfV2xYrpeq7OkL2uTm) | [Mozaiek Worship](https://open.spotify.com/artist/7h4EivNSDwUKAn0O2EVYqZ), [Kees Kraayenoord](https://open.spotify.com/artist/10WtuxUJ22JY0d03VCT070) | [Jesus Victorious](https://open.spotify.com/album/32SVBmVICRKdy1WMsReKZy) | 6:18 |
+| 98 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 |
 | 99 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 |
 | 100 | [My Hope Is In the Blood](https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 4:21 |
 

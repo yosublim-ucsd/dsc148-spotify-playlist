@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 63842,
+  "num_followers": 63952,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Hiyo Lento",
-        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
-      },
-      "artists": [
-        {
-          "name": "Jabu Khanyile",
-          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
-        },
-        {
-          "name": "Bayete",
-          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Sponky Ponky",
-      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
         "url": "https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 246822,
       "name": "Sondela (feat. Yumbs, Raspy, Blxckie, Riky Rick & Tshego)",
       "url": "https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Hiyo Lento",
+        "url": "https://open.spotify.com/album/5bzpGxfaAfxhaeMRXWjYql"
+      },
+      "artists": [
+        {
+          "name": "Jabu Khanyile",
+          "url": "https://open.spotify.com/artist/14pAu5JI8kVOY4XQq8riuB"
+        },
+        {
+          "name": "Bayete",
+          "url": "https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Sponky Ponky",
+      "url": "https://open.spotify.com/track/3aP5INLpRhdPK4PXWUVpIH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Sawa Sawa",
+        "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
+      },
+      "artists": [
+        {
+          "name": "Eric Wainaina",
+          "url": "https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Ritwa Riaku",
+      "url": "https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Give You Love",
         "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 234605,
       "name": "Give You Love",
       "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Sawa Sawa",
-        "url": "https://open.spotify.com/album/6YGk7QcA9LkknK66j3JGsw"
-      },
-      "artists": [
-        {
-          "name": "Eric Wainaina",
-          "url": "https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Ritwa Riaku",
-      "url": "https://open.spotify.com/track/05sESPfWsXLK9EXaIS4ki9"
     },
     {
       "added_at": "2024-05-22 11:00:00",

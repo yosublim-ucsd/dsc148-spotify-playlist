@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,991 likes - 37 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,008 likes - 37 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 36 | [Ya Naseeni](https://open.spotify.com/track/22d2S7bEi30u4TIyfBn6UD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ya Naseeni](https://open.spotify.com/album/5dUFJ8fT2qtwrRcNenJoGy) | 2:45 |
 | 37 | [في بالي](https://open.spotify.com/track/3n2pKLjes1ZeItC7au8BSw) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [في بالي](https://open.spotify.com/album/3VKqDho2Cc2w6vUtn6EsiW) | 3:15 |
 
-Snapshot ID: `ZjuN5gAAAAAok1q2YS8Xk/CrHMLSIl34`
+Snapshot ID: `ZmknNgAAAABTqUh7c6bfrddVz1m68+/P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,571 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,635 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 2 | [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 |
 | 3 | [Baptist](https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Flawed by Design](https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT) | 5:02 |
 | 4 | [Fill My Cup](https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Fill My Cup](https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ) | 3:48 |
-| 5 | [It's Alright \(But It Ain't The Same\)](https://open.spotify.com/track/2AdZYJjySsnRiaUTeqPfgu) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [It's Alright \(But It Ain't The Same\)](https://open.spotify.com/album/42BQQHzj4T1zSXPvzUvdPy) | 2:45 |
+| 5 | [It's Alright \(But It Ain't The Same\)](https://open.spotify.com/track/2AdZYJjySsnRiaUTeqPfgu) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [It's Alright \(But It Ain't The Same\)](https://open.spotify.com/album/42BQQHzj4T1zSXPvzUvdPy) | 2:43 |
 | 6 | [Forever Young](https://open.spotify.com/track/0Ya0RaQ2OOpwNR3oTxAuBt) | [Brian Owens](https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Dylan McDonald](https://open.spotify.com/artist/6N45Hme7I09LsLQSf62Fzf), [Thomas Owens](https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F) | [Forever Young](https://open.spotify.com/album/0n7OYKGvADJxCOHeos5MlR) | 4:52 |
 | 7 | [Be My Own Man](https://open.spotify.com/track/5wOthUe5Zx1FdIB9GSFvBd) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Be My Own Man](https://open.spotify.com/album/1Eboy7GftOfgKfFofBdW6O) | 3:45 |
 | 8 | [Let's Be Alone Together](https://open.spotify.com/track/4svMoWeX1xfkJw4NiRJL6N) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Let's Be Alone Together](https://open.spotify.com/album/4ZSJXSwFpoVKzVCInWagCi) | 5:11 |

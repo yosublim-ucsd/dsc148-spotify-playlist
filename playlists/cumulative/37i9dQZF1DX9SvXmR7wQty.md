@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,593 songs - 5 day 18 hr 19 min
+2,594 songs - 5 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Blue](https://open.spotify.com/track/0QWTSUL3mTStCXLMkPEh2u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Blue](https://open.spotify.com/album/2pJgvL6pmjgyRsApaegLNP) | 3:12 | 2023-07-21 | 2023-07-29 |
 | [blue](https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:40 | 2023-01-27 | 2023-02-11 |
 | [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 | 2024-03-08 | 2024-05-02 |
-| [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-24 |  |
+| [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-24 | 2024-06-13 |
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-04-16 |
 | [Boire un coup](https://open.spotify.com/track/7Jl9wKc0k5aeQp7FEMGZ4n) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [Boire un coup](https://open.spotify.com/album/6b1mz1YY8VZ8y4dDRilk3c) | 2:34 | 2022-01-14 | 2022-01-22 |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-01-21 | 2022-01-29 |
@@ -2175,6 +2175,7 @@
 | [Soleil des loups](https://open.spotify.com/track/6gkRmf7ppfbNNTXpXSYhwp) | [Beau Nectar](https://open.spotify.com/artist/2XDuWdt7zEptAlDpeqfcMH), [Marie\-Clo](https://open.spotify.com/artist/09ubgSbt4gC7ZVF6xRRFb7), [éemi](https://open.spotify.com/artist/0xLZyJmPzIEMi7BIK4R46P) | [Soleil des loups](https://open.spotify.com/album/2FwQG8y5MlKSTWayPmqTzG) | 3:22 | 2023-02-10 | 2023-02-25 |
 | [Soleil encabané](https://open.spotify.com/track/0oWcXec6E4OV10gke838Of) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Parhélie](https://open.spotify.com/album/0sBmYOOGem7io7zYkdE3e0) | 4:46 | 2024-04-19 | 2024-04-27 |
 | [Soleil Soleil \(feat\. November Ultra\)](https://open.spotify.com/track/48elauEVw3DWVA2lFyqUUZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Soleil Soleil \(feat\. November Ultra\)](https://open.spotify.com/album/1kygkof72o5j6UUTyN5cks) | 3:02 | 2023-02-24 | 2023-03-11 |
+| [Solide](https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Solide](https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8) | 2:15 | 2024-06-07 |  |
 | [Solitude](https://open.spotify.com/track/61CMCprMB16Am1XnWaoRrw) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Le Voyage de M\. Lonely dans la Lune](https://open.spotify.com/album/0fNi5z8rGNtc8CVK5DlqU7) | 3:25 | 2022-02-18 | 2022-02-26 |
 | [Solo](https://open.spotify.com/track/7AbngawBVogPrrUtLKxXLu) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Solo](https://open.spotify.com/album/0XtaPv3S7iWwCAiO0zG5wK) | 2:57 | 2022-01-14 | 2022-01-29 |
 | [Solo](https://open.spotify.com/track/0SyxMkYIfwkWKyQxSqhxHe) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Maestro](https://open.spotify.com/album/4XXELNvJzTbvToKxjQLR1O) | 3:16 | 2024-02-02 | 2024-02-10 |

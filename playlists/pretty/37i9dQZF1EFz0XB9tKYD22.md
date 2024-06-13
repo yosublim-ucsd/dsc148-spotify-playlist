@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 311 songs - 18 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 284 likes - 311 songs - 18 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 35 | [Grave](https://open.spotify.com/track/0rpwb2kLgS6KAZsostOj1O) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:13 |
 | 36 | [When Someone Stops Loving You](https://open.spotify.com/track/7A55QoGK0vf8lGNtaWZm45) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:48 |
 | 37 | [Buy My Own Drinks](https://open.spotify.com/track/6LhZAoMfux3P3DUxwOI7aG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/3HNVxd2fKr94wkdhyLH5nf) | 3:22 |
-| 38 | [Wonder Woman](https://open.spotify.com/track/38UCGIpo273uGgdBXbi992) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:00 |
-| 39 | [Need A Boat](https://open.spotify.com/track/5UmCoA8uugbNcVAfKMW3P2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:05 |
+| 38 | [Need A Boat](https://open.spotify.com/track/5UmCoA8uugbNcVAfKMW3P2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:05 |
+| 39 | [Wonder Woman](https://open.spotify.com/track/38UCGIpo273uGgdBXbi992) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:00 |
 | 40 | [Grigio Girls](https://open.spotify.com/track/6Xxvdy1m9TX9HTxOzQcfuV) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:00 |
 | 41 | [It All Comes Out in the Wash](https://open.spotify.com/track/41FLEFSeRCv19OBn0vLiaH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:34 |
 | 42 | [Ghost Story](https://open.spotify.com/track/3MpZM408Ly3jq76tF9OmZu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:01 |
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 203 | [The Chapter](https://open.spotify.com/track/1AYKKWCYkY31Ae7nZj7VcG) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 3:32 |
 | 204 | [Get Even](https://open.spotify.com/track/0Vp9rhKKoPG5cQUgB1SWXI) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Fantasy Island](https://open.spotify.com/album/30jLEnJpFOR8NQzDLn2rbc) | 2:58 |
 | 205 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
-| 206 | [Good as Gone](https://open.spotify.com/track/6t8NnIURMSsmCd7rfxLCS9) | [Liv Charette](https://open.spotify.com/artist/1auuEPeyKavtg7hXiNxe1H) | [Good as Gone](https://open.spotify.com/album/3vwOzIiCR9Z9eJDu0kQFS8) | 3:21 |
-| 207 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 206 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 207 | [Good as Gone](https://open.spotify.com/track/6t8NnIURMSsmCd7rfxLCS9) | [Liv Charette](https://open.spotify.com/artist/1auuEPeyKavtg7hXiNxe1H) | [Good as Gone](https://open.spotify.com/album/3vwOzIiCR9Z9eJDu0kQFS8) | 3:21 |
 | 208 | [Coming Soon To A Bar Near You](https://open.spotify.com/track/4XHdGi9H4H9WnoU5yEd6dU) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Coming Soon To A Bar Near You](https://open.spotify.com/album/1uFJAWOVadKVIWsnvEwyxG) | 3:46 |
 | 209 | [Simple Life](https://open.spotify.com/track/7jp5yLTwHNJL9awtdZf2Br) | [Carolyn Dawn Johnson](https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC) | [Dress Rehearsal](https://open.spotify.com/album/4AT9vMMfL9ZqvgoNfr1UYe) | 3:49 |
 | 210 | [Beat Up Bronco](https://open.spotify.com/track/2zlaIBgJYVIcis4Fkb80X7) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 3:46 |
@@ -240,9 +240,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 230 | [Something Strong](https://open.spotify.com/track/4ooiGkHiIi6VQNGmE0MnSR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:34 |
 | 231 | [I've Forgotten You \- Live](https://open.spotify.com/track/0Jd4VzemqpzeoZaFS7c2SD) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Ragin' Live](https://open.spotify.com/album/76fXgXvRmyAIkh0gLZuWFf) | 4:35 |
 | 232 | [Big Cry](https://open.spotify.com/track/05Wur4UuHdUIP3c8Hvs7fi) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 3:17 |
-| 233 | [tryin' to love you](https://open.spotify.com/track/0wVv0sMgj9Wx6fSumhAzwT) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:57 |
-| 234 | [Bad Love](https://open.spotify.com/track/3IJ5RruUSymQVekN6wDhjF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 3:26 |
-| 235 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 |
+| 233 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 |
+| 234 | [tryin' to love you](https://open.spotify.com/track/0wVv0sMgj9Wx6fSumhAzwT) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ) | 2:57 |
+| 235 | [Bad Love](https://open.spotify.com/track/3IJ5RruUSymQVekN6wDhjF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3lZesmHhJf50RFYGvocRsM) | 3:26 |
 | 236 | [Summer Of Love](https://open.spotify.com/track/6DD2q4wRpJwwiUajqQMeKx) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Eleven](https://open.spotify.com/album/2IjiBV6bprNXNHexpJ9WIC) | 4:19 |
 | 237 | [Being Myself](https://open.spotify.com/track/36EvBZRt8Oyx9rqt6L3mws) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 3:40 |
 | 238 | [Heartbreaker](https://open.spotify.com/track/0XAKcbVMoF5kW8Dqjdhbdx) | [Whitney Duncan](https://open.spotify.com/artist/7D3IiPrIsSWfMFHEqEOCUB) | [Heartbreaker](https://open.spotify.com/album/4w3sOYIFoyDInELmHxhHdT) | 3:29 |
@@ -255,9 +255,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 245 | [Breaking Records](https://open.spotify.com/track/72FNsFFDdqEo33zpQOvuKi) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Grace & Grit](https://open.spotify.com/album/1DkXrCQ2RrEZBX9dlEXY3k) | 3:53 |
 | 246 | [Let Her Go](https://open.spotify.com/track/6GTiLfDygM7euChFBDDjOb) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [Let Her Go](https://open.spotify.com/album/6BzP690n4yPUBxfMg8w8Xt) | 3:19 |
 | 247 | [Straight To The Bone](https://open.spotify.com/track/74tSY8ywhMkqzW0ivzLk3K) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 4:17 |
-| 248 | [Lightning Bolt](https://open.spotify.com/track/4uBYSgXDv01k8dYcSmr76I) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Kiss Me Quiet](https://open.spotify.com/album/7trmOrFHxIc5lHK7cTxwcW) | 3:39 |
-| 249 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
-| 250 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 248 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 249 | [Lightning Bolt](https://open.spotify.com/track/4uBYSgXDv01k8dYcSmr76I) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Kiss Me Quiet](https://open.spotify.com/album/7trmOrFHxIc5lHK7cTxwcW) | 3:39 |
+| 250 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
 | 251 | [Coppertone and Chlorine](https://open.spotify.com/track/7i73kavwwRDWv3Qt04CLfg) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/3QpdL2vmiTvHreU6KTqzTn) | 3:02 |
 | 252 | [Country Radio Song](https://open.spotify.com/track/5rIwPOzsUQVvK3IIaaS9OV) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Double Wide Castle Sessions](https://open.spotify.com/album/4CVqU1EaY3DSJOTINW6E5x) | 3:22 |
 | 253 | [Still Got You on My Mind](https://open.spotify.com/track/1lRj0JwuDAZEpjFA5Gq4ei) | [Alaura Lynne](https://open.spotify.com/artist/3IxcwR6roop7eFUSCygNTA) | [Still Got You on My Mind](https://open.spotify.com/album/6IfYpWXAw22WCC1AhNjwHv) | 3:21 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 310 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 311 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbTzTAAAAAD9ki207D0F+UrU3axvEbZJ`
+Snapshot ID: `AbT47AAAAABhCgr8BUuCYOo1FRlv+6jG`

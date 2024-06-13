@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,239 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,305 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 51 | [You Don’t](https://open.spotify.com/track/4wxBy0t4F83qVAiHahe6kW) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [You Don’t](https://open.spotify.com/album/35cLRFjBHzSSAEKyacty64) | 3:43 |
 | 52 | [Begin Again](https://open.spotify.com/track/1ZMKH7Je63BrxW4QLz5Hym) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Heaving Chest](https://open.spotify.com/album/4K3H1n3cKk7OKK31yR3kBn) | 3:24 |
 | 53 | [Easy](https://open.spotify.com/track/4S9cpPwTo9o0tMFNGkYzRn) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t), [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Easy](https://open.spotify.com/album/4BM3fZKsal4h6kgU86f1Dl) | 2:39 |
-| 54 | [a bad dream from an old life](https://open.spotify.com/track/1XgTha61JE1qk9J2wmsoNm) | [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF) | [a bad dream from an old life](https://open.spotify.com/album/1b9QIgbrTT1QzVfURsTkwZ) | 3:28 |
+| 54 | [a bad dream from an old life](https://open.spotify.com/track/1XgTha61JE1qk9J2wmsoNm) | [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF), [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [a bad dream from an old life](https://open.spotify.com/album/1b9QIgbrTT1QzVfURsTkwZ) | 3:28 |
 | 55 | [Same Things](https://open.spotify.com/track/3x2yirfV6nasZqmQ67PD1y) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/6P5iR01v1KjmALN4bwkIKD) | 2:49 |
 | 56 | [Louise \(feat\. Teitur\)](https://open.spotify.com/track/1ZeVc8ZvZsCzVZ532nr14a) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Louise \(feat\. Teitur\)](https://open.spotify.com/album/5JQlz2FPLZqgm4b0AgxRXS) | 3:29 |
 | 57 | [Maybe If I Wore Sunglasses Inside I Won't Feel Tired](https://open.spotify.com/track/3ABzFrPGGVBjn87dLV5g6f) | [Jess Ribeiro](https://open.spotify.com/artist/7AUTmLTFczsYPnMDaLrU0N) | [Summer Of Love](https://open.spotify.com/album/3mFgQhjQyNHOJa23AQ1N2X) | 4:25 |

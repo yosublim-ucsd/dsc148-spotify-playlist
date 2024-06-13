@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Pink Aura",
+        "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124684,
+      "name": "La OG",
+      "url": "https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F"
+    },
+    {
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },

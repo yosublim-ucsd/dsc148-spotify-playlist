@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Gursheet Khanuja, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Anirudh Bhola, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -20894,6 +20894,24 @@
       "duration_ms": 314594,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/1z3nEVTxTwliGeHxFDeZsQ"
+    },
+    {
+      "album": {
+        "name": "Tere Peeche Chal Diya",
+        "url": "https://open.spotify.com/album/7HmP4zLHdIgP6WiNhdCvRA"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Bhola",
+          "url": "https://open.spotify.com/artist/7ojuUObZvGIFTPmThkU91K"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195176,
+      "name": "Tere Peeche Chal Diya",
+      "url": "https://open.spotify.com/track/2VUik9Lfuu7n5ftlzL6H7E"
     },
     {
       "album": {

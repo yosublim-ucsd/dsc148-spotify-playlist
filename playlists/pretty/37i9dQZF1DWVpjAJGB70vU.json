@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: Alan Jackson",
-  "num_followers": 1850486,
+  "num_followers": 1851163,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Honky Tonk Attitude",
         "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
+        "name": "You've Got to Stand for Something",
+        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Aaron Tippin",
+          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
         }
       ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+      "duration_ms": 182280,
+      "name": "You've Got to Stand for Something",
+      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 228173,
       "name": "Paint Me A Birmingham",
       "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "You've Got to Stand for Something",
-        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Tippin",
-          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "You've Got to Stand for Something",
-      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1219,8 +1219,24 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
       "artists": [
         {
@@ -1228,25 +1244,9 @@
           "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 219506,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Greatest Hits Collection",
-        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Tall, Tall Trees",
-      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 166626,
       "name": "What's It to You",
       "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Greatest Hits Collection",
+        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Tall, Tall Trees",
+      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Brand New Man",
         "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 178893,
       "name": "Brand New Man",
       "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2024-05-22 11:00:00",

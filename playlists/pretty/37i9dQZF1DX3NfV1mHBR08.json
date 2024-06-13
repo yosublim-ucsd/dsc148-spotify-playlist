@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14676,
+  "num_followers": 14675,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-04-22 05:06:08",
       "album": {
-        "name": "H1-KEYnote #2 [Deeper]",
-        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
-    },
-    {
-      "added_at": "2024-04-22 05:06:08",
-      "album": {
         "name": "Dear Diary",
         "url": "https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 218523,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
+    },
+    {
+      "added_at": "2024-04-22 05:06:08",
+      "album": {
+        "name": "H1-KEYnote #2 [Deeper]",
+        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
     },
     {
       "added_at": "2024-04-22 05:06:08",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-04-22 05:06:08",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2024-04-22 05:06:08",
-      "album": {
         "name": "wish you all to be happy",
         "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223644,
       "name": "Listen to this song",
       "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
+    },
+    {
+      "added_at": "2024-04-22 05:06:08",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2024-04-22 05:06:08",

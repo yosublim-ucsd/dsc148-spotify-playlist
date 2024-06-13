@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-552 songs - 1 day 13 hr 13 min
+553 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-09-25 | 2024-04-19 |
 | [Before We Begin](https://open.spotify.com/track/4yx0aYJgnWIy18akJtxmON) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Behind the Backs of Houses](https://open.spotify.com/track/2m1iKwWyFR49YOVUpX6FG0) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Behind the Backs of Houses](https://open.spotify.com/album/1s8AIgVgFsMkigJlEz23ht) | 6:38 | 2023-01-17 |  |
-| [Believe](https://open.spotify.com/track/76ekLbfyuNyUFqTwr7qVLd) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/5H95zxOs0ctqostVPsULG1) | 3:22 | 2023-01-17 |  |
+| [Believe](https://open.spotify.com/track/76ekLbfyuNyUFqTwr7qVLd) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/5H95zxOs0ctqostVPsULG1) | 3:22 | 2023-01-17 | 2024-06-13 |
 | [Believe](https://open.spotify.com/track/7LU69DVvvm8SXa3f4R7qzH) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/317uI12DItPAj28IxEA8qz) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Bend The Round](https://open.spotify.com/track/4CeI9wWFAWcxkkANWKV1XB) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Bend The Round](https://open.spotify.com/album/5wnRlXirKPPP7DrFswTIdq) | 3:27 | 2023-07-25 |  |
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2023-01-17 |  |
@@ -88,6 +88,7 @@
 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 | 2023-01-17 | 2024-04-19 |
 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-01 |  |
 | [Chariot](https://open.spotify.com/track/12kZPPg7Ve9Br7mEtmVY1h) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [B\-Sides and Rarities](https://open.spotify.com/album/2K3XaSsGQ9Bxxr7byYAcrO) | 5:16 | 2023-01-17 | 2023-11-01 |
+| [Chateau](https://open.spotify.com/track/2LY0DjFGGF0JQugFzWSGpi) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/68Uy1KyPTQTWjVqrSE97hV) | 4:33 | 2023-01-17 |  |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2023-01-17 | 2024-04-19 |
 | [Clearer](https://open.spotify.com/track/1t0yaPngkHpryY7LmGVhNb) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Clearer and other singles, 1991\-1995](https://open.spotify.com/album/5goYNsARssw85qlKypHQPR) | 3:52 | 2023-01-17 |  |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2023-01-17 | 2024-04-19 |

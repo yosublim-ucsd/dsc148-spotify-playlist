@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Ellui, Richboy Hardy\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Way Ched\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-703 songs - 1 day 14 hr 2 min
+704 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Baby](https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Baby](https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO) | 3:09 | 2023-07-01 |  |
 | [Baby](https://open.spotify.com/track/6XgrmsDAnuYvpBKVjy4ihI) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Shininryu](https://open.spotify.com/album/2yXhRvdGX9y21B04xr44Vw) | 3:46 | 2022-04-21 | 2022-07-29 |
 | [BAD \(feat\. YOUHA\)](https://open.spotify.com/track/7ph9Xo8TV9VFefeoJYdPt6) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [3](https://open.spotify.com/album/0gTHn0J0lacEFTTpFsGa2T) | 3:22 | 2024-04-12 | 2024-05-23 |
+| [Bad Idea \(Feat\. BANG YEDAM, pH\-1\)](https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BLEND](https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR) | 2:17 | 2024-06-12 |  |
 | [Bad Morning](https://open.spotify.com/track/0OadKRqGmUnSJBPG61eMWE) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 2:51 | 2022-04-01 | 2022-07-16 |
 | [BAEK\-SEOK HIGHSCHOOL \(Prod\. Jgrow\)](https://open.spotify.com/track/6DFuz5klp5t2UXo4NFMg3Y) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [BAEK\-SEOK HIGHSCHOOL](https://open.spotify.com/album/1zJnI2oziS0rXmEs0yDvRV) | 3:36 | 2022-05-11 | 2022-07-16 |
 | [BANDS TO THA ROOF](https://open.spotify.com/track/2XuL9psXSmu3Eb7BsbGK66) | [Mac9](https://open.spotify.com/artist/5bQqdZckFb7rtZS0hFJsuT) | [FASTEST SHOOTING STAR!](https://open.spotify.com/album/0sQQ0zzSZ0ZVrNr47Jc6np) | 2:10 | 2022-07-13 | 2022-07-15 |
@@ -360,7 +361,7 @@
 | [LIVE CLASSIC \(with Lotte Castle\)](https://open.spotify.com/track/4NyUA8nLOEPMBdkJBg21kC) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [LIVE CLASSIC](https://open.spotify.com/album/7vqCpGJ8nH8s2X9Dz1lCtZ) | 2:37 | 2023-08-16 | 2023-09-19 |
 | [Lonely](https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:16 | 2022-04-01 |  |
 | [looking for](https://open.spotify.com/track/7frb6j67G0tcbB7EDPOQq9) | [Won Jang](https://open.spotify.com/artist/0qygfMwBnBWSto1ty1FmXS) | [The Best](https://open.spotify.com/album/7IcrCpUgjSuVCougQxZWO0) | 2:28 | 2022-05-31 | 2022-06-05 |
-| [Loop](https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Loop](https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf) | 2:35 | 2022-04-01 |  |
+| [Loop](https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Loop](https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf) | 2:35 | 2022-04-01 | 2024-06-13 |
 | [Loop \(Feat\. Skinny Brown\)](https://open.spotify.com/track/1QO3rNfh9Zu5r14aDzYjO7) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Loop \(Feat\. Skinny Brown\)](https://open.spotify.com/album/7Ddwf6aN8ZTNgr8SdpxKCF) | 2:59 | 2023-02-15 | 2023-02-25 |
 | [LOSE CONTROL \(Feat\. GRAY\)](https://open.spotify.com/track/5iYBMcdOn06gRCcVLTksRc) | [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [LOSE CONTROL \(Feat\. GRAY\)](https://open.spotify.com/album/5v3VHXoNvj5hrpDP4nvBzi) | 3:20 | 2022-04-21 | 2022-07-24 |
 | [LOST](https://open.spotify.com/track/5a0SuGMEWcQiTHeh8Q8Too) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [LOST](https://open.spotify.com/album/4bTKOMMrSqEiZi8ElLAjY1) | 2:40 | 2022-04-21 | 2022-07-29 |

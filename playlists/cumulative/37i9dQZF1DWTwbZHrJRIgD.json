@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 182104,
       "name": "Achha Lag Raha Hai",
       "url": "https://open.spotify.com/track/4plvShsskQ7Gu8EIxfxHNB"
@@ -256,6 +256,32 @@
       "duration_ms": 171147,
       "name": "Akhiyaan Gulaab",
       "url": "https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri"
+    },
+    {
+      "album": {
+        "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
+        "url": "https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260262,
+      "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
+      "url": "https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt"
     },
     {
       "album": {
@@ -2211,6 +2237,32 @@
     },
     {
       "album": {
+        "name": "Achha Lag Raha Hai",
+        "url": "https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "Kho Jaana",
+      "url": "https://open.spotify.com/track/6fIgYyuZ4gEWjY8cqlyKWj"
+    },
+    {
+      "album": {
         "name": "Dil Bechara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr"
       },
@@ -2340,7 +2392,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 172381,
       "name": "Kudi Nu Nachne De (From \"Angrezi Medium\")",
       "url": "https://open.spotify.com/track/4YIhJmihoXwjtbY4vsV9Nh"
@@ -4092,7 +4144,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 260506,
       "name": "Slow Motion Angreza",
       "url": "https://open.spotify.com/track/0JX7Es2j556FwtR6YqMKzP"

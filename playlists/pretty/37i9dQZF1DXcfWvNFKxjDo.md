@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Gabry Ponte, le Shuuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,182 likes - 79 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,186 likes - 79 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

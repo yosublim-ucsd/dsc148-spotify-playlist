@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Martin Ikin. 50% techno, 50% house",
-  "num_followers": 626041,
+  "num_followers": 626149,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1521,26 +1521,6 @@
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "No Reason (Chris Lake Remix)",
-        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 257419,
-      "name": "No Reason - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "EYAH (You'll Be Alright)",
@@ -1563,6 +1543,26 @@
       "duration_ms": 175748,
       "name": "EYAH (You'll Be Alright)",
       "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "No Reason (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 257419,
+      "name": "No Reason - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1641,6 +1641,22 @@
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 138725,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Tarantula (Max Styler Remix)",
@@ -1659,22 +1675,6 @@
       "duration_ms": 201243,
       "name": "Tarantula - Max Styler Remix",
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 138725,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1829,24 +1829,28 @@
       "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+        "name": "Up N' Down (feat. JmNPR)",
+        "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
         },
         {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "JmNPR",
+          "url": "https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+      "duration_ms": 208637,
+      "name": "Up N' Down (feat. JmNPR)",
+      "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1875,30 +1879,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Up N' Down (feat. JmNPR)",
-        "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        },
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        },
-        {
-          "name": "JmNPR",
-          "url": "https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2"
-        }
-      ],
-      "duration_ms": 208637,
-      "name": "Up N' Down (feat. JmNPR)",
-      "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Diamond Therapy",
         "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 199472,
       "name": "Diamond Therapy",
       "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2029,30 +2029,6 @@
       "url": "https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Sharam",
-          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
-        },
-        {
-          "name": "Pony",
-          "url": "https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q"
-        }
-      ],
-      "duration_ms": 206964,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Done",
@@ -2103,6 +2079,30 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/6Syz5BAAt7sDWPKUSRVP7T"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sharam",
+          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
+        },
+        {
+          "name": "Pony",
+          "url": "https://open.spotify.com/artist/5YVzHQeLnRkEYK5T5XFQ0q"
+        }
+      ],
+      "duration_ms": 206964,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2225,6 +2225,30 @@
       "url": "https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Body Pop",
+        "url": "https://open.spotify.com/album/2qSC8SWAUAsxsoMaxdWNSl"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "FEYI",
+          "url": "https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t"
+        }
+      ],
+      "duration_ms": 222570,
+      "name": "Body Pop",
+      "url": "https://open.spotify.com/track/2KU7zBNW1OYKUFIvidx8fx"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "No Big Deal",
@@ -2281,28 +2305,28 @@
       "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Body Pop",
-        "url": "https://open.spotify.com/album/2qSC8SWAUAsxsoMaxdWNSl"
+        "name": "The Move (feat. Tony Duke)",
+        "url": "https://open.spotify.com/album/1xDebsZ7SxyJXXrE12i3mG"
       },
       "artists": [
         {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
         },
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "Nathan Barato",
+          "url": "https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4"
         },
         {
-          "name": "FEYI",
-          "url": "https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t"
+          "name": "Tony Duke",
+          "url": "https://open.spotify.com/artist/6vQ4rI97KhLONKqqvLxPoW"
         }
       ],
-      "duration_ms": 222570,
-      "name": "Body Pop",
-      "url": "https://open.spotify.com/track/2KU7zBNW1OYKUFIvidx8fx"
+      "duration_ms": 331162,
+      "name": "The Move (feat. Tony Duke)",
+      "url": "https://open.spotify.com/track/2xbqTrJF39YwEeNKadnMaX"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -2341,30 +2365,6 @@
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Move (feat. Tony Duke)",
-        "url": "https://open.spotify.com/album/1xDebsZ7SxyJXXrE12i3mG"
-      },
-      "artists": [
-        {
-          "name": "Gettoblaster",
-          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
-        },
-        {
-          "name": "Nathan Barato",
-          "url": "https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4"
-        },
-        {
-          "name": "Tony Duke",
-          "url": "https://open.spotify.com/artist/6vQ4rI97KhLONKqqvLxPoW"
-        }
-      ],
-      "duration_ms": 331162,
-      "name": "The Move (feat. Tony Duke)",
-      "url": "https://open.spotify.com/track/2xbqTrJF39YwEeNKadnMaX"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Can You Feel It",
@@ -2399,22 +2399,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/66pannmlBSJYnwyeMiFQR3"
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC"
       },
       "artists": [
         {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
         },
         {
-          "name": "BURNR",
-          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+          "name": "Alex O'Clock",
+          "url": "https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940"
         }
       ],
-      "duration_ms": 173383,
-      "name": "Turn it Up",
-      "url": "https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE"
+      "duration_ms": 136874,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a"
     }
   ],
   "unique_name": "Tech House Operator",

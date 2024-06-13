@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 37425,
+  "num_followers": 37466,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Easy Blues (France, 1978) [Blues Reference]",
-        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
       "artists": [
         {
-          "name": "Lafayette Leake",
-          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
         }
       ],
-      "duration_ms": 321293,
-      "name": "Feel So Blue",
-      "url": "https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi"
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -251,24 +251,24 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+        "name": "Easy Blues (France, 1978) [Blues Reference]",
+        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
       },
       "artists": [
         {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+          "name": "Lafayette Leake",
+          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
         }
       ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+      "duration_ms": 321293,
+      "name": "Feel So Blue",
+      "url": "https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi"
     },
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "If I Hadn't Been High",
-      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "X-Temporaneous Boogie",
         "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
       },
@@ -371,8 +355,24 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K"
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
       "artists": [
         {
@@ -380,9 +380,25 @@
           "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d"
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "If I Hadn't Been High",
+      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -399,22 +415,6 @@
       "duration_ms": 369893,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2024-05-30 16:22:42",

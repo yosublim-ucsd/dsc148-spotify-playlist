@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Joost
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,714 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,739 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 41 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 |
 | 42 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
 | 43 | [I Still Know Better](https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [I Still Know Better](https://open.spotify.com/album/2iFBx2KH4xuCnNUtVJ2cx0) | 3:22 |
-| 44 | [Verdachte](https://open.spotify.com/track/11WtFwjzRcikCHvTbp0hkJ) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8), [Auki](https://open.spotify.com/artist/338j0m7XOu06YoJ04kvwgU) | [Verdachte](https://open.spotify.com/album/7vj4cMeHdHuQf0GLUmRzxQ) | 3:42 |
+| 44 | [Verdachte](https://open.spotify.com/track/11WtFwjzRcikCHvTbp0hkJ) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Auki](https://open.spotify.com/artist/338j0m7XOu06YoJ04kvwgU), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8) | [Verdachte](https://open.spotify.com/album/7vj4cMeHdHuQf0GLUmRzxQ) | 3:42 |
 | 45 | [Slalom](https://open.spotify.com/track/182x5aOkRykd8W6MvLJpzd) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Slalom](https://open.spotify.com/album/5yiKWRyJz8jgijNxY07e0k) | 2:46 |
 | 46 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 |
 | 47 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |

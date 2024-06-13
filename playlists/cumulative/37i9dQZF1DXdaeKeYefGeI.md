@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
-166 songs - 10 hr 18 min
+167 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Het Dorp](https://open.spotify.com/track/3q0a21nZ31rOAk5p3UQaRG) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Sonneveld](https://open.spotify.com/album/4Ae7E7xkTrdTqKvX7RJk7S) | 3:14 | 2024-04-18 |  |
 | [Het Dorp \- Live](https://open.spotify.com/track/4HWOyz21zZDbHe3mMukrFJ) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Wim Sonneveld En Ina Van Faassen](https://open.spotify.com/album/097Ma7nG7Cye0gfief3mR6) | 3:18 | 2023-02-10 | 2024-04-19 |
 | [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 | 2024-05-09 |  |
+| [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 | 2024-06-12 |  |
 | [Het Komt Wel Goed](https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Het Komt Wel Goed](https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H) | 3:55 | 2023-12-05 |  |
 | [Het Land van Koning Jan](https://open.spotify.com/track/4szdNd2JPBB9ZbKQbg3MFs) | [Josee Koning](https://open.spotify.com/artist/3PRhhgaXVHQakRPsQ7AOHR), [Jim de Groot](https://open.spotify.com/artist/2FfF1kzEqtGUJ4dmvt6ssc), [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Testament \- Lennaert Nijgh 75 Jaar](https://open.spotify.com/album/5Doruzt40llLcaa2k886Kh) | 4:26 | 2023-02-10 | 2023-09-15 |
 | [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/54Ktari4z02c9eMdCVoUxF) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/5UFfNN07X4BAsvwsieCixE) | 3:30 | 2024-02-08 |  |
@@ -143,7 +144,7 @@
 | [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 |  |
 | [Suzanne](https://open.spotify.com/track/1BNp77RjuxC9koWD67CNiL) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:59 | 2023-02-10 | 2024-03-23 |
 | [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 | 2024-01-12 |
-| [Testament](https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Voor De Overlevenden](https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y) | 3:15 | 2024-04-18 |  |
+| [Testament](https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Voor De Overlevenden](https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y) | 3:15 | 2024-04-18 | 2024-06-13 |
 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 | 2023-02-10 | 2024-04-19 |
 | [Troostliedje](https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Troostliedje](https://open.spotify.com/album/5NewFgJdkg0r6rhELb8RHZ) | 3:18 | 2023-02-10 | 2023-11-11 |
 | [Vaderland](https://open.spotify.com/track/2tD9WSm02XImRDAc5jsvCD) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Vaderland](https://open.spotify.com/album/47eizTmbC25xFfzp0kB8sD) | 6:28 | 2023-02-10 | 2023-06-02 |

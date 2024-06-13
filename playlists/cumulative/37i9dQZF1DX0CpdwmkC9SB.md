@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-201 songs - 12 hr 17 min
+202 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2024-05-31 |  |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/72TRVAfkS1BeMgkbPPBa19) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 | 2024-05-31 |  |
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-05-31 |  |
-| [I Need A Dollar](https://open.spotify.com/track/1mWVesRiDMgR5v7Umv1DBC) | [Ed Solo](https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa), [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7) | [I Need A Dollar](https://open.spotify.com/album/0BtDqGFupFyeptvx37fdLF) | 5:11 | 2024-05-31 |  |
+| [I Need A Dollar](https://open.spotify.com/track/1mWVesRiDMgR5v7Umv1DBC) | [Ed Solo](https://open.spotify.com/artist/7jnJgk7LLLdpPhXrOOZXCa), [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7) | [I Need A Dollar](https://open.spotify.com/album/0BtDqGFupFyeptvx37fdLF) | 5:11 | 2024-05-31 | 2024-06-13 |
 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 | 2024-05-31 |  |
 | [I Wish A Bitch Would](https://open.spotify.com/track/4TrP8DfxX2UQwYEgy9vrkY) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4RSPZDisdB5mosSaFQn5mw) | 3:26 | 2024-05-31 |  |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2024-05-31 |  |
@@ -132,6 +132,7 @@
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:53 | 2024-05-31 |  |
 | [messy in heaven](https://open.spotify.com/track/2q7sfsG3qyoMvfQzKdhC3K) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [zero experience](https://open.spotify.com/album/1WsyR6Rubboirjmw69zHc0) | 2:50 | 2024-05-31 |  |
 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 | 2024-05-31 |  |
+| [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-12 |  |
 | [Mork n Mindy](https://open.spotify.com/track/06GBeo9UxaThL6monvFzHe) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [Spare Ribs](https://open.spotify.com/album/1w857brUeHQfcPpjCd3wHQ) | 3:24 | 2024-05-31 |  |
 | [Mr\. Sandman](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Mr\. Sandman](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 | 2024-05-31 |  |
 | [My Type](https://open.spotify.com/track/0FQU8Y1Ir1YkR6MoMfJjB3) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX), [Dux n Bass](https://open.spotify.com/artist/5LlJwFI0pt18QEmRZMT7EA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [My Type](https://open.spotify.com/album/1cgA9S7KgDpQhG9045suo2) | 3:04 | 2024-05-31 |  |

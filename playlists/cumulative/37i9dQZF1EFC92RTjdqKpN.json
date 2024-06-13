@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "LUBE // WET DREAM",
+        "url": "https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179378,
+      "name": "WET DREAM",
+      "url": "https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ"
+    },
+    {
+      "album": {
         "name": "Where We Left",
         "url": "https://open.spotify.com/album/5a5ywLo0LuBmnOO1hb28P7"
       },

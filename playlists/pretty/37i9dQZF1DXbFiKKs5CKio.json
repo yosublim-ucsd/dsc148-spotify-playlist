@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 57501,
+  "num_followers": 57512,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
-    },
-    {
-      "added_at": "2024-06-06 20:50:25",
-      "album": {
         "name": "O Amor e Suas Vari\u00e1veis",
         "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 141913,
       "name": "Amor \u00c9 Bom Quando Tem Chama",
       "url": "https://open.spotify.com/track/2Jivvjt7JABrzX2D5dYn6i"
+    },
+    {
+      "added_at": "2024-06-06 20:50:25",
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -211,22 +211,18 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "Vai dar Bom",
-        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
+        "name": "O Amor e Suas Vari\u00e1veis",
+        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
         }
       ],
-      "duration_ms": 204500,
-      "name": "VAI DAR BOM",
-      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
+      "duration_ms": 152630,
+      "name": "De Boa",
+      "url": "https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -243,6 +239,26 @@
       "duration_ms": 178548,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+    },
+    {
+      "added_at": "2024-06-06 20:50:25",
+      "album": {
+        "name": "Vai dar Bom",
+        "url": "https://open.spotify.com/album/45VqPGiDgFuiqeiOKtaxk5"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "VAI DAR BOM",
+      "url": "https://open.spotify.com/track/3WKoJ3XpkwOLyR1MROs59k"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -303,22 +319,6 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
-    },
-    {
-      "added_at": "2024-06-06 20:50:25",
-      "album": {
-        "name": "O Amor e Suas Vari\u00e1veis",
-        "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 152630,
-      "name": "De Boa",
-      "url": "https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -419,22 +419,26 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
+        "name": "\u00cdn.ti.mo",
+        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+          "name": "Aysha Lima",
+          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
         },
         {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        },
+        {
+          "name": "DG Prod",
+          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Vai dar Bom (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
+      "duration_ms": 187954,
+      "name": "PFP (para fazer pretinhos)",
+      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -463,26 +467,22 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "\u00cdn.ti.mo",
-        "url": "https://open.spotify.com/album/1H39nmz1c0ai9HaEhJWaGU"
+        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
       },
       "artists": [
         {
-          "name": "Aysha Lima",
-          "url": "https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         },
         {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        },
-        {
-          "name": "DG Prod",
-          "url": "https://open.spotify.com/artist/5yRNIQrZSfIpSKXjDQ1qif"
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
         }
       ],
-      "duration_ms": 187954,
-      "name": "PFP (para fazer pretinhos)",
-      "url": "https://open.spotify.com/track/29T145ELh9ZkHSJusrhilh"
+      "duration_ms": 206000,
+      "name": "Vai dar Bom (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -499,22 +499,6 @@
       "duration_ms": 209537,
       "name": "Aeroporto",
       "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
-    },
-    {
-      "added_at": "2024-06-06 20:50:25",
-      "album": {
-        "name": "Ondina",
-        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
-      },
-      "artists": [
-        {
-          "name": "Jadidi",
-          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Ondina",
-      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -539,18 +523,18 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "Candeia",
-        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
+        "name": "Ondina",
+        "url": "https://open.spotify.com/album/4Qoxe36lExqIFHvtVkFASK"
       },
       "artists": [
         {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+          "name": "Jadidi",
+          "url": "https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Candeia",
-      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
+      "duration_ms": 244000,
+      "name": "Ondina",
+      "url": "https://open.spotify.com/track/2SahXyHV5pmsJD94jzmQ9n"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -567,6 +551,22 @@
       "duration_ms": 164000,
       "name": "Pulando",
       "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2024-06-06 20:50:25",
+      "album": {
+        "name": "Candeia",
+        "url": "https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Candeia",
+      "url": "https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "Renascer",
-        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Renascer",
-      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
-    },
-    {
-      "added_at": "2024-06-06 20:50:25",
-      "album": {
         "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
         "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
       },
@@ -727,34 +711,18 @@
     {
       "added_at": "2024-06-06 20:50:25",
       "album": {
-        "name": "Perfeita Demais",
-        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
+        "name": "Renascer",
+        "url": "https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45"
       },
       "artists": [
         {
-          "name": "R0DR1",
-          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
         }
       ],
-      "duration_ms": 200281,
-      "name": "Perfeita Demais",
-      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
-    },
-    {
-      "added_at": "2024-06-06 20:50:25",
-      "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+      "duration_ms": 294693,
+      "name": "Renascer",
+      "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"
     },
     {
       "added_at": "2024-06-06 20:50:25",
@@ -775,6 +743,38 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2024-06-06 20:50:25",
+      "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+    },
+    {
+      "added_at": "2024-06-06 20:50:25",
+      "album": {
+        "name": "Perfeita Demais",
+        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
+      },
+      "artists": [
+        {
+          "name": "R0DR1",
+          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Perfeita Demais",
+      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
     },
     {
       "added_at": "2024-06-06 20:50:25",

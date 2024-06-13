@@ -2,9 +2,9 @@
 
 ### [This Is SUPER JUNIOR](https://open.spotify.com/playlist/37i9dQZF1DX7h06zz0VktL)
 
-> All E.L.F's go to playlist! Check out SUPER JUNIOR: THE LAST MAN STANDING on Disney+!
+> All E.L.F's go to playlist!
 
-191 songs - 11 hr 23 min
+192 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Shirt](https://open.spotify.com/track/4Es8ZcU76088PMTIrF4XDV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:28 | 2022-07-12 | 2024-04-19 |
 | [Shirt](https://open.spotify.com/track/73ZVWv5QFELLmUrNQCBtmE) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [THE 7th Album 'MAMACITA'](https://open.spotify.com/album/5mE1OCMbv2kA1C8a1OnVfH) | 3:28 | 2022-03-01 |  |
 | [Show](https://open.spotify.com/track/2hTBpa21ZbNCOI9FQekhQS) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:50 | 2022-03-01 |  |
+| [Show Time](https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Show Time](https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0) | 2:52 | 2024-06-12 |  |
 | [Skydive](https://open.spotify.com/track/4AySDoIQA2kgYyjt04zrOh) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [TIMELESS \- The 9th Album Repackage](https://open.spotify.com/album/32o8mUN1uID4VlBUrsCN2f) | 3:56 | 2022-03-01 |  |
 | [Snowman](https://open.spotify.com/track/2LtWOIzMvmrROFjNCmZQO7) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:14 | 2022-12-15 |  |
 | [So I](https://open.spotify.com/track/1KBxrjLmHQf993Q0cjYbHj) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 3:43 | 2022-07-12 | 2024-04-19 |

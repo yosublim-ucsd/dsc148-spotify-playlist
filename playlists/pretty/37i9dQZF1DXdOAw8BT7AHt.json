@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers ",
-  "num_followers": 447345,
+  "num_followers": 447378,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
-      },
-      "artists": [
-        {
-          "name": "Frank Turner",
-          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "International Hide and Seek Champions",
-      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Elster Stares the Desert Down",
         "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 221347,
       "name": "Elster Stares the Desert Down",
       "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "International Hide and Seek Champions",
+      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Half Album",
-        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 370939,
-      "name": "The Last Drag",
-      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Cheapskate",
         "url": "https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 191761,
       "name": "Cheapskate",
       "url": "https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Half Album",
+        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 370939,
+      "name": "The Last Drag",
+      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Break You",
-        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Break You",
-      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Stormy Weather",
         "url": "https://open.spotify.com/album/27nbEvefyBeXYdC20NlP6D"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 153411,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/1OVZlRUXlkLOpWMj3cjlNt"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Break You",
+        "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
+      },
+      "artists": [
+        {
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -663,8 +663,8 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "You're My Medicine",
-        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 192682,
-      "name": "You're My Medicine",
-      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+      "duration_ms": 165393,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -807,8 +807,8 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
+        "name": "You're My Medicine",
+        "url": "https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 165393,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
+      "duration_ms": 192682,
+      "name": "You're My Medicine",
+      "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
+        "name": "THE HEALING",
+        "url": "https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI"
+      },
+      "artists": [
+        {
+          "name": "The OBGMs",
+          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
+        },
+        {
+          "name": "Just John",
+          "url": "https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "I'LL BE OKAY",
+      "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
         "name": "Now When We Talk It's Violence",
         "url": "https://open.spotify.com/album/63T8vRb63TY4Bj1mAPlu9O"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 143413,
       "name": "Hall & Oates",
       "url": "https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
-        "name": "THE HEALING",
-        "url": "https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI"
-      },
-      "artists": [
-        {
-          "name": "The OBGMs",
-          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
-        },
-        {
-          "name": "Just John",
-          "url": "https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "I'LL BE OKAY",
-      "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Menace/Burn Forever",
-        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
-      },
-      "artists": [
-        {
-          "name": "Hot Water Music",
-          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
-        }
-      ],
-      "duration_ms": 205227,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Sink Or Swim",
         "url": "https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 192080,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Menace/Burn Forever",
+        "url": "https://open.spotify.com/album/5gBse4SykL0eYCMdqTDCGt"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        }
+      ],
+      "duration_ms": 205227,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/5wkska9Au4AdhnZjEf3nOR"
     },
     {
       "added_at": "2024-05-31 12:31:01",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-05-31 12:31:01",
       "album": {
-        "name": "Sickner",
-        "url": "https://open.spotify.com/album/5rCLlOHAnmyCqG6BvhrRdL"
-      },
-      "artists": [
-        {
-          "name": "Big Romance",
-          "url": "https://open.spotify.com/artist/2nZSy1iWmRO6MB74FVBo0D"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Sickner",
-      "url": "https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK"
-    },
-    {
-      "added_at": "2024-05-31 12:31:01",
-      "album": {
         "name": "Scrapbook",
         "url": "https://open.spotify.com/album/6HAW9bHXN7cFRP1NWMu7BK"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 97263,
       "name": "Pay Me",
       "url": "https://open.spotify.com/track/1F18iKrRxRNKQaFwCavFe5"
+    },
+    {
+      "added_at": "2024-05-31 12:31:01",
+      "album": {
+        "name": "Sickner",
+        "url": "https://open.spotify.com/album/5rCLlOHAnmyCqG6BvhrRdL"
+      },
+      "artists": [
+        {
+          "name": "Big Romance",
+          "url": "https://open.spotify.com/artist/2nZSy1iWmRO6MB74FVBo0D"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "Sickner",
+      "url": "https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK"
     },
     {
       "added_at": "2024-05-31 12:31:01",

@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-834 songs - 2 day 6 hr 53 min
+835 songs - 2 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-04-27 |  |
 | [DRIP DRY](https://open.spotify.com/track/6NWT3AGvf6lBP9rH1W1d7o) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [HANGOUT](https://open.spotify.com/album/0dF4y8MHNsCyU6vJarDKCf) | 3:38 | 2022-05-24 | 2022-07-28 |
 | [Drive](https://open.spotify.com/track/0UyjuTpVs3puSMGJQYY1W4) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [Drive](https://open.spotify.com/album/1WphwJpdlrhrRfSG5tZ2VQ) | 4:33 | 2023-03-14 | 2023-03-22 |
+| [Drive Our Dreams](https://open.spotify.com/track/4Tm9gdyG4FnEf2IBlrYx3s) | [Little Black Dress](https://open.spotify.com/artist/0rrUSORQ2b4EReKZhB3U9P) | [SYNCHRONICITY POP](https://open.spotify.com/album/2XMzhpRsY3PbAWrxNv7xNK) | 4:55 | 2024-06-12 |  |
 | [Drive’n The Rain](https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 6:16 | 2022-07-27 | 2023-08-25 |
 | [Eastern Railroad](https://open.spotify.com/track/1ePjUavUg94dF598YFLiwt) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW) | 3:54 | 2022-09-27 | 2022-10-05 |
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-02-14 |
@@ -821,7 +822,7 @@
 | [薄明](https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [薄明](https://open.spotify.com/album/0BM9dlMllgmxMswckrkhkd) | 4:25 | 2022-05-28 | 2023-01-18 |
 | [蜃気楼](https://open.spotify.com/track/1poGs2OYI3IJvRRf3lnwHy) | [LEE HWANGDAE](https://open.spotify.com/artist/63RogPtcs8DxN7cdqRU9FV) | [蜃気楼](https://open.spotify.com/album/5wuHxESE0c3fKwyRRq6W07) | 3:42 | 2022-06-30 | 2022-07-09 |
 | [誓い](https://open.spotify.com/track/0qk9PyviJnLL2rzHikQ4Oy) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [誓い](https://open.spotify.com/album/6bHUl9K4cipCsU2wew0XrU) | 3:33 | 2022-05-24 | 2022-07-07 |
-| [踊らせないで](https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC) | 3:47 | 2022-05-24 |  |
+| [踊らせないで](https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC) | 3:47 | 2022-05-24 | 2024-06-13 |
 | [踊らせないで](https://open.spotify.com/track/6XrXyoj9fakX503nc6jePb) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [踊らせないで](https://open.spotify.com/album/6mfqe5tdipErZXpXjrT3d8) | 3:47 | 2022-11-08 | 2022-11-13 |
 | [踊らせないで](https://open.spotify.com/track/7vK2DtxftUf2iQgVF0Qnzg) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6S8ZfCFqAdu3qHdCldwM3M) | 3:47 | 2022-07-27 | 2024-04-19 |
 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 | 2022-05-31 | 2022-11-09 |

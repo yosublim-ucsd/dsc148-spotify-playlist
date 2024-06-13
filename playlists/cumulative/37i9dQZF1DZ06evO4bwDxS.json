@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 149973,
       "name": "A Dream is a Wish Your Heart Makes/So This is Love",
       "url": "https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/6n05BgVkxxz2k5ICZYa2PH"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 277923,
       "name": "Fix Me Up (with Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3tlYKGhlexHCt8Ac5pYG49"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 189980,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1FjD1jpm51dH5LzLvrDVPY"
@@ -574,6 +574,24 @@
       "duration_ms": 138453,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz"
+    },
+    {
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
       "album": {
@@ -812,7 +830,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 177750,
       "name": "skinny dipping",
       "url": "https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5"
@@ -968,7 +986,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 216466,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 204179,
       "name": "Tornado Warnings",
       "url": "https://open.spotify.com/track/5kcuHw8WtxauIWI5crMcLM"
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 149890,
       "name": "Vicious",
       "url": "https://open.spotify.com/track/6Alp15t6urC4opjJiyOqZu"
@@ -1110,6 +1128,24 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209080,
+      "name": "Your Love's Like",
+      "url": "https://open.spotify.com/track/1fVnTuUKlhkFqZ6HXV56s6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bwDxS"

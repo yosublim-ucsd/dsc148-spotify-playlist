@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,104 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,106 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 41 | [make stuff up & sing things](https://open.spotify.com/track/1D18cgyuEatXaEqKk5Ldvv) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [those lil god songs i posted on ig](https://open.spotify.com/album/0s9S70ptWvOQlECSs5ORT4) | 3:36 |
 | 42 | [Start Again](https://open.spotify.com/track/5Ry2PLL01YfcO12r4NfT15) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Start Again](https://open.spotify.com/album/3BG3qsmqpkBNqkgwFzQX8k) | 3:50 |
 | 43 | [Nineveh \- Live](https://open.spotify.com/track/7054jEkdUXDIceVnIUoEEB) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Nineveh \(Live\)](https://open.spotify.com/album/4GvcrX2hLl0EulUQoifL9a) | 4:28 |
-| 44 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 |
-| 45 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
+| 44 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
+| 45 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 |
 | 46 | [Survive These Seas](https://open.spotify.com/track/6GmJWxDoLjcp5iz9FmmH5y) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Survive These Seas](https://open.spotify.com/album/3tgGcSo8MQa4ONqhNbXPmc) | 3:41 |
 | 47 | [You & I Again](https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [You & I Again](https://open.spotify.com/album/0Q5FgBERKireTEtap76rej) | 2:40 |
 | 48 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 54 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
 | 55 | [Abba \- Live](https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 28 \(Live\)](https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0) | 6:31 |
 | 56 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 |
-| 57 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
-| 58 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv), [Ellisha Carter](https://open.spotify.com/artist/2vEOfYrqqx0Crq1UH7joYE) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 |
+| 57 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv), [Ellisha Carter](https://open.spotify.com/artist/2vEOfYrqqx0Crq1UH7joYE) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 |
+| 58 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
 | 59 | [Peace](https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh) | [Radiant City Music](https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk), [Devin Strasser](https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI) | [Peace](https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep) | 5:38 |
 | 60 | [A Dream Familiar](https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD) | [Daniel Jorgensen](https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ) | [A Search for Somewhere Else](https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs) | 2:32 |
 | 61 | [dust to dust/lose myself \(undone\)](https://open.spotify.com/track/6itrh3ZUUSgKkJdTWu5wyD) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone](https://open.spotify.com/album/62cc9ZKmqWzwiUQ0vRJ41Z) | 4:51 |

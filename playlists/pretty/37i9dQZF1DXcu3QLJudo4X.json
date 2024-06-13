@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 91209,
+  "num_followers": 91313,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Rocks The House",
         "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 254165,
       "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
       "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Double Trouble",
-        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 157813,
-      "name": "All Your Love (I Miss Loving)",
-      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Blues With A Feeling",
         "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225733,
       "name": "(You've Got To) Love Her With A Feeling",
       "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 157813,
+      "name": "All Your Love (I Miss Loving)",
+      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "Can't Quit You Baby / Sit Down Baby",
+        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "The Blues Collective - Percy Mayfield",
         "url": "https://open.spotify.com/album/3DLOUqLCKBmsZcZi7JVDLU"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 214826,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/36vQpu01Wa7n72IMJzjAGr"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "Can't Quit You Baby / Sit Down Baby",
-        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "added_at": "2024-06-02 16:42:51",

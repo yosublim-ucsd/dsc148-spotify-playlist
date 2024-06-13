@@ -4,10 +4,11 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-155 songs - 7 hr 37 min
+157 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1995](https://open.spotify.com/track/3pOaqovpjDL7vJIQvykmbW) | [Pigeondust](https://open.spotify.com/artist/3ZGFuMnNyyCIAnq5vARz1W) | [Moon, Wisdom & Slackness](https://open.spotify.com/album/3ICgXKPcqTnA1flXqWbRjs) | 1:57 | 2024-06-12 |  |
 | [93 'Til Infinity \- Instrumental](https://open.spotify.com/track/0VuzA7lyIFn1VzinsOak8J) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 4:52 | 2023-05-02 |  |
 | [93.](https://open.spotify.com/track/1qQgYfb28afmiq0G3ecxWj) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ouldies](https://open.spotify.com/album/5g48TWpACPOJSEMFTwceZZ) | 1:24 | 2022-07-22 |  |
 | [93.](https://open.spotify.com/track/3wB5zknP24ao7UU7RcLxgB) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ouldies](https://open.spotify.com/album/5PnTCOjdRXgtrrL3gCB2Yi) | 1:24 | 2022-10-14 | 2024-04-19 |
@@ -156,6 +157,7 @@
 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 | 2023-08-31 |  |
 | [Venus](https://open.spotify.com/track/4EnHspKqEoHm7Y7qWsHiio) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Venus](https://open.spotify.com/album/1yi25ZYDp30WwXwQwMkvlu) | 1:43 | 2024-02-22 |  |
 | [Walk in the Park \- Remix Instrumental](https://open.spotify.com/track/2F9pq1eWtEFUef9PFKthC8) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Public Assembly](https://open.spotify.com/album/6bHak7V9kU84wT38baA6Ay) | 4:28 | 2022-12-09 |  |
+| [Walking on the Moon](https://open.spotify.com/track/7uKF3UtE3MvhpywiDOwzgE) | [Mawon](https://open.spotify.com/artist/6O8kDoKPbhZTk5417eTBc9), [Vibin'](https://open.spotify.com/artist/5dmHoeGSjjd94vPj9m7m1V) | [Walking on the Moon](https://open.spotify.com/album/3JgUYDalMVyrpBRFCSoEGB) | 2:17 | 2024-06-12 |  |
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2022-07-22 |  |
 | [Watch Your Back](https://open.spotify.com/track/2sVVZJS9andmMIl1zg7EOj) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Watch Your Back](https://open.spotify.com/album/4PTaa4d2ehxeXGLWfXRfE5) | 2:12 | 2024-02-09 |  |
 | [What You Want \- Instrumental](https://open.spotify.com/track/5RXxzWwZh6ywqPjWV8qXhq) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [What You Want](https://open.spotify.com/album/0XJn9bM9zWldjvjgWSqhxd) | 4:36 | 2022-07-22 |  |

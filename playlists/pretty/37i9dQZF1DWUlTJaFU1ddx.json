@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 26876,
+  "num_followers": 26886,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "Dum Tak (feat. NASIR)",
         "url": "https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 156000,
       "name": "Dum Tak (feat. NASIR)",
       "url": "https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
     },
     {
       "added_at": "2023-10-02 12:15:54",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
-      },
-      "artists": [
-        {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "Weino",
         "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 145871,
       "name": "Weino",
       "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
     },
     {
       "added_at": "2023-10-02 12:15:54",

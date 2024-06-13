@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-183 songs - 11 hr 10 min
+184 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Blessed](https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Blessed](https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn) | 2:42 | 2022-12-01 | 2023-01-13 |
 | [Blip](https://open.spotify.com/track/5HvNPQrx34MJKnvoecVLxz) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Blip](https://open.spotify.com/album/6FeQh0v9766yT2fvM4H3EK) | 2:42 | 2022-12-01 | 2023-01-13 |
 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 | 2023-09-21 | 2023-10-13 |
-| [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 | 2023-05-11 |  |
+| [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 | 2023-05-11 | 2024-06-13 |
 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 | 2022-12-01 |  |
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-12-01 |  |
 | [Careless Whisper](https://open.spotify.com/track/7xIO7GPKco0eG3kxpQpDku) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf) | [Careless Whisper](https://open.spotify.com/album/0mfeqXYenUaDj6jJYHxOOR) | 2:42 | 2022-12-01 | 2023-01-13 |
@@ -144,6 +144,7 @@
 | [Second Line](https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Second Line](https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO) | 4:11 | 2023-02-09 | 2023-02-24 |
 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2022-12-01 |  |
 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 | 2023-08-24 | 2023-12-22 |
+| [Since I Don't Have You \- Dual Remix](https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49) | [Dual Sessions](https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp), [Amazonics](https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W) | [Since I Don't Have You \(Dual Remix\)](https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE) | 2:46 | 2024-02-01 |  |
 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 | 2023-08-17 |  |
 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 | 2022-12-15 | 2023-02-10 |
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-12-01 | 2023-12-11 |

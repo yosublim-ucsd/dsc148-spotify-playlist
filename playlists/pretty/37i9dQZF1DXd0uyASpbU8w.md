@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=1no\-\_9A0RySzCGhZdGWScw">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,913 likes - 70 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,967 likes - 70 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 4 | [F33L1NG GÖOD](https://open.spotify.com/track/4BqQz2hmIC9sxHC1I9iDYk) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv) | [CR4ZY!!..](https://open.spotify.com/album/2PpDtJy9LWxdeP9s3jiAAP) | 5:33 |
 | 5 | [Witchy \(feat\. Childish Gambino\)](https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:47 |
 | 6 | [Whoops](https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:28 |
-| 7 | [Iza Ngamandla](https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sykes](https://open.spotify.com/artist/0tksdg0RgrQNB31VfF8m1T), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Iza Ngamandla](https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg) | 5:59 |
+| 7 | [Iza Ngamandla](https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Iza Ngamandla](https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg) | 5:59 |
 | 8 | [Zwihh](https://open.spotify.com/track/7jsELonvgUM9tVrogBoWcD) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [Zwihh Lords](https://open.spotify.com/album/46RHwIFMkX6hJUxKsEvmPk) | 5:17 |
 | 9 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
 | 10 | [BMXXing](https://open.spotify.com/track/5xR8ngEQmlQ1U2xSE0KzTo) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [BMXXing](https://open.spotify.com/album/5cH3Lzm6kYM7sxkpDprzkd) | 2:35 |

@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 150987,
+  "num_followers": 151030,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "End of the World (feat. Disciple)",
         "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 354815,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
-      },
-      "artists": [
-        {
-          "name": "Phinehas",
-          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
-        }
-      ],
-      "duration_ms": 283741,
-      "name": "In the Night",
-      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "All That Matters",
         "url": "https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5"
       },
@@ -483,38 +467,6 @@
       "duration_ms": 197336,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -535,6 +487,38 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
+      },
+      "artists": [
+        {
+          "name": "Phinehas",
+          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
+        }
+      ],
+      "duration_ms": 283741,
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "The Executioner",
         "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 247124,
       "name": "The Executioner",
       "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Faith Over Fear",
         "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 194298,
       "name": "Faith Over Fear",
       "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+      },
+      "artists": [
+        {
+          "name": "Torndown",
+          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
       },
       "artists": [
         {
-          "name": "Torndown",
-          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -927,22 +943,6 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Blood of the Son",
-        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
-      },
-      "artists": [
-        {
-          "name": "Brother Hamm",
-          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Blood of the Son",
-      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "Unite",
         "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 257466,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Blood of the Son",
+        "url": "https://open.spotify.com/album/4Frfc6QdL7kZtfTh19WJHt"
+      },
+      "artists": [
+        {
+          "name": "Brother Hamm",
+          "url": "https://open.spotify.com/artist/52knD2OLkz6oIjppQwD7Jd"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Blood of the Son",
+      "url": "https://open.spotify.com/track/2lAaxALfW5C4OEYuOGTAqU"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Eulogies",
-        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 166575,
-      "name": "Weight of Glory",
-      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "We Never Die",
         "url": "https://open.spotify.com/album/6iLplDNjwVvSEAo7meGzet"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 215986,
       "name": "We Never Die",
       "url": "https://open.spotify.com/track/1ijexAIjC5jtGueYwc0QGP"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Eulogies",
+        "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 166575,
+      "name": "Weight of Glory",
+      "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
     },
     {
       "added_at": "2024-05-10 04:01:29",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-10 04:01:29",
       "album": {
-        "name": "Eulogies (Live Sessions)",
-        "url": "https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1"
-      },
-      "artists": [
-        {
-          "name": "Wolves At The Gate",
-          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
-        }
-      ],
-      "duration_ms": 172029,
-      "name": "Weight of Glory - Live Session",
-      "url": "https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5"
-    },
-    {
-      "added_at": "2024-05-10 04:01:29",
-      "album": {
         "name": "The End Is Where We Begin",
         "url": "https://open.spotify.com/album/4fSovBNtliN1OY3CXNDS16"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 222440,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/3NRhy4mzDwQc6IgPwyQM1x"
+    },
+    {
+      "added_at": "2024-05-10 04:01:29",
+      "album": {
+        "name": "Eulogies (Live Sessions)",
+        "url": "https://open.spotify.com/album/4smWcs15icSRmEvfbjPeA1"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "duration_ms": 172029,
+      "name": "Weight of Glory - Live Session",
+      "url": "https://open.spotify.com/track/4kD9MAvYFkTPMTwVvyk1m5"
     },
     {
       "added_at": "2024-05-10 04:01:29",

@@ -1,13 +1,77 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Peyton McMahon Artwork by Paola Saliby",
-  "num_followers": 211068,
+  "description": "The best new pop music by independent artists and labels. Cover: Tangerine Cassette Artwork by Paola Saliby",
+  "num_followers": 211136,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmAoQAAAAABnZ5mETkpAnCRhrIXmEjBv",
+  "snapshot_id": "ZmkdQAAAAAAqbrsbhDW5OSUBKPYUtoAq",
   "tracks": [
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "FLIP IT BACK AGAIN",
+        "url": "https://open.spotify.com/album/1C0fioj28LGV4x6TRpv7J3"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Cassette",
+          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "FLIP IT BACK AGAIN",
+      "url": "https://open.spotify.com/track/3tkf6FK6pd9RNjvLc9qYNx"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 210658,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "Maxine",
+        "url": "https://open.spotify.com/album/6IQBf7wSdJJ177uzfLA9hR"
+      },
+      "artists": [
+        {
+          "name": "Kate Bentsen",
+          "url": "https://open.spotify.com/artist/19GFyhge9oOHgsUR6uTALk"
+        }
+      ],
+      "duration_ms": 241458,
+      "name": "Maxine",
+      "url": "https://open.spotify.com/track/5UpPoh9yvuhwuQyNCAZilt"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "Rocket Woman",
+        "url": "https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 217215,
+      "name": "Rocket Woman",
+      "url": "https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I"
+    },
     {
       "added_at": "2024-06-05 08:56:32",
       "album": {
@@ -25,20 +89,52 @@
       "url": "https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy"
     },
     {
-      "added_at": "2024-06-05 08:56:32",
+      "added_at": "2024-06-12 04:00:00",
       "album": {
-        "name": "Don't Wake Me Up",
-        "url": "https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC"
+        "name": "Forget Her",
+        "url": "https://open.spotify.com/album/6IJT8LCH9hZC7L3CTlYj7q"
       },
       "artists": [
         {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+          "name": "Amanda Alexander",
+          "url": "https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2"
         }
       ],
-      "duration_ms": 186827,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F"
+      "duration_ms": 157280,
+      "name": "Forget Her",
+      "url": "https://open.spotify.com/track/0CkDb8kyAhzYvICZL8MX8S"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/3S7LbAgndKxQV40unE0sKe"
+      },
+      "artists": [
+        {
+          "name": "Absnt Mind",
+          "url": "https://open.spotify.com/artist/3wCxtQe4q4QsNnYD2BG7ag"
+        }
+      ],
+      "duration_ms": 150198,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/6bV0mvFRxEEL7CBBZuVvgy"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "ALL OVER",
+        "url": "https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB"
+      },
+      "artists": [
+        {
+          "name": "Etta Zelmani",
+          "url": "https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "ALL OVER",
+      "url": "https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh"
     },
     {
       "added_at": "2024-06-05 08:56:32",
@@ -55,6 +151,86 @@
       "duration_ms": 154335,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/1kK58GF4QqwnD5px2S1Gcq"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "What I Know Now",
+        "url": "https://open.spotify.com/album/2dbsq7LPzjXQPJrla8i1Bb"
+      },
+      "artists": [
+        {
+          "name": "MAIH",
+          "url": "https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI"
+        }
+      ],
+      "duration_ms": 163108,
+      "name": "What I Know Now",
+      "url": "https://open.spotify.com/track/5nNT5ulZvirF7aA1mn58gO"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/0UN7VAgyxH71ddy9j2zGm9"
+      },
+      "artists": [
+        {
+          "name": "Shanice",
+          "url": "https://open.spotify.com/artist/7d0Wq0KsjId0JcqsDg02l2"
+        }
+      ],
+      "duration_ms": 176397,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3HU2pBkQqdeEMZ3bGx5kAv"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
+    },
+    {
+      "added_at": "2024-06-12 04:00:00",
+      "album": {
+        "name": "Not Your Angel",
+        "url": "https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X"
+      },
+      "artists": [
+        {
+          "name": "Zsela",
+          "url": "https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6"
+        }
+      ],
+      "duration_ms": 179617,
+      "name": "Not Your Angel",
+      "url": "https://open.spotify.com/track/6mZm8UsXesXTWZNPF3QKxq"
+    },
+    {
+      "added_at": "2024-06-05 08:56:32",
+      "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/1Zed396gQ1LT5im4EwX6tC"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 186827,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/4bF0SJ1NmPxMIMxMVEtu0F"
     },
     {
       "added_at": "2024-06-05 08:56:32",
@@ -619,22 +795,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "What I Wanna Do",
-        "url": "https://open.spotify.com/album/6ZLRjlWuJQkehlvGpuCAJe"
-      },
-      "artists": [
-        {
-          "name": "Shanice",
-          "url": "https://open.spotify.com/artist/7d0Wq0KsjId0JcqsDg02l2"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "What I Wanna Do",
-      "url": "https://open.spotify.com/track/1nK1iOcYQEFv8PKONh4LWM"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Texas Ain't That Far, Is It Dear?",
         "url": "https://open.spotify.com/album/0prqg8lKNhYst58DsrEfII"
       },
@@ -947,22 +1107,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "GIBBERISH",
-        "url": "https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Cassette",
-          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "GIBBERISH",
-      "url": "https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Live Or Die",
         "url": "https://open.spotify.com/album/6O5lkLmqRerbbdZ0GCzvBx"
       },
@@ -1011,22 +1155,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Red Sleeves",
-        "url": "https://open.spotify.com/album/6cIihd51u6nEiMslbVYROm"
-      },
-      "artists": [
-        {
-          "name": "MAIH",
-          "url": "https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI"
-        }
-      ],
-      "duration_ms": 189579,
-      "name": "Red Sleeves",
-      "url": "https://open.spotify.com/track/1Qqdue32M5hZRxrqXtPCbu"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Only Like A Woman Can",
         "url": "https://open.spotify.com/album/7HPYbwTJxyeDg6ldeI0YII"
       },
@@ -1055,22 +1183,6 @@
       "duration_ms": 151868,
       "name": "Understatement",
       "url": "https://open.spotify.com/track/57jENaZ0ZEqxIRwEDCm63R"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "homesafe",
-        "url": "https://open.spotify.com/album/4Ro0WlwVoDM1IxXRurXrRn"
-      },
-      "artists": [
-        {
-          "name": "VIBI",
-          "url": "https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl"
-        }
-      ],
-      "duration_ms": 185676,
-      "name": "homesafe",
-      "url": "https://open.spotify.com/track/7e98b6waQfERo4LvxLBhmW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1123,22 +1235,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Unforgiven",
-        "url": "https://open.spotify.com/album/1eEwOD2bANSds4MbRMVOJM"
-      },
-      "artists": [
-        {
-          "name": "Tender Misfit",
-          "url": "https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Unforgiven",
-      "url": "https://open.spotify.com/track/0v5aQFc4XqGE3elusG0P4o"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "take it slow",
         "url": "https://open.spotify.com/album/4rQGjmvmaINePcD10QJerM"
       },
@@ -1151,134 +1247,6 @@
       "duration_ms": 180374,
       "name": "take it slow",
       "url": "https://open.spotify.com/track/0u8ZnR82n2uZJJMiRZjnhz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Lie Back",
-        "url": "https://open.spotify.com/album/7kKUm4ugcK18N4NN1BkEQA"
-      },
-      "artists": [
-        {
-          "name": "Madeline",
-          "url": "https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb"
-        }
-      ],
-      "duration_ms": 193347,
-      "name": "Lie Back",
-      "url": "https://open.spotify.com/track/21jpWfG2wPBsxDP9Hukvu5"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Not A Heartbreak",
-        "url": "https://open.spotify.com/album/1VDxAp3zH2rSXYwBtXaLLD"
-      },
-      "artists": [
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 232305,
-      "name": "Not A Heartbreak",
-      "url": "https://open.spotify.com/track/4nFvMJhg3O0RwREcS2FoRY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Don't Give Up On Love",
-        "url": "https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl"
-      },
-      "artists": [
-        {
-          "name": "Micah McLaurin",
-          "url": "https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD"
-        }
-      ],
-      "duration_ms": 209747,
-      "name": "Don't Give Up On Love",
-      "url": "https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "PIECES",
-        "url": "https://open.spotify.com/album/4FAg2FITtsq4hf0lUHFxd5"
-      },
-      "artists": [
-        {
-          "name": "Galli J",
-          "url": "https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW"
-        }
-      ],
-      "duration_ms": 178048,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Needed Love",
-        "url": "https://open.spotify.com/album/1qP913cFxOOxrD86hBDCeP"
-      },
-      "artists": [
-        {
-          "name": "Trinity Lake",
-          "url": "https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs"
-        }
-      ],
-      "duration_ms": 191470,
-      "name": "Needed Love",
-      "url": "https://open.spotify.com/track/0OuehVqol8rMwwjqM3QwIY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "crowd pleaser",
-        "url": "https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl"
-      },
-      "artists": [
-        {
-          "name": "TEHYA",
-          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
-        }
-      ],
-      "duration_ms": 154033,
-      "name": "crowd pleaser",
-      "url": "https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Directions",
-        "url": "https://open.spotify.com/album/49xouspXNkB6RuO5B7LV81"
-      },
-      "artists": [
-        {
-          "name": "Emma Rosen",
-          "url": "https://open.spotify.com/artist/540pn6wxgwVQHPuIgTdyzC"
-        }
-      ],
-      "duration_ms": 207310,
-      "name": "Directions",
-      "url": "https://open.spotify.com/track/2Np85vuU5afD0yvi7cfl4r"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "is this as good as it gets?",
-        "url": "https://open.spotify.com/album/1RbqmWFJRz8ZBZWVrS2hpr"
-      },
-      "artists": [
-        {
-          "name": "chasing luma",
-          "url": "https://open.spotify.com/artist/7gu7zV4EPRuD1gVQgFtsFH"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "is this as good as it gets?",
-      "url": "https://open.spotify.com/track/6T67uQrMBlD7uc8QcQroD2"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1379,54 +1347,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Sorry to Little Me",
-        "url": "https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD"
-      },
-      "artists": [
-        {
-          "name": "Carolina Rial",
-          "url": "https://open.spotify.com/artist/0GFfgaBOUjkJDV62cUs7Lj"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "Sorry to Little Me",
-      "url": "https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3ykOYa5YfXrxNdVlGEDtFH"
-      },
-      "artists": [
-        {
-          "name": "Beth Morgan",
-          "url": "https://open.spotify.com/artist/1FPA22EYZGIQX8WgAz9NwD"
-        }
-      ],
-      "duration_ms": 162592,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/7uH3FzjmXWKAXtl7oKPTHg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Calling It Love",
-        "url": "https://open.spotify.com/album/3T7G34XE5ZLgiVrvDyEHV8"
-      },
-      "artists": [
-        {
-          "name": "Swayday",
-          "url": "https://open.spotify.com/artist/3502ybt7cR26pkFgAmWbXU"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Calling It Love",
-      "url": "https://open.spotify.com/track/5NMM8ktt0UHz3dvWYnlO7R"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Heartbreak In Heaven",
         "url": "https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3"
       },
@@ -1439,22 +1359,6 @@
       "duration_ms": 141368,
       "name": "Heartbreak In Heaven",
       "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Delusional",
-        "url": "https://open.spotify.com/album/4cq0eZqoh82zqqi7fBsvSa"
-      },
-      "artists": [
-        {
-          "name": "Alexa Kate",
-          "url": "https://open.spotify.com/artist/3iBxsXUg8JpSzeZQlp75e8"
-        }
-      ],
-      "duration_ms": 202486,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/5DhRuLgpHKgLmTwgAFKoix"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1539,54 +1443,6 @@
       "duration_ms": 178363,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/2rcceF6uOaJiEmHVtYpOhW"
-      },
-      "artists": [
-        {
-          "name": "Anna Kornis",
-          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/1iMed5al84NqIvx1qQi8TG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Friend of the Family",
-        "url": "https://open.spotify.com/album/1QDqEcUeooKibWIwnL9kup"
-      },
-      "artists": [
-        {
-          "name": "Liv Miraldi",
-          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Friend of the Family",
-      "url": "https://open.spotify.com/track/3LNGW6XcfeXXs2qIw8fUw0"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Cheater",
-        "url": "https://open.spotify.com/album/1vawEnelJfgUfwDWRFVV7N"
-      },
-      "artists": [
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "Cheater",
-      "url": "https://open.spotify.com/track/0TwUTLZkSzDoaeM6uKLAWa"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1703,22 +1559,6 @@
       "duration_ms": 237391,
       "name": "Middle Name (with Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "on purpose",
-        "url": "https://open.spotify.com/album/7y9YayZGU4VOZesQ5Nw5hy"
-      },
-      "artists": [
-        {
-          "name": "Ni/Co",
-          "url": "https://open.spotify.com/artist/2IR0GSCHsTo7gSw8HHLBnr"
-        }
-      ],
-      "duration_ms": 164558,
-      "name": "on purpose",
-      "url": "https://open.spotify.com/track/0ZNoYbBSN2d2PPUEGSfSid"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon",
-  "num_followers": 112802,
+  "num_followers": 112805,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,18 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
-        "name": "III: Lost Chapter",
-        "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
+        "name": "Swing At Me",
+        "url": "https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN"
       },
       "artists": [
         {
-          "name": "Pentakill",
-          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
-        },
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Lost Chapter",
-      "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
+      "duration_ms": 205197,
+      "name": "Swing At Me",
+      "url": "https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -303,18 +299,22 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
-        "name": "Swing At Me",
-        "url": "https://open.spotify.com/album/5ph5mqEdwDTyEaoTkFknoN"
+        "name": "III: Lost Chapter",
+        "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
       },
       "artists": [
         {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+          "name": "Pentakill",
+          "url": "https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
         }
       ],
-      "duration_ms": 205197,
-      "name": "Swing At Me",
-      "url": "https://open.spotify.com/track/3doZB64Wdm6yRRtvAVGdNf"
+      "duration_ms": 229333,
+      "name": "Lost Chapter",
+      "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
     },
     {
       "added_at": "2024-06-07 03:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-06-07 03:01:00",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 166854,
-      "name": "NOCTURNAL",
-      "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
-    },
-    {
-      "added_at": "2024-06-07 03:01:00",
-      "album": {
         "name": "Backtrack",
         "url": "https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 158840,
       "name": "Backtrack",
       "url": "https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC"
+    },
+    {
+      "added_at": "2024-06-07 03:01:00",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 166854,
+      "name": "NOCTURNAL",
+      "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
     },
     {
       "added_at": "2024-06-07 03:01:00",

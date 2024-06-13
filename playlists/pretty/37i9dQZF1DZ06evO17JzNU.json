@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Gemelos De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 22393,
+  "num_followers": 22401,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAAAA1Psv8rSRzEaOSm4BYjG8",
+  "snapshot_id": "ZmeTgAAAAACTUD+IsJpSTFv14G44Ri27",
   "tracks": [
     {
       "added_at": null,
@@ -791,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Extrano Mi Rancho",
-        "url": "https://open.spotify.com/album/14X4dL52C10ejPsocWndY8"
+        "name": "Nos Traicionamos",
+        "url": "https://open.spotify.com/album/3Rq5R5vEESkgS4IkSpXqJ2"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
         }
       ],
-      "duration_ms": 136256,
-      "name": "Ya Extrano Mi Rancho",
-      "url": "https://open.spotify.com/track/5qAzmxc7zqn5CD0eE3yckL"
+      "duration_ms": 283255,
+      "name": "Nos Traicionamos",
+      "url": "https://open.spotify.com/track/2QoKoiOyMDhqXll6ldKoMp"
     },
     {
       "added_at": null,
@@ -823,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Traicionamos",
-        "url": "https://open.spotify.com/album/3Rq5R5vEESkgS4IkSpXqJ2"
+        "name": "Ya Extrano Mi Rancho",
+        "url": "https://open.spotify.com/album/14X4dL52C10ejPsocWndY8"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
         }
       ],
-      "duration_ms": 283255,
-      "name": "Nos Traicionamos",
-      "url": "https://open.spotify.com/track/2QoKoiOyMDhqXll6ldKoMp"
+      "duration_ms": 136256,
+      "name": "Ya Extrano Mi Rancho",
+      "url": "https://open.spotify.com/track/5qAzmxc7zqn5CD0eE3yckL"
     },
     {
       "added_at": null,

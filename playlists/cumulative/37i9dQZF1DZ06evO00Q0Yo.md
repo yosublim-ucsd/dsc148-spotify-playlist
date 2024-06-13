@@ -2,7 +2,7 @@
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This is Flo Milli\. The essential tracks, all in one playlist.
+> This is Flo Milli\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 81 songs - 3 hr 44 min
 

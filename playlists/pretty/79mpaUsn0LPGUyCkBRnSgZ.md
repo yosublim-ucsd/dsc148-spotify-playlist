@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 500 songs - 1 day 8 hr 39 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 501 songs - 1 day 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -507,6 +507,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 497 | [It's A Passage](https://open.spotify.com/track/2AEfMWp1FGvgjASlFPqu8K) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:58 |
 | 498 | [Leave Us Here \(We're Fine\)](https://open.spotify.com/track/71OhvvtYoZDKkvVT6fUUur) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Trust Issues](https://open.spotify.com/album/5TzJP7CDqmtLCj7YcHPEaL) | 3:16 |
 | 499 | [Happy man's shoes](https://open.spotify.com/track/1PTicAZhKJ9K9PspzIDHz2) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [What an enormous room](https://open.spotify.com/album/2NdMVSjrgxqhELnvW1Odje) | 3:27 |
-| 500 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
+| 500 | [Chloë](https://open.spotify.com/track/3WH51SUl6EEuf9j7tsSQwQ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 3:28 |
+| 501 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 |
 
-Snapshot ID: `AAAGGeGsDtD3yKij2/c7x23UXLFSvvLQ`
+Snapshot ID: `AAAGG2jQI2H3TJzCBxlIsl44J6wupRAd`

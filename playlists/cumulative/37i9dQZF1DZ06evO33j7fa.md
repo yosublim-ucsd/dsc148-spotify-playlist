@@ -2,13 +2,13 @@
 
 ### [This Is Nick Drake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33j7fa)
 
-> This Is Nick Drake\. Los temas esenciales, todos en una lista.
+> This is Nick Drake\. The essential tracks, all in one playlist.
 
 74 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 | 2022-09-16 |  |
+| [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 | 2022-09-16 | 2024-06-13 |
 | [All My Trials](https://open.spotify.com/track/0pkVXg95DxLPdmz027lPZ1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 1:55 | 2022-09-16 | 2022-12-10 |
 | [All My Trials](https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:55 | 2023-11-10 |  |
 | [All My Trials](https://open.spotify.com/track/7nTkGz7kHuDZ6frHXk2HEQ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y), [Gabrielle Drake](https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 1:55 | 2023-03-19 | 2023-11-11 |
@@ -50,7 +50,7 @@
 | [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 | 2024-05-19 |  |
 | [Joey](https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:03 | 2022-09-16 |  |
 | [Magic \- Orchestrated Version 2](https://open.spotify.com/track/32Z3miiD5SZgaIkaGEWStf) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:45 | 2022-09-16 | 2023-09-16 |
-| [Man In A Shed](https://open.spotify.com/track/7rDJymAeuDbAKmRO07dGHS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 3:51 | 2024-05-11 | 2024-06-12 |
+| [Man In A Shed](https://open.spotify.com/track/7rDJymAeuDbAKmRO07dGHS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 3:51 | 2024-05-11 |  |
 | [Mayfair \- Cambridge Version](https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:11 | 2023-09-15 |  |
 | [Milk And Honey](https://open.spotify.com/track/5C9LySq5h3t2Uc6DStZ5pa) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:59 | 2022-09-16 | 2022-12-10 |
 | [Milk And Honey](https://open.spotify.com/track/177sqIhTfzg8PSioaKQ4WI) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6YcM0ELCFt9WFdkye4ejxm) | 2:59 | 2023-03-17 | 2023-08-28 |

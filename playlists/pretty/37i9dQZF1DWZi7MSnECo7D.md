@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Curumin ❤️ Anelis
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,772 likes - 71 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,734 likes - 71 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pisa](https://open.spotify.com/track/11ykjzCoI7GtSniRHDIi0k) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Pisa / Corredor do mato dentro](https://open.spotify.com/album/3z9b24gIHrmArUYblUc6Mq) | 2:00 |
 | 2 | [Dolores Prestes a Levitar](https://open.spotify.com/track/7n24CsLROsiawSHA3pnhHf) | [TRAGO](https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Gustavo Ruiz](https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m), [Alexandre Orion](https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P), [Rica Amabis](https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM) | [Dolores Prestes a Levitar](https://open.spotify.com/album/1smRYpdy6Ya0wz1tLCb4rU) | 3:22 |
-| 3 | [Não Leve A Mal](https://open.spotify.com/track/0XKoKz5CJDrn6IeMUOS6t1) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Não Leve a Mal](https://open.spotify.com/album/6i1hGNWpDAvAEsQ7l0ftjD) | 3:50 |
+| 3 | [Não Leve a Mal](https://open.spotify.com/track/0XKoKz5CJDrn6IeMUOS6t1) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Não Leve a Mal](https://open.spotify.com/album/6i1hGNWpDAvAEsQ7l0ftjD) | 3:50 |
 | 4 | [e ai, a.i](https://open.spotify.com/track/6F8d3BhStZpnrX6yceMkdp) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [e ai, a.i](https://open.spotify.com/album/2eg97Cdq5J9DYzMCZE36Vv) | 1:36 |
 | 5 | [De ponta cabeça](https://open.spotify.com/track/22kGdSLK3uos6nXIvrCzBZ) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:21 |
 | 6 | [Motivo](https://open.spotify.com/track/1RvWhWKwb34uj5gxw3ObpL) | [Chico Bernardes](https://open.spotify.com/artist/1yfkdkJduKGUIgkFR6Qjs0) | [Motivo](https://open.spotify.com/album/2wryiYG1ObQJ4agJT9iPhe) | 2:43 |

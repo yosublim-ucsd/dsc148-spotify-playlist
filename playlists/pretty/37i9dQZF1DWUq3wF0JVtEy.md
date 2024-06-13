@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,054 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,078 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 57 | [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 |
 | 58 | [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 |
 | 59 | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Robbie Rise](https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A) | [Lipstick \(feat\. Robbie Rise\)](https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7) | 3:46 |
-| 60 | [Movin](https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Movin](https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ) | 2:11 |
-| 61 | [Bumba Bass](https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Bumba Bass](https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn) | 2:13 |
-| 62 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
+| 60 | [Bumba Bass](https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Bumba Bass](https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn) | 2:13 |
+| 61 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
+| 62 | [Movin](https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Movin](https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ) | 2:11 |
 | 63 | [Still Cutting Shapes](https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Still Cutting Shapes](https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1) | 2:28 |
 | 64 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 |
 | 65 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 97 | [GET UP](https://open.spotify.com/track/4ctWoGhGaw8mwgF3fwn3gr) | [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [GET UP](https://open.spotify.com/album/5ff7DSLlZzySv5O852661B) | 2:24 |
 | 98 | [No More](https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [GRX](https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM), [Thomas Nan](https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [No More](https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo) | 2:43 |
 | 99 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 |
-| 100 | [U & Me \- Vincent Remix](https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [U & Me \(Vincent Remix\)](https://open.spotify.com/album/5HfW4x3d6Z6U8SxVVPq64J) | 3:58 |
+| 100 | [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 |
 
 Snapshot ID: `ZmMyTwAAAAB9ZPzuAXsTX1iU7ZULCjxF`

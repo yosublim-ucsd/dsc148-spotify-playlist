@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 417118,
+  "num_followers": 417110,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293593,
-      "name": "N\u00e3o Pare",
-      "url": "https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Isaias Saad",
         "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 333902,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293593,
+      "name": "N\u00e3o Pare",
+      "url": "https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 311936,
+      "name": "J\u00f3",
+      "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Que Amor \u00c9 Esse",
         "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
       },
@@ -207,38 +223,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "O Fogo Nunca Dorme",
-        "url": "https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Vilas Boas",
-          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
-        }
-      ],
-      "duration_ms": 360187,
-      "name": "Quero Conhecer Jesus",
-      "url": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 311936,
-      "name": "J\u00f3",
-      "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
@@ -255,18 +239,38 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Nada Al\u00e9m da Gra\u00e7a",
-        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
+        "name": "O Fogo Nunca Dorme",
+        "url": "https://open.spotify.com/album/4fYvh8xIVzIoW03vdKCbei"
       },
       "artists": [
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
         }
       ],
-      "duration_ms": 271209,
-      "name": "Deus \u00e9 Deus",
-      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
+      "duration_ms": 360187,
+      "name": "Quero Conhecer Jesus",
+      "url": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        },
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -311,22 +315,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+        "name": "Nada Al\u00e9m da Gra\u00e7a",
+        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
       },
       "artists": [
         {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        },
-        {
-          "name": "Whindersson Nunes",
-          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
         }
       ],
-      "duration_ms": 224725,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+      "duration_ms": 271209,
+      "name": "Deus \u00e9 Deus",
+      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "EP Gabriela Rocha",
-        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 314746,
-      "name": "Atos 2",
-      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Minha Vez",
         "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 231637,
       "name": "Minha Vez",
       "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "EP Gabriela Rocha",
+        "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Atos 2",
+      "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Como Nunca Antes",
-        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "Como Nunca Antes",
-      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Esconderijo",
         "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 296147,
       "name": "Deus de Detalhes",
       "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Como Nunca Antes",
+        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "Como Nunca Antes",
+      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Eterno Presente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 518880,
+      "name": "Ele Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Deus Cuida de Mim",
         "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 239211,
       "name": "Prioridade",
       "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Eterno Presente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 518880,
-      "name": "Ele Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
+        "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 669421,
+      "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
         "name": "Al\u00e9m do Rio Azul (Ao Vivo)",
         "url": "https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 306560,
       "name": "Al\u00e9m do Rio Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
-        "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bf32mEPUvr7XLD2oStDL7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 669421,
-      "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Alfa e \u00d4mega",
-        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 364878,
-      "name": "Alfa e \u00d4mega",
-      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "O Maior Trof\u00e9u",
         "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 311280,
       "name": "O Maior Trof\u00e9u",
       "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Alfa e \u00d4mega",
+        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 364878,
+      "name": "Alfa e \u00d4mega",
+      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
     },
     {
       "added_at": "2023-11-03 04:33:15",

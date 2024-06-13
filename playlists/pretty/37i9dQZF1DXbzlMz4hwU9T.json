@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 87185,
+  "num_followers": 87232,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zlfm5QAAAACpoxWIQTl0P+e0noy6YiDB",
+  "snapshot_id": "Zmo9hgAAAAC3RaTh/7GuTuVZLOQwPRyg",
   "tracks": [
     {
       "added_at": "2024-01-25 15:55:50",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -313,6 +313,26 @@
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
+      "added_at": "2024-06-13 00:29:29",
+      "album": {
+        "name": "El Cosechero",
+        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "El Cosechero",
+      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
+    },
+    {
       "added_at": "2024-01-25 15:55:50",
       "album": {
         "name": "The La's",
@@ -377,22 +397,6 @@
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Vida De Perros",
-        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
-    },
-    {
       "added_at": "2024-05-30 02:39:33",
       "album": {
         "name": "Pero Amas El Caos",
@@ -411,18 +415,18 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 280400,
-      "name": "Luna - En Vivo",
-      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
+      "duration_ms": 236426,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -439,6 +443,22 @@
       "duration_ms": 235470,
       "name": "Colapso",
       "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "Luna - En Vivo",
+      "url": "https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1359,6 +1379,22 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
+        "name": "Los Esp\u00edritus",
+        "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 299880,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
         "name": "Febrero Azul",
         "url": "https://open.spotify.com/album/1VrhwgwkE6jjjJcweMdSoY"
       },
@@ -1375,22 +1411,6 @@
       "duration_ms": 214000,
       "name": "Febrero Azul",
       "url": "https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Los Esp\u00edritus",
-        "url": "https://open.spotify.com/album/3jIrLCi1YnbMJHybfNExxS"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 299880,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/5sFEbn2q1dI0xO06BKkcH1"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1695,26 +1715,6 @@
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Amador",
-        "url": "https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        },
-        {
-          "name": "Adan Jodorowsky",
-          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "J'aime Tes Genoux",
-      "url": "https://open.spotify.com/track/0tJQGhWrHSwCHO3MbfmRtV"
     }
   ],
   "unique_name": "viendo llover desde la ventana",

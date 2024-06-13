@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,119 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,223 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Downbound Train \- Live at LA Memorial Coliseum, Los Angeles, CA \- 9/27/1985](https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band \- The Born in the U.S.A\. Tour '84 \- '85](https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe) | 4:12 |
+| 1 | [Downbound Train \- Live at LA Memorial Coliseum, Los Angeles, CA \- 9/27/1985](https://open.spotify.com/track/08xrGsq938BBXHX9yRwDyB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Born in the U.S.A\. Tour '84 \- '85](https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe) | 4:12 |
 | 2 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 |
 | 3 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
 | 4 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 50 | [Odds of the Blues \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/0YCD9YcNh21iv1jtPQTCFI) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Odds of the Blues \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/0CqeZmRT6JPSUdOISx2tmv) | 4:24 |
 | 51 | [Last Man Standing](https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:05 |
 
-Snapshot ID: `ZmZCAAAAAAAOX4ujkPliPDqT3e2NolhA`
+Snapshot ID: `ZmeTgAAAAABkM9iGNS2HR/MjWaX+tilu`

@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con legallyrxx en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79738,
+  "num_followers": 79732,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-05-31 06:38:01",
       "album": {
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
+    },
+    {
+      "added_at": "2024-05-31 06:38:01",
+      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-05-31 06:38:01",
       "album": {
-        "name": "PILLS",
-        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "PILLS",
-      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
-    },
-    {
-      "added_at": "2024-05-31 06:38:01",
-      "album": {
         "name": "maracuy\u00e1",
         "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 138500,
       "name": "maracuy\u00e1",
       "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
-    },
-    {
-      "added_at": "2024-05-31 06:38:01",
-      "album": {
-        "name": "Aguilera",
-        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 150661,
-      "name": "Aguilera",
-      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
     },
     {
       "added_at": "2024-05-31 06:38:01",
@@ -711,6 +695,22 @@
       "duration_ms": 179000,
       "name": "DIME X FAVOR",
       "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
+    },
+    {
+      "added_at": "2024-05-31 06:38:01",
+      "album": {
+        "name": "Aguilera",
+        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 150661,
+      "name": "Aguilera",
+      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
     },
     {
       "added_at": "2024-05-31 06:38:01",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-05-31 06:38:01",
       "album": {
-        "name": "Te Perdono",
-        "url": "https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE"
-      },
-      "artists": [
-        {
-          "name": "Agris",
-          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Te Perdono",
-      "url": "https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp"
-    },
-    {
-      "added_at": "2024-05-31 06:38:01",
-      "album": {
         "name": "de mi cabeza no te vas",
         "url": "https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 151011,
       "name": "de mi cabeza no te vas",
       "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
+    },
+    {
+      "added_at": "2024-05-31 06:38:01",
+      "album": {
+        "name": "Te Perdono",
+        "url": "https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Te Perdono",
+      "url": "https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp"
     },
     {
       "added_at": "2024-05-31 06:38:01",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-05-31 06:38:01",
       "album": {
-        "name": "QTVB",
-        "url": "https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a"
-      },
-      "artists": [
-        {
-          "name": "Mita",
-          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
-        },
-        {
-          "name": "MI$HA",
-          "url": "https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "QTVB",
-      "url": "https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux"
-    },
-    {
-      "added_at": "2024-05-31 06:38:01",
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": "2024-05-31 06:38:01",
+      "album": {
+        "name": "QTVB",
+        "url": "https://open.spotify.com/album/5vVyZ4MndgNMA6G3gTV78a"
+      },
+      "artists": [
+        {
+          "name": "Mita",
+          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
+        },
+        {
+          "name": "MI$HA",
+          "url": "https://open.spotify.com/artist/7jojyXUh1Yl4Sw2Y5KfGYQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "QTVB",
+      "url": "https://open.spotify.com/track/15h8VCcdvLeRy0Fb92Iqux"
     },
     {
       "added_at": "2024-05-31 06:38:01",

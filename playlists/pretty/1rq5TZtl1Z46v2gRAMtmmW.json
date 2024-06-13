@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29787,
+  "num_followers": 29790,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAO0qcybz7mT7Dd81w66d+dTLghrl2F",
+  "snapshot_id": "AAAO1T8nvdzMQjo6L8q5s1x3QC31FnqD",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -59,6 +59,30 @@
       "duration_ms": 234231,
       "name": "Air Tight",
       "url": "https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9"
+    },
+    {
+      "added_at": "2024-06-12 16:19:31",
+      "album": {
+        "name": "These Dreams are Killing Me",
+        "url": "https://open.spotify.com/album/3F1rd1yNMxA85RIp4wRPVI"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 289846,
+      "name": "These Dreams are Killing Me",
+      "url": "https://open.spotify.com/track/3l3kfVCK5rhMlLzVw8ZYzg"
     },
     {
       "added_at": "2024-06-05 17:16:30",
@@ -727,26 +751,6 @@
       "duration_ms": 249894,
       "name": "CHROMA 002 L.A.V.A",
       "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
-    },
-    {
-      "added_at": "2024-03-13 13:43:05",
-      "album": {
-        "name": "Nice Town",
-        "url": "https://open.spotify.com/album/7mdqLOgyacLqWWjP0oFP6e"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Pan Amsterdam",
-          "url": "https://open.spotify.com/artist/7KPqrVAWjUBAtn8tiZayOE"
-        }
-      ],
-      "duration_ms": 167270,
-      "name": "Nice Town - Original",
-      "url": "https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

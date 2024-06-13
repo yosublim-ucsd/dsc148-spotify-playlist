@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-186 songs - 9 hr 28 min
+189 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 | 2024-04-03 | 2024-05-16 |
 | [Home Before Dark](https://open.spotify.com/track/5w7hp3eB2fpRSIxKgRfpXg) | [Nora Guthrie](https://open.spotify.com/artist/3XDzVXu9qPOYMcxvN8Qq7t) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:36 | 2024-05-16 |  |
 | [How](https://open.spotify.com/track/7iq5isJ5Y9ya3QTqPV4G6A) | [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Ducks](https://open.spotify.com/album/7uwe7Gx9cmqQbOfAN8BeTz) | 1:57 | 2024-03-09 | 2024-05-16 |
+| [I Can Dream](https://open.spotify.com/track/56NDW2C9TPog81aDwasskH) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Half Price at 3:30](https://open.spotify.com/album/7hMopyoxOXaZuKhSKKclUC) | 3:57 | 2024-06-12 |  |
 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:22 | 2024-04-20 | 2024-05-16 |
 | [I Can't Dream Anymore](https://open.spotify.com/track/0bZN26ShHJhG1NERwNs7LP) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 3:12 | 2024-03-22 | 2024-05-16 |
 | [I Care](https://open.spotify.com/track/7tHxfAiPYN5357A49tY5p2) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P), [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [I Can't Dream Anymore](https://open.spotify.com/album/2nWfaWfDYIEMeckjUAfDCZ) | 4:18 | 2024-03-21 | 2024-05-16 |
@@ -99,6 +100,7 @@
 | [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 | 2024-05-23 | 2024-05-25 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-02-08 | 2024-03-10 |
 | [Images](https://open.spotify.com/track/1uaY7sON2Hi95MRVnWmZ0v) | [Mikey Enwright](https://open.spotify.com/artist/0ZDYUmvfOj3XAHSIkeepyn) | [Images](https://open.spotify.com/album/1ZijTOVIDEYinWZ9Wy0JRk) | 2:59 | 2024-04-25 | 2024-05-16 |
+| [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 | 2024-06-12 |  |
 | [In Your Eyes](https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:27 | 2024-04-13 | 2024-05-16 |
 | [Jamais Pars](https://open.spotify.com/track/5EWODrhxDCGt2NbkCpawQa) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [Mesmerized By The Sirens](https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg) | 2:09 | 2024-03-11 | 2024-05-16 |
 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 | 2024-02-27 | 2024-03-10 |
@@ -184,6 +186,7 @@
 | [Top of Morning](https://open.spotify.com/track/0UfIarGCDsKojnn6p4LvTx) | [The Hang\-Ups](https://open.spotify.com/artist/16YEyKB4T5ayo9Ss0QvI9V) | [So We Go](https://open.spotify.com/album/70t2UqAkgVrD68eEPq4q7V) | 2:41 | 2024-04-01 | 2024-05-16 |
 | [Towards the Light](https://open.spotify.com/track/5Hfek3OCEOxOVeywQjK1aK) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Everything's Alright Forever](https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx) | 1:41 | 2024-01-09 | 2024-03-10 |
 | [Truman](https://open.spotify.com/track/0y3gxrlk5VtTRmFljO5w36) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/5H6AKYiSVXgvWWCHQUTmO5) | 3:08 | 2024-04-18 | 2024-05-16 |
+| [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 | 2024-06-12 |  |
 | [Up Er Mei](https://open.spotify.com/track/1N7oGtGMR3GzIN1WpcS62z) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Hourglass](https://open.spotify.com/album/3E7Sj3kKbxY1Tsp7U0SKQi) | 3:46 | 2024-03-25 | 2024-05-16 |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |

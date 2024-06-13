@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u80fd\u611f\u89ba\u6211\u5011\u5169\u500b\u4e16\u754c \u611b\u8b8a\u5f97\u4e0d\u518d\u719f\u7df4 \u5c31\u9023\u64c1\u62b1\u90fd\u4e0d\u518d\u71b1\u70c8 \u50cf\u51b7\u7a7a\u6c23\u964d\u6eab\u7684\u77ac\u9593",
-  "num_followers": 185596,
+  "num_followers": 185595,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-06 09:15:30",
       "album": {
-        "name": "\u5979\u8aaa",
-        "url": "https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 318499,
-      "name": "\u5979\u8aaa",
-      "url": "https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts"
-    },
-    {
-      "added_at": "2024-06-06 09:15:30",
-      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
+    },
+    {
+      "added_at": "2024-06-06 09:15:30",
+      "album": {
+        "name": "\u5979\u8aaa",
+        "url": "https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 318499,
+      "name": "\u5979\u8aaa",
+      "url": "https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts"
     },
     {
       "added_at": "2024-06-06 09:15:30",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-06-06 09:15:30",
       "album": {
-        "name": "\u611b\u7f3a",
-        "url": "https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r"
+        "name": "\u591c\u8c93",
+        "url": "https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs"
       },
       "artists": [
         {
-          "name": "\u9676\u6676\u7469",
-          "url": "https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT"
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
         }
       ],
-      "duration_ms": 291306,
-      "name": "\u592a\u59d4\u5c48",
-      "url": "https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT"
+      "duration_ms": 282400,
+      "name": "\u6211\u611b\u4ed6",
+      "url": "https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k"
     },
     {
       "added_at": "2024-06-06 09:15:30",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-06-06 09:15:30",
       "album": {
-        "name": "\u591c\u8c93",
-        "url": "https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs"
+        "name": "\u611b\u7f3a",
+        "url": "https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r"
       },
       "artists": [
         {
-          "name": "Della",
-          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+          "name": "\u9676\u6676\u7469",
+          "url": "https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT"
         }
       ],
-      "duration_ms": 282400,
-      "name": "\u6211\u611b\u4ed6",
-      "url": "https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k"
+      "duration_ms": 291306,
+      "name": "\u592a\u59d4\u5c48",
+      "url": "https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT"
     },
     {
       "added_at": "2024-06-06 09:15:30",

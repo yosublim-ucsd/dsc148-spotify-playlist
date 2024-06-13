@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333 likes - 79 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,27 +66,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 56 | [Last Call](https://open.spotify.com/track/3dhcRBhrx6ZvyPdiz6QKh4) | [Airglow](https://open.spotify.com/artist/0347X29GtMWksQFdN7xpg6) | [Stratford Ct\. \| Iterum](https://open.spotify.com/album/3fpiSLxyUVMc3HP0zpZktm) | 4:10 |
 | 57 | [H204](https://open.spotify.com/track/6BgRhSUOCm5cJdCG0tEkmG) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [H204](https://open.spotify.com/album/7xy8hj9nSikTkADPm2lCS3) | 2:35 |
 | 58 | [Metro](https://open.spotify.com/track/0VMWB3h15wUPI7qk2ReWiS) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Evenings, Vol\. 1](https://open.spotify.com/album/10UNH2oeQQas3dRWzqODeX) | 2:46 |
-| 59 | [Runaway Hits](https://open.spotify.com/track/1txPfOfGv4KDLbT8fxMJpx) | [Silva Silvester](https://open.spotify.com/artist/0qX6jHWN2dF8OAGysAJl9Y) | [Runaway Hits](https://open.spotify.com/album/3HbfhUt88VoXeYx7CUMnwv) | 3:10 |
-| 60 | [LAX Bound](https://open.spotify.com/track/4m71KqM8xSO6IMMxIJEdky) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [LAX Bound](https://open.spotify.com/album/1sOaJJoEvVPDSo5djwSHY0) | 3:49 |
-| 61 | [Stars and Planets](https://open.spotify.com/track/6eK4JNI1JDiyIuOtrrp3t7) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Stars and Planets](https://open.spotify.com/album/5QoSvBUOo92siqyyfwLVe3) | 2:50 |
-| 62 | [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 |
-| 63 | [Distant Stars](https://open.spotify.com/track/3Py9NAhqekG0MaFbe6RdGV) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Distant Stars](https://open.spotify.com/album/04ixdVxcbypoIbfAzOMuHn) | 2:33 |
-| 64 | [Duplicated](https://open.spotify.com/track/6ZVxBC5euluubh2iVLKPs6) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Duplicated](https://open.spotify.com/album/3iPfXlUbmsSVIJz8OvUfWR) | 2:43 |
-| 65 | [Red Red Sea](https://open.spotify.com/track/1eMLvUyt10OOSs2qPLmFSk) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Red Red Sea](https://open.spotify.com/album/5IJZmgMdmoR0ZyC9y7M2Nj) | 2:52 |
-| 66 | [Forgotten Summer](https://open.spotify.com/track/223hBrvnfpTCqk2IJya5aN) | [FNL BO$$](https://open.spotify.com/artist/6ZLon0iHgFixJOzwdwPTUX) | [Forgotten Summer](https://open.spotify.com/album/10yDRYLxtUGzx3mbAoLvwo) | 2:38 |
-| 67 | [Old Places](https://open.spotify.com/track/4WJQ2Bunmt1M4SH6u7B6lQ) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Old Places](https://open.spotify.com/album/3MYhQO56RkOSmjPvHrsX7C) | 3:21 |
-| 68 | [Vision](https://open.spotify.com/track/6KNaqKR7BcwXCluU3RXfZr) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Foudroie](https://open.spotify.com/artist/1P689RfBCQpBQoZhCCgFma) | [Vision](https://open.spotify.com/album/68V0lav8D7wxmj0dSermlU) | 3:21 |
-| 69 | [Rebound](https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Rebound](https://open.spotify.com/album/6LLm6mmVB8tXjpRxSW5BJI) | 3:04 |
-| 70 | [Apiary](https://open.spotify.com/track/0GhNaJ0fKgdZ0rtorNbrpt) | [wavetearz](https://open.spotify.com/artist/6KXxSJSRFwAXN29VPO1hZk) | [Apiary](https://open.spotify.com/album/5bkrDIaKH4xdcqjT6HiPV3) | 2:41 |
-| 71 | [Like Math and Science](https://open.spotify.com/track/6dI32U3qpEbkF5CxOwVotb) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [You Get What You Give](https://open.spotify.com/album/5Kh55x2m4Vfm5ab5q2r2Mw) | 2:19 |
-| 72 | [Atlantis](https://open.spotify.com/track/1Ck57y28RGO0G0liJXg5rh) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Astral](https://open.spotify.com/album/1uGa6ryU3GodJXBlFCAqNj) | 4:49 |
-| 73 | [Galactic Odyssey](https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Galactic Odyssey](https://open.spotify.com/album/6Tg8rLt0JwF3U9f71ytaH2) | 2:39 |
-| 74 | [Stardancer](https://open.spotify.com/track/6KlbIwVaanhHP5yOU9mhDy) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k) | [The Last Descent](https://open.spotify.com/album/6HvsBZM0eo7dLeUyRg6EpR) | 3:04 |
-| 75 | [Lost in Agadir](https://open.spotify.com/track/1KT4CSVrr2V2T9SCp4rfPM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Lost in Agadir](https://open.spotify.com/album/61iYmWms0utxBt46u9CDfG) | 2:51 |
-| 76 | [We Began as Wanderers](https://open.spotify.com/track/2rL1cFztdWVUja88kIpumO) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [We Began as Wanderers](https://open.spotify.com/album/0K1zzGjDbsZbiirUV4sQCx) | 3:33 |
-| 77 | [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 |
-| 78 | [Genesis](https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Genesis](https://open.spotify.com/album/7qRTzJRQaIrcOlbTjN2faN) | 2:36 |
-| 79 | [Defender](https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Defender](https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U) | 3:44 |
-| 80 | [Daytona Dystopia](https://open.spotify.com/track/6bY7tkvLkGsoTyRYYYkzS1) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Daytona Dystopia](https://open.spotify.com/album/5JUfGko6YzunuWbYYnRwZK) | 2:37 |
+| 59 | [LAX Bound](https://open.spotify.com/track/4m71KqM8xSO6IMMxIJEdky) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [LAX Bound](https://open.spotify.com/album/1sOaJJoEvVPDSo5djwSHY0) | 3:49 |
+| 60 | [Stars and Planets](https://open.spotify.com/track/6eK4JNI1JDiyIuOtrrp3t7) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Stars and Planets](https://open.spotify.com/album/5QoSvBUOo92siqyyfwLVe3) | 2:50 |
+| 61 | [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 |
+| 62 | [Distant Stars](https://open.spotify.com/track/3Py9NAhqekG0MaFbe6RdGV) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Distant Stars](https://open.spotify.com/album/04ixdVxcbypoIbfAzOMuHn) | 2:33 |
+| 63 | [Duplicated](https://open.spotify.com/track/6ZVxBC5euluubh2iVLKPs6) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Duplicated](https://open.spotify.com/album/3iPfXlUbmsSVIJz8OvUfWR) | 2:43 |
+| 64 | [Red Red Sea](https://open.spotify.com/track/1eMLvUyt10OOSs2qPLmFSk) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Red Red Sea](https://open.spotify.com/album/5IJZmgMdmoR0ZyC9y7M2Nj) | 2:52 |
+| 65 | [Forgotten Summer](https://open.spotify.com/track/223hBrvnfpTCqk2IJya5aN) | [FNL BO$$](https://open.spotify.com/artist/6ZLon0iHgFixJOzwdwPTUX) | [Forgotten Summer](https://open.spotify.com/album/10yDRYLxtUGzx3mbAoLvwo) | 2:38 |
+| 66 | [Old Places](https://open.spotify.com/track/4WJQ2Bunmt1M4SH6u7B6lQ) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Old Places](https://open.spotify.com/album/3MYhQO56RkOSmjPvHrsX7C) | 3:21 |
+| 67 | [Vision](https://open.spotify.com/track/6KNaqKR7BcwXCluU3RXfZr) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Foudroie](https://open.spotify.com/artist/1P689RfBCQpBQoZhCCgFma) | [Vision](https://open.spotify.com/album/68V0lav8D7wxmj0dSermlU) | 3:21 |
+| 68 | [Rebound](https://open.spotify.com/track/7o7vKcCxfstLnsdhM4OkyD) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Rebound](https://open.spotify.com/album/6LLm6mmVB8tXjpRxSW5BJI) | 3:04 |
+| 69 | [Apiary](https://open.spotify.com/track/0GhNaJ0fKgdZ0rtorNbrpt) | [wavetearz](https://open.spotify.com/artist/6KXxSJSRFwAXN29VPO1hZk) | [Apiary](https://open.spotify.com/album/5bkrDIaKH4xdcqjT6HiPV3) | 2:41 |
+| 70 | [Like Math and Science](https://open.spotify.com/track/6dI32U3qpEbkF5CxOwVotb) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [You Get What You Give](https://open.spotify.com/album/5Kh55x2m4Vfm5ab5q2r2Mw) | 2:19 |
+| 71 | [Atlantis](https://open.spotify.com/track/1Ck57y28RGO0G0liJXg5rh) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Astral](https://open.spotify.com/album/1uGa6ryU3GodJXBlFCAqNj) | 4:49 |
+| 72 | [Galactic Odyssey](https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Galactic Odyssey](https://open.spotify.com/album/6Tg8rLt0JwF3U9f71ytaH2) | 2:39 |
+| 73 | [Stardancer](https://open.spotify.com/track/6KlbIwVaanhHP5yOU9mhDy) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k) | [The Last Descent](https://open.spotify.com/album/6HvsBZM0eo7dLeUyRg6EpR) | 3:04 |
+| 74 | [Lost in Agadir](https://open.spotify.com/track/1KT4CSVrr2V2T9SCp4rfPM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Lost in Agadir](https://open.spotify.com/album/61iYmWms0utxBt46u9CDfG) | 2:51 |
+| 75 | [We Began as Wanderers](https://open.spotify.com/track/2rL1cFztdWVUja88kIpumO) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [We Began as Wanderers](https://open.spotify.com/album/0K1zzGjDbsZbiirUV4sQCx) | 3:33 |
+| 76 | [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 |
+| 77 | [Genesis](https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Genesis](https://open.spotify.com/album/7qRTzJRQaIrcOlbTjN2faN) | 2:36 |
+| 78 | [Defender](https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Defender](https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U) | 3:44 |
+| 79 | [Daytona Dystopia](https://open.spotify.com/track/6bY7tkvLkGsoTyRYYYkzS1) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Daytona Dystopia](https://open.spotify.com/album/5JUfGko6YzunuWbYYnRwZK) | 2:37 |
 
-Snapshot ID: `ZmIUnAAAAADXyixz6AApZo7xfFqvEmbr`
+Snapshot ID: `ZmlDlQAAAAD8ZHuAiQfYFiCI7TSzo9tD`

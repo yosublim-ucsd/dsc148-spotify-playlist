@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 151441,
       "name": "30 GRADOS",
       "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
@@ -4626,7 +4626,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 184866,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/3pCkC3Ahgl7MShJbafchZz"
@@ -13295,6 +13295,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149083,
+      "name": "RAIN III",
+      "url": "https://open.spotify.com/track/74IoOB0Rxc7jKF7gUYFoNj"
+    },
+    {
+      "album": {
         "name": "Ram Pam Pam",
         "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
       },
@@ -14596,6 +14614,24 @@
       "duration_ms": 169614,
       "name": "SONIDO DEL A\u00d1O",
       "url": "https://open.spotify.com/track/1QNifxPOa17DtmPn54Ac4d"
+    },
+    {
+      "album": {
+        "name": "SORRY 4 THAT MUCH",
+        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207746,
+      "name": "SORRY 4 THAT MUCH",
+      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 87848,
+  "num_followers": 87868,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAACGOHMXQDKh3C95eAS0eH92",
+  "snapshot_id": "ZmeTgAAAAAD5m4Dg1fohSpPiuTPqJ4MX",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Longest Line",
+        "url": "https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 124026,
+      "name": "The Longest Line",
+      "url": "https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 99333,
+      "name": "Thank God It's Monday",
+      "url": "https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Half Album",
         "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
       },
@@ -571,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest Line",
-        "url": "https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt"
+        "name": "I'm a Rat",
+        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
       },
       "artists": [
         {
@@ -580,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 124026,
-      "name": "The Longest Line",
-      "url": "https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ"
+      "duration_ms": 130547,
+      "name": "I'm a Rat",
+      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
     },
     {
       "added_at": null,
@@ -612,25 +644,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 99333,
-      "name": "Thank God It's Monday",
-      "url": "https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm a Rat",
-        "url": "https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130547,
-      "name": "I'm a Rat",
-      "url": "https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc"
+      "duration_ms": 58000,
+      "name": "And Now For Something Completely Similar",
+      "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 58000,
-      "name": "And Now For Something Completely Similar",
-      "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
+      "duration_ms": 144878,
+      "name": "Darby Crashing Your Party",
+      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 73933,
       "name": "Getting High on the Down Low",
       "url": "https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Album",
-        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 144878,
-      "name": "Darby Crashing Your Party",
-      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
     },
     {
       "added_at": null,

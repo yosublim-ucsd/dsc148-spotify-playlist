@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Pierre Garnier au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,406 likes - 84 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,415 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,13 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 74 | [plus rien n'est grave](https://open.spotify.com/track/4U76PI9tnyfhaDCFF4BwZl) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [plus rien n'est grave](https://open.spotify.com/album/6Cxe9FqTyI2EJNNtIHwn7W) | 3:03 |
 | 75 | [Let Me Know](https://open.spotify.com/track/2qd53W3teTo3Oa6CYu0yxJ) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R) | [Let Me Know](https://open.spotify.com/album/0eQRu9UdL7BF9FB984WOJj) | 3:20 |
 | 76 | [Broke My Heart](https://open.spotify.com/track/4jf9aWVk63e8c8lC7HABbK) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Broke My Heart](https://open.spotify.com/album/22TAmmHGJNDO7fDwlf0RE7) | 2:46 |
-| 77 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 |
-| 78 | [4U](https://open.spotify.com/track/2T1s4mN3JybGmimFX8zDTD) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Mi Amigo Slow Joy](https://open.spotify.com/album/3GLPZqpHxiB1H2ayDNV1BS) | 3:32 |
-| 79 | [Tooth Fairy](https://open.spotify.com/track/0ldp8GXM8tL1dI6WtxI1D5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Tooth Fairy](https://open.spotify.com/album/6wVOzdjbjCuOZAa5xxNeNp) | 3:19 |
-| 80 | [ISUZU](https://open.spotify.com/track/7CH4MJepqRBnu5zUvfZK3f) | [TH](https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [E\-TRAP](https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c) | 2:30 |
-| 81 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 |
-| 82 | [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 |
-| 83 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
-| 84 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 |
+| 77 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
+| 78 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 |
+| 79 | [4U](https://open.spotify.com/track/2T1s4mN3JybGmimFX8zDTD) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Mi Amigo Slow Joy](https://open.spotify.com/album/3GLPZqpHxiB1H2ayDNV1BS) | 3:32 |
+| 80 | [Tooth Fairy](https://open.spotify.com/track/0ldp8GXM8tL1dI6WtxI1D5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Tooth Fairy](https://open.spotify.com/album/6wVOzdjbjCuOZAa5xxNeNp) | 3:19 |
+| 81 | [ISUZU](https://open.spotify.com/track/7CH4MJepqRBnu5zUvfZK3f) | [TH](https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [E\-TRAP](https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c) | 2:30 |
+| 82 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 |
+| 83 | [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 |
+| 84 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
+| 85 | [Looking For the Answer](https://open.spotify.com/track/2EKaizMj9CNyQQT72Fxo32) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [Looking For the Answer](https://open.spotify.com/album/5zPrKYINTfLGwbOg1HPzZ4) | 5:02 |
 
 Snapshot ID: `ZmIxYAAAAACq3lJztBxDDjiylcbJ+bNX`

@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 421810,
+  "num_followers": 421849,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAADJzcQ5rNh0X2UnAw6D5iPK",
+  "snapshot_id": "ZmeTgAAAAACdqmiPEC8iJGOP1nf1M55B",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Vale Por Siempre",
+        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV"
       },
@@ -535,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valentin Elizalde En Vivo",
-        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 184306,
-      "name": "Mi Gusto Es - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
       },
@@ -563,6 +567,22 @@
       "duration_ms": 186960,
       "name": "Vete Con \u00c9l",
       "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 184306,
+      "name": "Mi Gusto Es - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz"
     },
     {
       "added_at": null,
@@ -603,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valentin Elizalde En Vivo",
-        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Delfos, Guadalajara/2002",
-      "url": "https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
       },
@@ -631,6 +635,22 @@
       "duration_ms": 137053,
       "name": "Ya Viene Amaneciendo",
       "url": "https://open.spotify.com/track/5AVJgFRGY7zv55T2XcuJcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Valentin Elizalde En Vivo",
+        "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Delfos, Guadalajara/2002",
+      "url": "https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal"
     },
     {
       "added_at": null,
@@ -667,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 124680,
+      "name": "Y No Me Lo Das",
+      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Valentin Elizalde En Vivo",
         "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
@@ -679,22 +715,6 @@
       "duration_ms": 403493,
       "name": "Clave Privada - En Vivo Desde Delfos, Guadalajara/2002",
       "url": "https://open.spotify.com/track/03UlkuvBTpbvaSbAaJUriF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Les Pelo Baltazar",
-        "url": "https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v"
     },
     {
       "added_at": null,
@@ -715,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+        "name": "Se Les Pelo Baltazar",
+        "url": "https://open.spotify.com/album/6u1WedqeupmhpAlkyNU7XW"
       },
       "artists": [
         {
@@ -724,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 124680,
-      "name": "Y No Me Lo Das",
-      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
+      "duration_ms": 238240,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/4COFVKhvXA3LecFReH6D2v"
     },
     {
       "added_at": null,
@@ -819,22 +839,6 @@
       "duration_ms": 182800,
       "name": "As\u00ed Que Te Vas",
       "url": "https://open.spotify.com/track/50ipI7duYwyQYw79guJRP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "La Banda Borracha",
-      "url": "https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs"
     }
   ],
   "unique_name": "This Is Valent\u00edn Elizalde",

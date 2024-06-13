@@ -3331,6 +3331,24 @@
     },
     {
       "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
+    },
+    {
+      "album": {
         "name": "Aro Aro Aro Fora Bolsonaro",
         "url": "https://open.spotify.com/album/0ALcBUslwxg7OEZsDkN3cw"
       },
@@ -9977,6 +9995,28 @@
     },
     {
       "album": {
+        "name": "Como Um Beijo",
+        "url": "https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        },
+        {
+          "name": "Nadson O Ferinha",
+          "url": "https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "Como Um Beijo",
+      "url": "https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -10122,7 +10162,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 145812,
       "name": "CONFISS\u00d5ES PT2",
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
@@ -10640,7 +10680,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 172613,
       "name": "Crina Negra",
       "url": "https://open.spotify.com/track/4W1PrnmuzeY1EmJZlDj5lt"
@@ -11568,7 +11608,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 104360,
       "name": "Deixa Eu Botar",
       "url": "https://open.spotify.com/track/7bBD12XmRKP577rmXmcyho"
@@ -12686,7 +12726,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 112153,
       "name": "Diga N\u00e3o ao Job",
       "url": "https://open.spotify.com/track/0G99TcXaDOiIm33hGXnxEs"
@@ -14120,10 +14160,36 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 151510,
       "name": "Ei Moto Taxi",
       "url": "https://open.spotify.com/track/04XZsmTKhKMKNbRXA4oUKX"
+    },
+    {
+      "album": {
+        "name": "Ei Moto T\u00e1xi",
+        "url": "https://open.spotify.com/album/5QlKVH6TE9oXTQgM5XxfVF"
+      },
+      "artists": [
+        {
+          "name": "Mc Monik do pix",
+          "url": "https://open.spotify.com/artist/6DpNrfbj0tD4MQlCPipDaf"
+        },
+        {
+          "name": "DJ Fabricio Satisfaction",
+          "url": "https://open.spotify.com/artist/3vK8tLmV0wh0mo4O1BN2oI"
+        },
+        {
+          "name": "DJ Luan Indiscutivel",
+          "url": "https://open.spotify.com/artist/0ulHnN48lSv9jPnJp086uR"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172895,
+      "name": "Ei Moto T\u00e1xi",
+      "url": "https://open.spotify.com/track/3maK7XfMybZF8gO2bltuDG"
     },
     {
       "album": {
@@ -17020,7 +17086,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 152245,
       "name": "FALTA DE QU\u00ca?",
       "url": "https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU"
@@ -20955,6 +21021,24 @@
     },
     {
       "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
       },
@@ -24274,7 +24358,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 893787,
       "name": "Lindo Momento",
       "url": "https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw"
@@ -25268,7 +25352,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 333986,
       "name": "L\u2019AMOUR DE MA VIE",
       "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
@@ -27638,10 +27722,36 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 238129,
       "name": "MEGA FUNK FAZ MACETE",
       "url": "https://open.spotify.com/track/7ECXBUFzjEn2sw3OKiKGIe"
+    },
+    {
+      "album": {
+        "name": "Mega Funk Faz Macete",
+        "url": "https://open.spotify.com/album/3iFkNCEW4SfoWqr2ETf4he"
+      },
+      "artists": [
+        {
+          "name": "TAIDigital",
+          "url": "https://open.spotify.com/artist/1rpIqBtHIGInNjPbRVha5x"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "Mega Funk Faz Macete",
+      "url": "https://open.spotify.com/track/5YzDr5BIEDHfmY0XfGiTXn"
     },
     {
       "album": {
@@ -28402,6 +28512,24 @@
       "duration_ms": 139751,
       "name": "MEU PILOTO ELETROFUNK",
       "url": "https://open.spotify.com/track/4rAWBICfXpUpU5njMqYMAO"
+    },
+    {
+      "album": {
+        "name": "Meu Sonho",
+        "url": "https://open.spotify.com/album/2uol5nnCAv9RHeadO2TRoJ"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/1dGxOpMQknNgkD5d9BCObF"
     },
     {
       "album": {
@@ -31612,7 +31740,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 275750,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
@@ -44595,6 +44723,32 @@
     },
     {
       "album": {
+        "name": "Tava na Paropeba Curtindo no Sapatinho - Tropa de Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/6bn7UL1uEWl9KK08YpDAtE"
+      },
+      "artists": [
+        {
+          "name": "MC NIQUE FXR",
+          "url": "https://open.spotify.com/artist/00fKIxv4l4SmNg5ZvPdrCB"
+        },
+        {
+          "name": "DJ PSICO DE CAXIAS",
+          "url": "https://open.spotify.com/artist/3LGIFvM03aaCTDFYelZT6a"
+        },
+        {
+          "name": "Dj Nariz 22",
+          "url": "https://open.spotify.com/artist/5fqlFVIYK9csUopLAbQVpA"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137576,
+      "name": "Tava na Paropeba Curtindo no Sapatinho - Tropa de Cuiab\u00e1",
+      "url": "https://open.spotify.com/track/1N2n59kOBsk1tWFbIYKJwI"
+    },
+    {
+      "album": {
         "name": "Tbt 2023 Voume 02",
         "url": "https://open.spotify.com/album/3gVFPGX2n50XAjiL4tG6yk"
       },
@@ -46672,6 +46826,32 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "album": {
+        "name": "Toque Carinhoso",
+        "url": "https://open.spotify.com/album/7kuchmS0xo9mmBQ6aO4dS4"
+      },
+      "artists": [
+        {
+          "name": "Kempa",
+          "url": "https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP"
+        },
+        {
+          "name": "Jhony Carvalho",
+          "url": "https://open.spotify.com/artist/3klWRLFvprNcghYABkzIlY"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186994,
+      "name": "Toque Carinhoso",
+      "url": "https://open.spotify.com/track/6s10JhCg5l6ckm8sdviEea"
     },
     {
       "album": {
@@ -50963,6 +51143,24 @@
     },
     {
       "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "album": {
         "name": "Wonderful Brazilian Pagode",
         "url": "https://open.spotify.com/album/59JcV8EcQeNk6ptU9W6KAA"
       },
@@ -51910,7 +52108,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 140528,
       "name": "\u00c9 Que Eu Te Sarrei",
       "url": "https://open.spotify.com/track/7uPInsxTeMbyrJkDQaRwPh"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-27",
-  "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
+  "description": "This Is Vanessa Zamora. Los temas esenciales, todos en una lista.",
   "name": "This Is Vanessa Zamora",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 222598,
       "name": "Dejarnos Ir",
       "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"

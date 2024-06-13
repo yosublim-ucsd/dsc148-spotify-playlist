@@ -6727,7 +6727,7 @@
     },
     {
       "album": {
-        "name": "Bruce Springsteen & The E Street Band - The Born in the U.S.A. Tour '84 - '85",
+        "name": "The Born in the U.S.A. Tour '84 - '85",
         "url": "https://open.spotify.com/album/7I1AeiGL76IsHls98I6xEe"
       },
       "artists": [
@@ -20607,6 +20607,32 @@
     },
     {
       "album": {
+        "name": "Bajo el Hechizo de la Resonancia: Explorando tu Reino de Paraguas",
+        "url": "https://open.spotify.com/album/64KURxmmxZDIpnmcMCL6Tj"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        },
+        {
+          "name": "Lluvia Relajante",
+          "url": "https://open.spotify.com/artist/23wO0bYxC7ScKWqSs3B1xF"
+        },
+        {
+          "name": "Sonidos De Truenos y Lluvia",
+          "url": "https://open.spotify.com/artist/6xTTIh4uHGvswk0mUi9GJ4"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172499,
+      "name": "Quest for Eternal Embrace",
+      "url": "https://open.spotify.com/track/15w7LwhA6pqj8YToruNINS"
+    },
+    {
+      "album": {
         "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
         "url": "https://open.spotify.com/album/3EU9icPHbU96omPY6nRleD"
       },
@@ -23226,7 +23252,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 108946,
       "name": "Singular Ecstasy",
       "url": "https://open.spotify.com/track/08eqsJQJFs5rAqyeqwJAoZ"
@@ -25606,10 +25632,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 446762,
       "name": "The Call of Ktulu",
       "url": "https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG"
+    },
+    {
+      "album": {
+        "name": "The Call of Ktulu",
+        "url": "https://open.spotify.com/album/2rQ0vvy8JtDNl8ptHhoHoq"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446762,
+      "name": "The Call of Ktulu",
+      "url": "https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t"
     },
     {
       "album": {

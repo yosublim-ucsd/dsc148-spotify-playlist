@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Maluma, Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,512 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,531 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 9 | [VOL 2](https://open.spotify.com/track/3YZyRP5bddC0iQTeALPQep) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:10 |
 | 10 | [Atmósfera](https://open.spotify.com/track/6eOxyJiqVvlL94iF4KRYnV) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Atmósfera](https://open.spotify.com/album/5GVJZd5ONlczunnTWRTUk7) | 2:43 |
 | 11 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 |
-| 12 | [1000 KM](https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj), [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [1000 KM](https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO) | 2:37 |
+| 12 | [1000 KM](https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3) | [No Deal](https://open.spotify.com/artist/35dFa02f8Yg6eZJz5N3wMF), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Valeria](https://open.spotify.com/artist/7LESHpe5ufdnpZG6IM0xwE), [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [1000 KM](https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO) | 2:37 |
 | 13 | [Prohibidox](https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:46 |
 | 14 | [DONDE SE APRENDE A QUERER?](https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:24 |
 | 15 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 |

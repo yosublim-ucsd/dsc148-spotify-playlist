@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Charli XCX
 
-2,089 songs - 4 day 16 hr 27 min
+2,090 songs - 4 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1236,6 +1236,7 @@
 | [Money](https://open.spotify.com/track/7rewueb4Gi7XJ7SFyz4Lyk) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Money](https://open.spotify.com/album/2pe0owZ6XB7MnLTzi6Qf8M) | 2:40 | 2023-05-04 | 2023-06-02 |
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-28 | 2022-12-02 |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-02-09 | 2024-03-08 |
+| [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-12 |  |
 | [Moonlight](https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 5:46 | 2024-01-19 | 2024-02-16 |
 | [More Money More Problems](https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [More Money More Problems](https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO) | 2:57 | 2023-08-10 | 2023-09-15 |
 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 | 2023-09-28 | 2023-11-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,723 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,768 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 74 | [How You Love Me](https://open.spotify.com/track/1nas007nDbzLwDGwvMdz79) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [How You Love Me](https://open.spotify.com/album/0IsgaoqRfJAJ6wojxWDZ7C) | 3:30 |
 | 75 | [Off The Hook](https://open.spotify.com/track/6jmTQwFzejCurofZDz7x9k) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Off The Hook](https://open.spotify.com/album/4xFL1dccvsB3Hc5OqB7LmW) | 2:57 |
 | 76 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 |
-| 77 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
-| 78 | [No Beef \(feat\. Miss Palmer\) \- Vocal Mix](https://open.spotify.com/track/1CZyEpQeKPWp9Eeq4ppzyR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/5YON5Ykgl5BEZBdWsIJeOJ) | 6:01 |
+| 77 | [No Beef \(feat\. Miss Palmer\) \- Vocal Mix](https://open.spotify.com/track/1CZyEpQeKPWp9Eeq4ppzyR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef](https://open.spotify.com/album/5YON5Ykgl5BEZBdWsIJeOJ) | 6:01 |
+| 78 | [Leaving You](https://open.spotify.com/track/22qUyTlEvJf6DAlyQjMADe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Leaving You](https://open.spotify.com/album/1QkRNSPk2pDxzILcU14yBG) | 3:32 |
 | 79 | [Ready For Your Love](https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens](https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG) | 3:18 |
 | 80 | [You're Gonna Love Again](https://open.spotify.com/track/214tNSr4epshNjQ6W2PTLg) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Collateral](https://open.spotify.com/album/1CZnMTWdD8cApDRm2wLCZp) | 3:21 |
 | 81 | [LRAD](https://open.spotify.com/track/4ce29VAx1D8f3HULOHHA3K) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Haunted House](https://open.spotify.com/album/1YhwGzFBdDAR1OA9644LK9) | 5:15 |

@@ -148,10 +148,36 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 229750,
       "name": "All My Love (feat. Ariana Grande & Machel Montano) - Remix",
       "url": "https://open.spotify.com/track/3GYcfRApdlbOz2UJdOwGju"
+    },
+    {
+      "album": {
+        "name": "Peace Is The Mission",
+        "url": "https://open.spotify.com/album/50Q4ewXTrb8txE3mOAnUn1"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229750,
+      "name": "All My Love - Remix",
+      "url": "https://open.spotify.com/track/3Y8GRC5A9ERptXIi3Fw7Jz"
     },
     {
       "album": {

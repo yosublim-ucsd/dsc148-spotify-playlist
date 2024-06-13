@@ -2,7 +2,7 @@
 
 ### [This Is Ana Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lKeSk)
 
-> This is Ana Gabriel\. The essential tracks, all in one playlist.
+> This Is Ana Gabriel\. Los temas esenciales, todos en una lista.
 
 63 songs - 4 hr 6 min
 

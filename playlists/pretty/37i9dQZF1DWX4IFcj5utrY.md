@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp?si=ktsc9KKtS\_OwNWoCAdBWRA">MÖRDA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,660 likes - 51 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,672 likes - 51 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [F33L1NG GÖOD](https://open.spotify.com/track/4BqQz2hmIC9sxHC1I9iDYk) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv) | [CR4ZY!!..](https://open.spotify.com/album/2PpDtJy9LWxdeP9s3jiAAP) | 5:33 |
 | 2 | [Jewels](https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Jewels](https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5) | 7:20 |
-| 3 | [Iza Ngamandla](https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sykes](https://open.spotify.com/artist/0tksdg0RgrQNB31VfF8m1T), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Iza Ngamandla](https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg) | 5:59 |
+| 3 | [Iza Ngamandla](https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [Iza Ngamandla](https://open.spotify.com/album/2TzvFbbMy27d9sKGx2TXQg) | 5:59 |
 | 4 | [Digane](https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Digane](https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v) | 2:42 |
 | 5 | [Ukuphila](https://open.spotify.com/track/0ChwRPTttJg4CIrYPwyk4J) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz), [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX) | [Ukuphila](https://open.spotify.com/album/4zmTPUF2YY0HU9o2aWyRJZ) | 6:43 |
 | 6 | [Takala](https://open.spotify.com/track/05V4AsCrdYDyZ9X3p52NDF) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Afrikan Roots](https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge), [Buckz](https://open.spotify.com/artist/69ZgYPASgseel4idpmIToo), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp) | [Takala](https://open.spotify.com/album/7E6v5YEJ5LaAHDMxSs0h0Q) | 6:32 |

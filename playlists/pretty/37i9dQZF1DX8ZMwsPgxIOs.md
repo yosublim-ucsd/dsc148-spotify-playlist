@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,606 likes - 110 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,642 likes - 110 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 20 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
 | 21 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 |
 | 22 | [Running](https://open.spotify.com/track/23a8sZQihpGchTB8ordsLP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland / Running](https://open.spotify.com/album/1GHtn56z5l7TGf7COQJgOo) | 5:03 |
-| 23 | [Now Or Never](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [IVERSON](https://open.spotify.com/artist/13XZKsVSXSkB5i7uVjNqTi) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 |
+| 23 | [Now Or Never \(feat\. IVERSON\)](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [IVERSON](https://open.spotify.com/artist/13XZKsVSXSkB5i7uVjNqTi) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 |
 | 24 | [Breathe](https://open.spotify.com/track/4gD1qMyIjDyz7Te8nlQEji) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Breathe](https://open.spotify.com/album/4rAjrPNSCIPfyPvPXiBWtG) | 3:43 |
-| 25 | [Boys](https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Boys](https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw) | 2:49 |
+| 25 | [Boys](https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Elouiza](https://open.spotify.com/artist/3gP9ZZWiL9bdSBZLtNqbTv) | [Boys](https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw) | 2:49 |
 | 26 | [Spiritual](https://open.spotify.com/track/68A1vnbgyfjs8v7Qbqm6D9) | [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Spiritual](https://open.spotify.com/album/3iffE7yucOjQQclqnpm8Gv) | 3:20 |
 | 27 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 |
 | 28 | [The Incident](https://open.spotify.com/track/07RiiENqLJMuIKmiDWUUch) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [The Incident](https://open.spotify.com/album/3DXftMckzQPpMJzQ2c2LH3) | 3:37 |

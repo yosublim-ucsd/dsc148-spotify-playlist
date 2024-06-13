@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-913 songs - 2 day 8 hr 13 min
+914 songs - 2 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:44 | 2020-10-20 |  |
 | [Cudi Montage](https://open.spotify.com/track/4kUZvXB3LC3an3HX6h0s17) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 3:17 | 2021-10-22 |  |
 | [Cupid](https://open.spotify.com/track/6yu9LcfTlFwc16D3xtJ8AI) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 2:57 | 2022-01-07 |  |
+| [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2024-06-13 |  |
 | [Cut My Lip](https://open.spotify.com/track/6gFtgkh8ShkrJn52Cbdhxy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:42 | 2021-08-10 |  |
 | [D is for Dangerous](https://open.spotify.com/track/5RrHzXKmwVd5BCq4UzyJPd) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:18 | 2021-08-20 |  |
 | [Daisy](https://open.spotify.com/track/6UFY0vllfysoyTmBE0N4F6) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4qwIXzJGtHzLcPKCm3Rtzy) | 6:20 | 2021-01-12 |  |

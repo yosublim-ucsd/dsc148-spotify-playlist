@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1482047,
+  "num_followers": 1482058,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-06-07 00:36:58",
       "album": {
+        "name": "SMiLE",
+        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "duration_ms": 191361,
+      "name": "SMiLE",
+      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
+    },
+    {
+      "added_at": "2024-06-07 00:36:58",
+      "album": {
         "name": "night sky",
         "url": "https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 106400,
       "name": "night sky",
       "url": "https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4"
-    },
-    {
-      "added_at": "2024-06-07 00:36:58",
-      "album": {
-        "name": "SMiLE",
-        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        }
-      ],
-      "duration_ms": 191361,
-      "name": "SMiLE",
-      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
     },
     {
       "added_at": "2024-06-07 00:36:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-07 00:36:58",
       "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
-    },
-    {
-      "added_at": "2024-06-07 00:36:58",
-      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 130964,
       "name": "Busy Bird",
       "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
+    },
+    {
+      "added_at": "2024-06-07 00:36:58",
+      "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2024-06-07 00:36:58",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-07 00:36:58",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
-      },
-      "artists": [
-        {
-          "name": "helistofax",
-          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
-        }
-      ],
-      "duration_ms": 131350,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
-    },
-    {
-      "added_at": "2024-06-07 00:36:58",
-      "album": {
         "name": "Cloud9",
         "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 110500,
       "name": "Next to Nothing - Instrumental",
       "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
+    },
+    {
+      "added_at": "2024-06-07 00:36:58",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
     },
     {
       "added_at": "2024-06-07 00:36:58",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-06-07 00:36:58",
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
+    },
+    {
+      "added_at": "2024-06-07 00:36:58",
+      "album": {
         "name": "City Strollin'",
         "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
       },
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2024-06-07 00:36:58",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
-      },
-      "artists": [
-        {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
-    },
-    {
-      "added_at": "2024-06-07 00:36:58",
-      "album": {
-        "name": "snow in the park",
-        "url": "https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3"
-      },
-      "artists": [
-        {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "snow in the park",
-      "url": "https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU"
-    },
-    {
-      "added_at": "2024-06-07 00:36:58",
-      "album": {
         "name": "edbl & friends - JPRK",
         "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
       },
@@ -1343,6 +1327,38 @@
     {
       "added_at": "2024-06-07 00:36:58",
       "album": {
+        "name": "snow in the park",
+        "url": "https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "snow in the park",
+      "url": "https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU"
+    },
+    {
+      "added_at": "2024-06-07 00:36:58",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b"
+      },
+      "artists": [
+        {
+          "name": "Peter Kind",
+          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
+        }
+      ],
+      "duration_ms": 124151,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD"
+    },
+    {
+      "added_at": "2024-06-07 00:36:58",
+      "album": {
         "name": "LUSTER",
         "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 277978,
       "name": "LUSTER",
       "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
-    },
-    {
-      "added_at": "2024-06-07 00:36:58",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2024-06-07 00:36:58",
@@ -1391,6 +1391,22 @@
       "duration_ms": 153000,
       "name": "Far Out",
       "url": "https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj"
+    },
+    {
+      "added_at": "2024-06-07 00:36:58",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2024-06-07 00:36:58",
@@ -1427,22 +1443,6 @@
       "duration_ms": 127595,
       "name": "afternoon shower",
       "url": "https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq"
-    },
-    {
-      "added_at": "2024-06-07 00:36:58",
-      "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2024-06-07 00:36:58",

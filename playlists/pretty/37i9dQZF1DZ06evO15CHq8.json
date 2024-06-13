@@ -1,12 +1,12 @@
 {
-  "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 579600,
+  "description": "This Is $uicideboy$. Los temas esenciales, todos en una lista.",
+  "num_followers": 579782,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAACSXBtuZL18PGgveldRHqVB",
+  "snapshot_id": "ZmeTgAAAAAABqU+1edjtSIf6cfsDTOoR",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want to Die In New Orleans",
-        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 137772,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gray/Grey",
         "url": "https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr"
       },
@@ -787,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XV: The Coast of Ashes Saga",
-        "url": "https://open.spotify.com/album/37GOfx56LiCjhWQUg3StiJ"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 82325,
-      "name": "Styrofoam",
-      "url": "https://open.spotify.com/track/5PPwyMqz0vexoXcLijbERR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Term Effects of SUFFERING",
         "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
@@ -815,6 +783,22 @@
       "duration_ms": 169565,
       "name": "5 Grand at 8 to 1",
       "url": "https://open.spotify.com/track/1RSjxBz03F6vEqoHT9jWBa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XV: The Coast of Ashes Saga",
+        "url": "https://open.spotify.com/album/37GOfx56LiCjhWQUg3StiJ"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 82325,
+      "name": "Styrofoam",
+      "url": "https://open.spotify.com/track/5PPwyMqz0vexoXcLijbERR"
     },
     {
       "added_at": null,
@@ -863,6 +847,26 @@
       "duration_ms": 143220,
       "name": "Dead Batteries",
       "url": "https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet Me Where the River Turns Grey",
+        "url": "https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N"
+      },
+      "artists": [
+        {
+          "name": "Ramirez",
+          "url": "https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2"
+        },
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 185725,
+      "name": "Sarcophagus II",
+      "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"
     }
   ],
   "unique_name": "This Is $uicideboy$",

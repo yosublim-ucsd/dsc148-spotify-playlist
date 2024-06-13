@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3889356,
+  "num_followers": 3889395,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Into The Bloom",
         "url": "https://open.spotify.com/album/6mekDyVlyHqCPacthWRtP5"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Cold Enough For Snow",
         "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -895,26 +915,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "I Can Make It",
         "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
       },
@@ -927,26 +927,6 @@
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Brighter (Emmit's Version)",
-        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Brighter - Emmit's Version",
-      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -967,6 +947,26 @@
       "duration_ms": 220383,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Brighter (Emmit's Version)",
+        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Brighter - Emmit's Version",
+      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1039,6 +1039,22 @@
       "duration_ms": 220245,
       "name": "DESCEND",
       "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Loving Blind",
         "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 195250,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Anywhere (Road Trippin')",
         "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 274838,
       "name": "Anywhere (Road Trippin')",
       "url": "https://open.spotify.com/track/4ecUWoInOsa57MZUzmam3h"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 195250,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "The Chase (Edit)",
         "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 193613,
       "name": "Turtle Jazz",
       "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "U REALLY HURT ME",
-        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
-      },
-      "artists": [
-        {
-          "name": "LUV HRTS",
-          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
-        },
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "U REALLY HURT ME",
-      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Beautiful Life (Madism Remix)",
+        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Beautiful Life - Madism Remix",
+      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
       },
@@ -1439,26 +1459,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Beautiful Life (Madism Remix)",
-        "url": "https://open.spotify.com/album/5ccbEPV2dA4TYUvs2yeo81"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Beautiful Life - Madism Remix",
-      "url": "https://open.spotify.com/track/1XNU5jds8sbv4pP7Ex8I4L"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 215000,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 233644,
       "name": "Must Be Dreaming",
       "url": "https://open.spotify.com/track/16ux7RA90OUcVqhgrad44r"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Feel You In Love",
-        "url": "https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN"
-      },
-      "artists": [
-        {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Feel You In Love",
-      "url": "https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Fortified",
         "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 212870,
       "name": "Fortified",
       "url": "https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Feel You In Love",
+        "url": "https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN"
+      },
+      "artists": [
+        {
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Feel You In Love",
+      "url": "https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "iwaly",
-        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "iwaly",
-      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 341409,
       "name": "Burnin'",
       "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "iwaly",
+        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "iwaly",
+      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     }
   ],
   "unique_name": "Chill Tracks",

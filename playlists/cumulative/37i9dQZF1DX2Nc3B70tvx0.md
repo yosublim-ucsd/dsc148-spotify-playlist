@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: AURORA
 
-2,251 songs - 5 day 15 hr 4 min
+2,252 songs - 5 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-04-28 | 2023-08-26 |
 | [Alpha Zulu](https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV) | 2:50 | 2022-06-03 | 2022-06-18 |
 | [Alpharetta](https://open.spotify.com/track/5z9OKsrs5ofqvY70bdAjVQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Alpharetta](https://open.spotify.com/album/3NMJil1EgsWlJChFoAUJfk) | 3:47 | 2024-04-05 | 2024-05-03 |
+| [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-06-12 |  |
 | [Alright, OK](https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [SUNSTRIKES](https://open.spotify.com/album/116qceKwaUUDLL7qh1tJsO) | 3:30 | 2023-12-08 | 2024-03-22 |
 | [Always / Never](https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Always / Never](https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI) | 3:41 | 2023-10-26 | 2024-02-23 |
 | [AMAMA](https://open.spotify.com/track/6rI8nhxfPes1TpaxOKQj0D) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA) | 3:10 | 2024-04-04 | 2024-05-18 |

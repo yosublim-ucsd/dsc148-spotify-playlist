@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,711 likes - 61 songs - 3 hr 17 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,714 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 4 | [Right Now](https://open.spotify.com/track/6Wlc3NSLRiYzOYsGa0oCsF) | [Deaf Jules](https://open.spotify.com/artist/1okAr3huVXKvyVQewO5uBA) | [Right Now](https://open.spotify.com/album/4ZDWpIpQXU6LUf9Sai2M0l) | 3:22 |
 | 5 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
 | 6 | [Heaven \- Million Miles Rework](https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Heaven \(Million Miles Rework\)](https://open.spotify.com/album/2g22w07k3HC8TJGSX33KTu) | 3:13 |
-| 7 | [Not Even Love \- Armin van Buuren Remix](https://open.spotify.com/track/6NhDKaW4gbPCrSUnUSw6nd) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Not Even Love \(Armin van Buuren Remix\)](https://open.spotify.com/album/3oh0TUm6lVhPFKICU55AFK) | 3:17 |
+| 7 | [Not Even Love \- Armin van Buuren Remix](https://open.spotify.com/track/6NhDKaW4gbPCrSUnUSw6nd) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Not Even Love \(Armin van Buuren Remix\)](https://open.spotify.com/album/3oh0TUm6lVhPFKICU55AFK) | 3:17 |
 | 8 | [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 |
 | 9 | [2 The Moon](https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DJ Buddha](https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA) | [2 The Moon](https://open.spotify.com/album/4jl6uAmBT25q5BtSxz2rRZ) | 3:05 |
 | 10 | [Crossed the Line \(All the Things\)](https://open.spotify.com/track/1XDZTgs8MOLTfkCAiGHZts) | [Future Kings](https://open.spotify.com/artist/4oDkont73KiwJOLTDJuSHV), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Crossed the Line \(All the Things\)](https://open.spotify.com/album/0obglgVf7TdYMja8vf6V1m) | 2:42 |

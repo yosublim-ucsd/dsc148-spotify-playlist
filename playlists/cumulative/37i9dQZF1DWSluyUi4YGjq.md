@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Track 1\-25 from DIIV, featuring new album <a href="spotify:album:7xLRw5DsWnAMmNBp8I67UD">Frog in Boiling Water</a>.
+> Includes track selections from DIIV, featuring new album <a href="spotify:album:7xLRw5DsWnAMmNBp8I67UD">Frog in Boiling Water</a>.
 
-651 songs - 1 day 18 hr 21 min
+653 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [I Just Want To See Your Face](https://open.spotify.com/track/7a5EClvwLoJO6nOKBpwqO7) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/4I8nWyG5oG9c9HEgLvhiRR) | 2:18 | 2021-10-19 | 2022-07-25 |
 | [I Think It's Light Outside](https://open.spotify.com/track/0VFtbHmwmD2aZ3MjfOyipM) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [The Moth, The Lizard, And The Secret Machines](https://open.spotify.com/album/21dYzZhlxvBeHShNB26zHu) | 4:31 | 2023-03-24 | 2023-05-23 |
 | [I Thought You'd Change](https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 2:51 | 2023-11-10 |  |
+| [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-12 |  |
 | [idk how to luv](https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [idk how to luv](https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3) | 2:30 | 2023-03-10 | 2023-09-30 |
 | [If Only](https://open.spotify.com/track/4jphqPoGiGPuj1hCPKR5Zq) | [Krall](https://open.spotify.com/artist/6INLUjiXnW7gqoqqggL66N) | [If Only](https://open.spotify.com/album/1wRZjSOsThCvJbIOO0LptI) | 3:23 | 2024-04-05 |  |
 | [im not](https://open.spotify.com/track/1xDS1zCdbKILaRSSCFe1Dq) | [sodistilled](https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW) | [im not](https://open.spotify.com/album/3RBo4g7bbqLAjUaxvGy34O) | 1:45 | 2023-10-13 | 2024-04-06 |
@@ -451,6 +452,7 @@
 | [Peace Sign](https://open.spotify.com/track/5cdQMQwsHI7cJxq8UkDkpa) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Peace Sign](https://open.spotify.com/album/1DQuGlBWg0HDXR6f6i9xdb) | 4:38 | 2024-01-12 | 2024-02-17 |
 | [Perfect](https://open.spotify.com/track/1y8Ib4LBzhmXNCKhy9BZpL) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Perfect](https://open.spotify.com/album/10NT46ZLR5rhgMIGoO5Gg6) | 2:40 | 2021-10-19 | 2022-12-13 |
 | [Perfect Life](https://open.spotify.com/track/3IrAxNUFFTCMOjjAIcUai7) | [Landlords](https://open.spotify.com/artist/7xs6j5uzsajhXZE4A0a5oH) | [Perfect Life](https://open.spotify.com/album/5ha6ZFEWo7f0rFy4ZZ0sgA) | 4:08 | 2022-09-03 | 2022-09-29 |
+| [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/track/1yTIls3wv8W1XscrAR00Iy) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/album/65gzOnTds7R6w4Pvej8Brq) | 3:23 | 2024-06-12 |  |
 | [pg.4 a picture of three hedges](https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 4:09 | 2023-01-12 | 2023-10-21 |
 | [Pharmacist](https://open.spotify.com/track/3r2vyNnqFKr6IraCqLtoBI) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:04 | 2023-02-09 | 2024-02-24 |
 | [Phase Break](https://open.spotify.com/track/1zPQS7xNJUksb1Zg5T6Nys) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [Phase Break](https://open.spotify.com/album/319vs4o181L9ZGttVOg4Fq) | 7:55 | 2021-10-19 | 2022-07-29 |

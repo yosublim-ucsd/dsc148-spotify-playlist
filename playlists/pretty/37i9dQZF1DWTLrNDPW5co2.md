@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Catz 'n Dogz celebrate pride month with their guest curation takeover of Club Resistance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,075 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,063 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 30 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 |
 | 31 | [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 |
 | 32 | [Party Girl](https://open.spotify.com/track/6GWc48keF18hgbfWimJhRA) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Party Girl](https://open.spotify.com/album/15gqZCOktgECtbzEM8ObBc) | 2:13 |
-| 33 | [Boys](https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Boys](https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw) | 2:49 |
+| 33 | [Boys](https://open.spotify.com/track/1q54xhDcpvM8NJeWZO6ka0) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Elouiza](https://open.spotify.com/artist/3gP9ZZWiL9bdSBZLtNqbTv) | [Boys](https://open.spotify.com/album/4oMGw9ndhBtx5Wi5t211cw) | 2:49 |
 | 34 | [ID ID ID](https://open.spotify.com/track/4ryHYwy7CflZcdSz8txTff) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [ID ID ID](https://open.spotify.com/album/20cI5JLFkfqRkFLzk6iuI0) | 3:06 |
 | 35 | [SAVE ME](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 |
 | 36 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |

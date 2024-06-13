@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 320555,
+  "num_followers": 320669,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Orient Spirit",
-        "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        },
-        {
-          "name": "Doan",
-          "url": "https://open.spotify.com/artist/0gENmAfzCZPPRrL6zoIPZC"
-        }
-      ],
-      "duration_ms": 147976,
-      "name": "Orient Spirit",
-      "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Dubai (Hussein Arbabi Remix)",
         "url": "https://open.spotify.com/album/6HHFMRIzXD7lCl6XvuknSl"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 333618,
       "name": "Dubai (Hussein Arbabi Remix)",
       "url": "https://open.spotify.com/track/1VNAGi3gYuZIFA3t9nbC9G"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Orient Spirit",
+        "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        },
+        {
+          "name": "Doan",
+          "url": "https://open.spotify.com/artist/0gENmAfzCZPPRrL6zoIPZC"
+        }
+      ],
+      "duration_ms": 147976,
+      "name": "Orient Spirit",
+      "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
+        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "K\u0259nan Bayraml\u0131",
+          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
         "name": "Escuro",
         "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
-        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "K\u0259nan Bayraml\u0131",
-          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Ahwak (Deeper Remix)",
         "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 300582,
       "name": "Ahwak (Deeper Remix)",
       "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1015,30 +1015,18 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Tawada",
-        "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
       },
       "artists": [
         {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "OSENS",
-          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
-        },
-        {
-          "name": "Anas Chlih",
-          "url": "https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV"
-        },
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
         }
       ],
-      "duration_ms": 435121,
-      "name": "Tawada - Saint Evo Remix",
-      "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1063,22 +1051,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "CEWRESAMIN",
         "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
       },
@@ -1095,6 +1067,34 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Tawada",
+        "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "OSENS",
+          "url": "https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D"
+        },
+        {
+          "name": "Anas Chlih",
+          "url": "https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV"
+        },
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 435121,
+      "name": "Tawada - Saint Evo Remix",
+      "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Viraha",
-        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
       "artists": [
         {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
         }
       ],
-      "duration_ms": 171534,
-      "name": "Viraha",
-      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
+        "name": "Viraha",
+        "url": "https://open.spotify.com/album/1FWAZzzfsj8Xpyt7NY5URT"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 171534,
+      "name": "Viraha",
+      "url": "https://open.spotify.com/track/6ecbcjg67nbaXzPU4dvac7"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
         "name": "Younan",
         "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 418413,
       "name": "Younan",
       "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Watra",
+        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        }
+      ],
+      "duration_ms": 141754,
+      "name": "Watra",
+      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "Watra",
-        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "Watra",
-      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Anatolian Vibe",
         "url": "https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "El Hob",
-        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
-      },
-      "artists": [
-        {
-          "name": "Pharonic Electronic",
-          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "El Hob",
-      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "Anatolieni",
         "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
       },
@@ -1463,22 +1447,6 @@
       "duration_ms": 126545,
       "name": "Anatolieni",
       "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
-        "name": "Hayati",
-        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1523,6 +1491,38 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "Hayati",
+        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "El Hob",
+        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
+      },
+      "artists": [
+        {
+          "name": "Pharonic Electronic",
+          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "El Hob",
+      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
     },
     {
       "added_at": "2024-06-07 01:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-06-07 01:00:00",
       "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 161577,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
-    },
-    {
-      "added_at": "2024-06-07 01:00:00",
-      "album": {
         "name": "White Desert",
         "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 400696,
       "name": "White Desert",
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2024-06-07 01:00:00",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/0eFzQD38n2GQyjlJ77YSxt"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 161577,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/7uaxj9HeCBClIywN7I1N9J"
     },
     {
       "added_at": "2024-06-07 01:00:00",

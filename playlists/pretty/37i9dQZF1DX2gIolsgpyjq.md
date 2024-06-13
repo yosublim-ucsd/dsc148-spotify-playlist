@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: HILLARI
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,421 likes - 102 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,451 likes - 102 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 15 | [Don't Wanna Be Saved](https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Don't Wanna Be Saved](https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts) | 3:00 |
 | 16 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 |
 | 17 | [Unwind](https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Unwind](https://open.spotify.com/album/11tbIyhBWtfHn60JGKfEMb) | 2:18 |
-| 18 | [Backseat](https://open.spotify.com/track/4E6artJUn8gKTfADjFnw6M) | [Lavender Blu](https://open.spotify.com/artist/17rff4zy8LQnzOdVu9g2Wu), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [Backseat](https://open.spotify.com/album/1odkTyOYXr9TLJBtqijXEe) | 2:48 |
+| 18 | [Backseat](https://open.spotify.com/track/4E6artJUn8gKTfADjFnw6M) | [Lavender Blu](https://open.spotify.com/artist/19sfPqgN1yp0YbZpzN6BEr), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [Backseat](https://open.spotify.com/album/1odkTyOYXr9TLJBtqijXEe) | 2:48 |
 | 19 | [Bones](https://open.spotify.com/track/59SMaCpcPjGuH1chhnK915) | [Cora Onori](https://open.spotify.com/artist/0HEdWXvCUHxJByBdjwkARm) | [Bones](https://open.spotify.com/album/0Xv3jbuYhAG7uszqyAZ0dQ) | 2:39 |
 | 20 | [DWWW](https://open.spotify.com/track/2i46kfGfsOsYFxTKxhon3C) | [LOLA](https://open.spotify.com/artist/1ih95D8NZ8aC4Ue5vs7H8N) | [DWWW](https://open.spotify.com/album/5YsX7eC2q05jrydjMoQrQJ) | 2:46 |
 | 21 | [For the Light](https://open.spotify.com/track/4857iYh3EAlCUuGKRB11YY) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [For the Light](https://open.spotify.com/album/0KtWy6RDfG1rC0P2VrtA7d) | 3:18 |

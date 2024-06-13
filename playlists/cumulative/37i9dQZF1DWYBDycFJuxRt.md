@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/329287?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Mrs\. GREEN APPLE \*👉 <a href="https://spice.eplus.jp/articles/329516?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-6,571 songs - 16 day 18 hr 24 min
+6,572 songs - 16 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3978,6 +3978,7 @@
 | [Tsumasakitobigaku](https://open.spotify.com/track/4M20jWZfN4TtTN0l5syJLK) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Tsumasakitobigaku](https://open.spotify.com/album/74MVMZJWsmCTPLidrvgi6Y) | 3:45 | 2023-03-08 | 2023-03-15 |
 | [Tsumugu](https://open.spotify.com/track/6uqDqDf5OVAyVj6lxwWrAx) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Tsumugu](https://open.spotify.com/album/3WJSzExzoaymFUgJNy1ABs) | 3:51 | 2023-02-01 | 2023-02-08 |
 | [Tsunagari SUNSET](https://open.spotify.com/track/0T6XPgGcNJ6WwTnX7k70t9) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:51 | 2023-02-22 | 2023-03-01 |
+| [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 | 2024-06-12 |  |
 | [Tuesday Butterfly \- feat\. Misi Ke](https://open.spotify.com/track/0ezYoov46hgipHPUtk7Pm5) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Tuesday Butterfly \(feat\. Misi Ke\)](https://open.spotify.com/album/3EmYHtnxH9f46MdkoRcSvQ) | 3:09 | 2023-08-30 | 2023-09-06 |
 | [TuNGSTeN](https://open.spotify.com/track/0CWd0JTtjoDFHOfHb8pdUW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [TuNGSTeN](https://open.spotify.com/album/55erO9AeugXcNt7PIzcAsf) | 2:52 | 2024-06-04 | 2024-06-12 |
 | [Turn it up](https://open.spotify.com/track/1TcNKaEH1Z1j08ldwTp3m4) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [You are / Hook Up \(Special Edition\)](https://open.spotify.com/album/18MllXGPtXTwaamVN38aVz) | 3:14 | 2023-12-05 | 2023-12-13 |

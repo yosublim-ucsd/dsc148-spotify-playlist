@@ -4,7 +4,7 @@
 
 > layan je
 
-162 songs - 10 hr 34 min
+163 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-02-22 |  |
 | [Masih Ku Sayang](https://open.spotify.com/track/5G9afAQLqId5heLtc3Ra6I) | [Hoondoo](https://open.spotify.com/artist/3FRJ1DX6ZUdVquwKsjs0D6) | [Masih Ku Sayang](https://open.spotify.com/album/7poIkWOHtsKXf2uXimQmXO) | 3:20 | 2024-05-16 | 2024-05-24 |
 | [Masihkah Ada Rasa Itu? \- From "Wanita Syurga"](https://open.spotify.com/track/4c4Rs17mDezGSFJI3u7CcW) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Masihkah Ada Rasa Itu? \(From "Wanita Syurga"\)](https://open.spotify.com/album/3u4ZDExYXwapRXRWwzbJ0G) | 3:22 | 2024-02-29 | 2024-03-08 |
-| [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2024-05-23 |  |
+| [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2024-05-23 | 2024-06-13 |
 | [Masing Masing \- Versi Tradisional](https://open.spotify.com/track/3I9hSGcDdf7F2epUAcCu4C) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Masing Masing \(Versi Tradisional\)](https://open.spotify.com/album/5Tk0ZamZCMizy4Rr9Q11Gz) | 3:44 | 2024-05-23 | 2024-06-07 |
 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-04-05 |  |
 | [Melawan Restu](https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:40 | 2024-01-25 | 2024-04-19 |
@@ -141,6 +141,7 @@
 | [Semua Tentangmu](https://open.spotify.com/track/2kPh5QVmCY7xRNzDHsjT7p) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Semua Tentangmu](https://open.spotify.com/album/1IJQWftO0CbeNdyNJvdnCh) | 3:33 | 2024-04-18 | 2024-05-11 |
 | [Sendiri](https://open.spotify.com/track/5gecy5VJBKgLMwj8q3OoR9) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Sendiri](https://open.spotify.com/album/6qa8phimspRLQ5Zh5gJPgQ) | 3:12 | 2024-02-29 | 2024-03-08 |
 | [Separuh Aku](https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL) | 4:26 | 2024-01-18 |  |
+| [Separuh Jiwaku Mati](https://open.spotify.com/track/2Z5tMzBcdNUqgN38gIFIpg) | [Arul Rasheed](https://open.spotify.com/artist/2E4BVLpBfP9VdMBQs5c8Q1) | [Separuh Jiwaku Mati](https://open.spotify.com/album/6OVExTJqLL6yRqTKvd3VAW) | 3:44 | 2024-06-12 |  |
 | [Sesal Separuh Nyawa](https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y) | [Alyah](https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ) | [Sesal Separuh Nyawa](https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3) | 4:19 | 2024-01-18 | 2024-01-26 |
 | [Si Perkasa](https://open.spotify.com/track/0v3PrKg1XQDz5El2dJMpR0) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Si Perkasa](https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI) | 3:38 | 2024-01-18 | 2024-01-26 |
 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2024-01-18 | 2024-04-19 |

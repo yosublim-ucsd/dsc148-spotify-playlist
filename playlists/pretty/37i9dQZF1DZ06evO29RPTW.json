@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 119480,
+  "num_followers": 119508,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAAAyNzbKWT6JiHrRkTxIdmY9",
+  "snapshot_id": "ZmeTgAAAAACogH4sEn3VGajQrML1p6Ta",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Dragula",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+      "duration_ms": 201400,
+      "name": "Living Dead Girl",
+      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
     },
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Living Dead Girl",
-      "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+      "duration_ms": 220266,
+      "name": "Superbeast",
+      "url": "https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv"
     },
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Superbeast",
-      "url": "https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv"
+      "duration_ms": 182666,
+      "name": "Two-Lane Blacktop",
+      "url": "https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
       "duration_ms": 175266,
       "name": "Scum Of The Earth",
       "url": "https://open.spotify.com/track/2qrxKk3y85UpaNcI07LPn9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Two-Lane Blacktop",
-      "url": "https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF"
     },
     {
       "added_at": null,
@@ -223,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Shake Your Ass-Smoke Your Grass",
+      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe 2 (Special Edition)",
-        "url": "https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
@@ -252,25 +252,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 167813,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Shake Your Ass-Smoke Your Grass",
-      "url": "https://open.spotify.com/track/5yTlL7L9jaUM3vmNLoLSOc"
+      "duration_ms": 286773,
+      "name": "Pussy Liquor",
+      "url": "https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc"
     },
     {
       "added_at": null,
@@ -287,22 +271,6 @@
       "duration_ms": 193400,
       "name": "Meet The Creeper",
       "url": "https://open.spotify.com/track/64J18bwOzZAUmuFxn5l6Ss"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 286773,
-      "name": "Pussy Liquor",
-      "url": "https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc"
     },
     {
       "added_at": null,
@@ -339,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hellbilly Deluxe",
-        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Spookshow Baby",
-      "url": "https://open.spotify.com/track/1NJbYkBhZhcsAVvabqgo08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -367,6 +319,22 @@
       "duration_ms": 135813,
       "name": "In The Age Of The Consecrated Vampire We All Get High",
       "url": "https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Spookshow Baby",
+      "url": "https://open.spotify.com/track/1NJbYkBhZhcsAVvabqgo08"
     },
     {
       "added_at": null,
@@ -403,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Ging Gang Gong De Do Gong De Laga Raga",
-      "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sinister Urge",
         "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
@@ -431,6 +383,22 @@
       "duration_ms": 148133,
       "name": "Dead Girl Superstar",
       "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Ging Gang Gong De Do Gong De Laga Raga",
+      "url": "https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4"
     },
     {
       "added_at": null,
@@ -451,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Foxy, Foxy",
-      "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn MF (feat. Rob Zombie)",
         "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
       },
@@ -483,6 +435,22 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat Rob Zombie)",
       "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Foxy, Foxy",
+      "url": "https://open.spotify.com/track/61u3kwCoVSdYc8DH7JQZlN"
     },
     {
       "added_at": null,
@@ -535,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "The Devil's Rejects",
+      "url": "https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -559,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+        "name": "Hellbilly Deluxe",
+        "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
       "artists": [
         {
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 234240,
-      "name": "The Devil's Rejects",
-      "url": "https://open.spotify.com/track/4MnDhacMb3iXUlPth1MTc1"
+      "duration_ms": 30400,
+      "name": "Call Of The Zombie",
+      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
     },
     {
       "added_at": null,
@@ -843,6 +827,26 @@
       "duration_ms": 156800,
       "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
       "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Hands Of Death (Burn Baby Burn)",
+      "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
     }
   ],
   "unique_name": "This Is Rob Zombie",

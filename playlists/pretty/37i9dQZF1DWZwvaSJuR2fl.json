@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 68638,
+  "num_followers": 68661,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
+        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Pavel Haas Quartet",
+          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
+        }
+      ],
+      "duration_ms": 617453,
+      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: II. Adagio ma non troppo",
+      "url": "https://open.spotify.com/track/70uyPB6r3gdQSK4cyWivcy"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Bruch & Dvorak Violin Concertos",
         "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 611453,
       "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
       "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
-        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Pavel Haas Quartet",
-          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
-        }
-      ],
-      "duration_ms": 617453,
-      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: II. Adagio ma non troppo",
-      "url": "https://open.spotify.com/track/70uyPB6r3gdQSK4cyWivcy"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -991,30 +991,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
-        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
-        }
-      ],
-      "duration_ms": 381786,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B.41: 3. Scherzo (Allegro feroce)",
-      "url": "https://open.spotify.com/track/74iJOgBl4hfjC1eUnKNGCU"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvor\u00e1k: Symphony No.3 In E Flat, Op.10, B. 34 & Symphony No.7 In D Minor, Op.70, B. 141",
         "url": "https://open.spotify.com/album/4mtwY6uixI0z46Ots4D2cA"
       },
@@ -1035,6 +1011,30 @@
       "duration_ms": 626999,
       "name": "Symphony No. 3 In E Flat, Op. 10, B. 34: 1. Allegro moderato",
       "url": "https://open.spotify.com/track/5gkeiHx2YHUq4tmWKJ3Qmq"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
+        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "duration_ms": 381786,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B.41: 3. Scherzo (Allegro feroce)",
+      "url": "https://open.spotify.com/track/74iJOgBl4hfjC1eUnKNGCU"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvo\u0159\u00e1k: The Essentials",
+        "url": "https://open.spotify.com/album/2jIX6jVyD1hJJlRWkub59N"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Hagen Quartett",
+          "url": "https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB"
+        }
+      ],
+      "duration_ms": 175758,
+      "name": "Cypresses B.152: 2. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/3LcrcSuE6csPXWNVLADIhC"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
         "url": "https://open.spotify.com/album/0nfpohWSOl0iTyiRX6X7LZ"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 375240,
       "name": "Rondo in G Minor, Op. 94, B. 181: Rondo in G Minor for Cello and Orchestra, B. 181 (Op. 94)",
       "url": "https://open.spotify.com/track/02g2Z6QhQrlRbr5Rli4axc"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: The Essentials",
-        "url": "https://open.spotify.com/album/2jIX6jVyD1hJJlRWkub59N"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Hagen Quartett",
-          "url": "https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB"
-        }
-      ],
-      "duration_ms": 175758,
-      "name": "Cypresses B.152: 2. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/3LcrcSuE6csPXWNVLADIhC"
     },
     {
       "added_at": "2022-09-30 04:01:00",

@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-309 songs - 17 hr 28 min
+310 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Skate](https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Future Shine](https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX) | 2:53 | 2022-10-07 | 2022-11-13 |
 | [Skate](https://open.spotify.com/track/3CU1EgZ6iZyEioUJd85Rjb) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Skate / Big Shot / Play Along](https://open.spotify.com/album/5K9pA1ilpoUuGCkLdy6D6n) | 2:53 | 2022-04-26 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Skin](https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB) | 3:34 | 2024-04-12 | 2024-05-13 |
+| [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-06-07 |  |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-04-12 |  |
 | [Sober Up](https://open.spotify.com/track/2QCndYqRherBtKjBpyySC6) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/6hpiZXzsZxlkTXY8zavu3N) | 3:38 | 2021-03-24 | 2022-07-17 |
 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 | 2022-06-24 | 2023-11-04 |
@@ -256,7 +257,7 @@
 | [Solamente](https://open.spotify.com/track/4BMBpU3AbNPjsHk41S0uSl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:14 | 2021-10-27 | 2024-06-11 |
 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 | 2021-03-24 |  |
 | [Something Here](https://open.spotify.com/track/7hVJdledWUXvvHlw8SzXxM) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Something Here](https://open.spotify.com/album/1LOtxwfLkAvDmrl0YXISKw) | 4:05 | 2021-03-24 | 2022-07-29 |
-| [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-06-10 |  |
+| [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-06-10 | 2024-06-13 |
 | [Sour Patch](https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Sour Patch](https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO) | 3:21 | 2024-06-07 | 2024-06-11 |
 | [Stolen Dance](https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 5:13 | 2021-03-24 | 2023-03-15 |
 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 | 2021-03-24 |  |

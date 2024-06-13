@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Traileros Del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 24952,
+  "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
+  "num_followers": 24956,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAABgO769Lht/82df3LCcXLRs",
+  "snapshot_id": "ZmeTgAAAAAAEy1SiGObmLdm9XYm/KcpO",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
       "duration_ms": 164000,
       "name": "Rosas Blancas",
       "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt"
     },
     {
       "added_at": null,
@@ -187,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 156066,
-      "name": "La Burra Tuerta",
-      "url": "https://open.spotify.com/track/4kcODJ1E30HoJA6zhwvNqC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 194613,
       "name": "Anoche Estuve Llorando",
       "url": "https://open.spotify.com/track/2HG6dbqVUBQQEe9JtyTns1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 156066,
+      "name": "La Burra Tuerta",
+      "url": "https://open.spotify.com/track/4kcODJ1E30HoJA6zhwvNqC"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 185080,
-      "name": "Destap\u00e9 Otra Botella",
-      "url": "https://open.spotify.com/track/1kchtVnM8zZJXGgugsHhuL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 169920,
       "name": "Palabras Tristes",
       "url": "https://open.spotify.com/track/0mrX7N28wFzFpkkeCGLCix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 185080,
+      "name": "Destap\u00e9 Otra Botella",
+      "url": "https://open.spotify.com/track/1kchtVnM8zZJXGgugsHhuL"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "Hotel De Paso",
-      "url": "https://open.spotify.com/track/5nFMsTQAVRBUIiqLstuO2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apartamento Tres",
         "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 192773,
       "name": "Tres Veces Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/4VPiiwdjs8gWAQLVjn0NoZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "Hotel De Paso",
+      "url": "https://open.spotify.com/track/5nFMsTQAVRBUIiqLstuO2t"
     },
     {
       "added_at": null,
@@ -627,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las M\u00e1s Pedidas, Vol. 2",
+        "url": "https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 167312,
+      "name": "El Medallon",
+      "url": "https://open.spotify.com/track/2Zn1kNDGRoW8lvPLw8ACr4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosas Blancas",
         "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
       },
@@ -655,22 +687,6 @@
       "duration_ms": 185760,
       "name": "Corazon Viejo",
       "url": "https://open.spotify.com/track/4Fhyw5yQh0AFOLz8JTGZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las M\u00e1s Pedidas, Vol. 2",
-        "url": "https://open.spotify.com/album/4FYk7meQNVhlLc9XyU44xP"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "El Medallon",
-      "url": "https://open.spotify.com/track/2Zn1kNDGRoW8lvPLw8ACr4"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "Ultimo Amor, Ultimo Due\u00f1o",
-      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Brutal",
         "url": "https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 188120,
       "name": "No Te Paniquees",
       "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 176533,
+      "name": "Ultimo Amor, Ultimo Due\u00f1o",
+      "url": "https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 166373,
       "name": "Una Noche No",
       "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "El Caim\u00e1n",
-      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

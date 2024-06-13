@@ -1474,6 +1474,28 @@
     {
       "album": {
         "name": "No Dope On Sundays",
+        "url": "https://open.spotify.com/album/5sU40ix3D2JI8ERh4L0nIF"
+      },
+      "artists": [
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258545,
+      "name": "Movin' Around",
+      "url": "https://open.spotify.com/track/57Oj1BIV9A36qCEdKHAxiA"
+    },
+    {
+      "album": {
+        "name": "No Dope On Sundays",
         "url": "https://open.spotify.com/album/79yQxmlPsMM41NH3AiVSNK"
       },
       "artists": [
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 258546,
       "name": "Movin' Around (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2YzvqgbG4VZpmoGZpBTQOF"

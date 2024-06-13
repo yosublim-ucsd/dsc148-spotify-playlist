@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 
 > Celebrate all of the best Spotify Kids' hits in 2023 with your family!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,104 likes - 35 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,106 likes - 35 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

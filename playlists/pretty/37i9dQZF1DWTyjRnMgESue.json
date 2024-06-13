@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Forest Blakk",
-  "num_followers": 77873,
+  "num_followers": 77895,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "God Needs The Devil",
         "url": "https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 192133,
       "name": "God Needs The Devil",
       "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Wishes",
-        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 249138,
-      "name": "Wishes",
-      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Nightvisions",
         "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 236320,
       "name": "Nightvisions",
       "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 249138,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Questions, Chaos & Faith",
-        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 237915,
-      "name": "Questions, Chaos & Faith",
-      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "All For Something",
         "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 241152,
       "name": "Malleable",
       "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Questions, Chaos & Faith",
+        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 237915,
+      "name": "Questions, Chaos & Faith",
+      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Hovvdy",
-        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Name of God",
         "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 208837,
       "name": "Name of God",
       "url": "https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Mantras",
-        "url": "https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 232263,
-      "name": "Self Sabotage",
-      "url": "https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Evolution (Deluxe)",
         "url": "https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 262008,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Mantras",
+        "url": "https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 232263,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw"
     },
     {
       "added_at": "2024-05-31 04:00:00",

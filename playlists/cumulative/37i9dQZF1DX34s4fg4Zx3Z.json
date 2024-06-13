@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: b\u00e9 52hz",
+  "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Minh Huy",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -15787,6 +15787,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3 M\u01b0a",
+        "url": "https://open.spotify.com/album/0thVccaCYQOpAqnYI5Nfu0"
+      },
+      "artists": [
+        {
+          "name": "O.lew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130724,
+      "name": "L\u00e1ch ta l\u00e1ch t\u00e1ch",
+      "url": "https://open.spotify.com/track/2eBfOgP3sXtXfPxscmxhwM"
+    },
+    {
+      "album": {
         "name": "L\u00e1i Xe M\u1ed9t M\u00ecnh (Joy)",
         "url": "https://open.spotify.com/album/5L3QslaUYOrzI1XRDIHUFT"
       },
@@ -19444,7 +19462,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 192000,
       "name": "ng\u01b0\u1eddi xink ng\u01b0\u1eddi ng\u1ed1",
       "url": "https://open.spotify.com/track/4yn0gi4wz9qr9eAcE6Yd9C"
@@ -23868,7 +23886,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 210665,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/0CpDf9mXIupaGtXDgEXFiq"
@@ -27584,6 +27602,24 @@
       "duration_ms": 195687,
       "name": "Tr\u1ea7n Duy H\u01b0ng",
       "url": "https://open.spotify.com/track/2hx8GCVYSLBGPjq4ZLWMF1"
+    },
+    {
+      "album": {
+        "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4"
+      },
+      "artists": [
+        {
+          "name": "Minh Huy",
+          "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM"
     },
     {
       "album": {

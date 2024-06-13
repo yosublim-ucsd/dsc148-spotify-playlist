@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:7y2o4IQi5QnL6PbsOYuNp5">Jeffrey Eli</a>, <a href="spotify:playlist:37i9dQZF1EFHZvY2t6fRcn">Trey Campbell</a>, Benchwarmer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,556 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,607 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 5 | [Lost Languages](https://open.spotify.com/track/3g8C9YeufEQ0D8AkvhRvpr) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Lost Languages](https://open.spotify.com/album/1Q9qm48WlQPxELKru96el8) | 2:54 |
 | 6 | [Give A Damn](https://open.spotify.com/track/1uKagSnjV0EeXkg3QasysC) | [Wyatt McCubbin](https://open.spotify.com/artist/4HxnSRFjP0vKzW7z21kuPf) | [Give A Damn](https://open.spotify.com/album/6VXljITZMzLoGVryKXWfem) | 2:47 |
 | 7 | [Girl Math](https://open.spotify.com/track/5uV2UOCv3w9YYNVXI76skW) | [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Y2K](https://open.spotify.com/album/3OSgIs4hIsKpTXFYjbiVcc) | 2:38 |
-| 8 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 |
+| 8 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 |
 | 9 | [Parents](https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Parents](https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0) | 2:06 |
 | 10 | [Kiki \- Rett's Take](https://open.spotify.com/track/4gJHkVyprZ7D54RaeG3FDw) | [Rett Madison](https://open.spotify.com/artist/2uvAzG565dP2oXartAqh1F) | [Kiki \(Rett's Take\)](https://open.spotify.com/album/3yuHJ916UoUEW1drSrck8F) | 3:02 |
 | 11 | [Linger](https://open.spotify.com/track/3RFCh5fzSwd30ko4Ohw4rr) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [Linger](https://open.spotify.com/album/6c1poNZVs5KYcai5aN6oK2) | 2:43 |

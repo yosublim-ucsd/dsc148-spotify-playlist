@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6512,
+  "num_followers": 6510,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
         "name": "wish you all to be happy",
         "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "System Error",
-        "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 202400,
-      "name": "System Error",
-      "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -615,6 +599,22 @@
       "duration_ms": 199149,
       "name": "Color It",
       "url": "https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
+        "name": "System Error",
+        "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "System Error",
+      "url": "https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
+        "name": "Take it To the Grave",
+        "url": "https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Take it To the Grave",
+      "url": "https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
         "name": "flowerain",
         "url": "https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 166706,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/04NgqZ5Wq2BDq4iMJlUyC5"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
-        "name": "Take it To the Grave",
-        "url": "https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A"
-      },
-      "artists": [
-        {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Take it To the Grave",
-      "url": "https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Be with me",
+      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
         "name": "Seoul Check-in OST Part 10",
         "url": "https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 201266,
       "name": "FREE SMILE",
       "url": "https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
-      },
-      "artists": [
-        {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Be with me",
-      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
         "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
         "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 245400,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
     },
     {
       "added_at": "2024-05-27 12:55:24",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-27 12:55:24",
       "album": {
-        "name": "Farmers (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
-      },
-      "artists": [
-        {
-          "name": "Lee Aram",
-          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Strawberry Smoothie",
-      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
-    },
-    {
-      "added_at": "2024-05-27 12:55:24",
-      "album": {
         "name": "Shining Love Song",
         "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 191706,
       "name": "Shining Love Song",
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+    },
+    {
+      "added_at": "2024-05-27 12:55:24",
+      "album": {
+        "name": "Farmers (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Strawberry Smoothie",
+      "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
     },
     {
       "added_at": "2024-05-27 12:55:24",

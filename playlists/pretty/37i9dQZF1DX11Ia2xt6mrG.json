@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
-  "num_followers": 57572,
+  "num_followers": 57583,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,22 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
-        "name": "Chula",
-        "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
       "artists": [
         {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
         },
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
         }
       ],
-      "duration_ms": 162727,
-      "name": "Chula",
-      "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2024-06-07 19:04:52",
@@ -731,22 +731,22 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
       },
       "artists": [
         {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         },
         {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         }
       ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+      "duration_ms": 162727,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
     },
     {
       "added_at": "2024-06-07 19:04:52",
@@ -1131,6 +1131,42 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
+        "name": "Pump up the Volume",
+        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juarez",
+          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Pump up the Volume",
+      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
+    },
+    {
+      "added_at": "2024-06-07 19:04:52",
+      "album": {
+        "name": "Mr.Pig",
+        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
+    },
+    {
+      "added_at": "2024-06-07 19:04:52",
+      "album": {
         "name": "Storm",
         "url": "https://open.spotify.com/album/7LfAtfT3rsZSSV28Us4KRz"
       },
@@ -1155,42 +1191,6 @@
       "duration_ms": 193955,
       "name": "Storm",
       "url": "https://open.spotify.com/track/4AkIdFbQ03lYvkj5MD61vH"
-    },
-    {
-      "added_at": "2024-06-07 19:04:52",
-      "album": {
-        "name": "Mr.Pig",
-        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Asereje",
-      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
-    },
-    {
-      "added_at": "2024-06-07 19:04:52",
-      "album": {
-        "name": "Pump up the Volume",
-        "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Juarez",
-          "url": "https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "Pump up the Volume",
-      "url": "https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd"
     },
     {
       "added_at": "2024-06-07 19:04:52",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j"
+      },
+      "artists": [
+        {
+          "name": "Kertox",
+          "url": "https://open.spotify.com/artist/1jvwq1Nj0eSEeHMqRnwEDS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/48HANicqTEwFPCRA3tPpNz"
+    },
+    {
+      "added_at": "2024-06-07 19:04:52",
+      "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
-    },
-    {
-      "added_at": "2024-06-07 19:04:52",
-      "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j"
-      },
-      "artists": [
-        {
-          "name": "Kertox",
-          "url": "https://open.spotify.com/artist/1jvwq1Nj0eSEeHMqRnwEDS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/48HANicqTEwFPCRA3tPpNz"
     },
     {
       "added_at": "2024-06-07 19:04:52",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-06-07 19:04:52",
       "album": {
+        "name": "This Generation",
+        "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
+      },
+      "artists": [
+        {
+          "name": "Tadeo Fernandez",
+          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "This Generation",
+      "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
+    },
+    {
+      "added_at": "2024-06-07 19:04:52",
+      "album": {
         "name": "CLAR%SCURO (Remixes)",
         "url": "https://open.spotify.com/album/1TpfXHCeJIkK4zGI2VOXzQ"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 285663,
       "name": "Du\u00e9rmete Clavel - Mzclbr Remix",
       "url": "https://open.spotify.com/track/2BeiDGmAUqpF18Y5ufTAxw"
-    },
-    {
-      "added_at": "2024-06-07 19:04:52",
-      "album": {
-        "name": "This Generation",
-        "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
-      },
-      "artists": [
-        {
-          "name": "Tadeo Fernandez",
-          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "This Generation",
-      "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
     },
     {
       "added_at": "2024-06-07 19:04:52",

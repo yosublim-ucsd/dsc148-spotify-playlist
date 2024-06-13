@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
+    },
+    {
+      "album": {
         "name": "#doyalike",
         "url": "https://open.spotify.com/album/2FaqtBPWVG6owEHbV16oDN"
       },
@@ -5703,24 +5721,6 @@
     },
     {
       "album": {
-        "name": "did i tell u that i miss u",
-        "url": "https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        }
-      ],
-      "date_added": "2024-06-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 115921,
-      "name": "did i tell u that i miss u",
-      "url": "https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4"
-    },
-    {
-      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -5870,6 +5870,24 @@
       "duration_ms": 151614,
       "name": "Dip Dip",
       "url": "https://open.spotify.com/track/3xAXYCtd98G5G0SSJAHtqd"
+    },
+    {
+      "album": {
+        "name": "Songs From The Internet",
+        "url": "https://open.spotify.com/album/3yS1TP5VBuoPSLnZzUJdyr"
+      },
+      "artists": [
+        {
+          "name": "Carter Vail",
+          "url": "https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35666,
+      "name": "Dirt Man",
+      "url": "https://open.spotify.com/track/5mzccd61n7rBooZ7QFxfGL"
     },
     {
       "album": {
@@ -11118,6 +11136,24 @@
       "duration_ms": 127780,
       "name": "i'm yours sped up",
       "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "album": {
+        "name": "icantbelieveiletyougetaway",
+        "url": "https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135880,
+      "name": "icantbelieveiletyougetaway",
+      "url": "https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM"
     },
     {
       "album": {
@@ -16538,7 +16574,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 169853,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy"
@@ -25342,7 +25378,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 165853,
       "name": "What They Want",
       "url": "https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv"

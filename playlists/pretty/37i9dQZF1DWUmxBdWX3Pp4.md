@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Dei V.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,521 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,709 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 10 | [DEMONIOS \(with NTG\)](https://open.spotify.com/track/09ZgL6vtzQR9Cpfni7QatK) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [FINALMENTE LIBRE](https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49) | 3:15 |
 | 11 | [Intro: THE GOAT](https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:04 |
 | 12 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 |
-| 13 | [HORA CERO](https://open.spotify.com/track/5elf7rWt5uFffJvluUfwon) | [Myke Towers](https://open.spotify.com/artist/5rc4398KE4BBUuRXOZFAam) | [HORA CERO](https://open.spotify.com/album/2TmuI8IEYfaR7UFcI6YBnf) | 3:51 |
+| 13 | [HORA CERO](https://open.spotify.com/track/5elf7rWt5uFffJvluUfwon) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [HORA CERO](https://open.spotify.com/album/2TmuI8IEYfaR7UFcI6YBnf) | 3:51 |
 | 14 | [Caracol \(feat\. DimeWest\)](https://open.spotify.com/track/2nGb0GKBRxHS8t5jeqgXQI) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DimeWest](https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm) | [Caracol](https://open.spotify.com/album/2ORqI41eItlcAerEkT4pIS) | 3:44 |
 | 15 | [Goteo](https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:44 |
 | 16 | [UN MONTÓN](https://open.spotify.com/track/3IVgBGz3WXKTZ8XqCPuAnw) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [C.D.M](https://open.spotify.com/album/4LG0QSGf6Tr04tQao5JLC6) | 3:05 |

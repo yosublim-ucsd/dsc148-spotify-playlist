@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 19926,
+  "num_followers": 19929,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAADsESfETGoMMvsdB7WSDCuY",
+  "snapshot_id": "ZmeTgAAAAABccSv31DvWZOKNC77pg2Lv",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 358626,
-      "name": "Heygana",
-      "url": "https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -515,38 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 321440,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Cinquante six",
-      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
       },
@@ -556,25 +508,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 380973,
-      "name": "Ai Bine",
-      "url": "https://open.spotify.com/track/0dtl6YQbvXjBQ0I18270zR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+      "duration_ms": 358626,
+      "name": "Heygana",
+      "url": "https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS"
     },
     {
       "added_at": null,
@@ -595,22 +531,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret",
-        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
       "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 411013,
-      "name": "The Secret",
-      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
+      "duration_ms": 331800,
+      "name": "Cinquante six",
+      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/0dtl6YQbvXjBQ0I18270zR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
     },
     {
       "added_at": null,
@@ -627,6 +607,26 @@
       "duration_ms": 271280,
       "name": "Allah Uya",
       "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret",
+        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
+      },
+      "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 411013,
+      "name": "The Secret",
+      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "I Go Ka",
-      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Niafunk\u00e9",
         "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red & Green",
-        "url": "https://open.spotify.com/album/1unfmLA8C89Ay8uOVCEEyQ"
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
       "artists": [
         {
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 226880,
-      "name": "Green: Sidi Gouro",
-      "url": "https://open.spotify.com/track/45OnVsQZv5gc1LW4VMQwzy"
+      "duration_ms": 239266,
+      "name": "I Go Ka",
+      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "Sambadio (Acoustic)",
+      "url": "https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/1unfmLA8C89Ay8uOVCEEyQ"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 312840,
-      "name": "Sambadio (Acoustic)",
-      "url": "https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt"
+      "duration_ms": 226880,
+      "name": "Green: Sidi Gouro",
+      "url": "https://open.spotify.com/track/45OnVsQZv5gc1LW4VMQwzy"
     },
     {
       "added_at": null,

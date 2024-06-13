@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Evan Honer
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,954 likes - 151 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,065 likes - 151 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 18 | [Hold the Lightning](https://open.spotify.com/track/7n3qWKfk3BrlofxO3iBalh) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Hold the Lightning](https://open.spotify.com/album/5SMaNZeG7QK1CpG0bk9CtH) | 3:37 |
 | 19 | [Love Comes Back](https://open.spotify.com/track/4HmpaKreyFdUUNFG7UzPVb) | [Marina Allen](https://open.spotify.com/artist/7DT89nkTjnPsXUijqIxgCu) | [Eight Pointed Star](https://open.spotify.com/album/6s1vqvOGZFZcOgXV7kRcCn) | 2:50 |
 | 20 | [Phoning Heaven](https://open.spotify.com/track/7icPjmRL9YEZwS27N1mgCk) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Phoning Heaven](https://open.spotify.com/album/2kDpkjq917xjNIbjEdPHU0) | 3:41 |
-| 21 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 |
+| 21 | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/track/7EpL9S3Daon2BfFKq07qT4) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Home Alone House 2 \(feat\. Owen\)](https://open.spotify.com/album/3ykcnJFA0aQeevb3oNfZGn) | 3:11 |
 | 22 | [116 West Main, Durham, NC](https://open.spotify.com/track/4fw3YFz5Gk4ebwoI5YQelB) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [116 West Main, Durham, NC](https://open.spotify.com/album/5jWItxGvAWWVEL0bV7TuUI) | 3:57 |
 | 23 | [Personal Jinx](https://open.spotify.com/track/3DzAga558dM1DRAf5cCoBT) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Personal Jinx](https://open.spotify.com/album/4OkjA4QTKRRhydc8O4pdUh) | 2:45 |
 | 24 | [Black Bird \- A COLORS SHOW](https://open.spotify.com/track/00SYX4AtIHCpSXopJUj5pP) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Black Bird \- A COLORS SHOW](https://open.spotify.com/album/3onGnASoMyRBbCSWp4H5AR) | 2:53 |

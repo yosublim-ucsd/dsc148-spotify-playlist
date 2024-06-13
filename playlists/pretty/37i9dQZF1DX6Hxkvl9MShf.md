@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,773 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,869 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 28 | [Brill](https://open.spotify.com/track/33OX22n8bgi4V7bzjsD7Ws) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Brill](https://open.spotify.com/album/5USoIoP9r7gFjm2cgle1tZ) | 5:53 |
 | 29 | [Marble](https://open.spotify.com/track/7w2Uz5hNCkrKjfgzvvNe6i) | [Miss Melera](https://open.spotify.com/artist/3P7dBiGBrfbqVE1Etbr9f1) | [Nocturnal 008](https://open.spotify.com/album/1zO69WjJDc7QBGpDbscldx) | 4:16 |
 | 30 | [Little Darling](https://open.spotify.com/track/6a8cXlaywnIqM9i5e9CQ1I) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/6Mei0SlN9JC0ndjc6j85lW) | 3:40 |
-| 31 | [Maluma](https://open.spotify.com/track/7DVliYNN00PZeha4aUAIOv) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Maluma](https://open.spotify.com/album/0CMp6YIq9RBiKTwFioxdKK) | 2:42 |
+| 31 | [Maluma](https://open.spotify.com/track/7DVliYNN00PZeha4aUAIOv) | [ABSTRCT](https://open.spotify.com/artist/72XZynqAgAS9w2ZCdvrNYz) | [Maluma](https://open.spotify.com/album/0CMp6YIq9RBiKTwFioxdKK) | 2:42 |
 | 32 | [Home Soil](https://open.spotify.com/track/0zB2n90yhNv9asggzCHquQ) | [Fieldwrk](https://open.spotify.com/artist/5kaKDrdT33R6aZUqOgeurx) | [Home Soil](https://open.spotify.com/album/4S6lffp4MPB7FKPlsWChTZ) | 4:51 |
 | 33 | [Blacklight](https://open.spotify.com/track/1xuwXSZMBXvgASjegHXftC) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Blacklight](https://open.spotify.com/album/13GuifKdMCY8mjhpT3pUYb) | 4:33 |
 | 34 | [Light Beam](https://open.spotify.com/track/7oa2Dt5BBn8qAfPm713RXR) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [In Another Lifetime](https://open.spotify.com/album/3rbRgdfalHwqQSDIj1zVze) | 3:47 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 71 | [Drive and Get Down](https://open.spotify.com/track/075hDJMUGL0JoPpHw385iU) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Drive and Get Down](https://open.spotify.com/album/6eE4Z5VF2Qh3URCiMlYtWV) | 2:54 |
 | 72 | [Fondue](https://open.spotify.com/track/1pZldGjxSdpj7762vA8K2M) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Fondue](https://open.spotify.com/album/4vXCNj1pri5Rh1RyplbD25) | 7:17 |
 | 73 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 |
-| 74 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 |
+| 74 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/72XZynqAgAS9w2ZCdvrNYz) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 |
 | 75 | [Pursuing Hope](https://open.spotify.com/track/1LvZxDh1QdLjbglpDYmxO9) | [Naji Arun](https://open.spotify.com/artist/6D4iLrobSbnjNEriFsP6lG) | [Wild Cards 15](https://open.spotify.com/album/0PiZxkumyyAWEfJRCojjAs) | 4:58 |
 | 76 | [Trills](https://open.spotify.com/track/1HKJRDxwHZcPMoun91LFH2) | [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Trills](https://open.spotify.com/album/6KdciLqSQb28ErhFZJcDGS) | 5:48 |
 | 77 | [Fleuron Drift](https://open.spotify.com/track/4dk4d4LMWTF7DeTbCcz2AW) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Fleuron Drift](https://open.spotify.com/album/1oFJ6wFXAACZ1aDPAzQLtI) | 4:42 |

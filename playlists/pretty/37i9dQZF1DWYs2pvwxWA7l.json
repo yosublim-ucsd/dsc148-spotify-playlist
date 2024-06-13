@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Ruger ",
-  "num_followers": 570547,
+  "num_followers": 570735,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -259,8 +259,8 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
@@ -268,13 +268,13 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -407,8 +407,8 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
       "artists": [
         {
@@ -416,13 +416,13 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 231151,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 231151,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "Love Made Me Do It",
         "url": "https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 196008,
       "name": "Love Made Me Do It",
       "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1187,6 +1187,42 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "Isibuko (Deluxe)",
+        "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Qwellers",
+          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+        },
+        {
+          "name": "Blue Papi",
+          "url": "https://open.spotify.com/artist/66EJMoAeows7M3zd7IxBxN"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "Sastii",
+          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Papi)",
+      "url": "https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -1223,42 +1259,6 @@
       "duration_ms": 173810,
       "name": "Lova",
       "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Isibuko (Deluxe)",
-        "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
-      },
-      "artists": [
-        {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
-        },
-        {
-          "name": "Qwellers",
-          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
-        },
-        {
-          "name": "Blue Papi",
-          "url": "https://open.spotify.com/artist/66EJMoAeows7M3zd7IxBxN"
-        },
-        {
-          "name": "LaCabra",
-          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
-        },
-        {
-          "name": "Lowfeye",
-          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
-        },
-        {
-          "name": "Sastii",
-          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Papi)",
-      "url": "https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "If I Be You",
-        "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 136719,
-      "name": "If I Be You",
-      "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "Palava",
         "url": "https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW"
       },
@@ -1331,6 +1315,26 @@
       "duration_ms": 155151,
       "name": "Palava",
       "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "IN MY HEAD",
+        "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "IN MY HEAD",
+      "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
     }
   ],
   "unique_name": "Afropop",

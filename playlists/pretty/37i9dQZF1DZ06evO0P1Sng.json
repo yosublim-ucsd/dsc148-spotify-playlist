@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 7886,
+  "num_followers": 7887,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAADAfrX7ewt4j4gEZKGG4iEn",
+  "snapshot_id": "ZmeTgAAAAADl/zU9Lm0JwqUfFNPTEQ0O",
   "tracks": [
     {
       "added_at": null,
@@ -727,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Minutos",
-        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "2 Minutos",
-      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -795,6 +763,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "2 Minutos",
+        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "2 Minutos",
+      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Consequ\u00eancias",
         "url": "https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk"
       },
@@ -819,6 +819,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+      },
+      "artists": [
+        {
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TUDO \u00c9 SOBRE M\u00daSICA",
         "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
       },
@@ -835,26 +863,6 @@
       "duration_ms": 206106,
       "name": "TUDO \u00c9 SOBRE M\u00daSICA",
       "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R\u00edmel",
-        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "S\u00e3o Gon\u00e7alo",
-      "url": "https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq"
     },
     {
       "added_at": null,
@@ -887,30 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+        "name": "R\u00edmel",
+        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
       },
       "artists": [
         {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
         }
       ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
+      "duration_ms": 172363,
+      "name": "S\u00e3o Gon\u00e7alo",
+      "url": "https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq"
     },
     {
       "added_at": null,
@@ -1151,22 +1151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 162616,
-      "name": "LOVEZY",
-      "url": "https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 181389,
       "name": "Patroa",
       "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 162616,
+      "name": "LOVEZY",
+      "url": "https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY"
     },
     {
       "added_at": null,
@@ -1207,34 +1207,6 @@
       "duration_ms": 243112,
       "name": "Meio Dia",
       "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixtape Rock Danger de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Sonho da Braba",
-      "url": "https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK"
     },
     {
       "added_at": null,
@@ -1275,6 +1247,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mixtape Rock Danger de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Sonho da Braba",
+      "url": "https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mano N\u00e3o Toca na Lace",
         "url": "https://open.spotify.com/album/0yz6edkbA6yhoNd3BXU8BE"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Ctrl Z",
-      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tifanny",
         "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 160056,
       "name": "Tifanny",
       "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Ctrl Z",
+      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
     },
     {
       "added_at": null,

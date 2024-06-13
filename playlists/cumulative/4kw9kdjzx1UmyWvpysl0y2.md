@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-748 songs - 1 day 19 hr 4 min
+749 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Daybreak](https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Daybreak](https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh) | 3:06 | 2023-07-26 | 2023-12-14 |
 | [Dead Man Walking](https://open.spotify.com/track/4ZPwjq0CdxbWFNycxnSUJc) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [Dead Man Walking](https://open.spotify.com/album/0UWFD6lsReiZ7D7e6gARcA) | 2:46 | 2022-07-21 | 2022-10-01 |
 | [Deadlock](https://open.spotify.com/track/40b8QH6QvHYHmP83ktqvXI) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Deadlock](https://open.spotify.com/album/3vCyRU348Fv0hijMp97iqj) | 3:27 | 2023-06-26 | 2023-09-26 |
-| [Decimate](https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Decimate](https://open.spotify.com/album/0LcvAMk0yY5fYuiUDzRMCS) | 3:30 | 2024-03-27 |  |
+| [Decimate](https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Decimate](https://open.spotify.com/album/0LcvAMk0yY5fYuiUDzRMCS) | 3:30 | 2024-03-27 | 2024-06-13 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |
@@ -201,7 +201,7 @@
 | [ENEMY](https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [ENEMY](https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV) | 3:16 | 2024-01-11 | 2024-04-03 |
 | [Equinox](https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Equinox](https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz) | 3:20 | 2023-10-18 | 2024-02-02 |
 | [Erase Me](https://open.spotify.com/track/7lbKB1ULWaABpHWWJuaLu8) | [Gravas](https://open.spotify.com/artist/2ucDELeg7gohUzo8kJ9Hj3), [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [Tea Timerz](https://open.spotify.com/artist/6FvBSQRYwIMdxwvMyMyQbf), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm) | [Erase Me](https://open.spotify.com/album/69KvZgBpQLnQJTmWT6C90D) | 5:15 | 2023-08-28 | 2023-12-14 |
-| [Erased](https://open.spotify.com/track/1E3g55PMTQsgU2fzQfEVt6) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Erased](https://open.spotify.com/album/4ajWveeGRk0MiwZqg03Nmt) | 2:46 | 2024-03-26 |  |
+| [Erased](https://open.spotify.com/track/1E3g55PMTQsgU2fzQfEVt6) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Erased](https://open.spotify.com/album/4ajWveeGRk0MiwZqg03Nmt) | 2:46 | 2024-03-26 | 2024-06-13 |
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 | 2023-07-22 |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-15 |  |
@@ -504,6 +504,7 @@
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |
 | [Phases Of The Moon](https://open.spotify.com/track/4V7J0Au7NmhmPV9WwKcr48) | [Embliss](https://open.spotify.com/artist/5MSK0EcJzGYAEgTCY7EIAa), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Phases Of The Moon](https://open.spotify.com/album/4KE7wS3749LiK3LZFjBVSW) | 4:18 | 2022-07-13 | 2022-09-27 |
 | [Pirate King](https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [Pirate King](https://open.spotify.com/album/7gBalqzr8I5dFqHpdaxzid) | 3:37 | 2023-05-31 | 2023-08-28 |
+| [Play It Twice](https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Play It Twice](https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO) | 2:40 | 2024-06-12 |  |
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-23 | 2024-03-07 |
 | [Portal](https://open.spotify.com/track/7Ifj94OvitrEBJolFPeBTN) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Portal](https://open.spotify.com/album/0oSIeNRjMe5z6wAJ0AB5xs) | 2:34 | 2024-02-12 | 2024-05-07 |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 | 2022-10-08 |

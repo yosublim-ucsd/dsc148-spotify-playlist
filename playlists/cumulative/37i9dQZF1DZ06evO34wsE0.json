@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-10",
-  "description": "This Is Shania Twain. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
   "name": "This Is Shania Twain",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 246760,
       "name": "Any Man Of Mine",
       "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
@@ -88,10 +88,28 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 159382,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a"
+    },
+    {
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219693,
+      "name": "Black Eyes, Blue Tears",
+      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
     },
     {
       "album": {
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 214863,
       "name": "Honey, I'm Home",
       "url": "https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh"
@@ -554,7 +572,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 213512,
       "name": "Love Gets Me Every Time",
       "url": "https://open.spotify.com/track/7fw27B5y14BRfY2BH65vq0"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 229026,
       "name": "She's Not Just A Pretty Face - Red Version",
       "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"

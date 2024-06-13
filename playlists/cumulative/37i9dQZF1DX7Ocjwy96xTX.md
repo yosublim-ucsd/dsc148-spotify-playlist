@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-284 songs - 16 hr 57 min
+287 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 | 2022-12-12 |  |
 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2023-12-05 | 2024-04-19 |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-12-05 |  |
+| [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-12 |  |
 | [If I Die](https://open.spotify.com/track/2mTffb4JPUXq31NWaqQgIN) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Sometimes / If I Die](https://open.spotify.com/album/0KTScQWu6RzOUg3phjUjlR) | 2:56 | 2023-10-13 |  |
 | [In My Dreams](https://open.spotify.com/track/5cyI9Gh69DQ00AhB7NQ8EU) | [Pleasure Nature](https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ) | [In My Dreams](https://open.spotify.com/album/5T85Km8fTrr29MTvRGJ0yt) | 3:27 | 2022-09-30 | 2022-12-13 |
 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 | 2022-09-02 | 2023-12-06 |
@@ -179,7 +180,7 @@
 | [nap](https://open.spotify.com/track/3WrCcZoZqKuuAxsGbiNlLx) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [nap](https://open.spotify.com/album/5qhcJWasY3IK6sFDe2reI8) | 2:54 | 2023-11-10 |  |
 | [Never Wanna Let Go](https://open.spotify.com/track/1CB7zANKq4TYkOg7XCdw5v) | [David Hale](https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K) | [Paradigm](https://open.spotify.com/album/2Ca0nMYUgKUu70tNhEBhzW) | 4:46 | 2023-11-14 |  |
 | [Never Wanna Let Go](https://open.spotify.com/track/4yqptmbnL83yt8TP5SEpfz) | [David Hale](https://open.spotify.com/artist/3K5HJppYE9ASYWEZNyle9K) | [Paradigm](https://open.spotify.com/album/3yri9UWWeeMtgTHxAizMFj) | 4:46 | 2023-12-05 | 2024-04-19 |
-| [New Normal](https://open.spotify.com/track/1YByuyHH5sOO2c7ojGflsA) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [New Normal](https://open.spotify.com/album/0hxkBuqU47PF8B1gKEoX2T) | 2:20 | 2023-11-10 |  |
+| [New Normal](https://open.spotify.com/track/1YByuyHH5sOO2c7ojGflsA) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [New Normal](https://open.spotify.com/album/0hxkBuqU47PF8B1gKEoX2T) | 2:20 | 2023-11-10 | 2024-06-13 |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2022-09-02 | 2023-05-25 |
 | [Nightjar](https://open.spotify.com/track/3th89PlDwtE7GHz7GD67rz) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Between Heavens](https://open.spotify.com/album/42jyTWOjjG9hUxo2PEmnz0) | 3:15 | 2023-10-13 |  |
 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2022-10-05 | 2022-10-29 |
@@ -198,6 +199,7 @@
 | [Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH) | [Future Nobodies](https://open.spotify.com/artist/4GMN5lzHF0l56piLOQXhBH) | [Apasionada / Over It](https://open.spotify.com/album/1p6XSjHnvwwbsQNUv2oCvq) | 2:49 | 2022-12-12 | 2023-08-26 |
 | [Paulie Bleeker](https://open.spotify.com/track/2MWpgaYQee0U6sKn1jJ2o8) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Paulie Bleeker](https://open.spotify.com/album/1jKpxJPohujeCGiEQfV3QI) | 3:19 | 2023-11-10 |  |
 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-10-28 | 2023-05-25 |
+| [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/track/1yTIls3wv8W1XscrAR00Iy) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/album/65gzOnTds7R6w4Pvej8Brq) | 3:23 | 2024-06-12 |  |
 | [pg.4 a picture of three hedges](https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 4:09 | 2022-12-01 | 2022-12-13 |
 | [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet EP](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 | 2022-12-01 |  |
 | [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 | 2023-07-13 | 2024-01-06 |
@@ -214,6 +216,7 @@
 | [Queen Of Her Own Parade](https://open.spotify.com/track/3ymKmthWknYVVFHyXQ5H6W) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Queen Of Her Own Parade](https://open.spotify.com/album/3hRvPZP1raQB7fJhS2sFXa) | 5:25 | 2023-09-29 |  |
 | [Rainbow Sherbet Sky](https://open.spotify.com/track/27MW7GlTV8bFkdkmpJuF62) | [Desert Liminal](https://open.spotify.com/artist/024XJhAI3OvNIXKazprYuf) | [Glass Fate](https://open.spotify.com/album/5L6S8RsshAyAeJCOliIuCb) | 3:50 | 2022-09-02 | 2023-05-25 |
 | [Real Time](https://open.spotify.com/track/49KOZITkRDw4EKs1UnHSyh) | [Goo Munday](https://open.spotify.com/artist/540egazqjMY2Lm7NPclRQ2) | [Real Time](https://open.spotify.com/album/38WVA1P7jfefbIVryXvB6O) | 3:31 | 2022-11-10 | 2023-08-19 |
+| [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Realize](https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb) | 1:55 | 2024-06-12 |  |
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2023-12-28 |  |
 | [Relay](https://open.spotify.com/track/3vuG06ETVyqQlxW2wbBVjg) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [\[trauma ray\]](https://open.spotify.com/album/7vejvPuK0jnMXpzNiikHsR) | 3:22 | 2023-07-13 | 2023-08-19 |
 | [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 | 2023-11-06 |  |
@@ -230,7 +233,7 @@
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2023-10-06 | 2023-12-30 |
 | [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/5SqGemHRM0ZfooBHuC81qK) | 5:02 | 2023-03-22 |  |
 | [Shellshock \- Dubyshkin Feed Your Pet Mix](https://open.spotify.com/track/5DPoMqEbmuENT6EKpVY5OQ) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA), [Vladimir Dubyshkin](https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL) | [Joy Squad / Shellshock \(VTSS & Dubyshkin Remixes\)](https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp) | 4:07 | 2023-01-19 | 2023-05-25 |
-| [shutting me out](https://open.spotify.com/track/0hxy957I8oiUktegIZPK9P) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/3KYjSlyLTpzkCxWNlg2IqL) | 2:26 | 2023-12-05 |  |
+| [shutting me out](https://open.spotify.com/track/0hxy957I8oiUktegIZPK9P) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/3KYjSlyLTpzkCxWNlg2IqL) | 2:26 | 2023-12-05 | 2024-06-13 |
 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 | 2023-12-01 | 2024-01-23 |
 | [shutting me out](https://open.spotify.com/track/69vQ28ksF23utGYgq4YhxD) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:26 | 2023-12-05 | 2024-04-19 |
 | [Singing To Let England Shake](https://open.spotify.com/track/4WgPnx0VIchYHqhIBK6I7y) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [Singing To Let England Shake](https://open.spotify.com/album/6XvASASymN1EvsH5J3i4G9) | 3:36 | 2022-09-09 | 2023-05-25 |

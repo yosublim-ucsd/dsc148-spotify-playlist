@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9031,
+  "num_followers": 9032,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAE8pbexoM6s3KsEJ5Yfq6if+fSaWrw",
+  "snapshot_id": "AAAE81SglnQSjtHvkuhYTnZxO3WQ/VEF",
   "tracks": [
     {
       "added_at": "2024-05-10 18:18:10",
@@ -839,6 +839,22 @@
       "duration_ms": 181018,
       "name": "Go Your Own Way - Acoustic",
       "url": "https://open.spotify.com/track/7xwjFFd7k4SbDktySZRfLy"
+    },
+    {
+      "added_at": "2024-06-12 11:17:37",
+      "album": {
+        "name": "Sk8er Boi (Acoustic)",
+        "url": "https://open.spotify.com/album/65A1NOcJVODQovfVI3hQOX"
+      },
+      "artists": [
+        {
+          "name": "Cloudsmiff",
+          "url": "https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Sk8er Boi - Acoustic",
+      "url": "https://open.spotify.com/track/2sMcfmeQgoLAxnVKxEtIUM"
     },
     {
       "added_at": "2019-10-13 06:38:53",

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,628 likes - 109 songs - 5 hr 31 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,626 likes - 109 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mortals](https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs) | 3:48 |
 | 2 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 |
 | 3 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 |
-| 4 | [Red Lights](https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Red Lights](https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5) | 3:18 |
-| 5 | [fade](https://open.spotify.com/track/4QIunJj1Sw6BgYYB2iEIeU) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [fade](https://open.spotify.com/album/2cqvuYk4Haj2e44X4zfONh) | 2:26 |
+| 4 | [fade](https://open.spotify.com/track/4QIunJj1Sw6BgYYB2iEIeU) | [dashie](https://open.spotify.com/artist/6uQKiJZQe4rjkMF0HxIGTl) | [fade](https://open.spotify.com/album/2cqvuYk4Haj2e44X4zfONh) | 2:26 |
+| 5 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 |
 | 6 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
-| 7 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
-| 8 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 |
-| 9 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 |
-| 10 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 |
+| 7 | [Red Lights](https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Red Lights](https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5) | 3:18 |
+| 8 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
+| 9 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 |
+| 10 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 |
 | 11 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 |
 | 12 | [Never Knew Me](https://open.spotify.com/track/0sk6nrjHfWQZ5IvVkjTBx7) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Never Knew Me](https://open.spotify.com/album/3vF5YCTGN6BmFyqnzaAjLP) | 3:32 |
 | 13 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 108 | [No Way](https://open.spotify.com/track/33Mk3ZTSKNn47PLGpczhVH) | [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [No Way](https://open.spotify.com/album/2PSFaIGYfF0DgKy8Y9KWJ1) | 4:28 |
 | 109 | [Karma](https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL) | [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Karma](https://open.spotify.com/album/4ilC8x3IxNevbhhFxxxNCu) | 3:09 |
 
-Snapshot ID: `AAAWViNR6Sj7l/NV9SyvMP6QjZBlVBTn`
+Snapshot ID: `AAAWWKqpuhnpYnsPndat5+VU/rwzcny+`

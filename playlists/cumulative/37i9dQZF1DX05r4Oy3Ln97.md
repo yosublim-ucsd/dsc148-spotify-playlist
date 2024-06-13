@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-338 songs - 17 hr 53 min
+339 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blue Diamond Bay](https://open.spotify.com/track/1R6TfuAjaSonSeOLH60fP8) | [Salkin](https://open.spotify.com/artist/1kijmOgGGJuzi5nFYmoYNH), [Clarees](https://open.spotify.com/artist/5preGCl6y5PCh5UYFQSlDl) | [Blue Diamond Bay](https://open.spotify.com/album/0GyFrr9ECkKfqmlBCYFmHF) | 2:30 | 2021-10-29 | 2022-07-29 |
 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 | 2022-05-03 |  |
 | [Bora](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Bora](https://open.spotify.com/album/3HaKdY1qynqmypOTsiLQUs) | 3:03 | 2022-01-21 | 2022-07-22 |
+| [Born In Blue](https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Born In Blue](https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v) | 4:50 | 2024-06-07 |  |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-24 | 2022-10-01 |
 | [Broke In Amsterdam](https://open.spotify.com/track/3U6ZWTjjYDtr2YMhG0fpsM) | [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv) | [Broke In Amsterdam](https://open.spotify.com/album/06ErK82Ctp0u9czGCAyTVc) | 2:55 | 2021-10-29 | 2022-07-29 |
 | [Broken Glass](https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:23 | 2021-10-29 | 2021-12-29 |
@@ -225,7 +226,7 @@
 | [Now or Never](https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Now or Never](https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt) | 3:02 | 2022-07-01 |  |
 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 | 2021-10-29 | 2023-05-13 |
 | [Oku \- Night Version](https://open.spotify.com/track/2uZKeDWOF9ydWinmfee4ki) | [Rosa Ama](https://open.spotify.com/artist/0IBVUiVJxjc8yGcbwP7Jic), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB), [Vhyce](https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa) | [Oku \(Night Version\)](https://open.spotify.com/album/226ec9SbgyBB7IKJkSbokM) | 3:32 | 2022-01-21 | 2022-04-23 |
-| [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 | 2022-08-05 |  |
+| [One and Only \- AseMix](https://open.spotify.com/track/45VHi1pZE1NKeBuoPGTsZj) | [Ase](https://open.spotify.com/artist/6NUvHOofq46GTsvTU8jiYe) | [One and Only \(AseMix\)](https://open.spotify.com/album/0bpCNqt5p9ejztrQrXQVgc) | 4:02 | 2022-08-05 | 2024-06-13 |
 | [One More Night](https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [One More Night](https://open.spotify.com/album/437pHGBe6cnnxyEdZrbMvo) | 2:37 | 2021-10-29 | 2022-03-22 |
 | [Opened Up My Soul](https://open.spotify.com/track/5ECDg47YFFUqFbyhoQdLtV) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Opened Up My Soul](https://open.spotify.com/album/3HlS6pRxpCD6PoLvTsJ2Lu) | 2:20 | 2024-06-07 |  |
 | [Original Sin](https://open.spotify.com/track/722zMk3C41DINBNBYh7iI9) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Original Sin](https://open.spotify.com/album/2JctLsvJUzExj3yeROAvn9) | 2:39 | 2021-10-29 | 2022-03-04 |

@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-385 songs - 1 day 0 hr 48 min
+386 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-28 | 2024-04-19 |
 | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/track/1OgRCIOlkWGrWMLXpKSuvm) | [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/album/0lwkjGUrX0qFHjDWv89M7e) | 3:09 | 2023-02-23 | 2023-03-18 |
 | [Aey Nehin](https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:45 | 2024-06-07 |  |
-| [All I Have](https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [All I Have](https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2) | 3:46 | 2024-04-17 |  |
+| [All I Have](https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [All I Have](https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2) | 3:46 | 2024-04-17 | 2024-06-13 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-20 | 2023-01-11 |
 | [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 | 2023-08-04 |
 | [ALONE](https://open.spotify.com/track/1ES7kph925ytu5O7lJhtav) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 1:46 | 2023-06-22 | 2023-08-18 |
@@ -47,6 +47,7 @@
 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 | 2022-10-20 | 2024-04-19 |
 | [Better Than I Imagined \[Feat\. H.E.R., Meshell Ndegeocello\]](https://open.spotify.com/track/5hv2fqqM4B2Oi9VoM4Oxhn) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 4:51 | 2022-12-13 | 2023-02-10 |
 | [Better Than Snow](https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Christmas With You](https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp) | 2:46 | 2023-11-09 | 2024-01-28 |
+| [Bewitched \- Rework](https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bewitched \(Rework\)](https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB) | 4:22 | 2024-06-07 |  |
 | [Bibi](https://open.spotify.com/track/2a0jla6CzHQSm5QAyj6aP2) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Bibi](https://open.spotify.com/album/6RTHSt3mVGwyYlc2Q37vNl) | 4:34 | 2023-11-23 | 2023-12-08 |
 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 | 2023-06-30 | 2023-07-07 |
 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-07 | 2023-03-22 |

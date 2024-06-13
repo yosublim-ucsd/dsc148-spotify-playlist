@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Headie One
 
-1,833 songs - 3 day 20 hr 39 min
+1,834 songs - 3 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1262,6 +1262,7 @@
 | [Pilot](https://open.spotify.com/track/7i3nP2LDwi3QXghe63gTzk) | [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN), [Yizzy](https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g) | [Pilot](https://open.spotify.com/album/6rhEiLLpsUYM7Rr7PTjsti) | 2:45 | 2020-07-25 | 2020-08-21 |
 | [Pinging \(6 Figures\)](https://open.spotify.com/track/5DioDvyrdjUIyeA07BPpm4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Pinging \(6 Figures\)](https://open.spotify.com/album/0UzN4R3iiz264XP5UXk3bo) | 2:45 | 2021-01-15 | 2021-04-17 |
 | [Pink](https://open.spotify.com/track/0mr2jtjlU98ROn5V9XO1El) | [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl) | [Pink](https://open.spotify.com/album/3ZfasXcVxIXmvSqa6FuOVQ) | 2:39 | 2023-10-13 | 2023-11-17 |
+| [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 | 2024-06-12 |  |
 | [Pink Notes](https://open.spotify.com/track/2fm91v65aa2N5CCc2wOvHE) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [Pink Notes](https://open.spotify.com/album/38oaBqmsWflOyX0Otdxejc) | 2:55 | 2024-02-16 | 2024-03-01 |
 | [Pink Notes](https://open.spotify.com/track/4yGnh6cZZCOts87hnFUJMg) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [Pink Notes](https://open.spotify.com/album/2S0klxYPTC8Sg5SgeHmvqJ) | 2:40 | 2023-03-08 | 2023-03-09 |
 | [Pisces](https://open.spotify.com/track/1YTKdKM3X8G1XjUStxchPP) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Pisces](https://open.spotify.com/album/3n9e29kuHF17F9d0XF8H5j) | 2:40 | 2022-09-30 | 2023-02-25 |

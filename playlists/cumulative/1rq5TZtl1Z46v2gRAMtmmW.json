@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 167270,
       "name": "Nice Town - Original",
       "url": "https://open.spotify.com/track/4dFAznjc12DSXHqofBCPXH"
@@ -4782,6 +4782,32 @@
       "duration_ms": 245823,
       "name": "The Universe",
       "url": "https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA"
+    },
+    {
+      "album": {
+        "name": "These Dreams are Killing Me",
+        "url": "https://open.spotify.com/album/3F1rd1yNMxA85RIp4wRPVI"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289846,
+      "name": "These Dreams are Killing Me",
+      "url": "https://open.spotify.com/track/3l3kfVCK5rhMlLzVw8ZYzg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,876 likes - 42 songs - 1 hr 59 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,882 likes - 45 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 40 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 |
 | 41 | [Psychic Mechanic](https://open.spotify.com/track/3gj2nM2yLd2diSGOqExMvc) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 4:29 |
 | 42 | [Like Lovers Do](https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Like Lovers Do](https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W) | 2:50 |
+| 43 | [I Can Dream](https://open.spotify.com/track/56NDW2C9TPog81aDwasskH) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Half Price at 3:30](https://open.spotify.com/album/7hMopyoxOXaZuKhSKKclUC) | 3:57 |
+| 44 | [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 |
+| 45 | [In the Jailhouse Now](https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [The Essential Jimmie Rodgers](https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3) | 3:18 |
 
-Snapshot ID: `AAAKkpKwleOdAUzOWFcaAoOjZRrHEC1S`
+Snapshot ID: `AAAKlX4RVjBAIZ/zz2u+2X79QWfneKph`

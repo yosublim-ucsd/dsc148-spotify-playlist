@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,352 likes - 90 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,565 likes - 90 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

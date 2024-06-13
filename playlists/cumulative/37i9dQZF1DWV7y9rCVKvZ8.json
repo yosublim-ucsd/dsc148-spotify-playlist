@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Kembalilah",
+        "url": "https://open.spotify.com/album/5qnD508MgWS5N9T7sGy3Nt"
+      },
+      "artists": [
+        {
+          "name": "Fathi Saleem",
+          "url": "https://open.spotify.com/artist/3tzjcZbD13DvngJ6DFsI17"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255223,
+      "name": "Kembalilah",
+      "url": "https://open.spotify.com/track/0Gb1WP3oZudbJfy3BZlwSW"
+    },
+    {
+      "album": {
         "name": "Khayalan Tingkat Tinggi",
         "url": "https://open.spotify.com/album/0zjNUO3CQhuWDYZIeKT4l7"
       },
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 240903,
       "name": "P.S. I LOVE YOU",
       "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 279031,
       "name": "Seperti Kisah",
       "url": "https://open.spotify.com/track/6nxQa68jVCLlYQsT3fi4G1"
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"

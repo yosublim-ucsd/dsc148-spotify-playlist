@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12204,
+  "num_followers": 12205,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
       },
       "artists": [
         {
-          "name": "Hidden Orchestra",
-          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
         }
       ],
-      "duration_ms": 344640,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
       "added_at": "2024-04-12 00:43:48",
@@ -267,18 +267,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
       },
       "artists": [
         {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+          "name": "Hidden Orchestra",
+          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
         }
       ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+      "duration_ms": 344640,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
       "added_at": "2024-04-18 20:16:24",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "The Last Retention",
-      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
-    },
-    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Mysteries",
@@ -743,6 +727,22 @@
       "duration_ms": 183851,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "The Last Retention",
+        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
+      },
+      "artists": [
+        {
+          "name": "Ronnie & Clyde",
+          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "The Last Retention",
+      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
-      "added_at": "2022-02-18 04:38:12",
-      "album": {
-        "name": "atomic bombs atomic bonds i love you",
-        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
-      },
-      "artists": [
-        {
-          "name": "Askjell",
-          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "atomic bombs atomic bonds i love you",
-      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
-    },
-    {
       "added_at": "2022-09-03 03:31:24",
       "album": {
         "name": "Reflections 02",
@@ -875,6 +859,22 @@
       "duration_ms": 156201,
       "name": "Passing Lights - Cinematic Version",
       "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
+    },
+    {
+      "added_at": "2022-02-18 04:38:12",
+      "album": {
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+      },
+      "artists": [
+        {
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -895,6 +895,22 @@
       "duration_ms": 296007,
       "name": "All the Way Round - Photay Remix",
       "url": "https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b"
+    },
+    {
+      "added_at": "2022-09-21 02:32:57",
+      "album": {
+        "name": "Red Ribbon",
+        "url": "https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp"
+      },
+      "artists": [
+        {
+          "name": "Yuta Matsumura",
+          "url": "https://open.spotify.com/artist/406gPYJrv2Xq4YRJub1qRa"
+        }
+      ],
+      "duration_ms": 265467,
+      "name": "Myth Machine",
+      "url": "https://open.spotify.com/track/5RwtVAXUUAa8O6ypxYmW04"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -977,22 +993,6 @@
       "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
     },
     {
-      "added_at": "2023-01-03 03:48:53",
-      "album": {
-        "name": "Tony Takitani",
-        "url": "https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Solitude - Theme",
-      "url": "https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Ugly Orange",
@@ -1007,6 +1007,22 @@
       "duration_ms": 259724,
       "name": "Ugly Orange",
       "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
+    },
+    {
+      "added_at": "2023-01-03 03:48:53",
+      "album": {
+        "name": "Tony Takitani",
+        "url": "https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Solitude - Theme",
+      "url": "https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1189,22 +1205,6 @@
       "url": "https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI"
     },
     {
-      "added_at": "2023-05-12 02:51:50",
-      "album": {
-        "name": "Do Make Say Think",
-        "url": "https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy"
-      },
-      "artists": [
-        {
-          "name": "Do Make Say Think",
-          "url": "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
-        }
-      ],
-      "duration_ms": 629506,
-      "name": "1978",
-      "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
-    },
-    {
       "added_at": "2022-05-24 01:10:33",
       "album": {
         "name": "Tloque Nahuaque",
@@ -1227,6 +1227,22 @@
       "duration_ms": 391899,
       "name": "Tloque Nahuaque",
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
+    },
+    {
+      "added_at": "2023-05-12 02:51:50",
+      "album": {
+        "name": "Do Make Say Think",
+        "url": "https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy"
+      },
+      "artists": [
+        {
+          "name": "Do Make Say Think",
+          "url": "https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc"
+        }
+      ],
+      "duration_ms": 629506,
+      "name": "1978",
+      "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1253,6 +1269,22 @@
       "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
     },
     {
+      "added_at": "2022-01-11 01:31:39",
+      "album": {
+        "name": "BITTER.ROOT",
+        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
+      },
+      "artists": [
+        {
+          "name": "EN.KI.DU",
+          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
+        }
+      ],
+      "duration_ms": 276172,
+      "name": "Inspiral",
+      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
+    },
+    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Docutrax, Vol. 2: Serious Incidents",
@@ -1277,22 +1309,6 @@
       "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
     },
     {
-      "added_at": "2022-01-11 01:31:39",
-      "album": {
-        "name": "BITTER.ROOT",
-        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
-      },
-      "artists": [
-        {
-          "name": "EN.KI.DU",
-          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
-        }
-      ],
-      "duration_ms": 276172,
-      "name": "Inspiral",
-      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
-    },
-    {
       "added_at": "2023-03-07 03:32:27",
       "album": {
         "name": "Mirrored Solitude",
@@ -1307,22 +1323,6 @@
       "duration_ms": 206863,
       "name": "Mirrored Solitude",
       "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Empty Bridge",
-        "url": "https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6"
-      },
-      "artists": [
-        {
-          "name": "Marc Barreca",
-          "url": "https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh"
-        }
-      ],
-      "duration_ms": 403980,
-      "name": "City Of Red Sand",
-      "url": "https://open.spotify.com/track/5pQI4osudR5207IiprBP7J"
     }
   ],
   "unique_name": "transience",

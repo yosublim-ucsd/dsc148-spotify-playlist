@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 109930,
+  "num_followers": 109969,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
+        "name": "DEIRA",
+        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 163183,
+      "name": "Allah Yihmeeki",
+      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
         "name": "Cartola (1974)",
         "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 177680,
       "name": "Lluvia con Nieve",
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "DEIRA",
-        "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Allah Yihmeeki",
-      "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Horizon Unlimited",
-        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
-      },
-      "artists": [
-        {
-          "name": "The Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 318785,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Lotus 72 D",
         "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 180490,
       "name": "Lotus 72 D - Fast Version",
       "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Horizon Unlimited",
+        "url": "https://open.spotify.com/album/60EBuN8o4sCc8zqS4sO8bC"
+      },
+      "artists": [
+        {
+          "name": "The Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 318785,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "007 Shanty Town",
-        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "007 (Shanty Town)",
-      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/7e8xq5Cixf4PIseZjXa3qj"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 244916,
       "name": "L\u00e1grimas Negras (feat. Omara Portuondo)",
       "url": "https://open.spotify.com/track/32NzVi6ne2G51sgmEeuGzl"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "007 Shanty Town",
+        "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "007 (Shanty Town)",
+      "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Pon P\u00f3n",
-        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 178436,
-      "name": "Pon P\u00f3n",
-      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Alegria, Alegria!!!",
         "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
@@ -1179,22 +1163,6 @@
       "duration_ms": 152613,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
-        "name": "Al Barry & Friends (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
-      },
-      "artists": [
-        {
-          "name": "Al Barry",
-          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
-        }
-      ],
-      "duration_ms": 176091,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1215,18 +1183,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+        "name": "Al Barry & Friends (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Al Barry",
+          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
         }
       ],
-      "duration_ms": 321480,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
+      "duration_ms": 176091,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1243,6 +1211,38 @@
       "duration_ms": 189120,
       "name": "Carolina, Carol Bela",
       "url": "https://open.spotify.com/track/6A0OUhnbkGUNWsPctKAB4R"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Pon P\u00f3n",
+        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 321480,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Adventures on the Floating Island",
-        "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
       "artists": [
         {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
         }
       ],
-      "duration_ms": 140162,
-      "name": "Adventure",
-      "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+        "name": "Adventures on the Floating Island",
+        "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
         }
       ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+      "duration_ms": 140162,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
     },
     {
       "added_at": "2024-06-04 22:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-06-04 22:00:00",
       "album": {
-        "name": "Linda Guajira",
-        "url": "https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80"
-      },
-      "artists": [
-        {
-          "name": "Los Guaracheros De Oriente",
-          "url": "https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom"
-        }
-      ],
-      "duration_ms": 189962,
-      "name": "Patria Querida",
-      "url": "https://open.spotify.com/track/6hGfBBs2yvBcMbfTMsARGx"
-    },
-    {
-      "added_at": "2024-06-04 22:00:00",
-      "album": {
         "name": "Fine Anyway (Habibi Funk 016)",
         "url": "https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 196000,
       "name": "Had to Come Back Wet",
       "url": "https://open.spotify.com/track/3y9doIj0Gl7ywGgUaFNe0G"
+    },
+    {
+      "added_at": "2024-06-04 22:00:00",
+      "album": {
+        "name": "Linda Guajira",
+        "url": "https://open.spotify.com/album/4vF1RjBN15TIuUJqibuU80"
+      },
+      "artists": [
+        {
+          "name": "Los Guaracheros De Oriente",
+          "url": "https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom"
+        }
+      ],
+      "duration_ms": 189962,
+      "name": "Patria Querida",
+      "url": "https://open.spotify.com/track/6hGfBBs2yvBcMbfTMsARGx"
     },
     {
       "added_at": "2024-06-04 22:00:00",

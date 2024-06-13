@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Jerome Raheem Fortune",
+        "url": "https://open.spotify.com/album/0Vaw1bk1s0TneqvYoieH7H"
+      },
+      "artists": [
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186372,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/51bo0PWLPlsOONPfmUZ0ro"
+    },
+    {
+      "album": {
         "name": "ArtScience",
         "url": "https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu"
       },

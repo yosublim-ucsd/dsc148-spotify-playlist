@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-257 songs - 16 hr 10 min
+258 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,12 +85,13 @@
 | [Echale Azúcar](https://open.spotify.com/track/6YeRS4KLT4a5P9Us9KzBBf) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 | 2024-01-11 | 2024-06-05 |
 | [El arca de Mima](https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El arca de Mima](https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n) | 4:22 | 2022-04-17 | 2022-07-29 |
 | [El Awa\-0](https://open.spotify.com/track/6Azlp373Rd2tbVHeblzIdj) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 3:13 | 2021-10-16 | 2022-07-28 |
+| [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 | 2024-06-13 |  |
 | [El Cuarto de Tula](https://open.spotify.com/track/5zin8iiYEO4UkSxuJl4wX5) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [El Cuarto de Tula](https://open.spotify.com/album/6DUStCCysG291DlT5mnaky) | 4:13 | 2021-10-16 | 2022-07-28 |
 | [El Dinero No Es La Vida](https://open.spotify.com/track/3bPtQGYZSIHehZiY2GEZLF) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [El Dinero No Es La Vida](https://open.spotify.com/album/5rA2XRAdJy0iu0vaSV8dCy) | 3:42 | 2021-10-16 | 2022-07-27 |
 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 | 2021-10-16 | 2022-07-29 |
 | [El Sol De La Madruga \- Acústico](https://open.spotify.com/track/4qF8fVEtnkJ83yYee6DqIA) | [Yasser Tejeda](https://open.spotify.com/artist/1l3daUiuR5OVVeBoPBU0WE) | [El Sol De La Madruga \(Acústico\)](https://open.spotify.com/album/0bRt8FOR8UHK3TDXJ6pwVN) | 2:40 | 2021-10-16 | 2022-07-28 |
 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 | 2021-10-16 |  |
-| [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 | 2021-10-16 |  |
+| [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 | 2021-10-16 | 2024-06-13 |
 | [En Las Olas](https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 3:22 | 2021-10-16 | 2022-07-29 |
 | [En tu pelo](https://open.spotify.com/track/7pfyOy1Tbz68brlpi2JrZU) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [En tu pelo](https://open.spotify.com/album/61JJTXsxJCbeU3J3rOcadz) | 3:04 | 2021-10-16 | 2022-07-29 |
 | [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-03-16 | 2023-04-09 |

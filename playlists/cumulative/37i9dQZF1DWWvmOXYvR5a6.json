@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Ellui, Richboy Hardy) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Way Ched) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -866,6 +866,32 @@
       "duration_ms": 202586,
       "name": "BAD (feat. YOUHA)",
       "url": "https://open.spotify.com/track/7ph9Xo8TV9VFefeoJYdPt6"
+    },
+    {
+      "album": {
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137546,
+      "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
+      "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
     },
     {
       "album": {
@@ -7496,7 +7522,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 155986,
       "name": "Loop",
       "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"

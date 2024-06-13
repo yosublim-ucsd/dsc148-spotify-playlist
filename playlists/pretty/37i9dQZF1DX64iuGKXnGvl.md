@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,851 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,999 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 49 | [Sólo Importas Tú \- Vuelve en Primera Fila \- Live Version](https://open.spotify.com/track/0zSSrYm8xdq09m5RePUg2p) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita Vuelve en Primera Fila](https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw) | 3:23 |
 | 50 | [Tengo Mucho Que Aprender de Ti](https://open.spotify.com/track/1NBBMEhFjhzCMokhv0mJRd) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Serie Platino](https://open.spotify.com/album/2l4VfuJE77hCUPBtUmA92W) | 3:44 |
 
-Snapshot ID: `ZfCWagAAAADefgX+vWvCaNkQpLKD2ywK`
+Snapshot ID: `ZmoGiwAAAADkrpxWlyiZwL9vfBvdFVrn`

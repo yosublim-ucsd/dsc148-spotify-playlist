@@ -1,12 +1,12 @@
 {
-  "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 84016,
+  "description": "This Is Kelsea Ballerini. Los temas esenciales, todos en una lista.",
+  "num_followers": 84033,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAABf0/FO9EjS4Xuv9h4NTXZ6",
+  "snapshot_id": "ZmeTgAAAAACcigDfSIOqh1tmuIDDM3wO",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
       "duration_ms": 166035,
       "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
       "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
     },
     {
       "added_at": null,
@@ -423,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
+        "url": "https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6"
       },
       "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 152386,
-      "name": "I Think I Fell in Love Today",
-      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
+      "duration_ms": 227800,
+      "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT"
     },
     {
       "added_at": null,
@@ -455,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
-        "url": "https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Shut Up Train (Collab Version With Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT"
+      "duration_ms": 152386,
+      "name": "I Think I Fell in Love Today",
+      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
     },
     {
       "added_at": null,
@@ -667,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Were Like",
-        "url": "https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
@@ -676,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 180906,
-      "name": "We Were Like",
-      "url": "https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY"
+      "duration_ms": 200066,
+      "name": "Get over Yourself",
+      "url": "https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur"
     },
     {
       "added_at": null,
@@ -699,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "We Were Like",
+        "url": "https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc"
       },
       "artists": [
         {
@@ -708,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Get over Yourself",
-      "url": "https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur"
+      "duration_ms": 180906,
+      "name": "We Were Like",
+      "url": "https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY"
     },
     {
       "added_at": null,
@@ -735,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "Stilettos",
-      "url": "https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -763,6 +767,22 @@
       "duration_ms": 203360,
       "name": "Music",
       "url": "https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "Stilettos",
+      "url": "https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

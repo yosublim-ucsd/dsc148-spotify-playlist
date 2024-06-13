@@ -1,12 +1,12 @@
 {
-  "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19127,
+  "description": "This Is Mr Eazi. Los temas esenciales, todos en una lista.",
+  "num_followers": 19132,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAAB3VxwvM6pBEXJbiCU62Gr9",
+  "snapshot_id": "ZmeTgAAAAAD2Z9LzgPyhaW3Dqxy9t96A",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dance For Me (Eugy X Mr Eazi)",
+        "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Dance For Me (Eugy X Mr Eazi)",
+      "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance For Me (Eugy X Mr Eazi)",
-        "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Dance For Me (Eugy X Mr Eazi)",
-      "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
     },
     {
       "added_at": null,

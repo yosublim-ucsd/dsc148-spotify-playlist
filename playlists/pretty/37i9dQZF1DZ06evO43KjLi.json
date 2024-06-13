@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 20862,
+  "num_followers": 20865,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAADFHdYSGx2CtzKXbeNAcdvD",
+  "snapshot_id": "ZmeTgAAAAABs4h7TI6bBsxG4KJHe+bfd",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 154351,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
+      "duration_ms": 181250,
+      "name": "Yo Se",
+      "url": "https://open.spotify.com/track/5L7CkAus4rvfu0AsqSXH9K"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 181250,
-      "name": "Yo Se",
-      "url": "https://open.spotify.com/track/5L7CkAus4rvfu0AsqSXH9K"
+      "duration_ms": 154351,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ"
     },
     {
       "added_at": null,

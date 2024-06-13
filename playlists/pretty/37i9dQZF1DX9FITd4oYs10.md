@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,928 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,927 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 48 | [Esperar o Sol](https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 3:21 |
 | 49 | [Kyoto](https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Kyoto](https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q) | 3:06 |
 | 50 | [Estilo Vagabundo](https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila](https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj) | [Falcão \- O Bagulho É Doido](https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc) | 5:00 |
-| 51 | [Neurótico de Guerra](https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 3:40 |
-| 52 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
+| 51 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
+| 52 | [Neurótico de Guerra](https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 3:40 |
 | 53 | [Malvadão](https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Damassaclan](https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão](https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq) | 2:29 |
 | 54 | [Dior](https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Dior](https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y) | 3:06 |
 | 55 | [Relação](https://open.spotify.com/track/0LkUf43tCGdwUVBuAssdVD) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Relação](https://open.spotify.com/album/0CU3Cm9HXv6cWv1NxMuqXw) | 3:04 |
 | 56 | [A Música da Mãe](https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [A Música da Mãe](https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp) | 3:38 |
-| 57 | [Reús](https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:03 |
+| 57 | [O Vagabundo e a Dama](https://open.spotify.com/track/5Ct7Q1XhI6J2NThehcgb05) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado](https://open.spotify.com/album/0P8XE4f89zBztayYjJj4pa) | 5:07 |
 | 58 | [Bora Dançar](https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Eletrocardiograma](https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg) | 3:44 |
-| 59 | [O Vagabundo e a Dama](https://open.spotify.com/track/5Ct7Q1XhI6J2NThehcgb05) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Desorientado](https://open.spotify.com/album/0P8XE4f89zBztayYjJj4pa) | 5:07 |
-| 60 | [Facetime](https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Prin$](https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw) | 3:00 |
+| 59 | [Facetime](https://open.spotify.com/track/5JsxOLyWOMbcprA8WsIinN) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Prin$](https://open.spotify.com/album/6kMO9hl1EuG7fVJgCGPpLw) | 3:00 |
+| 60 | [Mandume](https://open.spotify.com/track/7JEFQNPdF5yUePOuTAG5fs) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Muzzike](https://open.spotify.com/artist/2XTtA7Pvl5vucL3oFXlMyT), [Raphão Alaafin](https://open.spotify.com/artist/1OKFuXrEWahihhc9VZ0iSy) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 8:15 |
 
 Snapshot ID: `ZdjdPQAAAAD888dLZwR4wICGkSyHVgUn`

@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Roki Na",
+        "url": "https://open.spotify.com/album/0FpElWb4THBFTJI9kNDUU0"
+      },
+      "artists": [
+        {
+          "name": "Goldie Sohel",
+          "url": "https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199682,
+      "name": "Roki Na",
+      "url": "https://open.spotify.com/track/1W4enKPZmU2iBSTpybXSEn"
+    },
+    {
+      "album": {
         "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
       },

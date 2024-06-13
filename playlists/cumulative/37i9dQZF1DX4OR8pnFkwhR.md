@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: First Love is Never Returned
 
-1,539 songs - 3 day 21 hr 12 min
+1,540 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [All to Myself](https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [All to Myself](https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2) | 3:18 | 2023-06-20 | 2023-09-13 |
 | [alone](https://open.spotify.com/track/3MT2cvsBjP3SahkanbWfsD) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [alone](https://open.spotify.com/album/5mQT5TJ3q9hfYh2UQtPo9i) | 4:20 | 2022-04-07 | 2022-04-29 |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-04-12 | 2022-07-13 |
-| [Amiri Jeans](https://open.spotify.com/track/1JYVoIr970WFaja6ig6sr3) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Amiri Jeans](https://open.spotify.com/album/29Q4jYKHZq0c8lQyjhZfCS) | 3:24 | 2024-04-09 |  |
+| [Amiri Jeans](https://open.spotify.com/track/1JYVoIr970WFaja6ig6sr3) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Amiri Jeans](https://open.spotify.com/album/29Q4jYKHZq0c8lQyjhZfCS) | 3:24 | 2024-04-09 | 2024-06-13 |
 | [And / you](https://open.spotify.com/track/7ecm8hr7HyPz009himM2kI) | [Kouichi Arakawa](https://open.spotify.com/artist/0jjsQnz7M1lFD3vFEWlwSw) | [Late night talking](https://open.spotify.com/album/0pxvbsmcAKroIlXjJp4Luk) | 2:52 | 2022-09-27 | 2022-10-05 |
 | [and i](https://open.spotify.com/track/56cG2g8dIJluJUY26SOCua) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [まちあわせ \- EP](https://open.spotify.com/album/6OI2liQOHd024WUmM1ZAA4) | 3:03 | 2022-05-31 | 2022-06-22 |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
@@ -1314,6 +1314,7 @@
 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 | 2022-05-26 | 2022-07-06 |
 | [常時](https://open.spotify.com/track/4z6WOaHmQH6IB5MiU2ZTOh) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [常時](https://open.spotify.com/album/2Li3hHC5e8JaHC4qJvgmRH) | 4:48 | 2023-10-31 | 2023-11-02 |
 | [平凡](https://open.spotify.com/track/7eVeabv308KnK233LO3OG8) | [ミヤケ武器](https://open.spotify.com/artist/463Nb39aQCqo5DJFqTkHHv) | [平凡](https://open.spotify.com/album/46jjRprxRiD5KSY30STH0V) | 3:55 | 2024-05-01 |  |
+| [幸せと災難](https://open.spotify.com/track/3kHevdk2wXCnW24J8qL1TE) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [誰よりも幸せになれ、報われろアタシ](https://open.spotify.com/album/4AddiZdg0gTeC8V5ao9Yyi) | 4:17 | 2024-06-12 |  |
 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 | 2023-10-07 |
 | [幻想](https://open.spotify.com/track/2RA9HyGBNrstrNhrEpT6v4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [幻想](https://open.spotify.com/album/22x2l2obwaIYjJIx5qwi7l) | 3:03 | 2023-02-21 | 2023-02-23 |
 | [待ち遠しいの!](https://open.spotify.com/track/3F9ZhEcFH1AQbsa6EAUbAY) | [シヴァネコ](https://open.spotify.com/artist/5BlTidgzgtb6VqF10RR0lB) | [ひねもす](https://open.spotify.com/album/0kVKAVsZxnZoUwgW8qt8JQ) | 3:37 | 2022-12-06 | 2023-01-13 |

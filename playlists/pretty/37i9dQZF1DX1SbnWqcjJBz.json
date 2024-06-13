@@ -1,6 +1,6 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 110225,
+  "num_followers": 110283,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Daddy AF",
+        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Daddy AF",
+      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 221205,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/11EDhDAVDtGPoSar6ootYA"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Daddy AF",
-        "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Daddy AF",
-      "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
     },
     {
       "added_at": "2024-06-02 21:23:10",

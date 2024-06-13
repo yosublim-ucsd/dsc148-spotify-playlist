@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg">Year of Dogs</a>
 
-741 songs - 1 day 18 hr 9 min
+742 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Call Me](https://open.spotify.com/track/1NOlini2sVaKWnQ9FS50hP) | [Cailyn Shelby](https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N) | [Call Me](https://open.spotify.com/album/19EEBtPzeF4hOlD5JabhLc) | 2:57 | 2023-07-06 | 2023-08-25 |
 | [Can I Go Away](https://open.spotify.com/track/4sUr5RMYLppzj139NfnWeB) | [Amor Amor](https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm) | [Can I Go Away](https://open.spotify.com/album/1tVJ4wW70gmvFmzcT1RYnt) | 3:11 | 2023-01-19 | 2023-03-10 |
 | [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 | 2023-06-22 | 2023-07-29 |
+| [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 | 2024-06-07 |  |
 | [Can't Stop the Leaves](https://open.spotify.com/track/0XFrvXmBUuO35vVvxiGhig) | [Daniel Gadd](https://open.spotify.com/artist/7yjQG2WkOptNRfNKcZUUOJ) | [Can't Stop the Leaves](https://open.spotify.com/album/0KhcwN64V5kD0XDGOohKa9) | 2:34 | 2023-10-26 | 2023-12-22 |
 | [Cannonball](https://open.spotify.com/track/0s2IQcGz5kqLXWYbEylgzf) | [The World of Birds](https://open.spotify.com/artist/5vtUrecygJ2MBoN3EZgmdC) | [Cannonball](https://open.spotify.com/album/1hU5AwtzXvr19RnrHNOWfB) | 5:30 | 2023-08-24 | 2023-11-18 |
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-02-22 | 2024-03-01 |
@@ -449,7 +450,7 @@
 | [Obvious](https://open.spotify.com/track/3mHiyFqlw2ERmQCiXkmaXM) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/71mcDUoyViKC1i3kmAvJiI) | 4:18 | 2023-11-09 | 2024-01-12 |
 | [Oceans](https://open.spotify.com/track/5RzEFPCI7PkiEi7Bhc1MKx) | [Leia](https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI) | [To Be Me](https://open.spotify.com/album/3p85eD900HAdNqkRlcAX6i) | 1:14 | 2023-12-08 | 2024-01-12 |
 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 | 2023-06-15 | 2023-07-14 |
-| [Off the Ground](https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts Part II](https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC) | 2:45 | 2024-05-23 |  |
+| [Off the Ground](https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts Part II](https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC) | 2:45 | 2024-05-23 | 2024-06-13 |
 | [oh, him](https://open.spotify.com/track/1kGfsJh77SYUEU5UuE0NvW) | [Wishpig](https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3) | [oh, him](https://open.spotify.com/album/37kTqKCc62bTQo2SExnljj) | 3:55 | 2023-05-18 | 2023-07-07 |
 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 | 2024-05-23 |  |
 | [Old Kid](https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Old Kid](https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt) | 3:29 | 2024-05-03 |  |

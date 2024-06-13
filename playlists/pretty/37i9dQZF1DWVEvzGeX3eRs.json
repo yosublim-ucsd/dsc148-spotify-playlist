@@ -1,6 +1,6 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2591465,
+  "num_followers": 2591540,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "The Lady in My Life",
-      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Three for Love",
         "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 304000,
       "name": "This Is for the Lover in You",
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "The Lady in My Life",
+      "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
     },
     {
       "added_at": "2023-02-02 23:22:15",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
     },
     {
-      "added_at": "2023-02-02 23:22:15",
-      "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 320360,
-      "name": "Forever My Lady",
-      "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Lose Control",
@@ -347,6 +331,22 @@
       "duration_ms": 274533,
       "name": "Freak Me",
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
+    },
+    {
+      "added_at": "2023-02-02 23:22:15",
+      "album": {
+        "name": "Forever My Lady",
+        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 320360,
+      "name": "Forever My Lady",
+      "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
     },
     {
       "added_at": "2023-02-02 23:04:07",

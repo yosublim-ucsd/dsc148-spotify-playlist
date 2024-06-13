@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Welcome to the BTS's universe\. A.R.M.Y is unbeatable 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,802,378 likes - 262 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,802,853 likes - 262 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

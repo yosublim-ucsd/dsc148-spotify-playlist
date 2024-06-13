@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE8LjSfhK2S.md) - [plain]
 
 > He's back by popular demand...Listen to the music from Beverly Hills Cop ahead of Beverly Hills Cop: Axel F, coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 23 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 23 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

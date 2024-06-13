@@ -2,7 +2,7 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica con Trueno.
+> Éxitos urbanos de Latinoamérica con El Malilla.
 
 892 songs - 2 day 1 hr 20 min
 

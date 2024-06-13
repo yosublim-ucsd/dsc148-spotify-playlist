@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 158490,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 123500,
       "name": "Carpology",
       "url": "https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1"
@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "First And Foremost",
+        "url": "https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ"
+      },
+      "artists": [
+        {
+          "name": "Amaury Arceneaux",
+          "url": "https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "First And Foremost",
+      "url": "https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2"
+    },
+    {
+      "album": {
         "name": "Flying Wireless",
         "url": "https://open.spotify.com/album/5vR779W9Z1GkqQatPy1Ti5"
       },
@@ -1028,6 +1046,24 @@
       "duration_ms": 177416,
       "name": "Forest Meditation",
       "url": "https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId"
+    },
+    {
+      "album": {
+        "name": "Green Andante",
+        "url": "https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Plausible",
+          "url": "https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI"
+        }
+      ],
+      "date_added": "2024-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Foresta Andante",
+      "url": "https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX"
     },
     {
       "album": {

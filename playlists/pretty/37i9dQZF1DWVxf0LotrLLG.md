@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,143 likes - 371 songs - 19 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,147 likes - 371 songs - 19 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,9 +256,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 246 | [Verona](https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Sobrenatural](https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41) | 3:42 |
 | 247 | [Feeling Low](https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Feeling Low](https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j) | 3:41 |
 | 248 | [Perdón](https://open.spotify.com/track/0X1rzEkRPq2NTNizARWYxm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Sobrenatural](https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41) | 2:38 |
-| 249 | [Nada Me Falta](https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:20 |
-| 250 | [Confía](https://open.spotify.com/track/5TsEZ02AJ9TSNlCejZxUd1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 4:02 |
-| 251 | [Bless Mode](https://open.spotify.com/track/2xYxG1Obz21lR7CybGvVKR) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 2:32 |
+| 249 | [Nada Me Falta](https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:20 |
+| 250 | [Confía](https://open.spotify.com/track/5TsEZ02AJ9TSNlCejZxUd1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 4:02 |
+| 251 | [Bless Mode](https://open.spotify.com/track/2xYxG1Obz21lR7CybGvVKR) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 2:32 |
 | 252 | [5 > 1](https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Baladas Tatuadas Vol\. 1](https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8) | 3:12 |
 | 253 | [ya se que quiero, ya se que no \(feat\. Jeeiph\)](https://open.spotify.com/track/7D0ajxfWKAfCa5U98X9lgg) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Baladas Tatuadas Vol\. 1](https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8) | 3:00 |
 | 254 | [NTGES \(feat\. MARI\)](https://open.spotify.com/track/3fvUtWiUsaC1g3pGB1ZSK6) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [Baladas Tatuadas Vol\. 1](https://open.spotify.com/album/5EGaYkNFCmG09BkbSYoXS8) | 2:45 |

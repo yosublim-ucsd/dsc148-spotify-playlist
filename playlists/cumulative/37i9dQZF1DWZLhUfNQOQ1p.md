@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-379 songs - 1 day 1 hr 33 min
+380 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [The Player](https://open.spotify.com/track/1CMYaclBw1oZTwivt0Z8Si) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 4:04 | 2023-05-14 | 2023-05-30 |
 | [The Same](https://open.spotify.com/track/3ncJhUV2qVs2GZJFeTZY3S) | [Soul to Speak](https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd) | [The Same](https://open.spotify.com/album/3UNlgvakgvIGcdwFuQiAWy) | 8:18 | 2021-08-05 | 2022-06-19 |
 | [The Semimodular Bird of Jazz](https://open.spotify.com/track/30w0Ow2tuaZL26ep5pEn2M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Wait on Me EP](https://open.spotify.com/album/00t0zeNG6lLjFxtrwQSfzc) | 4:49 | 2023-07-21 |  |
-| [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2023-10-30 |  |
+| [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2023-10-30 | 2024-06-13 |
 | [The Strolling Cat](https://open.spotify.com/track/6NrkR6O4lunnPdW8NUXjoC) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Oh Baby — The Strolling Cat](https://open.spotify.com/album/7nzEV1BJm9za8L9kU58RrW) | 4:13 | 2021-08-05 | 2022-07-29 |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2023-05-30 |  |
 | [The Way You Say \- LP Giobbi Remix](https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Way You Say \(Remixes\)](https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ) | 2:55 | 2023-05-30 |  |
@@ -386,6 +386,7 @@
 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 | 2024-05-19 | 2024-06-03 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-06-07 |  |
 | [You Feel Me](https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [You Feel Me](https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB) | 3:33 | 2023-08-11 |  |
+| [You Luv Me](https://open.spotify.com/track/1MzJiroVd2f9CmwNZPxxAv) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [You Luv Me](https://open.spotify.com/album/6qZTG4OV8ah48eqvZnWkNw) | 4:08 | 2024-06-12 |  |
 | [Zodiacs \- Digitally Remastered](https://open.spotify.com/track/64vmxpTHTMAwDlOfB8lQs5) | [Roberta Kelly](https://open.spotify.com/artist/3DMQA5X4ZA8Lu36nDv3k8F) | [Trouble Maker \(Digitally Remastered Version\)](https://open.spotify.com/album/6byW9Ji5U7TBL9hcFTPJXs) | 5:09 | 2023-05-14 | 2023-05-30 |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

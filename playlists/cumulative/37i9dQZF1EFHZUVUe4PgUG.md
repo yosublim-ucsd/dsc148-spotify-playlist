@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 8 hr 18 min
+157 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [La Grosera](https://open.spotify.com/track/6u6m9vEfEGjspOT69PcZYL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Grosera \(Official Video\)](https://open.spotify.com/album/1cdgDVayQc3svaRL16HE7p) | 2:53 | 2023-12-13 | 2024-01-31 |
 | [La Mentira \(feat\. Joaquín Sabina\)](https://open.spotify.com/track/6b230QKlluW1wgkexEAjBa) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Que Me Dé la Gana](https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL) | 2:57 | 2022-06-04 |  |
 | [La Moto](https://open.spotify.com/track/1UBt22GcEFyXgJxJT4SVKT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:12 | 2022-06-04 |  |
+| [La OG](https://open.spotify.com/track/2aNlp2w1uC1w24FdieBc9F) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:04 | 2024-06-12 |  |
 | [Ladrona \(feat\. Carolina Mestrovic\)](https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Carolina Mestrovic](https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 2:57 | 2022-06-04 |  |
 | [LENTO](https://open.spotify.com/track/4sTyc7dnCKBq7TaoNFlwzX) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 2:54 | 2022-09-14 |  |
 | [Lento](https://open.spotify.com/track/31dIPeytivJSNsEqeyVyfW) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:36 | 2022-06-04 |  |

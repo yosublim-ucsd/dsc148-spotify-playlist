@@ -7576,7 +7576,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 236000,
       "name": "Elyne Road",
       "url": "https://open.spotify.com/track/4BaXtyWayfOjvGRZQn1wJe"
@@ -9416,7 +9416,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 220068,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
@@ -10336,6 +10336,24 @@
       "duration_ms": 325023,
       "name": "Heaven Is 10 Zillion Light Years Away",
       "url": "https://open.spotify.com/track/7Dr9NpeKXu5RtuDgeFBc3s"
+    },
+    {
+      "album": {
+        "name": "Heliosphere",
+        "url": "https://open.spotify.com/album/5yhYGF4fi9pIJv0xsTjjpn"
+      },
+      "artists": [
+        {
+          "name": "Kinkajous",
+          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268955,
+      "name": "Heliosphere",
+      "url": "https://open.spotify.com/track/3DS8flG3LN48rhvuFjRKWL"
     },
     {
       "album": {
@@ -18090,7 +18108,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 319215,
       "name": "OSTATNI",
       "url": "https://open.spotify.com/track/7kTnJ6LGDGLlsLwRGjGTAs"
@@ -21667,6 +21685,28 @@
     },
     {
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/53Q449Vc6oGxwa8IM5XfeW"
+      },
+      "artists": [
+        {
+          "name": "Luis Tovar",
+          "url": "https://open.spotify.com/artist/5hMyyvOONEry9KRHzTt9Uo"
+        },
+        {
+          "name": "Sabrina Naz",
+          "url": "https://open.spotify.com/artist/7F1RJOxXHppCCJTYnTbLGR"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113571,
+      "name": "Simmer Up",
+      "url": "https://open.spotify.com/track/5U8OTyD30HJb8DIhKDcVHn"
+    },
+    {
+      "album": {
         "name": "Approximation",
         "url": "https://open.spotify.com/album/2UXfDOVBehuL586SUd3CPo"
       },
@@ -22082,6 +22122,28 @@
       "duration_ms": 392038,
       "name": "SNACKMFTIME",
       "url": "https://open.spotify.com/track/5X8Hhh47bceycmhEwOfSZH"
+    },
+    {
+      "album": {
+        "name": "Snakia",
+        "url": "https://open.spotify.com/album/36xO0kFY01gpEnc5IwGVSX"
+      },
+      "artists": [
+        {
+          "name": "Gerald Bailey",
+          "url": "https://open.spotify.com/artist/0ZKZwZhlCV6E3RSS2X66zx"
+        },
+        {
+          "name": "David Agee",
+          "url": "https://open.spotify.com/artist/4kU46LIffx1I6aN9t4gvFS"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157369,
+      "name": "Snakia",
+      "url": "https://open.spotify.com/track/2IL4rTBBgxC3FOhEcFYKie"
     },
     {
       "album": {

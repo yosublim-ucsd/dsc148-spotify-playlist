@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-2,030 songs - 4 day 13 hr 23 min
+2,031 songs - 4 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Baby, It's Cold Outside](https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:23 | 2021-12-24 | 2021-12-27 |
 | [Baby, It's Cold Outside \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:53 | 2021-12-25 | 2023-12-27 |
 | [Bacardi](https://open.spotify.com/track/5Pv30HUjEWa0CGbfWkX4me) | [Marcara](https://open.spotify.com/artist/465ntuGcUqEu6zb54NLwuu) | [Bacardi](https://open.spotify.com/album/3dlUowXttdlWpFrRKsWxGp) | 3:13 | 2021-05-21 | 2022-02-08 |
+| [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2024-06-12 |  |
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-07-08 | 2023-07-10 |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-12 | 2024-02-16 |
 | [BACK TO ME](https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:55 | 2024-02-15 | 2024-02-26 |
@@ -1000,7 +1001,7 @@
 | [Luchtballon](https://open.spotify.com/track/024pThriWXJRFgGQuixYs7) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luchtballon](https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT) | 2:16 | 2024-06-06 |  |
 | [Luktelk](https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ) | 2:41 | 2024-05-16 | 2024-05-26 |
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-05-09 | 2024-05-17 |
-| [Luktelk](https://open.spotify.com/track/5cVMsMEgeJXghVqWv7wrGl) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6KE3Dun7Ey66uVoIlujVYz) | 2:41 | 2024-05-25 |  |
+| [Luktelk](https://open.spotify.com/track/5cVMsMEgeJXghVqWv7wrGl) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6KE3Dun7Ey66uVoIlujVYz) | 2:41 | 2024-05-25 | 2024-06-13 |
 | [LUMBERJACK](https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:18 | 2021-06-27 | 2021-07-02 |
 | [LUMBERJACK](https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [LUMBERJACK](https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e) | 2:18 | 2021-06-19 | 2021-06-21 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 |  |

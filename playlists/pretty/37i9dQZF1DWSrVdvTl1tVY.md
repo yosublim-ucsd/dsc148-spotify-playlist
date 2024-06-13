@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! MK
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,501 likes - 118 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,512 likes - 118 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Amenazzy y NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,018 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,126 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 15 | [Ahora Soy Adicto](https://open.spotify.com/track/3vDpT45rMxGPj6VBzEPthM) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Ahora Soy Adicto](https://open.spotify.com/album/4FkLsuHSItVHILvbvLe6ul) | 2:49 |
 | 16 | [Sola](https://open.spotify.com/track/0kZbV316U2yIdTfAZs7Nm6) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Sola](https://open.spotify.com/album/3KtmjzfeJ4gHdTdIwEOZSM) | 3:40 |
 | 17 | [Tiki Tiki](https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl) | [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2), [Yeral El De Lo Palo](https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb) | [Tiki Tiki](https://open.spotify.com/album/17Hmvcc0QZCowX7ut7D2Td) | 2:01 |
-| 18 | [ASI SON](https://open.spotify.com/track/32QRZ9IiNW5Bgx0VGjDyNa) | [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [ASI SON](https://open.spotify.com/album/3gADTEzUGd80wmlfQ2SbtA) | 1:46 |
+| 18 | [ASI SON](https://open.spotify.com/track/32QRZ9IiNW5Bgx0VGjDyNa) | [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC), [Eklectico Diablo](https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK) | [ASI SON](https://open.spotify.com/album/3gADTEzUGd80wmlfQ2SbtA) | 1:46 |
 | 19 | [Ellos Vienen Ellos Van \- Remix](https://open.spotify.com/track/6OrYFEipXhLOZPHonr62mU) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Loco Prieto Oficial](https://open.spotify.com/artist/4lpMINWZQ39N9joHJFmgDE), [Mapa Negro](https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO) | [Ellos Vienen Ellos Van \(Remix\)](https://open.spotify.com/album/2OaIGw5SeTQEX3B17k3wF0) | 2:04 |
 | 20 | [Ante](https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Ante](https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La) | 2:05 |
 | 21 | [Si Tu Quieres](https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Si Tu Quieres](https://open.spotify.com/album/5B24tq54Yl9gCYrqHW0Idz) | 2:30 |

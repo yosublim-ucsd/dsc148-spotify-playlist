@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 ### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
 
-> This is Black Coffee\. The essential tracks, all in one playlist.
+> This Is Black Coffee\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,268 likes - 49 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,335 likes - 49 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 48 | [Never Saw You Coming \(feat\. Tsepo\) \- DJ Spinna Galactic Vocal Mix](https://open.spotify.com/track/12NDXliaBBgklpBNkUlyVI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tsepo](https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt), [DJ Spinna](https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc) | [Never Saw You Coming \(feat\. Tsepo\)](https://open.spotify.com/album/7o2ey4eoyW8t7H9dHux8He) | 8:28 |
 | 49 | [Buya](https://open.spotify.com/track/7qP4NNGSSJEDL0rXplo2vZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:25 |
 
-Snapshot ID: `ZmZCAAAAAAC4l/kkeO74ZVjkuNtvmU8N`
+Snapshot ID: `ZmeTgAAAAAAALs5LLksBGYrR+Pne1Ar1`

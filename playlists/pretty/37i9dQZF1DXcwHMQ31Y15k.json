@@ -1,12 +1,12 @@
 {
   "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: OMWAWES",
-  "num_followers": 192198,
+  "num_followers": 192324,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmh0CQAAAAA3FXkRQ6qjGctM2rFPm3cf",
+  "snapshot_id": "ZmpEPAAAAADNe/2ZmjxIoqaF18esx/Ir",
   "tracks": [
     {
       "added_at": "2024-06-06 23:12:27",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/0uF0r2nmmM90FefkgsbZ63"
     },
     {
+      "added_at": "2024-06-13 00:58:36",
+      "album": {
+        "name": "Pasukan Anti Prei",
+        "url": "https://open.spotify.com/album/3S9MsMqFeQaov7XIsVVfm8"
+      },
+      "artists": [
+        {
+          "name": "NDX A.K.A.",
+          "url": "https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD"
+        }
+      ],
+      "duration_ms": 270102,
+      "name": "Pasukan Anti Prei",
+      "url": "https://open.spotify.com/track/0dsFfIJm5bnQJFcSprA9DN"
+    },
+    {
       "added_at": "2024-06-06 23:12:27",
       "album": {
         "name": "Saktenane 2",
@@ -143,6 +159,22 @@
       "duration_ms": 363000,
       "name": "Saktenane 2",
       "url": "https://open.spotify.com/track/4eotObB3STP9JwjGW6QbWW"
+    },
+    {
+      "added_at": "2024-06-13 00:58:36",
+      "album": {
+        "name": "LDR (Langgeng Dayaning Rasa)",
+        "url": "https://open.spotify.com/album/4ITnDH8RzNDF8kULSyuoXA"
+      },
+      "artists": [
+        {
+          "name": "Niken Salindry",
+          "url": "https://open.spotify.com/artist/3UTo1Lyi2ZuZMURMX9DbUv"
+        }
+      ],
+      "duration_ms": 299725,
+      "name": "LDR (Langgeng Dayaning Rasa)",
+      "url": "https://open.spotify.com/track/4nBsCOuBcfBRySw8vjmk0D"
     },
     {
       "added_at": "2024-06-06 23:12:27",

@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Sk8er Boi (Acoustic)",
+        "url": "https://open.spotify.com/album/65A1NOcJVODQovfVI3hQOX"
+      },
+      "artists": [
+        {
+          "name": "Cloudsmiff",
+          "url": "https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155413,
+      "name": "Sk8er Boi - Acoustic",
+      "url": "https://open.spotify.com/track/2sMcfmeQgoLAxnVKxEtIUM"
+    },
+    {
+      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Nubiyan Twist",
-  "num_followers": 312799,
+  "num_followers": 312821,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,18 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "I\u2019ll Do Whatever You Want",
-        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
       "artists": [
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        },
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 463080,
-      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
-      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+      "duration_ms": 200000,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -423,6 +415,22 @@
       "duration_ms": 271826,
       "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
       "url": "https://open.spotify.com/track/6ToLDO9Mh5nV4UvAgIDo3W"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Freudian Slips",
+        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Freudian Slips",
+      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -451,34 +459,26 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Undone",
-        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
+        "name": "I\u2019ll Do Whatever You Want",
+        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "Freudian Slips",
-        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
-      },
-      "artists": [
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
         }
       ],
-      "duration_ms": 163516,
-      "name": "Freudian Slips",
-      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "So Mi Stay",
-        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 263160,
-      "name": "So Mi Stay",
-      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 175635,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "So Mi Stay",
+        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 263160,
+      "name": "So Mi Stay",
+      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
         "name": "Funeka",
         "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 243000,
       "name": "Funeka",
       "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -887,6 +887,42 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Annie's Tune",
+        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Annie's Tune",
+      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
       },
@@ -923,26 +959,6 @@
       "duration_ms": 195132,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/3DYIUnrZVtOrRz4E3hwu5Q"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "Annie's Tune",
-        "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Annie's Tune",
-      "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Sample The Sky",
-        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 247102,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 181124,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Sample The Sky",
+        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 247102,
+      "name": "Light Years",
+      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -1075,22 +1091,34 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "The Liminality of Her",
-        "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
+        "name": "Infinite Reflections",
+        "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
       },
       "artists": [
         {
-          "name": "Amanda Whiting",
-          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
         },
         {
-          "name": "PEACH.",
-          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
+          "name": "Uniri",
+          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
+        },
+        {
+          "name": "Aman\u00e9 Suganami",
+          "url": "https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT"
+        },
+        {
+          "name": "Al MacSween",
+          "url": "https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu"
+        },
+        {
+          "name": "Luke Wynter",
+          "url": "https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk"
         }
       ],
-      "duration_ms": 176874,
-      "name": "Rite of Passage",
-      "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
+      "duration_ms": 257624,
+      "name": "Outer Sea",
+      "url": "https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -1127,50 +1155,38 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Infinite Reflections",
-        "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
+        "name": "The Liminality of Her",
+        "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
       },
       "artists": [
         {
-          "name": "Chiminyo",
-          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+          "name": "Amanda Whiting",
+          "url": "https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5"
         },
         {
-          "name": "Uniri",
-          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
-        },
-        {
-          "name": "Aman\u00e9 Suganami",
-          "url": "https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT"
-        },
-        {
-          "name": "Al MacSween",
-          "url": "https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu"
-        },
-        {
-          "name": "Luke Wynter",
-          "url": "https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk"
+          "name": "PEACH.",
+          "url": "https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6"
         }
       ],
-      "duration_ms": 257624,
-      "name": "Outer Sea",
-      "url": "https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf"
+      "duration_ms": 176874,
+      "name": "Rite of Passage",
+      "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
     },
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
         }
       ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+        "name": "angel numbers",
+        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
       },
       "artists": [
         {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
         }
       ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
+      "duration_ms": 149968,
+      "name": "angel numbers",
+      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
-        "name": "angel numbers",
-        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
-      },
-      "artists": [
-        {
-          "name": "MaZz",
-          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
-        }
-      ],
-      "duration_ms": 149968,
-      "name": "angel numbers",
-      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
     },
     {
       "added_at": "2024-06-06 23:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "Mississippi Goddam",
-        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
-      },
-      "artists": [
-        {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
-        }
-      ],
-      "duration_ms": 211030,
-      "name": "Mississippi Goddam",
-      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
-    },
-    {
-      "added_at": "2024-06-06 23:00:00",
-      "album": {
         "name": "Be Myself",
         "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
       },
@@ -1383,18 +1367,34 @@
     {
       "added_at": "2024-06-06 23:00:00",
       "album": {
-        "name": "In The Fire",
-        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+        "name": "Mississippi Goddam",
+        "url": "https://open.spotify.com/album/6RxEkkZCUtNwCvFsv2pm97"
       },
       "artists": [
         {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
         }
       ],
-      "duration_ms": 237046,
-      "name": "In The Fire",
-      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
+      "duration_ms": 211030,
+      "name": "Mississippi Goddam",
+      "url": "https://open.spotify.com/track/4Wt6CQv405BTx52dHQbxPn"
+    },
+    {
+      "added_at": "2024-06-06 23:00:00",
+      "album": {
+        "name": "Unlikely",
+        "url": "https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Unlikely",
+      "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
     }
   ],
   "unique_name": "Jazz UK",

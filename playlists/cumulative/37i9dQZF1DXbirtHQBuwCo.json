@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "DOMINO",
+        "url": "https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "DOMINO",
+      "url": "https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4"
+    },
+    {
+      "album": {
         "name": "DON'T",
         "url": "https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm"
       },
@@ -4656,6 +4674,32 @@
       "duration_ms": 155280,
       "name": "First kiss (Feat. Sonny zero, Harms)",
       "url": "https://open.spotify.com/track/1wInZv0I7D0EDrgfSRnC33"
+    },
+    {
+      "album": {
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157573,
+      "name": "First Meeting (Feat. Moon Sujin, BE\u2032O)",
+      "url": "https://open.spotify.com/track/4Dpe82AV83yN9dS8Fn0KgK"
     },
     {
       "album": {
@@ -6272,6 +6316,28 @@
       "duration_ms": 168800,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
+    },
+    {
+      "album": {
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "In the mornin\u2019 (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/4FSb18hJmdMsaxu2hCo7yb"
     },
     {
       "album": {
@@ -7908,7 +7974,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 207493,
       "name": "Make Up (Feat. Crush)",
       "url": "https://open.spotify.com/track/19zsSUEuJNzNA6eqInqyF9"
@@ -13898,7 +13964,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"

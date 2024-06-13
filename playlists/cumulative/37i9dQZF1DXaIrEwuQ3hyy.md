@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaIrEwuQ3hyy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaIrEwuQ3hyy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaIrEwuQ3hyy)
 
-### [Frühlings Chillout](https://open.spotify.com/playlist/37i9dQZF1DXaIrEwuQ3hyy)
+### [Sommer Chillout](https://open.spotify.com/playlist/37i9dQZF1DXaIrEwuQ3hyy)
 
-> Wenn die Tage länger werden und die Luft wärmer \- diese Tracks begleiten dich in den Frühling.
+> Klingt nach Sonne + Meer, egal wo du bist.
 
 171 songs - 9 hr 47 min
 

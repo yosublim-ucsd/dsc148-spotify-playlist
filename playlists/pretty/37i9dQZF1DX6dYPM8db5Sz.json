@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj?si=FUu68y5zTUi3z0mgiu4pjg\">Year of Dogs</a> ",
-  "num_followers": 11709,
+  "num_followers": 11710,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Mangaliso",
-        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
-      },
-      "artists": [
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 231625,
-      "name": "Ndokulandela",
-      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
-    },
-    {
       "added_at": "2024-06-07 07:56:34",
       "album": {
         "name": "So Cold",
@@ -483,6 +467,22 @@
       "duration_ms": 201133,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Mangaliso",
+        "url": "https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 231625,
+      "name": "Ndokulandela",
+      "url": "https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS"
     },
     {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "ROLE MODEL",
@@ -557,22 +573,6 @@
       "url": "https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS"
     },
     {
-      "added_at": "2024-06-07 07:56:34",
-      "album": {
-        "name": "Piano Hands",
-        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Piano Hands",
-      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
-    },
-    {
       "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "honey~",
@@ -587,22 +587,6 @@
       "duration_ms": 118500,
       "name": "honey~",
       "url": "https://open.spotify.com/track/1IIePMaPIEFwMu9EBQa26v"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Another Day",
-        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 136216,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -623,18 +607,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
+      "duration_ms": 136216,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -651,6 +635,22 @@
       "duration_ms": 110738,
       "name": "Motorola Money",
       "url": "https://open.spotify.com/track/5r9N2Z8MjZf1kWjH8azEai"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 144260,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
-    },
-    {
       "added_at": "2024-06-07 07:56:34",
       "album": {
         "name": "Dirty Girls",
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 144260,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "Old Kid",
         "url": "https://open.spotify.com/album/3yh2CyzlRRlhaUl8fHNxKt"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 209353,
       "name": "Old Kid",
       "url": "https://open.spotify.com/track/2AoTAhf4T80mu8VsAwf6KP"
+    },
+    {
+      "added_at": "2024-06-07 07:56:34",
+      "album": {
+        "name": "can't stand it",
+        "url": "https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "can't stand it",
+      "url": "https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -803,26 +819,6 @@
       "duration_ms": 287200,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Synthetic Hearts Part II",
-        "url": "https://open.spotify.com/album/11IYyNZlNK4oHdMv0mnOIC"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Tubatsi Mpho Moloi",
-          "url": "https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65"
-        }
-      ],
-      "duration_ms": 165266,
-      "name": "Off the Ground",
-      "url": "https://open.spotify.com/track/2qJcicPo16Mzhnx98Ugf6p"
     },
     {
       "added_at": "2024-05-31 03:54:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Silent Bob in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,523 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,537 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

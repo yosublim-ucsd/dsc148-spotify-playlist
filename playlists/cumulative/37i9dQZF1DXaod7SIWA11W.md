@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:0sD8Amms4kSxs5tBV4CUmR">Smokie Norful</a>
 
-363 songs - 22 hr 2 min
+364 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2022-06-01 | 2022-09-03 |
 | [Fall Back](https://open.spotify.com/track/5tKkyk6FPsNfBUMyT3A3JF) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [Dante' Pride](https://open.spotify.com/artist/2v3KGsTtvQXwQHOMvqtkKS) | [Fall Back](https://open.spotify.com/album/1HaA6TrRiVF8wXl4wqCTAe) | 2:11 | 2024-02-02 |  |
 | [Father Forgive Us](https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [D Brooks the President](https://open.spotify.com/artist/1AOGtSA48BMCuUH2XYWchk) | [Father Forgive Us](https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3) | 3:39 | 2022-07-17 | 2022-09-03 |
+| [Father's Hands](https://open.spotify.com/track/2SeSqnyrdeBG4J3DDKdxSo) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Father's Hands](https://open.spotify.com/album/1BjbrQF7U5F7A6x5Qsv4OE) | 2:40 | 2024-06-07 |  |
 | [Favorite Trapper](https://open.spotify.com/track/6ELsXVHVwBNS81g4CXiXle) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Favorite Trapper](https://open.spotify.com/album/0OOX0GDbvpMpAYZEyqM1RJ) | 2:26 | 2023-12-15 | 2024-02-03 |
 | [Feel Alright \(Blessed\)](https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Feel Alright \(Blessed\)](https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F) | 4:31 | 2023-02-02 | 2023-07-14 |
 | [Ficky Ficky](https://open.spotify.com/track/0GDBvTELLm5ujaYzAqZebd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Ficky Ficky](https://open.spotify.com/album/7udGdBV98HP5C7vvtKDnKF) | 1:44 | 2022-12-16 | 2023-07-14 |
@@ -290,7 +291,7 @@
 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-01 | 2023-07-14 |
 | [Start Over](https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p) | [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX) | [Start Over](https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr) | 3:22 | 2022-02-18 | 2023-12-13 |
 | [Stay Here](https://open.spotify.com/track/6mL8VhVRDTW0KBByMD0TTo) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Stay Here](https://open.spotify.com/album/1TskaKoRAEdH7vsxINxS9o) | 3:16 | 2022-02-18 | 2022-10-01 |
-| [Steady](https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Steady](https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2) | 3:46 | 2023-11-02 |  |
+| [Steady](https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Steady](https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2) | 3:46 | 2023-11-02 | 2024-06-13 |
 | [Still Here](https://open.spotify.com/track/2cuI3ZFQxp92Lw2Udgwucw) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Still Here](https://open.spotify.com/album/5CX6SJZM34BEFTBujK9T9i) | 2:55 | 2024-06-07 |  |
 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 | 2022-12-16 | 2023-07-14 |
 | [Stone](https://open.spotify.com/track/1Ugp9UQyfz25y1JPA2z0pu) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Stone](https://open.spotify.com/album/580JJVevsUusyRA0qKo2MM) | 4:07 | 2022-02-27 | 2022-06-01 |

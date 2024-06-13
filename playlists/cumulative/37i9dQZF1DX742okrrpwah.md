@@ -4,7 +4,7 @@
 
 > Pierre Garnier au top des nouveautés de la semaine !
 
-571 songs - 1 day 5 hr 38 min
+572 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Perdants magnifiques](https://open.spotify.com/track/3nKBUKJiHCFNtcRZ1pPuqS) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [L'aube d'un nouveau jour](https://open.spotify.com/album/5FZVjIZoYfNxAl3XBqDqh3) | 3:15 | 2024-05-30 | 2024-06-07 |
 | [Perdre la tête](https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Perdre la tête](https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ) | 3:23 | 2024-04-25 | 2024-05-03 |
 | [Perfect Revenge](https://open.spotify.com/track/7eh46uUIwMCTs0XoU3Xm42) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Perfect Revenge](https://open.spotify.com/album/5Fmcrqw6XJEVeZ0YQ08Wnz) | 2:53 | 2024-06-06 |  |
+| [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-06-06 |  |
 | [Petite gueule](https://open.spotify.com/track/1KceWs92cxNJjxiBi8VR7m) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Lovelace](https://open.spotify.com/artist/2enPsIhjzgL3ANKtBhXgtK) | [Petite gueule](https://open.spotify.com/album/6Nna3FXAnXi3yl12aIxWjI) | 2:45 | 2024-05-02 | 2024-05-10 |
 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 | 2024-05-30 | 2024-06-07 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19095,
+  "num_followers": 19102,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAADecYFR1B6B4CtY1TsJ2+uY",
+  "snapshot_id": "ZmeTgAAAAABdQzqtQoKiCiR9zT4c9C/3",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Abrigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 299746,
       "name": "Meu Abrigo - Ao Vivo",
       "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz da Luz",
-        "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
-      },
-      "artists": [
-        {
-          "name": "Lagoinha Music",
-          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 637600,
-      "name": "Manto de Cristo",
-      "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 499742,
       "name": "Eu Canto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luz da Luz",
+        "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
+      },
+      "artists": [
+        {
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 637600,
+      "name": "Manto de Cristo",
+      "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
     },
     {
       "added_at": null,

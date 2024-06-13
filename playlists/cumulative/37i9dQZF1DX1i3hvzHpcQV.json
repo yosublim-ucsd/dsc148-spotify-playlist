@@ -1677,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "Nenjin Ezhuth",
+        "url": "https://open.spotify.com/album/4gwvLFWCnLtWvGHpW5SUoV"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Krishnan N",
+          "url": "https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG"
+        },
+        {
+          "name": "Vidya Lakshmi G",
+          "url": "https://open.spotify.com/artist/3lzErVdKehpglGTvEUwDH8"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229399,
+      "name": "Nenjin Ezhuth",
+      "url": "https://open.spotify.com/track/7Et1EN5V7xAyPjYOk8nSh3"
+    },
+    {
+      "album": {
         "name": "Vikram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
       },

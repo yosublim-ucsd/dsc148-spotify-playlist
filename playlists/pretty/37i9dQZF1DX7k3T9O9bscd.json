@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 520985,
+  "num_followers": 521081,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 285308,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
-      },
-      "artists": [
-        {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        }
-      ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+      },
+      "artists": [
+        {
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+        }
+      ],
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "The Revolt Against Tired Noises",
-        "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
       },
       "artists": [
         {
-          "name": "Yawning Man",
-          "url": "https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 321906,
-      "name": "Black Kite",
-      "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -707,18 +707,34 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "No Way In",
-        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+        "name": "The Revolt Against Tired Noises",
+        "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
       },
       "artists": [
         {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+          "name": "Yawning Man",
+          "url": "https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe"
         }
       ],
-      "duration_ms": 246125,
-      "name": "No Way In",
-      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
+      "duration_ms": 321906,
+      "name": "Black Kite",
+      "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -735,6 +751,22 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -767,38 +799,6 @@
       "duration_ms": 232444,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "An Cnoc M\u00f3r",
-        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
-      },
-      "artists": [
-        {
-          "name": "Moundabout",
-          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
-        }
-      ],
-      "duration_ms": 515435,
-      "name": "Instinct, Eye and Mind",
-      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
         "name": "World's Most Stressed Out Gardener",
         "url": "https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 239804,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
+        "name": "An Cnoc M\u00f3r",
+        "url": "https://open.spotify.com/album/5SHAueNfvUkFGaD2uh3fmp"
+      },
+      "artists": [
+        {
+          "name": "Moundabout",
+          "url": "https://open.spotify.com/artist/1Bx8PsKhqwixBmGYesbG5l"
+        }
+      ],
+      "duration_ms": 515435,
+      "name": "Instinct, Eye and Mind",
+      "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
+      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
         "name": "Myths 003",
         "url": "https://open.spotify.com/album/6SDif8qBXlDDEOft27h7ik"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
-      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
         "name": "Non Ex Orbis",
         "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 486860,
       "name": "Mother Seletta",
       "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0ZaexXPVwgJtoglTfM8BmJ"
-      },
-      "artists": [
-        {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
-        }
-      ],
-      "duration_ms": 187489,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5TnFIK9vAlwghuzl3A3rKo"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
-        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0ZaexXPVwgJtoglTfM8BmJ"
       },
       "artists": [
         {
-          "name": "Oru\u00e3",
-          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
         }
       ],
-      "duration_ms": 328404,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
+      "duration_ms": 187489,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5TnFIK9vAlwghuzl3A3rKo"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "Mourir Demain",
-        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
+        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
+        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
       },
       "artists": [
         {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+          "name": "Oru\u00e3",
+          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
         }
       ],
-      "duration_ms": 207922,
-      "name": "Mourir Demain",
-      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
+      "duration_ms": 328404,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -1451,6 +1435,22 @@
       "duration_ms": 242000,
       "name": "EL ELIXIR DE TUS LABIOS",
       "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
+        "name": "Mourir Demain",
+        "url": "https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 207922,
+      "name": "Mourir Demain",
+      "url": "https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "Taste of Blood",
-        "url": "https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn"
-      },
-      "artists": [
-        {
-          "name": "My Expansive Awareness",
-          "url": "https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "God of Sun",
-      "url": "https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
         "name": "Wake Up You! The Rise and Fall of Nigerian Rock, Vol. 2 (1972-1977)",
         "url": "https://open.spotify.com/album/3zZuLdz9sW9gtjats12PkN"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
+        "name": "Taste of Blood",
+        "url": "https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn"
+      },
+      "artists": [
+        {
+          "name": "My Expansive Awareness",
+          "url": "https://open.spotify.com/artist/2b1Y52tNwOd5SczAeqw9ND"
+        }
+      ],
+      "duration_ms": 269799,
+      "name": "God of Sun",
+      "url": "https://open.spotify.com/track/3Qpjde6a9mDtRjci5lLcC6"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
         "name": "El Veh\u00edculo de las Transformaciones",
         "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 352542,
       "name": "El Veh\u00edculo de las Transformaciones",
       "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+    },
+    {
+      "added_at": "2024-06-07 18:57:40",
+      "album": {
+        "name": "Youth Accomplished",
+        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
+      },
+      "artists": [
+        {
+          "name": "Seabiscuit",
+          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "Youth Accomplished",
+      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
     },
     {
       "added_at": "2024-06-07 18:57:40",
@@ -1627,34 +1643,18 @@
     {
       "added_at": "2024-06-07 18:57:40",
       "album": {
-        "name": "Youth Accomplished",
-        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv"
       },
       "artists": [
         {
-          "name": "Seabiscuit",
-          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
+          "name": "Kaleydo",
+          "url": "https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur"
         }
       ],
-      "duration_ms": 225750,
-      "name": "Youth Accomplished",
-      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
-    },
-    {
-      "added_at": "2024-06-07 18:57:40",
-      "album": {
-        "name": "Distant Restart",
-        "url": "https://open.spotify.com/album/5V94kCDYOSxkZmgnF6gSQF"
-      },
-      "artists": [
-        {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
-        }
-      ],
-      "duration_ms": 201422,
-      "name": "Distant Restart",
-      "url": "https://open.spotify.com/track/3z6UUdNXqe6RgdCBlB0bn1"
+      "duration_ms": 155975,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

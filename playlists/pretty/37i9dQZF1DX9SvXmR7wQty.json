@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
-  "num_followers": 40923,
+  "num_followers": 40919,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Quill\u00e9",
-        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
+        "name": "Lalla",
+        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
         },
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 180107,
-      "name": "Quill\u00e9",
-      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
+      "duration_ms": 187319,
+      "name": "Lalla",
+      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -323,22 +323,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Lalla",
-        "url": "https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0"
+        "name": "Quill\u00e9",
+        "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
       },
       "artists": [
         {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 187319,
-      "name": "Lalla",
-      "url": "https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN"
+      "duration_ms": 180107,
+      "name": "Quill\u00e9",
+      "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -363,18 +363,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Cannelloni",
-        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
+        "name": "Colis\u00e9e (feat. SDM)",
+        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Cannelloni",
-      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
+      "duration_ms": 168746,
+      "name": "Colis\u00e9e (feat. SDM)",
+      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -399,22 +403,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Colis\u00e9e (feat. SDM)",
-        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
+        "name": "Cannelloni",
+        "url": "https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 168746,
-      "name": "Colis\u00e9e (feat. SDM)",
-      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
+      "duration_ms": 198146,
+      "name": "Cannelloni",
+      "url": "https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -431,6 +431,38 @@
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Tout g\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 150029,
+      "name": "Tout g\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Hallucine",
+        "url": "https://open.spotify.com/album/0KMs2qrDXCR0iicU2fuKFc"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        }
+      ],
+      "duration_ms": 161644,
+      "name": "Hallucine",
+      "url": "https://open.spotify.com/track/3ZJrU35kiOfdnqQoTlZxp5"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -455,38 +487,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Hallucine",
-        "url": "https://open.spotify.com/album/0KMs2qrDXCR0iicU2fuKFc"
-      },
-      "artists": [
-        {
-          "name": "Meghan Oak",
-          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
-        }
-      ],
-      "duration_ms": 161644,
-      "name": "Hallucine",
-      "url": "https://open.spotify.com/track/3ZJrU35kiOfdnqQoTlZxp5"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Otra",
-        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Otra",
-      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "X Freestyle",
         "url": "https://open.spotify.com/album/3Z2FAJleolchMDQAKMS8Bb"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Tout g\u00e2ch\u00e9",
-        "url": "https://open.spotify.com/album/2Rev1BAh4FMZNxcQbsdlj7"
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         }
       ],
-      "duration_ms": 150029,
-      "name": "Tout g\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
+      "duration_ms": 134000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Adieu",
-        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+        "name": "Mise \u00e0 jour",
+        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 184356,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+      "duration_ms": 200360,
+      "name": "Me prends pas la t\u00eate",
+      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Mise \u00e0 jour",
-        "url": "https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ"
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Me prends pas la t\u00eate",
-      "url": "https://open.spotify.com/track/2qvNjj0E3whohTikQRaRR4"
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 201055,
-      "name": "Les Montgolfi\u00e8res",
-      "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Chaque seconde",
         "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
       },
@@ -771,58 +751,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Il \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx"
       },
       "artists": [
         {
-          "name": "Stavo",
-          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         },
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 125868,
-      "name": "COMMERCE",
-      "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Page blanche",
-        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
-      },
-      "artists": [
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "Du feu",
-      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 153006,
-      "name": "NO LACK",
-      "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
+      "duration_ms": 201055,
+      "name": "Les Montgolfi\u00e8res",
+      "url": "https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -847,6 +791,62 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Il \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL"
+      },
+      "artists": [
+        {
+          "name": "Stavo",
+          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 125868,
+      "name": "COMMERCE",
+      "url": "https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "IL LE FALLAIT",
+        "url": "https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 153006,
+      "name": "NO LACK",
+      "url": "https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Page blanche",
+        "url": "https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "Du feu",
+      "url": "https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Sentiments",
         "url": "https://open.spotify.com/album/3Srh7pQ9Y2eUjSxwmByWN1"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 157643,
       "name": "Sentiments",
       "url": "https://open.spotify.com/track/6kjduA3AGvdjArQrIt9tMx"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Solide",
+        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 135593,
+      "name": "Solide",
+      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -879,26 +895,6 @@
       "duration_ms": 191880,
       "name": "No makeup",
       "url": "https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "GINGER BOY",
-        "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 151410,
-      "name": "Bodyguard",
-      "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

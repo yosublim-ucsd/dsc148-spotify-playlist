@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,018,120 likes - 157 songs - 7 hr 53 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,018,208 likes - 157 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 153 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
 | 154 | [SAXO FUNK](https://open.spotify.com/track/3mX7vRytOrduB8IysTVvhO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SAXO FUNK](https://open.spotify.com/album/0ROadDFBk9rZyvNRMcLNuP) | 1:45 |
 | 155 | [SATANS SMILE](https://open.spotify.com/track/5HSNpr6gaEof5aeuF39yYg) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [SATANS SMILE](https://open.spotify.com/album/5gecBZfK5LRcRYnyyI5xO8) | 1:30 |
-| 156 | [did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 1:55 |
+| 156 | [](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 0:00 |
 | 157 | [Lets Go Crazy](https://open.spotify.com/track/2obmNTgEVv9V26rz3yu9ia) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [Lets Go Crazy](https://open.spotify.com/album/1b6Rmgv2JpHTNAwFudVtWB) | 1:43 |
 
 Snapshot ID: `AAA5S9B7Jmo9A6A0VNtaYt0I346r99b1`

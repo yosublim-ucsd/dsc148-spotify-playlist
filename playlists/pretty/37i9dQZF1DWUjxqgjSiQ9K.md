@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:27ulglTuwRXeQsKTNbUVe8">Samuel Troc</a> y <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,509 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,553 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 32 | [El Cielo Ha Llegado Hoy \- En Vivo](https://open.spotify.com/track/2B9sN0Gy4xkyz4dtsZflgj) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [A Las Naciones \(En Vivo\)](https://open.spotify.com/album/4t0lHixGOTwSq2XmowP65z) | 8:48 |
 | 33 | [Escondido En Tu Corazón](https://open.spotify.com/track/27ZzynWmhtvS6W1lVwXR2J) | [Linaje Escogido Guatemala](https://open.spotify.com/artist/1YZxzGvZOqmMwSNq8DdQ9l), [Fernel Monroy](https://open.spotify.com/artist/1o3WRYsnZllUekoxNdSAoG) | [Escondido En Tu Corazón](https://open.spotify.com/album/3RrhGt58gRjkYHyIVHjK6f) | 4:49 |
 | 34 | [Dame A Cristo \- Live](https://open.spotify.com/track/3NnC0Z3PZQkoLNs883kNKS) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Dame A Cristo \(Live\)](https://open.spotify.com/album/7IioE8MFdDusQ2LIAKOAH4) | 6:15 |
-| 35 | [Nada Me Falta](https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:20 |
+| 35 | [Nada Me Falta](https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:20 |
 | 36 | [La Sangre \(Himno\)](https://open.spotify.com/track/4sFAH2K79ZmGGFWo1uzJks) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Hogar](https://open.spotify.com/album/1xJ3lLHzbkjnlshDcrNYYu) | 4:47 |
 | 37 | [Amén](https://open.spotify.com/track/2lgIUOpqLN1UkuL0FPtx8b) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Amén](https://open.spotify.com/album/4hq3lJ31SDyRv77CyIhkQL) | 3:28 |
 | 38 | [Radikal 60](https://open.spotify.com/track/3R3sYduPzyhzsTDaV15wNs) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Radikal 60](https://open.spotify.com/album/42CTnl4aMbSRdFauo4AUIN) | 4:07 |

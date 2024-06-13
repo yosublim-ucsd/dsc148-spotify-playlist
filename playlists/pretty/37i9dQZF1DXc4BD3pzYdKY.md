@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:5BfKKSmpGmj2moMNlaWeJK">Marty</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,463 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,518 likes - 99 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 70 | [Saved You Too](https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Saved You Too](https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9) | 1:58 |
 | 71 | [BAGS](https://open.spotify.com/track/7oalP61oJ8ATbQwuarGm1p) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [BAGS](https://open.spotify.com/album/3TcUwMm1EznN5vutFwrst1) | 2:38 |
 | 72 | [Dirty Floors \(feat\. 1K Phew\)](https://open.spotify.com/track/3EjvAB058d2NB9d1FBAiKF) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Dirty Floors \(feat\. 1K Phew\)](https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX) | 3:03 |
-| 73 | [4am](https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [4am](https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6) | 3:17 |
+| 73 | [4am](https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg), [hunterdali](https://open.spotify.com/artist/1YiKYDltcuQltzSaSP0T3E) | [4am](https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6) | 3:17 |
 | 74 | [Father's Hands](https://open.spotify.com/track/2SeSqnyrdeBG4J3DDKdxSo) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Father's Hands](https://open.spotify.com/album/1BjbrQF7U5F7A6x5Qsv4OE) | 2:40 |
 | 75 | [His Glory](https://open.spotify.com/track/3DIbEmYtjO6l17lbpLnJgK) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [QEW](https://open.spotify.com/artist/4KahwXeadQPDsM9SheZ1nk), [SiahThyLegend](https://open.spotify.com/artist/3dBTzBPwW7nsGRt5RJXTGn) | [His Glory](https://open.spotify.com/album/3HUEVpXxhVHbdub2ydVd9p) | 2:43 |
 | 76 | [Back To You](https://open.spotify.com/track/7eKkGKs5oy3jB1HoNgavpi) | [Wingy Danejah](https://open.spotify.com/artist/7fKloUpJyem4cZjaEKqcmS), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Back To You](https://open.spotify.com/album/7hbfQBrZc6HRMINbwn89Ao) | 3:31 |

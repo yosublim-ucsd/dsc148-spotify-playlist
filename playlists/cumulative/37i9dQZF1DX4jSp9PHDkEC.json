@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 202218,
       "name": "Believe",
       "url": "https://open.spotify.com/track/76ekLbfyuNyUFqTwr7qVLd"
@@ -1486,6 +1486,24 @@
       "duration_ms": 316507,
       "name": "Chariot",
       "url": "https://open.spotify.com/track/12kZPPg7Ve9Br7mEtmVY1h"
+    },
+    {
+      "album": {
+        "name": "Chateau",
+        "url": "https://open.spotify.com/album/68Uy1KyPTQTWjVqrSE97hV"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Chateau",
+      "url": "https://open.spotify.com/track/2LY0DjFGGF0JQugFzWSGpi"
     },
     {
       "album": {

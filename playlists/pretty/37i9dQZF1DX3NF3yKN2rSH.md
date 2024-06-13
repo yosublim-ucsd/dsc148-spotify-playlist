@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,316 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,315 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 26 | [More Abundantly Medley \- Live](https://open.spotify.com/track/12Wj5X4UWjSVLEmOVtWCjq) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 6:28 |
 | 27 | [Arise \(You Are Good\)](https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:48 |
 | 28 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
-| 29 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Angela Primm](https://open.spotify.com/artist/7CUYweCBLcGYHhXo0gt0ss), [Gale West](https://open.spotify.com/artist/14rimXLMEJuYazDX20yn6R), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Rock Of Ages \(Live\)](https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S) | 1:53 |
-| 30 | [Raised to Life \(feat\. The Walls Group\)](https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo) | [Elevation Collective](https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Evidence](https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo) | 2:10 |
+| 29 | [Raised to Life \(feat\. The Walls Group\)](https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo) | [Elevation Collective](https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Evidence](https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo) | 2:10 |
+| 30 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Angela Primm](https://open.spotify.com/artist/7CUYweCBLcGYHhXo0gt0ss), [Gale West](https://open.spotify.com/artist/14rimXLMEJuYazDX20yn6R), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Rock Of Ages \(Live\)](https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S) | 1:53 |
 | 31 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 32 | [Just For Me](https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 5:18 |
 | 33 | [Fill Me Up \- Live](https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:58 |

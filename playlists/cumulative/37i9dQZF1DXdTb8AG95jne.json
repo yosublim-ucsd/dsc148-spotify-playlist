@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: cott(\ucf67)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YdBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -9435,6 +9435,28 @@
     },
     {
       "album": {
+        "name": "RUNAWAY (feat. Ha Hyun Sang)",
+        "url": "https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq"
+      },
+      "artists": [
+        {
+          "name": "YdBB",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        },
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210405,
+      "name": "RUNAWAY (feat. Ha Hyun Sang)",
+      "url": "https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI"
+    },
+    {
+      "album": {
         "name": "Safety Distance",
         "url": "https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9"
       },
@@ -12262,7 +12284,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 206970,
       "name": "We Sink",
       "url": "https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65"

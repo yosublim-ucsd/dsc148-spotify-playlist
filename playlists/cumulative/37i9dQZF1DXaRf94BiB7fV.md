@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: Gursheet Khanuja, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Anirudh Bhola, Artwork: Isu Kim
 
-1,252 songs - 3 day 0 hr 48 min
+1,253 songs - 3 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1060,6 +1060,7 @@
 | [Tere Liye](https://open.spotify.com/track/66uV9XKf1T1jEWsQlEYD7i) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa) | [Tere Liye](https://open.spotify.com/album/3mN3nFdWC89MOPZ9tbDX4x) | 3:01 | 2024-02-28 | 2024-04-24 |
 | [Tere Liye](https://open.spotify.com/track/2CIoyocoRVqRKUZE8DZABT) | [Shivam Grover](https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL) | [Tere Liye](https://open.spotify.com/album/1E1T4fz6rtaeAhw4BnpdG2) | 3:52 | 2023-03-08 | 2023-04-06 |
 | [Tere Liye](https://open.spotify.com/track/1z3nEVTxTwliGeHxFDeZsQ) | [Tanmay Ghoshal](https://open.spotify.com/artist/20lfDLhyyv0gQi59As3JQ0) | [Tere Liye](https://open.spotify.com/album/1gDNF9FyEQkjVRhu8LXQCS) | 5:14 | 2023-09-27 | 2023-11-23 |
+| [Tere Peeche Chal Diya](https://open.spotify.com/track/2VUik9Lfuu7n5ftlzL6H7E) | [Anirudh Bhola](https://open.spotify.com/artist/7ojuUObZvGIFTPmThkU91K) | [Tere Peeche Chal Diya](https://open.spotify.com/album/7HmP4zLHdIgP6WiNhdCvRA) | 3:15 | 2024-06-12 |  |
 | [Tere Peeche Hum](https://open.spotify.com/track/266ywrPdv5oGrVyCTnypap) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Tere Peeche Hum](https://open.spotify.com/album/707edPWLu2JHdUGwVGAZAh) | 3:14 | 2023-08-02 | 2023-10-19 |
 | [Tere Sheher](https://open.spotify.com/track/0rdHhDNW3rTFskutobGaIM) | [Samar\-Kshitij](https://open.spotify.com/artist/7fl9woBKbhjOODkyUxPfBY) | [Tere Sheher](https://open.spotify.com/album/3I1uYjS4qjsWhCldoDWwNL) | 3:45 | 2022-03-09 | 2022-05-05 |
 | [Teri Aankhein](https://open.spotify.com/track/59TIrEZy3cj0mj09ynvCqb) | [dhiren.](https://open.spotify.com/artist/2zGmEUAhrNMFqXoqk8oOvU) | [Teri Aankhein](https://open.spotify.com/album/01MEvsFzE1JN1TtyU3C1db) | 1:51 | 2023-11-08 | 2024-02-08 |

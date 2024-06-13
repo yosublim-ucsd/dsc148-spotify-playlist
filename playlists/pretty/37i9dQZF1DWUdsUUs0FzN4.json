@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Ad\u00e1n Cruz y El Bogueto en portada ",
-  "num_followers": 18955,
+  "num_followers": 18958,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,30 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Tiki",
         "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 189613,
       "name": "Tiki",
       "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "SUELTA",
         "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
       },
@@ -903,26 +883,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Pushaina",
-        "url": "https://open.spotify.com/album/4rec7Zyx4adaPnZIbkGRut"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Pushaina",
-      "url": "https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "No Puedo Controlarme",
         "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
       },
@@ -951,6 +911,46 @@
       "duration_ms": 189437,
       "name": "NO PUEDO CONTROLARME",
       "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Pushaina",
+        "url": "https://open.spotify.com/album/4rec7Zyx4adaPnZIbkGRut"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Pushaina",
+      "url": "https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1279,6 +1279,30 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "VERACRUZ (GPI)",
+        "url": "https://open.spotify.com/album/1Kt9ooVeFVCmpzeo7IkhyC"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Mauro Dembow",
+          "url": "https://open.spotify.com/artist/0YMgAVpGRw5rTCBCC1YufD"
+        }
+      ],
+      "duration_ms": 87422,
+      "name": "VERACRUZ (GPI)",
+      "url": "https://open.spotify.com/track/0loHU9t2R14XqF3QIiZQMf"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Mata (Remix)",
         "url": "https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX"
       },
@@ -1307,30 +1331,6 @@
       "duration_ms": 227080,
       "name": "Mata - Remix",
       "url": "https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "VERACRUZ (GPI)",
-        "url": "https://open.spotify.com/album/1Kt9ooVeFVCmpzeo7IkhyC"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Mauro Dembow",
-          "url": "https://open.spotify.com/artist/0YMgAVpGRw5rTCBCC1YufD"
-        }
-      ],
-      "duration_ms": 87422,
-      "name": "VERACRUZ (GPI)",
-      "url": "https://open.spotify.com/track/0loHU9t2R14XqF3QIiZQMf"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Me Dice Daddy",
+        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Me Dice Daddy",
+      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Karol G",
         "url": "https://open.spotify.com/album/6q7tig0nfFlh7kkjmdO3jA"
       },
@@ -1555,22 +1575,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Me Dice Daddy",
-        "url": "https://open.spotify.com/album/2tGkd9dkjlnis2J1JDS0bs"
+        "name": "Intacto",
+        "url": "https://open.spotify.com/album/5oH65p7h1WZWVgJoprsGG2"
       },
       "artists": [
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         }
       ],
-      "duration_ms": 183320,
-      "name": "Me Dice Daddy",
-      "url": "https://open.spotify.com/track/36xfruxRxaqzHF6CQPHcYz"
+      "duration_ms": 160055,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/16h3RLI5IrQkimFyJ02gYe"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1595,26 +1615,6 @@
       "duration_ms": 185281,
       "name": "DDD (Don Dimadon)",
       "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/5oH65p7h1WZWVgJoprsGG2"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        }
-      ],
-      "duration_ms": 160055,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/16h3RLI5IrQkimFyJ02gYe"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "La Favorita",
-        "url": "https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I"
-      },
-      "artists": [
-        {
-          "name": "Charly Gynn",
-          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
-        },
-        {
-          "name": "Dj Drewther",
-          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
-        }
-      ],
-      "duration_ms": 145865,
-      "name": "La Favorita",
-      "url": "https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Buz\u00f3n de Voz",
         "url": "https://open.spotify.com/album/4BkaOPT7FUQj23tVW5AE3T"
       },
@@ -1735,22 +1715,22 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Bebe Ricota",
-        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
+        "name": "La Favorita",
+        "url": "https://open.spotify.com/album/2EiAciiIIPxFolBFBt463I"
       },
       "artists": [
         {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
         },
         {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
         }
       ],
-      "duration_ms": 151836,
-      "name": "Bebe Ricota",
-      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
+      "duration_ms": 145865,
+      "name": "La Favorita",
+      "url": "https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1803,6 +1783,26 @@
       "duration_ms": 164781,
       "name": "EL Diablo",
       "url": "https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Bebe Ricota",
+        "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "Bebe Ricota",
+      "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -2215,30 +2215,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Alexxxa",
-        "url": "https://open.spotify.com/album/2Fd1umwwTUXYviKHrfuNcp"
-      },
-      "artists": [
-        {
-          "name": "Cris Sour",
-          "url": "https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Alnz G",
-          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Alexxxa",
-      "url": "https://open.spotify.com/track/0iclHfV1JXHL29EUpK7o2B"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "A la Bim Bom Bam",
         "url": "https://open.spotify.com/album/1Aygxok69t1HTET2a1PlDF"
       },
@@ -2263,6 +2239,26 @@
       "duration_ms": 128307,
       "name": "A la Bim Bom Bam",
       "url": "https://open.spotify.com/track/18QXmS1VzNzcDPrkiNrkY5"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "El Bellako",
+        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "A la pared",
+      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
     }
   ],
   "unique_name": "CHAKAL\u00d3N ",

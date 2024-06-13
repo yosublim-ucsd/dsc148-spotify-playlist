@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 184 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 184 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 21 | [Song on Fire](https://open.spotify.com/track/4UQSxaJZS8kH62JaQgkr14) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Feed The Machine](https://open.spotify.com/album/0I7iZWKIGM4mkmZonobtJh) | 3:50 |
 | 22 | [Bartender](https://open.spotify.com/track/6g1VMY89VJmDmofqnyC6Rt) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:13 |
 | 23 | [Call me Cruella \- From "Cruella"/Soundtrack Version](https://open.spotify.com/track/74985XdDOa0oF6C0cKyyUr) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Harder Than Hell](https://open.spotify.com/album/4X9nSf8xmYbemrz2IAXFgY) | 2:07 |
-| 24 | [Perfect \(For Somebody Else\)](https://open.spotify.com/track/4hjvc0ZrRiyg55oso2tiuS) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Perfect \(For Somebody Else\)](https://open.spotify.com/album/1ZeJO03FF6Roiw5ytZHpdI) | 2:49 |
-| 25 | [Bad for Business](https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
+| 24 | [Bad for Business](https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 |
+| 25 | [Perfect \(For Somebody Else\)](https://open.spotify.com/track/4hjvc0ZrRiyg55oso2tiuS) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Perfect \(For Somebody Else\)](https://open.spotify.com/album/1ZeJO03FF6Roiw5ytZHpdI) | 2:49 |
 | 26 | [Reasons](https://open.spotify.com/track/4kPV7Tx30Ph0tQ4XrhgYCh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Reasons](https://open.spotify.com/album/5QWym2ctJvsr8pDCS38F9Y) | 2:42 |
 | 27 | [Happy](https://open.spotify.com/track/6xG7t7blddozpBf3S5we1O) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:01 |
 | 28 | [burning bridges](https://open.spotify.com/track/6d1alyPmQMTn99yk2wlw47) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:38 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 183 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 184 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbTzQgAAAACK1XXf3BlEEHw/OkqyfGbR`
+Snapshot ID: `AbT44gAAAAAqFYlpM2uKQ8jsX4QNqev4`

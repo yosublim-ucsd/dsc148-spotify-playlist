@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 50429,
+  "num_followers": 50458,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rock and Rollin' With Fats",
-        "url": "https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Plays Mac Rebennack",
         "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 238315,
       "name": "Mac's Boogie",
       "url": "https://open.spotify.com/track/4qY3lrzyzSZIxTFX1jQKNI"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Rock and Rollin' With Fats",
+        "url": "https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rum and Coke",
-        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "501 Boogie",
-      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 201066,
       "name": "Caroline's Boogie",
       "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Rum and Coke",
+        "url": "https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "501 Boogie",
+      "url": "https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Boogie Woogie Motel Swing",
+        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
+      },
+      "artists": [
+        {
+          "name": "Sue Palmer",
+          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
+        }
+      ],
+      "duration_ms": 123626,
+      "name": "Sue's Boogie",
+      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Boogie Stomp",
         "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Boogie Woogie Motel Swing",
-        "url": "https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP"
-      },
-      "artists": [
-        {
-          "name": "Sue Palmer",
-          "url": "https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v"
-        }
-      ],
-      "duration_ms": 123626,
-      "name": "Sue's Boogie",
-      "url": "https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 160795,
-      "name": "Boogie Woogie - Mono",
-      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 160795,
+      "name": "Boogie Woogie - Mono",
+      "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "This Is Boogie Woogie!",
-        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
-      },
-      "artists": [
-        {
-          "name": "Dave Taylor",
-          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
-        }
-      ],
-      "duration_ms": 154826,
-      "name": "Boogie In The City",
-      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Boogie Woogie",
         "url": "https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 198733,
       "name": "Get in the Groove, Boys!",
       "url": "https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "This Is Boogie Woogie!",
+        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
+      },
+      "artists": [
+        {
+          "name": "Dave Taylor",
+          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
+        }
+      ],
+      "duration_ms": 154826,
+      "name": "Boogie In The City",
+      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
     },
     {
       "added_at": "2024-05-30 16:27:59",

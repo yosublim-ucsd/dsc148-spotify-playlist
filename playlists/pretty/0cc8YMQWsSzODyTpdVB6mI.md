@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 ### [Kitsuné Musique Essential](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> Have a listen to our Kitsuné's essential tracks and meet all generations of artists from 20 years ago to these past few  months\. 🎧
+> Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 47,511 likes - 50 songs - 2 hr 51 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 47,520 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 49 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 |
 | 50 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 |
 
-Snapshot ID: `AAAMI+R0mONqDIWuvc/f7OQvZ9XImsWr`
+Snapshot ID: `AAAMJDbTPIkJOfT04YvUODJhs3s88B+P`

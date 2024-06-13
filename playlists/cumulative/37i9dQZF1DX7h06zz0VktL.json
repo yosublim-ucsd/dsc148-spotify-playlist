@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "All E.L.F's go to playlist! Check out SUPER JUNIOR: THE LAST MAN STANDING on Disney+!",
+  "description": "All E.L.F's go to playlist!",
   "name": "This Is SUPER JUNIOR",
   "tracks": [
     {
@@ -2030,6 +2030,24 @@
       "duration_ms": 230229,
       "name": "Show",
       "url": "https://open.spotify.com/track/2hTBpa21ZbNCOI9FQekhQS"
+    },
+    {
+      "album": {
+        "name": "Show Time",
+        "url": "https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Show Time",
+      "url": "https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u"
     },
     {
       "album": {

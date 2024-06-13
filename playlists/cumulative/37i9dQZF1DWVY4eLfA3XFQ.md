@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Martin Ikin\. 50% techno, 50% house
 
-1,632 songs - 3 day 19 hr 46 min
+1,633 songs - 3 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Back Tomorrow](https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Back Tomorrow](https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI) | 1:58 | 2021-11-26 | 2022-04-02 |
 | [Backfire](https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Jay Colin](https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx) | [Backfire](https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK) | 3:19 | 2022-01-14 | 2022-06-04 |
 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 | 2023-12-15 | 2024-02-17 |
+| [Bad Boys](https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Alex O'Clock](https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940) | [Bad Boys](https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC) | 2:16 | 2024-05-17 |  |
 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 | 2023-03-24 | 2023-06-17 |
 | [Bad Girl](https://open.spotify.com/track/4V56SK5ufak6TjpNq2kfpr) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [Bad Girl](https://open.spotify.com/album/2k9kQzygXAZ2R5g021gAqw) | 3:02 | 2023-03-03 | 2023-04-29 |
 | [Badman](https://open.spotify.com/track/0niGISINRsw8x9XgGgk6lE) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Badman](https://open.spotify.com/album/5ZPwLhXzPeTG8Iu72LSAVr) | 3:36 | 2023-05-19 | 2023-06-28 |
@@ -1500,7 +1501,7 @@
 | [Tuko Tuko](https://open.spotify.com/track/5YzoHnKF8AF4Ys76VPmpKR) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Tuko Tuko](https://open.spotify.com/album/6W3EQfiO498fLmBgCJNDwB) | 3:37 | 2022-07-01 | 2022-08-20 |
 | [Tunnel Vision](https://open.spotify.com/track/4qVmcZ4YHMFAnYXvh7A99P) | [Mr.Diamond](https://open.spotify.com/artist/7tZrVSJlj3BmTYpQJim4c6) | [Tunnel Vision](https://open.spotify.com/album/3xwcNZcD24WvglGTEZ4sAP) | 2:38 | 2022-10-07 | 2022-11-12 |
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-18 | 2023-09-23 |
-| [Turn it Up](https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Turn It Up](https://open.spotify.com/album/66pannmlBSJYnwyeMiFQR3) | 2:53 | 2024-05-17 |  |
+| [Turn it Up](https://open.spotify.com/track/6GQ8k7n7CSNjSXN42cTYlE) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Turn It Up](https://open.spotify.com/album/66pannmlBSJYnwyeMiFQR3) | 2:53 | 2024-05-17 | 2024-06-13 |
 | [Turugudatudu](https://open.spotify.com/track/6Ax5sMRCrKlyqut7zZjf1H) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Turugudatudu](https://open.spotify.com/album/2qbaBZeiLEJypziId63BBj) | 2:34 | 2023-03-24 | 2023-05-27 |
 | [Tututu \- Radio Edit](https://open.spotify.com/track/3BRn1Iue3q3VQNwka4Cweq) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4), [KD One](https://open.spotify.com/artist/2KsIqWw1S0S8L8f86GwEMb), [CVMPANILE](https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [Tututu \(Radio Edit\)](https://open.spotify.com/album/2mnt4Rz0fsBFxT7N6iAnr0) | 2:07 | 2023-11-10 | 2024-03-23 |
 | [Twist It](https://open.spotify.com/track/3KBYGZk7GjlCu96zU8DG86) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [AYAREZ](https://open.spotify.com/artist/3eTTWCTlXDyGKwrGqDMsX0) | [Twist It](https://open.spotify.com/album/7CIab4fV9GFYnECCO4lDnU) | 3:02 | 2023-05-05 | 2023-08-26 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 48835,
+  "description": "This Is Perdidos De Sinaloa. Los temas esenciales, todos en una lista.",
+  "num_followers": 48837,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAADzj62HEcfVfNVrX/RgahyR",
+  "snapshot_id": "ZmeTgAAAAADJ/KMqEVeAGwRm6W6TlKgB",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Queda Restringido",
+      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 192086,
       "name": "Siempre A Tu Lado (En Vivo)",
       "url": "https://open.spotify.com/track/4NXCEypmOHuVu5F0r9eUZE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Queda Restringido",
-      "url": "https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182158,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Duele Menos",
         "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ex de Verdad (En Vivo)",
-        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 218202,
-      "name": "Ex de Verdad (En Vivo)",
-      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
+      "duration_ms": 182158,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ex de Verdad (En Vivo)",
+        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 218202,
+      "name": "Ex de Verdad (En Vivo)",
+      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 202120,
       "name": "Dariel El Sabroso",
       "url": "https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
     },
     {
       "added_at": null,

@@ -17645,6 +17645,36 @@
     },
     {
       "album": {
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/7mieCeCorKPB2ooQHatpfb"
+      },
+      "artists": [
+        {
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+        },
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        },
+        {
+          "name": "Andro",
+          "url": "https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd"
+        },
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179393,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp"
+    },
+    {
+      "album": {
         "name": "MAMMAMIA",
         "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
@@ -20788,7 +20818,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 232000,
       "name": "OCHI ALBA\u0218TRI",
       "url": "https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX"
@@ -22462,7 +22492,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 187200,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
@@ -24950,7 +24980,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 162461,
       "name": "RUPE-TE MAMI",
       "url": "https://open.spotify.com/track/4Uj8pdbro2QZmWpAbpdgI0"
@@ -25742,7 +25772,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 173913,
       "name": "Seara De Seara",
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
@@ -29004,7 +29034,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 128181,
       "name": "Tati, vreau",
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"

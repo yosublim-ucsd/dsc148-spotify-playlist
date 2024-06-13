@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81345,
+  "num_followers": 81344,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAAAdIpeo0ytbk3LCkiVXLCEZ",
+  "snapshot_id": "ZmeTgAAAAABcGyMPRpdkldx2Lxmhmhb5",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Col\u00edrio da C\u00f3lera",
-        "url": "https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 202108,
-      "name": "Jurei/Odin",
-      "url": "https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexta-Feira",
         "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 239118,
       "name": "Sexta-Feira",
       "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Col\u00edrio da C\u00f3lera",
+        "url": "https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 202108,
+      "name": "Jurei/Odin",
+      "url": "https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT"
     },
     {
       "added_at": null,

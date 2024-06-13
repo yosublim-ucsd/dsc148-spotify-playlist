@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,125 likes - 195 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,222 likes - 195 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 56 | [Spa Intervention](https://open.spotify.com/track/3zHpn1533zXCxXqzHBn3cE) | [makers mask](https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9) | [Spa Intervention](https://open.spotify.com/album/6uWkafFEX0tuaryFKhYT8Q) | 2:21 |
 | 57 | [Yelp Of Joy](https://open.spotify.com/track/6Seljh4IAei5RBKEIDhZ1w) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Yelp Of Joy](https://open.spotify.com/album/50VFB0XSRP85RdPka3azvq) | 2:46 |
 | 58 | [sunshiny](https://open.spotify.com/track/3NrOcJP5RfXzOQh37cKUfj) | [longwayfromhome](https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh) | [sunshiny](https://open.spotify.com/album/2nA7bZJ48DbMPuaOmv75Yk) | 2:52 |
-| 59 | [Purpose](https://open.spotify.com/track/3X1Wk6lJwLHGUH7tCxtfUP) | [ABSTRCT](https://open.spotify.com/artist/15JTnqGs2pK5WVm6c6jfp1) | [Purpose](https://open.spotify.com/album/3zijoODXuW8hD2RtjOPeLA) | 2:48 |
+| 59 | [Purpose](https://open.spotify.com/track/3X1Wk6lJwLHGUH7tCxtfUP) | [ABSTRCT](https://open.spotify.com/artist/72XZynqAgAS9w2ZCdvrNYz) | [Purpose](https://open.spotify.com/album/3zijoODXuW8hD2RtjOPeLA) | 2:48 |
 | 60 | [Retrocation](https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF) | [ELRY](https://open.spotify.com/artist/5LLikEV14ip9GPnrmbUQMU) | [Retrocation](https://open.spotify.com/album/3ke0nq3r9CGpGVVZAAeEik) | 2:21 |
 | 61 | [Home Again](https://open.spotify.com/track/2Fy3Gx4TPeJ69bzFkQrFdl) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Home Again](https://open.spotify.com/album/3mtNd5bVlK1FCbTF3WBIsS) | 2:22 |
 | 62 | [Lemonade Skies](https://open.spotify.com/track/4h6zisKrFQ0XKaPluw7Uie) | [Stadión](https://open.spotify.com/artist/5IEpj90HYFJAnJB6UN00Al) | [Lemonade Skies](https://open.spotify.com/album/77WGNUNq4Wmc2HgtOWlSh2) | 2:32 |

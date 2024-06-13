@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWY77P1fdhS.md) - [plain]
 
 > It’s early 2010s, you’ve got sillybandz on your wrist, a mustache tattoo on your finger, and angry birds on your iphone\. Cover: LMFAO & Lil Jon
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,117 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,216 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

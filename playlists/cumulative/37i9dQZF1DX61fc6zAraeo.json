@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Big Emotion",
+        "url": "https://open.spotify.com/album/6Vaq9DZUC7HdLcyQqhNbrE"
+      },
+      "artists": [
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156220,
+      "name": "Big Emotion",
+      "url": "https://open.spotify.com/track/2yXpN0Rz2KTny9J5BxwYFz"
+    },
+    {
+      "album": {
         "name": "BLACK WIDOW",
         "url": "https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK"
       },
@@ -314,7 +336,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 152196,
       "name": "Break the Silence",
       "url": "https://open.spotify.com/track/3J731DK3zEufsb4xaTbvrL"
@@ -500,7 +522,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 121750,
       "name": "Could You Be The One",
       "url": "https://open.spotify.com/track/3akNbKGTCFPUeB7xEaDQ5j"
@@ -694,7 +716,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-06",
+      "date_removed": null,
       "duration_ms": 127413,
       "name": "Don\u2019t Lead Anywhere",
       "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
@@ -720,7 +742,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0LbJ4vV5xlLp6asZJDtqqH"
@@ -914,7 +936,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 142829,
       "name": "Exceso (feat. GALE)",
       "url": "https://open.spotify.com/track/5SBsYJjr5Dg09XNV6RZpUy"
@@ -994,7 +1016,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 182769,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ"
@@ -1193,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "Hidden Signs",
+        "url": "https://open.spotify.com/album/1uG3AXNoQ9icJLnXbxxwxm"
+      },
+      "artists": [
+        {
+          "name": "Melsen",
+          "url": "https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153004,
+      "name": "Hidden Signs",
+      "url": "https://open.spotify.com/track/5Y8MD5KkcEd6BZUHRz7oJN"
+    },
+    {
+      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/33MCxT30XFEvEsSVIsFCOH"
       },
@@ -1312,6 +1356,24 @@
       "duration_ms": 172799,
       "name": "I Can\u2019t Wait (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3bnla8QwheGOI2AtfWOES1"
+    },
+    {
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "album": {
@@ -1602,7 +1664,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 147673,
       "name": "Lost My Mind (Wake Up)",
       "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
@@ -1708,7 +1770,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 136846,
       "name": "Mission Control",
       "url": "https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG"
@@ -1804,7 +1866,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 141666,
       "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
@@ -1946,7 +2008,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 191250,
       "name": "On My Love - Hypaton Remix",
       "url": "https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5"
@@ -2115,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "PEGASUS",
+        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180462,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS"
       },
@@ -2174,7 +2258,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 191612,
       "name": "Pouring Rain",
       "url": "https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO"
@@ -2196,7 +2280,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 135483,
       "name": "Pretty Little Lies",
       "url": "https://open.spotify.com/track/2gg28k4Djlpg0a7SGsB8Zc"
@@ -2468,7 +2552,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 199024,
       "name": "September (Club Mix) - Radio Edit",
       "url": "https://open.spotify.com/track/1dQS6r99azgncYwRDVM82m"
@@ -2945,6 +3029,46 @@
     },
     {
       "album": {
+        "name": "Watch Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/3wV3MUVnC6gvZwWPZRAQMa"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/4wbECQPBzv2ySwGengDeCY"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        },
+        {
+          "name": "Atlantic Ocean",
+          "url": "https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212238,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/0fXkGPdyKItK9Lr6uHpRsZ"
+    },
+    {
+      "album": {
         "name": "We Ain't Here For Long",
         "url": "https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9"
       },
@@ -3000,7 +3124,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 157750,
       "name": "What a Night",
       "url": "https://open.spotify.com/track/5M78sypr7NMw0MMcrWTS0l"
@@ -3224,7 +3348,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 132283,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/5bi2mfBGQOMCujSf4Yd7sw"
@@ -3246,7 +3370,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 165804,
       "name": "You",
       "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"

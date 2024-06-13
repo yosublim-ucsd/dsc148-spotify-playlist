@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: RuRu\(루루\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SAAY\)
 
-347 songs - 19 hr 16 min
+348 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-07 | 2022-11-15 |
 | [Diving \(Piano by Seokwon Lee\)](https://open.spotify.com/track/76BHfwrmbjxqHiUFdJS4zL) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:32 | 2023-02-10 | 2023-08-18 |
 | [DO \(Feat\. LeeHi\)](https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Answer Answer](https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP) | 3:04 | 2023-05-24 | 2023-10-21 |
+| [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 | 2024-06-12 |  |
 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 | 2022-06-18 | 2022-10-05 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-10-13 | 2024-03-09 |
 | [Don't Say \(feat\. Kid Milli\)](https://open.spotify.com/track/7r5aWRSv5sUg9uhehASb04) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Don't Say](https://open.spotify.com/album/5fmxVDAV3uX0RmdRZljMox) | 2:31 | 2023-11-28 | 2024-05-01 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,652 songs - 3 day 18 hr 35 min
+1,653 songs - 3 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-28 | 2023-02-05 |
 | [I'M THAT GIRL](https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:28 | 2022-07-30 | 2022-08-01 |
 | [I'm Tired \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I'm Tired \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-03-01 | 2022-03-21 |
+| [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2024-06-12 |  |
 | [Ice Attack](https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:19 | 2024-03-23 | 2024-03-25 |
 | [Ich will](https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:37 | 2023-05-24 | 2023-05-27 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-07 | 2024-02-13 |
@@ -809,7 +810,7 @@
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-03-05 | 2024-03-20 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-11 | 2024-04-13 |
 | [Lovoj Vezi](https://open.spotify.com/track/0VyoYK7w4J35Xuwtwx3C4Z) | [HUTTCH](https://open.spotify.com/artist/3ZkRB4MLskyZjOU9dFWqTK) | [Lovoj Vezi](https://open.spotify.com/album/6nfWSB23c2PAoGCBg9nJDq) | 2:01 | 2022-04-15 | 2022-04-17 |
-| [Luchtballon](https://open.spotify.com/track/024pThriWXJRFgGQuixYs7) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luchtballon](https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT) | 2:16 | 2024-06-06 |  |
+| [Luchtballon](https://open.spotify.com/track/024pThriWXJRFgGQuixYs7) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luchtballon](https://open.spotify.com/album/2m1aJzbzSnoIiSwN8UXhXT) | 2:16 | 2024-06-06 | 2024-06-13 |
 | [Lukaku Freestyle](https://open.spotify.com/track/76rC6EDpZygVBb3RbKC3eu) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Lukaku Freestyle](https://open.spotify.com/album/6sgfD9sYPVnQYFORbDbf9r) | 2:11 | 2021-03-27 | 2021-04-07 |
 | [Luktelk](https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ) | 2:41 | 2024-05-16 | 2024-05-26 |
 | [Luktelk](https://open.spotify.com/track/4ZBe9Plh2adT70U4PDxve1) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/0IzVeFuUVSQsLj8boRMCO2) | 2:41 | 2024-01-15 | 2024-05-17 |
@@ -817,7 +818,7 @@
 | [LUMBERJACK](https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:18 | 2021-06-27 | 2021-07-02 |
 | [LUMBERJACK](https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [LUMBERJACK](https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e) | 2:18 | 2021-06-19 | 2021-06-20 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 |  |
-| [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-05-18 | 2024-06-10 |
+| [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-05-18 |  |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-24 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-01 | 2023-01-13 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-11 |
@@ -966,7 +967,7 @@
 | [Neturėjom Dainos](https://open.spotify.com/track/5i2P4wsbe6x8hrvdZwCSJj) | [Solo Ansamblis](https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9) | [Olos](https://open.spotify.com/album/2MNW7btzSNiDWQq9QsGPBQ) | 5:00 | 2023-06-12 | 2023-06-15 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-16 | 2023-04-30 |
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2023-04-29 | 2023-05-07 |
-| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 |  |
+| [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 | 2024-06-13 |
 | [Never Lose Me](https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:05 | 2024-03-16 | 2024-03-19 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-13 | 2024-03-17 |
 | [NEVIRŠYK GREIČIO](https://open.spotify.com/track/3EJZgk1qajRKWTCyTSEW3e) | [Gabrielė Vilkickytė](https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy) | [VILKO ŠVELNUMAS](https://open.spotify.com/album/7mnMiGdr3rZQ1wDlPfXOzd) | 2:46 | 2021-05-19 | 2021-05-21 |

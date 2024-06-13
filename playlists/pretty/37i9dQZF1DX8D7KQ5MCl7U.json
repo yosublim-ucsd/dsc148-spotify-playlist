@@ -1,6 +1,6 @@
 {
   "description": "All Coke Studio Pakistan tracks in one place. Season 15 updated live.",
-  "num_followers": 53655,
+  "num_followers": 53765,
   "original_name": "This Is Coke Studio Pakistan",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
-        "name": "Coke Studio Season 10: Episode 1",
-        "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
-      },
-      "artists": [
-        {
-          "name": "Danyal Zafar",
-          "url": "https://open.spotify.com/artist/64vfatodaWtto6TxQL6TQG"
-        },
-        {
-          "name": "Momina Mustehsan",
-          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
-        }
-      ],
-      "duration_ms": 337000,
-      "name": "Muntazir",
-      "url": "https://open.spotify.com/track/1CKf0hCWwMGhSsvWjmg34n"
-    },
-    {
-      "added_at": "2024-06-09 10:20:08",
-      "album": {
         "name": "Coke Studio Season 10: Episode 7",
         "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 471195,
       "name": "Baanware",
       "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
+    },
+    {
+      "added_at": "2024-06-09 10:20:08",
+      "album": {
+        "name": "Coke Studio Season 10: Episode 1",
+        "url": "https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8"
+      },
+      "artists": [
+        {
+          "name": "Danyal Zafar",
+          "url": "https://open.spotify.com/artist/64vfatodaWtto6TxQL6TQG"
+        },
+        {
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        }
+      ],
+      "duration_ms": 337000,
+      "name": "Muntazir",
+      "url": "https://open.spotify.com/track/1CKf0hCWwMGhSsvWjmg34n"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -919,18 +919,22 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
-        "name": "Coke Studio Season 10: Episode 5",
-        "url": "https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0"
+        "name": "Coke Studio Sessions : Season 5",
+        "url": "https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK"
       },
       "artists": [
         {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
         }
       ],
-      "duration_ms": 537324,
-      "name": "Rangrez",
-      "url": "https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK"
+      "duration_ms": 406746,
+      "name": "Dasht-E-Tanhai",
+      "url": "https://open.spotify.com/track/2QACCmKVClu32zGri1hEGj"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -951,22 +955,18 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
-        "name": "Coke Studio Sessions : Season 5",
-        "url": "https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK"
+        "name": "Coke Studio Season 10: Episode 5",
+        "url": "https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0"
       },
       "artists": [
         {
-          "name": "Meesha Shafi",
-          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
-        },
-        {
-          "name": "Rohail Hyatt",
-          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
         }
       ],
-      "duration_ms": 406746,
-      "name": "Dasht-E-Tanhai",
-      "url": "https://open.spotify.com/track/2QACCmKVClu32zGri1hEGj"
+      "duration_ms": 537324,
+      "name": "Rangrez",
+      "url": "https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
+        "name": "Coke Studio Season 10: Episode 7",
+        "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        }
+      ],
+      "duration_ms": 290068,
+      "name": "Tera Naam",
+      "url": "https://open.spotify.com/track/7DqW9CgVVbF6e1VRXk0yxo"
+    },
+    {
+      "added_at": "2024-06-09 10:20:08",
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 429851,
       "name": "Aik Alif",
       "url": "https://open.spotify.com/track/1FVMCf8F6RgTVrIaN2R9tV"
-    },
-    {
-      "added_at": "2024-06-09 10:20:08",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 7",
-        "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
-      },
-      "artists": [
-        {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        }
-      ],
-      "duration_ms": 290068,
-      "name": "Tera Naam",
-      "url": "https://open.spotify.com/track/7DqW9CgVVbF6e1VRXk0yxo"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
-        "name": "Har Funn Maula",
-        "url": "https://open.spotify.com/album/2YCOyu8SsrIu0qB3XaxZTj"
-      },
-      "artists": [
-        {
-          "name": "Umair Jaswal",
-          "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
-        },
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        }
-      ],
-      "duration_ms": 366250,
-      "name": "Har Funn Maula",
-      "url": "https://open.spotify.com/track/6TAgLk1hY89as3X36xdwtv"
-    },
-    {
-      "added_at": "2024-06-09 10:20:08",
-      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 333045,
       "name": "Nadiya",
       "url": "https://open.spotify.com/track/6UtkXl98FDpPocQqwq0ozB"
+    },
+    {
+      "added_at": "2024-06-09 10:20:08",
+      "album": {
+        "name": "Har Funn Maula",
+        "url": "https://open.spotify.com/album/2YCOyu8SsrIu0qB3XaxZTj"
+      },
+      "artists": [
+        {
+          "name": "Umair Jaswal",
+          "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
+        },
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        }
+      ],
+      "duration_ms": 366250,
+      "name": "Har Funn Maula",
+      "url": "https://open.spotify.com/track/6TAgLk1hY89as3X36xdwtv"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
+        "name": "Saari Duniya",
+        "url": "https://open.spotify.com/album/4GzAnKEqzZohDHQjfQJniG"
+      },
+      "artists": [
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/4tVSsF1D79QsGTLLY5B4rt"
+        }
+      ],
+      "duration_ms": 351219,
+      "name": "Saari Duniya",
+      "url": "https://open.spotify.com/track/7y127TjQwYli2BDFtLMeaL"
+    },
+    {
+      "added_at": "2024-06-09 10:20:08",
+      "album": {
         "name": "Coke Studio Season 11 (Sound of The Nation)",
         "url": "https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 285600,
       "name": "Allah Karesi",
       "url": "https://open.spotify.com/track/04RijXB1AWDLft2q5rapr0"
-    },
-    {
-      "added_at": "2024-06-09 10:20:08",
-      "album": {
-        "name": "Saari Duniya",
-        "url": "https://open.spotify.com/album/4GzAnKEqzZohDHQjfQJniG"
-      },
-      "artists": [
-        {
-          "name": "Bohemia",
-          "url": "https://open.spotify.com/artist/4tVSsF1D79QsGTLLY5B4rt"
-        }
-      ],
-      "duration_ms": 351219,
-      "name": "Saari Duniya",
-      "url": "https://open.spotify.com/track/7y127TjQwYli2BDFtLMeaL"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -2287,22 +2287,22 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
-        "name": "Coke Studio Sessions: Season 2",
-        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+        "name": "Coke Studio Season 6",
+        "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
       },
       "artists": [
         {
-          "name": "JoSh",
-          "url": "https://open.spotify.com/artist/5F5HHkUFgMNUqwy8wXrAke"
+          "name": "Rostam Mirlashari",
+          "url": "https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz"
         },
         {
           "name": "Rohail Hyatt",
           "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Bari Barsi",
-      "url": "https://open.spotify.com/track/6FHdRD3043EI2j9K5jdIXg"
+      "duration_ms": 269620,
+      "name": "Laila O Laila",
+      "url": "https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -2331,22 +2331,22 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
-        "name": "Coke Studio Season 6",
-        "url": "https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky"
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
       "artists": [
         {
-          "name": "Rostam Mirlashari",
-          "url": "https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz"
+          "name": "JoSh",
+          "url": "https://open.spotify.com/artist/5F5HHkUFgMNUqwy8wXrAke"
         },
         {
           "name": "Rohail Hyatt",
           "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
         }
       ],
-      "duration_ms": 269620,
-      "name": "Laila O Laila",
-      "url": "https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb"
+      "duration_ms": 278000,
+      "name": "Bari Barsi",
+      "url": "https://open.spotify.com/track/6FHdRD3043EI2j9K5jdIXg"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -2824,21 +2824,17 @@
       },
       "artists": [
         {
-          "name": "The Sketches",
-          "url": "https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh"
+          "name": "Ahad Raza Mir",
+          "url": "https://open.spotify.com/artist/6bbHLk5uYlZSfmhtNQ5431"
         },
         {
-          "name": "Fakir Zulfiqar",
-          "url": "https://open.spotify.com/artist/1X0TQ9wrY9jNgeHAiY3Zod"
-        },
-        {
-          "name": "Bhagat Bhooro Laal",
-          "url": "https://open.spotify.com/artist/6PqziJkldGFdq9RMbllR7h"
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
         }
       ],
-      "duration_ms": 611368,
-      "name": "Dastaan-e-Moomal Rano",
-      "url": "https://open.spotify.com/track/253ISN2sxDJwIfSl1aQIQz"
+      "duration_ms": 217090,
+      "name": "Ko Ko Korina",
+      "url": "https://open.spotify.com/track/2czlMEVauz8zW15bhDAs2H"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -2868,17 +2864,21 @@
       },
       "artists": [
         {
-          "name": "Ahad Raza Mir",
-          "url": "https://open.spotify.com/artist/6bbHLk5uYlZSfmhtNQ5431"
+          "name": "The Sketches",
+          "url": "https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh"
         },
         {
-          "name": "Momina Mustehsan",
-          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+          "name": "Fakir Zulfiqar",
+          "url": "https://open.spotify.com/artist/1X0TQ9wrY9jNgeHAiY3Zod"
+        },
+        {
+          "name": "Bhagat Bhooro Laal",
+          "url": "https://open.spotify.com/artist/6PqziJkldGFdq9RMbllR7h"
         }
       ],
-      "duration_ms": 217090,
-      "name": "Ko Ko Korina",
-      "url": "https://open.spotify.com/track/2czlMEVauz8zW15bhDAs2H"
+      "duration_ms": 611368,
+      "name": "Dastaan-e-Moomal Rano",
+      "url": "https://open.spotify.com/track/253ISN2sxDJwIfSl1aQIQz"
     },
     {
       "added_at": "2024-06-09 10:20:08",
@@ -2955,6 +2955,22 @@
     {
       "added_at": "2024-06-09 10:20:08",
       "album": {
+        "name": "Ishq Da Kukkar",
+        "url": "https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy"
+      },
+      "artists": [
+        {
+          "name": "Sehar Gul Khan",
+          "url": "https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F"
+        }
+      ],
+      "duration_ms": 346956,
+      "name": "Ishq Da Kukkar",
+      "url": "https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi"
+    },
+    {
+      "added_at": "2024-06-09 10:20:08",
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -2971,22 +2987,6 @@
       "duration_ms": 321377,
       "name": "Husn-e-Haqiqi",
       "url": "https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df"
-    },
-    {
-      "added_at": "2024-06-09 10:20:08",
-      "album": {
-        "name": "Ishq Da Kukkar",
-        "url": "https://open.spotify.com/album/7t75KSVAjlz1KfXY4U4ZLy"
-      },
-      "artists": [
-        {
-          "name": "Sehar Gul Khan",
-          "url": "https://open.spotify.com/artist/2YHl92qiRfNuH0yUtohX4F"
-        }
-      ],
-      "duration_ms": 346956,
-      "name": "Ishq Da Kukkar",
-      "url": "https://open.spotify.com/track/0dLJH4sfa4eFqbu22J0sAi"
     },
     {
       "added_at": "2024-06-09 10:20:08",

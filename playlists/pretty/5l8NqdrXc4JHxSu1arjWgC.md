@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,347 likes - 697 songs - 1 day 22 hr 50 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,350 likes - 697 songs - 1 day 22 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -462,7 +462,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 452 | [Cecilia Ann](https://open.spotify.com/track/0mjB1LNY9TS6lOXbyoARls) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Bossanova](https://open.spotify.com/album/60cRh5MCFNOrFeQykKnDej) | 2:06 |
 | 453 | [One of These Days](https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:54 |
 | 454 | [This Thing](https://open.spotify.com/track/4AmvxQPJ3Bd3T4S99VxHrO) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Fishing For Fishies](https://open.spotify.com/album/1Q5gtIhAPUYszJQveFEhRr) | 3:59 |
-| 455 | [Walk On By \- Remastered 1991 Album Version](https://open.spotify.com/track/4NU6Vnrsh09TdZtIBYBwTA) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Greatest Hits Singles](https://open.spotify.com/album/6lNZfFXjy00SYu3w0HLMx0) | 4:33 |
+| 455 | [Walk On By \- Remastered 1991 Album Version](https://open.spotify.com/track/4NU6Vnrsh09TdZtIBYBwTA) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Greatest Hits Singles \(Remastered 1991\)](https://open.spotify.com/album/6lNZfFXjy00SYu3w0HLMx0) | 4:33 |
 | 456 | [...Like Clockwork](https://open.spotify.com/track/2v8sPwkqVDgWprsmGIis25) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 5:24 |
 | 457 | [Night Running](https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:28 |
 | 458 | [Black Star Dancing](https://open.spotify.com/track/5RM7C8ulE0SIUmnwVUN9Je) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Black Star Dancing](https://open.spotify.com/album/6wRhen6YKWYNt7b70KQQ7i) | 4:21 |

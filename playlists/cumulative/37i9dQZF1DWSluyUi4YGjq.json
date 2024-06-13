@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Track 1-25 from DIIV, featuring new album <a href=\"spotify:album:7xLRw5DsWnAMmNBp8I67UD\">Frog in Boiling Water</a>. ",
+  "description": "Includes track selections from DIIV, featuring new album <a href=\"spotify:album:7xLRw5DsWnAMmNBp8I67UD\">Frog in Boiling Water</a>. ",
   "name": "Shoegaze Now",
   "tracks": [
     {
@@ -5343,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "icantbelieveiletyougetaway",
+        "url": "https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135880,
+      "name": "icantbelieveiletyougetaway",
+      "url": "https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM"
+    },
+    {
+      "album": {
         "name": "idk how to luv",
         "url": "https://open.spotify.com/album/44qZHhMFg4eKJymG5VWzG3"
       },
@@ -8116,6 +8134,28 @@
       "duration_ms": 248293,
       "name": "Perfect Life",
       "url": "https://open.spotify.com/track/3IrAxNUFFTCMOjjAIcUai7"
+    },
+    {
+      "album": {
+        "name": "Perfectly Blue (feat. Winter)",
+        "url": "https://open.spotify.com/album/65gzOnTds7R6w4Pvej8Brq"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Perfectly Blue (feat. Winter)",
+      "url": "https://open.spotify.com/track/1yTIls3wv8W1XscrAR00Iy"
     },
     {
       "album": {

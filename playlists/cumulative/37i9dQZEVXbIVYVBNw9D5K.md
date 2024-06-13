@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-938 songs - 1 day 22 hr 45 min
+939 songs - 1 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 | 2023-12-16 | 2024-02-18 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-14 | 2022-01-15 |
 | [ACAYİP \(feat\. UZI\)](https://open.spotify.com/track/1g1JMCVIKCMOos5iySa0G3) | [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ACAYİP \(feat\. UZI\)](https://open.spotify.com/album/0Enm6gT6ON7AiorP5cDJ1U) | 3:12 | 2021-08-01 | 2021-08-08 |
-| [Acı Veriyor](https://open.spotify.com/track/0NcrorHQw7tB1ykMIsZkGD) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Acı Veriyor](https://open.spotify.com/album/0ZanJVLiFEKEHsEzzaxaZE) | 3:13 | 2024-03-02 |  |
+| [Acı Veriyor](https://open.spotify.com/track/0NcrorHQw7tB1ykMIsZkGD) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Acı Veriyor](https://open.spotify.com/album/0ZanJVLiFEKEHsEzzaxaZE) | 3:13 | 2024-03-02 | 2024-06-13 |
 | [Adamın Dibi](https://open.spotify.com/track/204vk1sfqltmQRHDFivr7g) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Sirenler](https://open.spotify.com/album/1bN6NwrpjgzYH01Fy5gagf) | 4:37 | 2022-01-22 | 2022-01-25 |
 | [Aden P2](https://open.spotify.com/track/40Sala0O1VkPH2YM98xVL9) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Bir Şeytan Masalı](https://open.spotify.com/album/0YpM7NeedzcdGHPKWM2PO6) | 3:12 | 2021-10-17 | 2021-11-28 |
 | [Aden P2](https://open.spotify.com/track/5nH7scL0E9sDQjGnNiTWMm) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Aden P2](https://open.spotify.com/album/7JDEWPS8vHlkhl39DmNAdR) | 3:12 | 2021-09-02 | 2021-10-17 |
@@ -228,6 +228,7 @@
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 | 2024-06-12 |
+| [Dale Don Dale](https://open.spotify.com/track/6d41Qcxk0r5zJFzG683NRt) | [lonut cercel](https://open.spotify.com/artist/65WOws0UU3UN2ZcFlLVcV1) | [Dale Don Dale](https://open.spotify.com/album/7hU5rw9Ey5PdD6gJbf21El) | 1:54 | 2024-06-12 |  |
 | [Dalga](https://open.spotify.com/track/3P0WmQXWzV3yqFyfgVolrT) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dalga](https://open.spotify.com/album/1xAhqFShLFhO65ut0iiQxU) | 2:05 | 2021-09-18 | 2022-04-13 |
 | [Dalga \- Emre Terzioğlu Remix](https://open.spotify.com/track/6Fri3yOIEBWJLVwlniBEQ1) | [Emre Terzioğlu](https://open.spotify.com/artist/5yiOnnmXLyko6TKdHCrtQz) | [Dalga \(Emre Terzioğlu Remix\)](https://open.spotify.com/album/1E7n6INLCRSqlOv3fckmmB) | 2:08 | 2021-09-21 | 2021-09-22 |
 | [DAMLA](https://open.spotify.com/track/1HPYGaSGPzz1QVnjCffc1f) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:04 | 2023-06-17 | 2023-09-09 |

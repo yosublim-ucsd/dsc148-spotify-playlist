@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,526 likes - 43 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,551 likes - 43 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 38 | [Bourbon \- Ao Vivo no Estúdio MangoLab](https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Bourbon \(Ao Vivo no Estúdio MangoLab\)](https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8) | 1:50 |
 | 39 | [Temporary Lover](https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN) | [Adrian Jean](https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Temporary Lover](https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G) | 3:51 |
 | 40 | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [CRIVO](https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe) | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5) | 3:01 |
-| 41 | [Real \#1](https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Shok](https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA) | [Real \#1](https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L) | 2:44 |
-| 42 | [Important](https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [I.E.](https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Never Ghost](https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W) | 3:32 |
+| 41 | [Important](https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [I.E.](https://open.spotify.com/artist/5QRo5WHp5L2UL0o9GkBZaK), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Never Ghost](https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W) | 3:32 |
+| 42 | [Real \#1](https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Shok](https://open.spotify.com/artist/5cQwJrjTcPI5Nv61Xv3nsA) | [Real \#1](https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L) | 2:44 |
 | 43 | [STRIP](https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Geenuino, o PAI](https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 4:37 |
 
-Snapshot ID: `ZmZCAAAAAAAiOy8y6aERbdcjYKGIJeY/`
+Snapshot ID: `ZmeTgAAAAAA3XFeSWCoZlnyZgQq8Gtpz`

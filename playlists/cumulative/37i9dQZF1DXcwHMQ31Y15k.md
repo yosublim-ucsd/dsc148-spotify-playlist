@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: OMWAWES
 
-344 songs - 1 day 4 hr 18 min
+346 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Langganan Kleru \- Cover](https://open.spotify.com/track/6cDrGW9pKEq52SebLnfI8V) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Langganan Kleru \(Cover\)](https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU) | 5:15 | 2023-10-20 | 2024-01-12 |
 | [LDR](https://open.spotify.com/track/0e3bJ0Tn5uOwT6vf618sTs) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [LDR](https://open.spotify.com/album/5zAb03GyKz471c7cGmijfc) | 5:06 | 2024-05-30 |  |
 | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \(Live\)](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 | 2024-05-16 |  |
+| [LDR \(Langgeng Dayaning Rasa\)](https://open.spotify.com/track/4nBsCOuBcfBRySw8vjmk0D) | [Niken Salindry](https://open.spotify.com/artist/3UTo1Lyi2ZuZMURMX9DbUv) | [LDR \(Langgeng Dayaning Rasa\)](https://open.spotify.com/album/4ITnDH8RzNDF8kULSyuoXA) | 4:59 | 2024-06-13 |  |
 | [LDR \- Acoustic](https://open.spotify.com/track/7p6TgnqoZXExcao4JHwZfc) | [Restianade](https://open.spotify.com/artist/7A9lPm8R65nJT5ujGJzy5I) | [LDR \(Acoustic\)](https://open.spotify.com/album/4O1qHuKhVTAigJSFoe8j53) | 4:00 | 2024-05-24 |  |
 | [Lemah Teles](https://open.spotify.com/track/5c8Yuef8DL7Okp8Y9KhJMK) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Lemah Teles](https://open.spotify.com/album/4PlE7GG0LpXSEEN1B5tuqK) | 6:16 | 2022-05-26 | 2023-08-11 |
 | [Lengo Lan Banyu](https://open.spotify.com/track/7hGRnpcfRRqZjmbEaBJVEK) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Lengo Lan Banyu](https://open.spotify.com/album/24FEvuzz1HYxNZcxVIttZo) | 5:34 | 2023-03-09 | 2023-08-11 |
@@ -231,6 +232,7 @@
 | [OTW \(Omong Taek We\)](https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [OTW \(Omong Taek We\)](https://open.spotify.com/album/12FLfnCnXLLvqdR75ilOYW) | 4:52 | 2022-05-26 | 2023-07-29 |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2022-05-26 | 2023-08-11 |
 | [Pangestu](https://open.spotify.com/track/3wBWUVz2PJCQN4PETCb6x9) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Pangestu](https://open.spotify.com/album/1R1HP9hiqJ6QsYpxuHZepL) | 4:51 | 2023-08-17 | 2024-03-15 |
+| [Pasukan Anti Prei](https://open.spotify.com/track/0dsFfIJm5bnQJFcSprA9DN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Pasukan Anti Prei](https://open.spotify.com/album/3S9MsMqFeQaov7XIsVVfm8) | 4:30 | 2024-06-13 |  |
 | [Pedhot Janji](https://open.spotify.com/track/2Z8sz5V61e7mUQHl7WTP69) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Pedhot Janji](https://open.spotify.com/album/3YnvGg3QhzKyYE733kw6fu) | 6:15 | 2022-05-26 | 2023-08-11 |
 | [Pelaku Macak Korban](https://open.spotify.com/track/0tZQUbI9L0LsjkEO79wEtL) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Pelaku Macak Korban](https://open.spotify.com/album/1gBHTUfYC4O9pfaEn7Kh69) | 5:14 | 2023-09-07 |  |
 | [Pelaku Macak Korban](https://open.spotify.com/track/1l5Vdl7NeeR1kRYMLR4rKg) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Pelaku Macak Korban](https://open.spotify.com/album/0CU4ITSBkNCl9kD9EPENCp) | 5:14 | 2023-12-08 | 2024-04-19 |

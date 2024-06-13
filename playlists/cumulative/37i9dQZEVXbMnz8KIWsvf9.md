@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-846 songs - 2 day 1 hr 40 min
+847 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Lonely](https://open.spotify.com/track/50y0OQgar3BnwTt1pXdYsM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:46 | 2022-12-03 | 2022-12-05 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-06 | 2021-06-16 |
 | [LOST!](https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Right Place, Wrong Person](https://open.spotify.com/album/512dQp7hBbDDurodCqSw5I) | 3:53 | 2024-05-25 |  |
+| [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-06-12 |  |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-06-25 | 2022-06-27 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-06 | 2022-06-05 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
@@ -616,7 +617,7 @@
 | [คุยคนเดียวเก่ง](https://open.spotify.com/track/4DqaFHKqAsnBn9DfLWhRpW) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:22 | 2021-07-23 | 2021-07-28 |
 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 | 2022-05-14 | 2022-06-26 |
 | [งานเต้นรำ](https://open.spotify.com/track/3jQEXiy7AtzDMiilrYlO0H) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:49 | 2023-04-21 | 2023-04-23 |
-| [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-01-25 | 2024-06-12 |
+| [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-01-25 |  |
 | [จดหมาย](https://open.spotify.com/track/2wgGM5bNyPTVI2d7KHmmRw) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [I Beg Your Pardon](https://open.spotify.com/album/2lTMsDMjTYFFp2NVAMDgtf) | 3:03 | 2023-03-14 | 2023-06-17 |
 | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/track/0uSPq0GNlfrIeaBDc2574f) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [จะกลับไปดีกับเขาก็บอก](https://open.spotify.com/album/5kEtuZ1KxY8xJRFZ25Xn4H) | 3:20 | 2021-07-21 | 2021-10-29 |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-08 | 2023-11-22 |
@@ -761,14 +762,14 @@
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2023-04-08 | 2024-02-23 |
 | [อาบน้ำตา](https://open.spotify.com/track/6GWjK0rBQScvGI5fiw4NP4) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [อาบน้ำตา](https://open.spotify.com/album/2OitjfqfGzFLpPHP5gNeps) | 3:15 | 2023-03-29 | 2023-03-31 |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2022-01-28 | 2022-07-03 |
-| [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2023-12-10 |  |
+| [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2023-12-10 | 2024-06-13 |
 | [อีกนิดเดียว](https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [อีกนิดเดียว](https://open.spotify.com/album/3YcZNdrjPP6AeFhazOcSab) | 3:41 | 2022-05-23 | 2022-05-31 |
 | [อ๋อค่ะ](https://open.spotify.com/track/1XlaKSyICVO45By6Gf1CjM) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [อ๋อค่ะ](https://open.spotify.com/album/7CEY36trH9lWieeGRzTOgb) | 4:12 | 2022-07-22 | 2022-08-09 |
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2022-07-11 | 2022-09-10 |
 | [เกินปุยมุ้ย!](https://open.spotify.com/track/2nhI5HdE2iZ39rgJjHOQvG) | [เอ้ย จิรัช](https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY) | [เกินปุยมุ้ย!](https://open.spotify.com/album/2VuEAib3nbCqK58hcIaKSV) | 3:11 | 2022-07-16 | 2022-09-15 |
 | [เก็บไว้ในใจไม่พอ](https://open.spotify.com/track/0hdVaCnCS5d5puPAN2tQ25) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [Popstar](https://open.spotify.com/album/46bPZgDz1psyr7QOgu36lE) | 4:26 | 2021-04-14 | 2021-05-11 |
 | [เก่งแต่เรื่องคนอื่น \(EXPERT\) Feat\. Sprite](https://open.spotify.com/track/0N5DeGdC258DI3DZEn2SEI) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เก่งแต่เรื่องคนอื่น \(EXPERT\) Feat\. Sprite](https://open.spotify.com/album/5kfR9VRQUjC5y0dFWmQdcU) | 3:06 | 2021-10-06 | 2022-02-05 |
-| [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2022-03-25 |  |
+| [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 | 2022-03-25 | 2024-06-13 |
 | [เจ้าของที่ \(My Favorite\)](https://open.spotify.com/track/09uH61N5f6I6cO97E0iEqB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [เจ้าของที่ \(My Favorite\)](https://open.spotify.com/album/0sNSjqR4CsTlmuZGq9vOsF) | 4:00 | 2022-03-12 | 2022-03-26 |
 | [เดอะแบก \(Baggage\)](https://open.spotify.com/track/6bi1KEQMr9oOSBodFj5QD2) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [เดอะแบก \(Baggage\)](https://open.spotify.com/album/71GYrawD0oeNzpXfrkDiDq) | 5:06 | 2021-10-18 | 2021-11-27 |
 | [เดอะแบก \(Baggage\)](https://open.spotify.com/track/46qO3ZNfXCH264ew36lDow) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 5:07 | 2021-11-27 | 2021-12-03 |

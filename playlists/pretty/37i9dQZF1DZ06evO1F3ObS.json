@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 20484,
+  "num_followers": 20482,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAAAcbNzIyEQn3UKyYvGy1YlY",
+  "snapshot_id": "ZmeTgAAAAAC3KuOTR458ZGW8ZtNYkpHu",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "\uff13\uff13\uff14\uff11\u3088",
+        "url": "https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "\uff13\uff13\uff14\uff11\u3088",
+      "url": "https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 263321,
+      "name": "\u30b8\u30e5\u30d6\u30ca\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/0aNo5AAvXdaY2bFUQ0OedX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
         "url": "https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ"
       },
@@ -275,38 +307,6 @@
       "duration_ms": 318760,
       "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
       "url": "https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 263321,
-      "name": "\u30b8\u30e5\u30d6\u30ca\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/0aNo5AAvXdaY2bFUQ0OedX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\uff13\uff13\uff14\uff11\u3088",
-        "url": "https://open.spotify.com/album/4Mtg1G2ROHSVk41xmNsQFM"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "\uff13\uff13\uff14\uff11\u3088",
-      "url": "https://open.spotify.com/track/7KhLGWfohMhIQlEliIqpDC"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANIMA (Special Edition)",
-        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "\u96e8\u306b\u5504\u3048\u3070",
-      "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
         "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 315897,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 269746,
+      "name": "\u96e8\u306b\u5504\u3048\u3070",
+      "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e(Special Edition)",
+        "url": "https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 314239,
-      "name": "ANIMA -Naked Style.-",
-      "url": "https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69"
+      "duration_ms": 328400,
+      "name": "\u4e0d\u826f\u5c11\u5973\u767d\u66f8",
+      "url": "https://open.spotify.com/track/7I502VpOAeSR89Sc1xAfBG"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
       "duration_ms": 311800,
       "name": "\u6c7a\u610f\u306e\u671d\u306b",
       "url": "https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 314239,
+      "name": "ANIMA -Naked Style.-",
+      "url": "https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e(Special Edition)",
-        "url": "https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU"
+        "name": "Alive(Special Edition)",
+        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 328400,
-      "name": "\u4e0d\u826f\u5c11\u5973\u767d\u66f8",
-      "url": "https://open.spotify.com/track/7I502VpOAeSR89Sc1xAfBG"
+      "duration_ms": 253240,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1Hane5qDm7pjoe5F96HtnZ"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 353546,
       "name": "\u30df\u30df\u30c3\u30af",
       "url": "https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive(Special Edition)",
-        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/1Hane5qDm7pjoe5F96HtnZ"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
-        "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 99449,
-      "name": "\u751f\u547d\u7dda -Game size-",
-      "url": "https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r"
+      "duration_ms": 252266,
+      "name": "\u3042\u3057\u305f\u306f\u30cf\u30ec\u30eb\u30e4",
+      "url": "https://open.spotify.com/track/2CjgUjb98tknCsDWiMn7Oz"
     }
   ],
   "unique_name": "This Is ReoNa",

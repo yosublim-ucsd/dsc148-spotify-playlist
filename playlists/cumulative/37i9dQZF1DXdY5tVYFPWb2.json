@@ -2517,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "SYNCHRONICITY POP",
+        "url": "https://open.spotify.com/album/2XMzhpRsY3PbAWrxNv7xNK"
+      },
+      "artists": [
+        {
+          "name": "Little Black Dress",
+          "url": "https://open.spotify.com/artist/0rrUSORQ2b4EReKZhB3U9P"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295466,
+      "name": "Drive Our Dreams",
+      "url": "https://open.spotify.com/track/4Tm9gdyG4FnEf2IBlrYx3s"
+    },
+    {
+      "album": {
         "name": "PLASMA",
         "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
       },
@@ -15722,7 +15740,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 227161,
       "name": "\u8e0a\u3089\u305b\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/6AA6bwyZpNlRpf3ii2la7e"

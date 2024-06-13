@@ -1,12 +1,12 @@
 {
   "description": "This Is Belinda. Los temas esenciales, todos en una lista.",
-  "num_followers": 66554,
+  "num_followers": 66623,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAACLkZNKGXDE6T1pViWlotdL",
+  "snapshot_id": "ZmeTgAAAAAAUzBu0Av9lX3XH7/M3xuRf",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoterapia",
-        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 202153,
-      "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FINAL (Vol.2)",
         "url": "https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx"
       },
@@ -379,38 +359,6 @@
       "duration_ms": 164649,
       "name": "Ll\u00f3rame Un R\u00edo",
       "url": "https://open.spotify.com/track/3LmvPdmYvNEe9D7BTsonsX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4.0",
-        "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Snova",
-          "url": "https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj"
-        },
-        {
-          "name": "B-Case",
-          "url": "https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "D\u00e9jate Llevar",
-      "url": "https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu"
     },
     {
       "added_at": null,
@@ -983,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Alguien Mas",
+      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Esencial de Belinda",
         "url": "https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4"
       },
@@ -999,22 +963,6 @@
       "duration_ms": 194080,
       "name": "Amigos por Siempre",
       "url": "https://open.spotify.com/track/5xSljhyINjp7c3g0Qi20NS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Alguien Mas",
-      "url": "https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ"
     },
     {
       "added_at": null,
@@ -1183,6 +1131,42 @@
       "duration_ms": 160979,
       "name": "Eden",
       "url": "https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "I Love You... Te Quiero",
+      "url": "https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg"
     }
   ],
   "unique_name": "This Is Belinda",

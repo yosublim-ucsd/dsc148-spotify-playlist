@@ -1,6 +1,6 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 265565,
+  "num_followers": 265631,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
@@ -1075,8 +1075,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
-        "url": "https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m"
+        "name": "El Aire De Tu Casa",
+        "url": "https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX"
       },
       "artists": [
         {
@@ -1084,9 +1084,41 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Ayer Te Vi... Fue Mas Claro Que La Luna",
-      "url": "https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV"
+      "duration_ms": 241933,
+      "name": "Me Dice Que Me Ama",
+      "url": "https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Santo Es El Se\u00f1or",
+        "url": "https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq"
+      },
+      "artists": [
+        {
+          "name": "Palabra en Acci\u00f3n",
+          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "Hay Una Fuente En M\u00ed - Live",
+      "url": "https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 330973,
+      "name": "Soy Un Altar",
+      "url": "https://open.spotify.com/track/1lmPSE7QyIA2XKSYMUtlix"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1111,22 +1143,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Soy Un Altar",
-      "url": "https://open.spotify.com/track/1lmPSE7QyIA2XKSYMUtlix"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Eres Todopoderoso",
         "url": "https://open.spotify.com/album/5ttRWWt0SfHgNaOX1q4aHn"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 258716,
       "name": "El Se\u00f1or es mi pastor",
       "url": "https://open.spotify.com/track/6dzzAzS051TUrSE0iSKO2C"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Inquebrantable",
-        "url": "https://open.spotify.com/album/5gdyDRdeJCzV6gozjFMwq1"
-      },
-      "artists": [
-        {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
-        }
-      ],
-      "duration_ms": 329013,
-      "name": "Por el poder de tu amor (The power of your Love)",
-      "url": "https://open.spotify.com/track/0AQPDMIJmAEiXe182jLAIp"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "El Aire De Tu Casa",
-        "url": "https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX"
+        "name": "Ayer Te Vi...Fue M\u00e1s Claro Que La Luna",
+        "url": "https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Me Dice Que Me Ama",
-      "url": "https://open.spotify.com/track/4asTccqkv3G7KSKdy7QGED"
+      "duration_ms": 232853,
+      "name": "Ayer Te Vi... Fue Mas Claro Que La Luna",
+      "url": "https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1203,6 +1203,22 @@
       "duration_ms": 254600,
       "name": "En paz",
       "url": "https://open.spotify.com/track/3aBwdmDksm7NMKZ6uEXmn2"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/5gdyDRdeJCzV6gozjFMwq1"
+      },
+      "artists": [
+        {
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+        }
+      ],
+      "duration_ms": 329013,
+      "name": "Por el poder de tu amor (The power of your Love)",
+      "url": "https://open.spotify.com/track/0AQPDMIJmAEiXe182jLAIp"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1239,6 +1255,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "He Visto Su Gloria",
+        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
+      },
+      "artists": [
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+        }
+      ],
+      "duration_ms": 401253,
+      "name": "He Visto Su Gloria",
+      "url": "https://open.spotify.com/track/6mBTNoOs9cqcuqEmZZopVz"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/7fONBkySYSZAp5U6Et7len"
       },
@@ -1259,38 +1291,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "He Visto Su Gloria",
-        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
-      },
-      "artists": [
-        {
-          "name": "Tony P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
-        }
-      ],
-      "duration_ms": 401253,
-      "name": "He Visto Su Gloria",
-      "url": "https://open.spotify.com/track/6mBTNoOs9cqcuqEmZZopVz"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 295444,
-      "name": "Roca eterna",
-      "url": "https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/0lkkoUlHus6JVtt5RUlPqX"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Santo Es El Se\u00f1or",
-        "url": "https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
       },
       "artists": [
         {
-          "name": "Palabra en Acci\u00f3n",
-          "url": "https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 273066,
-      "name": "Hay Una Fuente En M\u00ed - Live",
-      "url": "https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G"
+      "duration_ms": 295444,
+      "name": "Roca eterna",
+      "url": "https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 319920,
-      "name": "Vengo a Adorate",
-      "url": "https://open.spotify.com/track/7CGvRA47dm5evqdGbaZhc1"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Glorificad a Jehov\u00e1",
         "url": "https://open.spotify.com/album/3nyUEu5lMsZpAKttvYF4gl"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 360386,
       "name": "Toda la Gloria",
       "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 319920,
+      "name": "Vengo a Adorate",
+      "url": "https://open.spotify.com/track/7CGvRA47dm5evqdGbaZhc1"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 374491,
+      "name": "Me rindo ante ti",
+      "url": "https://open.spotify.com/track/1l1xlZZlbfgQdTq86MQcpy"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Siempre M\u00e1s feat. Un Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0QdE1JWEZDunqL5s1b6OQX"
       },
@@ -1567,6 +1583,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Eres Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 300460,
+      "name": "El es mi amigo fiel",
+      "url": "https://open.spotify.com/track/4i8Dl9bKIF0QyopVYg6Qxt"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Pura Sal",
         "url": "https://open.spotify.com/album/5ZOJT9H7e2zbAI0WwIu1z3"
       },
@@ -1583,38 +1615,6 @@
       "duration_ms": 238413,
       "name": "Vivir\u00e9 (feat. Evan Craft)",
       "url": "https://open.spotify.com/track/0Ft7B7xB781P2lrdGIVaHo"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 374491,
-      "name": "Me rindo ante ti",
-      "url": "https://open.spotify.com/track/1l1xlZZlbfgQdTq86MQcpy"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Eres Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 300460,
-      "name": "El es mi amigo fiel",
-      "url": "https://open.spotify.com/track/4i8Dl9bKIF0QyopVYg6Qxt"
     },
     {
       "added_at": "2020-11-24 13:23:38",

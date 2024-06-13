@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,505 likes - 205 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,664 likes - 205 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 8 | [Vibes for Days](https://open.spotify.com/track/4V0mXIbacFOCbpbbREQYe0) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Vibes for Days](https://open.spotify.com/album/6dKgZ9fsuVqboP7susoYUY) | 3:03 |
 | 9 | [Riviera Blue](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Riviera Blue](https://open.spotify.com/album/5xPcqCeZu9xKNJgQI1vriZ) | 2:40 |
 | 10 | [Spectral Motion](https://open.spotify.com/track/4dedu45dlthX78olBg9zza) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Spectral Motion](https://open.spotify.com/album/67RAdrTGOgdSNgZNHHXK9h) | 2:52 |
-| 11 | [Grapes](https://open.spotify.com/track/3iFeU8H1OiqZIxhBIBYQZp) | [Green Gold](https://open.spotify.com/artist/709cr7wm8P2ybOfAxCj9Fm) | [Grapes](https://open.spotify.com/album/5txnfjWztQ0j57Any96K1u) | 2:06 |
+| 11 | [Grapes](https://open.spotify.com/track/3iFeU8H1OiqZIxhBIBYQZp) | [Green Gold](https://open.spotify.com/artist/39yNM8oBTQFK8zEB4mT6zM) | [Grapes](https://open.spotify.com/album/5txnfjWztQ0j57Any96K1u) | 2:06 |
 | 12 | [Lobster Bib](https://open.spotify.com/track/0aRC0W5zVWricDxM2s98La) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [Lobster Bib](https://open.spotify.com/album/3L6WszZQcbzwxzjnaIsxwn) | 2:57 |
 | 13 | [Sizzle](https://open.spotify.com/track/15CCADMXfDMgtokv8cfZOJ) | [steffiii](https://open.spotify.com/artist/4P5bx26MI0LodfI3kJkmpT) | [Sizzle](https://open.spotify.com/album/3hpRo30iEqEC203e11edDV) | 2:23 |
 | 14 | [Time Out](https://open.spotify.com/track/5H5QQ5HrOJBoc2a2uIiPzi) | [Nth Shade](https://open.spotify.com/artist/7JjX7x1u28JKVMa8BZUSVB) | [Time Out](https://open.spotify.com/album/04wrrG23eCjbw6WSQK48u6) | 2:26 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 34 | [Ocean Bloom](https://open.spotify.com/track/2tCNch4OfhyBdWkHQJ0w6B) | [Noiseway](https://open.spotify.com/artist/5ewcFklbngFYknFlviWYHb) | [Ocean Bloom](https://open.spotify.com/album/4vqiyVU2MGKpdWTmXYFOqN) | 2:31 |
 | 35 | [Sartorius](https://open.spotify.com/track/2ANndvXKayTN5yla7pc32a) | [DJ Daidol](https://open.spotify.com/artist/15ORgKLuv7SVSdIlAyfMTs) | [Sartorius](https://open.spotify.com/album/4edaSzGIl7o516jm8XMi5N) | 2:48 |
 | 36 | [Kai](https://open.spotify.com/track/3Qia0ukLn1LglhZroKmFVv) | [JKP](https://open.spotify.com/artist/25MKxy3PlF0H2OePJX3ryf) | [Kai](https://open.spotify.com/album/6PstW6HSHy3QUPFbm3fImR) | 6:22 |
-| 37 | [Command](https://open.spotify.com/track/3G2Z6961Suis6IlOLhsVRE) | [Green Gold](https://open.spotify.com/artist/709cr7wm8P2ybOfAxCj9Fm) | [Command](https://open.spotify.com/album/0HFJ2jMHzxO66Zj88UTcvd) | 2:31 |
+| 37 | [Command](https://open.spotify.com/track/3G2Z6961Suis6IlOLhsVRE) | [Green Gold](https://open.spotify.com/artist/39yNM8oBTQFK8zEB4mT6zM) | [Command](https://open.spotify.com/album/0HFJ2jMHzxO66Zj88UTcvd) | 2:31 |
 | 38 | [Full Focus](https://open.spotify.com/track/3c31pT6OL69UONYBFXxJfH) | [liily day](https://open.spotify.com/artist/6cEnad7Xq3IDYJ2yBnpUlN) | [Full Focus](https://open.spotify.com/album/5cHmU8ti8CJszEM5ry2NCM) | 2:01 |
 | 39 | [Linares](https://open.spotify.com/track/1BIpsZXO7zxplZmyVzNzDv) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Linares](https://open.spotify.com/album/0Sf4NmiFpMfZePoY3lCq5y) | 2:46 |
 | 40 | [Para Sol](https://open.spotify.com/track/5hrJnEz67Q6l33sPtGFga4) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Para Sol](https://open.spotify.com/album/4zCjXYDYpNXj1p7CHYKfGp) | 3:16 |

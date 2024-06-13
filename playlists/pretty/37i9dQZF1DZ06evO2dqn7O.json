@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 53965,
+  "num_followers": 53968,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAAAhxLzBcA+RMOwU04O41hQ5",
+  "snapshot_id": "ZmeTgAAAAADZcUC1bapbs1MPBgZtJB+5",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "BOOM",
-      "url": "https://open.spotify.com/track/3V9cM3nCH2G66afoDi0snu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Undeniable (feat. X Ambassadors)",
         "url": "https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm"
       },
@@ -235,42 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ASCEND",
-        "url": "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 220730,
-      "name": "In Your Arms (with X Ambassadors)",
-      "url": "https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Before You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Erich Lee",
-          "url": "https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR"
         }
       ],
-      "duration_ms": 204586,
-      "name": "Unsteady - Erich Lee Gravity Remix",
-      "url": "https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN"
+      "duration_ms": 208653,
+      "name": "HEY CHILD",
+      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
     },
     {
       "added_at": null,
@@ -307,22 +267,6 @@
       "duration_ms": 193520,
       "name": "Half-Life",
       "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "HEY CHILD",
-      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
     },
     {
       "added_at": null,
@@ -367,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 350920,
-      "name": "Follow the Sound of My Voice",
-      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alcohol (with BRELAND)",
         "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
       },
@@ -399,6 +327,22 @@
       "duration_ms": 218266,
       "name": "Alcohol (with BRELAND)",
       "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
     },
     {
       "added_at": null,
@@ -435,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Sunoco",
-      "url": "https://open.spotify.com/track/4y5lApjfksaQ35CdhVjvL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This is Acoustic (Live Session / Acoustic Version)",
         "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
       },
@@ -463,6 +391,22 @@
       "duration_ms": 181986,
       "name": "Renegades - Live Session / Acoustic Version",
       "url": "https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Sunoco",
+      "url": "https://open.spotify.com/track/4y5lApjfksaQ35CdhVjvL5"
     },
     {
       "added_at": null,
@@ -503,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "I'm Not Really Here",
-      "url": "https://open.spotify.com/track/0Np34uzd2oP17sO73NTLM3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beautiful Liar",
         "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
       },
@@ -535,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Town",
-        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
       "artists": [
         {
@@ -544,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 306613,
-      "name": "Your Town",
-      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
+      "duration_ms": 198626,
+      "name": "I'm Not Really Here",
+      "url": "https://open.spotify.com/track/0Np34uzd2oP17sO73NTLM3"
     },
     {
       "added_at": null,
@@ -567,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+        "name": "Your Town",
+        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
       },
       "artists": [
         {
@@ -576,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
+      "duration_ms": 306613,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
     },
     {
       "added_at": null,
@@ -595,6 +523,22 @@
       "duration_ms": 207373,
       "name": "Torches",
       "url": "https://open.spotify.com/track/1p9mCPuPV9FGa0jnJYk0IA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
     },
     {
       "added_at": null,
@@ -815,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
-        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
-      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "why does everything make me cry?",
         "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
       },
@@ -911,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoping",
-        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193566,
-      "name": "Hoping",
-      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs Drug Songs",
         "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
       },
@@ -963,6 +875,102 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Atlas Underground Flood",
+        "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 188686,
+      "name": "You'll Get Yours (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "torture (with Earl St. Clair)",
+        "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "duration_ms": 161669,
+      "name": "torture (with Earl St. Clair)",
+      "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "WASTELAND",
+      "url": "https://open.spotify.com/track/1XzzHgGGmul65gGyjlmxBj"
     }
   ],
   "unique_name": "This Is X Ambassadors",

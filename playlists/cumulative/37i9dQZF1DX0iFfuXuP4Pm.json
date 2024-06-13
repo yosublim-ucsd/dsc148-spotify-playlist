@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Cup of Joe",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Maki",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Awitin Mo, Isasayaw Ko",
+        "url": "https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297066,
+      "name": "Awitin Mo, Isasayaw Ko",
+      "url": "https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc"
+    },
+    {
+      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -324,6 +342,28 @@
       "duration_ms": 188000,
       "name": "bet",
       "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "album": {
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "NEXXFRIDAY",
+          "url": "https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154937,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8"
     },
     {
       "album": {
@@ -454,7 +494,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 199708,
       "name": "Di Ko Kasalanan (feat. gins&melodies)",
       "url": "https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F"
@@ -476,6 +516,28 @@
       "duration_ms": 192380,
       "name": "Dilaw",
       "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
+    },
+    {
+      "album": {
+        "name": "Distansya",
+        "url": "https://open.spotify.com/album/56sM1iZVmSWGnorKZzCzgz"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        },
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279524,
+      "name": "Distansya",
+      "url": "https://open.spotify.com/track/5ckv9XlKXJN6JccRJFjfyv"
     },
     {
       "album": {
@@ -1206,7 +1268,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 314566,
       "name": "Limang Taon",
       "url": "https://open.spotify.com/track/7d4sWEXBTj6qShMbMWpEd3"
@@ -1528,7 +1590,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 168102,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8"
@@ -2256,7 +2318,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 284827,
       "name": "Segundo, Siguro",
       "url": "https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7"
@@ -2304,6 +2366,28 @@
       "duration_ms": 281707,
       "name": "Sikulo",
       "url": "https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv"
+    },
+    {
+      "album": {
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "album": {
@@ -2362,7 +2446,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 180000,
       "name": "Sunny When I'm With You",
       "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
@@ -2409,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "Tanga Mo Juan",
+        "url": "https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246064,
+      "name": "Tanga Mo Juan",
+      "url": "https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9"
+    },
+    {
+      "album": {
         "name": "Tatlong Buwan",
         "url": "https://open.spotify.com/album/6kvSdv7ZFSPAggOKcefhp4"
       },
@@ -2420,7 +2522,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 168895,
       "name": "Tatlong Buwan",
       "url": "https://open.spotify.com/track/5fuF65QYgM8mgXTgu3XS3u"

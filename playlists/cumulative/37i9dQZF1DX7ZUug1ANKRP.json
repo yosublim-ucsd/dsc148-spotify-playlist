@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142103,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
+    },
+    {
+      "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
       },
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 179400,
       "name": "Crusade - Club Edit",
       "url": "https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK"
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
@@ -6124,6 +6142,32 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/2I2I645AIvlOM49lUYQPlW"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR"
     },
     {
       "album": {
@@ -7047,6 +7091,32 @@
     },
     {
       "album": {
+        "name": "Man In Finance (with David Guetta)",
+        "url": "https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113595,
+      "name": "Man In Finance (with David Guetta)",
+      "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
+    },
+    {
+      "album": {
         "name": "Marble",
         "url": "https://open.spotify.com/album/1ebWEV561vwcnggag8j9rA"
       },
@@ -7712,7 +7782,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
@@ -8070,6 +8140,32 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "album": {
+        "name": "No Promises",
+        "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/4TuH1lerJpmraZkEJcf9zJ"
     },
     {
       "album": {
@@ -8552,7 +8648,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 164000,
       "name": "Out My Head",
       "url": "https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF"
@@ -9242,6 +9338,28 @@
       "duration_ms": 213795,
       "name": "Pshet",
       "url": "https://open.spotify.com/track/41OcKMHLsLcmYnKogekkA9"
+    },
+    {
+      "album": {
+        "name": "Psychotek",
+        "url": "https://open.spotify.com/album/1HMsXLMCLC990fsyTebV6h"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206896,
+      "name": "Psychotek",
+      "url": "https://open.spotify.com/track/40S4EmuYBEY75SVGhejtrT"
     },
     {
       "album": {
@@ -10225,6 +10343,32 @@
     },
     {
       "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/3OCv6QK1Pb7hHpEjgwnuRb"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "PaSt",
+          "url": "https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/4mqPF5Ic9tsS49vfTy5MGU"
+    },
+    {
+      "album": {
         "name": "Shadows Of The Night (GIGI DAG Mix)",
         "url": "https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi"
       },
@@ -10454,7 +10598,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
@@ -11630,7 +11774,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 150736,
       "name": "Think About The Way",
       "url": "https://open.spotify.com/track/6ytFEsnazqki7XN2yXOev9"

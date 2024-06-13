@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 81003,
+  "num_followers": 81034,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAACWR9jW0WZ8Ij682t8RmZel",
+  "snapshot_id": "ZmeTgAAAAADrq4AL7um4BblmfLC+1X3D",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Diecinueve",
-        "url": "https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "El Diecinueve",
-      "url": "https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 201208,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diecinueve",
+        "url": "https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "El Diecinueve",
+      "url": "https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "Pancho Conos",
-      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 141197,
       "name": "El Amor No Va Conmigo",
       "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 174739,
+      "name": "Pancho Conos",
+      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
     },
     {
       "added_at": null,
@@ -599,22 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Lumbre",
-        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
+        "name": "The Magic, Vol.1",
+        "url": "https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 153250,
-      "name": "El Jeffrey",
-      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
+      "duration_ms": 191843,
+      "name": "Pateando Latas",
+      "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
     },
     {
       "added_at": null,
@@ -635,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Magic, Vol.1",
-        "url": "https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561"
+        "name": "L.A. Lumbre",
+        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 191843,
-      "name": "Pateando Latas",
-      "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
+      "duration_ms": 153250,
+      "name": "El Jeffrey",
+      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 189516,
       "name": "El Compa \u00c1ngel",
       "url": "https://open.spotify.com/track/0x0EuFuoOISC3ge1C58wHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Vez M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3jBjL4EUESfAaPjVosHAbb"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Los Del Cristo",
-          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
-        }
-      ],
-      "duration_ms": 168362,
-      "name": "Muchacho Criticado",
-      "url": "https://open.spotify.com/track/1HmhaHMeiykfHi5xVHBeUn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 145999,
       "name": "Barrios Bajos",
       "url": "https://open.spotify.com/track/7J0m55VDv0mSLAtVB8IoQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Vez M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3jBjL4EUESfAaPjVosHAbb"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Los Del Cristo",
+          "url": "https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK"
+        }
+      ],
+      "duration_ms": 168362,
+      "name": "Muchacho Criticado",
+      "url": "https://open.spotify.com/track/1HmhaHMeiykfHi5xVHBeUn"
     },
     {
       "added_at": null,

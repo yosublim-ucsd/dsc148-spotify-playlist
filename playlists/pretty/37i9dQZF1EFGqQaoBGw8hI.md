@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,778 likes - 575 songs - 1 day 16 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,779 likes - 575 songs - 1 day 16 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 104 | [My Father's Gun](https://open.spotify.com/track/6a1E5VhaMHiG7B3WT9Sem2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:20 |
 | 105 | [The Ballad Of Danny Bailey \(1909\-1934\) \- Remastered 2014](https://open.spotify.com/track/6376udcVByOCGHmiJ9kijq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:23 |
 | 106 | [Indian Sunset](https://open.spotify.com/track/3gAeszu600Qs0plQegthLX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:46 |
-| 107 | [Preparaos](https://open.spotify.com/track/74NT4PgSoTmv76RzTEIqJp) | [Jordi Doncos](https://open.spotify.com/artist/4QR1lYssaiEA7EoVdlzZHs) | [El Rey León \(Edición Especial/Banda Sonora Original\)](https://open.spotify.com/album/1D08bmEUqEiNEelbWvhFUv) | 3:39 |
-| 108 | [Bad Side of the Moon](https://open.spotify.com/track/3cRt9j0q8JaJFfRmmrWz7x) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [The First Decade](https://open.spotify.com/album/1mR3blUKlnRUVpohvNS5v5) | 3:11 |
+| 107 | [Bad Side of the Moon](https://open.spotify.com/track/3cRt9j0q8JaJFfRmmrWz7x) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [The First Decade](https://open.spotify.com/album/1mR3blUKlnRUVpohvNS5v5) | 3:11 |
+| 108 | [Preparaos](https://open.spotify.com/track/74NT4PgSoTmv76RzTEIqJp) | [Jordi Doncos](https://open.spotify.com/artist/4QR1lYssaiEA7EoVdlzZHs) | [El Rey León \(Edición Especial/Banda Sonora Original\)](https://open.spotify.com/album/1D08bmEUqEiNEelbWvhFUv) | 3:39 |
 | 109 | [Mellow](https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:32 |
 | 110 | [Fanfare](https://open.spotify.com/track/6llaeUEQcqJgaBXp5Fpw2c) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 0:30 |
 | 111 | [Jamaica Jerk\-Off \- Remastered 2014](https://open.spotify.com/track/5uyAeakIkHyTSW88uCD0M4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:38 |
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 207 | [Tinderbox](https://open.spotify.com/track/3mNIFeQhmtyZHCxjGNc2IL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:25 |
 | 208 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 |
 | 209 | [Once We Were Kings](https://open.spotify.com/track/4oxUtmvokfpIqg1HJ9g4pf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:14 |
-| 210 | [Tonight](https://open.spotify.com/track/2X9tm8VBLbN7UUnX8xCaV4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 7:52 |
-| 211 | [Passengers](https://open.spotify.com/track/6niv4soAj768tiJdXoauyg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:23 |
+| 210 | [Passengers](https://open.spotify.com/track/6niv4soAj768tiJdXoauyg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:23 |
+| 211 | [Tonight](https://open.spotify.com/track/2X9tm8VBLbN7UUnX8xCaV4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 7:52 |
 | 212 | [A Word In Spanish](https://open.spotify.com/track/1EsN2D481Q3E8vz68nkNoA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:39 |
 | 213 | [The Diving Board](https://open.spotify.com/track/0QRKs4JhXJR7BG4E0Zc3Ka) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 5:59 |
 | 214 | [The Cage](https://open.spotify.com/track/0DCyXrySuYSRIVDIuLPzdd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:26 |
@@ -401,8 +401,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 391 | [Dancing In The End Zone](https://open.spotify.com/track/2aLIDPBCq47lT0NI2AUblB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:53 |
 | 392 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 |
 | 393 | [My Elusive Drug](https://open.spotify.com/track/4quVhM2f0bt6DpIYUJRbhY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:12 |
-| 394 | [All The Way Down To El Paso \- Piano Demo](https://open.spotify.com/track/0AAKvxkoLPYRr9vYDhOfxn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 2:48 |
-| 395 | [On Dark Street](https://open.spotify.com/track/1eRNWai6OWRRKN7xI2OH17) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:43 |
+| 394 | [On Dark Street](https://open.spotify.com/track/1eRNWai6OWRRKN7xI2OH17) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:43 |
+| 395 | [All The Way Down To El Paso \- Piano Demo](https://open.spotify.com/track/0AAKvxkoLPYRr9vYDhOfxn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 2:48 |
 | 396 | [Wicked Dreams](https://open.spotify.com/track/65njIUOttrk8Q6XRlLP4Mw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:39 |
 | 397 | [Between Seventeen And Twenty](https://open.spotify.com/track/33vpBgjk5jRZbUdvYRaOFL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:17 |
 | 398 | [I'm Going Home \- Piano Demo](https://open.spotify.com/track/3JGVQbfKChxILPc1xJw9HT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:03 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [The Wrong Gift](https://open.spotify.com/track/6WmTBqoLd5agrTigmY9UlX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 3:00 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbTzdAAAAAASPSnhzY0E+ZbucujFD6VY`
+Snapshot ID: `AbT42AAAAADrR81QcZ/hDghKN2N9Qf7q`

@@ -1,12 +1,12 @@
 {
-  "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 230149,
+  "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
+  "num_followers": 230190,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAAAkRb+IV2bVJog+3m//jPsU",
+  "snapshot_id": "ZmeTgAAAAAA/lsXOBpE8p3Nm5DNVDlvb",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Fruto de la Tierra",
+      "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Reggea R\u00fastico",
-      "url": "https://open.spotify.com/track/34fBKRTK9eXXWF6DoUsgp4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 267764,
       "name": "Sobrevolando",
       "url": "https://open.spotify.com/track/43R5n6DUZ0zW6cVwC65z1e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Reggea R\u00fastico",
+      "url": "https://open.spotify.com/track/34fBKRTK9eXXWF6DoUsgp4"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "La Otra Galaxia",
-      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 308756,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/3P5Rurr1VBvsJmlTODMdWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "La Otra Galaxia",
+      "url": "https://open.spotify.com/track/0MHaoEf98Uug7ft75wnsBV"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 382920,
-      "name": "Ley Natural",
-      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desahogo",
         "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 316826,
       "name": "Te Me Puedo Escapar",
       "url": "https://open.spotify.com/track/3mZXY19DjpXDlgwSNE9Il9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 382920,
+      "name": "Ley Natural",
+      "url": "https://open.spotify.com/track/2FthRSpEy044BM8QkoqeeP"
     },
     {
       "added_at": null,

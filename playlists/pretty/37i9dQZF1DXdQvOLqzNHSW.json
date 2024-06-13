@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 983566,
+  "num_followers": 983583,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
       },
       "artists": [
         {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
         }
       ],
-      "duration_ms": 150402,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 150402,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
       },
@@ -983,26 +983,6 @@
       "duration_ms": 338066,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Moonlit Breakers (feat. Dijon)",
-        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
-      },
-      "artists": [
-        {
-          "name": "Paul Dally",
-          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
-        },
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 234681,
-      "name": "Moonlit Breakers (feat. Dijon)",
-      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1023,6 +1003,26 @@
       "duration_ms": 96525,
       "name": "Flowers & Honey Interlude",
       "url": "https://open.spotify.com/track/6DsvXic2O817vrPB0btljC"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Moonlit Breakers (feat. Dijon)",
+        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 234681,
+      "name": "Moonlit Breakers (feat. Dijon)",
+      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1061,6 +1061,38 @@
       "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
     },
     {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "HOMESICK",
+        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Evening News",
+      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
+    },
+    {
       "added_at": "2024-05-08 17:27:31",
       "album": {
         "name": "Need To Talk (Kordz Remix)",
@@ -1083,50 +1115,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Above Me",
-        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "HOMESICK",
-        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Evening News",
-      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We're Here, My Dear",
-      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
+      "duration_ms": 221692,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "We're Here, My Dear",
+      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Cerulean Tapes",
         "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 256142,
       "name": "TEENAGE FEVER",
       "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
-      },
-      "artists": [
-        {
-          "name": "Jelly Crystal",
-          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
-        }
-      ],
-      "duration_ms": 221692,
-      "name": "Don Lemon",
-      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Hang Up the Lights",
-        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
-      },
-      "artists": [
-        {
-          "name": "White China",
-          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
-        }
-      ],
-      "duration_ms": 160437,
-      "name": "Hang Up The Lights",
-      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 237865,
       "name": "Get Well",
       "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Hang Up the Lights",
+        "url": "https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "duration_ms": 160437,
+      "name": "Hang Up The Lights",
+      "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Sandhills",
-        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 169253,
-      "name": "Back Then",
-      "url": "https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "good days",
         "url": "https://open.spotify.com/album/7EvSFyzwjb4ZryeC695Jh1"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 148571,
       "name": "good days",
       "url": "https://open.spotify.com/track/0bzRnAmbac20MQSkYClr8Z"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 169253,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
-      },
-      "artists": [
-        {
-          "name": "Goofy Geese",
-          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
-        }
-      ],
-      "duration_ms": 210687,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 200547,
       "name": "DD",
       "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq"
+      },
+      "artists": [
+        {
+          "name": "Goofy Geese",
+          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Lionel Boy",
-        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
-      },
-      "artists": [
-        {
-          "name": "Lionel Boy",
-          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Flower Girl",
-      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
         "name": "\u5358\u306bRetroFuture",
         "url": "https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 147644,
       "name": "Tides",
       "url": "https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
+        "name": "Lionel Boy",
+        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
+      },
+      "artists": [
+        {
+          "name": "Lionel Boy",
+          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Flower Girl",
+      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
+    },
+    {
+      "added_at": "2024-04-23 17:40:25",
+      "album": {
         "name": "Le Soir",
         "url": "https://open.spotify.com/album/3TaPQINqimLIx8MStTQQge"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd"
+        "name": "Shadowglow (Deluxe)",
+        "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
       },
       "artists": [
         {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf"
+      "duration_ms": 227486,
+      "name": "Sad Disco (Pine Studios)",
+      "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Shadowglow (Deluxe)",
-        "url": "https://open.spotify.com/album/0aVEaOcyvb4XDHTgkwK3Sp"
+        "name": "Check Please",
+        "url": "https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS"
       },
       "artists": [
         {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+          "name": "Alan Chang",
+          "url": "https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g"
         }
       ],
-      "duration_ms": 227486,
-      "name": "Sad Disco (Pine Studios)",
-      "url": "https://open.spotify.com/track/45w3oCmAZDjkJ79lwAvM4X"
+      "duration_ms": 208080,
+      "name": "Love As A Weapon",
+      "url": "https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v"
     },
     {
       "added_at": "2024-04-23 17:40:25",
@@ -1679,34 +1695,18 @@
     {
       "added_at": "2024-04-23 17:40:25",
       "album": {
-        "name": "Check Please",
-        "url": "https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS"
+        "name": "Live at RBC Echo Beach",
+        "url": "https://open.spotify.com/album/5r70krK838xAiHP8t0algB"
       },
       "artists": [
         {
-          "name": "Alan Chang",
-          "url": "https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 208080,
-      "name": "Love As A Weapon",
-      "url": "https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v"
-    },
-    {
-      "added_at": "2024-04-23 17:40:25",
-      "album": {
-        "name": "Some Place Else",
-        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 295331,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
+      "duration_ms": 213120,
+      "name": "Show Me How - Live at RBC Echo Beach",
+      "url": "https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a"
     }
   ],
   "unique_name": "late night vibes",

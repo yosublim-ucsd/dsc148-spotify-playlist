@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 896 songs - 2 day 7 hr 14 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 897 songs - 2 day 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -904,5 +904,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 894 | [Holocene](https://open.spotify.com/track/6DESft0qm6RhoYf5wzeoGH) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 5:36 |
 | 895 | [Legend](https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 2:52 |
 | 896 | [Only You Know](https://open.spotify.com/track/3m0iAPHzwU6cZT8vNCrZZO) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 4:45 |
+| 897 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 |
 
-Snapshot ID: `AAAISzMTtMP0PZGeXV/14SghSxlRAmjV`
+Snapshot ID: `AAAITEtFLQCvR42xcjquv82W1e3SGjEz`

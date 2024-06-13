@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-355 songs - 17 hr 27 min
+356 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-06-22 | 2023-10-14 |
 | [Desacato Escolar](https://open.spotify.com/track/2jm33owvUVJgwbjl0VkfAB) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Desacato Escolar](https://open.spotify.com/album/2cWzuplC5MLtAT8UjhajTY) | 2:37 | 2021-11-19 | 2023-03-11 |
 | [Después De Mi](https://open.spotify.com/track/7m49PsHjWjKuQR5lmqNC2z) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Después De Mi](https://open.spotify.com/album/09GJrxXo2kjm8z8A0f2SIf) | 2:25 | 2023-02-09 | 2023-06-28 |
-| [Di Di Di](https://open.spotify.com/track/0rD5giObodw4ahrR9i4rpl) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Di Di Di](https://open.spotify.com/album/15uTVBS0whFMY5nRZ3nS5d) | 3:13 | 2022-03-18 |  |
+| [Di Di Di](https://open.spotify.com/track/0rD5giObodw4ahrR9i4rpl) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Di Di Di](https://open.spotify.com/album/15uTVBS0whFMY5nRZ3nS5d) | 3:13 | 2022-03-18 | 2024-06-13 |
+| [Dicelo Si Tu la Vez](https://open.spotify.com/track/5HAZBGTTjn6RrnM7lN50vd) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Dicelo Si Tu la Vez](https://open.spotify.com/album/1Uv7JCmOkNI7DgfAPHarzj) | 2:05 | 2024-06-12 |  |
 | [Dikiri](https://open.spotify.com/track/3vjQnRK6rw78narY1Q6Rpu) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN), [Don Vasquez](https://open.spotify.com/artist/0ajLdl7IiHvvXvrbxdy08T) | [Dikiri](https://open.spotify.com/album/1Lci4OziM3uOyNdD6cfDox) | 2:44 | 2023-06-27 | 2023-09-30 |
 | [Dimdon \- Remix](https://open.spotify.com/track/3STV7c3i82ArcyMejMHIwH) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX), [Vuelty](https://open.spotify.com/artist/5EKEiazVN2v8KUMpXvF6oQ) | [Dimdon \(Remix\)](https://open.spotify.com/album/0ya82jtZ5oIDMsCMl12gKN) | 2:15 | 2023-09-21 |  |
 | [Dinero](https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9) | [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Dinero](https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT) | 3:00 | 2023-02-09 | 2023-08-04 |

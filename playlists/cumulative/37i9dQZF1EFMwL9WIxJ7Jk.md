@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 8 hr 40 min
+165 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,8 +152,9 @@
 | [Throwback Love](https://open.spotify.com/track/2EbY1Lm4zrb2SOKsknxNRK) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:13 | 2023-12-30 |  |
 | [Title](https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:54 | 2024-01-01 |  |
 | [Title](https://open.spotify.com/track/681gbQdlCYV4sRr6nCfGtZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Official Music Video\)](https://open.spotify.com/album/3RTyHcu3SuBwVUp7kt2KPR) | 2:55 | 2023-12-30 | 2024-01-26 |
+| [To The Moon](https://open.spotify.com/track/0HwPFPukPgWt1N2lS23o1u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/4DPlu74QgqqvsNoI9zAPz0) | 2:28 | 2024-06-12 |  |
 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 | 2024-05-25 | 2024-06-10 |
-| [To The Moon](https://open.spotify.com/track/2kFR8FUxL4bvHYPGvolbD8) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:28 | 2024-06-09 |  |
+| [To The Moon](https://open.spotify.com/track/2kFR8FUxL4bvHYPGvolbD8) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:28 | 2024-06-09 | 2024-06-13 |
 | [Touchdown Dance](https://open.spotify.com/track/45wCjjaPuE5M9BdNA4iYV2) | [IM5](https://open.spotify.com/artist/4TEgsvmXwYmqRAoxyo4Wb9) | [Touchdown Dance](https://open.spotify.com/album/3Q3RSzUE9t7eMKw2b5bwVz) | 3:31 | 2023-12-30 |  |
 | [TREAT MYSELF](https://open.spotify.com/track/64BWkOjyNcmXoWH0b0Wq4R) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/3PdISxhFjQfTfzIltARJuG) | 2:53 | 2023-12-30 |  |
 | [Underwater \(feat\. Dillon Francis\)](https://open.spotify.com/track/7uGQCsecZDhMCWBJmQvs1A) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 2:41 | 2023-12-30 |  |

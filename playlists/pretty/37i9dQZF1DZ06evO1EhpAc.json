@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 8268,
+  "num_followers": 8273,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAABpBaOioPwETMIN30LrOp08",
+  "snapshot_id": "ZmeTgAAAAAAf3Q8aJFvXR9+lW0XZh0DG",
   "tracks": [
     {
       "added_at": null,
@@ -179,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel It Out",
-        "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
         }
       ],
-      "duration_ms": 196364,
-      "name": "Feel It Out",
-      "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
+      "duration_ms": 228872,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
     },
     {
       "added_at": null,
@@ -211,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+        "name": "Feel It Out",
+        "url": "https://open.spotify.com/album/3Dd6Cu0NpDYjXiZILk66z9"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
         }
       ],
-      "duration_ms": 228872,
-      "name": "29",
-      "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
+      "duration_ms": 196364,
+      "name": "Feel It Out",
+      "url": "https://open.spotify.com/track/1tn1ATtQZRowNVBNIXolxJ"
     },
     {
       "added_at": null,
@@ -251,38 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 218910,
-      "name": "After That",
-      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 122600,
-      "name": "I'll Remember For Me, I'll Remember For You",
-      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Year to Year / 29",
         "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
@@ -303,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
       },
       "artists": [
         {
@@ -312,9 +280,49 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 229848,
-      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+      "duration_ms": 122600,
+      "name": "I'll Remember For Me, I'll Remember For You",
+      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 218910,
+      "name": "After That",
+      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "G.L.A.M.",
+          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
+        }
+      ],
+      "duration_ms": 186873,
+      "name": "SPELL \uc8fc\ubb38",
+      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
     },
     {
       "added_at": null,
@@ -382,19 +390,11 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        },
-        {
-          "name": "G.L.A.M.",
-          "url": "https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ"
         }
       ],
-      "duration_ms": 186873,
-      "name": "SPELL \uc8fc\ubb38",
-      "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
     },
     {
       "added_at": null,

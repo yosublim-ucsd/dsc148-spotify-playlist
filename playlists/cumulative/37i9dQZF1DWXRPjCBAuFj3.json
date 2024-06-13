@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-13",
       "duration_ms": 110881,
       "name": "GRAMMY PARTY",
       "url": "https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR"
@@ -5572,6 +5572,24 @@
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "album": {
+        "name": "I Still Know Better",
+        "url": "https://open.spotify.com/album/2iFBx2KH4xuCnNUtVJ2cx0"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202744,
+      "name": "I Still Know Better",
+      "url": "https://open.spotify.com/track/46GDNbAY6ofQfIsoqmISM3"
     },
     {
       "album": {

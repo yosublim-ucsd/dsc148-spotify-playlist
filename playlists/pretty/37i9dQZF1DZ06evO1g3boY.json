@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 169105,
+  "num_followers": 169115,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmZCAAAAAABUcOoAKw65KczOlUeT7OOb",
+  "snapshot_id": "ZmeTgAAAAAAggMRTfR6+w7f3q2xO2zzX",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acabou, mas tem...",
-        "url": "https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1"
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 235586,
-      "name": "Acabou, mas tem...",
-      "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
+      "duration_ms": 232733,
+      "name": "Madagascar",
+      "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+        "name": "Acabou, mas tem...",
+        "url": "https://open.spotify.com/album/2qtqD1onYm68cn0KwhHJQ1"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 232733,
-      "name": "Madagascar",
-      "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
+      "duration_ms": 235586,
+      "name": "Acabou, mas tem...",
+      "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
     },
     {
       "added_at": null,
@@ -683,26 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Dona Jacira",
-          "url": "https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax"
-        },
-        {
-          "name": "Anna Tr\u00e9a",
-          "url": "https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS"
         }
       ],
-      "duration_ms": 298226,
-      "name": "M\u00e3e",
-      "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
+      "duration_ms": 284693,
+      "name": "Ooorra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
     },
     {
       "added_at": null,
@@ -731,18 +723,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Dona Jacira",
+          "url": "https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax"
+        },
+        {
+          "name": "Anna Tr\u00e9a",
+          "url": "https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Ooorra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
+      "duration_ms": 298226,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
       "duration_ms": 202800,
       "name": "Mil Coisas",
       "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "O\u00e1sis (feat. Rael) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH"
     },
     {
       "added_at": null,
@@ -815,26 +835,6 @@
       "duration_ms": 188666,
       "name": "S\u00f3 Mais Uma Noite - Live",
       "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "O\u00e1sis (feat. Rael) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH"
     },
     {
       "added_at": null,

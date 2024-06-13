@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Half Price at 3:30",
+        "url": "https://open.spotify.com/album/7hMopyoxOXaZuKhSKKclUC"
+      },
+      "artists": [
+        {
+          "name": "Art Feynman",
+          "url": "https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237464,
+      "name": "I Can Dream",
+      "url": "https://open.spotify.com/track/56NDW2C9TPog81aDwasskH"
+    },
+    {
+      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -1672,6 +1690,24 @@
       "duration_ms": 179591,
       "name": "Images",
       "url": "https://open.spotify.com/track/1uaY7sON2Hi95MRVnWmZ0v"
+    },
+    {
+      "album": {
+        "name": "The Essential Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "In the Jailhouse Now",
+      "url": "https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz"
     },
     {
       "album": {
@@ -3230,6 +3266,24 @@
       "duration_ms": 188000,
       "name": "Truman",
       "url": "https://open.spotify.com/track/0y3gxrlk5VtTRmFljO5w36"
+    },
+    {
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
     },
     {
       "album": {

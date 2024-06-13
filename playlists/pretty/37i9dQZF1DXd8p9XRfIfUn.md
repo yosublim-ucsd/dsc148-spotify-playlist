@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Soley
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,794 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,802 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 6 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 |
 | 7 | [HACE TIEMPO](https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [HACE TIEMPO](https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE) | 2:52 |
 | 8 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 |
-| 9 | [Xuleria](https://open.spotify.com/track/1HZ59ehPY05RJgPiiOisra) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Yung Lxxo](https://open.spotify.com/artist/7rCnahl3glqSAmyPvDcxhu) | [Xuleria](https://open.spotify.com/album/3QPSLjUa74xmnA3tzdCgSX) | 2:59 |
+| 9 | [Xuleria](https://open.spotify.com/track/1HZ59ehPY05RJgPiiOisra) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Yvng Lxxo](https://open.spotify.com/artist/5icoIPmbxEzS1fKt48zSGJ) | [Xuleria](https://open.spotify.com/album/3QPSLjUa74xmnA3tzdCgSX) | 2:59 |
 | 10 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
 | 11 | [CONTACTO ZERO](https://open.spotify.com/track/0iJKLzTaNgBdlLRDcm9ddm) | [Chris Redd](https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6) | [CONTACTO ZERO](https://open.spotify.com/album/0FsowcvJ5zrvzq3uUhKBdK) | 2:34 |
 | 12 | [Dale Bogueto](https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Reggaetoñerito](https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9) | 3:07 |
