@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Salma Salsabil
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Gery Gany
 
 221 songs - 14 hr 14 min
 

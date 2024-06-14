@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-297 songs - 17 hr 2 min
+298 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Maya](https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl) | [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5), [Jo](https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94) | [Maya](https://open.spotify.com/album/33kre6aCwOaOGcckKeQilT) | 3:18 | 2024-03-19 |  |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-05-02 | 2023-11-16 |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 | 2023-06-24 |
+| [Medhuvaay Medhuvaay](https://open.spotify.com/track/1NXB8bGXRYy0CR0vXIZNHI) | [Rajeesh K Chandu](https://open.spotify.com/artist/6qbLwov3SHUSEiFf9qXzEH), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Medhuvaay Medhuvaay](https://open.spotify.com/album/3mnDNu1uXWqTOdmBDofzta) | 4:28 | 2024-06-13 |  |
 | [Million Streams](https://open.spotify.com/track/2TZGqnPCJ4ltj24hQL78Fx) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf) | [Million Streams](https://open.spotify.com/album/6hdjXtjR00a2nFVXyWpNx7) | 4:03 | 2024-02-28 | 2024-03-18 |
 | [Minnal Mugilosai](https://open.spotify.com/track/5lIDmWduOGKEZZm3RpkjOx) | [S.K.Balachandran](https://open.spotify.com/artist/5Sg5NOQHE0eFSKxrVqIT4l), [Abid Anwar](https://open.spotify.com/artist/4HGW8d0cAwj7Ouk3l6wpZI) | [Aaliya](https://open.spotify.com/album/2OhQ5NpYv7boswa6YAskaZ) | 4:08 | 2023-06-01 | 2023-09-02 |
 | [Mitta Mirasu](https://open.spotify.com/track/6geWnMs5Jo9IXEQpbRNkN9) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [Swasthika Swaminathan](https://open.spotify.com/artist/6igchCiRtcOLefFuwY2gLL), [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo) | [Mitta Mirasu](https://open.spotify.com/album/2VUqiXotdXbRw6M7fy1Oql) | 4:00 | 2023-03-21 | 2023-09-26 |

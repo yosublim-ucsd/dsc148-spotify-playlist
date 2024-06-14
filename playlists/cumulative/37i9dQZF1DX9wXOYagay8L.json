@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY?si=kFdho2ClQOClpcwUCzq2CQ\">Solo Ntsizwa Ka Mthimkhulu</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v?si=MbEBY4wxQyaMoVNCREdvgQ\">Phila Dlozi</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Babekazi",
+        "url": "https://open.spotify.com/album/2RKtTqXtdop0hMg16iuCRE"
+      },
+      "artists": [
+        {
+          "name": "Phila Dlozi",
+          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371998,
+      "name": "Babekazi",
+      "url": "https://open.spotify.com/track/2E5BQQ8aTpw6szBRZGteVR"
+    },
+    {
+      "album": {
         "name": "Backroom",
         "url": "https://open.spotify.com/album/7I6PNSnQ2ScimsJGZ0GnSv"
       },
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 264631,
       "name": "Cheek Tu Cheek",
       "url": "https://open.spotify.com/track/2k9PS5jYsxJcJkJ81KiSAg"
@@ -11318,6 +11336,24 @@
       "duration_ms": 251611,
       "name": "UThando",
       "url": "https://open.spotify.com/track/42p0qkwmfv4YfP6QO6wP5f"
+    },
+    {
+      "album": {
+        "name": "Uthando",
+        "url": "https://open.spotify.com/album/5Mqo6dk2XY09ipd6qz74JT"
+      },
+      "artists": [
+        {
+          "name": "Thenjie",
+          "url": "https://open.spotify.com/artist/3lgnTwzRyXYDPmPbvP4y0s"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Uthando",
+      "url": "https://open.spotify.com/track/2Kk61edkcZ8Zu73qmcWxZl"
     },
     {
       "album": {

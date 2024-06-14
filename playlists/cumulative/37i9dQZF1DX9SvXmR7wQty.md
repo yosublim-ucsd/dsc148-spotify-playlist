@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-2,594 songs - 5 day 18 hr 22 min
+2,595 songs - 5 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Fou malade](https://open.spotify.com/track/2tiiVkGitu4bKtuPwXfZxW) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Fou malade](https://open.spotify.com/album/2yiYfRyfuKNY5TE3tjb8BA) | 3:17 | 2023-01-20 | 2023-02-04 |
 | [Fourrer le trouble](https://open.spotify.com/track/0smfMkxblAwgtAgaLkA9nw) | [Orloge Simard](https://open.spotify.com/artist/2PfwtnCHCC0iezSoJHtzfs) | [Culture du culte](https://open.spotify.com/album/2OfXKhyomXPJEmybOaPJ2l) | 2:47 | 2022-09-23 | 2022-10-08 |
 | [FREE FOR ALL](https://open.spotify.com/track/3kAibz4DTPCrdXKhjjuxiE) | [Abdoubeatzz](https://open.spotify.com/artist/37gGIho50l34cdAV1nRQrQ), [Fxll](https://open.spotify.com/artist/61H5pXHRcXCkcliWy4I05W), [Ibra](https://open.spotify.com/artist/49uM51XEg3ob5waZXE779W) | [FREE FOR ALL](https://open.spotify.com/album/5b4JbnHLC1riCY5q1VFn1z) | 2:48 | 2023-03-10 | 2023-03-18 |
+| [Freestyle BMF \#1](https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Freestyle BMF \#1](https://open.spotify.com/album/7HFPAZo4QBzKQ7AbwxUxnn) | 2:56 | 2024-06-07 |  |
 | [Freestyle LVL UP 1](https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 1](https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq) | 1:54 | 2023-05-05 | 2023-06-24 |
 | [Freestyle LVL UP 2](https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 2](https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF) | 2:29 | 2023-05-12 | 2023-07-08 |
 | [Freestyle LVL UP 3](https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 3](https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE) | 3:20 | 2023-05-26 | 2023-07-29 |
@@ -1672,7 +1673,7 @@
 | [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 | 2024-05-31 |  |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2023-07-07 | 2023-09-09 |
 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-17 | 2023-04-15 |
-| [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 | 2024-04-26 |  |
+| [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 | 2024-04-26 | 2024-06-14 |
 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 | 2022-08-26 | 2022-09-17 |
 | [No No No \- Vanyfox Remix](https://open.spotify.com/track/2E7JHzaCVvVzhXslc6fw2P) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Vanyfox](https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe) | [No No No \(Remixes\)](https://open.spotify.com/album/0UqQrorkbRnl51ldxDUxRY) | 3:16 | 2023-01-13 | 2023-01-21 |
 | [Noir sur noir](https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Noir sur noir](https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8) | 3:27 | 2024-03-01 | 2024-03-09 |

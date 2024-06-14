@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 330 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Никъде](https://open.spotify.com/track/5ROUivw3bUOzFWVzZlstRm) | [Robi](https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz), [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Никъде](https://open.spotify.com/album/3w2dZfDpvo3lOVpY7gDdWY) | 3:13 |
 | 50 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 
-Snapshot ID: `Lf0IGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lf5ZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

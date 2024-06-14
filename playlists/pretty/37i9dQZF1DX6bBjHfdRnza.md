@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Jackie Hollander\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,452 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,560 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 38 | [you and i](https://open.spotify.com/track/5tHVosoCX8FcLGV0nCDgPb) | [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [you and i](https://open.spotify.com/album/2hiBulmaabma1E9lMOkhaG) | 2:54 |
 | 39 | [My Trust, My Love](https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Get Back To Me](https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW) | 3:50 |
 | 40 | [Everything's Gonna Be Fine](https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Everything's Gonna Be Fine](https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ) | 3:39 |
-| 41 | [U Know It](https://open.spotify.com/track/2Ejo1bRHzv4mzHl7RbMZoT) | [David Spinelli](https://open.spotify.com/artist/3FuoNZftW2laJA3P6f4rVE) | [U Know It](https://open.spotify.com/album/4X7uRRIW8Gm0oK2PLYE99A) | 3:42 |
+| 41 | [U Know It](https://open.spotify.com/track/2Ejo1bRHzv4mzHl7RbMZoT) | [David Spinelli](https://open.spotify.com/artist/3FuoNZftW2laJA3P6f4rVE), [Raquel San Nicolas](https://open.spotify.com/artist/1azwDmYewFbyCgMzYVYsOZ) | [U Know It](https://open.spotify.com/album/4X7uRRIW8Gm0oK2PLYE99A) | 3:42 |
 | 42 | [Breaking](https://open.spotify.com/track/22hPf991l1IlJ5kkq6BXqM) | [Kya Kyani](https://open.spotify.com/artist/4NtIkF6oybp3yfB1PUDYYL), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Breaking](https://open.spotify.com/album/7KEBiEU9GzfRzBO0MGyj8n) | 3:24 |
 | 43 | [Don't Wait](https://open.spotify.com/track/5c65o3KNnBQaKTK9Jp2TRr) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Aizo Clutch](https://open.spotify.com/artist/52prduwoZJCA7ql3zPG6Bl) | [Jewels](https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5) | 6:23 |
 | 44 | [forgive u](https://open.spotify.com/track/0YpOYlsdk1ZWlFrcatiQBd) | [ROSA](https://open.spotify.com/artist/4vNDe5ikZWdqMnQMc5Sj8g) | [forgive u](https://open.spotify.com/album/2c5kGOhmdX3tjruhULza1r) | 3:19 |

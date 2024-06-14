@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 友成空
 
-416 songs - 23 hr 53 min
+418 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-21 | 2024-06-07 |
 | [Forever](https://open.spotify.com/track/644LP8xaFEYxCIfjwHcGBL) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [Forever](https://open.spotify.com/album/4ZYt1oNWB3i4b7Gveym7VL) | 3:00 | 2024-06-03 |  |
 | [Forget about you](https://open.spotify.com/track/0xnxrUxBgLVUFgnjrJ7RhL) | [手がクリームパン](https://open.spotify.com/artist/6geY1qz5UkWhIMQxp3oHCr) | [Forget about you](https://open.spotify.com/album/1tSO0QRB14Cb1anUiUJEUK) | 4:15 | 2023-01-26 | 2023-02-24 |
-| [Frail](https://open.spotify.com/track/2xxl7iYvSG6ppQDlvVdpwg) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Frail](https://open.spotify.com/album/1ZzDfRcatWc1pgUIlHB68J) | 3:48 | 2024-04-18 |  |
+| [Frail](https://open.spotify.com/track/2xxl7iYvSG6ppQDlvVdpwg) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Frail](https://open.spotify.com/album/1ZzDfRcatWc1pgUIlHB68J) | 3:48 | 2024-04-18 | 2024-06-14 |
 | [friend zone](https://open.spotify.com/track/1v4apcOGX4tE9ezbLbbkXE) | [TENSONG](https://open.spotify.com/artist/4gg2Eg18OeqjqzfWtsBTMG) | [friend zone](https://open.spotify.com/album/3qMXmvkiIRMT4vpINRTlUA) | 4:38 | 2023-06-08 | 2023-06-23 |
 | [Fuckin' Good](https://open.spotify.com/track/5pe3jeI0WtpNWC1ZweCipP) | [Super SHIMADA Brothers](https://open.spotify.com/artist/2jqtZgeWtsc0tRdXK3x7yT), [OTUY PARK](https://open.spotify.com/artist/4hlSejvq1rjc5ac5Ds02kl) | [Over There That](https://open.spotify.com/album/1WJ9FbcbVCiKrA7XAjTFtJ) | 3:27 | 2023-02-09 | 2023-04-21 |
 | [Full moon](https://open.spotify.com/track/3xxLNIhdGefFM4Xj3Cj5AP) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 1:21 | 2023-01-26 | 2023-02-24 |
@@ -368,6 +368,7 @@
 | [僕に彼女ができたんだ](https://open.spotify.com/track/1CzAdgGHPXQXorOJvVaRPF) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:08 | 2023-11-09 | 2024-01-12 |
 | [僕の隣はいつもきみ](https://open.spotify.com/track/5BcjQ9TRYdH71SzNLl6wQO) | [音虎とErii](https://open.spotify.com/artist/3zI579R2syTLjODbEzgqMH) | [僕の隣はいつもきみ](https://open.spotify.com/album/2EGHHFcxgEm7nIWG9da8Vu) | 3:05 | 2024-04-25 | 2024-05-10 |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-04-18 | 2024-05-17 |
+| [八月の夜](https://open.spotify.com/track/0nwBcHgGSsIYSUmFDywTIH) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [S](https://open.spotify.com/album/1kBkRBJy4w7MAkJJewZnHl) | 4:19 | 2024-06-13 |  |
 | [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-06-08 | 2023-07-21 |
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-09 |  |
 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 | 2023-09-28 | 2024-02-09 |
@@ -387,7 +388,8 @@
 | [失恋ソング](https://open.spotify.com/track/0g0qhS0z5cL4tym1b2VrCt) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suplex](https://open.spotify.com/album/31Nbiax5bV9lVnYubVVRaB) | 3:49 | 2024-04-01 | 2024-04-19 |
 | [女だから](https://open.spotify.com/track/7CHiHRLcVqNpyaSNRJqxPu) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [女だから](https://open.spotify.com/album/6YvlAjkhEdHZnYu99KcNXe) | 3:55 | 2023-08-24 | 2023-10-13 |
 | [妄想アスパルテーム \- feat\. picco,初音ミク](https://open.spotify.com/track/5dcHPVb27nDK94mEFSSpug) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [初音ミク](https://open.spotify.com/artist/0UlXuNuMZiSeVLFjhKQPIP) | [妄想アスパルテーム \(feat\. picco,初音ミク\)](https://open.spotify.com/album/1Cj7pQrNMkiO6dVTLT3uK4) | 2:27 | 2023-04-27 | 2023-05-26 |
-| [嫌いになれない](https://open.spotify.com/track/7HIzVxjaZNEnNTVIZrtz89) | [Asa](https://open.spotify.com/artist/3JjGQRskRjFJMpBESBtSum) | [嫌いになれない](https://open.spotify.com/album/67xt0PDZpQWHCpoAdDELp0) | 3:29 | 2024-04-11 |  |
+| [嫌いになれない](https://open.spotify.com/track/7HIzVxjaZNEnNTVIZrtz89) | [Asa](https://open.spotify.com/artist/3JjGQRskRjFJMpBESBtSum) | [嫌いになれない](https://open.spotify.com/album/67xt0PDZpQWHCpoAdDELp0) | 3:29 | 2024-04-11 | 2024-06-14 |
+| [子供じゃないもん17](https://open.spotify.com/track/4nhpXuVrWrb6oZ8alKN2Ez) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [洗脳](https://open.spotify.com/album/5sh1BSUMoU1w6ik3wW0bcz) | 3:32 | 2024-06-13 |  |
 | [居酒屋](https://open.spotify.com/track/27sWCidpvRQsFQUZmUHHLn) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [徳利](https://open.spotify.com/artist/3sbcL5Cfgo2VkJTvzaNvuY) | [Transform \-Charcoal side\-](https://open.spotify.com/album/4nXqGulRXqM99NDche7Qkt) | 3:14 | 2024-04-18 | 2024-05-17 |
 | [平成の乙女 feat.KENTY‐GROSS](https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [KENTY GROSS](https://open.spotify.com/artist/1FTagLQhl5cBi1focddx1e) | [MOTHER](https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f) | 5:32 | 2023-03-30 | 2023-06-16 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-05-09 |  |

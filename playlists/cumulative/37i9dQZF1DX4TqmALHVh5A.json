@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MDNS",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Colas",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -384,6 +384,28 @@
       "duration_ms": 159000,
       "name": "Boule \u00e0 facettes",
       "url": "https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t"
+    },
+    {
+      "album": {
+        "name": "BROKEN BONES",
+        "url": "https://open.spotify.com/album/30HTdLg2ovzLuahWbJC6Bk"
+      },
+      "artists": [
+        {
+          "name": "Julius On The Wave",
+          "url": "https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId"
+        },
+        {
+          "name": "LIL Moine",
+          "url": "https://open.spotify.com/artist/2TfrHGAo7z0KBG1XjJeSJq"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150539,
+      "name": "BROKEN BONES",
+      "url": "https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6"
     },
     {
       "album": {
@@ -1342,7 +1364,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 167730,
       "name": "Johnny Cash",
       "url": "https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf"
@@ -1785,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "SAHA",
+        "url": "https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7"
+      },
+      "artists": [
+        {
+          "name": "Liv Oddman",
+          "url": "https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229533,
+      "name": "LUX",
+      "url": "https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k"
+    },
+    {
+      "album": {
         "name": "madame",
         "url": "https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg"
       },
@@ -2088,7 +2128,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 147304,
       "name": "Pala",
       "url": "https://open.spotify.com/track/6X66gz7OKx3jcKBbkDWm4Y"
@@ -2106,7 +2146,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 213093,
       "name": "Papier cigarette",
       "url": "https://open.spotify.com/track/3mLFOvEDHJHAycMoaNJmVw"
@@ -2146,6 +2186,24 @@
       "duration_ms": 142200,
       "name": "Pas si grave",
       "url": "https://open.spotify.com/track/5aJD07sT5Fya39NBNoMkEQ"
+    },
+    {
+      "album": {
+        "name": "petit escargot",
+        "url": "https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ"
+      },
+      "artists": [
+        {
+          "name": "Colas",
+          "url": "https://open.spotify.com/artist/7gVIUgoWlvt4aXBkwqYIrc"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "petit escargot",
+      "url": "https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C"
     },
     {
       "album": {
@@ -2376,7 +2434,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 178413,
       "name": "Resto Basket",
       "url": "https://open.spotify.com/track/3SdMH600ZTeaeSFcQuAxE6"
@@ -2582,6 +2640,28 @@
       "duration_ms": 266380,
       "name": "Shelter - Edit",
       "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
+    },
+    {
+      "album": {
+        "name": "Shrek Is a Lesbian",
+        "url": "https://open.spotify.com/album/6Yz6YGzF88ogesednT8CPn"
+      },
+      "artists": [
+        {
+          "name": "Maddy Street",
+          "url": "https://open.spotify.com/artist/4UEp8kk8DemApYH9rTopcQ"
+        },
+        {
+          "name": "Juda La Vidange",
+          "url": "https://open.spotify.com/artist/0oqeRZKId5upY0otMtUjs3"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111978,
+      "name": "Shrek Is a Lesbian",
+      "url": "https://open.spotify.com/track/5XLswkqDgMtht0KP5QKfUm"
     },
     {
       "album": {

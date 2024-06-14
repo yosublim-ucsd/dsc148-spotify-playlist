@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY?si=ltQ578QeSFCpo72dTsUaVQ"> Greek </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,534 likes - 199 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,604 likes - 199 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

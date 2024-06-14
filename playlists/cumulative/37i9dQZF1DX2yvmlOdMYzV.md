@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-729 songs - 1 day 15 hr 51 min
+730 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Love On You](https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I) | [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [The Found Album](https://open.spotify.com/album/4pRSg1bpkomA4aSn9EIxfx) | 4:10 | 2023-06-09 | 2023-10-15 |
 | [Love Outloud](https://open.spotify.com/track/0jj4TBUdZK5IekIzzYnqyU) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/0gb4DvjQAURA9LEu7RQr9A) | 2:57 | 2023-08-25 | 2024-03-01 |
 | [Love Outloud](https://open.spotify.com/track/5bsGugP8WQoG2J4Dnyxgpl) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives](https://open.spotify.com/album/4oKWWUVSRBH1ioYEG8nD6i) | 2:57 | 2023-08-25 | 2024-04-19 |
+| [Love Somebody](https://open.spotify.com/track/0TCQnVD1YqN2gNIFrvNICE) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Love Somebody](https://open.spotify.com/album/7BK8Km6JQ3D5YhT0PdRwus) | 2:56 | 2024-05-31 |  |
 | [Loverboy](https://open.spotify.com/track/1x9UiIdgnqRr9weFqFD8Pb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/6b4zVp76pVqlDU7WQrho22) | 3:58 | 2022-10-19 | 2023-02-14 |
 | [Loverboy](https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Loverboy](https://open.spotify.com/album/7w3ggwVB0OqAGFkboiozRS) | 3:58 | 2021-12-15 | 2022-10-13 |
 | [LOW TIDE](https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:26 | 2023-10-27 |  |
@@ -414,7 +415,7 @@
 | [makeitliveforever](https://open.spotify.com/track/2xXSBf2g9yFvNwL966JrUO) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/53gOm5R7JN5DAkIuZymFOZ) | 1:50 | 2021-12-15 | 2022-02-12 |
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-03-01 | 2024-06-01 |
 | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [MANGO \(feat\. Adi Oasis\)](https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0) | 4:05 | 2022-02-11 | 2023-04-15 |
-| [Mangosteen \(feat\. Sailorr & Biako\)](https://open.spotify.com/track/5rv9k7djjWFq8LzsnMkINx) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:09 | 2024-04-26 |  |
+| [Mangosteen \(feat\. Sailorr & Biako\)](https://open.spotify.com/track/5rv9k7djjWFq8LzsnMkINx) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ) | [DON'T GROW UP TOO SOON](https://open.spotify.com/album/31DPAfBVeHDM3bTxc5wI2v) | 3:09 | 2024-04-26 | 2024-06-14 |
 | [Many Ways](https://open.spotify.com/track/2AfcTMT8jdpbUAEXYhcj2d) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Many Ways](https://open.spotify.com/album/73nMLfzFweJGeLrW3dmtqN) | 3:27 | 2023-04-21 | 2023-09-15 |
 | [Many Ways](https://open.spotify.com/track/3snRYteaPc80GPKOimhrEF) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:27 | 2023-04-21 | 2023-12-22 |
 | [MARIPOSA](https://open.spotify.com/track/6mpANPTNlj2LpLIbTItVnQ) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:12 | 2023-10-27 | 2024-01-20 |

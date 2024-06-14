@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-240 songs - 9 hr 48 min
+243 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Born To Be Wild \- chill lofi remix](https://open.spotify.com/track/6Fl0hxOtP1xQ40Iwe1oRc8) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [The Rolling Beats](https://open.spotify.com/artist/7wvka6LIqEi6lGyljOm2h0) | [Born To Be Wild \- chill lofi remix](https://open.spotify.com/album/67Yu8CZ98TdOatwcujKpCs) | 2:06 | 2022-10-28 |  |
 | [boulevard of broken dreams](https://open.spotify.com/track/0ZA0zhZye770PB2gALNv1Z) | [Tetouan](https://open.spotify.com/artist/5zqfe0xfWmU830hI8jThsi) | [boulevard of broken dreams](https://open.spotify.com/album/64jmiYsMnjBcEooouZb33R) | 1:48 | 2023-06-09 |  |
 | [Boyfriend \- Instrumental Lo\-Fi](https://open.spotify.com/track/44bi6DmplOmNDGSEexkHJo) | [Lowfie](https://open.spotify.com/artist/4QC0ZIhtfKdj6Y8YdXoy8x) | [Lo\-Fi Pop Covers, Vol.2](https://open.spotify.com/album/0bBDXJUNhgX3X04RUh7sJP) | 1:33 | 2022-09-02 | 2023-11-24 |
-| [By This River \- Spotify Singles](https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 3:51 | 2022-09-02 |  |
+| [By This River \- Spotify Singles](https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 3:51 | 2022-09-02 | 2024-06-14 |
 | [cake by the ocean](https://open.spotify.com/track/3PSfK8uljFKaWpFmhkUKjk) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [cake by the ocean](https://open.spotify.com/album/2UjrbW783efsL76eSx9BlX) | 2:14 | 2023-04-20 |  |
 | [californication](https://open.spotify.com/track/4tGyu6JEpbpYGCmwijRYOt) | [kent mills](https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ) | [californication](https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU) | 2:07 | 2022-12-02 |  |
 | [Californication](https://open.spotify.com/track/2qPuqNzXKGJxUGix3Ot6ff) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 3\)](https://open.spotify.com/album/6xV0OXNjDLNExHKq0NO6Tc) | 4:23 | 2022-09-02 |  |
@@ -63,6 +63,7 @@
 | [dancing in the moonlight](https://open.spotify.com/track/1ZlN7b6imuKQUQa7ZoRmvk) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [dancing in the moonlight](https://open.spotify.com/album/5r9jGo8HPdSpDJRW7ofhSv) | 2:17 | 2022-12-16 |  |
 | [DEAR APRIL](https://open.spotify.com/track/5R2ZqLZeKRzAEH1eehC4LM) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [Cover Art](https://open.spotify.com/album/494oa37Z1PTRpKolGp5JO8) | 2:15 | 2022-09-02 |  |
 | [Die For You](https://open.spotify.com/track/1nLi6OAjTRfFRNYTrvpmPj) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [Die For You](https://open.spotify.com/album/4a7N9UUXtAjasSIMiIMpwW) | 3:28 | 2023-04-03 |  |
+| [dilemma](https://open.spotify.com/track/2BkGcrFsZ8pyOcCRZ7SmEu) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [dilemma](https://open.spotify.com/album/2k1F7XaGQRiZodGje43i8D) | 2:09 | 2024-06-13 |  |
 | [Do It To It](https://open.spotify.com/track/5JzL1hreVuaZO4Ukl2NemJ) | [OnD\-tox](https://open.spotify.com/artist/2P1XPAaJbnw7MjbV2g9Vxz) | [Do It To It](https://open.spotify.com/album/5tFPmOK4QrhiMtoqratw9g) | 2:41 | 2022-11-11 | 2023-12-08 |
 | [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 | 2022-11-18 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5NptWVOhMkCcbeiHFVcEU3) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 4:15 | 2022-09-02 | 2023-09-08 |
@@ -92,6 +93,7 @@
 | [God Girl](https://open.spotify.com/track/6PUrpc5FKEIdOHB6Cr0UOQ) | [Salty Soundz](https://open.spotify.com/artist/0uj4WSTdDGg22OCuqLTKk9) | [God Girl](https://open.spotify.com/album/0FUXc6dVrKHPn2dT9FhzrU) | 2:48 | 2023-02-07 |  |
 | [good 4 u](https://open.spotify.com/track/3AZgoA4NPnW7WVsYilE7Bo) | [Bat Bilger](https://open.spotify.com/artist/1hHeQ22aJjCgE42pUjvkon) | [good 4 u](https://open.spotify.com/album/778p2Kr3Tz1f5ZExmuQBDW) | 2:19 | 2022-11-11 |  |
 | [Hakuna Matata](https://open.spotify.com/track/5l5rUCU2QAA1sXTuNPlMHZ) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Focus](https://open.spotify.com/album/37LBLwOpwruXguw0QclQzN) | 2:48 | 2023-03-01 | 2024-01-19 |
+| [Halo](https://open.spotify.com/track/6Q2D4oWPnMseDZB2oikmIz) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Halo \(Lofi Version\)](https://open.spotify.com/album/7iym9KI40Zypl3LIacw1K4) | 3:22 | 2024-06-13 |  |
 | [Happier Than Ever](https://open.spotify.com/track/5i8lZgGvIBe3iL8WMCPHsi) | [Phil Marley](https://open.spotify.com/artist/0Yem4dpcxVT7GJhrSwnyme) | [Happier Than Ever](https://open.spotify.com/album/44aUBNTF0z4prL3vEdIwAB) | 2:19 | 2022-11-11 |  |
 | [Havana \- Lofi Version](https://open.spotify.com/track/4QjurBzqOd71ctHlvWDCXo) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams Vol\. 14](https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS) | 1:49 | 2022-09-02 | 2022-09-30 |
 | [heartbreaker](https://open.spotify.com/track/3y9W9xOMC5tB8aAA3lIEOo) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [heartbreaker](https://open.spotify.com/album/3uikouU6spEC8d5AT2su1F) | 2:50 | 2024-01-12 |  |
@@ -104,6 +106,7 @@
 | [Hotline Bling](https://open.spotify.com/track/4ZVanZJ1HJdxYd8ABLXGUM) | [Miro Mas](https://open.spotify.com/artist/4Nh6HRskIln2gWtk2KB0fL) | [I've Seen You Somewhere Before](https://open.spotify.com/album/68dG80XL5iTYGxjlfmG8tx) | 3:09 | 2022-09-16 |  |
 | [Hotline Bling \- Lofi Version](https://open.spotify.com/track/650A1oSiTx0BIVJD5eQglO) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Lo\-Fi Jams Vol\. 14](https://open.spotify.com/album/1IwWjovnVG3Ni1pr58JZkS) | 2:06 | 2022-09-02 | 2022-09-30 |
 | [how deep is your love](https://open.spotify.com/track/55cUQwQw1BW6K3VrzCpvvY) | [Jack All](https://open.spotify.com/artist/4rtQc0T0U3nCqAV6BwmOO4) | [how deep is your love](https://open.spotify.com/album/5bCb8dgtLFkMOlpmVP0lfZ) | 3:09 | 2024-02-02 |  |
+| [Human Nature](https://open.spotify.com/track/3SulqrnQoD5RqPiKtB1gQJ) | [Pixel Pixie](https://open.spotify.com/artist/3xN8CL9MfW5pcU6WiS9p3w) | [Human Nature](https://open.spotify.com/album/6UvRkWYQMJwE04O9HenZN9) | 2:30 | 2024-06-13 |  |
 | [I Ain't Worried](https://open.spotify.com/track/1HWA6RZvFTxsJbV2SBW8vN) | [Thermousse](https://open.spotify.com/artist/0Ykwhkr1nxyYh2O3h2U0IK) | [I Ain't Worried](https://open.spotify.com/album/6X3oVvm0vfJMZF3H37vhDh) | 2:33 | 2022-11-11 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/4O05P9QSQb6sgwegrxBX08) | [Ingelwood Syndicate](https://open.spotify.com/artist/3Mvlf7TqfvwKklBsRxezJ7) | [I Can't Make You Love Me](https://open.spotify.com/album/4BHFTYuEAqj9jK2p5o3Lxq) | 1:38 | 2022-10-28 |  |
 | [I Don't Care](https://open.spotify.com/track/4qXdMHTVfXC3JQzhhoDese) | [Peaceful Melody](https://open.spotify.com/artist/6piO5Ac23WJnRQifD42dfv), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [I Don't Care](https://open.spotify.com/album/7tn0sLHdTn8aNgex5QjBrS) | 2:14 | 2022-11-11 |  |

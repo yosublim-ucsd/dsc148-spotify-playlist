@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Cada D\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/5tXhrjibrsDLQxoyEVKoeR"
+      },
+      "artists": [
+        {
+          "name": "Monks & Flags",
+          "url": "https://open.spotify.com/artist/5BR8MvZtoOFuqJl7FCiQma"
+        },
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255272,
+      "name": "Cada D\u00eda (Remix)",
+      "url": "https://open.spotify.com/track/1lKNmBOSyWe8wGQEAQ2nVl"
+    },
+    {
+      "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
@@ -504,7 +526,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 188013,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/7dg5Ftm2r7DTWxZ2jStavG"

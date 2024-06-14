@@ -4,7 +4,7 @@
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-325 songs - 13 hr 41 min
+326 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 | 2022-05-25 | 2023-09-30 |
 | [Berserk \(Guts\)](https://open.spotify.com/track/02TkW3n36h68GDwOnGPvYV) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91) | [Berserk \(Guts\)](https://open.spotify.com/album/41Cw2k5xNcQ2j0Ho9GTdUI) | 3:34 | 2022-05-25 | 2022-07-29 |
 | [Black Clover](https://open.spotify.com/track/40hSfhLVRH8Unwiwk16WIA) | [HazTik](https://open.spotify.com/artist/6xZtfGoy2JCGqSUPdAUHbX) | [Black Clover](https://open.spotify.com/album/7JVokvPC8GQTmoDNHRvhpL) | 2:05 | 2022-05-25 | 2022-07-25 |
-| [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 | 2022-06-10 |  |
+| [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 | 2022-06-10 | 2024-06-14 |
 | [Blind Boy](https://open.spotify.com/track/0gqhiqBWmcXDrUiThfJmgf) | [Earl Stan](https://open.spotify.com/artist/3eCkVzIeYAyuPkVNoCKyUL) | [Blind Boy](https://open.spotify.com/album/7d0A9KYIGrTGoGbxMi6D4M) | 2:00 | 2022-05-25 | 2022-07-29 |
 | [Blood \(Alucard Rap\)](https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Blood \(Alucard Rap\)](https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ) | 3:17 | 2023-07-13 | 2024-02-10 |
 | [blood+ \(feat\. Witchouse 40k\)](https://open.spotify.com/track/2TL8BUI18wZJHlApaa9mex) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:21 | 2023-09-29 | 2023-11-28 |
@@ -212,6 +212,7 @@
 | [omg](https://open.spotify.com/track/036vYJjHZaL2wt57Y9po39) | [Anzyeity](https://open.spotify.com/artist/70bFGn5xdE74H0YNFVH3Mq) | [omg](https://open.spotify.com/album/0zPL3rDE8KZgpWSiikz8aK) | 1:29 | 2023-09-15 | 2023-09-27 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-22 | 2024-05-21 |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-01-12 | 2023-05-23 |
+| [PACKAPUNCH \(feat\. Danny Brown\)](https://open.spotify.com/track/3C1rUtw6tW9dfVPar8CMLf) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [NO HANDS](https://open.spotify.com/album/1Fjelo0jZ4i1iQZBsK0pOA) | 3:00 | 2024-06-11 |  |
 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 | 2023-09-15 |  |
 | [paranoia agent](https://open.spotify.com/track/18cb0R9DC06aaqx6HszpFp) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [in my restless dreams, i see you](https://open.spotify.com/album/3lKy1Ddnt6Jov2ALre3Cao) | 2:57 | 2024-01-12 | 2024-04-19 |
 | [paranoia agent](https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [paranoia agent](https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7) | 2:57 | 2023-08-22 | 2023-09-30 |

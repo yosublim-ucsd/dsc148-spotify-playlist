@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 51045,
+  "num_followers": 51083,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
-        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
-      },
-      "artists": [
-        {
-          "name": "Blue Lu Barker",
-          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "A Little Bird Told Me",
-      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
         "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 195586,
       "name": "It's Tight Like That",
       "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
+        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
+      },
+      "artists": [
+        {
+          "name": "Blue Lu Barker",
+          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "A Little Bird Told Me",
+      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Trixie's Blues (Original Songs Remastered)",
-        "url": "https://open.spotify.com/album/1mLIyePVxZJ3EZOWTNp6bP"
-      },
-      "artists": [
-        {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
-        }
-      ],
-      "duration_ms": 165589,
-      "name": "Jack I'm Mellow",
-      "url": "https://open.spotify.com/track/7d7GT0WEAO9YFsOzampIZF"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Bertha \"Chippie\" Hill 1925-1929",
         "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 164624,
       "name": "Trouble In Mind (9510)",
       "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The Trixie's Blues (Original Songs Remastered)",
+        "url": "https://open.spotify.com/album/1mLIyePVxZJ3EZOWTNp6bP"
+      },
+      "artists": [
+        {
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
+        }
+      ],
+      "duration_ms": 165589,
+      "name": "Jack I'm Mellow",
+      "url": "https://open.spotify.com/track/7d7GT0WEAO9YFsOzampIZF"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Those Dirty Blues, Vol. 2",
-        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
-      },
-      "artists": [
-        {
-          "name": "Hattie North & Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Honey Dripper Blues",
-      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -915,18 +899,34 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
-        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
+        "name": "Those Dirty Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
       },
       "artists": [
         {
-          "name": "Perline Ellison",
-          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
+          "name": "Hattie North & Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
         }
       ],
-      "duration_ms": 179644,
-      "name": "New That Ain't Right",
-      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
+      "duration_ms": 205000,
+      "name": "Honey Dripper Blues",
+      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+      },
+      "artists": [
+        {
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
+        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
+      },
+      "artists": [
+        {
+          "name": "Perline Ellison",
+          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "New That Ain't Right",
+      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Female Crazy Blues (Classic Mood Experience)",
         "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 204831,
       "name": "Crazy Blues",
       "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
-      },
-      "artists": [
-        {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Downhearted Blues",
+        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
+      },
+      "artists": [
+        {
+          "name": "Alberta Hunter",
+          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
+        }
+      ],
+      "duration_ms": 151262,
+      "name": "My Castle's Rocking",
+      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "East and West Blues",
         "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 208000,
       "name": "Any Woman's Blues",
       "url": "https://open.spotify.com/track/178Sq9Ao4vivMJ6vfALqHB"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Downhearted Blues",
-        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
-      },
-      "artists": [
-        {
-          "name": "Alberta Hunter",
-          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "My Castle's Rocking",
-      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
     },
     {
       "added_at": "2024-06-02 16:39:20",

@@ -1,12 +1,12 @@
 {
   "description": "This Is The White Stripes. Los temas esenciales, todos en una lista.",
-  "num_followers": 112271,
+  "num_followers": 112292,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAAB/Qru1wYPBV2VPWFyXhPlZ",
+  "snapshot_id": "ZmjlAAAAAACYo2yVf4L8sRGj8z1A3sWm",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 186800,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
+      "duration_ms": 35226,
+      "name": "Passive Manipulation",
+      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -391,54 +407,6 @@
       "duration_ms": 186240,
       "name": "Offend In Every Way",
       "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140194,
-      "name": "Stop Breaking Down",
-      "url": "https://open.spotify.com/track/2zUo58hpXMdR1GUcGYyfmP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Stijl",
-        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Rag and Bone",
-      "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
     },
     {
       "added_at": null,
@@ -459,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
       },
       "artists": [
         {
@@ -468,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 35226,
-      "name": "Passive Manipulation",
-      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
+      "duration_ms": 228000,
+      "name": "Rag and Bone",
+      "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
     },
     {
       "added_at": null,
@@ -484,9 +452,41 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 194546,
-      "name": "Truth Doesn't Make a Noise",
-      "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
+      "duration_ms": 269946,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140194,
+      "name": "Stop Breaking Down",
+      "url": "https://open.spotify.com/track/2zUo58hpXMdR1GUcGYyfmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Truth Doesn't Make a Noise",
+      "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 114360,
       "name": "When I Hear My Name",
       "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Little Ghost",
-      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "One More Cup of Coffee",
-      "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Behind Me Satan",
         "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 262573,
       "name": "Take, Take, Take",
       "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "One More Cup of Coffee",
+      "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 149066,
-      "name": "Jimmy the Exploder",
-      "url": "https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elephant (Deluxe)",
         "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 160826,
       "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
       "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 149066,
+      "name": "Jimmy the Exploder",
+      "url": "https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The White Stripes",
-        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 111040,
-      "name": "Broken Bricks",
-      "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elephant (Deluxe)",
         "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 132511,
       "name": "Cool Drink Of Water Blues - Live at The Aragon Ballroom, July 2, 2003",
       "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 111040,
+      "name": "Broken Bricks",
+      "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2018208,
+  "num_followers": 2018317,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5S9B7Jmo9A6A0VNtaYt0I346r99b1",
+  "snapshot_id": "AAA5U/mlKrBgzlXZVDxvz/0DXvhq48S1",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -177,6 +177,26 @@
       "url": "https://open.spotify.com/track/15BlympuVSfZFROojEMY2M"
     },
     {
+      "added_at": "2024-06-13 18:29:17",
+      "album": {
+        "name": "My Name",
+        "url": "https://open.spotify.com/album/77ykc4hJTGuICmMOjovmXt"
+      },
+      "artists": [
+        {
+          "name": "Reed Wonder",
+          "url": "https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv"
+        },
+        {
+          "name": "Aurora Olivas",
+          "url": "https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo"
+        }
+      ],
+      "duration_ms": 230766,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/33wXe2PIOqYZ4lI0eNRTdW"
+    },
+    {
       "added_at": "2024-01-29 22:53:51",
       "album": {
         "name": "Joytime",
@@ -333,22 +353,6 @@
       "url": "https://open.spotify.com/track/1JhZFPRiBslF2m1zE8HfdE"
     },
     {
-      "added_at": "2024-01-29 22:53:51",
-      "album": {
-        "name": "First Steps",
-        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Quick Musical Doodles",
-      "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
-    },
-    {
       "added_at": "2024-02-23 17:42:03",
       "album": {
         "name": "Home (Vintage Culture Remix)",
@@ -371,6 +375,22 @@
       "duration_ms": 213333,
       "name": "Home - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/46mSti37NWTIg9XOFulqLH"
+    },
+    {
+      "added_at": "2024-01-29 22:53:51",
+      "album": {
+        "name": "First Steps",
+        "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Quick Musical Doodles",
+      "url": "https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -427,6 +447,26 @@
       "duration_ms": 158571,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/4rFZqyQIEzXlwpR4DY4Suh"
+    },
+    {
+      "added_at": "2024-06-13 20:32:39",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Max Milner",
+          "url": "https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO"
     },
     {
       "added_at": "2024-01-29 22:53:51",
@@ -2971,6 +3011,30 @@
       "duration_ms": 103836,
       "name": "Lets Go Crazy",
       "url": "https://open.spotify.com/track/2obmNTgEVv9V26rz3yu9ia"
+    },
+    {
+      "added_at": "2024-06-13 20:32:49",
+      "album": {
+        "name": "Spiritual Milk",
+        "url": "https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 213629,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/67lyxsvzzzHKSKfh0rSSMo"
     }
   ],
   "unique_name": "Trap Nation",

@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 22389,
+  "num_followers": 22394,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Sin darle motivo (Derrok Remix)",
-        "url": "https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa"
+        "name": "DUALQ",
+        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
       },
       "artists": [
         {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        },
-        {
-          "name": "Derrok",
-          "url": "https://open.spotify.com/artist/1Gqv9YkzHHS3jyQb0DvQTv"
+          "name": "Otnicka",
+          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
         }
       ],
-      "duration_ms": 328602,
-      "name": "Sin darle motivo - Derrok Remix",
-      "url": "https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP"
+      "duration_ms": 235142,
+      "name": "DUALQ",
+      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -279,22 +275,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "DUALQ",
-        "url": "https://open.spotify.com/album/3mvBTWoQPoiQL9axmNaEfZ"
+        "name": "Sin darle motivo (Derrok Remix)",
+        "url": "https://open.spotify.com/album/5CxO6iZLm3VFD7RCEOzNFa"
       },
       "artists": [
         {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
         },
         {
-          "name": "Otnicka",
-          "url": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Derrok",
+          "url": "https://open.spotify.com/artist/1Gqv9YkzHHS3jyQb0DvQTv"
         }
       ],
-      "duration_ms": 235142,
-      "name": "DUALQ",
-      "url": "https://open.spotify.com/track/3zNVQ2hDCiJ5QqUiS7vVxB"
+      "duration_ms": 328602,
+      "name": "Sin darle motivo - Derrok Remix",
+      "url": "https://open.spotify.com/track/0pOy8zLbOSbIjVRxm4oqPP"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "New Latam Beats From Argentina (Disco A)",
-        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        }
-      ],
-      "duration_ms": 325025,
-      "name": "Serenata Plateada",
-      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "CARNAVALITO DEL DUENDE",
         "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 172421,
       "name": "CARNAVALITO DEL DUENDE",
       "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "New Latam Beats From Argentina (Disco A)",
+        "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 325025,
+      "name": "Serenata Plateada",
+      "url": "https://open.spotify.com/track/1lQJm0qUacjrCeSNlsInL2"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "La Maza",
+      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Campo",
         "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 189026,
       "name": "Zorzal",
       "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "Huestes",
-        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU"
+        "name": "Huestes",
+        "url": "https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a"
       },
       "artists": [
         {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
         }
       ],
-      "duration_ms": 290760,
-      "name": "La Maza",
-      "url": "https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2"
+      "duration_ms": 223760,
+      "name": "Ant\u00eddoto",
+      "url": "https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -719,30 +719,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Sencilla es mi canoa como mis afectos",
-        "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
+        "name": "Wal\u00fcng II",
+        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
       "artists": [
         {
-          "name": "San Ignacio",
-          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+          "name": "El Extravagante",
+          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
         },
         {
-          "name": "Xanducero",
-          "url": "https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW"
-        },
-        {
-          "name": "Silvio Astier",
-          "url": "https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW"
-        },
-        {
-          "name": "Remiseria Temperley",
-          "url": "https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo"
+          "name": "Camilo Zanetti",
+          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
         }
       ],
-      "duration_ms": 383979,
-      "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
-      "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+      "duration_ms": 244000,
+      "name": "Baile De M\u00e1scaras",
+      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -771,22 +763,30 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Wal\u00fcng II",
-        "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
+        "name": "Sencilla es mi canoa como mis afectos",
+        "url": "https://open.spotify.com/album/5DmxBW7dFKNOSPdj5p7uXO"
       },
       "artists": [
         {
-          "name": "El Extravagante",
-          "url": "https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5"
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
         },
         {
-          "name": "Camilo Zanetti",
-          "url": "https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l"
+          "name": "Xanducero",
+          "url": "https://open.spotify.com/artist/3P4H2P2LQKEf3IFvk6BSVW"
+        },
+        {
+          "name": "Silvio Astier",
+          "url": "https://open.spotify.com/artist/7EUorvzcNTKxqyEu5Gm8TW"
+        },
+        {
+          "name": "Remiseria Temperley",
+          "url": "https://open.spotify.com/artist/7tfHRoS5y3i6f3yzRyDvQo"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Baile De M\u00e1scaras",
-      "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
+      "duration_ms": 383979,
+      "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
+      "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -871,18 +871,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Dia Y Noche",
-        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
+        "name": "Muchas Estrellas",
+        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
       },
       "artists": [
         {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
         }
       ],
-      "duration_ms": 425500,
-      "name": "Noche - Remix",
-      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
+      "duration_ms": 271000,
+      "name": "Muchas Estrellas",
+      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -907,22 +911,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Muchas Estrellas",
-        "url": "https://open.spotify.com/album/1JtE86fRCzw0UCIKpNCzm9"
+        "name": "Dia Y Noche",
+        "url": "https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv"
       },
       "artists": [
         {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Muchas Estrellas",
-      "url": "https://open.spotify.com/track/6tSdo6xgGwQjWMBJYn9kat"
+      "duration_ms": 425500,
+      "name": "Noche - Remix",
+      "url": "https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
+        "name": "La L\u00ednea Del Rio (Remix)",
+        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        },
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
+        }
+      ],
+      "duration_ms": 546568,
+      "name": "La L\u00ednea Del Rio - Remix",
+      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
         "name": "Luchin",
         "url": "https://open.spotify.com/album/4qIzBYCPefEh2KypK1Uuk9"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 259551,
       "name": "Luchin",
       "url": "https://open.spotify.com/track/0g5PWF2pQUNw4xdpPQrsV3"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
-        "name": "La L\u00ednea Del Rio (Remix)",
-        "url": "https://open.spotify.com/album/7bA6aQJeNKnb7sokNvUFpN"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        },
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/1KwZpbtHfA9xTujcgSTeUJ"
-        }
-      ],
-      "duration_ms": 546568,
-      "name": "La L\u00ednea Del Rio - Remix",
-      "url": "https://open.spotify.com/track/5aJSMeuh3g7BzwpzUz1C49"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
-        }
-      ],
-      "duration_ms": 208179,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe"
-    },
-    {
-      "added_at": "2024-03-29 03:00:00",
-      "album": {
         "name": "Tierra Natal (Barzo Remix)",
         "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 199578,
       "name": "Tierra Natal - Barzo Remix",
       "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
+    },
+    {
+      "added_at": "2024-03-29 03:00:00",
+      "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        }
+      ],
+      "duration_ms": 208179,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2HuxNnfSAsbkQOrOpsWnpe"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Jallalla",
-        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP"
       },
       "artists": [
         {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         },
         {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "F\u00e9mina",
+          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
         }
       ],
-      "duration_ms": 340616,
-      "name": "La Frontera",
-      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
+      "duration_ms": 296258,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP"
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
         },
         {
-          "name": "F\u00e9mina",
-          "url": "https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR"
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 296258,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD"
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
     },
     {
       "added_at": "2024-03-29 03:00:00",

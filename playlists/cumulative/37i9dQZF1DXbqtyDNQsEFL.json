@@ -5277,6 +5277,28 @@
     },
     {
       "album": {
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119428,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA"
+    },
+    {
+      "album": {
         "name": "Praise Your Name",
         "url": "https://open.spotify.com/album/0OZoD6xavZhIqeJblkeasq"
       },
@@ -6952,7 +6974,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 154000,
       "name": "Yewo",
       "url": "https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE"

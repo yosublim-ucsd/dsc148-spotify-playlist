@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=ce0\_G90pR7mdITQnky4OlA">Linda Sikhakhane</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH?si=M4SgEnuWQOKmMWFmiilnZw">Malcolm Jiyane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,622 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,630 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Inkehli](https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Inkehli](https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm) | 6:53 |
-| 2 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
-| 3 | [MaBrrrrrrrrr](https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [MaBrrrrrrrrr](https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs) | 4:56 |
-| 4 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
-| 5 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
+| 1 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
+| 2 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
+| 3 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
+| 4 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
+| 5 | [Inkehli](https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Inkehli](https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm) | 6:53 |
 | 6 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
 | 7 | [TransAtlantic](https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Enhlizweni \- song stories from my heartland](https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK) | 7:22 |
 | 8 | [Ezilalini](https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby For Khayoyo](https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6) | 8:11 |
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 27 | [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 |
 | 28 | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/track/2Qr7PCmshXAAOUvP3bwotE) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/album/0AbupBIps2UaQWWQjIWmTt) | 8:40 |
 | 29 | [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 |
-| 30 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 |
-| 31 | [Lesedi](https://open.spotify.com/track/0nL1LtNr9zcl0wgGOK6HJm) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Lesedi](https://open.spotify.com/album/1Sukgz3b5erT1h2RdaAmlY) | 10:02 |
-| 32 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
-| 33 | [Inkhatazo](https://open.spotify.com/track/3coK5yd6TJncroyAWMk3Qt) | [Thandeka Dladla](https://open.spotify.com/artist/7ntMlnq9iQvy3ZPehbenHc) | [Umnikelo](https://open.spotify.com/album/7AFHOhItwamZalv57itrhZ) | 5:09 |
-| 34 | [Umthombo](https://open.spotify.com/track/36FgHjJFdA3y3uBCgW6PSR) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Lwanda Gogwana](https://open.spotify.com/artist/4u5M9vxEOTAINqw8n7b4VK) | [Umthombo](https://open.spotify.com/album/13FZYGktp6pn3NXDkqmlQs) | 3:55 |
+| 30 | [MaBrrrrrrrrr](https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [MaBrrrrrrrrr](https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs) | 4:56 |
+| 31 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 |
+| 32 | [Lesedi](https://open.spotify.com/track/0nL1LtNr9zcl0wgGOK6HJm) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Lesedi](https://open.spotify.com/album/1Sukgz3b5erT1h2RdaAmlY) | 10:02 |
+| 33 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
+| 34 | [Inkhatazo](https://open.spotify.com/track/3coK5yd6TJncroyAWMk3Qt) | [Thandeka Dladla](https://open.spotify.com/artist/7ntMlnq9iQvy3ZPehbenHc) | [Umnikelo](https://open.spotify.com/album/7AFHOhItwamZalv57itrhZ) | 5:09 |
 | 35 | [Kunzima Madoda](https://open.spotify.com/track/0hLqS3gWMiVvANb5HvndhP) | [Linda Tshabalala](https://open.spotify.com/artist/2owcGskTifdgn9Tw7sK9p7) | [Convergence Bekezela Siyeza](https://open.spotify.com/album/3tmmJjesjQuWYgA2qvafpe) | 6:02 |
 | 36 | [Piece of Ground](https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [What Is Wrong With Groovin'](https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs) | 4:25 |
 | 37 | [Mindif \- Single Edit](https://open.spotify.com/track/0KfGdrpJ3Dn4eW7CQRqRgO) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Mindif](https://open.spotify.com/album/0fGJTOhEGxKMIEFtsemF19) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [Cabin Fever](https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD) | [MUNGO BUNGO](https://open.spotify.com/artist/38zmC7oufF1B8WCBaHWqsz) | [Cabin Fever](https://open.spotify.com/album/43dmHtuJLgnXl6BTG3YuIy) | 3:52 |
 | 50 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
 
-Snapshot ID: `ZlkE8AAAAAD4EXrhG7fkN7w59GX3tjIx`
+Snapshot ID: `Zmt58AAAAADt0Jbpl8VjxKIgQMfDwdMa`

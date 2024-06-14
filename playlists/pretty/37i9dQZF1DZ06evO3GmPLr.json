@@ -1,12 +1,12 @@
 {
-  "description": "This Is Little Simz. Los temas esenciales, todos en una lista.",
-  "num_followers": 42205,
+  "description": "This is Little Simz. The essential tracks, all in one playlist.",
+  "num_followers": 42226,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAAAd8R+pDAknfXJDc4e9fM5i",
+  "snapshot_id": "ZmjlAAAAAADWYdiX+zPARUbGbD15ZuFt",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Location (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
       },
       "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 245045,
-      "name": "Location (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
+      "duration_ms": 120396,
+      "name": "damn right",
+      "url": "https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "Location (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
       },
       "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 120396,
-      "name": "damn right",
-      "url": "https://open.spotify.com/track/3Q1HNg15qwjOlDy5ia1NJc"
+      "duration_ms": 245045,
+      "name": "Location (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
     },
     {
       "added_at": null,

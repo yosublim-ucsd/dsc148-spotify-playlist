@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Margaux, Artwork: Isu Kim.",
-  "num_followers": 1198325,
+  "num_followers": 1198480,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmnE3QAAAAC68UemZt5g1Oc1Jl7OkQa2",
+  "snapshot_id": "ZmtYFQAAAADg9Op+DtG4513UceZuhwAE",
   "tracks": [
     {
       "added_at": "2024-06-12 15:52:22",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
+      "added_at": "2024-06-13 20:35:33",
+      "album": {
+        "name": "Undercover Lover",
+        "url": "https://open.spotify.com/album/4v8Dt0lEWPYmj4yQff2Nva"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        },
+        {
+          "name": "Jamma-Dee",
+          "url": "https://open.spotify.com/artist/2qIdgfyoBJ60s1O55LOmiH"
+        }
+      ],
+      "duration_ms": 217092,
+      "name": "Undercover Lover",
+      "url": "https://open.spotify.com/track/04js5IkeOVrEWazKXj2B9M"
+    },
+    {
       "added_at": "2024-06-12 15:52:22",
       "album": {
         "name": "FLIP IT BACK AGAIN",
@@ -139,6 +159,22 @@
       "duration_ms": 220165,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
+    },
+    {
+      "added_at": "2024-06-13 20:35:33",
+      "album": {
+        "name": "SOMEDAY",
+        "url": "https://open.spotify.com/album/3eoARb60JoP1Z6GsD4HqLE"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 209418,
+      "name": "SOMEDAY",
+      "url": "https://open.spotify.com/track/2bQzlvneMWu99bGWvmARw4"
     },
     {
       "added_at": "2024-06-12 15:52:22",
@@ -229,6 +265,26 @@
       "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
     },
     {
+      "added_at": "2024-06-13 20:35:33",
+      "album": {
+        "name": "Make Myself Happy (feat. Floyd Fuji)",
+        "url": "https://open.spotify.com/album/6g6yhytUFFQ2vshNfEoC8y"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Make Myself Happy",
+      "url": "https://open.spotify.com/track/7INoWmYc2paIoyjqgNYqfo"
+    },
+    {
       "added_at": "2024-05-29 16:33:32",
       "album": {
         "name": "wait a while' (tenten)",
@@ -295,6 +351,22 @@
       "duration_ms": 219281,
       "name": "Can't Love",
       "url": "https://open.spotify.com/track/3kIPQeBuU1Tie6SddVzyFi"
+    },
+    {
+      "added_at": "2024-06-13 20:35:33",
+      "album": {
+        "name": "MOOD RING",
+        "url": "https://open.spotify.com/album/0gSBpcyID5faN64X9wDveP"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "duration_ms": 169794,
+      "name": "FROM KALLI WITH LOVE",
+      "url": "https://open.spotify.com/track/5YNfWXqUbIhIQs45iDEcaB"
     },
     {
       "added_at": "2024-06-12 15:52:22",
@@ -427,6 +499,22 @@
       "duration_ms": 241458,
       "name": "Maxine",
       "url": "https://open.spotify.com/track/5UpPoh9yvuhwuQyNCAZilt"
+    },
+    {
+      "added_at": "2024-06-13 20:35:33",
+      "album": {
+        "name": "Superfan",
+        "url": "https://open.spotify.com/album/1GBTH2EaDPAC9IjpcBO8Md"
+      },
+      "artists": [
+        {
+          "name": "Summer Banton",
+          "url": "https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Superfan",
+      "url": "https://open.spotify.com/track/6dCqCHxMhOjEpx43wgWycn"
     },
     {
       "added_at": "2024-06-12 15:52:22",

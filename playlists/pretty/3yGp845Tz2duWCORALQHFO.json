@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25714,
+  "num_followers": 25716,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABfx9s/+2gKGWUuMxPcdP9ztcFK06Yb",
+  "snapshot_id": "AABfz4OJPMm4ZqogrN2CBLuY6FaIHHT8",
   "tracks": [
     {
       "added_at": "2024-06-07 11:47:25",
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/5fbigfxYwz6fGGxe8Py57t"
     },
     {
+      "added_at": "2024-06-13 14:40:51",
+      "album": {
+        "name": "Final Destination",
+        "url": "https://open.spotify.com/album/6ls5ki48A277qGM8VJpO8F"
+      },
+      "artists": [
+        {
+          "name": "Tensteps",
+          "url": "https://open.spotify.com/artist/7gIEIIwEUPxZmScP2JCkPU"
+        }
+      ],
+      "duration_ms": 152238,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/38jyOQwBeuYFJnTVdhGu38"
+    },
+    {
       "added_at": "2024-06-07 11:58:35",
       "album": {
         "name": "Crossed the Line (All the Things)",
@@ -247,6 +263,22 @@
       "duration_ms": 180057,
       "name": "Setema",
       "url": "https://open.spotify.com/track/2iUO7vbmNgtm9iQNK0Zvcx"
+    },
+    {
+      "added_at": "2024-06-13 14:42:53",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
     },
     {
       "added_at": "2024-06-07 11:47:25",
@@ -533,6 +565,26 @@
       "url": "https://open.spotify.com/track/2QxgDD3HYoNGUuwHueRWbs"
     },
     {
+      "added_at": "2024-06-13 14:41:50",
+      "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/5MUu5GYpjKwC7IDXjYIGWx"
+      },
+      "artists": [
+        {
+          "name": "shams",
+          "url": "https://open.spotify.com/artist/4IB8myYRu05MrYjhHFfH3x"
+        },
+        {
+          "name": "Mystic Joy",
+          "url": "https://open.spotify.com/artist/3clFVe1tCR0DsVU0xtq5JV"
+        }
+      ],
+      "duration_ms": 215675,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/0OkvQpiUUatDmq6guD4C8B"
+    },
+    {
       "added_at": "2024-06-07 11:47:25",
       "album": {
         "name": "Mad Hatter",
@@ -571,6 +623,22 @@
       "duration_ms": 240526,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/3Thy9oRmhIwfQEJLGswqBX"
+    },
+    {
+      "added_at": "2024-06-13 14:41:51",
+      "album": {
+        "name": "CLEAN YOUR HOUSE",
+        "url": "https://open.spotify.com/album/6GxEhmUtqBR6rE2nQQHJ8D"
+      },
+      "artists": [
+        {
+          "name": "THETA_FREQZ",
+          "url": "https://open.spotify.com/artist/3l8l0mLLA5Xc7jWF9DQsxO"
+        }
+      ],
+      "duration_ms": 243004,
+      "name": "CLEAN YOUR HOUSE",
+      "url": "https://open.spotify.com/track/2zCfDbVsV5jhLGYqXveDdv"
     },
     {
       "added_at": "2024-06-09 20:02:51",
@@ -629,6 +697,38 @@
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
     },
     {
+      "added_at": "2024-06-13 14:43:53",
+      "album": {
+        "name": "OVERSTEP",
+        "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
+      },
+      "artists": [
+        {
+          "name": "BADVILLAIN",
+          "url": "https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV"
+        }
+      ],
+      "duration_ms": 189283,
+      "name": "BADVILLAIN",
+      "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "added_at": "2024-06-13 14:40:52",
+      "album": {
+        "name": "Gods Don't Die",
+        "url": "https://open.spotify.com/album/7EriCl66IApGIuJ7yYI7Dg"
+      },
+      "artists": [
+        {
+          "name": "Sound On Tape",
+          "url": "https://open.spotify.com/artist/0PFzg6epjb7qfSxcmpVzcv"
+        }
+      ],
+      "duration_ms": 201678,
+      "name": "Gods Don't Die",
+      "url": "https://open.spotify.com/track/62GL8ijMcjOQMRbVEtuhB1"
+    },
+    {
       "added_at": "2024-06-07 11:47:25",
       "album": {
         "name": "Lotus (PAROOKAVILLE Anthem 2024)",
@@ -643,6 +743,22 @@
       "duration_ms": 214687,
       "name": "Lotus (PAROOKAVILLE Anthem 2024)",
       "url": "https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ"
+    },
+    {
+      "added_at": "2024-06-13 14:42:52",
+      "album": {
+        "name": "Leave Me Now",
+        "url": "https://open.spotify.com/album/3MRb4YDmxZyyw0BodoZzoW"
+      },
+      "artists": [
+        {
+          "name": "ASYM",
+          "url": "https://open.spotify.com/artist/793hRxjXyRIHMuM8oRTlLZ"
+        }
+      ],
+      "duration_ms": 233223,
+      "name": "Leave Me Now",
+      "url": "https://open.spotify.com/track/4ozrujRFfO2FunrJIwS7VY"
     },
     {
       "added_at": "2024-06-07 11:47:25",
@@ -803,6 +919,22 @@
       "duration_ms": 231454,
       "name": "Lenda",
       "url": "https://open.spotify.com/track/10BvbmIVI24CBEhnhpxPmZ"
+    },
+    {
+      "added_at": "2024-06-13 14:41:52",
+      "album": {
+        "name": "Breaking Myself",
+        "url": "https://open.spotify.com/album/5THkhGIu6C7lCnpwB9trsX"
+      },
+      "artists": [
+        {
+          "name": "ASYM",
+          "url": "https://open.spotify.com/artist/793hRxjXyRIHMuM8oRTlLZ"
+        }
+      ],
+      "duration_ms": 173288,
+      "name": "Breaking Myself",
+      "url": "https://open.spotify.com/track/5cXP5e2U4nA1wtypcDOZo3"
     },
     {
       "added_at": "2024-06-07 11:47:25",

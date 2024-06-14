@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bridget Blue",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Maya Amolo",
   "name": "NairoBae",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 164663,
       "name": "Closer To Me",
       "url": "https://open.spotify.com/track/7mWYPdQS1MBEtWMHqAHjUa"
@@ -936,6 +936,28 @@
       "duration_ms": 235102,
       "name": "Foundry",
       "url": "https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5"
+    },
+    {
+      "album": {
+        "name": "Further From Me",
+        "url": "https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        },
+        {
+          "name": "Faygos Paradise",
+          "url": "https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137187,
+      "name": "Further From Me",
+      "url": "https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2"
     },
     {
       "album": {
@@ -3109,6 +3131,24 @@
     },
     {
       "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md"
+    },
+    {
+      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
       },
@@ -3364,7 +3404,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 229380,
       "name": "Under Cover Lover",
       "url": "https://open.spotify.com/track/1XLd6OwzEwbnGJQAUdZDZW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: OMWAWES",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Lavora",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 298378,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4YF1AdKmp6QuPXWDi8rp4c"
@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "HTS",
+        "url": "https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255238,
+      "name": "HTS",
+      "url": "https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt"
+    },
+    {
+      "album": {
         "name": "Iki Uripku",
         "url": "https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp"
       },
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 197142,
       "name": "Kawanen Saur",
       "url": "https://open.spotify.com/track/1Rofr286SKNgf4Ns7RDiRp"
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 348444,
       "name": "Kesel - Studio Version",
       "url": "https://open.spotify.com/track/1W9v2dH55jpVMOAcAjxarE"
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 299725,
       "name": "LDR (Langgeng Dayaning Rasa)",
       "url": "https://open.spotify.com/track/4nBsCOuBcfBRySw8vjmk0D"
@@ -3717,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Ngemis",
+        "url": "https://open.spotify.com/album/16e2jR9gWRsCZjfe7TIfKJ"
+      },
+      "artists": [
+        {
+          "name": "Brindil Kurus",
+          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301920,
+      "name": "Ngemis",
+      "url": "https://open.spotify.com/track/71934imn8hIKn96P7sWELA"
+    },
+    {
+      "album": {
         "name": "Ngemong Ati",
         "url": "https://open.spotify.com/album/5skqolqrAXZwxnZRb0h5ld"
       },
@@ -4252,7 +4288,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 270102,
       "name": "Pasukan Anti Prei",
       "url": "https://open.spotify.com/track/0dsFfIJm5bnQJFcSprA9DN"
@@ -4954,7 +4990,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 306472,
       "name": "Rembulan 2",
       "url": "https://open.spotify.com/track/5jeRcjeyCqYDX5bsgRfrHy"
@@ -5492,7 +5528,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 68598,
       "name": "Sauro Utangmu (Genjrengan)",
       "url": "https://open.spotify.com/track/095Xxzpu6iz7Vt0RnEwgC5"
@@ -5756,7 +5792,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 332715,
       "name": "Tak Lalekne Kowe",
       "url": "https://open.spotify.com/track/5fhDqPVoKj7eSkpRiCVyw8"
@@ -5908,6 +5944,28 @@
       "duration_ms": 286162,
       "name": "Tatu",
       "url": "https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb"
+    },
+    {
+      "album": {
+        "name": "TAU DADI CERITO",
+        "url": "https://open.spotify.com/album/3dBzJxlkW6VgYiqkNUaCWX"
+      },
+      "artists": [
+        {
+          "name": "SKA 86",
+          "url": "https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg"
+        },
+        {
+          "name": "Siti Aliyah",
+          "url": "https://open.spotify.com/artist/5odREY5RWPqh6QMXDovkR5"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393529,
+      "name": "TAU DADI CERITO",
+      "url": "https://open.spotify.com/track/3JjKkwQ3SVDpPqTyNeFiRE"
     },
     {
       "album": {
@@ -6288,6 +6346,28 @@
       "duration_ms": 267652,
       "name": "Urip Rekoso",
       "url": "https://open.spotify.com/track/75APZykcRrekbpKkE798OD"
+    },
+    {
+      "album": {
+        "name": "WARADA",
+        "url": "https://open.spotify.com/album/0HiIrGwtdRKGMCwi9EQgUT"
+      },
+      "artists": [
+        {
+          "name": "Miqbal GA",
+          "url": "https://open.spotify.com/artist/4Fze9hgN2zqkdoLgXYIyCu"
+        },
+        {
+          "name": "Siska Amanda",
+          "url": "https://open.spotify.com/artist/6auqSYHZVUwYATym8jyqeq"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265920,
+      "name": "WARADA",
+      "url": "https://open.spotify.com/track/35MTI9jWQqKdBUptLh2Roq"
     },
     {
       "album": {

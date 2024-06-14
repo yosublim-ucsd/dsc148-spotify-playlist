@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: 7Liwa",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Kouz1",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 197466,
       "name": "BGHAWNI",
       "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 232643,
       "name": "CA VA CHANGER",
       "url": "https://open.spotify.com/track/2F8dlGXBefyzEdGgTX51eB"
@@ -810,6 +810,24 @@
       "duration_ms": 177000,
       "name": "Chill",
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
+    },
+    {
+      "album": {
+        "name": "CHIRON",
+        "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149096,
+      "name": "CHIRON",
+      "url": "https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD"
     },
     {
       "album": {
@@ -1090,6 +1108,28 @@
       "duration_ms": 182400,
       "name": "Douwi Douwi",
       "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
+    },
+    {
+      "album": {
+        "name": "Drari",
+        "url": "https://open.spotify.com/album/5H2BQ6JJTu07btoGKRiISX"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "Drari",
+      "url": "https://open.spotify.com/track/3E0tyueJ8RwaR9787Iucqc"
     },
     {
       "album": {
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 182638,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb"
@@ -1892,6 +1932,28 @@
       "duration_ms": 156329,
       "name": "KADAWINI",
       "url": "https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4"
+    },
+    {
+      "album": {
+        "name": "Kakashi",
+        "url": "https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        },
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288979,
+      "name": "Kakashi",
+      "url": "https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D"
     },
     {
       "album": {
@@ -2356,7 +2418,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 216015,
       "name": "Lyam",
       "url": "https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh"
@@ -2822,6 +2884,24 @@
       "duration_ms": 184530,
       "name": "Ndokk-ha",
       "url": "https://open.spotify.com/track/3dovliAqBRD4CIhCD2uYyH"
+    },
+    {
+      "album": {
+        "name": "NPN (Nous par Nous)",
+        "url": "https://open.spotify.com/album/6MNZedNSrzWCscvqZaLFQ3"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194749,
+      "name": "Neshba",
+      "url": "https://open.spotify.com/track/14ZF0QXfMjJ1DyoL7umYoG"
     },
     {
       "album": {
@@ -4170,7 +4250,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 244800,
       "name": "TRAP ROUMI V5",
       "url": "https://open.spotify.com/track/5lLOq77WKo2UMY4Y7w22oL"
@@ -4446,6 +4526,24 @@
       "duration_ms": 220000,
       "name": "WESH",
       "url": "https://open.spotify.com/track/0Buz2iIHI6LGIHznHONCUs"
+    },
+    {
+      "album": {
+        "name": "WHY ?",
+        "url": "https://open.spotify.com/album/6Tncm17nNckzfoAUb9JQf0"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293381,
+      "name": "WHY ?",
+      "url": "https://open.spotify.com/track/3H2WlcVSS22NRTcBGpjtpj"
     },
     {
       "album": {

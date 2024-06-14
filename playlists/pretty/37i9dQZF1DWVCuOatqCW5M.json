@@ -1,6 +1,6 @@
 {
   "description": "Latest music from your fav I-Pop artists. Cover- Neeti Mohan",
-  "num_followers": 55483,
+  "num_followers": 55508,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -182,6 +182,10 @@
         {
           "name": "Munawar Faruqui",
           "url": "https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl"
+        },
+        {
+          "name": "Siddharth Singh",
+          "url": "https://open.spotify.com/artist/553LcIx8fpHS8EMQHv1JCN"
         }
       ],
       "duration_ms": 196532,

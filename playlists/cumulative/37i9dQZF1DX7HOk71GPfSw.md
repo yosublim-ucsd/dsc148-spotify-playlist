@@ -4,7 +4,7 @@
 
 > ft\. charli
 
-2,073 songs - 3 day 22 hr 18 min
+2,073 songs - 3 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1405,7 +1405,7 @@
 | [Picture This \- Felicita Remix](https://open.spotify.com/track/4uaregTeVnkFGQYVdIZpum) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT), [Felicita](https://open.spotify.com/artist/0ZcJJvH89Mf2k5I5tKocEJ) | [Picture This \(Felicita Remix\)](https://open.spotify.com/album/6oLhPlsLu0H5Wcm2CXsvcn) | 3:00 | 2021-05-08 | 2021-05-15 |
 | [Pikachu](https://open.spotify.com/track/30nQQZtzVLXmtJle9PpGSI) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [Pikachu](https://open.spotify.com/album/65X4r21YymzeN1yMz9pXjX) | 1:36 | 2021-09-19 | 2021-09-24 |
 | [Pink flame](https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Pink flame](https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ) | 4:14 | 2023-06-02 | 2023-10-07 |
-| [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:04 | 2024-06-07 |  |
+| [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:30 | 2024-06-07 |  |
 | [pink party](https://open.spotify.com/track/0MjYky9IKCX6l4wYL2UVw0) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [pink party](https://open.spotify.com/album/1XakoiQsghGuzwpNIReIEg) | 2:43 | 2021-01-15 | 2021-02-26 |
 | [Pinky Promise](https://open.spotify.com/track/681O60B2eTgz5wpYxZLDW6) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Pinky Promise](https://open.spotify.com/album/38P7NUBDR7b7lvK6K0eNRJ) | 2:35 | 2022-10-07 | 2023-03-25 |
 | [pins&needles](https://open.spotify.com/track/4SHtYSGREhKHfQISRgBVVq) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [pins&needles](https://open.spotify.com/album/0Z9vJNRGWBddvivFOh8ZaO) | 2:27 | 2021-03-26 | 2022-01-13 |

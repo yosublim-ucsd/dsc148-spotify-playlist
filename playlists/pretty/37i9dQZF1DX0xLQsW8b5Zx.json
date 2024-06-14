@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 531711,
+  "num_followers": 531739,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-27 12:44:19",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
-      },
-      "artists": [
-        {
-          "name": "John Lindberg Trio",
-          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
-        }
-      ],
-      "duration_ms": 188739,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
-    },
-    {
-      "added_at": "2023-10-27 12:44:19",
-      "album": {
         "name": "Our Brand",
         "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 149293,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
+    },
+    {
+      "added_at": "2023-10-27 12:44:19",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo"
+      },
+      "artists": [
+        {
+          "name": "John Lindberg Trio",
+          "url": "https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO"
+        }
+      ],
+      "duration_ms": 188739,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6"
     },
     {
       "added_at": "2023-10-27 12:44:19",

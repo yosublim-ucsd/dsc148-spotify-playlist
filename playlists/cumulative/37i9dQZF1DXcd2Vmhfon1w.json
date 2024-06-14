@@ -558,10 +558,28 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 203500,
       "name": "Alma Muerta",
       "url": "https://open.spotify.com/track/452QElqVUh1oe6jScenMME"
+    },
+    {
+      "album": {
+        "name": "ALMA ROTA",
+        "url": "https://open.spotify.com/album/3mIusKi5cfLh1DvLPKIK9z"
+      },
+      "artists": [
+        {
+          "name": "Lopes",
+          "url": "https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181956,
+      "name": "ALMA ROTA",
+      "url": "https://open.spotify.com/track/6XYQ4HtRmAKnbCaSqqyfaC"
     },
     {
       "album": {
@@ -1149,6 +1167,32 @@
     },
     {
       "album": {
+        "name": "Brujeria",
+        "url": "https://open.spotify.com/album/04KwSRCIIBuY2tLyFygcuS"
+      },
+      "artists": [
+        {
+          "name": "DaniFlakko",
+          "url": "https://open.spotify.com/artist/1muTzsOq5cxzAZqGjY913H"
+        },
+        {
+          "name": "Purini Madness",
+          "url": "https://open.spotify.com/artist/3UDVdqJYR6vRdJ6JDZMCav"
+        },
+        {
+          "name": "Naveso",
+          "url": "https://open.spotify.com/artist/6W8tVW8bZt7YrPSzyiCNfZ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/5kqdplL2D7oVTLL12AmDcM"
+    },
+    {
+      "album": {
         "name": "Bukowski",
         "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
       },
@@ -1212,6 +1256,24 @@
       "duration_ms": 211940,
       "name": "Buscavidas",
       "url": "https://open.spotify.com/track/1cFwOGilcDonTLlHyeVvGn"
+    },
+    {
+      "album": {
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/0C0bbWZTwmOqMaPHjB1SbX"
+      },
+      "artists": [
+        {
+          "name": "John Poll\u00f5n",
+          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167706,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/6QzmOTXnv79L7EdDItlc2p"
     },
     {
       "album": {
@@ -1832,7 +1894,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160000,
       "name": "Del Show al Hotel",
       "url": "https://open.spotify.com/track/40IbeA1EE31QvK7ftHeq31"
@@ -2336,7 +2398,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 147220,
       "name": "EL RESPLANDOR | Bolt Sessions #11",
       "url": "https://open.spotify.com/track/4mz3G6rCqDO8efkTkqwEPL"
@@ -3170,6 +3232,24 @@
       "duration_ms": 99184,
       "name": "Intro",
       "url": "https://open.spotify.com/track/65SfiFQbX26Nxf7x0z6rG8"
+    },
+    {
+      "album": {
+        "name": "Intro - GORGONA",
+        "url": "https://open.spotify.com/album/4EqIbFKbsvsdyj8UGI2Fjt"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99561,
+      "name": "Intro - GORGONA",
+      "url": "https://open.spotify.com/track/7CQoZneSgm4wVjP8M8HDJE"
     },
     {
       "album": {
@@ -4240,7 +4320,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 272143,
       "name": "Manchando el Papel",
       "url": "https://open.spotify.com/track/7ol9M0HHYf3jnTIE5wcaDU"
@@ -4346,6 +4426,28 @@
       "duration_ms": 172866,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/7smmyEpJwuZn1CZi0K7pLj"
+    },
+    {
+      "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/2iSBQgytqbQNlGEBIBagsQ"
+      },
+      "artists": [
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Rico Rosa",
+          "url": "https://open.spotify.com/artist/33AxM64O965URn5WUtqNST"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134545,
+      "name": "Mariah Carey",
+      "url": "https://open.spotify.com/track/69JEwBvoXZ8KhOfrgHOiZc"
     },
     {
       "album": {
@@ -5570,7 +5672,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 223666,
       "name": "PA LOS QUE ANDAN EN EL LIO",
       "url": "https://open.spotify.com/track/5FFuIpImfq6VSTxg8S2UWl"
@@ -6068,7 +6170,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 217080,
       "name": "ROMPIENDO",
       "url": "https://open.spotify.com/track/06XmalfqLgTcs0OstkWns2"
@@ -6556,6 +6658,36 @@
       "duration_ms": 134399,
       "name": "Siddhartha",
       "url": "https://open.spotify.com/track/5K0xCHlMysYNnBVckJY1yi"
+    },
+    {
+      "album": {
+        "name": "Siento La M\u00fasica / En Forma de Gota",
+        "url": "https://open.spotify.com/album/5sDsT213LqH0ejuucaYjzI"
+      },
+      "artists": [
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Tork",
+          "url": "https://open.spotify.com/artist/2gZByjNu2u3Zs9x3BUdCzY"
+        },
+        {
+          "name": "Baghira",
+          "url": "https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY"
+        },
+        {
+          "name": "Gradozero",
+          "url": "https://open.spotify.com/artist/5zHAmStqmdKwfL44tmBzUr"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158182,
+      "name": "Siento La M\u00fasica",
+      "url": "https://open.spotify.com/track/4GKLNLVhI43B3FCXRhGs2D"
     },
     {
       "album": {

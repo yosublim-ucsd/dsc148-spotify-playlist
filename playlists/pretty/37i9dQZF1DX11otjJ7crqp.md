@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,572 likes - 96 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,601 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,22 +87,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 77 | [Fix Me](https://open.spotify.com/track/1u0oGM2USUz6KldpPR8GUI) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Fix Me](https://open.spotify.com/album/1nUqeBTn8OGs03Z5yem8nv) | 3:24 |
 | 78 | [Things I Wish I Never Said](https://open.spotify.com/track/2SqIu6M5urCU42xRc9gCTH) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Things I Wish I Never Said](https://open.spotify.com/album/6KEUXHpL1kVvmN05C7eGYS) | 2:09 |
 | 79 | [i got the boy](https://open.spotify.com/track/2iHcFtwALFWm6Xth2KtELi) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [something in the air](https://open.spotify.com/album/5vkRRg6KTodHQYFdqx7Nud) | 3:41 |
-| 80 | [Someone To Love](https://open.spotify.com/track/1y90XHF7xM8e9OwQtb7kP9) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Someone To Love](https://open.spotify.com/album/2kgouBqDfEBw2X6G4aQxzc) | 3:09 |
-| 81 | [updown](https://open.spotify.com/track/1NeElgdy6jNtkexdA49qHj) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [updown](https://open.spotify.com/album/52ZUMxhSl2fiAGekAnVkop) | 2:49 |
-| 82 | [DiGiTAL HEARTBEAT](https://open.spotify.com/track/0CZyUC8152Mc40d8On1ryQ) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [DiGiTAL HEARTBEAT](https://open.spotify.com/album/2tff7jYFhyVpxVaz7iOng8) | 2:33 |
-| 83 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 |
-| 84 | [Dream World](https://open.spotify.com/track/3dHM0Y07sAabyYGrPrMwys) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Dream World](https://open.spotify.com/album/3sIrdO0AHCBblId5mQqfBD) | 2:46 |
-| 85 | [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 |
-| 86 | [dead to me](https://open.spotify.com/track/1IdsmtCr9Uf0mDDaI9vONX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [dead to me](https://open.spotify.com/album/3Dy2yTTXSsGy1UPTDDp6L2) | 2:57 |
-| 87 | [Better At Love](https://open.spotify.com/track/0K2gsmFktfSIZpDG6bjBsh) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Better At Love](https://open.spotify.com/album/6F3vv2BjP1XeJN1DaOPcbu) | 2:13 |
-| 88 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
-| 89 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 |
-| 90 | [monster](https://open.spotify.com/track/6XTI708vfsjTnmzMD2JV0I) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [monster](https://open.spotify.com/album/1ugf7gRGqHVTUyumfRFLq8) | 2:55 |
-| 91 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 |
-| 92 | [Do It](https://open.spotify.com/track/2EMbd0pDWtH98ljzuSBOTm) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0) | [Do It](https://open.spotify.com/album/2Pk0kHCbuLzAeyjgxIsQGm) | 2:48 |
-| 93 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 |
-| 94 | [think big](https://open.spotify.com/track/3Le2KTuLeZfUGgMAdW5b52) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [think big](https://open.spotify.com/album/0NPRntseIv5Xrgx5PL8QqX) | 1:47 |
-| 95 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 |
-| 96 | [Bottom of a Dirty Shoe](https://open.spotify.com/track/0oKEOYOgh2dtypShicMHh0) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Bottom of a Dirty Shoe](https://open.spotify.com/album/6KwrResX8trTc66PevQ0O8) | 2:40 |
+| 80 | [Rehearsing Myself](https://open.spotify.com/track/12CTGMf7f8LCdX5cIIN3v1) | [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2) | [Rehearsing Myself](https://open.spotify.com/album/5qqMNsbbV91PDvFowSw5P2) | 3:04 |
+| 81 | [Someone To Love](https://open.spotify.com/track/1y90XHF7xM8e9OwQtb7kP9) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [Someone To Love](https://open.spotify.com/album/2kgouBqDfEBw2X6G4aQxzc) | 3:09 |
+| 82 | [updown](https://open.spotify.com/track/1NeElgdy6jNtkexdA49qHj) | [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb) | [updown](https://open.spotify.com/album/52ZUMxhSl2fiAGekAnVkop) | 2:49 |
+| 83 | [DiGiTAL HEARTBEAT](https://open.spotify.com/track/0CZyUC8152Mc40d8On1ryQ) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [DiGiTAL HEARTBEAT](https://open.spotify.com/album/2tff7jYFhyVpxVaz7iOng8) | 2:33 |
+| 84 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 |
+| 85 | [Dream World](https://open.spotify.com/track/3dHM0Y07sAabyYGrPrMwys) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Dream World](https://open.spotify.com/album/3sIrdO0AHCBblId5mQqfBD) | 2:46 |
+| 86 | [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 |
+| 87 | [dead to me](https://open.spotify.com/track/1IdsmtCr9Uf0mDDaI9vONX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [dead to me](https://open.spotify.com/album/3Dy2yTTXSsGy1UPTDDp6L2) | 2:57 |
+| 88 | [Better At Love](https://open.spotify.com/track/0K2gsmFktfSIZpDG6bjBsh) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Better At Love](https://open.spotify.com/album/6F3vv2BjP1XeJN1DaOPcbu) | 2:13 |
+| 89 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
+| 90 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 |
+| 91 | [monster](https://open.spotify.com/track/6XTI708vfsjTnmzMD2JV0I) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [monster](https://open.spotify.com/album/1ugf7gRGqHVTUyumfRFLq8) | 2:55 |
+| 92 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 |
+| 93 | [Do It](https://open.spotify.com/track/2EMbd0pDWtH98ljzuSBOTm) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0) | [Do It](https://open.spotify.com/album/2Pk0kHCbuLzAeyjgxIsQGm) | 2:48 |
+| 94 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 |
+| 95 | [think big](https://open.spotify.com/track/3Le2KTuLeZfUGgMAdW5b52) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [think big](https://open.spotify.com/album/0NPRntseIv5Xrgx5PL8QqX) | 1:47 |
+| 96 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 |
+| 97 | [Bottom of a Dirty Shoe](https://open.spotify.com/track/0oKEOYOgh2dtypShicMHh0) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Bottom of a Dirty Shoe](https://open.spotify.com/album/6KwrResX8trTc66PevQ0O8) | 2:40 |
 
 Snapshot ID: `ZmcVkAAAAABDQxuxdXTH3hwI5tHsr86d`

@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u6709\u4ec0\u9ebc\u6127\u759a",
+        "url": "https://open.spotify.com/album/2ANCDLoyt12Md9z0uqgm5U"
+      },
+      "artists": [
+        {
+          "name": "\u8607\u6709\u670b",
+          "url": "https://open.spotify.com/artist/2ZUO4qskPSAAT6XH3XIdEd"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312071,
+      "name": "\u4f60\u6709\u4ec0\u9ebc\u6127\u759a",
+      "url": "https://open.spotify.com/track/6rRheAW16agCpkGuYzG0aa"
+    },
+    {
+      "album": {
         "name": "\u4f60\u6709\u591a\u50bb (\u5c0d\u5531\u7248, \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/7zhiiC4gGyzozY0B28Izgn"
       },
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 225714,
       "name": "\u6211\u771f\u7684\u53d7\u50b7\u4e86",
       "url": "https://open.spotify.com/track/4k3EkMBKfXOZSlYIySVibW"
@@ -6091,6 +6109,24 @@
     },
     {
       "album": {
+        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232984,
+      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
+    },
+    {
+      "album": {
         "name": "\u8001\u4eba\u8207\u6d77",
         "url": "https://open.spotify.com/album/6IE5rzJKHQngovAbuda82F"
       },
@@ -7190,7 +7226,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 192463,
       "name": "\u9670\u6697\u9762",
       "url": "https://open.spotify.com/track/1Vys2tZ88SvPb3dQoBPDz7"

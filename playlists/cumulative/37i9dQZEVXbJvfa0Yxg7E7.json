@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 130666,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk"
@@ -10732,7 +10732,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 162120,
       "name": "G63",
       "url": "https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5"
@@ -22861,6 +22861,28 @@
     },
     {
       "album": {
+        "name": "OLE BRUMM",
+        "url": "https://open.spotify.com/album/5BiO0bDwriOZyrgGbOniiB"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "OLE BRUMM",
+      "url": "https://open.spotify.com/track/2uzy1VnxxVplvG4jizoPdS"
+    },
+    {
+      "album": {
         "name": "Oliver Twist",
         "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
       },
@@ -26596,7 +26618,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"

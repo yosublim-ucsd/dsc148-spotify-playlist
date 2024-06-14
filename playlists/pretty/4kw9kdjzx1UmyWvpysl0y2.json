@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125957,
+  "num_followers": 125956,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASg1DNRQ8XKf0F8O9GATQTy1EL/0Qn",
+  "snapshot_id": "AAAShMF9j+mcNYlcmSupZW6Qviw83zgI",
   "tracks": [
+    {
+      "added_at": "2024-06-13 13:23:24",
+      "album": {
+        "name": "Reel Me In",
+        "url": "https://open.spotify.com/album/0Jhe2PlDQeOdbiqhI41Jn9"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Ella Poletti",
+          "url": "https://open.spotify.com/artist/7bzMJPvFsjHZLtqzGAAogB"
+        }
+      ],
+      "duration_ms": 209538,
+      "name": "Reel Me In",
+      "url": "https://open.spotify.com/track/0FH2xI17Xj0qkoKrqMZ2df"
+    },
     {
       "added_at": "2024-06-12 14:59:06",
       "album": {

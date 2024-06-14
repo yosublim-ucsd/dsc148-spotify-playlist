@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Absalom",
+      "url": "https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr"
+    },
+    {
+      "album": {
+        "name": "Resiliente",
         "url": "https://open.spotify.com/album/7E1x50ZczCpi7HVjHrvhZ9"
       },
       "artists": [
@@ -366,7 +384,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 354000,
       "name": "Fluye",
       "url": "https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ"

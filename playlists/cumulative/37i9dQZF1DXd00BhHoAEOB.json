@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 199935,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/0zN8BlouBz3oDwj5AtkXFA"
@@ -2763,6 +2763,42 @@
     },
     {
       "album": {
+        "name": "CANTAMENCANTO",
+        "url": "https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Rosa Mexicano",
+      "url": "https://open.spotify.com/track/4zpaxTVeA87WHMYLvLpK5T"
+    },
+    {
+      "album": {
+        "name": "CANTAMENCANTO",
+        "url": "https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278666,
+      "name": "Rubidio 37",
+      "url": "https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM"
+    },
+    {
+      "album": {
         "name": "La Sandunga",
         "url": "https://open.spotify.com/album/56QEBEeTO0vjmJALf49pnP"
       },
@@ -2832,7 +2868,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 247959,
       "name": "Sabr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/2cstyWKLChOLpbND4lzazW"

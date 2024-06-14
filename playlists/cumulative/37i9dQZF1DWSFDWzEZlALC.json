@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Felix Herbst, Carla Ahad",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BRUCKNER",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 252466,
       "name": "3. Stock",
       "url": "https://open.spotify.com/track/2M5xIJ2GySzBSKjhKdkjUL"
+    },
+    {
+      "album": {
+        "name": "300g",
+        "url": "https://open.spotify.com/album/2eGwQrn5O75IEDNBvd7QcS"
+      },
+      "artists": [
+        {
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153447,
+      "name": "300g",
+      "url": "https://open.spotify.com/track/47wrpWUKellZqQwzjQkUE0"
     },
     {
       "album": {
@@ -1118,6 +1136,28 @@
       "duration_ms": 136760,
       "name": "Autohaus (feat. Dilla)",
       "url": "https://open.spotify.com/track/6Rp6jF1USLgGJXGxcRswLo"
+    },
+    {
+      "album": {
+        "name": "babyboy",
+        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
+      },
+      "artists": [
+        {
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        },
+        {
+          "name": "Milxn",
+          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170235,
+      "name": "babyboy",
+      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
     },
     {
       "album": {
@@ -3555,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Feuerzeug",
+        "url": "https://open.spotify.com/album/1fTlxIz8PkKxbOwv8e7cgZ"
+      },
+      "artists": [
+        {
+          "name": "MC WINDHUND",
+          "url": "https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123923,
+      "name": "Feuerzeug",
+      "url": "https://open.spotify.com/track/6aokqeWVGvGG1vztSoJnjA"
+    },
+    {
+      "album": {
         "name": "ficken3000",
         "url": "https://open.spotify.com/album/5u8I6DgruN1q1IsFVBLhje"
       },
@@ -4054,7 +4112,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 167000,
       "name": "Gegengift",
       "url": "https://open.spotify.com/track/3dMU77BXGfEJ9EAzOLa0Mn"
@@ -5024,7 +5082,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 201360,
       "name": "ich hass dich noch'n bisschen",
       "url": "https://open.spotify.com/track/2N5TDaTcnsEXP9vtCaTiDb"
@@ -5188,7 +5246,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 152916,
       "name": "Immer du",
       "url": "https://open.spotify.com/track/7e2CmNUn9W9nGf0fX7JYha"
@@ -5597,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "Jungs",
+        "url": "https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156936,
+      "name": "Jungs",
+      "url": "https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs"
+    },
+    {
+      "album": {
         "name": "Rio I.",
         "url": "https://open.spotify.com/album/3xysdJ6QWv6IdH6rfePkMx"
       },
@@ -5630,6 +5706,24 @@
       "duration_ms": 142498,
       "name": "Kaff",
       "url": "https://open.spotify.com/track/0T2EA9u06q8X0DuS7JLwgL"
+    },
+    {
+      "album": {
+        "name": "Kalender",
+        "url": "https://open.spotify.com/album/5mgzmuiuNqfDp491jepoBJ"
+      },
+      "artists": [
+        {
+          "name": "Sandra Isabel",
+          "url": "https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "Kalender",
+      "url": "https://open.spotify.com/track/7zirNuxuHUkEhOgBQEhLJf"
     },
     {
       "album": {
@@ -6074,7 +6168,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 207706,
       "name": "Kreislauf",
       "url": "https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE"
@@ -6560,6 +6654,24 @@
       "duration_ms": 162373,
       "name": "Liebeslied",
       "url": "https://open.spotify.com/track/5yf926Kfq9Wv2vGJ11hCn1"
+    },
+    {
+      "album": {
+        "name": "liebst du mich noch so wie ich dich ?",
+        "url": "https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "liebst du mich noch so wie ich dich ?",
+      "url": "https://open.spotify.com/track/7M6917K5sAg3aejbjooySB"
     },
     {
       "album": {
@@ -9421,6 +9533,24 @@
     },
     {
       "album": {
+        "name": "sie",
+        "url": "https://open.spotify.com/album/6xGAFfIaQx8wScD6pGGOTc"
+      },
+      "artists": [
+        {
+          "name": "siovo",
+          "url": "https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156041,
+      "name": "sie",
+      "url": "https://open.spotify.com/track/4sD6JuBcfYyfhdIFRIQq4c"
+    },
+    {
+      "album": {
         "name": "Sie passt nicht nach Berlin",
         "url": "https://open.spotify.com/album/3jd8pOKaDAX3IGxkTUL7cz"
       },
@@ -12017,6 +12147,24 @@
     },
     {
       "album": {
+        "name": "Zeppelin",
+        "url": "https://open.spotify.com/album/0X0ILKyASZLRP29aO8OvX2"
+      },
+      "artists": [
+        {
+          "name": "JUPYTER",
+          "url": "https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161124,
+      "name": "Zeppelin",
+      "url": "https://open.spotify.com/track/054mvUYjk2jDv0luxMN869"
+    },
+    {
+      "album": {
         "name": "Zerrissen",
         "url": "https://open.spotify.com/album/3wWEzUcLrvF0ONRDJh3dur"
       },
@@ -12094,6 +12242,24 @@
       "duration_ms": 176926,
       "name": "Zorn & Liebe",
       "url": "https://open.spotify.com/track/71HXhZ6zzi1Xk16zpG7qkU"
+    },
+    {
+      "album": {
+        "name": "zu gut",
+        "url": "https://open.spotify.com/album/7eejjvjAKOZgGYd2DQXxZ9"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153985,
+      "name": "zu gut",
+      "url": "https://open.spotify.com/track/5TM9lVAjcGNYqaGFqIoAJS"
     },
     {
       "album": {

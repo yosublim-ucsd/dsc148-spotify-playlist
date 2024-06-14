@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Tems",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Odeal",
   "name": "Who We Be",
   "tracks": [
     {
@@ -1148,6 +1148,24 @@
       "duration_ms": 178360,
       "name": "any minute",
       "url": "https://open.spotify.com/track/033ML0eEckRQ6sLdrJmP5J"
+    },
+    {
+      "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
     },
     {
       "album": {
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 224003,
       "name": "Billions",
       "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
@@ -3557,6 +3575,32 @@
     },
     {
       "album": {
+        "name": "Choppa (with Lil Baby & Rvssian)",
+        "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169195,
+      "name": "Choppa (with Lil Baby & Rvssian)",
+      "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/3m0ma3GvTHyf5Ia1g69awi"
       },
@@ -3950,6 +3994,28 @@
       "duration_ms": 162741,
       "name": "Conspiracy Charges",
       "url": "https://open.spotify.com/track/6s38qYrzCcjicnzBuMYwrB"
+    },
+    {
+      "album": {
+        "name": "Continental (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Continental (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
     },
     {
       "album": {
@@ -4899,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "album": {
         "name": "Devil's Enemy",
         "url": "https://open.spotify.com/album/2LXhXbj69PT7gMqvqjUJD0"
       },
@@ -5733,6 +5817,24 @@
     },
     {
       "album": {
+        "name": "Dundee",
+        "url": "https://open.spotify.com/album/3BAlFd5A5cniOXQ3jX99dR"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162687,
+      "name": "Dundee",
+      "url": "https://open.spotify.com/track/64fF8kyyZ0i55dgNuslZZM"
+    },
+    {
+      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3"
       },
@@ -5858,6 +5960,24 @@
       "duration_ms": 205200,
       "name": "Elegant & Gang",
       "url": "https://open.spotify.com/track/78ywqAbY9QktwlTHyc8c4I"
+    },
+    {
+      "album": {
+        "name": "Empire Freestyle",
+        "url": "https://open.spotify.com/album/4KzwJuobGzPJb9VKkR7RY5"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "Empire Freestyle",
+      "url": "https://open.spotify.com/track/0QpxLXaC4s2822YjpcCTMM"
     },
     {
       "album": {
@@ -6534,7 +6654,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
@@ -8314,7 +8434,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 192000,
       "name": "GTA VI",
       "url": "https://open.spotify.com/track/6dsFGRYmKAb2Qj7A4HBirQ"
@@ -8962,7 +9082,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
@@ -8984,7 +9104,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -9654,6 +9774,24 @@
       "duration_ms": 234853,
       "name": "I'm In It",
       "url": "https://open.spotify.com/track/52NmkyHsGsHGb1UX8fTkMg"
+    },
+    {
+      "album": {
+        "name": "I'M TRYNA",
+        "url": "https://open.spotify.com/album/0qdg9SF90FBXDXxjNgMm6R"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "I'M TRYNA",
+      "url": "https://open.spotify.com/track/1ca2jDAcDOT79MYLRoaciZ"
     },
     {
       "album": {
@@ -11684,7 +11822,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 192477,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
@@ -15615,6 +15753,24 @@
     },
     {
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197444,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/1GwdzkT2RqG2Gt9J7gPhd1"
       },
@@ -15700,6 +15856,24 @@
       "duration_ms": 225840,
       "name": "Orinoco Flow (Sail Away) - Single Version",
       "url": "https://open.spotify.com/track/3VObTAziCKm64udBqry9Ax"
+    },
+    {
+      "album": {
+        "name": "oSHA-PIANO",
+        "url": "https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175405,
+      "name": "oSHA-PIANO",
+      "url": "https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk"
     },
     {
       "album": {
@@ -19612,7 +19786,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 192204,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/6Wa3HiDAFtbKdI8lmA4SrX"
@@ -19718,7 +19892,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 173061,
       "name": "Str8 Outta Kennington (feat. Blanco & NSJ Mali)",
       "url": "https://open.spotify.com/track/2ivzkozfHlHCabNGJOr5Qe"
@@ -19810,7 +19984,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 179310,
       "name": "Sugar (feat. Larry June & SHOW N PROVE)",
       "url": "https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3"
@@ -20508,6 +20682,36 @@
       "duration_ms": 212685,
       "name": "The Curb",
       "url": "https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj"
+    },
+    {
+      "album": {
+        "name": "The Curb Europe (feat. Blanco)",
+        "url": "https://open.spotify.com/album/7dwW1IAupisAm7DCPC7Ghi"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254611,
+      "name": "The Curb Europe (feat. Blanco)",
+      "url": "https://open.spotify.com/track/4ma8w1Jm2QJtVkC7pbOqjF"
     },
     {
       "album": {
@@ -21966,7 +22170,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 120000,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1hiHsWOKJq9KNgCwFiKjmf"

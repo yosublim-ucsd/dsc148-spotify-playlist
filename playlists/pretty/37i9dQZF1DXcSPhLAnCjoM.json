@@ -1,31 +1,15 @@
 {
-  "description": "\"Facile \u00e0 danser\" de Soprano est le Grand Hit de la semaine.",
-  "num_followers": 1009398,
+  "description": "\"Recommence-moi\" de SANTA est le Grand Hit de la semaine.",
+  "num_followers": 1009432,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmIxYAAAAAA6phz+KqKN57uJhGPM5FDW",
+  "snapshot_id": "Zmtr4AAAAABd1EIKlaa57dS8gAYbDLJ1",
   "tracks": [
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Facile \u00e0 danser",
-        "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Facile \u00e0 danser",
-      "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Recommence-moi",
         "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Nous on sait",
         "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
@@ -57,39 +41,7 @@
       "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
-      },
-      "artists": [
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 165775,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Je pense \u00e0 vous",
-        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 172263,
-      "name": "Je pense \u00e0 vous",
-      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "JVQTSM",
         "url": "https://open.spotify.com/album/7KzCTw13UpdcbSSLfRXUBB"
@@ -105,7 +57,59 @@
       "url": "https://open.spotify.com/track/3FWwWrfHcJwY2C3BaNTh3j"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Je pense \u00e0 vous",
+        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 172263,
+      "name": "Je pense \u00e0 vous",
+      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 189588,
+      "name": "Maintenant",
+      "url": "https://open.spotify.com/track/7B2lIJDAmk3H2jIMXs6cB6"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
@@ -121,7 +125,7 @@
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Mon amour",
         "url": "https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn"
@@ -137,7 +141,23 @@
       "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Facile \u00e0 danser",
+        "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Facile \u00e0 danser",
+      "url": "https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Bande organis\u00e9e",
         "url": "https://open.spotify.com/album/1EqBkCvjB9r5dwC21tKOU6"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
@@ -173,7 +193,55 @@
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        }
+      ],
+      "duration_ms": 230351,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "duration_ms": 181580,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Comment tu vas ?",
         "url": "https://open.spotify.com/album/0XgNTa4jdLxcmbE4AGp1kM"
@@ -193,123 +261,7 @@
       "url": "https://open.spotify.com/track/0pE2J5ZvVckFsTQGqZZDdt"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Adieu",
-        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
-        }
-      ],
-      "duration_ms": 184356,
-      "name": "Adieu",
-      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Aim\u00e9e pour de vrai",
-        "url": "https://open.spotify.com/album/5A3ws0VOAm5S1bFZpJBotM"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        },
-        {
-          "name": "Star Academy",
-          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Aim\u00e9e pour de vrai",
-      "url": "https://open.spotify.com/track/3MFphLI59LK2MqvVY9ZMTZ"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 198789,
-      "name": "La symphonie des \u00e9clairs",
-      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Le chant est libre",
-        "url": "https://open.spotify.com/album/0oc0MJZSiphw6KpY9KgKum"
-      },
-      "artists": [
-        {
-          "name": "Patrick Fiori",
-          "url": "https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq"
-        }
-      ],
-      "duration_ms": 222353,
-      "name": "Le chant est libre",
-      "url": "https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Ta peine",
-        "url": "https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 164479,
-      "name": "Ta peine",
-      "url": "https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Dis-toi que c'est la vie",
-        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
-      },
-      "artists": [
-        {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
-        }
-      ],
-      "duration_ms": 147405,
-      "name": "Dis-toi que c'est la vie",
-      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Crois-moi ! (feat. Adeline Lovo)",
         "url": "https://open.spotify.com/album/5RE7XNjwMHW4BPJREddQly"
@@ -329,7 +281,59 @@
       "url": "https://open.spotify.com/track/4l2TGTY0zJtMx1bGgu0dD5"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Dis-toi que c'est la vie",
+        "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "duration_ms": 147405,
+      "name": "Dis-toi que c'est la vie",
+      "url": "https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "duration_ms": 184356,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Aim\u00e9e pour de vrai",
+        "url": "https://open.spotify.com/album/5A3ws0VOAm5S1bFZpJBotM"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        },
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Aim\u00e9e pour de vrai",
+      "url": "https://open.spotify.com/track/3MFphLI59LK2MqvVY9ZMTZ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "REFLETS",
         "url": "https://open.spotify.com/album/2hHVzGgGqYdPTJlZn081u6"
@@ -345,7 +349,55 @@
       "url": "https://open.spotify.com/track/4O5MbNZGTYRF1FxbWJ8WIO"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/3Er5vnJ0cRHfX44Unh4FbQ"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9e",
+          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Memento",
+      "url": "https://open.spotify.com/track/5Cn6HUjq30KK6UBCryPMhn"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Ton regard",
+        "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Ton regard",
+      "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Vivre",
         "url": "https://open.spotify.com/album/5wFGo80kX0WaAkn4sGocyb"
@@ -361,7 +413,23 @@
       "url": "https://open.spotify.com/track/0hsCfpvzUowipx8KQcsWuu"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Promets-moi",
+      "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Ceux qu'on \u00e9tait",
         "url": "https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD"
@@ -377,7 +445,7 @@
       "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "La vingtaine",
         "url": "https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz"
@@ -393,23 +461,7 @@
       "url": "https://open.spotify.com/track/063IwEdb1LaITJk0LOP0h9"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
-      },
-      "artists": [
-        {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        }
-      ],
-      "duration_ms": 181580,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
@@ -429,23 +481,75 @@
       "url": "https://open.spotify.com/track/2b8XJIr3d9XbNwwO2TXrgq"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/3Er5vnJ0cRHfX44Unh4FbQ"
+        "name": "Le chant est libre",
+        "url": "https://open.spotify.com/album/0oc0MJZSiphw6KpY9KgKum"
       },
       "artists": [
         {
-          "name": "Esm\u00e9e",
-          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
+          "name": "Patrick Fiori",
+          "url": "https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Memento",
-      "url": "https://open.spotify.com/track/5Cn6HUjq30KK6UBCryPMhn"
+      "duration_ms": 222353,
+      "name": "Le chant est libre",
+      "url": "https://open.spotify.com/track/75mPIntRqq7cjqnwOImjoA"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Ta peine",
+        "url": "https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 164479,
+      "name": "Ta peine",
+      "url": "https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Nos futurs",
+        "url": "https://open.spotify.com/album/22DAZq1OtiMY3TtH4hSW4T"
+      },
+      "artists": [
+        {
+          "name": "Ycare",
+          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
+        },
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Eau de javel",
+      "url": "https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "duration_ms": 118834,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Rose des vents",
         "url": "https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e"
@@ -461,71 +565,7 @@
       "url": "https://open.spotify.com/track/4C0ZGFMFd8OrDwKHD9Fary"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
-      },
-      "artists": [
-        {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
-        }
-      ],
-      "duration_ms": 161213,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "boomerang",
-        "url": "https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY"
-      },
-      "artists": [
-        {
-          "name": "The Doug",
-          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
-        }
-      ],
-      "duration_ms": 177876,
-      "name": "boomerang",
-      "url": "https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg"
-      },
-      "artists": [
-        {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
-        }
-      ],
-      "duration_ms": 230351,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "CRASH C\u0152UR",
-        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "urgences 911",
-      "url": "https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Le tour du monde",
         "url": "https://open.spotify.com/album/6nWL5kBOrcd6T6PbqDiiim"
@@ -541,7 +581,7 @@
       "url": "https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "La loi du papillon",
         "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
@@ -561,23 +601,59 @@
       "url": "https://open.spotify.com/track/6ITYUKNLvfR9hNxU4hbzFz"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy"
+        "name": "C\u0153ur parapluie",
+        "url": "https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG"
       },
       "artists": [
         {
-          "name": "Satine",
-          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        },
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
         }
       ],
-      "duration_ms": 118834,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK"
+      "duration_ms": 236013,
+      "name": "Ne saute pas",
+      "url": "https://open.spotify.com/track/52PntWUVJcnAWm1lk0XYnU"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "boomerang",
+        "url": "https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "duration_ms": 177876,
+      "name": "boomerang",
+      "url": "https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "urgences 911",
+      "url": "https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Derniers humains",
         "url": "https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1"
@@ -601,7 +677,7 @@
       "url": "https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "24 F\u00e9vrier",
         "url": "https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ"
@@ -615,78 +691,6 @@
       "duration_ms": 139901,
       "name": "24 F\u00e9vrier",
       "url": "https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Nos futurs",
-        "url": "https://open.spotify.com/album/22DAZq1OtiMY3TtH4hSW4T"
-      },
-      "artists": [
-        {
-          "name": "Ycare",
-          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
-        },
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Eau de javel",
-      "url": "https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Multicolore",
-        "url": "https://open.spotify.com/album/5pshEhto6fETHUMWA42en8"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Multicolore",
-      "url": "https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 189588,
-      "name": "Maintenant",
-      "url": "https://open.spotify.com/track/7B2lIJDAmk3H2jIMXs6cB6"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "OCEANO NOX",
-        "url": "https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl"
-      },
-      "artists": [
-        {
-          "name": "Clara Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "L\u2019\u00c9toile",
-      "url": "https://open.spotify.com/track/6051Cr1ieO10nTt9rONI6c"
     }
   ],
   "unique_name": "Grand Hit",

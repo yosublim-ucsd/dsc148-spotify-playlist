@@ -6365,6 +6365,28 @@
     },
     {
       "album": {
+        "name": "The Neon City",
+        "url": "https://open.spotify.com/album/4O5SB8XnQm6kXNlAJobBU0"
+      },
+      "artists": [
+        {
+          "name": "VIVID",
+          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+        },
+        {
+          "name": "Qwerty",
+          "url": "https://open.spotify.com/artist/1zy8SA3oy5HdFvPkckW5bW"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174424,
+      "name": "The Neon City",
+      "url": "https://open.spotify.com/track/4oRgXJJQ81F6WbPPXvM2IM"
+    },
+    {
+      "album": {
         "name": "The Days / Nights",
         "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
       },

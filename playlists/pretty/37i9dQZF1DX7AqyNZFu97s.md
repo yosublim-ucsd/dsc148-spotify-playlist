@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Dylan Flynn and the Dead Poets
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,496 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,505 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 46 | [Puppet Show](https://open.spotify.com/track/5VvEVG2Ym38UWQEDEFHE3I) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Puppet Show](https://open.spotify.com/album/6MxS4cvWu4MD9v9nLORaKv) | 2:55 |
 | 47 | [Can't Help It](https://open.spotify.com/track/3LjpebbFeB9mddDZklnL6W) | [Siobhan](https://open.spotify.com/artist/2kYZxUrWyJ5ju6JkkD5wYY) | [I Need & Can't Help It](https://open.spotify.com/album/1rALI3UgvvWtYuV3Ev7tiA) | 3:16 |
 | 48 | [Night in Leeds](https://open.spotify.com/track/5YRLunOnnUSdoadtRnPVT3) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Night in Leeds](https://open.spotify.com/album/4zUUK8QX6nwqlPk5jQdvaK) | 2:24 |
-| 49 | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/track/2AKqdeBcqsBxn2mEoH9PId) | [Chloe Bador](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/album/5I4SjgDun5aNtwRu2YN4px) | 4:09 |
+| 49 | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/track/2AKqdeBcqsBxn2mEoH9PId) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [TAPESTRY \[HIJAZ\]](https://open.spotify.com/album/5I4SjgDun5aNtwRu2YN4px) | 4:09 |
 | 50 | [No Harm](https://open.spotify.com/track/4x0gHzMMfLss2ozPmu5mNc) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [No Harm](https://open.spotify.com/album/1YhIoutaEoFtwVZ1nqtg7B) | 2:57 |
 | 51 | [Summertimed](https://open.spotify.com/track/42HXTr8fVSwYpzTYpl42SV) | [ESCHER](https://open.spotify.com/artist/2j1p4i9r7DHtyMK7BoZfPW) | [in:ertia](https://open.spotify.com/album/7I2B3uPyq4AQZEV6YPBdQU) | 3:05 |
 | 52 | [Getting You Down](https://open.spotify.com/track/36ny6hm7VajeqagEvGTMHr) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Getting You Down](https://open.spotify.com/album/2DYNbLtJZAuiDQckhJtPIe) | 3:53 |

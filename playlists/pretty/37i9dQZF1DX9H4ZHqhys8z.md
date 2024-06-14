@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Haris Alexiou
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,822 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,824 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 11 | [FREE24](https://open.spotify.com/track/7mOLOJyvjU64dTf14Pfd2G) | [Mira](https://open.spotify.com/artist/7AjOzyumfIoBcur8rNjABg), [Chill Bill Beats](https://open.spotify.com/artist/587QlVCdQHnHUSia9vXDji), [Dimitris Koufoudakis](https://open.spotify.com/artist/1Hj13p1TFwirPlIxOdEgZx) | [FREE24](https://open.spotify.com/album/2g4NKUVtCXzNYJVhXg74Ho) | 1:23 |
 | 12 | [Kathe Pou Nychtoni \(Gidelim\)](https://open.spotify.com/track/2IL0grPNCT4dtBmLla0BCb) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX) | [Kathe Pou Nychtoni \(Gidelim\)](https://open.spotify.com/album/6m99CabDprqxcXcoMzE10U) | 3:03 |
 | 13 | [Rock Balada](https://open.spotify.com/track/6tCIls7l164WvX33yJFY4P) | [Eleftheria Arvanitaki](https://open.spotify.com/artist/4wfucl2s2farNOAmxZAVTC), [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Rock Balada](https://open.spotify.com/album/0dawIjxGPj8dWVnRZoJ1OK) | 3:51 |
-| 14 | [Aliakmonas](https://open.spotify.com/track/7nYTVJlyeaIdwqErM8oHpo) | [Matoula Zamani](https://open.spotify.com/artist/7nnEkZXiwEpKY4VAoNmc2f) | [Aliakmonas](https://open.spotify.com/album/6yol7fT868C0hekyvD0s68) | 2:42 |
+| 14 | [Aliakmonas](https://open.spotify.com/track/7nYTVJlyeaIdwqErM8oHpo) | [Matoula Zamani](https://open.spotify.com/artist/7nnEkZXiwEpKY4VAoNmc2f) | [Aliakmonas](https://open.spotify.com/album/6yol7fT868C0hekyvD0s68) | 2:44 |
 | 15 | [Kapote Isoun](https://open.spotify.com/track/3PhjnLdooi82ybd2H2vsCP) | [Maria Papageorgiou](https://open.spotify.com/artist/3WQuwa7Flok3CNsMTia7oK) | [Zontani Ihografisi Sto 2o Programma](https://open.spotify.com/album/77gfWrWSbHPWVHCg7kGDAf) | 3:46 |
 | 16 | [Xronomixani](https://open.spotify.com/track/4maiu4avNB1kUHqA31HRfF) | [KIANNA](https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy) | [Xronomixani](https://open.spotify.com/album/3xmHDuZlC6A3T1N2iX0xgo) | 3:21 |
 | 17 | [Omorfes Nisiotises](https://open.spotify.com/track/2faUApnohrjRj98kjzswzC) | [Stella Konitopoulou](https://open.spotify.com/artist/5yvbulfXEj6VIoVUvADLAd), [Eleni Legaki](https://open.spotify.com/artist/6EJj0XHVzfAousk3qCZd1k) | [Omorfes Nisiotises](https://open.spotify.com/album/0WkmeAZKevdOSajtTjxVBr) | 3:05 |

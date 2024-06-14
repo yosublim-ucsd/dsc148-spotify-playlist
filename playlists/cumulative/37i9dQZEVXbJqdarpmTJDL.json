@@ -10227,6 +10227,28 @@
     },
     {
       "album": {
+        "name": "Errico's Freestyle",
+        "url": "https://open.spotify.com/album/5cgENNNCOryk6TjftAW8H9"
+      },
+      "artists": [
+        {
+          "name": "Ethismos",
+          "url": "https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997"
+        },
+        {
+          "name": "Melow",
+          "url": "https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Errico's Freestyle",
+      "url": "https://open.spotify.com/track/6yzT7RNCYEX3iUCaoTB4vV"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -15800,7 +15822,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 155217,
       "name": "KALOKAIRIA",
       "url": "https://open.spotify.com/track/5hkmNSQd3eu0mhxpMhfck9"
@@ -21292,7 +21314,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -30552,7 +30574,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 242400,
       "name": "Ston Kentriko",
       "url": "https://open.spotify.com/track/0UHLPaeSdkqaWDwtgDyDbY"
@@ -31808,7 +31830,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 220833,
       "name": "Terrano",
       "url": "https://open.spotify.com/track/2i6m9IDP7obOv5qj9J2d4U"
@@ -33726,6 +33748,28 @@
       "duration_ms": 146717,
       "name": "TT",
       "url": "https://open.spotify.com/track/2Y7BCczhiLDz0DGXrHQ5BZ"
+    },
+    {
+      "album": {
+        "name": "TTG",
+        "url": "https://open.spotify.com/album/1gq0igzktvaGSza3o872s6"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "TTG",
+      "url": "https://open.spotify.com/track/1oQeqOY7x547NT2sIoLNyd"
     },
     {
       "album": {

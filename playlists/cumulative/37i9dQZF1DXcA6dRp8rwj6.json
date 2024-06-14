@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: OG BOBBY, Mega Perk)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Tommy Richman)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -1496,6 +1496,32 @@
       "duration_ms": 160551,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP"
+    },
+    {
+      "album": {
+        "name": "act bad twin! (feat. Cash Cobain & Bay Swag)",
+        "url": "https://open.spotify.com/album/50fHLT2601AXZyUCfOosVB"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217244,
+      "name": "act bad twin! (feat. Cash Cobain & Bay Swag)",
+      "url": "https://open.spotify.com/track/1cLjq1FaPI8naEB5xElkFk"
     },
     {
       "album": {
@@ -5700,7 +5726,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 179166,
       "name": "BO BEH ZAO \u6ca1\u9a6c\u8dd1",
       "url": "https://open.spotify.com/track/2PyEVqNNmtbDIA81RYvp8D"
@@ -6262,7 +6288,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
@@ -9780,7 +9806,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 230741,
       "name": "darling",
       "url": "https://open.spotify.com/track/4QxLZ3njPT7IwnRinZn2tF"
@@ -10422,6 +10448,24 @@
       "duration_ms": 96938,
       "name": "Detty",
       "url": "https://open.spotify.com/track/4Ait68EQ4BdYBDhwNxUuJJ"
+    },
+    {
+      "album": {
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
     },
     {
       "album": {
@@ -14181,6 +14225,28 @@
     },
     {
       "album": {
+        "name": "friend",
+        "url": "https://open.spotify.com/album/5Y35b7wTtFFhpHXR3zYbcV"
+      },
+      "artists": [
+        {
+          "name": "St. Humain",
+          "url": "https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y"
+        },
+        {
+          "name": "Microdot",
+          "url": "https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "friend",
+      "url": "https://open.spotify.com/track/5kUvjEjP1mD4aRCdbUaAdO"
+    },
+    {
+      "album": {
         "name": "FRIENDS GO FOE",
         "url": "https://open.spotify.com/album/3rLOkDqmEaHahlivtaZqIv"
       },
@@ -16228,7 +16294,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160000,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
@@ -19924,7 +19990,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 157466,
       "name": "Jokes On Me",
       "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
@@ -22606,7 +22672,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156360,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/6jApe6bgRfAOYRsiaQ4Bxg"
@@ -22866,7 +22932,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 230444,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/4w0faX2eigRtJetCmpi2Mn"
@@ -23350,7 +23416,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160628,
       "name": "Meet Me In Napa",
       "url": "https://open.spotify.com/track/6dICrSO1wQgnNGRY9O1YWT"
@@ -25626,7 +25692,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 264778,
       "name": "Ninja Man",
       "url": "https://open.spotify.com/track/4awPetsjwNcrZRd1chwI4o"
@@ -32152,7 +32218,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 123316,
       "name": "Rudi (Wawancara Liar)",
       "url": "https://open.spotify.com/track/3YbRwp18vyj3mzjKIT0aqG"
@@ -32880,6 +32946,32 @@
       "duration_ms": 181986,
       "name": "See You In Every Party",
       "url": "https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj"
+    },
+    {
+      "album": {
+        "name": "SEEUONTHEBEDSIDE",
+        "url": "https://open.spotify.com/album/7s8Uqy8VbB1rCFEjRB1sYg"
+      },
+      "artists": [
+        {
+          "name": "San",
+          "url": "https://open.spotify.com/artist/1sXBSErP4YHppqJiapvCbF"
+        },
+        {
+          "name": "Opus Renegade",
+          "url": "https://open.spotify.com/artist/28M9xINIoXsjRHNRHPWckr"
+        },
+        {
+          "name": "Martin Spacely",
+          "url": "https://open.spotify.com/artist/6cvQeUligeZewhYmdVRtgS"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235961,
+      "name": "SEEUONTHEBEDSIDE",
+      "url": "https://open.spotify.com/track/2RUAwcqejq4rn4whJYn3iX"
     },
     {
       "album": {
@@ -35295,6 +35387,24 @@
     },
     {
       "album": {
+        "name": "Spida",
+        "url": "https://open.spotify.com/album/705xYov1om0QrNrMwvveN5"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165138,
+      "name": "Spida",
+      "url": "https://open.spotify.com/track/6a2jVqRifvjIm2Ss4MytRe"
+    },
+    {
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -36459,6 +36569,24 @@
     },
     {
       "album": {
+        "name": "SUN MOON",
+        "url": "https://open.spotify.com/album/6P1F1i3kKY039lRdzQBPa4"
+      },
+      "artists": [
+        {
+          "name": "Axel Brizzy",
+          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "SUN MOON",
+      "url": "https://open.spotify.com/track/5sOmxPPHICzHN9cd6CbuyV"
+    },
+    {
+      "album": {
         "name": "Sundance Freestyle",
         "url": "https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6"
       },
@@ -37126,6 +37254,32 @@
       "duration_ms": 170936,
       "name": "TAHUN DEPAN HARGA NAIK",
       "url": "https://open.spotify.com/track/6TiTkOVtXRF8Xx7iTGsIqN"
+    },
+    {
+      "album": {
+        "name": "TAKE A TRIP",
+        "url": "https://open.spotify.com/album/1OjeiqIi8BC53BsaYoSkPR"
+      },
+      "artists": [
+        {
+          "name": "Rudeen",
+          "url": "https://open.spotify.com/artist/7rbGFN00tHyGCKXH3ctR0f"
+        },
+        {
+          "name": "Amean",
+          "url": "https://open.spotify.com/artist/0pAnJKAq3lOHHEYdzc0BoD"
+        },
+        {
+          "name": "Og Doop",
+          "url": "https://open.spotify.com/artist/4AaLNlGugqsd27HUziMMn0"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207598,
+      "name": "TAKE A TRIP",
+      "url": "https://open.spotify.com/track/1VXA6XtyC6OUTAMc4A3lvL"
     },
     {
       "album": {
@@ -38838,7 +38992,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 241992,
       "name": "Think About It",
       "url": "https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc"
@@ -42346,6 +42500,24 @@
       "duration_ms": 203586,
       "name": "WHAT WOULD I DO?",
       "url": "https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7"
+    },
+    {
+      "album": {
+        "name": "What You Gon Do \u4f60\u8be5\u600e\u4e48\u529e",
+        "url": "https://open.spotify.com/album/7I8In6vtoH2xd6ZNXH85FS"
+      },
+      "artists": [
+        {
+          "name": "ShiGGa Shay",
+          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155904,
+      "name": "What You Gon Do \u4f60\u8be5\u600e\u4e48\u529e",
+      "url": "https://open.spotify.com/track/2ILasPbLhnkUQ267mTaMbN"
     },
     {
       "album": {

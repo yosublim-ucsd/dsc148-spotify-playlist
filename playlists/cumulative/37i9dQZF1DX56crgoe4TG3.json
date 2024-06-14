@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Break on Through (To the Other Side)",
+        "url": "https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
+    },
+    {
+      "album": {
         "name": "Best Of New Grass Revival",
         "url": "https://open.spotify.com/album/0LnekmRkX0aKwAZ33cg387"
       },
@@ -726,7 +748,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 221333,
       "name": "Come to Jesus",
       "url": "https://open.spotify.com/track/3DNui82TrXtZMoXKuzdyuw"
@@ -1474,7 +1496,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 266960,
       "name": "For The Turnstiles",
       "url": "https://open.spotify.com/track/0ShbiDJGWaMyTimkimVohJ"
@@ -1626,7 +1648,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 209361,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/1lDPD85vlOjj4WmhSrpswH"
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 262724,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/6IievBse1PXM8OSR6GkjSs"
@@ -3262,7 +3284,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 223973,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/3wWmZKqmJkQEdsfIsncoFz"
@@ -3524,7 +3546,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 230920,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/2RJA3aJLOKR1Q7xBQKDmy4"
@@ -3578,7 +3600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 155499,
       "name": "She Thinks I Still Care",
       "url": "https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0"
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 212240,
       "name": "Snowbird",
       "url": "https://open.spotify.com/track/7F1QwL7cYL8VrV2kW5iRI5"
@@ -3870,7 +3892,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 215274,
       "name": "Song for a Winter's Night",
       "url": "https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb"
@@ -4726,7 +4748,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"

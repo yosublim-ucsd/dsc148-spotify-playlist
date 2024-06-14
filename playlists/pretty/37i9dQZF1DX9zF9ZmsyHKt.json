@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 328833,
+  "num_followers": 328845,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Andarilho",
         "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 271293,
       "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
       "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -895,22 +911,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "LoveSong",
-        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 142268,
-      "name": "LoveSong",
-      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Lisboa",
-      "url": "https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 178105,
       "name": "S\u00f3 o Amor",
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Dona de mim",
-      "url": "https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 161819,
       "name": "Clich\u00ea",
       "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6dRMC5s12rIApNIHmbnZfH"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Dona de mim",
+      "url": "https://open.spotify.com/track/6yMbAjgCa3xK8SUnKWG72p"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Mais Que os Olhos Podem Ver",
-        "url": "https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz"
-      },
-      "artists": [
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "n\u00f3s 2",
-      "url": "https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "TODXS",
         "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 269706,
       "name": "Eu Amo Voc\u00ea",
       "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Mais Que os Olhos Podem Ver",
+        "url": "https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "n\u00f3s 2",
+      "url": "https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Del\u00edrio",
-        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/57gugEndr41sLF4rRVcUte"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 199500,
       "name": "100% Feminista",
       "url": "https://open.spotify.com/track/4hLSdyrFDMjRJS3zhU2ZQz"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Del\u00edrio",
+        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",

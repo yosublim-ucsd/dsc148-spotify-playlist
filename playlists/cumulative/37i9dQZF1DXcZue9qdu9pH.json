@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Abiria 57",
+        "url": "https://open.spotify.com/album/3YEf58ED9yoANNvtI31pEn"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Abiria 57",
+      "url": "https://open.spotify.com/track/1ADsOgfWWPQ4DWdGNGaEgC"
+    },
+    {
+      "album": {
         "name": "African Girl",
         "url": "https://open.spotify.com/album/6xk50pJfC0JtA7YsWpqE1x"
       },
@@ -162,6 +180,24 @@
       "duration_ms": 202597,
       "name": "Buy Me Love",
       "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
+    },
+    {
+      "album": {
+        "name": "can't stand it",
+        "url": "https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "can't stand it",
+      "url": "https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r"
     },
     {
       "album": {
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 108187,
       "name": "NYDFRYSTL",
       "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
@@ -1030,6 +1066,28 @@
       "duration_ms": 169913,
       "name": "Oh Shoot",
       "url": "https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/07lMSOElGW77832xvtCJes"
+      },
+      "artists": [
+        {
+          "name": "Faith Kimani",
+          "url": "https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj"
+        },
+        {
+          "name": "TY1NE",
+          "url": "https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170670,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7aYgfQTQIuoi9FojUgE7lY"
     },
     {
       "album": {
@@ -1212,7 +1270,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 206014,
       "name": "s_t_l",
       "url": "https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ"
@@ -1292,7 +1350,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 122727,
       "name": "Sare Jokes",
       "url": "https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv"

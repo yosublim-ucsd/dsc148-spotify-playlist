@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 31828,
+  "num_followers": 31855,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Como en un Baile",
-        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
+        "name": "Historia Musical de Lisandro Meza: 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 364617,
-      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
+      "duration_ms": 252980,
+      "name": "Te Llevar\u00e9",
+      "url": "https://open.spotify.com/track/09xfvBjdCnMRDB0f2Vqefu"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de Lisandro Meza: 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/4pdipU1bAg54lJjG8i0bTo"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 252980,
-      "name": "Te Llevar\u00e9",
-      "url": "https://open.spotify.com/track/09xfvBjdCnMRDB0f2Vqefu"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 247409,
       "name": "Dame Tu Querer",
       "url": "https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 364617,
+      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1311,6 +1311,38 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
+        "name": "Homenaje a los Alegres Vallenatos",
+        "url": "https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 139813,
+      "name": "Los Camarones",
+      "url": "https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297358,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Homenaje a los Alegres Vallenatos",
-        "url": "https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 139813,
-      "name": "Los Camarones",
-      "url": "https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Colecciones de Oro",
         "url": "https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 216711,
       "name": "El Solitario",
       "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297358,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
-      },
-      "artists": [
-        {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "W\u00edllinton Garc\u00e9s",
-          "url": "https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR"
-        }
-      ],
-      "duration_ms": 268811,
-      "name": "Golpes en el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
-    },
-    {
-      "added_at": "2024-04-06 00:31:40",
-      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 301720,
       "name": "Los Charcos",
       "url": "https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC"
+    },
+    {
+      "added_at": "2024-04-06 00:31:40",
+      "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "W\u00edllinton Garc\u00e9s",
+          "url": "https://open.spotify.com/artist/1HT80cLdWC9mvbpEQIi3zR"
+        }
+      ],
+      "duration_ms": 268811,
+      "name": "Golpes en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1595,18 +1595,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
       "artists": [
         {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+      "duration_ms": 242346,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1663,22 +1667,18 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de Fruko: \u00c9xitos",
-        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
       "artists": [
         {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        },
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
         }
       ],
-      "duration_ms": 242346,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR"
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
     },
     {
       "added_at": "2024-04-06 00:31:40",
@@ -1699,26 +1699,22 @@
     {
       "added_at": "2024-04-06 00:31:40",
       "album": {
-        "name": "Historia Musical de 14 Vallenatos Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U"
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
       "artists": [
         {
-          "name": "Erick Escobar",
-          "url": "https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W"
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
         },
         {
-          "name": "Nayo Quintero",
-          "url": "https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO"
-        },
-        {
-          "name": "La Decision Vallenata",
-          "url": "https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         }
       ],
-      "duration_ms": 283591,
-      "name": "Amor Sin Fronteras",
-      "url": "https://open.spotify.com/track/0K0oGuHLOEAAGcRJNK1Bhi"
+      "duration_ms": 219352,
+      "name": "Tania",
+      "url": "https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I"
     },
     {
       "added_at": "2024-04-06 00:31:40",

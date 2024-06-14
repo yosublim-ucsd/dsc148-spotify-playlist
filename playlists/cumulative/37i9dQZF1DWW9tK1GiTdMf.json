@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Musica da gridare \ud83d\udda4 NASKA in cover.",
+  "description": "Musica da gridare \ud83d\udda4 Chakra in cover.",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 100000,
       "name": "(cose in cui hai messo cuore)",
       "url": "https://open.spotify.com/track/5kXZu0IKDp67jQlEi31Q3x"
@@ -3685,6 +3685,28 @@
     },
     {
       "album": {
+        "name": "Pseudotape vol. 3: PSEUDOMANIA",
+        "url": "https://open.spotify.com/album/5X6yPsx634XALu8OM3lqp2"
+      },
+      "artists": [
+        {
+          "name": "Pseudospettri",
+          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
+        },
+        {
+          "name": "christiannife",
+          "url": "https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "COME I CANI",
+      "url": "https://open.spotify.com/track/0BEcAmTV7MylyjbyvgcBUV"
+    },
+    {
+      "album": {
         "name": "Come l'ultima volta",
         "url": "https://open.spotify.com/album/0kqJSCn57dgULURyuoVQ2y"
       },
@@ -4266,7 +4288,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 214181,
       "name": "CRISALIDE",
       "url": "https://open.spotify.com/track/5e2i4zZo4tYBgqTExYOlp4"
@@ -5568,7 +5590,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 186831,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
@@ -6643,6 +6665,24 @@
     },
     {
       "album": {
+        "name": "Felpa rosa",
+        "url": "https://open.spotify.com/album/4YrjvqoaeZBMIHJQu4I7N6"
+      },
+      "artists": [
+        {
+          "name": "Positive",
+          "url": "https://open.spotify.com/artist/5gTEF9XXWhko4kb8kvYUi6"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164590,
+      "name": "Felpa rosa",
+      "url": "https://open.spotify.com/track/0Ikf7umBSrbBlaKCZOBjcF"
+    },
+    {
+      "album": {
         "name": "Figli dei fiori",
         "url": "https://open.spotify.com/album/4wnRiqccVwW5iXc1z6GnWs"
       },
@@ -7050,7 +7090,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 164034,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv"
@@ -7098,6 +7138,32 @@
       "duration_ms": 166370,
       "name": "Fumo e Cenere RMX (feat. Benji)",
       "url": "https://open.spotify.com/track/2NPUFvAS8BG6EaNMXs1h8M"
+    },
+    {
+      "album": {
+        "name": "Angelo del Rock",
+        "url": "https://open.spotify.com/album/5C7QwPYxbhsY4A6GeCkUUt"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        },
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163081,
+      "name": "Fuori Di Testa",
+      "url": "https://open.spotify.com/track/2hR6AxmydkKinUxq0efyzU"
     },
     {
       "album": {
@@ -7472,7 +7538,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 137080,
       "name": "GIOVANI E PERSI",
       "url": "https://open.spotify.com/track/7kbqCw1rMT6aD686Z7KHa9"
@@ -7784,6 +7850,24 @@
       "duration_ms": 148000,
       "name": "GUAI",
       "url": "https://open.spotify.com/track/6iJprhy6IZE3Yb7JbuViXV"
+    },
+    {
+      "album": {
+        "name": "SOTTOSOPRA \u0f1d",
+        "url": "https://open.spotify.com/album/7F14fLaQK6FeKH7OCKCOTD"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141311,
+      "name": "GUARDAMI NEGLI OCCHI",
+      "url": "https://open.spotify.com/track/4z0TQHbnMAuwqhcmeLHD9i"
     },
     {
       "album": {
@@ -9336,10 +9420,28 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 165818,
       "name": "L'ultima Volta",
       "url": "https://open.spotify.com/track/2NIazH3oMe6NWRDaGjJtGN"
+    },
+    {
+      "album": {
+        "name": "L(oser)",
+        "url": "https://open.spotify.com/album/0h05NBNwSAz8n3Z04Nmimo"
+      },
+      "artists": [
+        {
+          "name": "ugoxsempre",
+          "url": "https://open.spotify.com/artist/2w8rgsbK60ow1mRiJyzxYl"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "L(oser)",
+      "url": "https://open.spotify.com/track/41CZM8nSVyGjD4bK2gqMgK"
     },
     {
       "album": {
@@ -10563,6 +10665,24 @@
     },
     {
       "album": {
+        "name": "MA TU CI PENSI A ME?",
+        "url": "https://open.spotify.com/album/1i4Cwr875BKs1pFbGqYlDJ"
+      },
+      "artists": [
+        {
+          "name": "GionnyScandal",
+          "url": "https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "MA TU CI PENSI A ME?",
+      "url": "https://open.spotify.com/track/6LvtUulxb6zQpOzXaq4tc8"
+    },
+    {
+      "album": {
         "name": "CASA DI FABIO",
         "url": "https://open.spotify.com/album/1eYplZ8wsJTejsOkYkn393"
       },
@@ -11334,7 +11454,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 171433,
       "name": "morire dentro",
       "url": "https://open.spotify.com/track/7MPULGCgY6NvasBCYhQ4Rw"
@@ -13948,6 +14068,40 @@
       "duration_ms": 148153,
       "name": "Prima o Poi",
       "url": "https://open.spotify.com/track/49ntWs6BVOfa14Z0XN2dHL"
+    },
+    {
+      "album": {
+        "name": "PRINCIPESSA EMOSESSUALE (feat. Yans, Fulgur & Kunai)",
+        "url": "https://open.spotify.com/album/0Wm5kOJHhXxDoYFYiiIz6W"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ugo",
+          "url": "https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H"
+        },
+        {
+          "name": "Zame",
+          "url": "https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb"
+        },
+        {
+          "name": "Yans",
+          "url": "https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX"
+        },
+        {
+          "name": "Fulgur",
+          "url": "https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC"
+        },
+        {
+          "name": "Kunai",
+          "url": "https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163851,
+      "name": "PRINCIPESSA EMOSESSUALE (feat. Yans, Fulgur & Kunai)",
+      "url": "https://open.spotify.com/track/0K5bV5eWohkMemuds1WMXx"
     },
     {
       "album": {
@@ -16803,6 +16957,24 @@
     },
     {
       "album": {
+        "name": "STRESS",
+        "url": "https://open.spotify.com/album/62ObkL6tzkrz1yNXkPBFvE"
+      },
+      "artists": [
+        {
+          "name": "DIREI",
+          "url": "https://open.spotify.com/artist/1xvnIuvn8DLzSwlKRT74IY"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193445,
+      "name": "STRESS",
+      "url": "https://open.spotify.com/track/1qLJupRlpqolbKNnrVDp9x"
+    },
+    {
+      "album": {
         "name": "Strongly Worded Letter",
         "url": "https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9"
       },
@@ -16954,6 +17126,28 @@
       "duration_ms": 188940,
       "name": "Su Di Te",
       "url": "https://open.spotify.com/track/6eCIYNIasTRya5UYBWjxSE"
+    },
+    {
+      "album": {
+        "name": "su misura",
+        "url": "https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J"
+      },
+      "artists": [
+        {
+          "name": "daze+",
+          "url": "https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT"
+        },
+        {
+          "name": "+sudore",
+          "url": "https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151903,
+      "name": "su misura",
+      "url": "https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8"
     },
     {
       "album": {
@@ -19534,7 +19728,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 173538,
       "name": "XK SIAMO TRUZZY",
       "url": "https://open.spotify.com/track/0Ms7TqYTpAgymZ2OPYgrow"
@@ -19574,7 +19768,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"

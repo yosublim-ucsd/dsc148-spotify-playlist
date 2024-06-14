@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Odunsi \(the Engine\)
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: SOLIS4EVR
 
-686 songs - 1 day 10 hr 8 min
+688 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Get Down \(feat\. Azanti & Chrystel\)](https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Get Down](https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE) | 2:43 | 2022-04-21 | 2023-06-17 |
 | [Gettin' Hot](https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Gettin' Hot](https://open.spotify.com/album/0otN5Uk42fJzAtyMmPrLc0) | 3:44 | 2022-07-28 | 2023-05-05 |
 | [Ghost](https://open.spotify.com/track/1657TMy2s7p8ttQ6At4205) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Ghost](https://open.spotify.com/album/5M0tWFBo6ItzgyrCmf0Av6) | 3:28 | 2022-12-02 | 2023-02-11 |
-| [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-23 |  |
+| [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 | 2024-02-23 | 2024-06-14 |
+| [girl on a mission](https://open.spotify.com/track/71cG0LyiL0ozOwKAxyM5Fe) | [SOLIS4EVR](https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh) | [GHOST TOWN](https://open.spotify.com/album/35awOR0VhAbhvlloOv4Zow) | 2:46 | 2024-06-14 |  |
 | [Gkw](https://open.spotify.com/track/7iP4xI5k3ofKaaUzY1dxNk) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Gkw / Winning Bread](https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ) | 2:59 | 2022-06-30 | 2022-09-24 |
 | [Go \(feat\. DETO BLACK\)](https://open.spotify.com/track/1MqLj8SILJe4lmjP9TG5i2) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Movement](https://open.spotify.com/album/0zCMHfHJO5WP7d6NuJwbeB) | 3:02 | 2023-10-27 | 2023-11-16 |
 | [Gone Girl](https://open.spotify.com/track/1rbHfInkbi8ZLQtds5nfd6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 4:13 | 2022-09-15 | 2022-11-13 |
@@ -395,7 +396,7 @@
 | [MATILDA \(feat\. Brazy\)](https://open.spotify.com/track/4PdDPRNhKeS1krsLvclPUb) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 3:50 | 2023-03-17 | 2023-06-17 |
 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 | 2023-09-14 | 2024-06-07 |
 | [MEDITATE](https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 3:57 | 2023-04-20 | 2024-02-09 |
-| [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-01-26 |  |
+| [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-01-26 | 2024-06-14 |
 | [Merciful God](https://open.spotify.com/track/2jZQ4tNLP0tgzYXbdtwPdi) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Seven Degrees North](https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF) | 6:36 | 2024-03-21 | 2024-03-25 |
 | [Merry Go Round](https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd) | [The Equatics](https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P) | [Doin It!!!!](https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW) | 2:43 | 2024-03-21 | 2024-03-25 |
 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 | 2022-03-31 | 2023-12-09 |
@@ -593,6 +594,7 @@
 | [Sullen](https://open.spotify.com/track/6KqN3qd3H0GILUSx3nA2rf) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Rookie Sbk](https://open.spotify.com/artist/2ERDwX9D7OE26COqPqTPVa) | [Sullen](https://open.spotify.com/album/2tdjV7IB1SennbPDGjwGCu) | 2:31 | 2022-03-17 | 2022-08-06 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2024-03-21 | 2024-03-25 |
 | [Sun Down \(From "YE!"\)](https://open.spotify.com/track/16FZuBTG6DRM8qEfCn7ULz) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK), [Teknimension](https://open.spotify.com/artist/4X6g7gLnDyDo5Znx2fogS1) | [Sun Down \(From "YE!"\)](https://open.spotify.com/album/5nldkv2w6kYTxns4sXnYYt) | 2:51 | 2022-11-04 | 2022-11-19 |
+| [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 |  |
 | [Sunshine](https://open.spotify.com/track/62G1Tpiz88Ucu3vz0PYDRt) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Sunshine](https://open.spotify.com/album/6Z7JQHZoly8IVJIIsHmu2M) | 2:31 | 2022-01-20 | 2022-03-12 |
 | [Superman](https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:13 | 2024-03-21 | 2024-03-25 |
 | [SUPERSOMA](https://open.spotify.com/track/5vDcs1FIAN79cELRo0P2SB) | [SomaDina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [SUPERSOMA](https://open.spotify.com/album/1cPTRUcMrR1jAww0uW8D8Y) | 2:51 | 2021-10-28 | 2022-03-12 |

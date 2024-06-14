@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:0TY3Wab2Z1kmp5jZoxdPjZ">Cuzzos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,333 likes - 76 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,389 likes - 76 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

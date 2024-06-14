@@ -1,13 +1,413 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6499,
+  "num_followers": 6501,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACXkcfPWIW0F6eTfnhfSY7NdJ91Ei7C",
+  "snapshot_id": "AACXsfvZ8a2tG3uanE9rq9G9rL7ZN/sz",
   "tracks": [
+    {
+      "added_at": "2024-06-13 22:00:32",
+      "album": {
+        "name": "Nanai",
+        "url": "https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa"
+      },
+      "artists": [
+        {
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
+        }
+      ],
+      "duration_ms": 149872,
+      "name": "Nanai",
+      "url": "https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo"
+    },
+    {
+      "added_at": "2024-06-13 22:28:24",
+      "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
+    },
+    {
+      "added_at": "2024-06-13 21:17:59",
+      "album": {
+        "name": "En Forma",
+        "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "En Forma",
+      "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
+    },
+    {
+      "added_at": "2024-06-13 21:19:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
+    },
+    {
+      "added_at": "2024-06-13 22:24:16",
+      "album": {
+        "name": "Romero Santo",
+        "url": "https://open.spotify.com/album/7mFVdIKR50ptpVrzXZjkGr"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 191414,
+      "name": "Romero Santo",
+      "url": "https://open.spotify.com/track/2WXbOps9nrucI5SykY4O5d"
+    },
+    {
+      "added_at": "2024-06-13 21:21:34",
+      "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 142521,
+      "name": "Spring breakers",
+      "url": "https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg"
+    },
+    {
+      "added_at": "2024-06-13 21:27:59",
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "added_at": "2024-06-13 21:30:29",
+      "album": {
+        "name": "Guada\u00f1a de iridio",
+        "url": "https://open.spotify.com/album/5OfDSIobp26ejvUFiNTvjL"
+      },
+      "artists": [
+        {
+          "name": "Marta Movidas",
+          "url": "https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5"
+        }
+      ],
+      "duration_ms": 228246,
+      "name": "Guada\u00f1a de iridio",
+      "url": "https://open.spotify.com/track/3C09GMQcOYW1ZGiKCFitFM"
+    },
+    {
+      "added_at": "2024-06-13 21:24:52",
+      "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "duration_ms": 204429,
+      "name": "Breaking",
+      "url": "https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO"
+    },
+    {
+      "added_at": "2024-06-13 21:41:30",
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/5tzEwuSFiSbxp5TcyNRgDq"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 155225,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/7hgEGN3YKmuQodwqXVvLfa"
+    },
+    {
+      "added_at": "2024-06-13 21:40:15",
+      "album": {
+        "name": "Left My Keys",
+        "url": "https://open.spotify.com/album/5FY04fjGmEzuFTofmNIa93"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 197127,
+      "name": "Left My Keys",
+      "url": "https://open.spotify.com/track/072iV9rOzp5h5hE5rfktPY"
+    },
+    {
+      "added_at": "2024-06-13 21:24:20",
+      "album": {
+        "name": "WalkOnBy (feat. Earl Sweatshirt & Rae Khalil)",
+        "url": "https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        }
+      ],
+      "duration_ms": 227409,
+      "name": "WalkOnBy (feat. Earl Sweatshirt & Rae Khalil)",
+      "url": "https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC"
+    },
+    {
+      "added_at": "2024-06-13 21:24:06",
+      "album": {
+        "name": "Not Your Angel",
+        "url": "https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X"
+      },
+      "artists": [
+        {
+          "name": "Zsela",
+          "url": "https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6"
+        }
+      ],
+      "duration_ms": 179617,
+      "name": "Not Your Angel",
+      "url": "https://open.spotify.com/track/6mZm8UsXesXTWZNPF3QKxq"
+    },
+    {
+      "added_at": "2024-06-13 21:29:45",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4ZiH9PUfBGDSYgGwl3XBDQ"
+      },
+      "artists": [
+        {
+          "name": "Pom Poko",
+          "url": "https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/23UcwWw8NmM8acCXXfbTrg"
+    },
+    {
+      "added_at": "2024-06-13 21:19:51",
+      "album": {
+        "name": "Vampire Tongues",
+        "url": "https://open.spotify.com/album/1mzUcrfYKr2gNX2Re6CnqG"
+      },
+      "artists": [
+        {
+          "name": "Avey Tare",
+          "url": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 234558,
+      "name": "Vampire Tongues",
+      "url": "https://open.spotify.com/track/4xrf1X5xuovNQbFbpgdvGE"
+    },
+    {
+      "added_at": "2024-06-13 21:22:51",
+      "album": {
+        "name": "\u0421\u043e\u043d / Son",
+        "url": "https://open.spotify.com/album/1fcCWRHZESlnXFSPs8piEb"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\u0421\u043e\u043d / Son - Radio Edit",
+      "url": "https://open.spotify.com/track/6bn5OFUhl8lm4VzKEPSzEz"
+    },
+    {
+      "added_at": "2024-06-13 21:33:25",
+      "album": {
+        "name": "blush",
+        "url": "https://open.spotify.com/album/4LYE5oTcpLgZBW1Un1vyia"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "blush",
+      "url": "https://open.spotify.com/track/6EBIty8gWIvorUu9JFg1sP"
+    },
+    {
+      "added_at": "2024-06-13 21:27:33",
+      "album": {
+        "name": "0898 Heartache",
+        "url": "https://open.spotify.com/album/7B7VvPT1Nf96mgY1Toz5W3"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 316407,
+      "name": "0898 Heartache",
+      "url": "https://open.spotify.com/track/2knig0RTl2lqDSo0oeXyxv"
+    },
+    {
+      "added_at": "2024-06-13 21:23:49",
+      "album": {
+        "name": "Gaza is Calling",
+        "url": "https://open.spotify.com/album/5VVL5bs1loPBnJc826gQGl"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Gaza is Calling",
+      "url": "https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm"
+    },
+    {
+      "added_at": "2024-06-13 21:28:21",
+      "album": {
+        "name": "FIX ME / GET OFF MY WAVE",
+        "url": "https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "FIX ME",
+      "url": "https://open.spotify.com/track/38ie1W7TnKwXwOLXyCq6kV"
+    },
+    {
+      "added_at": "2024-06-13 21:22:10",
+      "album": {
+        "name": "They",
+        "url": "https://open.spotify.com/album/4HphzQ1s9IG1BGWrC36uSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "They",
+      "url": "https://open.spotify.com/track/2PPDGJXpa2IoX1tVsi4WBm"
+    },
+    {
+      "added_at": "2024-06-13 21:40:41",
+      "album": {
+        "name": "Cassius, Brutus & Judas",
+        "url": "https://open.spotify.com/album/6O5wo3zXHE631tnWH46juq"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Cassius, Brutus & Judas",
+      "url": "https://open.spotify.com/track/7cH7vJWo1XjR0UHtVyBZuT"
+    },
+    {
+      "added_at": "2024-06-13 21:28:42",
+      "album": {
+        "name": "Stimming",
+        "url": "https://open.spotify.com/album/7mVzH8NGuQyzGYVpcjXcXj"
+      },
+      "artists": [
+        {
+          "name": "Fucked Up",
+          "url": "https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL"
+        }
+      ],
+      "duration_ms": 173185,
+      "name": "Stimming",
+      "url": "https://open.spotify.com/track/1ohHd2PVSOUjrprn5pAibz"
+    },
     {
       "added_at": "2024-06-07 04:39:36",
       "album": {
@@ -709,42 +1109,6 @@
       "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
     },
     {
-      "added_at": "2024-06-06 21:38:11",
-      "album": {
-        "name": "That's Us/Wild Combination",
-        "url": "https://open.spotify.com/album/3ifBjWe4ziDBImGZaapF4f"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "Rahim C Redcar",
-          "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
-        }
-      ],
-      "duration_ms": 385074,
-      "name": "That's Us/Wild Combination",
-      "url": "https://open.spotify.com/track/1vaGkEkv1VfEYnFAjRJ7EY"
-    },
-    {
-      "added_at": "2024-06-06 21:37:47",
-      "album": {
-        "name": "BET YOU NEVER",
-        "url": "https://open.spotify.com/album/6F2LjjEaRvkAebD0dBFF5Y"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        }
-      ],
-      "duration_ms": 231195,
-      "name": "BET YOU NEVER",
-      "url": "https://open.spotify.com/track/7lDzrHSlvJQNT85GVlKogu"
-    },
-    {
       "added_at": "2024-06-06 16:11:43",
       "album": {
         "name": "Patterns",
@@ -931,38 +1295,6 @@
       "duration_ms": 162000,
       "name": "Bro (i feel u)",
       "url": "https://open.spotify.com/track/6mS6YjwOsNis4dJaSbUIj5"
-    },
-    {
-      "added_at": "2024-06-11 07:49:37",
-      "album": {
-        "name": "Est\u00edmulo",
-        "url": "https://open.spotify.com/album/5dSp0qxH8SKv7WIwGeDH6n"
-      },
-      "artists": [
-        {
-          "name": "La Decadencia",
-          "url": "https://open.spotify.com/artist/1HgAg44VWLJDt18dZ3s7S5"
-        }
-      ],
-      "duration_ms": 205251,
-      "name": "Yo Tampoco",
-      "url": "https://open.spotify.com/track/4K2WVF3qoZc6UvOKYDQakh"
-    },
-    {
-      "added_at": "2024-06-11 07:49:37",
-      "album": {
-        "name": "onvres",
-        "url": "https://open.spotify.com/album/4uA5lsjxxyrooWErwuaVyi"
-      },
-      "artists": [
-        {
-          "name": "arrec\u00ed0",
-          "url": "https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT"
-        }
-      ],
-      "duration_ms": 190458,
-      "name": "onvres",
-      "url": "https://open.spotify.com/track/0Fju7NJJGIkYCJ3JtxKbuT"
     }
   ],
   "unique_name": "Ready for the Weekend (JNSP)",

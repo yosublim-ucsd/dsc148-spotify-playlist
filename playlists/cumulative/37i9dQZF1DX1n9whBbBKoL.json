@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Astral Code",
+        "url": "https://open.spotify.com/album/0cQ7tW72Or6QJFkpNvOBTq"
+      },
+      "artists": [
+        {
+          "name": "Digitalis",
+          "url": "https://open.spotify.com/artist/0dxuNGL2sY3z2qXzZ69ki2"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151203,
+      "name": "Astral Code",
+      "url": "https://open.spotify.com/track/1Fz2g1FUlyEebAhyfE5SZy"
+    },
+    {
+      "album": {
         "name": "Astral Distance",
         "url": "https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N"
       },
@@ -708,6 +726,24 @@
       "duration_ms": 193625,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6B5LtVE6Nlvmr9iJRMu2O9"
+    },
+    {
+      "album": {
+        "name": "Authentic",
+        "url": "https://open.spotify.com/album/2mu40KYLlahtEe8TtzCmYK"
+      },
+      "artists": [
+        {
+          "name": "Spaced Out Dreams",
+          "url": "https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170837,
+      "name": "Authentic",
+      "url": "https://open.spotify.com/track/5Wpe8sLe7g3MliqajIV7zJ"
     },
     {
       "album": {
@@ -794,7 +830,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 148607,
       "name": "Binaural Beta Sinus 300 Hz - 330 Hz",
       "url": "https://open.spotify.com/track/36IfppbuhVOH1pSRQucbts"
@@ -906,6 +942,24 @@
       "duration_ms": 158890,
       "name": "Blue Space",
       "url": "https://open.spotify.com/track/3T8131ohjWcQckq1iJTVdH"
+    },
+    {
+      "album": {
+        "name": "Borealis Dance",
+        "url": "https://open.spotify.com/album/28uzaAcwabOGIPLFuOeBup"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Borealis Dance",
+      "url": "https://open.spotify.com/track/07epRPpNzsmF4v83FRM5pW"
     },
     {
       "album": {
@@ -1089,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Chaturanga",
+        "url": "https://open.spotify.com/album/7yMtBobs2kcLyUiJakV4aZ"
+      },
+      "artists": [
+        {
+          "name": "Vajrayana",
+          "url": "https://open.spotify.com/artist/2oS7Fd6Xl3PrF1LRfpQ4gh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Chaturanga",
+      "url": "https://open.spotify.com/track/0nwSibl6RX1s0TukA0E5dh"
+    },
+    {
+      "album": {
         "name": "Cirrus Clouds",
         "url": "https://open.spotify.com/album/2DwepQvFYfzn8YpHtJBEHb"
       },
@@ -1100,7 +1172,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 131500,
       "name": "Cirrus Clouds",
       "url": "https://open.spotify.com/track/6sk3KVXxU9welmb8gQEYxF"
@@ -1172,7 +1244,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 215439,
       "name": "Close At Heart",
       "url": "https://open.spotify.com/track/6HTFfsnSvXpraVQrrYDN3U"
@@ -1208,7 +1280,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 190000,
       "name": "Cloud Study",
       "url": "https://open.spotify.com/track/3rAchCb8ZxPuKJVXxQX6ui"
@@ -1892,7 +1964,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 178000,
       "name": "Eudaemonia",
       "url": "https://open.spotify.com/track/3ZxQ9iLS9QWcnoyg0tbSME"
@@ -2306,7 +2378,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 161454,
       "name": "Healing Waves",
       "url": "https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ"
@@ -2529,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Internal",
+        "url": "https://open.spotify.com/album/1WwjTtg8ZgUR2KXSR0GLdY"
+      },
+      "artists": [
+        {
+          "name": "Eieove",
+          "url": "https://open.spotify.com/artist/3EL9KNQdsTzSwJxQnsT2Dc"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175015,
+      "name": "Internal",
+      "url": "https://open.spotify.com/track/66HD8LXFJtUr5CLFih29qc"
+    },
+    {
+      "album": {
         "name": "Intersominus",
         "url": "https://open.spotify.com/album/2odmrCP3a5XqpjtQZgLNka"
       },
@@ -2594,7 +2684,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 198000,
       "name": "It's All Sound",
       "url": "https://open.spotify.com/track/5W9fgCmnO8iDyBGxNUfAMc"
@@ -2828,7 +2918,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 144068,
       "name": "Lunar Expanse",
       "url": "https://open.spotify.com/track/6NdglslNy0Q9B5iVpTsaBh"
@@ -2922,6 +3012,24 @@
       "duration_ms": 186060,
       "name": "Midnight Relief",
       "url": "https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6"
+    },
+    {
+      "album": {
+        "name": "Midnight Song",
+        "url": "https://open.spotify.com/album/3Ij1cLsGRBAF05SertgyEG"
+      },
+      "artists": [
+        {
+          "name": "Asajj Sadie",
+          "url": "https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169865,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/0IMyURd2HMp15846ZHx7SP"
     },
     {
       "album": {
@@ -3098,7 +3206,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 235894,
       "name": "Mystical - Alpha Sinus 54,8hz - 57,3 hz",
       "url": "https://open.spotify.com/track/7zO8xgWtAGQpAKEG9n48Yb"
@@ -3663,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Promising",
+        "url": "https://open.spotify.com/album/2iqBW2fFWm6dejo2Z3TQlb"
+      },
+      "artists": [
+        {
+          "name": "Decie Orion",
+          "url": "https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177167,
+      "name": "Promising",
+      "url": "https://open.spotify.com/track/7xweqrovC1B12NKeZkcfow"
+    },
+    {
+      "album": {
         "name": "Protect Your Soul",
         "url": "https://open.spotify.com/album/4ee4vOZ7YFEWfRYLPCtwSS"
       },
@@ -3722,6 +3848,24 @@
       "duration_ms": 164500,
       "name": "Puste 432Hz",
       "url": "https://open.spotify.com/track/5QopDD6crrYIvVZ66EEjoG"
+    },
+    {
+      "album": {
+        "name": "Quiet Lake",
+        "url": "https://open.spotify.com/album/0FHVoflRoaPyg9YkEActnS"
+      },
+      "artists": [
+        {
+          "name": "Kazuhiro Hotaru",
+          "url": "https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175918,
+      "name": "Quiet Lake",
+      "url": "https://open.spotify.com/track/7lUKUjDzDLcBvQPnkZK0pq"
     },
     {
       "album": {
@@ -4103,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Shedding Light",
+        "url": "https://open.spotify.com/album/5cF8G1iw5S37RwRI6udQpQ"
+      },
+      "artists": [
+        {
+          "name": "Euloria",
+          "url": "https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "Shedding Light",
+      "url": "https://open.spotify.com/track/1uF6tLWPKtC7ZwrsPDCAs8"
+    },
+    {
+      "album": {
         "name": "Sierra",
         "url": "https://open.spotify.com/album/4IFEx0L0nEk1wCOpFssI2s"
       },
@@ -4312,7 +4474,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 280500,
       "name": "somnus state",
       "url": "https://open.spotify.com/track/6mVQDQzb0msscfSVhVwp7g"
@@ -4564,7 +4726,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156500,
       "name": "Strewn Across",
       "url": "https://open.spotify.com/track/0kuBMsyIEjgPEvxumcFUTV"
@@ -4949,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Unfolding",
+        "url": "https://open.spotify.com/album/6m0OhGFADksT5rBlBkHJtj"
+      },
+      "artists": [
+        {
+          "name": "Mosaic Tiles",
+          "url": "https://open.spotify.com/artist/0N6CxcY2aQYuRWl8HNkqWO"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151395,
+      "name": "Unfolding",
+      "url": "https://open.spotify.com/track/1zMxkWTNbVCEmNa3OaZ3F4"
+    },
+    {
+      "album": {
         "name": "Vaikne",
         "url": "https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F"
       },
@@ -5180,6 +5360,24 @@
       "duration_ms": 248147,
       "name": "Welkin",
       "url": "https://open.spotify.com/track/3hqnqpefPxDGTtLwGuaRG6"
+    },
+    {
+      "album": {
+        "name": "When Dreams Come True",
+        "url": "https://open.spotify.com/album/3K8dvzs8jd0qbmSgphmRa6"
+      },
+      "artists": [
+        {
+          "name": "Aster alpinus",
+          "url": "https://open.spotify.com/artist/5GncNXKJrJiIAEbkWtyTJC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152279,
+      "name": "When Dreams Come True",
+      "url": "https://open.spotify.com/track/2eBbbpIhX9RUpadLxW6O0f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-399 songs - 17 hr 28 min
+400 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Losing Sight](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Losing Sight](https://open.spotify.com/album/72MjUitQVBs1K22WXK1kOT) | 2:20 | 2024-04-18 |  |
 | [Lost](https://open.spotify.com/track/6jqPjQiCmKwB2uaKhwXsuk) | [Emblè](https://open.spotify.com/artist/7BmOUNMC8ZJhZEBmdFiqMC), [Freddie George](https://open.spotify.com/artist/0tsLxQb8GcU6RJbz7diSzY) | [Lost](https://open.spotify.com/album/5hry8KbzIKihXrkK5vN7pJ) | 2:35 | 2023-09-22 | 2024-05-13 |
 | [Lost In Space](https://open.spotify.com/track/6xUE9l0MaDYW4NrL8fuL40) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Lost In Space](https://open.spotify.com/album/5nxDCvzrUHYfqLPWZbPnYN) | 3:38 | 2024-01-06 | 2024-05-13 |
+| [Lost In The Night](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh) | [Lost In The Night](https://open.spotify.com/album/6OXil6OS4slxWxtxTIMiZn) | 2:49 | 2024-06-13 |  |
 | [Lost In The Sky](https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn) | 2:40 | 2023-09-22 | 2024-03-25 |
 | [Lost Lovers](https://open.spotify.com/track/7bD8ZwzJJKYvdn5vufbN4q) | [TAPI](https://open.spotify.com/artist/2HdQ0WFcqm4PNhCKYPOP5X), [bayme](https://open.spotify.com/artist/4HKpzTZHxjzhpAJxEZu5Oc) | [Lost Lovers](https://open.spotify.com/album/0qt9rEUsUY4FswTf9pKxkG) | 2:36 | 2023-10-10 | 2023-12-31 |
 | [Love Burns Out](https://open.spotify.com/track/50CkqXnP2JV3SC8EYb7hzM) | [Curdz](https://open.spotify.com/artist/3zKKp7w1aPxxA93GCkVbO4), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Jakob Dreams](https://open.spotify.com/artist/3ChusCE5PNXmuRuqGzJKVz) | [Love Burns Out](https://open.spotify.com/album/0aMsyu8b6bxFYqGtAYH0Hf) | 2:42 | 2023-11-26 | 2024-01-21 |

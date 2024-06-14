@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Peggy Gou",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Ina Wroldsen x Alan Walker",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Back For Your Love",
+        "url": "https://open.spotify.com/album/3rCC1KUYkp8eGUymNOXdfT"
+      },
+      "artists": [
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158028,
+      "name": "Back For Your Love",
+      "url": "https://open.spotify.com/track/0CJoompgvp5xFuGQJ8D8J4"
+    },
+    {
+      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/7qF2Fg2BIUQXxch4NF360b"
       },
@@ -1812,10 +1830,32 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 158906,
       "name": "back2u",
       "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/0sWfMsoSshIRZYdMxzBzaZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6DtrplY1gFIUigPCPLTCIO"
     },
     {
       "album": {
@@ -1953,6 +1993,28 @@
     },
     {
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -2002,7 +2064,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 149774,
       "name": "be okay",
       "url": "https://open.spotify.com/track/4ynUBFDGQfNNCAuX43XlzN"
@@ -2108,6 +2170,32 @@
       "duration_ms": 122520,
       "name": "BELLYDANCING",
       "url": "https://open.spotify.com/track/74HBdKMibHlpW312HTFReN"
+    },
+    {
+      "album": {
+        "name": "Belong To You",
+        "url": "https://open.spotify.com/album/5kkx78UKw8yToOOBdtc7Am"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        },
+        {
+          "name": "Couch\u00e9",
+          "url": "https://open.spotify.com/artist/6N6ZLdTZg3Pasm0JCF5nbl"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/5VrUy953DPeHmOUCCrkz3A"
     },
     {
       "album": {
@@ -2430,7 +2518,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 151384,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq"
@@ -3066,7 +3154,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 190689,
       "name": "Can U Feel It?",
       "url": "https://open.spotify.com/track/2ClXyskjpBFHzUO7hCr5ag"
@@ -4387,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "Dance With Romance",
+        "url": "https://open.spotify.com/album/3XdDS1FNEg4WsYacF0jBTD"
+      },
+      "artists": [
+        {
+          "name": "Noz Cate",
+          "url": "https://open.spotify.com/artist/2nhjBKSJ2wpxLGM5PDQ1lt"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "Dance With Romance",
+      "url": "https://open.spotify.com/track/6gKowuetT9tl58IFJ3v3V2"
+    },
+    {
+      "album": {
         "name": "Dance With Somebody",
         "url": "https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv"
       },
@@ -4852,6 +4958,32 @@
       "duration_ms": 143321,
       "name": "Direction",
       "url": "https://open.spotify.com/track/1Ey4xZ7DQywyL5LshrK9e4"
+    },
+    {
+      "album": {
+        "name": "Disco Marathon (feat. NEEKA)",
+        "url": "https://open.spotify.com/album/00g9nQ0HVCvPIN6qEwQww8"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Disco Marathon (feat. NEEKA)",
+      "url": "https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa"
     },
     {
       "album": {
@@ -8589,6 +8721,32 @@
     },
     {
       "album": {
+        "name": "Heart for Rent",
+        "url": "https://open.spotify.com/album/2gmk7Toj2avwexaVvYXfVg"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "WUKONG",
+          "url": "https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Heart for Rent",
+      "url": "https://open.spotify.com/track/5Pqo2Jub3Rk5aVROGwHwsy"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2yOsOQFGEI7Va1WYdm53J8"
       },
@@ -8758,6 +8916,28 @@
       "duration_ms": 171438,
       "name": "Heat",
       "url": "https://open.spotify.com/track/6g3TniDfFA7M03dR0oPNaQ"
+    },
+    {
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
     },
     {
       "album": {
@@ -8938,6 +9118,44 @@
       "duration_ms": 142348,
       "name": "Hero",
       "url": "https://open.spotify.com/track/552Ft9y5ZtpzZUffVtfaLF"
+    },
+    {
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2Mux3qONmJkNZ6s4NEW8Ln"
+      },
+      "artists": [
+        {
+          "name": "Madhertz",
+          "url": "https://open.spotify.com/artist/1RrRhvizF5SjIY8rIf2bMn"
+        },
+        {
+          "name": "DVMON",
+          "url": "https://open.spotify.com/artist/3RWZfQory9Hv1kADBi6bHJ"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "Wutan",
+          "url": "https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn"
+        },
+        {
+          "name": "jAngo",
+          "url": "https://open.spotify.com/artist/2QgrT3aJ2bwINmavH1ieSI"
+        },
+        {
+          "name": "MOVEO the naked",
+          "url": "https://open.spotify.com/artist/0zDGB2tL8mtx0cNTk7xcfw"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1nMyiX618DN1yrmMEPrTcM"
     },
     {
       "album": {
@@ -9352,7 +9570,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 188571,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/7713P9K50HWKmb1qEWXiGT"
@@ -9828,7 +10046,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 153387,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
@@ -10296,7 +10514,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 222266,
       "name": "I'm a mess (TeddyLoid Remix)",
       "url": "https://open.spotify.com/track/2ABjtvD7uxAECfJ653N72S"
@@ -10845,6 +11063,28 @@
     },
     {
       "album": {
+        "name": "into your arms",
+        "url": "https://open.spotify.com/album/24VPwixxuyPUs3eRuojXCK"
+      },
+      "artists": [
+        {
+          "name": "cloud nyla",
+          "url": "https://open.spotify.com/artist/629WSHXuR88ZyYf7DV9l9G"
+        },
+        {
+          "name": "Chelsea Cara",
+          "url": "https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "into your arms",
+      "url": "https://open.spotify.com/track/2azwR8XLZXoLci6Lh74MI2"
+    },
+    {
+      "album": {
         "name": "Into Your Eyes",
         "url": "https://open.spotify.com/album/2g3ZcGs0pAHMTxOTiyOgZw"
       },
@@ -11220,6 +11460,24 @@
       "duration_ms": 176000,
       "name": "Just A Kid",
       "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
+    },
+    {
+      "album": {
+        "name": "Just Belong",
+        "url": "https://open.spotify.com/album/2FhH0bdbOrY0cx8m5tig1z"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240834,
+      "name": "Just Belong",
+      "url": "https://open.spotify.com/track/5WMMg4VlGcAXkAJPtdNAZx"
     },
     {
       "album": {
@@ -13487,6 +13745,28 @@
     },
     {
       "album": {
+        "name": "Me Before You",
+        "url": "https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Plested",
+          "url": "https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215976,
+      "name": "Me Before You",
+      "url": "https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72"
+    },
+    {
+      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/3bgNWflZsicv3vweMrM0GM"
       },
@@ -14609,6 +14889,28 @@
     },
     {
       "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/6moVS6x0P4l4uo1HQnDS4G"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/78TN1zfxkmNQ9EO3dGh5SQ"
+    },
+    {
+      "album": {
         "name": "MY LIFE",
         "url": "https://open.spotify.com/album/2FDkRqlUOjPN8jc2AYQRya"
       },
@@ -14940,7 +15242,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 159409,
       "name": "Never Run",
       "url": "https://open.spotify.com/track/4ToDfhzkXyghSRGD44n5qU"
@@ -16512,7 +16814,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 187500,
       "name": "One Sign",
       "url": "https://open.spotify.com/track/0sv7ddaMVg4hXaAHuMGLlJ"
@@ -18564,7 +18866,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 137261,
       "name": "Run away",
       "url": "https://open.spotify.com/track/0VwIU8nJ5iD0tJkvdmVwq2"
@@ -21896,7 +22198,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 166229,
       "name": "To Life",
       "url": "https://open.spotify.com/track/5uW2llyFOPhRrgKTH5BvVe"
@@ -22048,7 +22350,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 218000,
       "name": "TONIGHT (Bad Boys: Ride Or Die) (feat. Becky G)",
       "url": "https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx"
@@ -22480,6 +22782,28 @@
       "duration_ms": 215629,
       "name": "Uler Engkol",
       "url": "https://open.spotify.com/track/24cQGI2xCIRDr9yoF3wxuB"
+    },
+    {
+      "album": {
+        "name": "ULTRAMAN (From The Netflix Film \"Ultraman: Rising\")",
+        "url": "https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "ULTRAMAN - From The Netflix Film \"Ultraman: Rising\"",
+      "url": "https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL"
     },
     {
       "album": {
@@ -23160,7 +23484,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 155624,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/3lhQ35mHRXIkEnwSQkH1U3"
@@ -23902,7 +24226,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 212973,
       "name": "Where We Are",
       "url": "https://open.spotify.com/track/0FBjAHGPXNyKh1g3eFD2Sk"
@@ -24090,7 +24414,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 157565,
       "name": "Will You Come",
       "url": "https://open.spotify.com/track/6J2k7NHP8LQRd4JB6yAR8d"
@@ -24664,7 +24988,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 155611,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2gR3uXC04P3homU84TzTBr"

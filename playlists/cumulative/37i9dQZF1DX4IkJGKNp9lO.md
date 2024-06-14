@@ -4,7 +4,7 @@
 
 > 
 
-324 songs - 15 hr 12 min
+325 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Berlin](https://open.spotify.com/track/3fUUGJIm8JqnFX6elcbTHV) | [Världen Brinner](https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g) | [Berlin](https://open.spotify.com/album/2Se4lK8pvTHK3AmGyskrUU) | 2:55 | 2021-12-14 |  |
 | [Betongbarn](https://open.spotify.com/track/2cVOfWmxEGFB2pYOrXVrSK) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/17HMP4aFIyIHvGTCBrMaoG) | 2:51 | 2021-12-14 | 2022-07-29 |
 | [Betongbarn](https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kaos & Skrål 85\-87](https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq) | 2:51 | 2021-12-14 |  |
+| [Bilan Faller](https://open.spotify.com/track/21380NKEU260jmXgzIuB2u) | [Bödel](https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa) | [Bilan Faller](https://open.spotify.com/album/3dTPA6G1AQMSlHFSZVb6pb) | 2:13 | 2024-06-13 |  |
 | [Bipolär & Kär](https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO) | [Krispig Botten](https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN) | [Bipolär & Kär](https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz) | 3:05 | 2021-12-14 |  |
 | [Bomb utan krut](https://open.spotify.com/track/180ouOZ0Ak5WYx94BVZHVH) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O), [Ammy Olofsson](https://open.spotify.com/artist/6fzvWpP8Rjfu7O76BHLwJy) | [Kardinalens femte](https://open.spotify.com/album/6yaIFYUFz7UsNBM1kXqeMD) | 2:44 | 2024-03-28 | 2024-04-19 |
 | [Bomb utan krut](https://open.spotify.com/track/7ofwvKzo8GTswhhxWFyNE4) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O), [Ammy Olofsson](https://open.spotify.com/artist/6fzvWpP8Rjfu7O76BHLwJy) | [Bomb utan krut](https://open.spotify.com/album/01iMoiFsQIDJV67bOe82dD) | 2:44 | 2024-04-18 |  |
@@ -207,7 +208,7 @@
 | [Någon form av svar](https://open.spotify.com/track/0Pkr9VNDGK0NUsVXJafmv9) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/09qtUDDsf4gRO4NST7QNkJ) | 3:39 | 2021-12-14 | 2022-07-29 |
 | [Någon form av svar](https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG) | 3:39 | 2021-12-14 | 2024-04-19 |
 | [Några Jävla Spänn](https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD) | 3:16 | 2021-12-14 | 2024-04-19 |
-| [Några Jävla Spänn](https://open.spotify.com/track/1vB6h5iJTsJg0Z7DySHpJN) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/0615giZlH4M0a3asFlH5vf) | 3:16 | 2021-12-14 |  |
+| [Några Jävla Spänn](https://open.spotify.com/track/1vB6h5iJTsJg0Z7DySHpJN) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/0615giZlH4M0a3asFlH5vf) | 3:16 | 2021-12-14 | 2024-06-14 |
 | [OS\-Guld i höjdhopp](https://open.spotify.com/track/5uKKw1OOOmBMzhygein2qB) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bakom ljuset](https://open.spotify.com/album/4yARa8B7DKUanmMtw1HrKM) | 1:23 | 2024-03-28 | 2024-04-19 |
 | [OS\-Guld i höjdhopp](https://open.spotify.com/track/6jdMz8tqMfOfk3kv0MRZ5U) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [OS\-Guld i höjdhopp](https://open.spotify.com/album/7yDRXR1hWI7e7Gait9gbyF) | 1:23 | 2021-12-14 |  |
 | [Pang du är död](https://open.spotify.com/track/5snjFt767FRhSy2bs8pUpy) | [Vacum](https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO) | [Pang du är död](https://open.spotify.com/album/1QL4xEdm7uU9MlbtcO6pOX) | 2:40 | 2021-12-14 |  |

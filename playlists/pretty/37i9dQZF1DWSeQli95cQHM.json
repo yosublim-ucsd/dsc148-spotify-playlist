@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11660,
+  "num_followers": 11667,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
+        "name": "Conexao Riocife",
+        "url": "https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp"
       },
       "artists": [
         {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+          "name": "Jaca Beats",
+          "url": "https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD"
         },
         {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+          "name": "holand\u00eas",
+          "url": "https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL"
         }
       ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
+      "duration_ms": 304098,
+      "name": "Baile do Tai Tai",
+      "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -615,22 +615,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Conexao Riocife",
-        "url": "https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp"
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
       },
       "artists": [
         {
-          "name": "Jaca Beats",
-          "url": "https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD"
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
         },
         {
-          "name": "holand\u00eas",
-          "url": "https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL"
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
         }
       ],
-      "duration_ms": 304098,
-      "name": "Baile do Tai Tai",
-      "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/0tJTczdxdEPDVrlNQepLov"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/6bfBSZ82q0rtngNnK4qVP0"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Incarne",
         "url": "https://open.spotify.com/album/4Zg2HeCfAX1Yb6arpZxv3s"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 483006,
       "name": "Incarne",
       "url": "https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "The Underground",
-        "url": "https://open.spotify.com/album/0tJTczdxdEPDVrlNQepLov"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/6bfBSZ82q0rtngNnK4qVP0"
     }
   ],
   "unique_name": "Front BR",

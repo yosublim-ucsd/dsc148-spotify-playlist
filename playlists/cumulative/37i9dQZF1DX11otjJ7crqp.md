@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: RAYE
 
-5,595 songs - 11 day 14 hr 40 min
+5,596 songs - 11 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4090,6 +4090,7 @@
 | [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 | 2023-05-19 | 2023-06-03 |
 | [redundant](https://open.spotify.com/track/1IKrPR0b6d0wQ8DIpuhMmk) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:24 | 2022-05-06 | 2022-05-20 |
 | [Regrets](https://open.spotify.com/track/2PDMHRRjLH8HJSF5COYdgr) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Regrets](https://open.spotify.com/album/741T9n7WN9E0kdwFj43CAN) | 2:02 | 2022-09-30 | 2022-10-15 |
+| [Rehearsing Myself](https://open.spotify.com/track/12CTGMf7f8LCdX5cIIN3v1) | [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2) | [Rehearsing Myself](https://open.spotify.com/album/5qqMNsbbV91PDvFowSw5P2) | 3:04 | 2024-05-31 |  |
 | [RELAX AFTER WORK WITH A DRINK](https://open.spotify.com/track/6pCesx8BBK7A6wevRbTVfk) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 1:57 | 2023-12-08 | 2024-01-13 |
 | [Relief](https://open.spotify.com/track/1O06RitJzwO4wFBXLCP5w1) | [Madeline](https://open.spotify.com/artist/3u5FXThTL9t0pv8PhUCElb) | [Relief](https://open.spotify.com/album/2TxSIjyuLQB891SkIptSxW) | 2:59 | 2022-10-14 | 2022-10-29 |
 | [Religion](https://open.spotify.com/track/5rr5o5wKQvemqLOM5FbFUC) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Religion](https://open.spotify.com/album/0EuErjktejWjRG4fBFXCFE) | 2:52 | 2022-08-05 | 2022-08-20 |

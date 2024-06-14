@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 96000,
       "name": "clavia",
       "url": "https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2"
@@ -1063,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Life and There on",
+        "url": "https://open.spotify.com/album/3MpNTTqRtUkVjjN9vQ5NHB"
+      },
+      "artists": [
+        {
+          "name": "Pat Laine",
+          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Life and There on",
+      "url": "https://open.spotify.com/track/7GvYMWWC0wmBpLPtjaFbyW"
+    },
+    {
+      "album": {
         "name": "Lost Instrument",
         "url": "https://open.spotify.com/album/21Y57FbMC9n2wHJWBq0qCk"
       },
@@ -1078,6 +1096,24 @@
       "duration_ms": 102750,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/2k5xwTwocZZkMxKoMyxopz"
+    },
+    {
+      "album": {
+        "name": "Memory Leak",
+        "url": "https://open.spotify.com/album/1IrX3etvLCOfEFe0XGuWhD"
+      },
+      "artists": [
+        {
+          "name": "Northern Panda",
+          "url": "https://open.spotify.com/artist/4Dm764B79DlnJBaQzrQAnM"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Memory Leak",
+      "url": "https://open.spotify.com/track/3BGAZcY5SpJUMoZ8E10Kmy"
     },
     {
       "album": {
@@ -1373,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "rainy",
+        "url": "https://open.spotify.com/album/7AUnwwLdlsLWNA7DcqJgyr"
+      },
+      "artists": [
+        {
+          "name": "hazel back",
+          "url": "https://open.spotify.com/artist/5oKYxweMHRN5c4aYagA8gl"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130489,
+      "name": "rainy",
+      "url": "https://open.spotify.com/track/3X58SM9ih7hV91Pb26kX2D"
+    },
+    {
+      "album": {
         "name": "rebundance",
         "url": "https://open.spotify.com/album/5YRofK4ZSwPEaXhzGBcrpL"
       },
@@ -1445,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "sakura",
+        "url": "https://open.spotify.com/album/3YV2MQbxykYY7lkIU9AIKu"
+      },
+      "artists": [
+        {
+          "name": "nikk.",
+          "url": "https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "sakura",
+      "url": "https://open.spotify.com/track/3T7NoGOsK926QUvoQCUZz9"
+    },
+    {
+      "album": {
         "name": "Sakura Sunset",
         "url": "https://open.spotify.com/album/4quCoWKk640mavwa0F1Ykj"
       },
@@ -1460,6 +1532,24 @@
       "duration_ms": 142317,
       "name": "Sakura Sunset",
       "url": "https://open.spotify.com/track/1X4vIPVvyjPLwoKG6sYKIA"
+    },
+    {
+      "album": {
+        "name": "serenade",
+        "url": "https://open.spotify.com/album/0i3QW69QSmzC0G9lLvffcV"
+      },
+      "artists": [
+        {
+          "name": "other matters",
+          "url": "https://open.spotify.com/artist/6w5ulx005CcVh43hLypHhU"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131633,
+      "name": "serenade",
+      "url": "https://open.spotify.com/track/2utc2KYWFv3RdRTw6zl970"
     },
     {
       "album": {
@@ -1521,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Naptime Chronicles",
+        "url": "https://open.spotify.com/album/5n78iggelrp50quMFkH4Mz"
+      },
+      "artists": [
+        {
+          "name": "Brad Enbata",
+          "url": "https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119727,
+      "name": "Slowburn",
+      "url": "https://open.spotify.com/track/2uNGvfkfJhSniduELDpZFe"
+    },
+    {
+      "album": {
         "name": "Something To Sing About",
         "url": "https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG"
       },
@@ -1554,6 +1662,24 @@
       "duration_ms": 102124,
       "name": "square day",
       "url": "https://open.spotify.com/track/6Ay0SySLxHEBY8ju9khpVX"
+    },
+    {
+      "album": {
+        "name": "Staying Overnight",
+        "url": "https://open.spotify.com/album/7mX4eT3HBkr76g0nnSZSDI"
+      },
+      "artists": [
+        {
+          "name": "Haku-San",
+          "url": "https://open.spotify.com/artist/0dGpPnF1fbxs3Bhz2bO8UA"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Staying Overnight",
+      "url": "https://open.spotify.com/track/1VMq1UfnG2vyq7H1l7WKdd"
     },
     {
       "album": {
@@ -2026,7 +2152,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 149194,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5"

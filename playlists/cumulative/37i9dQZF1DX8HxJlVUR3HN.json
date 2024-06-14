@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Yodelice",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Storm Orchestra",
   "name": "Volume France",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 256137,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7v80vLTX2QWEdfdafFTj4u"
@@ -528,6 +528,24 @@
       "duration_ms": 199591,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/65uA9t4W1khgUaCYg7Y018"
+    },
+    {
+      "album": {
+        "name": "Bright Soul",
+        "url": "https://open.spotify.com/album/2nABJf5Qgz34ayXKpWuRAY"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179900,
+      "name": "Bright Soul",
+      "url": "https://open.spotify.com/track/4xvLk9biHaiDH6sZQ6F8Lb"
     },
     {
       "album": {
@@ -888,7 +906,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 158720,
       "name": "Dad\u2019Algorhythm",
       "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
@@ -1565,6 +1583,24 @@
     },
     {
       "album": {
+        "name": "I'm Picky (Unplugged)",
+        "url": "https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "I'm Picky - Unplugged",
+      "url": "https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8"
+    },
+    {
+      "album": {
         "name": "New Horizons",
         "url": "https://open.spotify.com/album/5nTX6Gy6ivhCStwSL2xTu9"
       },
@@ -1616,6 +1652,24 @@
       "duration_ms": 214038,
       "name": "In Stone",
       "url": "https://open.spotify.com/track/5d17zQEKvgoXlCtszxL7it"
+    },
+    {
+      "album": {
+        "name": "The Great Anticipation",
+        "url": "https://open.spotify.com/album/1ylkDNSrkbFMAW8MQC56Pn"
+      },
+      "artists": [
+        {
+          "name": "Birdstone",
+          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Instant Shutdown",
+      "url": "https://open.spotify.com/track/0LxwxnfEmCgngLoULk0CTR"
     },
     {
       "album": {
@@ -1868,10 +1922,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 178161,
       "name": "La vie est belle",
       "url": "https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o"
+    },
+    {
+      "album": {
+        "name": "Le chant des cygnes",
+        "url": "https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "Le chant des cygnes - Single Version",
+      "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
     },
     {
       "album": {
@@ -3366,7 +3438,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 311186,
       "name": "The Devil",
       "url": "https://open.spotify.com/track/56gDz0ZtrlcBqWSZhi0mUJ"

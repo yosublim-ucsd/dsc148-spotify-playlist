@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,203 likes - 300 songs - 10 hr 53 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 76,197 likes - 300 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 116 | [Gift Of Memory](https://open.spotify.com/track/3AJ2RFwWvXs7OWUiSRYMQ7) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Gift Of Memory](https://open.spotify.com/album/54KUUdZYHDJ4jYIKLS0pNE) | 3:13 |
 | 117 | [Wake](https://open.spotify.com/track/08IrN00KwF2cpXfqL2Gpqu) | [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Wake](https://open.spotify.com/album/0FZVZJ2Ek4DSWdKLlAaWLy) | 1:51 |
 | 118 | [Rebirth](https://open.spotify.com/track/3BCWGGtFHspNGTNqn4Stua) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Rebirth](https://open.spotify.com/album/7DiLCD9i2b4EYIfESJQRm6) | 1:37 |
-| 119 | [changes](https://open.spotify.com/track/4WcfxBGu4XoGBNBCRJcZ7x) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE), [jsn](https://open.spotify.com/artist/2lqsgnsdbndDMmnTZBip79), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG) | [changes](https://open.spotify.com/album/24gdRCYd1ctQ1dFHo9WsUZ) | 3:51 |
+| 119 | [changes](https://open.spotify.com/track/4WcfxBGu4XoGBNBCRJcZ7x) | [Decisions](https://open.spotify.com/artist/3juecQH8XvNfubU1vEnNrE), [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [jsn](https://open.spotify.com/artist/2lqsgnsdbndDMmnTZBip79) | [changes](https://open.spotify.com/album/24gdRCYd1ctQ1dFHo9WsUZ) | 3:51 |
 | 120 | [asphaltkamele](https://open.spotify.com/track/2j8aIrncGAcoS623ygcEiR) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Fred Erik](https://open.spotify.com/artist/4J46JclpuhD8XOE1JzhB7v) | [asphaltkamele](https://open.spotify.com/album/1J4tSiKF7tSvIPOjXsfE7N) | 2:08 |
 | 121 | [Repose](https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Repose](https://open.spotify.com/album/76aywp7ONaQDLJjPLzDcl5) | 2:28 |
 | 122 | [Fuzzy](https://open.spotify.com/track/6R1tfonhGOq1FK7oXZ7f8R) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Fuzzy](https://open.spotify.com/album/6CizivGNrMu0p9cwiBmVvq) | 2:12 |

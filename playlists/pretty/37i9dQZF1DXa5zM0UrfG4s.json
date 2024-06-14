@@ -1,15 +1,15 @@
 {
   "description": "blir det en hvit sommer?",
-  "num_followers": 109812,
+  "num_followers": 109832,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmIxYAAAAACiUixv599gQ2G0lYeqiQS0",
+  "snapshot_id": "Zmtr4AAAAAChwgfmt0q4SGKJ1X/nQlmM",
   "tracks": [
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Hvit sommer",
         "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+        "url": "https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+      "url": "https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "VEM FAN E DU?",
         "url": "https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/71wMs4JJP0qtqWwgrhFzDz"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/0Lk3eSBZOCtRwRqKxLgyqV"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "UNGA & FRIA REMIX",
         "url": "https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
@@ -117,27 +133,7 @@
       "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Dum i haue",
-        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 144808,
-      "name": "Dum i haue",
-      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Da vi var to",
         "url": "https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ"
@@ -157,7 +153,27 @@
       "url": "https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Dum i haue",
+        "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 144808,
+      "name": "Dum i haue",
+      "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Gamleveien",
         "url": "https://open.spotify.com/album/3ZvbYMfxz7TFXp9Zqv4uZf"
@@ -181,23 +197,7 @@
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Ungkar med dobbelseng",
-        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Ayia Napa 2024",
         "url": "https://open.spotify.com/album/6VjOZApRj8SshfhTx82HYQ"
@@ -213,23 +213,23 @@
       "url": "https://open.spotify.com/track/58vENLCxezWIAANBgyjEsG"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+        "name": "Ungkar med dobbelseng",
+        "url": "https://open.spotify.com/album/4dDEQ9v3nGadYyz1ykuG8y"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+      "duration_ms": 190466,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Min psykolog",
         "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Den Samme J\u00e6vla Sangen",
         "url": "https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "5 SHOTS",
         "url": "https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln"
@@ -301,7 +301,55 @@
       "url": "https://open.spotify.com/track/5CqyzTnsaP20NBBiDZZe5H"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+      },
+      "artists": [
+        {
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Mekke bil (feat. Tor-Anders Ringnes)",
         "url": "https://open.spotify.com/album/5KudautWOwAQOyFVWhrGRt"
@@ -321,55 +369,7 @@
       "url": "https://open.spotify.com/track/4dqrmHVAq0GtWgb0oGXGAA"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Hald deg fast",
-        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Hald deg fast",
-      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
-      },
-      "artists": [
-        {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Konge p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Polare",
         "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "P\u00e5 hytta g\u00e5r det bra",
         "url": "https://open.spotify.com/album/6Hg5gU51YHaRdBts9GXmqs"
@@ -485,7 +485,23 @@
       "url": "https://open.spotify.com/track/1bmRqWCbN925Pk8A19g1EE"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Hald deg fast",
+        "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201178,
+      "name": "Hald deg fast",
+      "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Harry stil",
         "url": "https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Livet Er Herlig",
         "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
@@ -521,23 +537,7 @@
       "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Vakker og vill",
-        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Vakker og vill",
-      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "En birra har aldrig",
         "url": "https://open.spotify.com/album/20VAPgTHaxS6EAEtqW1Y1r"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/5wuTwGMr8gBge0J6MOZzcu"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "S\u00e5nn So Det Va F\u00f8r",
         "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Ja likav\u00e4l",
         "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Eventyr",
         "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
@@ -625,7 +625,23 @@
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Vakker og vill",
+        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Vakker og vill",
+      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Har du lyst har du lov",
         "url": "https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
         "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Hardanger",
         "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Gamlehjem",
         "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "\u00d8l i kantina",
         "url": "https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Kj\u00f8rer Som En Bestemor",
         "url": "https://open.spotify.com/album/61FHg6nwPlTc84cQaGhL8c"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/1V9wDqSJ9GuOKQSx2lOV00"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
@@ -761,7 +777,43 @@
       "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Dunka",
+        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+        }
+      ],
+      "duration_ms": 133800,
+      "name": "Dunka",
+      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Den fineste Tesla\u00b4n",
         "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
@@ -785,27 +837,7 @@
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Dunka",
-        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Emil Asserg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
-        }
-      ],
-      "duration_ms": 133800,
-      "name": "Dunka",
-      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "En gammal Amazon",
         "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
@@ -821,23 +853,23 @@
       "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
@@ -861,23 +893,7 @@
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Naboen har operert kona si",
         "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
@@ -893,7 +909,23 @@
       "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+      },
+      "artists": [
+        {
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Kainn \u00c6 F\u00e5 Lov",
+      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "B\u00f8gda (Remix)",
         "url": "https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7"
@@ -913,23 +945,7 @@
       "url": "https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Kainn \u00c6 F\u00e5 Lov",
-      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Livet p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
@@ -949,23 +965,7 @@
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Alt du vil ha",
         "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
@@ -981,23 +981,7 @@
       "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
         "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
@@ -1017,7 +1001,7 @@
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
@@ -1033,7 +1017,23 @@
       "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Siste Kveld",
         "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "S\u00e5nn e livet - Live 10 \u00e5r",
         "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Rull\u00e6r",
         "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
@@ -1089,23 +1089,7 @@
       "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
@@ -1125,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Bygdas Rebell",
         "url": "https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov"
@@ -1141,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
@@ -1157,7 +1141,7 @@
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Her er det liv",
         "url": "https://open.spotify.com/album/2YVX4cPRpeL4YhSY6KxElv"
@@ -1173,7 +1157,7 @@
       "url": "https://open.spotify.com/track/4ffdNW62Z6XaS8XQrrvQcp"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "N\u00e5 er det helg",
         "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
@@ -1189,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Der Jeg H\u00f8rer Te (Bygda)",
         "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
@@ -1205,7 +1189,23 @@
       "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Ei tid (Akustisk versjon)",
         "url": "https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF"
@@ -1225,7 +1225,7 @@
       "url": "https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Bara vara med dig",
         "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
@@ -1241,20 +1241,24 @@
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+        "name": "Evig vandring",
+        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Kjetil Nordfjeld",
+          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
+        },
+        {
+          "name": "Christiania",
+          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+      "duration_ms": 170135,
+      "name": "Evig vandring",
+      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

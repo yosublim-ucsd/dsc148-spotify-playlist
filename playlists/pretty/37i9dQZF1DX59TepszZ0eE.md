@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=t46aO0dvRdmAn7mro6qF6Q>Joyous Celebration</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,827 likes - 105 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,928 likes - 105 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 104 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 |
 | 105 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 |
 
-Snapshot ID: `ZmJN+AAAAAAlElX96ChblKq5sF1xPda5`
+Snapshot ID: `ZmuIPAAAAACbJ8rGCJ10Id4zxwi/0kIK`

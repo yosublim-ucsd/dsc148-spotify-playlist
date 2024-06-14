@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Neeti Mohan
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,483 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,508 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 6 | [Who’s That Girl](https://open.spotify.com/track/1mbDRFQEnfgUHdHs3iBWMC) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 2:58 |
 | 7 | [TUM](https://open.spotify.com/track/5VdIMpqOaz6f76xPbCplhD) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK) | [TUM](https://open.spotify.com/album/10G9uOiDShZlsFChkuVdtC) | 2:45 |
 | 8 | [Ve Sohneya](https://open.spotify.com/track/1VUhPbJHjHn2SMTGnSU7hd) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Unloved](https://open.spotify.com/album/77oy22SM00oHo503o1DsPN) | 3:52 |
-| 9 | [Kuch Yaadein](https://open.spotify.com/track/5MSvYAdlgrlPm2AEPRsiAp) | [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Kuch Yaadein](https://open.spotify.com/album/1w0yg4eQHYKAO7Ne5xl4Wz) | 3:16 |
+| 9 | [Kuch Yaadein](https://open.spotify.com/track/5MSvYAdlgrlPm2AEPRsiAp) | [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Siddharth Singh](https://open.spotify.com/artist/553LcIx8fpHS8EMQHv1JCN) | [Kuch Yaadein](https://open.spotify.com/album/1w0yg4eQHYKAO7Ne5xl4Wz) | 3:16 |
 | 10 | [Bhari Mehfil](https://open.spotify.com/track/2ujhrcDEUpVOPU1Vi3ofil) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 3:58 |
 | 11 | [Befikriyan](https://open.spotify.com/track/4sCWLxUZ7yNyBGhDQ8lzmy) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Befikriyan](https://open.spotify.com/album/21T4i3q2KbSjdPsHB7higk) | 3:12 |
 | 12 | [Melody](https://open.spotify.com/track/3SeZBNp4YI8KfyPm2GtsXs) | [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Melody](https://open.spotify.com/album/3GkkUHBfJQ0sHYgErZca2H) | 2:27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. FASK in cover.",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Emma Nolde in cover.",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 205120,
       "name": "Badman (Ting) (feat. Flowdan)",
       "url": "https://open.spotify.com/track/3diLbv7ChuSFm6nmhIqW0d"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 188444,
       "name": "CARA ROVINA",
       "url": "https://open.spotify.com/track/6edJepTih9RQaL9NlmvwNi"
@@ -4630,7 +4630,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 168530,
       "name": "Due sassi",
       "url": "https://open.spotify.com/track/1kHYTEB6yDG8kyQigjGw0m"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 176622,
       "name": "ETCI\u00d9",
       "url": "https://open.spotify.com/track/2DV5XHMD8ZBfx6oiifqPvJ"
@@ -5256,6 +5256,24 @@
       "duration_ms": 122823,
       "name": "EX",
       "url": "https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET"
+    },
+    {
+      "album": {
+        "name": "Fat Animals",
+        "url": "https://open.spotify.com/album/0IVM6l3JwYR88H8YbX4SdQ"
+      },
+      "artists": [
+        {
+          "name": "Bulgarelli",
+          "url": "https://open.spotify.com/artist/66hNnhwIh8EOyOvI1HTtuC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Exploring A Drawer",
+      "url": "https://open.spotify.com/track/7iPJwIkcvpFo6nnjBlm26S"
     },
     {
       "album": {
@@ -5754,6 +5772,28 @@
       "duration_ms": 170742,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/6XHtTgqiLy41X6iVFfIny2"
+    },
+    {
+      "album": {
+        "name": "Prendersi Cura",
+        "url": "https://open.spotify.com/album/1Xl0SgVxdlEC9plEg5KMFY"
+      },
+      "artists": [
+        {
+          "name": "Soft Boys Club",
+          "url": "https://open.spotify.com/artist/5fqMQgnJpNyZEB3p3fgfGZ"
+        },
+        {
+          "name": "Materazi Future Club",
+          "url": "https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160086,
+      "name": "Flop",
+      "url": "https://open.spotify.com/track/7pfcrYDwNlWiBEbqH1z1uN"
     },
     {
       "album": {
@@ -6494,7 +6534,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 155500,
       "name": "Go catch 'em",
       "url": "https://open.spotify.com/track/2HkT6v7XVIdYizYyJ6jy8e"
@@ -7310,7 +7350,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 257211,
       "name": "Igor Simutenkov",
       "url": "https://open.spotify.com/track/0w8Ye36LhRhqtiqkMZsWoY"
@@ -7722,6 +7762,28 @@
       "duration_ms": 208122,
       "name": "In questo",
       "url": "https://open.spotify.com/track/4Up7N5Vy1iVHxkoKTVHGkp"
+    },
+    {
+      "album": {
+        "name": "Indigo (feat. Giovanna Cacciola)",
+        "url": "https://open.spotify.com/album/6ODWowusdXQninPztwsJT5"
+      },
+      "artists": [
+        {
+          "name": "Valerian Swing",
+          "url": "https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93"
+        },
+        {
+          "name": "Giovanna Cacciola",
+          "url": "https://open.spotify.com/artist/5A6AcMQp0JN1fFkjisIrvX"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275306,
+      "name": "Indigo (feat. Giovanna Cacciola)",
+      "url": "https://open.spotify.com/track/2XD6ZRoRyHI9A0hoIp9OwP"
     },
     {
       "album": {
@@ -8308,7 +8370,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 273006,
       "name": "Koola Lobitos",
       "url": "https://open.spotify.com/track/11zh0ELEi4NnrfJgI2uhBe"
@@ -8370,6 +8432,24 @@
       "duration_ms": 303375,
       "name": "L'aura",
       "url": "https://open.spotify.com/track/0gfrq347abQM5iVlfHCynt"
+    },
+    {
+      "album": {
+        "name": "L'ironia \u00e8 una cosa seria",
+        "url": "https://open.spotify.com/album/4u9ISO8YVoVtDbdCwzOdof"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160078,
+      "name": "L'ironia \u00e8 una cosa seria",
+      "url": "https://open.spotify.com/track/0zBHNqSZWmx4LrGThagIWT"
     },
     {
       "album": {
@@ -8694,7 +8774,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 184613,
       "name": "La sola concreta realt\u00e0",
       "url": "https://open.spotify.com/track/0Ymdein1FEwzOT3MsDpzIC"
@@ -10344,7 +10424,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 170388,
       "name": "Mostri",
       "url": "https://open.spotify.com/track/25sAqm9aLH5BAlHZrtHb6t"
@@ -10528,7 +10608,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 259213,
       "name": "Nabucodonosor",
       "url": "https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood"
@@ -10712,6 +10792,24 @@
       "duration_ms": 57000,
       "name": "Neuro Queer Cyber Punk (italia)",
       "url": "https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914"
+    },
+    {
+      "album": {
+        "name": "New Fears",
+        "url": "https://open.spotify.com/album/49M3KpS27NUWMMIIEl1AnN"
+      },
+      "artists": [
+        {
+          "name": "HRTBRKR",
+          "url": "https://open.spotify.com/artist/1BEwnjx2cveT2s1zj2fslI"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87399,
+      "name": "New Fears",
+      "url": "https://open.spotify.com/track/1cWNl11hN5VYdMpKZS1s6V"
     },
     {
       "album": {
@@ -10936,7 +11034,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 248077,
       "name": "Non c'\u00e8 mare",
       "url": "https://open.spotify.com/track/2p0ImE7xlDmUdVtv8EXAxs"
@@ -11194,7 +11292,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 181812,
       "name": "Non ti scusare (Anna)",
       "url": "https://open.spotify.com/track/2DjQsMws5zgO7PYXK8pLmb"
@@ -11847,6 +11945,28 @@
     },
     {
       "album": {
+        "name": "Parabola Ascendente",
+        "url": "https://open.spotify.com/album/2PVeexYVq4uXvcQf2HQDv8"
+      },
+      "artists": [
+        {
+          "name": "Valerio Lundini",
+          "url": "https://open.spotify.com/artist/17n0YE5JM5glbRtvOSs4gc"
+        },
+        {
+          "name": "Vazzanikki",
+          "url": "https://open.spotify.com/artist/1FwzbMiwfW5Z20W6VAbBtM"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Parabola Ascendente",
+      "url": "https://open.spotify.com/track/2liV7O57ND4t6X9SlvY8cL"
+    },
+    {
+      "album": {
         "name": "Paradiso",
         "url": "https://open.spotify.com/album/2N9GsEvu9wLlZRvqdRLhpb"
       },
@@ -12480,7 +12600,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 212055,
       "name": "Pomeriggio Dorato",
       "url": "https://open.spotify.com/track/5mQC10Eq23n6GiUZnRSpUi"
@@ -12882,6 +13002,24 @@
       "duration_ms": 183200,
       "name": "Prodotto tipico",
       "url": "https://open.spotify.com/track/1OwwiFx2Y3bYnA1k2RRsHx"
+    },
+    {
+      "album": {
+        "name": "Da dove ci eravamo lasciati",
+        "url": "https://open.spotify.com/album/6rHBtllnQbtFwMgdo8G4AD"
+      },
+      "artists": [
+        {
+          "name": "And So Your Life Is Ruined",
+          "url": "https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212691,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/6P4ad9eyjj5ieDTD1IHsQP"
     },
     {
       "album": {
@@ -13792,7 +13930,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 220126,
       "name": "sanpietrini",
       "url": "https://open.spotify.com/track/2cECke2i5GNvBfD1rM7cuf"
@@ -14182,6 +14320,24 @@
       "duration_ms": 176000,
       "name": "sei mare",
       "url": "https://open.spotify.com/track/6k9kIVoWSqvX1fbRxC9u6O"
+    },
+    {
+      "album": {
+        "name": "SELLOUT",
+        "url": "https://open.spotify.com/album/4PkBqatSXwHCtXeNBVS7b8"
+      },
+      "artists": [
+        {
+          "name": "Stunt Pilots",
+          "url": "https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128039,
+      "name": "SELLOUT",
+      "url": "https://open.spotify.com/track/5asgUMWlD2FfHIH8Jio5Wx"
     },
     {
       "album": {
@@ -14672,6 +14828,24 @@
       "duration_ms": 208468,
       "name": "Sit Down for Dinner, Pt. 2",
       "url": "https://open.spotify.com/track/7x27tghtFiGJOdWEO79zdB"
+    },
+    {
+      "album": {
+        "name": "Skull Flower",
+        "url": "https://open.spotify.com/album/2YZF9dHzZHC75eDLCIlrGy"
+      },
+      "artists": [
+        {
+          "name": "Julie's Haircut",
+          "url": "https://open.spotify.com/artist/2RRkSj0NQhBvHSUSzwG2uM"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Skull Flower",
+      "url": "https://open.spotify.com/track/1u5dvVMsrvYuntiFURGUFj"
     },
     {
       "album": {
@@ -15336,7 +15510,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 169615,
       "name": "Stuntman",
       "url": "https://open.spotify.com/track/3EKhAO94zqYbn6Cls9EIHI"
@@ -17435,6 +17609,24 @@
     },
     {
       "album": {
+        "name": "Vlora",
+        "url": "https://open.spotify.com/album/4H99cXaonbBlxl08BYtjSG"
+      },
+      "artists": [
+        {
+          "name": "Sequoia",
+          "url": "https://open.spotify.com/artist/1mn4ts1dMQoCFfEUDnt4mc"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193480,
+      "name": "Vlora",
+      "url": "https://open.spotify.com/track/3Q3H9KygMe3TkT6spGBvyQ"
+    },
+    {
+      "album": {
         "name": "Cari Fottutissimi Amici",
         "url": "https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB"
       },
@@ -17840,6 +18032,24 @@
       "duration_ms": 195179,
       "name": "W\u00f8lf",
       "url": "https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3"
+    },
+    {
+      "album": {
+        "name": "ZenZero",
+        "url": "https://open.spotify.com/album/66nM6m4ZrF3R66tInK068a"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "ZenZero",
+      "url": "https://open.spotify.com/track/5hFUbAijhedjj9tos6QTCd"
     },
     {
       "album": {

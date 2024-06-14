@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 260591,
+  "num_followers": 260610,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-22 05:00:00",
       "album": {
-        "name": "Futari",
-        "url": "https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5"
-      },
-      "artists": [
-        {
-          "name": "Hentaidesu",
-          "url": "https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK"
-        }
-      ],
-      "duration_ms": 66611,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y"
-    },
-    {
-      "added_at": "2024-05-22 05:00:00",
-      "album": {
         "name": "sleepless",
         "url": "https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 149325,
       "name": "sleepless",
       "url": "https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu"
+    },
+    {
+      "added_at": "2024-05-22 05:00:00",
+      "album": {
+        "name": "Futari",
+        "url": "https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5"
+      },
+      "artists": [
+        {
+          "name": "Hentaidesu",
+          "url": "https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK"
+        }
+      ],
+      "duration_ms": 66611,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y"
     },
     {
       "added_at": "2024-05-22 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-22 05:00:00",
       "album": {
-        "name": "Something To Sing About",
-        "url": "https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG"
-      },
-      "artists": [
-        {
-          "name": "X84",
-          "url": "https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4"
-        }
-      ],
-      "duration_ms": 164139,
-      "name": "Something To Sing About",
-      "url": "https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs"
-    },
-    {
-      "added_at": "2024-05-22 05:00:00",
-      "album": {
         "name": "where did you go?",
         "url": "https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 96360,
       "name": "where did you go?",
       "url": "https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq"
+    },
+    {
+      "added_at": "2024-05-22 05:00:00",
+      "album": {
+        "name": "Something To Sing About",
+        "url": "https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG"
+      },
+      "artists": [
+        {
+          "name": "X84",
+          "url": "https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4"
+        }
+      ],
+      "duration_ms": 164139,
+      "name": "Something To Sing About",
+      "url": "https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs"
     },
     {
       "added_at": "2024-05-22 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-05-22 05:00:00",
       "album": {
-        "name": "Help Me Out",
-        "url": "https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi"
-      },
-      "artists": [
-        {
-          "name": "Alicks",
-          "url": "https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM"
-        }
-      ],
-      "duration_ms": 207046,
-      "name": "A Time to Wait",
-      "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
-    },
-    {
-      "added_at": "2024-05-22 05:00:00",
-      "album": {
         "name": "daydream.",
         "url": "https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 97470,
       "name": "fallinginlove.",
       "url": "https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw"
+    },
+    {
+      "added_at": "2024-05-22 05:00:00",
+      "album": {
+        "name": "Help Me Out",
+        "url": "https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi"
+      },
+      "artists": [
+        {
+          "name": "Alicks",
+          "url": "https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM"
+        }
+      ],
+      "duration_ms": 207046,
+      "name": "A Time to Wait",
+      "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
     },
     {
       "added_at": "2024-05-22 05:00:00",

@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 282353,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/5TaYOrcT1oTXhkbpDt7Kkg"
@@ -374,6 +374,28 @@
       "duration_ms": 216511,
       "name": "Far Above",
       "url": "https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S"
+    },
+    {
+      "album": {
+        "name": "Find Me Here (Blessings Find Me) [Afropop Remix]",
+        "url": "https://open.spotify.com/album/6VDOkiaNd2gUGN7IuBjYMz"
+      },
+      "artists": [
+        {
+          "name": "Sherwin Gardner",
+          "url": "https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164243,
+      "name": "Find Me Here (Blessings Find Me) - Afropop Remix",
+      "url": "https://open.spotify.com/track/7tXZWxisWNZ0f0oTqjsvpK"
     },
     {
       "album": {
@@ -458,7 +480,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 316460,
       "name": "Hinya",
       "url": "https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p"
@@ -1267,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119428,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA"
+    },
+    {
+      "album": {
         "name": "Lost in Translation",
         "url": "https://open.spotify.com/album/3GMOrfNSGWRFBHH9WjcmIX"
       },
@@ -1340,7 +1384,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 215675,
       "name": "Sai Sai",
       "url": "https://open.spotify.com/track/2F0tznyLelKeeMWZ56srtS"
@@ -1460,7 +1504,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 181968,
       "name": "Ukiokoka",
       "url": "https://open.spotify.com/track/1QtFu0IWKC9XM93ZeiYFyP"
@@ -1557,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "STRIP'T (live at the bedroom edition)",
+        "url": "https://open.spotify.com/album/45BijZynxXNTWuwXpWhTe0"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383390,
+      "name": "Wewe - Live",
+      "url": "https://open.spotify.com/track/0XuoAKfrbyTIJ8fO0w3nLe"
+    },
+    {
+      "album": {
         "name": "Yeah",
         "url": "https://open.spotify.com/album/6EvSEGPSfl9vnGyXmWSbzm"
       },
@@ -1568,7 +1630,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 217312,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/1KxhoSzSYTM1EWNFEe8iBk"

@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 137647,
       "name": "caring",
       "url": "https://open.spotify.com/track/5uQIqK8Wni5PwbWPKEBtoW"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 152307,
       "name": "goodnight moon",
       "url": "https://open.spotify.com/track/37INB6QCytlJLMoRVCrzKE"
@@ -3594,6 +3594,24 @@
       "duration_ms": 149000,
       "name": "Infinite Sustain",
       "url": "https://open.spotify.com/track/5AciiCKJKTLKRrAPSrKQy5"
+    },
+    {
+      "album": {
+        "name": "Inhale",
+        "url": "https://open.spotify.com/album/2bptiy003t4TOd5jrqJpFq"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Inhale",
+      "url": "https://open.spotify.com/track/5QCuYFsOj6dBbBFlH3o5JH"
     },
     {
       "album": {
@@ -6231,6 +6249,24 @@
     },
     {
       "album": {
+        "name": "roaming roads",
+        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "roaming roads",
+      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
+    },
+    {
+      "album": {
         "name": "round bird",
         "url": "https://open.spotify.com/album/6YirhcCuMUVsWH2sXLxQMJ"
       },
@@ -6394,6 +6430,24 @@
       "duration_ms": 143376,
       "name": "Sandy Feat",
       "url": "https://open.spotify.com/track/5qOnzuMUMElHcfREjI7HFu"
+    },
+    {
+      "album": {
+        "name": "sanguine",
+        "url": "https://open.spotify.com/album/2zdJu1QoPITYGs5oLQjuFF"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176738,
+      "name": "sanguine",
+      "url": "https://open.spotify.com/track/1NP8gqHT7OWNqp7n7nRgeR"
     },
     {
       "album": {
@@ -8074,6 +8128,24 @@
       "duration_ms": 126187,
       "name": "Ubbadd",
       "url": "https://open.spotify.com/track/7FmNnWZUXiqXLngbAmh1X9"
+    },
+    {
+      "album": {
+        "name": "Under the Moon",
+        "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
+      },
+      "artists": [
+        {
+          "name": "Tropicolor",
+          "url": "https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Under the Moon",
+      "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Real nasty house with Julian Jordan
 
-782 songs - 1 day 16 hr 31 min
+783 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Dance](https://open.spotify.com/track/3wlooR2v0HO309z0maRmO3) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Dance](https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3) | 3:07 | 2022-05-06 | 2023-03-13 |
 | [Dancerteria](https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Kickin Back](https://open.spotify.com/album/7sJhrdrW2NLgsZIemINUKa) | 3:54 | 2021-10-29 | 2022-01-07 |
 | [Dancing](https://open.spotify.com/track/60a6JZEXhjHGXrCgaejEhs) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Wildlife](https://open.spotify.com/album/1GRBbMdSctADD6Z0BukCPA) | 3:04 | 2024-04-05 | 2024-04-27 |
+| [Dancing With My Boyz](https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Dancing With My Boyz](https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig) | 2:24 | 2024-04-19 |  |
 | [Danger](https://open.spotify.com/track/5Ztlpo0tihmvazlFYTL3fQ) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Cipher One](https://open.spotify.com/album/0sXeA5zcpIua5syJn7RqIg) | 3:03 | 2021-10-29 | 2022-05-28 |
 | [Dare \(Gimme 5\)](https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA) | [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM) | [Dare \(Gimme 5\)](https://open.spotify.com/album/4xBgCf4Pb5unNHHgHdWeAw) | 2:48 | 2024-02-02 |  |
 | [Dark Side](https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Dark Side](https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya) | 2:37 | 2022-12-16 | 2023-09-30 |
@@ -246,7 +247,7 @@
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2023-09-08 | 2024-05-11 |
 | [Fever Dream](https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Annaca](https://open.spotify.com/artist/68bTh9UzHWFypy6Kt54NDZ) | [Fever Dream](https://open.spotify.com/album/1KzUhr5XqwBkTt6kmcPFDa) | 3:31 | 2024-05-10 |  |
 | [Find My Way](https://open.spotify.com/track/1xRbnHh3GidD6vzuOrTQeT) | [Giorgio Leone \(IT\)](https://open.spotify.com/artist/6zPCGqSL5ALIAZ8bbRU0b7), [Haas](https://open.spotify.com/artist/4IPYJLyaOR6FkoiLtHcUIu), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Find My Way](https://open.spotify.com/album/1hpiUpq67G7Y2aj5K9YCfX) | 3:50 | 2023-08-04 | 2023-08-27 |
-| [Find The Silence](https://open.spotify.com/track/0E8RqU03Sd4OazufBdA8NY) | [Michael Phase](https://open.spotify.com/artist/378Z69odCtM7EU6FtWrogE), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Find The Silence](https://open.spotify.com/album/6nHeqnaMPoaKho9IzF2rzF) | 3:41 | 2024-06-07 |  |
+| [Find The Silence](https://open.spotify.com/track/0E8RqU03Sd4OazufBdA8NY) | [Michael Phase](https://open.spotify.com/artist/378Z69odCtM7EU6FtWrogE), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Find The Silence](https://open.spotify.com/album/6nHeqnaMPoaKho9IzF2rzF) | 3:41 | 2024-06-07 | 2024-06-14 |
 | [Fire](https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Fire](https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e) | 3:30 | 2024-05-10 |  |
 | [Firestarter](https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Firestarter](https://open.spotify.com/album/0kLHN4gERGE3aTDnmmNwbA) | 2:15 | 2024-03-01 |  |
 | [First Come First Serve](https://open.spotify.com/track/0MbPkhaP4qBbq1c4SHpJJJ) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [First Come First Serve](https://open.spotify.com/album/7Ckl7E8xJBToX27jtyCG6B) | 2:33 | 2022-11-18 | 2023-04-26 |

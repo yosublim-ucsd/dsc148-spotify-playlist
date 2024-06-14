@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=ce0\_G90pR7mdITQnky4OlA">Linda Sikhakhane</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH?si=M4SgEnuWQOKmMWFmiilnZw">Malcolm Jiyane</a>
 
-221 songs - 23 hr 34 min
+222 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aunty B \- Live](https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE) | [Keenan Ahrends](https://open.spotify.com/artist/6ESm50MFOfkEqAaWEgVKiQ) | [Perseverance: Live at the Bird's Eye](https://open.spotify.com/album/5ALMv6JHL1KO7SVaeilQiD) | 8:00 | 2022-05-12 |  |
 | [Autumn In New York](https://open.spotify.com/track/2G6rigRT2zK9yV2Xkbopnn) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 5:55 | 2023-11-01 | 2023-11-17 |
 | [Awakening](https://open.spotify.com/track/1hWcpSQLLaIg610CenNRpo) | [Marcus Wyatt & the ZAR Jazz Orchestra](https://open.spotify.com/artist/0d8s4yzcDxXQxe55hbtmZs) | [One Night in the Sun](https://open.spotify.com/album/29rBOmvMXW8KT79RdvW6NC) | 8:12 | 2022-04-28 | 2023-03-18 |
+| [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 | 2024-06-13 |  |
 | [Bamako Love Song](https://open.spotify.com/track/1kLnNSKAO9HxS4qKbR9aza) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Welcome to This World](https://open.spotify.com/album/42rE11bATq8xq7vID2ekDw) | 5:22 | 2022-04-28 | 2023-02-10 |
 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 | 2022-08-18 | 2023-05-13 |
 | [Bela Bela \- Live Studio](https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc) | [Nkosi Zondo](https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao), [Bhekinkosi 'Soja' Hlatshwayo](https://open.spotify.com/artist/1pOOeJi41sMEExc6FXxWIR) | [Bela Bela \(Live Studio\)](https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn) | 6:38 | 2023-10-19 |  |
@@ -205,7 +206,7 @@
 | [Ubombo](https://open.spotify.com/track/3hjhYk8EeQnYtcGqeTcaQU) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S) | [Freedom Countdown](https://open.spotify.com/album/62utMxHbKdLAax3CPSxP44) | 6:30 | 2023-11-01 | 2023-11-17 |
 | [Umbhedesho](https://open.spotify.com/track/1Wd1DmQuO4qWDrPs04mEZJ) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 1:43 | 2023-08-25 | 2024-05-17 |
 | [UMDALI](https://open.spotify.com/track/6Ez01NIwZoUm85QtgPK6J0) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 6:40 | 2022-04-28 | 2023-08-26 |
-| [Umthombo](https://open.spotify.com/track/36FgHjJFdA3y3uBCgW6PSR) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Lwanda Gogwana](https://open.spotify.com/artist/4u5M9vxEOTAINqw8n7b4VK) | [Umthombo](https://open.spotify.com/album/13FZYGktp6pn3NXDkqmlQs) | 3:55 | 2023-11-16 |  |
+| [Umthombo](https://open.spotify.com/track/36FgHjJFdA3y3uBCgW6PSR) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Lwanda Gogwana](https://open.spotify.com/artist/4u5M9vxEOTAINqw8n7b4VK) | [Umthombo](https://open.spotify.com/album/13FZYGktp6pn3NXDkqmlQs) | 3:55 | 2023-11-16 | 2024-06-14 |
 | [Unh!](https://open.spotify.com/track/01cQKyyDqA0l7r9hyMbzde) | [Philip Tabane](https://open.spotify.com/artist/3wC1W9e4Ycoji9LEM1MBTa), [Malombo](https://open.spotify.com/artist/4bXWyXENW0qmuSg1Lnkj7q) | [Unh!](https://open.spotify.com/album/3teAF7CtG2q9seDpgiZ9zJ) | 3:33 | 2023-11-01 | 2023-11-17 |
 | [uNongoma](https://open.spotify.com/track/2vcHzKopy1YAUDU074p503) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 6:01 | 2022-06-23 | 2023-02-10 |
 | [uNongoma](https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [uNongoma](https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L) | 6:01 | 2022-06-23 | 2022-11-02 |

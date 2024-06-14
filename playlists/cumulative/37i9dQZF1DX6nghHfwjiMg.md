@@ -4,7 +4,7 @@
 
 > El futuro está acá.
 
-203 songs - 10 hr 25 min
+204 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ayuda](https://open.spotify.com/track/3hUNDQbffsxCE7Jv2CQO5X) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Ayuda](https://open.spotify.com/album/4l4YOX4E5m7WaX9uFri8ST) | 3:57 | 2021-11-11 | 2022-06-27 |
 | [Bailarina](https://open.spotify.com/track/6aKDevkHNVtAXRUVC5aiu3) | [ELDANI](https://open.spotify.com/artist/4XIAIb1ugOy9JfmpeSoUAu) | [Bailarina](https://open.spotify.com/album/1VmIOFc1vgoU4lbZoIApQJ) | 4:04 | 2021-11-11 | 2023-06-02 |
 | [Bambú](https://open.spotify.com/track/0qdcKORnomK1GVPwdTFfZp) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Bambú](https://open.spotify.com/album/7gFnvbdX2Xhag5vd072EAZ) | 2:50 | 2021-11-11 | 2023-06-02 |
-| [Basurita en el ojo](https://open.spotify.com/track/6QZfX9AKTf6omMOEFewhTg) | [Malparidas](https://open.spotify.com/artist/1q5t9mGHyr95S1CRO8y499) | [Basurita en el ojo](https://open.spotify.com/album/5Sl1QdI0BWFQ1kOXcwk7PK) | 3:20 | 2024-05-07 |  |
+| [Basurita en el ojo](https://open.spotify.com/track/6QZfX9AKTf6omMOEFewhTg) | [Malparidas](https://open.spotify.com/artist/1q5t9mGHyr95S1CRO8y499) | [Basurita en el ojo](https://open.spotify.com/album/5Sl1QdI0BWFQ1kOXcwk7PK) | 3:20 | 2024-05-07 | 2024-06-14 |
 | [beso francés](https://open.spotify.com/track/3i2DjDgANCP3DjG0WxGNG5) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [beso francés](https://open.spotify.com/album/6HQv2j8lOELD9K7s240BwP) | 2:38 | 2023-06-01 | 2024-05-08 |
 | [Big Cut](https://open.spotify.com/track/7pin8wDLL57efEYLvOpAAS) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Big Cut](https://open.spotify.com/album/2bHX5Y6PPg1cdgA0JTVZ5j) | 3:14 | 2021-11-11 | 2022-06-27 |
 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 | 2023-06-01 | 2024-05-08 |
@@ -91,6 +91,7 @@
 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 | 2022-06-27 | 2023-06-02 |
 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 | 2021-11-11 | 2023-06-02 |
 | [HOY](https://open.spotify.com/track/7D7CiwAGCkGi9sQYyCLhxh) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [HOY](https://open.spotify.com/album/4SGFF2gxXah8wjZNrJiZJK) | 2:57 | 2024-05-23 |  |
+| [Hoy la Vi Pasar](https://open.spotify.com/track/4WasABXajErjSXV26hlh8G) | [KINGTO](https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ), [Dj Ronel](https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT) | [Hoy la Vi Pasar](https://open.spotify.com/album/5uvc1XzHwrsCIyU2gT49LT) | 2:18 | 2024-06-13 |  |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2021-11-11 | 2022-08-05 |
 | [I Wanna Do](https://open.spotify.com/track/06LWXvlG664lAfQ3N8WRXV) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [I Wanna Do](https://open.spotify.com/album/5nUXsB6JlORX1kE77OAfy1) | 1:50 | 2023-06-01 | 2023-08-24 |
 | [Iguales](https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Iguales](https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw) | 2:19 | 2024-05-03 |  |

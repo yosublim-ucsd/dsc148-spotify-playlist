@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 ### [Love Island USA Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXabZmhTI9fOC)
 
-> Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
+> Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,648 likes - 23 songs - 1 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,683 likes - 23 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 22 | [Who's Gonna Drown Tonight \(Shots!\)](https://open.spotify.com/track/617KQcTtASIT7W9PTI5Exn) | [Mad Circuit](https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u) | [Who's Gonna Drown Tonight \(Shots!\)](https://open.spotify.com/album/0qODMAoV5LbviBwFabJs0i) | 3:47 |
 | 23 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
 
-Snapshot ID: `ZmpEkAAAAADzBmlxENat0jnG1+/y5C5Y`
+Snapshot ID: `Zmsw4gAAAACUi3yJ8tmaJppLIcJOPnVd`

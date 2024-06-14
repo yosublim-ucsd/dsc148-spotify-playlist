@@ -1,6 +1,6 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 14127,
+  "num_followers": 14137,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Plenty Good Room",
+        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
+      },
+      "artists": [
+        {
+          "name": "Lynda Randle",
+          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Plenty Good Room",
+      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "You Are More",
         "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Plenty Good Room",
-        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
-      },
-      "artists": [
-        {
-          "name": "Lynda Randle",
-          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Plenty Good Room",
-      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Songs for the Times",
         "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 224746,
       "name": "Peace in Trusting",
       "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -363,6 +347,22 @@
       "duration_ms": 247500,
       "name": "Let the Rain Wash Your Troubles Away",
       "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
+      },
+      "artists": [
+        {
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "2: 22",
-        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
-      },
-      "artists": [
-        {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Future Glory",
-      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Thief In The Night",
         "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 247066,
       "name": "Thief in the Night",
       "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "2: 22",
+        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Future Glory",
+      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 241109,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "McKamey Legacy",
         "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 157000,
       "name": "God is Still Good",
       "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "On Jordan's Stormy Banks",
+        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "On Jordan's Stormy Banks",
+      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "On Jordan's Stormy Banks",
-        "url": "https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
       },
       "artists": [
         {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
         }
       ],
-      "duration_ms": 276000,
-      "name": "On Jordan's Stormy Banks",
-      "url": "https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW"
+      "duration_ms": 241109,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
-      },
-      "artists": [
-        {
-          "name": "The Singing Contractors",
-          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "He Touched Me",
-      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 208010,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
+      },
+      "artists": [
+        {
+          "name": "The Singing Contractors",
+          "url": "https://open.spotify.com/artist/4hmbdZT6ZOW75JtSd2Cz6u"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "He Touched Me",
+      "url": "https://open.spotify.com/track/7cLgjwoaU3R56Y6xGBCJok"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Don't Belong",
-        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 202000,
       "name": "How Good the Good News Feels",
       "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "I Don't Belong",
+        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/4Qn9PcrJMAOpnA1KPAm1Uw"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6ZqGAT5dZXT3wV0pc5NPRo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Every Story Whispers His Name",
         "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 235000,
       "name": "Every Story Whispers His Name",
       "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/4Qn9PcrJMAOpnA1KPAm1Uw"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6ZqGAT5dZXT3wV0pc5NPRo"
     },
     {
       "added_at": "2023-04-14 06:27:38",

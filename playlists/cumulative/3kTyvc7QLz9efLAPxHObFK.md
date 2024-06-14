@@ -4,7 +4,7 @@
 
 > 
 
-1,446 songs - 3 day 7 hr 0 min
+1,449 songs - 3 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Atomic Blonde](https://open.spotify.com/track/3nNPqld2EyelnwgIxUkBQa) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Atomic Blonde](https://open.spotify.com/album/6g6mX5q9LHgG8USQAmR24C) | 3:31 | 2022-11-21 |  |
 | [B With U](https://open.spotify.com/track/7qnvfsrFoh8u8lYBo3yu42) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:16 | 2023-07-14 |  |
 | [B.O.S.S](https://open.spotify.com/track/59psh65ztPNRcMIGa6WeXF) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [B.O.S.S](https://open.spotify.com/album/14I4HbCc1s2Z2RdWuiJ7Ou) | 3:00 | 2023-09-11 |  |
+| [Back 2 Basics](https://open.spotify.com/track/5BYKuKhY5rIyBRUwZ76dQG) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka) | [Into The Summer Vol\. 2](https://open.spotify.com/album/15Go8avFuIedSr9PSo1xYA) | 2:19 | 2024-06-13 |  |
 | [Back 2 Reality](https://open.spotify.com/track/7qOvQeqhKUJaYNld0GOpTV) | [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG) | [Retroviral](https://open.spotify.com/album/3DWvjZTEkelWfnsf7tqgZ8) | 5:41 | 2022-11-29 |  |
 | [Back 2 The Rave](https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Back 2 The Rave](https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8) | 2:44 | 2024-05-17 |  |
 | [Back In Time](https://open.spotify.com/track/3hIXN7IDWoaDYd7UviYFQc) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Angelika](https://open.spotify.com/artist/7nJhHcPyoIb3fZ61dLzLP7) | [Simulation \(Deluxe Version\)](https://open.spotify.com/album/7x1dKpDdQLwqpE6XoGFxT9) | 4:45 | 2022-05-31 |  |
@@ -1168,6 +1169,7 @@
 | [Subs](https://open.spotify.com/track/1NSnohQTrSZpCKCuHsTX2r) | [Tryptid](https://open.spotify.com/artist/6nSI6ZooFQFwXPlUnpqXPs), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Subs](https://open.spotify.com/album/5PDX0IEqL4DYKNSKW6RBMO) | 3:10 | 2024-04-22 |  |
 | [Sugar Daddy](https://open.spotify.com/track/562wxG0VqBaQdjwTNi24Lu) | [Mr\. Bassmeister](https://open.spotify.com/artist/5aT7fqsgVA5IKJHtkfpPDw) | [Sugar Daddy](https://open.spotify.com/album/233cyjdSMcF37MNJ038Sv5) | 4:28 | 2022-11-29 |  |
 | [suki.](https://open.spotify.com/track/369NWAhSd63ZsjB7J3Otjo) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB), [Haruno](https://open.spotify.com/artist/0mVFbXDUq3IzLcmWUIMzY3) | [MiraclePop Adventure!!!!!](https://open.spotify.com/album/6mQrXsjzpgMyGIg5KSHU7T) | 2:58 | 2023-05-20 |  |
+| [Summer Dream Of Love](https://open.spotify.com/track/0MVE9HTEIXWG7igtwzcoUM) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Summer Dream Of Love](https://open.spotify.com/album/2YDuCid6amS8XgedMk0Mxt) | 2:10 | 2024-06-13 |  |
 | [Summer Love](https://open.spotify.com/track/7JKJ7EkALFmlswEnEWeLb0) | [Eraized](https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Summer Love](https://open.spotify.com/album/4QBrC50EO88bYnKcI755Hs) | 3:12 | 2024-04-26 |  |
 | [Summer Secrets](https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [Summer Secrets](https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6) | 3:17 | 2023-04-21 |  |
 | [Summer SZN](https://open.spotify.com/track/4UtWFn5sFfQUT8xbYbjTwU) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [Summer SZN](https://open.spotify.com/album/7LkbdAPrjF6WZocfiVxqCm) | 2:53 | 2024-04-05 |  |
@@ -1263,6 +1265,7 @@
 | [This Dream \- Fracus Remix](https://open.spotify.com/track/1gDEWrAY3q6cBqpkYjGwjx) | [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW), [Fracus](https://open.spotify.com/artist/2YfwTOT9y032E2VXJ8LUuZ) | [This Dream \(Fracus Remix\)](https://open.spotify.com/album/1CFzx9ngGeQC9ZEetum7cv) | 4:56 | 2022-04-04 |  |
 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 | 2023-12-26 |  |
 | [This Is A FKN Banger](https://open.spotify.com/track/3a3w8duhEE9Ba4H6UYUgfP) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [This Is A FKN Banger](https://open.spotify.com/album/0vxwBQ5ErOk0z30smQTDvI) | 3:19 | 2022-02-17 |  |
+| [This Is Me](https://open.spotify.com/track/1g739Tmal3gzBEILwPO7jX) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [This Is Me](https://open.spotify.com/album/6cSU3K0pBZkodnK4ItpI29) | 4:26 | 2024-06-13 |  |
 | [This Is My Way](https://open.spotify.com/track/04TijUX8dZlWIf79sfcIUC) | [Physika](https://open.spotify.com/artist/52NpY0nQvHw021b9j9Ke3y), [Resolute](https://open.spotify.com/artist/5fFksTMKtJhMXaf9OXUOfD), [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [This Is My Way](https://open.spotify.com/album/3FCzZsKmnXemFYweWzNVjC) | 3:13 | 2023-04-21 |  |
 | [This Is Noise](https://open.spotify.com/track/6B6R7Ms3UnkWqQPdFFV79o) | [BPM BUNNY](https://open.spotify.com/artist/6HnXeGWhLv6Q3XCvdVpary) | [This Is Noise](https://open.spotify.com/album/42Kb87Bp65ZEQ9MsTrhnhz) | 3:27 | 2023-06-26 |  |
 | [This Is The Future \- Extended Mix](https://open.spotify.com/track/3FxwPRiz0qg9j4iGTIBHNx) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Renstar](https://open.spotify.com/artist/2o550H0aKeB2p0uH9axLLx) | [This Is The Future](https://open.spotify.com/album/4hkhJ7fbx5uKndWJytVlPT) | 4:20 | 2022-12-22 |  |

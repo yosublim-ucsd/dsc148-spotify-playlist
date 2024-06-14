@@ -6740,7 +6740,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 211017,
       "name": "Skree",
       "url": "https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV"
@@ -7838,6 +7838,24 @@
       "duration_ms": 140103,
       "name": "Thinking Too Hard",
       "url": "https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ"
+    },
+    {
+      "album": {
+        "name": "This Town",
+        "url": "https://open.spotify.com/album/5XyLb6Wq8vR3v9fYQhI6ri"
+      },
+      "artists": [
+        {
+          "name": "Watershed",
+          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+        }
+      ],
+      "date_added": "2024-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273442,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/3I6RQjbPm767x1SfvTL1GY"
     },
     {
       "album": {

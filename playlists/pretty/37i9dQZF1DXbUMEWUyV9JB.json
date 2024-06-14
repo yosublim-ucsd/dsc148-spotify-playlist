@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Nicki Nicole",
-  "num_followers": 272724,
+  "num_followers": 272737,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
+        "url": "https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh"
+      },
+      "artists": [
+        {
+          "name": "Fany y sus Tropicales",
+          "url": "https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393"
+        }
+      ],
+      "duration_ms": 191162,
+      "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
+      "url": "https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
-        "url": "https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh"
-      },
-      "artists": [
-        {
-          "name": "Fany y sus Tropicales",
-          "url": "https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393"
-        }
-      ],
-      "duration_ms": 191162,
-      "name": "M\u00e1scara (Soundtrack de la Pel\u00edcula \u201cEL HALC\u00d3N\")",
-      "url": "https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
-        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
       "artists": [
         {
-          "name": "Perla Colombiana",
-          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "duration_ms": 218853,
-      "name": "Agua de vida",
-      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
+      "duration_ms": 243457,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
+        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
+        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+          "name": "Perla Colombiana",
+          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
         }
       ],
-      "duration_ms": 243457,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
+      "duration_ms": 218853,
+      "name": "Agua de vida",
+      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
     },
     {
       "added_at": "2024-05-17 04:00:00",

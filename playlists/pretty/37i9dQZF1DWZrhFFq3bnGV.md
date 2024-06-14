@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Tompi
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,261 likes - 88 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,282 likes - 88 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 87 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 |
 | 88 | [Pengungkapan Hatimu Feat\. Andien](https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d) | [Candra Darusman](https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt) | [Pengungkapan Hatimu](https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf) | 3:56 |
 
-Snapshot ID: `ZmHpwQAAAAAwLa9wpXeNp/w9cDPBI+af`
+Snapshot ID: `ZmsrFQAAAABfuRIOjOWz4YXZqGgN0BAo`

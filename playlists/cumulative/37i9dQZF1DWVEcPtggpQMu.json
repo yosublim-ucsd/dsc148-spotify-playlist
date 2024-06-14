@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz?si=LL8Ok8uCS9SMSeTMKBleBA\">Espiquet</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU?si=hm3zArY2RUqP9Xd0KDTkNQ\">ZuluMecca</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -448,6 +448,28 @@
       "duration_ms": 232320,
       "name": "Abada Capoeira",
       "url": "https://open.spotify.com/track/6HXbeLz73RNj4TCHed7D4v"
+    },
+    {
+      "album": {
+        "name": "Abekho",
+        "url": "https://open.spotify.com/album/3BMX6pWfzzS6PCKvaDYFVu"
+      },
+      "artists": [
+        {
+          "name": "Sonwabile",
+          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Abekho",
+      "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
     },
     {
       "album": {
@@ -1858,7 +1880,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 128267,
       "name": "BIG DAWG",
       "url": "https://open.spotify.com/track/7pTBMsn72jgNhvpOCsJfST"
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 182005,
       "name": "Burlesque",
       "url": "https://open.spotify.com/track/1XjXdjZMUZkhMxV2YohsfW"
@@ -5148,8 +5170,8 @@
           "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
         },
         {
-          "name": "uSimamane",
-          "url": "https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih"
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
         }
       ],
       "date_added": "2024-03-07",
@@ -6639,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "SEAMS.",
+        "url": "https://open.spotify.com/album/7nH0y4NPxC4EX8ZHFfjxwN"
+      },
+      "artists": [
+        {
+          "name": "ZuluMecca",
+          "url": "https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169457,
+      "name": "Iller Than",
+      "url": "https://open.spotify.com/track/4knUyn0BwHlm3gJkoK5rVV"
+    },
+    {
+      "album": {
         "name": "WAVES NEVER DIE",
         "url": "https://open.spotify.com/album/4fIpd7Ct0PeRCUqym2KCKL"
       },
@@ -8124,8 +8164,8 @@
           "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
         },
         {
-          "name": "uSimamane",
-          "url": "https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih"
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
         }
       ],
       "date_added": "2024-06-06",
@@ -12140,7 +12180,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 152105,
       "name": "Seams",
       "url": "https://open.spotify.com/track/4FbeVPzrurs677Tx1L3Rd2"

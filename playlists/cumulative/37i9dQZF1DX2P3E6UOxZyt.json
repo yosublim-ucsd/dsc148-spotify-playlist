@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: Tyson Yoshi",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u6f54\u5fc3",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156416,
       "name": "3am - Demo Ver.",
       "url": "https://open.spotify.com/track/7u8RM7nUKUk93CYsEp8Krr"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 203555,
       "name": "Could Say",
       "url": "https://open.spotify.com/track/5qQNqnKAxjG60Dt8Iv4c4m"
@@ -722,6 +722,28 @@
       "duration_ms": 140487,
       "name": "Devil",
       "url": "https://open.spotify.com/track/0n7Y53LDvyDgmsLpxe1I8x"
+    },
+    {
+      "album": {
+        "name": "DIE FOR YOU feat. FEniX",
+        "url": "https://open.spotify.com/album/1WG1hu3F4szsq90ceZPSpI"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        },
+        {
+          "name": "FEniX",
+          "url": "https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207123,
+      "name": "DIE FOR YOU feat. FEniX",
+      "url": "https://open.spotify.com/track/6lEgJnYGEGu5l0ihRU8pq1"
     },
     {
       "album": {
@@ -1566,6 +1588,28 @@
       "duration_ms": 246315,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu"
+    },
+    {
+      "album": {
+        "name": "Hold on",
+        "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180121,
+      "name": "Hold on",
+      "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
     },
     {
       "album": {
@@ -3454,7 +3498,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 173793,
       "name": "The Same Title \u72d7\u8840",
       "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
@@ -3962,7 +4006,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 163263,
       "name": "Yellow Hoodie \u9ec3\u8272\u5e3d\u8e22 feat. \u6591\u6bd4Bambii",
       "url": "https://open.spotify.com/track/6LlUQCMpwWbDgnez3VXZPF"
@@ -5518,7 +5562,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 203500,
       "name": "\u5496\u5561\u6c24",
       "url": "https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3"
@@ -7312,7 +7356,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 105552,
       "name": "\u6230\u65d7",
       "url": "https://open.spotify.com/track/7DQ8CaB50mUptBCRzPgnfW"
@@ -8287,6 +8331,28 @@
     },
     {
       "album": {
+        "name": "\u5496\u5561\u6c24",
+        "url": "https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        },
+        {
+          "name": "\u5433\u737b Osean",
+          "url": "https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "\u6c99\u9f8d (feat.\u5433\u737b Osean)",
+      "url": "https://open.spotify.com/track/2F8GUP7I5NEz2nxRr8OFlH"
+    },
+    {
+      "album": {
         "name": "\u6d6a\u8cbb\u6642\u9593",
         "url": "https://open.spotify.com/album/3CSze05DeS7ElFA5ppOcNP"
       },
@@ -9239,6 +9305,24 @@
     },
     {
       "album": {
+        "name": "Fly Machine",
+        "url": "https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "\u7de9\u7de9",
+      "url": "https://open.spotify.com/track/3aQwzPFgzLgjoPfguQWNFJ"
+    },
+    {
+      "album": {
         "name": "\u7e5e\u4e86\u9019\u9ebc\u5927\u4e00\u5708",
         "url": "https://open.spotify.com/album/4VUsmsitdCoirtTa5wHKKm"
       },
@@ -9290,6 +9374,24 @@
       "duration_ms": 144000,
       "name": "\u7f8e",
       "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
+    },
+    {
+      "album": {
+        "name": "\u7ffc",
+        "url": "https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167344,
+      "name": "\u7ffc",
+      "url": "https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH"
     },
     {
       "album": {
@@ -10098,7 +10200,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 248571,
       "name": "\u9059\u671b\u540c\u4e00\u7247\u85cd\u5929",
       "url": "https://open.spotify.com/track/6tDww1oX8uM0c3xk32dhEn"

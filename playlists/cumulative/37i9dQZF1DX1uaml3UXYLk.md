@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-600 songs - 1 day 13 hr 5 min
+602 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Doliing](https://open.spotify.com/track/0psCXzD0edhxVFv8oiK6YY) | [GVNN](https://open.spotify.com/artist/0zXUbyiI3f7ZkCjBtDh2fV) | [SAKKYA EP](https://open.spotify.com/album/2WEBSGLnvi8EjZuenG9b5F) | 4:18 | 2020-10-20\* | 2021-06-23 |
 | [don't forget to breathe today](https://open.spotify.com/track/42OnKZr9ER2N7s0NmHR4uJ) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/1BRafvEKAnPecKRgHs2bO4) | 4:07 | 2020-10-20\* | 2021-02-12 |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2021-02-20 | 2021-06-23 |
+| [Dreaming Together](https://open.spotify.com/track/3yJCxQ784xrtePvpP2WK2n) | [8twenty](https://open.spotify.com/artist/5jEjyjwDtaXITcEPJx7rWg) | [Dreaming Together](https://open.spotify.com/album/1giw5Jk7PSNu9or9oSMJWR) | 2:14 | 2024-06-13 |  |
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2021-08-25 |  |
 | [Drifting \(Edit\)](https://open.spotify.com/track/3Sy6mmSYekNoXDbJFW0WyS) | [Deep Desire](https://open.spotify.com/artist/7lIrPS556FjId5C35oO5If) | [Drifting \(Edit\)](https://open.spotify.com/album/5wJRGJBVZ2Yo2Q7mqxjGwR) | 3:25 | 2020-10-20\* | 2021-01-29 |
 | [Drifting Birds](https://open.spotify.com/track/5nOth6ffzv6CJoz1Uo2G0u) | [Marcelo Paladini](https://open.spotify.com/artist/25BgfscpzfJH0pk8VR0jkx) | [Drifting Birds](https://open.spotify.com/album/7CckFa2hnZAMN9wIuxuE4O) | 7:35 | 2021-02-12 | 2021-06-04 |
@@ -394,6 +395,7 @@
 | [play my mix](https://open.spotify.com/track/4OlUclPAIGIgHEjOD2OpK4) | [D\-Scartes](https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3) | [play my mix](https://open.spotify.com/album/1AJQz8QcUjOhlwqw4QrpY6) | 2:50 | 2023-06-19 |  |
 | [playful mornings](https://open.spotify.com/track/3uv361D1ptOIZT0YfKvePd) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [playful mornings](https://open.spotify.com/album/2ZCYylSfAL4Dpu57cA5Y6Z) | 2:14 | 2022-10-14 |  |
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
+| [Plush Velvet Vibes](https://open.spotify.com/track/3WTyFCHsp6FE2XsTMw5lmq) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Plush Velvet Vibes](https://open.spotify.com/album/6KMd5EpQUdJPyCTt3blMND) | 2:42 | 2024-06-13 |  |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-12 | 2022-02-11 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-08-25 |  |
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-02-10 | 2023-02-04 |

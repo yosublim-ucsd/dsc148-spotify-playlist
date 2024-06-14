@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 88737,
       "name": "4EvR",
       "url": "https://open.spotify.com/track/7gEtSGK5PaKgh0gbT1oEXz"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 188453,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
@@ -532,6 +532,24 @@
       "duration_ms": 159686,
       "name": "Deh!",
       "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
+    },
+    {
+      "album": {
+        "name": "Denero",
+        "url": "https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144300,
+      "name": "Denero",
+      "url": "https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ"
     },
     {
       "album": {
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 128261,
       "name": "Klaar Praat",
       "url": "https://open.spotify.com/track/6knLuTcyJUQHrQCM74FqQI"
@@ -1758,6 +1776,28 @@
       "duration_ms": 167294,
       "name": "My Ways",
       "url": "https://open.spotify.com/track/2hGvyLjMCgVSMgBt69gsLB"
+    },
+    {
+      "album": {
+        "name": "Need Her",
+        "url": "https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A"
+      },
+      "artists": [
+        {
+          "name": "Don Capo",
+          "url": "https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF"
+        },
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107412,
+      "name": "Need Her",
+      "url": "https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq"
     },
     {
       "album": {
@@ -2648,7 +2688,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 142863,
       "name": "Wat Ek Moet Doen",
       "url": "https://open.spotify.com/track/0xiM7s7YsjtNNjVLYiBVti"

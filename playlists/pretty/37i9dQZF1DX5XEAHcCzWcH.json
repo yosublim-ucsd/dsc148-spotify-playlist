@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 37466,
+  "num_followers": 37494,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -267,8 +267,8 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K"
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d"
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Good Candy",
-        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
-      },
-      "artists": [
-        {
-          "name": "Lovie Lee",
-          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
-        }
-      ],
-      "duration_ms": 392600,
-      "name": "West Side Woman",
-      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Harlem Blues Operator",
         "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 150333,
       "name": "I Love My Baby",
       "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Good Candy",
+        "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
+      },
+      "artists": [
+        {
+          "name": "Lovie Lee",
+          "url": "https://open.spotify.com/artist/6cOz9TMiL8lfsFoWkxvqKM"
+        }
+      ],
+      "duration_ms": 392600,
+      "name": "West Side Woman",
+      "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "I Feel Like Steppin' Out",
-        "url": "https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24"
-      },
-      "artists": [
-        {
-          "name": "The Big Three Trio",
-          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
-        }
-      ],
-      "duration_ms": 151066,
-      "name": "I'll Be Right Some Day",
-      "url": "https://open.spotify.com/track/450ntCsziNbzNGYOU6hadR"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "This Is the Blues! Vol. 7 (Mono Version)",
         "url": "https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 192011,
       "name": "Me and My Gin",
       "url": "https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "I Feel Like Steppin' Out",
+        "url": "https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24"
+      },
+      "artists": [
+        {
+          "name": "The Big Three Trio",
+          "url": "https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY"
+        }
+      ],
+      "duration_ms": 151066,
+      "name": "I'll Be Right Some Day",
+      "url": "https://open.spotify.com/track/450ntCsziNbzNGYOU6hadR"
     },
     {
       "added_at": "2024-05-30 16:22:42",

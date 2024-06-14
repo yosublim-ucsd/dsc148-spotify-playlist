@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,908 likes - 66 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,917 likes - 66 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0OFelDHUJP.md) - [plain]
 | 65 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 66 | [Parey](https://open.spotify.com/track/1BObV7e3Lh1Rq4sDB40SFc) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Urooj](https://open.spotify.com/album/0N0gibm8oNYXGgMlGYLDWa) | 6:45 |
 
-Snapshot ID: `ZlQqiAAAAABJrBhmzw5SuNyWqHoy3RL7`
+Snapshot ID: `ZmriRQAAAACB6StkuW+g9rkNjk5OAV4y`

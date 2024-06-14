@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 170916,
       "name": "afterthought",
       "url": "https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 134000,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3uGQySa7xVW4pNGuKrYixA"
@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "By The Fire",
+        "url": "https://open.spotify.com/album/5BbRkFN5Sl4vkVmg360kYj"
+      },
+      "artists": [
+        {
+          "name": "Osian Lewis",
+          "url": "https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126145,
+      "name": "By The Fire",
+      "url": "https://open.spotify.com/track/4hwTRGAbGxaxqlOugDcQlF"
+    },
+    {
+      "album": {
         "name": "CALL ME WHEN YOU GET HOME",
         "url": "https://open.spotify.com/album/3swXcNPaC4SjMijAPWtUUp"
       },
@@ -1640,6 +1658,28 @@
       "duration_ms": 121600,
       "name": "Clear sky",
       "url": "https://open.spotify.com/track/29JeO29PvNVtPSJY9T74N1"
+    },
+    {
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/42eUMCvDYNJtIQNVqsb258"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        },
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143793,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7wmxD9bzkY7sFWWyZfXGI9"
     },
     {
       "album": {
@@ -3975,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Inhale",
+        "url": "https://open.spotify.com/album/2bptiy003t4TOd5jrqJpFq"
+      },
+      "artists": [
+        {
+          "name": "Convivial",
+          "url": "https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Inhale",
+      "url": "https://open.spotify.com/track/5QCuYFsOj6dBbBFlH3o5JH"
+    },
+    {
+      "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/0WtsqKU0xd0pGneYY57SYT"
       },
@@ -4116,7 +4174,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 103549,
       "name": "keep me waiting",
       "url": "https://open.spotify.com/track/4aYNLaGrC49TIf59hDFxGQ"
@@ -4196,6 +4254,24 @@
       "duration_ms": 142909,
       "name": "Lake of Time",
       "url": "https://open.spotify.com/track/7HiXppm6M9RtJCdx5jMHNL"
+    },
+    {
+      "album": {
+        "name": "Large Space",
+        "url": "https://open.spotify.com/album/2EU2RSEnUh0TLxwvgr4UTf"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Large Space",
+      "url": "https://open.spotify.com/track/25ZDOwJzvJzkWW1uDwec1Q"
     },
     {
       "album": {
@@ -4802,7 +4878,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 147750,
       "name": "Lustrous",
       "url": "https://open.spotify.com/track/7wm5VRPlO06uFdn3DMcLbB"
@@ -5244,7 +5320,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 115171,
       "name": "Mon Fr\u00e9re",
       "url": "https://open.spotify.com/track/6v1M5ZiUaLjYyaJaonKUKM"
@@ -6831,6 +6907,24 @@
     },
     {
       "album": {
+        "name": "roaming roads",
+        "url": "https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156416,
+      "name": "roaming roads",
+      "url": "https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W"
+    },
+    {
+      "album": {
         "name": "Rosso",
         "url": "https://open.spotify.com/album/0VBXpCv2RP6ekq7rtGpX7w"
       },
@@ -6950,10 +7044,28 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 168897,
       "name": "Sakura Serenade",
       "url": "https://open.spotify.com/track/2laVBOr9jH2WskG9NJH7Ua"
+    },
+    {
+      "album": {
+        "name": "sanguine",
+        "url": "https://open.spotify.com/album/2zdJu1QoPITYGs5oLQjuFF"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176738,
+      "name": "sanguine",
+      "url": "https://open.spotify.com/track/1NP8gqHT7OWNqp7n7nRgeR"
     },
     {
       "album": {
@@ -7180,6 +7292,24 @@
       "duration_ms": 126153,
       "name": "Seseh Spirit",
       "url": "https://open.spotify.com/track/6eRP8s0naeeB2GWQKlRcBN"
+    },
+    {
+      "album": {
+        "name": "Settled",
+        "url": "https://open.spotify.com/album/7lCaMBOXfh8weXwNdTj1xN"
+      },
+      "artists": [
+        {
+          "name": "Trish Lupin",
+          "url": "https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146710,
+      "name": "Settled",
+      "url": "https://open.spotify.com/track/1SVkPLPmDmA7BCGRmMVmfg"
     },
     {
       "album": {
@@ -8977,6 +9107,24 @@
     },
     {
       "album": {
+        "name": "Under the Moon",
+        "url": "https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT"
+      },
+      "artists": [
+        {
+          "name": "Tropicolor",
+          "url": "https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Under the Moon",
+      "url": "https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ"
+    },
+    {
+      "album": {
         "name": "Under The Tree",
         "url": "https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn"
       },
@@ -9488,6 +9636,24 @@
       "duration_ms": 131865,
       "name": "Whisked Away",
       "url": "https://open.spotify.com/track/5jwTYWN7SPXY0jfOUYdBKm"
+    },
+    {
+      "album": {
+        "name": "wilson",
+        "url": "https://open.spotify.com/album/2yrpyifHclDRoYm8GqlOLH"
+      },
+      "artists": [
+        {
+          "name": "red cap",
+          "url": "https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141864,
+      "name": "wilson",
+      "url": "https://open.spotify.com/track/1XxyNv8DnI8tWpvK8dEawk"
     },
     {
       "album": {

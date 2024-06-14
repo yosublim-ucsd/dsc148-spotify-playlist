@@ -1,13 +1,101 @@
 {
-  "description": "De nieuwste Nederlandse pop! Cover: Jasha Rudge",
-  "num_followers": 162606,
+  "description": "De nieuwste Nederlandse pop! Cover: Emma Heesters & Rolf Sanchez",
+  "num_followers": 162631,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmgE4gAAAADIeiORpNjIk8McbkEjo2J0",
+  "snapshot_id": "Zmtr4AAAAAAe+VKBEJIKX84ixsbL/gxU",
   "tracks": [
+    {
+      "added_at": "2024-06-13 15:15:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "duration_ms": 174937,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Samen Tegen Elkaar",
+        "url": "https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "duration_ms": 231276,
+      "name": "Slapen",
+      "url": "https://open.spotify.com/track/1qcoBRRqgbmSTHpLbMLo1E"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Wat Er Ook Gebeurt",
+        "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
+      },
+      "artists": [
+        {
+          "name": "Xerxes",
+          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+        }
+      ],
+      "duration_ms": 188614,
+      "name": "Wat Er Ook Gebeurt",
+      "url": "https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "HJB (Stil)",
+        "url": "https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U"
+      },
+      "artists": [
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "duration_ms": 154818,
+      "name": "HJB (Stil)",
+      "url": "https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Hier",
+        "url": "https://open.spotify.com/album/2uQth6Suifi8qSBIUdJIPJ"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "duration_ms": 154789,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/0ARfM8J2uVN3pFojPpQLQ1"
+    },
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
@@ -25,20 +113,20 @@
       "url": "https://open.spotify.com/track/248Ymld7H87hYWNFQjgj1m"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Wat Er Ook Gebeurt",
-        "url": "https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k"
+        "name": "Samen Tegen Elkaar",
+        "url": "https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH"
       },
       "artists": [
         {
-          "name": "Xerxes",
-          "url": "https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS"
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
         }
       ],
-      "duration_ms": 188614,
-      "name": "Wat Er Ook Gebeurt",
-      "url": "https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF"
+      "duration_ms": 203439,
+      "name": "Het Is Voorbij",
+      "url": "https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -99,22 +187,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "HJB (Stil)",
-        "url": "https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U"
-      },
-      "artists": [
-        {
-          "name": "Floris Keijzer",
-          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
-        }
-      ],
-      "duration_ms": 154818,
-      "name": "HJB (Stil)",
-      "url": "https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Duizenden Liedjes",
         "url": "https://open.spotify.com/album/1bSK2iRbbItUOeUAXpxx92"
       },
@@ -127,6 +199,30 @@
       "duration_ms": 186197,
       "name": "Duizenden Liedjes",
       "url": "https://open.spotify.com/track/5LswOlrraI1zmCIposmytK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Mijn Maatje",
+        "url": "https://open.spotify.com/album/6gR54E5NVSH7C4rXEO3Jeu"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        },
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "duration_ms": 187659,
+      "name": "Mijn Maatje",
+      "url": "https://open.spotify.com/track/5mEVzlTler1APbE8ZLvoKu"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -175,6 +271,22 @@
       "duration_ms": 154400,
       "name": "Parler Fran\u00e7ais",
       "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/3vJjfVikvPkGPTBQLMNyu3"
+      },
+      "artists": [
+        {
+          "name": "Haas",
+          "url": "https://open.spotify.com/artist/05Z7qhrpvnTlOAa79NbZii"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/0NgznpNaOSoUx2hYJkly9L"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -343,38 +455,6 @@
       "duration_ms": 188956,
       "name": "Stiekem \u201824",
       "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Luigi",
-        "url": "https://open.spotify.com/album/0pafBW2d51borgq8KW3fZS"
-      },
-      "artists": [
-        {
-          "name": "Maks",
-          "url": "https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI"
-        }
-      ],
-      "duration_ms": 134103,
-      "name": "Luigi",
-      "url": "https://open.spotify.com/track/3wyB86mNbRT2dHO0A6TOan"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/5j1V29MfouuZsRNMPhTzyY"
-      },
-      "artists": [
-        {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
-        }
-      ],
-      "duration_ms": 231894,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/1hG3BvlHR6qaCzq2m7CPHH"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -631,22 +711,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja"
-      },
-      "artists": [
-        {
-          "name": "IOS",
-          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
-        }
-      ],
-      "duration_ms": 200735,
-      "name": "Samen",
-      "url": "https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Groot",
         "url": "https://open.spotify.com/album/30XILWVpjQrkUK83Phv7h4"
       },
@@ -679,22 +743,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Tovenares",
-        "url": "https://open.spotify.com/album/1MQx7zeKdMK21P3bOHtRGp"
-      },
-      "artists": [
-        {
-          "name": "Matz Voskamp",
-          "url": "https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd"
-        }
-      ],
-      "duration_ms": 125115,
-      "name": "Tovenares",
-      "url": "https://open.spotify.com/track/1vmrXE4E7aTfsCczRVDOXB"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Juice Voor Je Ziel",
         "url": "https://open.spotify.com/album/58om4xOUZjb2DfY04YTjuc"
       },
@@ -707,22 +755,6 @@
       "duration_ms": 218575,
       "name": "Juice Voor Je Ziel",
       "url": "https://open.spotify.com/track/7vLUqQuhAyNsXgwYRZsBLy"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Adem In, Adem Uit",
-        "url": "https://open.spotify.com/album/5Nufsh4togaizijSgMIW7X"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Adem In, Adem Uit",
-      "url": "https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -991,38 +1023,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Je Hebt Me",
-        "url": "https://open.spotify.com/album/2yi7y3OKpF8ckliYQJjbDG"
-      },
-      "artists": [
-        {
-          "name": "Delany",
-          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
-        }
-      ],
-      "duration_ms": 172689,
-      "name": "Je Hebt Me",
-      "url": "https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ"
-      },
-      "artists": [
-        {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Dromers Slapen Niet",
         "url": "https://open.spotify.com/album/7hD0o6qizBV3vivCFNHvqD"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 147518,
       "name": "Huilen In De Bioscoop",
       "url": "https://open.spotify.com/track/0dYQzM1CKG4OVZmdm08rv8"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Soms gaat de tijd zo snel",
-        "url": "https://open.spotify.com/album/2anvye5Ul8HSsufVusk8zQ"
-      },
-      "artists": [
-        {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH"
-        }
-      ],
-      "duration_ms": 175110,
-      "name": "Soms gaat de tijd zo snel",
-      "url": "https://open.spotify.com/track/3o20NBEBiwh7xB5ByLHzNh"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -1203,54 +1187,6 @@
       "duration_ms": 160975,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5A8S6jJRIeFjMHFQ66Opr7"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Zeg Niks",
-        "url": "https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3"
-      },
-      "artists": [
-        {
-          "name": "Glennis Grace",
-          "url": "https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h"
-        }
-      ],
-      "duration_ms": 193415,
-      "name": "Zeg Niks",
-      "url": "https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Incognito",
-        "url": "https://open.spotify.com/album/3c7BaxiV0tzo4VfYaiZXYP"
-      },
-      "artists": [
-        {
-          "name": "TOMMY",
-          "url": "https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM"
-        }
-      ],
-      "duration_ms": 130754,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/2ec9C3JxRSpZDk8vnBM6VX"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Tweeling",
-        "url": "https://open.spotify.com/album/2SoOLLKqw2N5JUXn0UGsaX"
-      },
-      "artists": [
-        {
-          "name": "Stenfert",
-          "url": "https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8"
-        }
-      ],
-      "duration_ms": 150384,
-      "name": "Tweeling",
-      "url": "https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV"
     }
   ],
   "unique_name": "Je Moerstaal",

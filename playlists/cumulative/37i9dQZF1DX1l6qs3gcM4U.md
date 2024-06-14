@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Neyna
+> Fall in love with the sensual sounds of Kizomba! Cover: Dynamo, Denis Graça
 
-378 songs - 22 hr 27 min
+379 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Fica Mais Um Pouco](https://open.spotify.com/track/0BKlD2EIkCiMFCaAkaMfdd) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm) | [Fica Mais Um Pouco](https://open.spotify.com/album/1sBE475AcbCUYyP7QHud24) | 3:27 | 2022-12-16 | 2023-01-05 |
 | [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 | 2021-12-10 |  |
 | [Filha de General](https://open.spotify.com/track/04B8MMpJTrHzlvVVX30F5J) | [Weynner Lucas](https://open.spotify.com/artist/1H0PVaIF0j0RA72rApTvEq) | [Filha de General](https://open.spotify.com/album/6Bwwmpzq6m8RBDTXAiHhEx) | 3:10 | 2022-03-25 | 2022-04-15 |
+| [Fim do Mundo](https://open.spotify.com/track/3Bl1FqkyVJLp1QH4hd3Ly4) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Denis Graça](https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV) | [Fim do Mundo](https://open.spotify.com/album/3Djqo8MIXcu1wt13fedq8Y) | 3:24 | 2024-06-13 |  |
 | [Fininho](https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q) | [Filomena Maricoa](https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG) | [Resiliência](https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7) | 2:59 | 2021-12-10 | 2022-01-25 |
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-03-25 | 2022-04-20 |
 | [FORTI SO DA DI](https://open.spotify.com/track/26PYN8A18eUNXJw0BSWHJT) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [COCKTAIL](https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN) | 2:54 | 2023-10-26 | 2023-11-17 |
@@ -320,7 +321,7 @@
 | [Soulmate](https://open.spotify.com/track/75wx16w6wsRycn3BlXgBGi) | [Kasno](https://open.spotify.com/artist/1ukTxtURiUr8T0MhVJAxeB) | [Soulmate](https://open.spotify.com/album/33kIoOZDcVSoeZmDa2nuKY) | 2:53 | 2022-03-11 | 2022-04-20 |
 | [Sozinha Comigo](https://open.spotify.com/track/0Brl3FrVHMVQQWGenhMNgX) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Paerl](https://open.spotify.com/artist/2lo3Dku8TMdoRCQS3NEUbz), [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2) | [Sozinha Comigo](https://open.spotify.com/album/64Q6PKNmPCLW7eunei5Cf5) | 3:51 | 2021-12-10 | 2022-07-29 |
 | [Spadja Pé](https://open.spotify.com/track/77GqJV1VlOmOYuiKKOsSR1) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Spadja Pé](https://open.spotify.com/album/44eEnwTHqdpyDswxubqcWn) | 3:26 | 2022-12-09 | 2023-02-10 |
-| [Special](https://open.spotify.com/track/3ebbm6tt4dalmeHyp3C5QI) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA) | [Special](https://open.spotify.com/album/1JPzuJooF32x2yFtY4h2o4) | 2:19 | 2024-06-06 |  |
+| [Special](https://open.spotify.com/track/3ebbm6tt4dalmeHyp3C5QI) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA) | [Special](https://open.spotify.com/album/1JPzuJooF32x2yFtY4h2o4) | 2:19 | 2024-06-06 | 2024-06-14 |
 | [Sufri](https://open.spotify.com/track/1vd6txAL5vKVC0E4coywI4) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Sufri](https://open.spotify.com/album/4VAr6Sgblk74GHpakDjZuq) | 3:15 | 2022-02-18 | 2022-05-14 |
 | [Suleban](https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [RED](https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff) | 3:20 | 2021-12-10 |  |
 | [Super Mulher](https://open.spotify.com/track/4huF3o48HSf9nBBEiroPKu) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Super Mulher](https://open.spotify.com/album/6BUcd3hi6l2lqurfbFYZlC) | 3:52 | 2024-02-16 | 2024-04-19 |

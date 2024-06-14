@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 36829,
+  "num_followers": 36868,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-06-07 15:38:43",
       "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
+    },
+    {
+      "added_at": "2024-06-07 15:38:43",
+      "album": {
         "name": "N NIGHT",
         "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
       },
@@ -1683,6 +1699,22 @@
     {
       "added_at": "2024-06-07 15:38:43",
       "album": {
+        "name": "OSSAB",
+        "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
+      },
+      "artists": [
+        {
+          "name": "Basso (UK)",
+          "url": "https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "OSSAB",
+      "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
+    },
+    {
+      "added_at": "2024-06-07 15:38:43",
+      "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
       },
@@ -1695,22 +1727,6 @@
       "duration_ms": 224322,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
-    },
-    {
-      "added_at": "2024-06-07 15:38:43",
-      "album": {
-        "name": "What We Got",
-        "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "What We Got",
-      "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
     },
     {
       "added_at": "2024-06-07 15:38:43",
@@ -1747,22 +1763,6 @@
       "duration_ms": 385511,
       "name": "Space Is The Place",
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
-    },
-    {
-      "added_at": "2024-06-07 15:38:43",
-      "album": {
-        "name": "OSSAB",
-        "url": "https://open.spotify.com/album/1GSPmdzZVo4VUsM7cx4Gxh"
-      },
-      "artists": [
-        {
-          "name": "Basso (UK)",
-          "url": "https://open.spotify.com/artist/280chdpkl1EuNmlyrIgrVu"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "OSSAB",
-      "url": "https://open.spotify.com/track/5u7zi0mI6uzATPYyOd8WC3"
     },
     {
       "added_at": "2024-06-07 15:38:43",

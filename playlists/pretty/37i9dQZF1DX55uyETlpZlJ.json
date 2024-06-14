@@ -1,13 +1,29 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23141,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All Ok",
+  "num_followers": 23143,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zmgo3wAAAAAafBK+RmKj5xjR7MoZuKF3",
+  "snapshot_id": "ZmrcXAAAAADxDkdUP0UZ6wWUZqm/JoPL",
   "tracks": [
+    {
+      "added_at": "2024-06-13 11:43:26",
+      "album": {
+        "name": "Mariyade Prashne",
+        "url": "https://open.spotify.com/album/0sTfJL18ftxj2ZzAL2Rptw"
+      },
+      "artists": [
+        {
+          "name": "Allok",
+          "url": "https://open.spotify.com/artist/2hjcMGEhozNvrTSFHeCWWk"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Mariyade Prashne",
+      "url": "https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP"
+    },
     {
       "added_at": "2024-06-10 11:39:11",
       "album": {
@@ -1375,26 +1391,6 @@
       "duration_ms": 85479,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6wTPsKishFYQpQpfv0pxMU"
-    },
-    {
-      "added_at": "2023-12-19 05:26:50",
-      "album": {
-        "name": "Lemme know",
-        "url": "https://open.spotify.com/album/7hy987UBUHXMHVtT2UgttW"
-      },
-      "artists": [
-        {
-          "name": "Rd Tillu",
-          "url": "https://open.spotify.com/artist/1BWba6jCmo7OnYO052llOx"
-        },
-        {
-          "name": "Ponnamma",
-          "url": "https://open.spotify.com/artist/3q46DthMtPWUhsoJUyGw2N"
-        }
-      ],
-      "duration_ms": 181507,
-      "name": "Lemme know",
-      "url": "https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj"
     },
     {
       "added_at": "2023-12-11 10:27:11",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: RAYE",
+  "description": "The best jazz new releases. Cover: Emile Londonien",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 172725,
       "name": "De temps en temps",
       "url": "https://open.spotify.com/track/5fjOO1AhmQtVm0DFztc1aZ"
@@ -5065,6 +5065,24 @@
     },
     {
       "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "album": {
         "name": "\u00e0 Fleur de Peau",
         "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
@@ -5960,7 +5978,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 235783,
       "name": "Lil Birdie",
       "url": "https://open.spotify.com/track/3ZlM3jTgrfTYp7AlASBJm4"
@@ -6364,6 +6382,24 @@
       "duration_ms": 132592,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo"
+    },
+    {
+      "album": {
+        "name": "ENCORE!",
+        "url": "https://open.spotify.com/album/6GL1EHQVbtqKubEfWdDZt3"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366709,
+      "name": "Mal de vivre",
+      "url": "https://open.spotify.com/track/1VcejonVyFNjgASurwl28D"
     },
     {
       "album": {
@@ -6846,7 +6882,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 383851,
       "name": "MoonDial",
       "url": "https://open.spotify.com/track/3sn5gqosgrs0y1ljACKUCt"
@@ -6908,7 +6944,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 165760,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/6vHPQJVhOSAYVXLyb4qG08"
@@ -7006,6 +7042,28 @@
       "duration_ms": 234280,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
+    },
+    {
+      "album": {
+        "name": "AO VIVO NA OP\u00c9RA (Live)",
+        "url": "https://open.spotify.com/album/6TaO5kJTXEu31H53HSUPWz"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Selva",
+          "url": "https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG"
+        },
+        {
+          "name": "Quatuor Una Corda",
+          "url": "https://open.spotify.com/artist/60IEYqtZ36mUwb5b9jrV93"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329093,
+      "name": "Navegar - Live",
+      "url": "https://open.spotify.com/track/5nbwpFBPfTVoZnEcSvTGpm"
     },
     {
       "album": {
@@ -7567,6 +7625,24 @@
     },
     {
       "album": {
+        "name": "Orange-coloured day",
+        "url": "https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168218,
+      "name": "Orange-coloured day",
+      "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
+    },
+    {
+      "album": {
         "name": "Ordinaire",
         "url": "https://open.spotify.com/album/00EeSGGVZmAfATtQcB8a20"
       },
@@ -7987,6 +8063,32 @@
     },
     {
       "album": {
+        "name": "Pink Panther",
+        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159715,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
+    },
+    {
+      "album": {
         "name": "Plus Fort Que Nous",
         "url": "https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf"
       },
@@ -8038,7 +8140,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 499234,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
@@ -8330,6 +8432,24 @@
       "duration_ms": 218706,
       "name": "Route de nuit",
       "url": "https://open.spotify.com/track/3aJ4NTA6ZN58RxzlT8MFHu"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/5M8eXGXY9ds3L7qSAMY5me"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313946,
+      "name": "Run To It (The CP Song)",
+      "url": "https://open.spotify.com/track/6Lb7lH15OsyGlwmmjaAVz8"
     },
     {
       "album": {
@@ -11276,7 +11396,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 345060,
       "name": "Willow",
       "url": "https://open.spotify.com/track/5VM74SNvvTKWBJMnLA1OLD"

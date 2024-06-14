@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Platform & Abigail Chams",
+  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Arrown Bwoy",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Kukupenda",
+        "url": "https://open.spotify.com/album/1nsDxtG4GX7aMgAQ1QTTo7"
+      },
+      "artists": [
+        {
+          "name": "Vii Sugar Boy",
+          "url": "https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Kukupenda",
+      "url": "https://open.spotify.com/track/56lZHXU9dMCIEPSEAsY0zP"
+    },
+    {
+      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/5MtivQv9xtPdnXnf4E7zxl"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160475,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/1DpJxlcNKo8b9JEA2Mu1uq"
@@ -3751,6 +3769,28 @@
     },
     {
       "album": {
+        "name": "Water & Wine",
+        "url": "https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Usiongee (feat. Phina)",
+      "url": "https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP"
+    },
+    {
+      "album": {
         "name": "Utaniua",
         "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
       },
@@ -3798,7 +3838,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 194823,
       "name": "Wa Sasa",
       "url": "https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf"

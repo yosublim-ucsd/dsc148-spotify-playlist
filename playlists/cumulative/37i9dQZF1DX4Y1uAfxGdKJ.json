@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Groovemood",
+        "url": "https://open.spotify.com/album/0K91ds6lQbpYCIpJZ1nmKm"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269750,
+      "name": "Groovemood",
+      "url": "https://open.spotify.com/track/2Pp2XOaW9742U0rGRRCEPC"
+    },
+    {
+      "album": {
         "name": "Half-Light",
         "url": "https://open.spotify.com/album/1OOB3nQBqEh34J0J1Ekbn2"
       },
@@ -1691,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/4NVYPjk6FTxlAh970ZyuTu"
+      },
+      "artists": [
+        {
+          "name": "Palos Azules",
+          "url": "https://open.spotify.com/artist/4sk8WgXLP5T8ATvv3QuGfw"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/0GJuK2Ssnna7G1q3sYFfG9"
+    },
+    {
+      "album": {
         "name": "Mistwalker",
         "url": "https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg"
       },
@@ -1706,6 +1742,24 @@
       "duration_ms": 290157,
       "name": "Mistwalker",
       "url": "https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/3xGoItgYhcyy6vCDyTHftL"
+      },
+      "artists": [
+        {
+          "name": "Slowya.roll",
+          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255613,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/7l9QH9DFZ0qYP9MmSIe5u8"
     },
     {
       "album": {
@@ -1890,6 +1944,24 @@
       "duration_ms": 149000,
       "name": "Nizm",
       "url": "https://open.spotify.com/track/3fMOE6PBOkIAEHlMAExlKj"
+    },
+    {
+      "album": {
+        "name": "Nothing Left for Me to Do",
+        "url": "https://open.spotify.com/album/0P6m4TSUJxBXF5zkYPiaMY"
+      },
+      "artists": [
+        {
+          "name": "spring gang",
+          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Nothing Left for Me to Do",
+      "url": "https://open.spotify.com/track/1p128qXpp2XYT7IFMLMYx5"
     },
     {
       "album": {

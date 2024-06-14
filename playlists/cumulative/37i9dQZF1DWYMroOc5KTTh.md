@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-523 songs - 1 day 10 hr 56 min
+524 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Come Together](https://open.spotify.com/track/0aITsSU1pXt3Tt3noutwzM) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [Come Together](https://open.spotify.com/album/2tYibtINwIiW3kyX8XToVY) | 6:49 | 2022-04-06 | 2022-04-12 |
 | [Coming Home](https://open.spotify.com/track/0eOcjJgpO8XdJbPMYJgKqq) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Coming Home](https://open.spotify.com/album/7GnbITNZyR4bk4pzCzIlMJ) | 3:10 | 2023-05-22 | 2023-11-17 |
 | [Coming Home](https://open.spotify.com/track/6bgefQ0PWrnROEbLQqxitu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Coming Home](https://open.spotify.com/album/59NC3Jd9XLruBTc3YApkBt) | 3:10 | 2021-12-03 | 2022-06-23 |
+| [Count On My Love](https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Daniel Wilson](https://open.spotify.com/artist/0LHsUOtcrTFzM7YJ7HoZUv), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Count On My Love](https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs) | 5:56 | 2024-06-14 |  |
 | [Crash and Burn \- Edit](https://open.spotify.com/track/3QEX74TIjnACccveQCC8WH) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 1:30 | 2023-05-22 | 2023-10-06 |
 | [Damselfly](https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 2:52 | 2022-04-06 | 2023-10-06 |
 | [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 | 2022-04-15 | 2022-08-02 |
@@ -217,7 +218,7 @@
 | [Heaven \- Edit](https://open.spotify.com/track/0TQPsmBbAKI6mIs1BjGJkI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Heaven](https://open.spotify.com/album/2UaAxsxbBdXA4MxbeQmTC3) | 3:40 | 2022-01-11 | 2022-07-14 |
 | [Heavy](https://open.spotify.com/track/4YYuy8xDLSueu0SgmzVKe3) | [Hifi Sean](https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Heavy](https://open.spotify.com/album/07IMjVMFGHCueLR3vLrj3v) | 3:08 | 2022-04-06 | 2022-04-16 |
 | [Hello Happiness](https://open.spotify.com/track/3w3LyAknbXOnyppVCI1QeW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/0lyiUZeydSCaBrDGjJfzPa) | 3:56 | 2022-04-06 | 2022-04-19 |
-| [Here With Me](https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Here With Me](https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC) | 3:13 | 2024-03-01 |  |
+| [Here With Me](https://open.spotify.com/track/0XVGaKdfstcpMvqe15Yozv) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Here With Me](https://open.spotify.com/album/3sQfEqsPOKPAnW9hUIILSC) | 3:13 | 2024-03-01 | 2024-06-14 |
 | [Higher](https://open.spotify.com/track/46kr1OmRzIFUrDjx5t0WiJ) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:46 | 2022-04-06 | 2022-04-08 |
 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 | 2022-02-25 | 2022-04-09 |
 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 | 2023-11-24 | 2024-03-01 |

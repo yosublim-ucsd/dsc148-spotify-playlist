@@ -2789,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "Message in a Bottle",
+        "url": "https://open.spotify.com/album/0L8bZJvJbaVCDw0WOMC8UY"
+      },
+      "artists": [
+        {
+          "name": "Oscar Blue",
+          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240367,
+      "name": "Message in a Bottle",
+      "url": "https://open.spotify.com/track/5SwS67MTpN1WHX3GpaLe90"
+    },
+    {
+      "album": {
         "name": "Midnight Sun (Acoustic Version)",
         "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
       },
@@ -4032,7 +4050,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 162961,
       "name": "Stow Brae",
       "url": "https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX"

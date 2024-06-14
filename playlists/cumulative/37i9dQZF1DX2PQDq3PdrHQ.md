@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-705 songs - 1 day 3 hr 23 min
+708 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 | 2022-09-09 |  |
 | [Cozy waters](https://open.spotify.com/track/4SZYd54aXVSIeoXgibuivE) | [Vibe Valley](https://open.spotify.com/artist/5oRQXpBWZOtZOZB7lv8zMP), [leo.drummer](https://open.spotify.com/artist/7gwqxYpgDJabcweudcwoUd) | [Cozy waters](https://open.spotify.com/album/17F89LutjZK2mhdiBYc7Dc) | 2:12 | 2022-05-20 | 2022-12-12 |
 | [Craving Peace](https://open.spotify.com/track/5lpkTb0OAQ5QyBfw2Pt964) | [Pthalo](https://open.spotify.com/artist/1S5hT3KzW3A1BTCYH36btB) | [Craving Peace](https://open.spotify.com/album/4Kikek4dKkMpc2OxATuier) | 2:32 | 2024-05-29 |  |
-| [Creatures of Light](https://open.spotify.com/track/5xSStEolYgOteKxDDWtoUU) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Creatures of Light](https://open.spotify.com/album/2A8wMYxaQzcBefrhWwZ0kZ) | 2:22 | 2022-10-14 |  |
+| [Creatures of Light](https://open.spotify.com/track/5xSStEolYgOteKxDDWtoUU) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Creatures of Light](https://open.spotify.com/album/2A8wMYxaQzcBefrhWwZ0kZ) | 2:22 | 2022-10-14 | 2024-06-14 |
 | [Crestone](https://open.spotify.com/track/7krjREoicbTMB4gx3xxwLB) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Crestone](https://open.spotify.com/album/0AL4T93NfHuZMS8899nZtx) | 1:53 | 2022-05-20 | 2022-12-12 |
 | [crinkled sheets](https://open.spotify.com/track/4mzdv3VSKgQ9LHgyc78sH1) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [crinkled sheets](https://open.spotify.com/album/0CgSvSIIqWTkxcRXk3RJhG) | 2:14 | 2023-07-17 |  |
 | [Crowds](https://open.spotify.com/track/0LdHDQyxnjOZIRFrW9ya53) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Crowds](https://open.spotify.com/album/3puxAvE27irZtQVs8vc97K) | 2:59 | 2023-01-13 |  |
@@ -268,7 +268,7 @@
 | [hope](https://open.spotify.com/track/1btb77IQs0KNHlonBg9F5N) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [hope](https://open.spotify.com/album/3R3UMBNbD7DtuqnaLtBQt9) | 2:04 | 2024-05-13 |  |
 | [hopscotch](https://open.spotify.com/track/2B1dl95kTHNdwyZkaZsVFX) | [ratio 11](https://open.spotify.com/artist/0ecn09hphRWavIB0uGYNxl) | [hopscotch](https://open.spotify.com/album/3HQQ8v9tvLUtiuACaGUBS5) | 2:30 | 2022-08-05 | 2023-07-18 |
 | [Horizon](https://open.spotify.com/track/4xWmP2VgS9akFld37kFR2y) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Horizon](https://open.spotify.com/album/2lqH2HJgI1E92fKeyS7Od2) | 2:00 | 2022-10-28 |  |
-| [hot chocolate](https://open.spotify.com/track/2G5zcBIQuME6CtpR7eMtzH) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [hot chocolate](https://open.spotify.com/album/7ocM7M61gBIqwtlcmKpGOD) | 2:37 | 2024-05-13 |  |
+| [hot chocolate](https://open.spotify.com/track/2G5zcBIQuME6CtpR7eMtzH) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [hot chocolate](https://open.spotify.com/album/7ocM7M61gBIqwtlcmKpGOD) | 2:37 | 2024-05-13 | 2024-06-14 |
 | [hot take](https://open.spotify.com/track/6LTzGsvs1gasIAYYC4C1iR) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [hot take](https://open.spotify.com/album/6JEX2BGRKYkcDxq20H4RNw) | 2:08 | 2022-11-25 |  |
 | [House In The Woods](https://open.spotify.com/track/3NxT1NVQA8w1hzSIratjYn) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [House In The Woods \(Lofi Hip Hop\)](https://open.spotify.com/album/0OZV3Pb0KOBGJxrYuQTKS9) | 3:06 | 2022-08-05 | 2023-01-20 |
 | [Howling](https://open.spotify.com/track/2xIEjqVy7RcvTzdwve9nBk) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Howling](https://open.spotify.com/album/6hV931FXzU4Wpv22gvSuXb) | 2:38 | 2023-07-17 |  |
@@ -339,6 +339,7 @@
 | [lightweight](https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [lightweight](https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD) | 2:00 | 2023-02-14 |  |
 | [Lilac](https://open.spotify.com/track/4c3RnkPEPZPZINK6l9GPZp) | [Colours in Context](https://open.spotify.com/artist/4CHVFfmgOpcOMB3d3B0uwO) | [Lilac](https://open.spotify.com/album/4FcL5BbWZxsNVVBlLqjVIl) | 2:22 | 2022-11-25 |  |
 | [Liminal](https://open.spotify.com/track/3auS1dilZRdglDjDtJlpi5) | [Local Abroad](https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu) | [Liminal](https://open.spotify.com/album/6LKFLpTJ8j3SJWxvTM8LJ0) | 2:32 | 2023-01-20 |  |
+| [little by little](https://open.spotify.com/track/2xvWjRjdmNNAcPNw9ElAut) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [little by little](https://open.spotify.com/album/5YR8Mgy3VqQQqLtry5qgFO) | 2:12 | 2024-06-13 |  |
 | [Little did i know](https://open.spotify.com/track/3sjd4lPDKvjPNq4uqQN0k8) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Little did i know](https://open.spotify.com/album/3JVaokPzA29VeXWV5uH3Tx) | 2:31 | 2022-05-20 | 2022-06-25 |
 | [Little Green Tree](https://open.spotify.com/track/5mOFSMCqvnmURwCPdpFg9R) | [Kewlie](https://open.spotify.com/artist/3Nu9d1nTBjPHOfI9HccCrZ) | [Little Green Tree](https://open.spotify.com/album/2jid4g828XJ7bUesPQ0M9B) | 2:26 | 2022-06-10 | 2023-02-07 |
 | [little seed](https://open.spotify.com/track/0LNRtU6aY2Nx2tRmrwxa3A) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [little seed](https://open.spotify.com/album/6qI02KkHymWhs6HHc9UOzn) | 2:22 | 2024-05-13 |  |
@@ -379,7 +380,7 @@
 | [Me, I'm Counting](https://open.spotify.com/track/0RuEzjOG0rzEx7wGhhxKdP) | [Aurelius](https://open.spotify.com/artist/6pN3SUYHGCS8OAZpp4bBmO) | [Me, I'm Counting](https://open.spotify.com/album/086DfalOxJAEOR5SdWJLmq) | 2:00 | 2022-09-02 | 2023-09-29 |
 | [melatones](https://open.spotify.com/track/4uwvtcINcCtyQTDvBIUDzk) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [melatones](https://open.spotify.com/album/0QsPZmEl9Gcrupo5kwMjKp) | 2:24 | 2023-02-20 |  |
 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 | 2023-06-06 | 2023-10-27 |
-| [memories](https://open.spotify.com/track/1st1h9byLbKUQiooNUN9Xf) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [memories](https://open.spotify.com/album/3nSW0AhPMSuDoajmzenszc) | 2:43 | 2022-07-08 |  |
+| [memories](https://open.spotify.com/track/1st1h9byLbKUQiooNUN9Xf) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [memories](https://open.spotify.com/album/3nSW0AhPMSuDoajmzenszc) | 2:43 | 2022-07-08 | 2024-06-14 |
 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 | 2022-12-23 |  |
 | [memories are all that is left](https://open.spotify.com/track/3LwFzfw1f2P3ROzc02Cdth) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [memories are all that is left](https://open.spotify.com/album/7pwZsdbbtxNsqMmnhgNtPQ) | 2:22 | 2022-06-24 | 2022-08-12 |
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-08-18 | 2023-11-17 |
@@ -484,7 +485,7 @@
 | [Persona](https://open.spotify.com/track/3FFuTbrQPsRS0D4eICmroy) | [Jan Preacher](https://open.spotify.com/artist/4VWIKZWMxqkSHTkKfXkYdk) | [Persona](https://open.spotify.com/album/6Ye5LAmvInQI5qWwKhv5Dv) | 2:00 | 2022-09-02 |  |
 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 | 2022-10-28 |  |
 | [Pieces of Me](https://open.spotify.com/track/2r6scHmDlI7SX711hMMHUN) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Pieces of Me](https://open.spotify.com/album/7oq2ghACITvmwGiWQ2D3w7) | 2:08 | 2023-08-18 | 2023-09-22 |
-| [pink cloud](https://open.spotify.com/track/5dHHQLJKFMeQWr08s4o6ff) | [Drift Crew](https://open.spotify.com/artist/1izsiM2GuR0dyNhBZ1HwXI) | [pink cloud](https://open.spotify.com/album/0YYJs0TtShDzN7e7nFJ4Ph) | 2:16 | 2022-10-28 |  |
+| [pink cloud](https://open.spotify.com/track/5dHHQLJKFMeQWr08s4o6ff) | [Drift Crew](https://open.spotify.com/artist/1izsiM2GuR0dyNhBZ1HwXI) | [pink cloud](https://open.spotify.com/album/0YYJs0TtShDzN7e7nFJ4Ph) | 2:16 | 2022-10-28 | 2024-06-14 |
 | [Pitter\-Patter](https://open.spotify.com/track/7MR9zbinnWLf7I6CkICrxm) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [Pitter\-Patter](https://open.spotify.com/album/4nxBcqVH2vuzJY436HTA02) | 2:08 | 2023-10-13 |  |
 | [Planet 8](https://open.spotify.com/track/4ovCUqk7duHRKGs5HE2R8i) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL) | [Planet 8](https://open.spotify.com/album/15GvUP4MH4vvp4unLYWMs3) | 2:14 | 2022-08-05 | 2023-01-20 |
 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 | 2022-05-20 | 2024-05-14 |
@@ -519,6 +520,7 @@
 | [Ripple Effect](https://open.spotify.com/track/0vSszdA1PA2IbWyArGlCkX) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Ripple Effect](https://open.spotify.com/album/1ueHxEfC89b8dIEl28urYQ) | 1:50 | 2022-06-17 | 2022-12-24 |
 | [roads](https://open.spotify.com/track/3XvhaV1HfApDGfhuodr1IH) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [roads](https://open.spotify.com/album/1jD9yiIThxSqpzAXmwJ1SQ) | 2:19 | 2023-02-06 | 2023-07-18 |
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2022-05-20 | 2024-05-14 |
+| [roaming roads](https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [roaming roads](https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0) | 2:36 | 2024-06-13 |  |
 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 | 2023-07-17 |  |
 | [Roots](https://open.spotify.com/track/2pXcmoCWm36Z9AefDRBfOi) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo), [Nice Pajamas](https://open.spotify.com/artist/2CB4k7eCe8jw8Axug9BN1n), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Roots](https://open.spotify.com/album/4Jrb0JkxPR6TIeDTgS1eQR) | 2:22 | 2022-07-29 | 2022-09-23 |
 | [running into dreams](https://open.spotify.com/track/3q7nuBN4kAmqFGiP6dGUSH) | [anayys](https://open.spotify.com/artist/2TcmGbzQcGwhauOyGwxPEB) | [running into dreams](https://open.spotify.com/album/4vdzrl8ZbHfP6wcldcaV7D) | 2:40 | 2022-05-27 |  |
@@ -676,6 +678,7 @@
 | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/70CYB0mVVygnVlR0Xx8CFS) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/3lzwU3oMhYVCYgpv86NwyL) | 2:44 | 2022-08-05 | 2022-11-05 |
 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 | 2023-07-17 |  |
 | [Unaware Kids](https://open.spotify.com/track/2rATTvjwQJaM27lhZ4AazV) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Unaware Kids](https://open.spotify.com/album/2vRwLu21g6T1qrRDbHqCio) | 2:34 | 2024-05-13 |  |
+| [Under the Moon](https://open.spotify.com/track/2f1ksx2y6I207HVlilYBBZ) | [Tropicolor](https://open.spotify.com/artist/0C33MFjaSg48bmzyUkSAoO) | [Under the Moon](https://open.spotify.com/album/1FIsq8iNelMqHuXctToihT) | 2:06 | 2024-06-13 |  |
 | [Under The Stars](https://open.spotify.com/track/1OWbLmxzyL8HLPlxKehklr) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Under The Stars](https://open.spotify.com/album/6ObwaaMTrezEKYZz4p0qwU) | 2:47 | 2023-02-14 |  |
 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 | 2022-07-15 | 2024-05-14 |
 | [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 | 2023-09-22 | 2024-02-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Odunsi (the Engine)",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: SOLIS4EVR",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -4894,10 +4894,36 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 129473,
       "name": "gin and wine (ginuwine)",
       "url": "https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI"
+    },
+    {
+      "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/35awOR0VhAbhvlloOv4Zow"
+      },
+      "artists": [
+        {
+          "name": "SOLIS4EVR",
+          "url": "https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Mowalola",
+          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166399,
+      "name": "girl on a mission",
+      "url": "https://open.spotify.com/track/71cG0LyiL0ozOwKAxyM5Fe"
     },
     {
       "album": {
@@ -7982,7 +8008,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 180706,
       "name": "Menko Me Hemaa",
       "url": "https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU"
@@ -12104,6 +12130,24 @@
       "duration_ms": 171013,
       "name": "Sun Down (From \"YE!\")",
       "url": "https://open.spotify.com/track/16FZuBTG6DRM8qEfCn7ULz"
+    },
+    {
+      "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
     },
     {
       "album": {

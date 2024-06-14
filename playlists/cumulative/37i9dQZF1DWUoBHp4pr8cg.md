@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from  Ricky Tyler \(pictured\), Gunna, Kendrick Lamar, and more...
+> Only the hottest Hip Hop from Jay Jody \(pictured\), Gunna, Kendrick Lamar, and more...
 
-287 songs - 15 hr 38 min
+288 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/1bl7mvR2BaoqA7ak6xJ3yj) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Let Me Cook \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/73H0tpFPJup6pjsqXYyXWU) | 3:53 | 2024-05-09 |  |
 | [Letter to Takeoff](https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Letter to Takeoff](https://open.spotify.com/album/4yrzsGF0xjnXP5oWNvMNqX) | 3:37 | 2022-11-17 | 2023-03-07 |
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-06 | 2022-11-15 |
-| [Life Isn't Fair](https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [uSimamane](https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih) | [Life Isn't Fair](https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1) | 3:12 | 2024-06-06 |  |
+| [Life Isn't Fair](https://open.spotify.com/track/6XrG46AvOK2C8secd8cVL7) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Life Isn't Fair](https://open.spotify.com/album/59nP1tGCKYPOrUQYAQiad1) | 3:12 | 2024-06-06 |  |
 | [Life Worth Living](https://open.spotify.com/track/33Tvaro7t9LNhkoJdjrFOR) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Life Worth Living](https://open.spotify.com/album/0oUpnpxjgrNJmmmoPgiIag) | 3:01 | 2022-09-29 | 2022-11-04 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-04-04 |  |
 | [Little Miss](https://open.spotify.com/track/3Tv0qk6Zz09z8tueWLRW3i) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Little Miss](https://open.spotify.com/album/2yJNQq4qviVMcukvnoFEzy) | 3:10 | 2022-09-01 | 2022-10-14 |
@@ -282,6 +282,7 @@
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-21 |  |
 | [uKuphi](https://open.spotify.com/track/1fzhy3XEQEXUYff6jvbf40) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Champion Music 2](https://open.spotify.com/album/0Z4cLn4fZtEJ2psku88wNx) | 2:30 | 2022-11-14 | 2023-01-24 |
 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 | 2022-08-01 | 2022-11-04 |
+| [VAMONOS](https://open.spotify.com/track/70RqmeVZJgj7DU9sDm1k7K) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [VAMONOS](https://open.spotify.com/album/4slthHsVvn5TtrPcsu638h) | 2:05 | 2024-06-13 |  |
 | [VING RHAMES](https://open.spotify.com/track/2YFAsNwdGwtw6oC6DIpT3k) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [VING RHAMES](https://open.spotify.com/album/1oxtd6Zm0rNyuVL40jThDS) | 1:21 | 2023-10-12 |  |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-28 | 2022-11-04 |
 | [WAITRESS](https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WAITRESS](https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ) | 2:12 | 2022-09-15 | 2022-10-14 |

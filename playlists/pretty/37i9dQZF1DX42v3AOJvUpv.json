@@ -1,6 +1,6 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 43660,
+  "num_followers": 43671,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+        "name": "Lo Mejor De Los Violadores",
+        "url": "https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i"
       },
       "artists": [
         {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+          "name": "Los Violadores",
+          "url": "https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Mundo Agradable",
-      "url": "https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT"
+      "duration_ms": 258013,
+      "name": "1-2 Ultraviolento",
+      "url": "https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Lo Mejor De Los Violadores",
-        "url": "https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i"
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
       },
       "artists": [
         {
-          "name": "Los Violadores",
-          "url": "https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2"
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
         }
       ],
-      "duration_ms": 258013,
-      "name": "1-2 Ultraviolento",
-      "url": "https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J"
+      "duration_ms": 251026,
+      "name": "Mundo Agradable",
+      "url": "https://open.spotify.com/track/1zMSZbxk4dDAHxBS5V07KT"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "A Cada Hombre, A Cada Mujer",
-      "url": "https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
         "name": "Man Ray",
         "url": "https://open.spotify.com/album/3DbogDWbVBtPTcRpJzwsYX"
       },
@@ -607,6 +591,38 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
+        "name": "Sentidos Congelados",
+        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
+      },
+      "artists": [
+        {
+          "name": "Sobrecarga",
+          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
+        }
+      ],
+      "duration_ms": 301200,
+      "name": "Conexi\u00f3n Par\u00eds",
+      "url": "https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "A Cada Hombre, A Cada Mujer",
+      "url": "https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/6VuaLtxKsfIEUz98Od2Aoc"
       },
@@ -635,38 +651,6 @@
       "duration_ms": 212120,
       "name": "V\u00eda M\u00e9xico",
       "url": "https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Sentidos Congelados",
-        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
-      },
-      "artists": [
-        {
-          "name": "Sobrecarga",
-          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
-        }
-      ],
-      "duration_ms": 301200,
-      "name": "Conexi\u00f3n Par\u00eds",
-      "url": "https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Noche y D\u00eda",
-        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
-      },
-      "artists": [
-        {
-          "name": "Raul Porchetto",
-          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Corazones Muertos",
-      "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
+        "name": "Noche y D\u00eda",
+        "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
+      },
+      "artists": [
+        {
+          "name": "Raul Porchetto",
+          "url": "https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Corazones Muertos",
+      "url": "https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
         "name": "Exhibici\u00f3n Condicionada (Remastered 2017)",
         "url": "https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
+        "name": "Sentidos Congelados",
+        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
+      },
+      "artists": [
+        {
+          "name": "Sobrecarga",
+          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
+        }
+      ],
+      "duration_ms": 281093,
+      "name": "Viajando Hacia el Este",
+      "url": "https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W"
+    },
+    {
+      "added_at": "2024-06-12 23:40:25",
+      "album": {
         "name": "Fabiana Cantilo y Los Perros Calientes (Remastered)",
         "url": "https://open.spotify.com/album/3oa1nnrWDy6CfdZx7VooQt"
       },
@@ -751,34 +767,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Gulp!",
-        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
+        "name": "Identikit",
+        "url": "https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Identikit",
+          "url": "https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i"
         }
       ],
-      "duration_ms": 247066,
-      "name": "La Bestia Pop",
-      "url": "https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn"
-    },
-    {
-      "added_at": "2024-06-12 23:40:25",
-      "album": {
-        "name": "Sentidos Congelados",
-        "url": "https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ"
-      },
-      "artists": [
-        {
-          "name": "Sobrecarga",
-          "url": "https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD"
-        }
-      ],
-      "duration_ms": 281093,
-      "name": "Viajando Hacia el Este",
-      "url": "https://open.spotify.com/track/30hedgQCyR9YG9VIuf970W"
+      "duration_ms": 196977,
+      "name": "Solo En Una Noche De Jazz",
+      "url": "https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW"
     },
     {
       "added_at": "2024-06-12 23:40:25",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-06-12 23:40:25",
       "album": {
-        "name": "Identikit",
-        "url": "https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy"
+        "name": "Gulp!",
+        "url": "https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA"
       },
       "artists": [
         {
-          "name": "Identikit",
-          "url": "https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 196977,
-      "name": "Solo En Una Noche De Jazz",
-      "url": "https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW"
+      "duration_ms": 247066,
+      "name": "La Bestia Pop",
+      "url": "https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn"
     }
   ],
   "unique_name": "Jet Set",

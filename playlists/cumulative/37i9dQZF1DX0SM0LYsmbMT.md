@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,150 songs - 6 day 14 hr 30 min
+4,151 songs - 6 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,7 @@
 | [Button Up](https://open.spotify.com/track/7LmaA7Xc7iJTCJcM6xw4ch) | [Jay Spaten](https://open.spotify.com/artist/7Af647ZUOVrhgWcwUlkFo2) | [Button Up](https://open.spotify.com/album/2tcUHmfGsJkW6nZgX205EO) | 2:56 | 2020-06-24 | 2020-10-23 |
 | [Buzz Me In](https://open.spotify.com/track/4Nb455CmfHoOFw3Q3TCUnZ) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Buzz Me In](https://open.spotify.com/album/6M0qUKkALzw1hgh14NytUL) | 2:04 | 2019-06-08 | 2019-10-01 |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2019-09-14 | 2020-03-13 |
-| [By Now](https://open.spotify.com/track/79UDoyTgfs7s3FTWQ0Iir3) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [By Now](https://open.spotify.com/album/3oG6NqtFds0WmPOooh9mN1) | 1:58 | 2024-03-07 |  |
+| [By Now](https://open.spotify.com/track/79UDoyTgfs7s3FTWQ0Iir3) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [By Now](https://open.spotify.com/album/3oG6NqtFds0WmPOooh9mN1) | 1:58 | 2024-03-07 | 2024-06-14 |
 | [By the Fire](https://open.spotify.com/track/7AdkD50Z7Yu3XDgnnwJX9P) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [By the Fire](https://open.spotify.com/album/5V7lpTsthhgxOJrTznL6MX) | 2:32 | 2020-05-01 | 2020-07-11 |
 | [by the fire](https://open.spotify.com/track/5e53H5CudQjHfXeLK9uWTv) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK) | [Mountain Tops](https://open.spotify.com/album/4mvn4gsmY1pDcYgbpFv9WS) | 1:29 | 2019-05-26\* | 2019-06-15 |
 | [By the Liter](https://open.spotify.com/track/57i2oAbbDYCDGLJwG1VHq5) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0) | [By the Liter / Seen You](https://open.spotify.com/album/1ciCC9EWfA09kZMYV0dDFr) | 2:54 | 2020-12-04 | 2021-01-15 |
@@ -3322,6 +3322,7 @@
 | [Spring Ferry Ride](https://open.spotify.com/track/762MS9QHDzv9mEfJqUhb2c) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Spring Ferry Ride](https://open.spotify.com/album/7gjeqr1Rg8eywdfXbYYpIK) | 2:18 | 2020-06-19 | 2020-08-25 |
 | [Spring Loop](https://open.spotify.com/track/2q8jQMT5B7HhiKuLkm2JPO) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Spring Loop](https://open.spotify.com/album/0Rp7PkblANJsTtONv1MGmQ) | 2:04 | 2023-04-20 | 2023-07-28 |
 | [Spring Meditation](https://open.spotify.com/track/6ICJu0K0Aw5Ye9wjqK29Qe) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Latenite Joints 015](https://open.spotify.com/album/2GKXZ9eYp5qt1EwRDaoQWB) | 1:53 | 2021-05-14 | 2021-07-08 |
+| [Spring Melody](https://open.spotify.com/track/75COvmWgSL1DfGkQburzDa) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Spring Melody](https://open.spotify.com/album/0kooCnKtmAmv51qUx8Wsow) | 2:11 | 2024-06-13 |  |
 | [Springdays](https://open.spotify.com/track/1nXgAA5bDL2i68D0TrwAf9) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Springdays](https://open.spotify.com/album/1YGUNejUmLdfGzsDa05mKZ) | 2:02 | 2021-04-30 | 2021-07-02 |
 | [Springfrost](https://open.spotify.com/track/2zEmVgZ5qJfgGiTkk2FwlO) | [Beatific Vision](https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw) | [Springfrost](https://open.spotify.com/album/5YRLsBfU5ifkQaufYoXWq0) | 1:58 | 2023-03-30 | 2023-07-28 |
 | [Sprossen](https://open.spotify.com/track/5LoVEbe9KRxbOGr41DLs5f) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg) | [Yellow Blues](https://open.spotify.com/album/6GXshu0jBOpa4DVU6t6hqB) | 2:28 | 2020-03-25 | 2020-06-05 |

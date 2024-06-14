@@ -1,63 +1,15 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7512,
+  "num_followers": 7519,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmK7DgAAAAAFfOvkqh1UaA4WKc4gb9h6",
+  "snapshot_id": "Zmtr4AAAAAC10qOs0MU1jFgv+V2k4Hbf",
   "tracks": [
     {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Moondog",
-        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305640,
-      "name": "Moondog",
-      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "The Man He Sees in Me",
-        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 165058,
-      "name": "The Man He Sees in Me",
-      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "One Deep River",
-        "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 257346,
-      "name": "One Deep River",
-      "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -77,107 +29,39 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+        "name": "First Round's On Me",
+        "url": "https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
         }
       ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
+      "duration_ms": 236574,
+      "name": "First Round's On Me",
+      "url": "https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Kingdom of Mine",
-        "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
+        "name": "One Deep River",
+        "url": "https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv"
       },
       "artists": [
         {
-          "name": "Timo de Jong",
-          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Ring Them Bells",
-      "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
+      "duration_ms": 257346,
+      "name": "One Deep River",
+      "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "I'll Wait Till You're Really Gone",
-        "url": "https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe"
-      },
-      "artists": [
-        {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "JW Roy",
-          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "I'll Wait Till You're Really Gone",
-      "url": "https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
-      },
-      "artists": [
-        {
-          "name": "Gregory Ackerman",
-          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "When It's Through",
-      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Fortunes & Willows",
-        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
-        }
-      ],
-      "duration_ms": 244667,
-      "name": "Little Miss Blue Eyes",
-      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Wanna Be Loved",
-        "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 217307,
-      "name": "Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -193,7 +77,103 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Moondog",
+        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305640,
+      "name": "Moondog",
+      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Kingdom of Mine",
+        "url": "https://open.spotify.com/album/3dL0RlVCmTtQxjbK1SUsrI"
+      },
+      "artists": [
+        {
+          "name": "Timo de Jong",
+          "url": "https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/3eY1GBvBx6n6sjdxCYFkoO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "The Man He Sees in Me",
+        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 165058,
+      "name": "The Man He Sees in Me",
+      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
+      },
+      "artists": [
+        {
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "When It's Through",
+      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Fortunes & Willows",
+        "url": "https://open.spotify.com/album/12ycpUr0zVCaDesITqsq0x"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1"
+        }
+      ],
+      "duration_ms": 244667,
+      "name": "Little Miss Blue Eyes",
+      "url": "https://open.spotify.com/track/13eAihSwYg2klEZYutJVxO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Wanna Be Loved",
+        "url": "https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
@@ -209,23 +189,7 @@
       "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
@@ -241,7 +205,39 @@
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
@@ -257,7 +253,7 @@
       "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
@@ -277,7 +273,7 @@
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Someone You Love",
         "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
@@ -293,7 +289,7 @@
       "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "When Times Get Rough",
         "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
@@ -309,7 +305,7 @@
       "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "I Am The Moon: I. Crescent",
         "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
@@ -325,7 +321,7 @@
       "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
@@ -341,7 +337,7 @@
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
@@ -361,7 +357,7 @@
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
@@ -377,7 +373,7 @@
       "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Feel Like Going Home (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw"
@@ -401,7 +397,7 @@
       "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Ballad Of Easy Rider",
         "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
@@ -417,7 +413,7 @@
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Rollin' with the Punches",
         "url": "https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
@@ -449,7 +445,7 @@
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
@@ -465,7 +461,7 @@
       "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Fruits Of My Labor",
         "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
@@ -481,7 +477,7 @@
       "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
@@ -497,7 +493,7 @@
       "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
@@ -513,7 +509,7 @@
       "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
@@ -529,7 +525,27 @@
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "I'll Wait Till You're Really Gone",
+        "url": "https://open.spotify.com/album/0sDgSlEMGFQrGo5FoXPkCe"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "JW Roy",
+          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "I'll Wait Till You're Really Gone",
+      "url": "https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Take A Ride",
         "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
@@ -545,23 +561,7 @@
       "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
@@ -577,7 +577,23 @@
       "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "For The Better Of Me",
         "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Big Thing",
         "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
@@ -701,7 +717,27 @@
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Alpine Gold",
         "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
@@ -717,7 +753,7 @@
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Gold Dust Woman",
         "url": "https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Love to See You Cry",
         "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
@@ -777,27 +813,7 @@
       "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Bluefinger",
-        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Even The Bad Ends Badly",
-      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "In The Morning, When We Rise",
         "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
-      "added_at": "2024-06-07 07:47:26",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "A Heightened Sense of Everything",
         "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
@@ -847,22 +863,6 @@
       "duration_ms": 208440,
       "name": "Heat of the Moment",
       "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2024-06-07 07:47:26",
-      "album": {
-        "name": "Driving Like A Dream Car Should",
-        "url": "https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ"
-      },
-      "artists": [
-        {
-          "name": "Deborah Parlor",
-          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
-        }
-      ],
-      "duration_ms": 187355,
-      "name": "Driving Like A Dream Car Should",
-      "url": "https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej"
     }
   ],
   "unique_name": "Route Americana",

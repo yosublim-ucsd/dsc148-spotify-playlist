@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe.
 
-303 songs - 16 hr 35 min
+304 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2023-03-17 | 2023-08-12 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-23 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2023-03-17 | 2023-08-12 |
-| [besos guardados](https://open.spotify.com/track/2E4L8ANqLb0t31soN5Q3Ha) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [las cartas pendientes](https://open.spotify.com/album/3wALfCDPs8EfeZXDHZr9U0) | 3:43 | 2024-05-31 |  |
+| [besos guardados](https://open.spotify.com/track/2E4L8ANqLb0t31soN5Q3Ha) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [las cartas pendientes](https://open.spotify.com/album/3wALfCDPs8EfeZXDHZr9U0) | 3:43 | 2024-05-31 | 2024-06-14 |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2023-03-17 | 2023-08-12 |
 | [bien x vos](https://open.spotify.com/track/2vPtBcclyIpgB4KyjUvkaX) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [bien x vos](https://open.spotify.com/album/0TbwCsF9sAb58yxFxUUy7y) | 2:26 | 2023-08-18 | 2023-09-04 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2023-03-17 | 2023-08-12 |
@@ -105,6 +105,7 @@
 | [El Precio A Pagar](https://open.spotify.com/track/5cDj5bgUeQ22IZj7NQGVg2) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [El Precio A Pagar](https://open.spotify.com/album/4UaCVS4dtKDG5hOvPqSh6A) | 4:01 | 2023-07-14 | 2023-08-19 |
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-04-21 | 2023-08-12 |
 | [Ella se burló de mí](https://open.spotify.com/track/4A7e3xbhvbktOXCgVYBCDZ) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:30 | 2023-10-04 | 2023-11-25 |
+| [EmotiHadas](https://open.spotify.com/track/0AnoYH7P9HLEmCsLVdqpc7) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [EmotiHadas](https://open.spotify.com/album/0le8F07qJiAu9rfW0cQcBV) | 3:09 | 2024-06-13 |  |
 | [En Algún Lugar](https://open.spotify.com/track/1Oot0xpdRz7DdhZBMPK7el) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [En Algún Lugar](https://open.spotify.com/album/6WqdHALxI1C295UBCThRVq) | 3:05 | 2023-07-03 | 2023-08-19 |
 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 | 2023-08-11 | 2023-08-19 |
 | [Enamorada](https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:08 | 2023-08-11 |  |

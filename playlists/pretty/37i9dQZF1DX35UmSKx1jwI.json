@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 127643,
+  "num_followers": 127670,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-21 23:00:00",
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 199915,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP"
+    },
+    {
+      "added_at": "2023-09-21 23:00:00",
+      "album": {
         "name": "Say So (Jax Jones Midnight Snack Remix)",
         "url": "https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 210491,
       "name": "Say So (Jax Jones Midnight Snack Remix)",
       "url": "https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"
-    },
-    {
-      "added_at": "2023-09-21 23:00:00",
-      "album": {
-        "name": "Old Friend",
-        "url": "https://open.spotify.com/album/3EWFbpqL5iBAL9L7Zoydxj"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 199915,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/7l1NMHXBISVLarwGyfgmFP"
     },
     {
       "added_at": "2023-09-21 23:00:00",

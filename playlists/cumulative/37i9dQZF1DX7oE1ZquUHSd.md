@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-480 songs - 1 day 8 hr 43 min
+481 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 | 2021-11-16 |  |
 | [Desde](https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Desde](https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL) | 4:37 | 2021-11-16 |  |
 | [Desde Mi Ventana](https://open.spotify.com/track/5rvwFXqovvVLIX2ZwbMjoM) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr) | [La Misiva \(Edicion Especial\)](https://open.spotify.com/album/3QTlgekjKmbJhpDtHvK7Dv) | 4:41 | 2021-11-16 | 2022-07-28 |
-| [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 | 2021-11-16 |  |
+| [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 | 2021-11-16 | 2024-06-14 |
 | [Dios, El Diablo Y Yo](https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj) | 4:56 | 2021-11-16 | 2023-06-27 |
 | [Dios, el Diablo y Yo](https://open.spotify.com/track/5yqmKfNauxmMDrRpGgo4qa) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/0MbyCMVuUQYUAJ4B1bLExm) | 4:56 | 2021-11-16 | 2022-07-29 |
 | [Don Dinero](https://open.spotify.com/track/6Bcn8SR6msEEzmKcypdILt) | [Muro de Cráneos](https://open.spotify.com/artist/02DvUfztcmjLdCFRysedNb), [White Shit State](https://open.spotify.com/artist/7xxj65R3e17WXuZTU67HxR) | [Don Dinero](https://open.spotify.com/album/2HAdFxGDInClMDJMJWJLpP) | 5:20 | 2021-11-16 | 2022-06-08 |
@@ -366,6 +366,7 @@
 | [Por Amor al Odio \(Versión Jazz\)](https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg) | [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [Donde Duele Inspira \(Versión Jazz\)](https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL) | 7:18 | 2021-11-16 |  |
 | [Por La Noche](https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Malamarismo](https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa) | 3:43 | 2021-11-16 |  |
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2021-11-16 |  |
+| [Pruebalo](https://open.spotify.com/track/2V5155hKRLxHceKN6S8V8y) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Los Veteranos](https://open.spotify.com/album/79xVsg1JPIqvQE0exEly78) | 3:50 | 2023-08-08 |  |
 | [Psicosis](https://open.spotify.com/track/11YDa6VKQjZAd0TKAQwXKK) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt) | [Crónicas Al Tiempo \(Edición Especial\)](https://open.spotify.com/album/2uqQXqPEILGhEyJRpgZYT0) | 4:08 | 2021-11-16 | 2022-07-26 |
 | [Psicosis](https://open.spotify.com/track/5QhyATU7rfPSSMIJMhDBIh) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt) | [Psicosis](https://open.spotify.com/album/4Q0o93p25dqKl6tYKj7AB5) | 4:17 | 2021-11-16 | 2022-07-25 |
 | [Pura Droga Sin Cortar](https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 6:14 | 2021-11-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Essential new pop tracks. Cover: RAYE",
-  "num_followers": 80572,
+  "num_followers": 80601,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
       "duration_ms": 221346,
       "name": "i got the boy",
       "url": "https://open.spotify.com/track/2iHcFtwALFWm6Xth2KtELi"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Rehearsing Myself",
+        "url": "https://open.spotify.com/album/5qqMNsbbV91PDvFowSw5P2"
+      },
+      "artists": [
+        {
+          "name": "Emily Vaughn",
+          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
+        }
+      ],
+      "duration_ms": 184137,
+      "name": "Rehearsing Myself",
+      "url": "https://open.spotify.com/track/12CTGMf7f8LCdX5cIIN3v1"
     },
     {
       "added_at": "2024-05-31 04:00:00",

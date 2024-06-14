@@ -1,13 +1,65 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4328,
+  "num_followers": 4327,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "AAAHX2Q9gcPdrjLjAmozQqFIfZsgThbX",
+  "snapshot_id": "AAAHbH2yDjb2DUdDTeVzXbNfpqViPIN2",
   "tracks": [
+    {
+      "added_at": "2024-06-13 22:00:34",
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/0h8ntgIk2kGVdwzYGz9h42"
+      },
+      "artists": [
+        {
+          "name": "Hi-Jinks",
+          "url": "https://open.spotify.com/artist/27hoG7bXdeyFvUn1huSPh4"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/7JFKg60oHXVCk04O0Suf60"
+    },
+    {
+      "added_at": "2024-06-13 22:19:18",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/3EEAqP0bIuSmsXEFmxzjFj"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 177619,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/12zQfnvVvxduyDUfxlw65T"
+    },
+    {
+      "added_at": "2024-06-06 10:14:57",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/5pLIIiPDpI4dobUqDWNbNH"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/79hpiOdyCGHTJmkourQNYN"
+    },
     {
       "added_at": "2024-06-06 22:22:31",
       "album": {
@@ -147,22 +199,6 @@
     {
       "added_at": "2024-06-06 10:14:57",
       "album": {
-        "name": "On Again",
-        "url": "https://open.spotify.com/album/7nvs25pVNGNgouWAm1Kb86"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "On Again",
-      "url": "https://open.spotify.com/track/5vASuVQkngtFoCOczem52V"
-    },
-    {
-      "added_at": "2024-06-06 10:14:57",
-      "album": {
         "name": "TRUST",
         "url": "https://open.spotify.com/album/589r4sFNm8R3cETh4lXRRS"
       },
@@ -235,6 +271,26 @@
       "duration_ms": 183281,
       "name": "Afloja",
       "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+    },
+    {
+      "added_at": "2024-06-07 08:13:25",
+      "album": {
+        "name": "Groove School",
+        "url": "https://open.spotify.com/album/5kGOA4qRR7Y5bU3MVG9Klm"
+      },
+      "artists": [
+        {
+          "name": "Thomas Anthony",
+          "url": "https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI"
+        },
+        {
+          "name": "Hypedelic",
+          "url": "https://open.spotify.com/artist/5zS6DPdUBOZFTKwIqzp2wR"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Groove School",
+      "url": "https://open.spotify.com/track/0Md2Hi3rZSAGRAJ2QO5oqW"
     },
     {
       "added_at": "2024-06-06 10:14:57",
@@ -367,22 +423,6 @@
     {
       "added_at": "2024-06-06 10:14:57",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
-    },
-    {
-      "added_at": "2024-06-06 10:14:57",
-      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/5gHPafzM3lVX2xlmjCZnYW"
       },
@@ -403,38 +443,38 @@
     {
       "added_at": "2024-06-06 10:14:57",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4OsS3plUSKaGgF8uNAEOd3"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr"
       },
       "artists": [
         {
-          "name": "VIVID",
-          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "PENELOPE",
-          "url": "https://open.spotify.com/artist/3nAVFW9Ici1N82YmQMbV8J"
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
         }
       ],
-      "duration_ms": 169860,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5RcKm382yYKCqRZvzR6obI"
+      "duration_ms": 167509,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
     },
     {
       "added_at": "2024-06-06 10:14:57",
       "album": {
-        "name": "DOPE",
-        "url": "https://open.spotify.com/album/5GFSnlNi3pWKrCeC63fHJU"
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
       },
       "artists": [
         {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
         }
       ],
-      "duration_ms": 184285,
-      "name": "DOPE",
-      "url": "https://open.spotify.com/track/5UJ2NszmeYJFbk1XwG2fGl"
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-06-06 10:14:57",
@@ -451,6 +491,22 @@
       "duration_ms": 229438,
       "name": "East Bounce",
       "url": "https://open.spotify.com/track/6RwZ2HhlgX1MDo3l5ek0a4"
+    },
+    {
+      "added_at": "2024-06-06 10:14:57",
+      "album": {
+        "name": "Sometimes I Get",
+        "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Sometimes I Get",
+      "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
     },
     {
       "added_at": "2024-06-06 10:14:57",
@@ -551,42 +607,6 @@
     {
       "added_at": "2024-06-06 10:14:57",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/5pLIIiPDpI4dobUqDWNbNH"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/79hpiOdyCGHTJmkourQNYN"
-    },
-    {
-      "added_at": "2024-06-06 10:14:57",
-      "album": {
-        "name": "Sometimes I Get",
-        "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Sometimes I Get",
-      "url": "https://open.spotify.com/track/5Igv1jW8dj9i9LGNhD6ZCm"
-    },
-    {
-      "added_at": "2024-06-06 10:14:57",
-      "album": {
         "name": "White Tiger",
         "url": "https://open.spotify.com/album/6JcUvozxPKui9B7W7rPpgN"
       },
@@ -683,22 +703,6 @@
     {
       "added_at": "2024-06-06 10:14:57",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-06-06 10:14:57",
-      "album": {
         "name": "Flying",
         "url": "https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw"
       },
@@ -743,46 +747,6 @@
       "duration_ms": 153321,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
-    },
-    {
-      "added_at": "2024-06-06 10:14:57",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 167509,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
-    },
-    {
-      "added_at": "2024-06-07 08:13:25",
-      "album": {
-        "name": "Groove School",
-        "url": "https://open.spotify.com/album/5kGOA4qRR7Y5bU3MVG9Klm"
-      },
-      "artists": [
-        {
-          "name": "Thomas Anthony",
-          "url": "https://open.spotify.com/artist/2Kipffvr3gbA2BpMFe0RsI"
-        },
-        {
-          "name": "Hypedelic",
-          "url": "https://open.spotify.com/artist/5zS6DPdUBOZFTKwIqzp2wR"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Groove School",
-      "url": "https://open.spotify.com/track/0Md2Hi3rZSAGRAJ2QO5oqW"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

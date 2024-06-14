@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,644 likes - 76 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,665 likes - 76 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 13 | [The Wing](https://open.spotify.com/track/4nIdUgjJwddAnfZhggwFpa) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:24 |
 | 14 | [Hypnotic Forrest](https://open.spotify.com/track/0Rrhf0uAZgUeAOOuhjezWe) | [Eternal Corridor](https://open.spotify.com/artist/7cseoGU5nNgcyx9QqTFVuO) | [Hypnotic Forrest](https://open.spotify.com/album/4KrhbAGwescsCP7ymufGlV) | 2:48 |
 | 15 | [Welcoming of the Colts](https://open.spotify.com/track/0Htf6VECFgxlVKmS4dHrR0) | [The Goldlight](https://open.spotify.com/artist/35zOaLSrpQwL9mSBQjbK7f) | [Lustre and Mist](https://open.spotify.com/album/1cqYxODeCDRlnOqERNtXn5) | 3:49 |
-| 16 | [Time](https://open.spotify.com/track/07tqZO4kbo6KqjKOcP265f) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Place And Time](https://open.spotify.com/album/7GVevUBAGmJVABY9L2HBAm) | 2:44 |
-| 17 | [Far Far Away](https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Journey To Neptune](https://open.spotify.com/album/2Em0BfI2XgT5Cv7d4ieSL4) | 3:41 |
-| 18 | [Polyrhythmic Focus and Studying Part 1](https://open.spotify.com/track/6vzlTcJBemMHOK6rNlW99C) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:56 |
-| 19 | [radiance\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [radiance\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
+| 16 | [Far Far Away](https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh) | [Shaanouri](https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33) | [Journey To Neptune](https://open.spotify.com/album/2Em0BfI2XgT5Cv7d4ieSL4) | 3:41 |
+| 17 | [Polyrhythmic Focus and Studying Part 1](https://open.spotify.com/track/6vzlTcJBemMHOK6rNlW99C) | [Greecho](https://open.spotify.com/artist/13x3oBzOHHvA23aEPvrLLx) | [Polyrhythmic Focus And Studying](https://open.spotify.com/album/3eVENAC5Fr5WphpkTIEQz0) | 3:56 |
+| 18 | [radiance\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [radiance\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
+| 19 | [Time](https://open.spotify.com/track/07tqZO4kbo6KqjKOcP265f) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Place And Time](https://open.spotify.com/album/7GVevUBAGmJVABY9L2HBAm) | 2:44 |
 | 20 | [Prima Luce](https://open.spotify.com/track/6hOMR6CFQICXK8NXpjiBh2) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Prima Luce](https://open.spotify.com/album/5ETvDJJqpujShOF6sUYaYc) | 4:40 |
 | 21 | [reflections\_](https://open.spotify.com/track/4ILaye6zO7KQ4jdfcsyZfp) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [dark\_2](https://open.spotify.com/album/5RaaBAphojbpJusuLNsOY9) | 4:07 |
 | 22 | [Be Kind](https://open.spotify.com/track/3rkesmzecZXrKZ7HA68OKZ) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 4:07 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 75 | [Vicinities](https://open.spotify.com/track/0GbG6xZEk5vvGGkXyqaAHI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Where All Is Fled](https://open.spotify.com/album/0DSX1JfPpFz03OmBHJBRsG) | 5:01 |
 | 76 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
 
-Snapshot ID: `ZgOMvgAAAAAAWA8UZTkOYZmrXCqlqZ9L`
+Snapshot ID: `ZmtD9gAAAADl20HGOUzXesYxzOlK9tyG`

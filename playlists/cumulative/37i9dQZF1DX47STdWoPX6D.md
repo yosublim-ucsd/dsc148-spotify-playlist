@@ -4,7 +4,7 @@
 
 > New songs from CHH's up and coming artists!  Cover: <a href="spotify:artist:0PUc1lwaZpPJaMr0v4Gdvo">Jon Keith</a>
 
-76 songs - 3 hr 42 min
+78 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Misconception](https://open.spotify.com/track/2FjaC9cRoOy1Hv3rHuoFts) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Propaganda](https://open.spotify.com/artist/1CW22g5tscyuqyeszR4CsC), [Beautiful Eulogy](https://open.spotify.com/artist/1aoAseexNuwSuXVAGPfLex), [DJ Efechto](https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1) | [Church Clothes](https://open.spotify.com/album/3pUf0MTDcXjmlzDYAAPqX8) | 4:36 | 2018-11-21 | 2024-04-19 |
 | [Misconception](https://open.spotify.com/track/3OCcjCTjNnt1WSMiBlZUg9) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Beautiful Eulogy](https://open.spotify.com/artist/1aoAseexNuwSuXVAGPfLex), [DJ Efechto](https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1) | [Church Clothes](https://open.spotify.com/album/0xm9QjhaVTcurzg8IFbSjg) | 4:36 | 2018-11-21 | 2024-06-13 |
 | [Most High](https://open.spotify.com/track/1RR8q4IepBoQwVFmbOizQM) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Most High](https://open.spotify.com/album/5qIAugNLiLPeNzugJB3wTs) | 2:58 | 2024-06-12 |  |
+| [No Cosign](https://open.spotify.com/track/5hCWf5D51CAD1QDCoeg6kY) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Beanz Valdez](https://open.spotify.com/artist/1nnXTV7nnAU3niZqESjMUw), [IV](https://open.spotify.com/artist/2FKo6xhwKKj1NWLQ2dKoAw) | [No Cosign](https://open.spotify.com/album/1F6yb9qkj0Ai89FCeOxYJe) | 2:32 | 2024-06-12 |  |
 | [No Holds Tongue](https://open.spotify.com/track/59bTN3tvY9wXq0vdP5wKjP) | [Alert312](https://open.spotify.com/artist/2WMTYfACe7p99zN3X3ZMrE), [DJ Efechto](https://open.spotify.com/artist/3URMfrDdC2LRia3gcWlpG1), [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [The Upside Eternal](https://open.spotify.com/album/0wmfUb1Cr1MdfxVoyXBok5) | 3:36 | 2018-11-21 | 2024-06-13 |
 | [One Of Them Ones](https://open.spotify.com/track/0EcL8667UQIGNCqJG5AlWh) | [Gifted Hands](https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6) | [Childhood Trauma](https://open.spotify.com/album/0GMP21tyFRTv74Fcstcnhf) | 3:22 | 2024-06-12 |  |
 | [Pack Yo Bags](https://open.spotify.com/track/6i4VdiosDEqYBIs06arK1A) | [The Bridge](https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE), [D\. Steele](https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj), [Efechto](https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW) | [The Bridge](https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE) | 1:25 | 2018-11-21 | 2024-06-13 |
@@ -74,6 +75,7 @@
 | [Take It There](https://open.spotify.com/track/703eoQkxytsRX5J5g5yG8x) | [Mitch Darrell](https://open.spotify.com/artist/4CBgmRY3dI7ToptTHIxvj3), [Wayne Klassik](https://open.spotify.com/artist/3rmqwsgWN75pX6EzDK5xTv) | [Take It There](https://open.spotify.com/album/68piPNslmbtvlRh5i3cTUt) | 1:40 | 2024-06-12 |  |
 | [Tape Hiss \(Dirty\)](https://open.spotify.com/track/30E0RS7utw9Ef0XR2Fz7Oz) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Beat Konducta Vol\. 1\-2: Movie Scenes](https://open.spotify.com/album/7wKrftuMRji6JskeRGEoHz) | 1:18 | 2018-11-21 | 2024-04-19 |
 | [Tape Hiss \(Dirty\)](https://open.spotify.com/track/5E1sle7xyicjoxPxmfu4kw) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Beat Konducta Vol\. 1\-2: Movie Scenes](https://open.spotify.com/album/6VFknpSrlXtsIjoY6cJc8p) | 1:18 | 2018-11-21 | 2024-06-13 |
+| [Thank You Jesus \(Hallelujah\)](https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT) | [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [Thank You Jesus \(Hallelujah\)](https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe) | 2:36 | 2024-06-12 |  |
 | [The Bridge Is Ova](https://open.spotify.com/track/1b3uVI5zDTDNeDmTkoiNh4) | [The Bridge](https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE), [D\. Steele](https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj), [Efechto](https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW) | [The Bridge](https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE) | 1:53 | 2018-11-21 | 2024-06-13 |
 | [The Comeback \(Madlib\)](https://open.spotify.com/track/0mFCMKU5vbnAr49m98bSA1) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Beat Konducta Vol\. 1\-2: Movie Scenes](https://open.spotify.com/album/6VFknpSrlXtsIjoY6cJc8p) | 1:13 | 2018-11-21 | 2024-06-13 |
 | [The Comeback \(Madlib\)](https://open.spotify.com/track/65I8SFvK8rurlVkl6UPZhA) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Beat Konducta Vol\. 1\-2: Movie Scenes](https://open.spotify.com/album/7wKrftuMRji6JskeRGEoHz) | 1:13 | 2018-11-21 | 2024-04-19 |

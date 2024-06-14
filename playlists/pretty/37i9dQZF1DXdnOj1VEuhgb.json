@@ -1,15 +1,15 @@
 {
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jeff Redd",
-  "num_followers": 1348163,
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Era7capone x Batuflex x Narco",
+  "num_followers": 1348277,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmamzAAAAAAspW7v/49qlv23N4MR8gqc",
+  "snapshot_id": "Zmtd0AAAAACUh36d/DtH0QdcnuPW0Tnb",
   "tracks": [
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "CISTAK",
         "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Shoote Shoote",
         "url": "https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "Bitmez \u00dcmitlerim",
+        "url": "https://open.spotify.com/album/123kCll74XMoPqLsSlG8Z9"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 164352,
+      "name": "Bitmez \u00dcmitlerim",
+      "url": "https://open.spotify.com/track/34CpmKk7afqWw4JpsC7m0R"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Dale Don Dale",
         "url": "https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV"
@@ -65,79 +81,7 @@
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "SEV\u0130MS\u0130Z",
-        "url": "https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 109134,
-      "name": "RONDO",
-      "url": "https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "The World is Yours",
-        "url": "https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f"
-      },
-      "artists": [
-        {
-          "name": "Organize",
-          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
-        },
-        {
-          "name": "Astral",
-          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
-        }
-      ],
-      "duration_ms": 118274,
-      "name": "IstanbuL",
-      "url": "https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "Damlars\u0131n",
-        "url": "https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Damlars\u0131n",
-      "url": "https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "Senin Y\u00fcz\u00fcnden",
-        "url": "https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi"
-      },
-      "artists": [
-        {
-          "name": "Etki",
-          "url": "https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg"
-        },
-        {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
-        }
-      ],
-      "duration_ms": 162499,
-      "name": "Senin Y\u00fcz\u00fcnden",
-      "url": "https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ"
@@ -157,7 +101,163 @@
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq"
+      },
+      "artists": [
+        {
+          "name": "Melez",
+          "url": "https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "SAGOLUYORUM (BIG TERORISTA)",
+        "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 95540,
+      "name": "SAGOLUYORUM (BIG TERORISTA)",
+      "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
+        "url": "https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
+      "url": "https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "A\u015fk Her \u015eeyi Affeder Mi",
+        "url": "https://open.spotify.com/album/7Kki8jgwpltOsbMPyZ7ksF"
+      },
+      "artists": [
+        {
+          "name": "\u015eam",
+          "url": "https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "A\u015fk Her \u015eeyi Affeder Mi",
+      "url": "https://open.spotify.com/track/1UVIKuZpRjdSoM2jj81GGJ"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "The World is Yours",
+        "url": "https://open.spotify.com/album/49uDkFve9sxXZZWywtq00f"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "duration_ms": 118274,
+      "name": "IstanbuL",
+      "url": "https://open.spotify.com/track/4kL9OgH9eGLWRERkUSH5RZ"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "Senin Y\u00fcz\u00fcnden",
+        "url": "https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi"
+      },
+      "artists": [
+        {
+          "name": "Etki",
+          "url": "https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "duration_ms": 162499,
+      "name": "Senin Y\u00fcz\u00fcnden",
+      "url": "https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "Damlars\u0131n",
+        "url": "https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Damlars\u0131n",
+      "url": "https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "SEV\u0130MS\u0130Z",
+        "url": "https://open.spotify.com/album/2IQFXC71m1lcpg5YIy4KIF"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 109134,
+      "name": "RONDO",
+      "url": "https://open.spotify.com/track/4ArmVkPk43NTW5jjRlb5aL"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 123519,
+      "name": "Sezen Aksu",
+      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Soluksuz",
         "url": "https://open.spotify.com/album/0kmkwpeqJP0qnBlPYnLiSQ"
@@ -177,107 +277,7 @@
       "url": "https://open.spotify.com/track/5FQq3nM4JY8M97PLs8OqSE"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "SAGOLUYORUM (BIG TERORISTA)",
-        "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 95540,
-      "name": "SAGOLUYORUM (BIG TERORISTA)",
-      "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "BEN\u0130MS\u0130N",
-        "url": "https://open.spotify.com/album/6qMJN3UZFYWEGfN64C0LVq"
-      },
-      "artists": [
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
-        }
-      ],
-      "duration_ms": 160025,
-      "name": "BEN\u0130MS\u0130N",
-      "url": "https://open.spotify.com/track/0wIFigZkGmivwhAkrCAz09"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
-        "url": "https://open.spotify.com/album/7wHTQvIXsj6ULlSv1QDM0k"
-      },
-      "artists": [
-        {
-          "name": "Wegh",
-          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Sana Vuruldum (Ulubatl\u0131 Hasan)",
-      "url": "https://open.spotify.com/track/5oYRllIEUix5gkYaml9m5p"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "madem \u00f6yle...(rastla\u015fcaz!)",
-        "url": "https://open.spotify.com/album/4Wr3DR90tXZFFdDYCOF5rs"
-      },
-      "artists": [
-        {
-          "name": "Lil Zey",
-          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
-        }
-      ],
-      "duration_ms": 183439,
-      "name": "madem \u00f6yle...(rastla\u015fcaz!)",
-      "url": "https://open.spotify.com/track/7c6c0q5Ud88l0smh1JHwea"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "#1",
-        "url": "https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 123519,
-      "name": "Sezen Aksu",
-      "url": "https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "S\u00f6n\u00fck Kald\u0131n",
-        "url": "https://open.spotify.com/album/0FzybsrMkrplViiOHqNFvL"
-      },
-      "artists": [
-        {
-          "name": "Xentix",
-          "url": "https://open.spotify.com/artist/1RltulqsGXX8jN82sxZHpp"
-        },
-        {
-          "name": "\u015eehin\u015fah",
-          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "S\u00f6n\u00fck Kald\u0131n",
-      "url": "https://open.spotify.com/track/1HtT0CVW7SbMiECVEPOiO5"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "anlatamam",
         "url": "https://open.spotify.com/album/3At9Fy28V8N8zkV1kN0Ybf"
@@ -293,23 +293,39 @@
       "url": "https://open.spotify.com/track/6n5sAwgI535CMAr36INv9L"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
-        "name": "King of Rap",
-        "url": "https://open.spotify.com/album/6b60t1x47eZhkbb2KEF44q"
+        "name": "madem \u00f6yle...(rastla\u015fcaz!)",
+        "url": "https://open.spotify.com/album/4Wr3DR90tXZFFdDYCOF5rs"
       },
       "artists": [
         {
-          "name": "Patron",
-          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
         }
       ],
-      "duration_ms": 221298,
-      "name": "King of Rap",
-      "url": "https://open.spotify.com/track/3wbVrnev0g71xcrpQhzfRw"
+      "duration_ms": 183439,
+      "name": "madem \u00f6yle...(rastla\u015fcaz!)",
+      "url": "https://open.spotify.com/track/7c6c0q5Ud88l0smh1JHwea"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "BEN\u0130MS\u0130N",
+        "url": "https://open.spotify.com/album/6qMJN3UZFYWEGfN64C0LVq"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 160025,
+      "name": "BEN\u0130MS\u0130N",
+      "url": "https://open.spotify.com/track/0wIFigZkGmivwhAkrCAz09"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Kaptan",
         "url": "https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs"
@@ -325,7 +341,27 @@
       "url": "https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "SUBMARINER",
+        "url": "https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7"
+      },
+      "artists": [
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 123989,
+      "name": "SUBMARINER",
+      "url": "https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Beni Yarg\u0131lama",
         "url": "https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB"
@@ -349,7 +385,27 @@
       "url": "https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "S\u00f6n\u00fck Kald\u0131n",
+        "url": "https://open.spotify.com/album/0FzybsrMkrplViiOHqNFvL"
+      },
+      "artists": [
+        {
+          "name": "Xentix",
+          "url": "https://open.spotify.com/artist/1RltulqsGXX8jN82sxZHpp"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "S\u00f6n\u00fck Kald\u0131n",
+      "url": "https://open.spotify.com/track/1HtT0CVW7SbMiECVEPOiO5"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Kimler Gelmi\u015f",
         "url": "https://open.spotify.com/album/434v3QmLFWEO6tul6tLCbw"
@@ -369,7 +425,7 @@
       "url": "https://open.spotify.com/track/1hTGDVYNtZ5PEnJtawJz2o"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "D\u00d6NMEK \u0130\u00c7\u0130N EVE",
         "url": "https://open.spotify.com/album/64fwU37sl4h3v0FpSBfQ5O"
@@ -385,7 +441,23 @@
       "url": "https://open.spotify.com/track/4c8GowvkAkbzC4RqdH0SQV"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
+      "album": {
+        "name": "King of Rap",
+        "url": "https://open.spotify.com/album/6b60t1x47eZhkbb2KEF44q"
+      },
+      "artists": [
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "duration_ms": 221298,
+      "name": "King of Rap",
+      "url": "https://open.spotify.com/track/3wbVrnev0g71xcrpQhzfRw"
+    },
+    {
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "LAF",
         "url": "https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O"
@@ -401,27 +473,7 @@
       "url": "https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "SUBMARINER",
-        "url": "https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7"
-      },
-      "artists": [
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        },
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 123989,
-      "name": "SUBMARINER",
-      "url": "https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "ummak apt.",
         "url": "https://open.spotify.com/album/6tECQeZNViwCKMnr9glZF3"
@@ -437,7 +489,7 @@
       "url": "https://open.spotify.com/track/5OyAIjpULqe26T058n2AFf"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Dilden Dile",
         "url": "https://open.spotify.com/album/60X4XyKOlu9SliLzjElmGB"
@@ -453,7 +505,7 @@
       "url": "https://open.spotify.com/track/2gEzY9A4cQIOGsOM9xODKF"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Kaynanam",
         "url": "https://open.spotify.com/album/20FhWeR02sTa0j1MgetrkC"
@@ -469,7 +521,7 @@
       "url": "https://open.spotify.com/track/0rjtocRvOFrYcsmJiAJP5V"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "IKARUS",
         "url": "https://open.spotify.com/album/1zkZPiKRqqVJPKIqap3SU8"
@@ -489,31 +541,7 @@
       "url": "https://open.spotify.com/track/1UwqT7LDL8rarnQxiLu4DZ"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "M\u0130LENYUM",
-        "url": "https://open.spotify.com/album/3eFt8EuVOcGEdeBFL3MBQr"
-      },
-      "artists": [
-        {
-          "name": "Jefe",
-          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
-        },
-        {
-          "name": "Bar B",
-          "url": "https://open.spotify.com/artist/0psj0eABrCNIcYLIuDw21A"
-        },
-        {
-          "name": "Bekom",
-          "url": "https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "RARi",
-      "url": "https://open.spotify.com/track/5WfLaQZdnaGM7nOZHdvVQB"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "taycan v1",
         "url": "https://open.spotify.com/album/4FNyPHSqsqmgMdc6s9Fv1W"
@@ -529,7 +557,7 @@
       "url": "https://open.spotify.com/track/7FFBcQzDcvwbcAVV8SqgsT"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Kennedy'i Ben Vurdum",
         "url": "https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq"
@@ -545,23 +573,7 @@
       "url": "https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "Mask Yok",
-        "url": "https://open.spotify.com/album/2XuJwqi8NQjzsbxPT4MkRI"
-      },
-      "artists": [
-        {
-          "name": "Grogi",
-          "url": "https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D"
-        }
-      ],
-      "duration_ms": 139989,
-      "name": "Mask Yok",
-      "url": "https://open.spotify.com/track/5Q2X7iXE3Qlx9zL0DZYP0X"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "pVg",
         "url": "https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6"
@@ -577,7 +589,7 @@
       "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "\u00d6l\u00fcm",
         "url": "https://open.spotify.com/album/46IfShPkpXO3MrHkv6jQNW"
@@ -597,31 +609,7 @@
       "url": "https://open.spotify.com/track/4HD2JqwQtTI1zrHHA8dOAc"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
-      "album": {
-        "name": "GRIFFIN FREESTYLE",
-        "url": "https://open.spotify.com/album/7cW3TAbXVvVqeP0PI6CCJU"
-      },
-      "artists": [
-        {
-          "name": "Veron Algos",
-          "url": "https://open.spotify.com/artist/3tChlx5I5JhZfY55Hp0Wa1"
-        },
-        {
-          "name": "Hidra",
-          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
-        },
-        {
-          "name": "Tafoni",
-          "url": "https://open.spotify.com/artist/3a2i6JtfwRncwW8u9HBesW"
-        }
-      ],
-      "duration_ms": 181005,
-      "name": "GRIFFIN FREESTYLE",
-      "url": "https://open.spotify.com/track/4vHvFQpsPXOBgIqZM5cCLo"
-    },
-    {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "MINI TERORISTA",
         "url": "https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG"
@@ -637,7 +625,7 @@
       "url": "https://open.spotify.com/track/6kvf06eThDCrvYknMY32To"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "DO\u011eU\u015eTAN BER\u0130 HAKLIYIM (tmm)",
         "url": "https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm"
@@ -653,7 +641,7 @@
       "url": "https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "YOUNGSTA",
         "url": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q"
@@ -673,7 +661,7 @@
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Salla Salla",
         "url": "https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD"
@@ -689,7 +677,7 @@
       "url": "https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Ho\u015f\u00e7akal",
         "url": "https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps"
@@ -705,7 +693,7 @@
       "url": "https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "A La Carte",
         "url": "https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD"
@@ -729,7 +717,7 @@
       "url": "https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "JET BABA",
         "url": "https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm"
@@ -749,7 +737,7 @@
       "url": "https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Sokakta Stres",
         "url": "https://open.spotify.com/album/3EEIfRTJw16UWx03Xaix9W"
@@ -765,7 +753,7 @@
       "url": "https://open.spotify.com/track/5UNtKrrLFnvX1rCfdjaZGb"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Kalbim Yan\u0131mda",
         "url": "https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o"
@@ -781,7 +769,7 @@
       "url": "https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
@@ -797,7 +785,7 @@
       "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Cesaret",
         "url": "https://open.spotify.com/album/00HFD6omZZg5Fj1zH4QRMT"
@@ -817,7 +805,7 @@
       "url": "https://open.spotify.com/track/4LPfP8XzAp7OESNP28AUFB"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "ROMANT\u0130K",
         "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
@@ -833,7 +821,7 @@
       "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Promilim Y\u00fcksek",
         "url": "https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC"
@@ -849,7 +837,7 @@
       "url": "https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "Telefon",
         "url": "https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz"
@@ -865,7 +853,7 @@
       "url": "https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "YAPTIRICAZ TIRNAKLARINI",
         "url": "https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk"
@@ -881,7 +869,7 @@
       "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"
     },
     {
-      "added_at": "2024-06-06 21:00:00",
+      "added_at": "2024-06-13 21:00:00",
       "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Megan Moroney",
+  "description": "The cream of today's Country crop. Cover: Luke Combs",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -3072,7 +3072,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 158175,
       "name": "Everything",
       "url": "https://open.spotify.com/track/045YT1MAfeRSbtAxA2Vkyo"
@@ -4494,7 +4494,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 197803,
       "name": "Heartbroken - Jessie Version",
       "url": "https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9"
@@ -5014,6 +5014,24 @@
       "duration_ms": 181148,
       "name": "I Ain't A Cowgirl",
       "url": "https://open.spotify.com/track/6TjRLpByCtpmatpCoFV9Na"
+    },
+    {
+      "album": {
+        "name": "I Am Not Okay",
+        "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
     },
     {
       "album": {
@@ -6334,6 +6352,24 @@
       "duration_ms": 216133,
       "name": "Love Like That (feat. The Shires)",
       "url": "https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX"
+    },
+    {
+      "album": {
+        "name": "Love Me Like A Cowboy",
+        "url": "https://open.spotify.com/album/7BQQEecCG3IELvz9wnypW1"
+      },
+      "artists": [
+        {
+          "name": "Emmagen Rain",
+          "url": "https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145460,
+      "name": "Love Me Like A Cowboy",
+      "url": "https://open.spotify.com/track/7euwjupUU7rGY7H1w7YtfH"
     },
     {
       "album": {
@@ -8254,6 +8290,24 @@
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
+    },
+    {
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
       "album": {
@@ -10907,6 +10961,24 @@
     },
     {
       "album": {
+        "name": "Too Easy (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150507,
+      "name": "Too Easy (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5DWplsLK5juocMo4PBX826"
+    },
+    {
+      "album": {
         "name": "Too Far Gone",
         "url": "https://open.spotify.com/album/1WLgw88p4v0I3MYoA3L1ze"
       },
@@ -11224,7 +11296,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 200102,
       "name": "Waylon In '75",
       "url": "https://open.spotify.com/track/2D2HjhdgjfaMSFLB0scM9L"
@@ -11494,7 +11566,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 149002,
       "name": "Whatcha See Is Whatcha Get",
       "url": "https://open.spotify.com/track/5Cwy5VbPoYIwc5NSFWP91C"

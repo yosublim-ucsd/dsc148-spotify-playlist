@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão
 
-615 songs - 1 day 8 hr 47 min
+617 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Eu Sei](https://open.spotify.com/track/3BLnlQwb0h9EVzDWI9WFpm) | [Fugitivo AH](https://open.spotify.com/artist/3VAnoZNiMY5AHI8EBW9DEo) | [Eu Sei](https://open.spotify.com/album/3PlnVKoDX4HdryOK9e5uWu) | 2:27 | 2023-11-17 | 2023-11-23 |
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 | 2023-06-30 |
 | [Eu Sei \#6](https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO), [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Eu Sei \#6](https://open.spotify.com/album/7zxYPMBvLHPqSbpMQsl7V1) | 2:45 | 2024-04-11 |  |
+| [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 | 2024-06-13 |  |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 | 2023-06-02 |
 | [FALA COMIGO](https://open.spotify.com/track/1CMsg2cYPcStv9wTfIyN0a) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [Codie](https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm) | [FALA COMIGO](https://open.spotify.com/album/0aOByZwykAkHd5NYgsy2ct) | 2:44 | 2023-05-26 | 2023-06-16 |
@@ -376,6 +377,7 @@
 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 | 2023-04-27 | 2023-05-26 |
 | [NIAGARA](https://open.spotify.com/track/0FF1VE2GNCkHQWVu4Yh98M) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [NIAGARA](https://open.spotify.com/album/5DcpE1LAHLT7G9g1Fm1BG3) | 2:33 | 2024-04-25 | 2024-05-16 |
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 | 2023-03-11 |
+| [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 | 2024-06-13 |  |
 | [Ninguém](https://open.spotify.com/track/2BoLPJf73XYyYExfYuOmRy) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Ninguém](https://open.spotify.com/album/06zv7JC49c7rEuqLxV4rW1) | 3:12 | 2023-11-10 | 2023-11-18 |
 | [NO MO Parties](https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [NO MO Parties](https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh) | 3:47 | 2023-03-03 | 2023-03-25 |
 | [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 | 2024-02-09 | 2024-03-08 |
@@ -600,7 +602,7 @@
 | [Vivenda](https://open.spotify.com/track/5vnzyBc5JZ1Z7VZJcf4ap6) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Vivenda](https://open.spotify.com/album/2aA6KxWFPth5qoD1AHNflH) | 3:11 | 2022-12-23 | 2023-01-21 |
 | [Voando Alto](https://open.spotify.com/track/5AmZiQnTncvC0z060HYRXf) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [VPaiva](https://open.spotify.com/artist/7c5SVMouNYWWVXxp8kmqt9) | [Voando Alto](https://open.spotify.com/album/5FzYx0EtmdDq66FYObztp2) | 3:43 | 2023-05-18 | 2023-06-09 |
 | [Voei](https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy) | [Curly](https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er) | [Voei](https://open.spotify.com/album/4PrPoQtU1ixXHvFUAnjnFf) | 2:44 | 2023-07-27 | 2023-08-18 |
-| [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 | 2024-04-18 |  |
+| [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 | 2024-04-18 | 2024-06-14 |
 | [Volta](https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Volta](https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1) | 3:56 | 2024-03-01 | 2024-04-19 |
 | [VOLTA](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [VOLTA](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 | 2022-07-07 | 2024-02-16 |
 | [walk out the bank!](https://open.spotify.com/track/5qeBm0pmYGqkTnpDuRyAJ7) | [eddy0](https://open.spotify.com/artist/0IwWt2hhkBZeP8hpwjYrDZ) | [walk out the bank!](https://open.spotify.com/album/1g528RYm2GDDec43yMNSHQ) | 2:14 | 2023-11-17 | 2023-12-09 |
@@ -620,7 +622,7 @@
 | [Água](https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl) | [Mariana Norton](https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV) | [Água](https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc) | 3:27 | 2023-05-18 | 2023-06-09 |
 | [Água e Sal](https://open.spotify.com/track/1cFG1haTcSOeqnUE05NtCz) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Água e Sal](https://open.spotify.com/album/1QJWwv9rm3mcBDJBuKO0uS) | 2:33 | 2024-05-30 |  |
 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 | 2024-04-18 | 2024-06-11 |
-| [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 | 2024-05-02 |  |
+| [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 | 2024-05-02 | 2024-06-14 |
 | [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 | 2023-03-31 |
 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 | 2022-09-29 | 2022-11-18 |
 

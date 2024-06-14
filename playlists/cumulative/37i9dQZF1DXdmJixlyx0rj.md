@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: RIIZE\)
 
-125 songs - 7 hr 17 min
+126 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Keep On Jumpin'](https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE) | [Worvan](https://open.spotify.com/artist/2xPNzJaAiVobXqliW6ZXvC), [Juyong](https://open.spotify.com/artist/0ALnsDV3w3tXL6abvFJkP2) | [Keep On Jumpin'](https://open.spotify.com/album/1JXc3MPb9LFPiWuM5qe18Z) | 2:00 | 2024-04-05 | 2024-06-01 |
 | [Kick It \- Hitchhiker Remix](https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:10 | 2024-04-05 |  |
 | [Kick It \- Valentino Khan Remix](https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:09 | 2024-04-05 |  |
-| [Lift Me Up](https://open.spotify.com/track/2lahORylPr5NKed4le9ODg) | [DUE](https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m) | [Lift Me Up](https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A) | 2:01 | 2024-04-05 |  |
+| [Lift Me Up](https://open.spotify.com/track/2lahORylPr5NKed4le9ODg) | [DUE](https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m) | [Lift Me Up](https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A) | 2:01 | 2024-04-05 | 2024-06-14 |
 | [LIMBO](https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:53 | 2024-06-07 |  |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-06-05 |  |
 | [Los Angeles \- Moksi Remix](https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes](https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb) | 2:59 | 2024-04-05 |  |
@@ -131,6 +131,7 @@
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2024-04-05 |  |
 | [Wish](https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 5:55 | 2024-04-05 |  |
 | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5qti5IxeLXnhbiMi92R5GC) | 3:00 | 2024-06-07 |  |
+| [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/album/7v7neu2S3o7LqnVxgxkzog) | 2:45 | 2024-06-13 |  |
 | [Worries](https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 7:48 | 2024-04-05 |  |
 | [Young Again](https://open.spotify.com/track/0EQ599Ifl0DBLMcrTvv7Iu) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Young Again](https://open.spotify.com/album/04A2MlzNmWlnAVYCm9lR7f) | 2:53 | 2024-04-05 | 2024-06-08 |
 

@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-331 songs - 16 hr 50 min
+332 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [The Darkness](https://open.spotify.com/track/4tR8fRaxfqK8cbBTGUW4CV) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Darkness](https://open.spotify.com/album/1XWG1uWWEu4ojBEPSNakYK) | 3:01 | 2023-11-23 | 2024-03-22 |
 | [The Deal](https://open.spotify.com/track/3WVwBe9JdXuetcnjkcs9oQ) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i) | [The Deal](https://open.spotify.com/album/2m1rt9ckFcIfeAMUJwewMF) | 2:53 | 2023-07-07 | 2023-12-09 |
 | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/track/0ZSiQQeGZp2ct1qupFtYSw) | [XYNTHESIZE](https://open.spotify.com/artist/5J9yQhiZO5jfcrRJYUiO2d), [KVELL](https://open.spotify.com/artist/5pL9g2lZ8YpZNmoD1zcIL1) | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/album/2Q8Aq4ZZcfoU4dzJbSmdl6) | 3:31 | 2022-12-23 | 2023-02-18 |
+| [The Neon City](https://open.spotify.com/track/4oRgXJJQ81F6WbPPXvM2IM) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Qwerty](https://open.spotify.com/artist/1zy8SA3oy5HdFvPkckW5bW) | [The Neon City](https://open.spotify.com/album/4O5SB8XnQm6kXNlAJobBU0) | 2:54 | 2024-06-13 |  |
 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 | 2023-12-08 |  |
 | [The One](https://open.spotify.com/track/71iBDvsM2h1dcTcMTWJ41j) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [The One](https://open.spotify.com/album/2cdvMdWc7OsyiqJj79vhMk) | 3:03 | 2022-07-29 | 2023-08-11 |
 | [The Ones We Love \- ARTY Remode](https://open.spotify.com/track/66dv5lOc8zxYdAJzhFDvJb) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [The Ones We Love \(ARTY Remode\)](https://open.spotify.com/album/2s2nN8FW7mOJR2jwzmPstA) | 3:59 | 2022-07-29 |  |

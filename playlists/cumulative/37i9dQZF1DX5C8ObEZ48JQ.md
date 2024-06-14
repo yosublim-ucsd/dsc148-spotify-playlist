@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN?si=j8ebNvXdTx\-zXKbjXiu\_1A">We are Nubia</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS?si=OsttrrcdTVCD1iq6\_H7DtQ">Muyeez</a>\. Artwork: Isu Kim.
 
 885 songs - 1 day 20 hr 46 min
 

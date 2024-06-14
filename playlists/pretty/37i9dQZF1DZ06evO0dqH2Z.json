@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAABtmLpZyJoXxoBhCvmAtMoN",
+  "snapshot_id": "ZmjlAAAAAABCwJ2xlAspa/gCi8qT0Kbp",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Death",
-        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "Fake Death",
-      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warn Me",
         "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 194346,
       "name": "Warn Me",
       "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Lodging",
+      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+        "name": "Fake Death",
+        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 180253,
-      "name": "Lodging",
-      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
+      "duration_ms": 128520,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
     },
     {
       "added_at": null,

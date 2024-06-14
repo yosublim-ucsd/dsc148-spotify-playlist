@@ -1,12 +1,12 @@
 {
   "description": "i'm looking for a man in finance & pedro pedro pedro ",
-  "num_followers": 262026,
+  "num_followers": 262101,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmlomwAAAAD55yGS97Z5UGTkJwKzhhYP",
+  "snapshot_id": "Zmq6/QAAAAC4rQ9f4tApO56OfhvSmzS6",
   "tracks": [
     {
       "added_at": "2024-05-22 11:00:00",
@@ -107,6 +107,26 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "added_at": "2024-06-13 09:25:16",
+      "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
       "added_at": "2024-05-22 11:00:00",

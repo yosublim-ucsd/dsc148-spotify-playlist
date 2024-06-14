@@ -2,7 +2,7 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Tompi
 
 187 songs - 13 hr 28 min
 

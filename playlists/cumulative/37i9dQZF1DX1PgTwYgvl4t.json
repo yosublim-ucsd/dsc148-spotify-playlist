@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "All to You",
+        "url": "https://open.spotify.com/album/3sEcky04bBERIf8So7cqKV"
+      },
+      "artists": [
+        {
+          "name": "Fredrock",
+          "url": "https://open.spotify.com/artist/7lGQM4ChTijSo7u4dKP5Jy"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228361,
+      "name": "All to You",
+      "url": "https://open.spotify.com/track/32naTG3cDf7G72CB7CgCHC"
+    },
+    {
+      "album": {
         "name": "Anytime Anyday",
         "url": "https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC"
       },
@@ -244,6 +262,28 @@
       "duration_ms": 232071,
       "name": "Dependable God (Medley)",
       "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
+    },
+    {
+      "album": {
+        "name": "I AM WORSHIP",
+        "url": "https://open.spotify.com/album/4KeOD3GEkjsXVZjGUkVs4c"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544918,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/5jiwZ0QanieOPplSznG8RQ"
     },
     {
       "album": {
@@ -594,7 +634,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 454040,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV"
@@ -787,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Oba Awon Oba",
+        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 733135,
+      "name": "Oba Awon Oba",
+      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
+    },
+    {
+      "album": {
         "name": "Unlimited - Verse 1",
         "url": "https://open.spotify.com/album/3cBoClyLmO7nWQAVcPigPI"
       },
@@ -962,7 +1024,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 300000,
       "name": "There For Me",
       "url": "https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw"
@@ -1002,6 +1064,24 @@
       "duration_ms": 144213,
       "name": "Wonderful - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
+    },
+    {
+      "album": {
+        "name": "WORSHIP TO YOUR THRONE (LIVE)",
+        "url": "https://open.spotify.com/album/1tVk6j8s7rr2o2kl6c0LFK"
+      },
+      "artists": [
+        {
+          "name": "Ruke Gure",
+          "url": "https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "WORSHIP TO YOUR THRONE - LIVE",
+      "url": "https://open.spotify.com/track/57wt9vQPFxQOBFvAV1yBvb"
     },
     {
       "album": {
@@ -1128,7 +1208,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 403000,
       "name": "\u00c0\u00c1NU RE - Live",
       "url": "https://open.spotify.com/track/7cis87CPYVitN0xfV8XCum"

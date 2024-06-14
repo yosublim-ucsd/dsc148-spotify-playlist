@@ -76393,6 +76393,24 @@
     },
     {
       "album": {
+        "name": "Rehearsing Myself",
+        "url": "https://open.spotify.com/album/5qqMNsbbV91PDvFowSw5P2"
+      },
+      "artists": [
+        {
+          "name": "Emily Vaughn",
+          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Rehearsing Myself",
+      "url": "https://open.spotify.com/track/12CTGMf7f8LCdX5cIIN3v1"
+    },
+    {
+      "album": {
         "name": "POP MUSIC",
         "url": "https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK"
       },

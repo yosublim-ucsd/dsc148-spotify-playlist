@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-262 songs - 1 day 1 hr 57 min
+263 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Koyo Ganda \- Amine K Remix](https://open.spotify.com/track/5Zxxmckr3EcDeQfZaQsn5m) | [K'lid](https://open.spotify.com/artist/7vDWonsXaNMD4klWcmBgST), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Koyo Ganda](https://open.spotify.com/album/6Kkfme3fugKzid7YIhuVrv) | 3:31 | 2024-04-21 |  |
 | [Kshama](https://open.spotify.com/track/41DoALg5bbmd2wNXNNyWsB) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Kshama](https://open.spotify.com/album/6uZ3d8tWQJQgmaTgoxdHy5) | 5:20 | 2022-04-13 | 2023-04-21 |
 | [Kuar \- FNX Omar Remix](https://open.spotify.com/track/3HFFBfoTdd0TOlvMgq3Lzc) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Kuar \(FNX Omar Remix\)](https://open.spotify.com/album/5zJNZeDGkoSirEIu2R1B5W) | 6:40 | 2023-03-08 |  |
-| [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-04 |  |
+| [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 | 2022-08-04 | 2024-06-14 |
 | [L3ar](https://open.spotify.com/track/1K8N2LASR0Nkox4mB2tqEM) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [HARMAK](https://open.spotify.com/artist/1CZuy5Dcxgtysh7ggzCRuL), [Sekou Percu](https://open.spotify.com/artist/5F8KxwgKB3laVADr5fsg0a) | [L3ar](https://open.spotify.com/album/0fKc7dd70dl1Xwu4Wf6sp4) | 6:39 | 2023-12-28 |  |
 | [Latlal \- Hyenah Remix](https://open.spotify.com/track/4zFwlzD1d4XJcelTfhpbgr) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Latlal Remixes](https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg) | 6:53 | 2023-04-07 |  |
 | [Legion](https://open.spotify.com/track/3zWiwM4jf8Mqzv6a5TklJ7) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Legion](https://open.spotify.com/album/4OHhb3FA3DX5LNe3hbCVZu) | 3:40 | 2024-03-22 |  |
@@ -270,5 +270,6 @@
 | [Your Smile](https://open.spotify.com/track/48yHhCozhMi1bJgpPHtEPh) | [One Violin Orchestra](https://open.spotify.com/artist/6JAD6KkLV5YnCCJb0WLBqm), [SOULFLVR](https://open.spotify.com/artist/0RLZB5HrhRKqAY9iFm6mmx) | [Your Smile](https://open.spotify.com/album/5PtPcBIbVYJ1IQJpfFSmaH) | 6:44 | 2022-04-13 | 2023-04-21 |
 | [Yıldızların Altında \- Valeron Remix](https://open.spotify.com/track/3qqrgZGeiFu1uLnAJFNXnG) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Alt Orient VA](https://open.spotify.com/album/0JoMzFD8TA0VZ4My8NzJhf) | 7:22 | 2022-04-13 | 2023-04-29 |
 | [Zulal Akh Ninar](https://open.spotify.com/track/6QXe8ZEUkZrap5bkieylIy) | [Ribas Abbas](https://open.spotify.com/artist/4juB9Jqv2v88qmIhZOT088), [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP) | [Zulal Akh Ninar](https://open.spotify.com/album/5JtyAvg2NPyBveOb79PeAl) | 5:40 | 2022-04-13 | 2023-04-21 |
+| [Zurna](https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC) | [Badbox](https://open.spotify.com/artist/1rfV7OLiCDOYcAacFcJ6Kf) | [Zurna](https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld) | 7:11 | 2024-06-13 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

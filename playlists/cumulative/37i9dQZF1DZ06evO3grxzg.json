@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Danna Paola. The essential tracks, all in one playlist.",
+  "description": "This Is Danna Paola. Los temas esenciales, todos en una lista.",
   "name": "This Is Danna Paola",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 299066,
       "name": "De M\u00ed Enam\u00f3rate",
       "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 234413,
       "name": "El Primer Dia Sin Ti",
       "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 190293,
       "name": "M\u00cdA",
       "url": "https://open.spotify.com/track/2HWXhViZhTPJa10NgyrRRS"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Polo A Tierra",
       "url": "https://open.spotify.com/track/5lhrcKbHyhPjlxEzzL9HPm"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 192066,
       "name": "Subt\u00edtulos",
       "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "tqum (feat. Kim Petras) - Remix",
       "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"

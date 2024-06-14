@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,893 likes - 58 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,886 likes - 58 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

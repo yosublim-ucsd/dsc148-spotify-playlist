@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,626 likes - 109 songs - 5 hr 31 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 733,616 likes - 109 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 6 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
 | 7 | [Red Lights](https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh) | [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Red Lights](https://open.spotify.com/album/3BKsLBIC7u8iMGlVmK6hM5) | 3:18 |
 | 8 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
-| 9 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 |
-| 10 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 |
-| 11 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 |
-| 12 | [Never Knew Me](https://open.spotify.com/track/0sk6nrjHfWQZ5IvVkjTBx7) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Never Knew Me](https://open.spotify.com/album/3vF5YCTGN6BmFyqnzaAjLP) | 3:32 |
-| 13 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 |
-| 14 | [Hollow](https://open.spotify.com/track/53dI9LHErYo0hljsDIMMrG) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Hollow](https://open.spotify.com/album/4o692fJS1XXJC39uhAy1f0) | 3:25 |
-| 15 | [Stuck](https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Stuck](https://open.spotify.com/album/7fs01eUoFmk6R0ar9AzqS3) | 4:11 |
-| 16 | [Soundclash](https://open.spotify.com/track/2RI50gVvlJUjr6v3pZxYrk) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Soundclash](https://open.spotify.com/album/3WhTR2g9NgJvZawTpwutM2) | 3:39 |
-| 17 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 |
+| 9 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 |
+| 10 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 |
+| 11 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 |
+| 12 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 |
+| 13 | [Never Knew Me](https://open.spotify.com/track/0sk6nrjHfWQZ5IvVkjTBx7) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Never Knew Me](https://open.spotify.com/album/3vF5YCTGN6BmFyqnzaAjLP) | 3:32 |
+| 14 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 |
+| 15 | [Hollow](https://open.spotify.com/track/53dI9LHErYo0hljsDIMMrG) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Hollow](https://open.spotify.com/album/4o692fJS1XXJC39uhAy1f0) | 3:25 |
+| 16 | [Stuck](https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Stuck](https://open.spotify.com/album/7fs01eUoFmk6R0ar9AzqS3) | 4:11 |
+| 17 | [Soundclash](https://open.spotify.com/track/2RI50gVvlJUjr6v3pZxYrk) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Soundclash](https://open.spotify.com/album/3WhTR2g9NgJvZawTpwutM2) | 3:39 |
 | 18 | [BANE](https://open.spotify.com/track/0a5xYmF0xUfXlU6bwzeqPi) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [BANE](https://open.spotify.com/album/1dICirHlSGKgaaWyYvug3l) | 2:01 |
 | 19 | [Comet](https://open.spotify.com/track/0klFHFJRTKtNQ8uX9tgs0Q) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Keepsake](https://open.spotify.com/artist/3TNyKBo7OPi8zuGJostZXS) | [Comet](https://open.spotify.com/album/2PnjRKPTRBz128x4sHSPqt) | 3:50 |
 | 20 | [Why We Lose](https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Coleman Trapp](https://open.spotify.com/artist/3GI8jWO0jwqs0qX3OtlbqY) | [Why We Lose](https://open.spotify.com/album/4oDVpaNimKnYHNva9S7vMs) | 3:17 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 108 | [No Way](https://open.spotify.com/track/33Mk3ZTSKNn47PLGpczhVH) | [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [No Way](https://open.spotify.com/album/2PSFaIGYfF0DgKy8Y9KWJ1) | 4:28 |
 | 109 | [Karma](https://open.spotify.com/track/1LRFdWqintP46UIkC33YhL) | [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Karma](https://open.spotify.com/album/4ilC8x3IxNevbhhFxxxNCu) | 3:09 |
 
-Snapshot ID: `AAAWWKqpuhnpYnsPndat5+VU/rwzcny+`
+Snapshot ID: `AAAWWRCLsoYTSe6LlVXa7FBVwuZ9KsWu`

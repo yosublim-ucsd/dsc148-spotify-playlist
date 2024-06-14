@@ -1589,6 +1589,28 @@
     },
     {
       "album": {
+        "name": "Posso Beijar Sua Boca ?",
+        "url": "https://open.spotify.com/album/4mmpyA7NacZC06umlw77zr"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Posso Beijar Sua Boca ?",
+      "url": "https://open.spotify.com/track/2hfFx87JTjkpvlxyeOScMK"
+    },
+    {
+      "album": {
         "name": "Versions of Me (Deluxe)",
         "url": "https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef"
       },

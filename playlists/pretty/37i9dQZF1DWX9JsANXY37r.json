@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121502,
+  "num_followers": 121511,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-05-17 14:00:56",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "Feel Your Weight",
+      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
+    },
+    {
+      "added_at": "2024-05-17 14:00:56",
+      "album": {
         "name": "What You Don't Do (Tom Misch Remix)",
         "url": "https://open.spotify.com/album/134HP01Gf7TECy2tb4Cj1V"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 229958,
       "name": "What You Don't Do - Tom Misch Remix",
       "url": "https://open.spotify.com/track/2pygzLN7fwCgeW5FNaugEm"
-    },
-    {
-      "added_at": "2024-05-17 14:00:56",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "Feel Your Weight",
-      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
     },
     {
       "added_at": "2024-05-17 14:00:56",

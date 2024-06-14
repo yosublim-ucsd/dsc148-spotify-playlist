@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Pixies",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Fat Dog",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 185213,
       "name": "Foam",
       "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK"
@@ -1320,6 +1320,24 @@
       "duration_ms": 237466,
       "name": "Frog In Boiling Water",
       "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
+    },
+    {
+      "album": {
+        "name": "Frogs",
+        "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274346,
+      "name": "Frogs",
+      "url": "https://open.spotify.com/track/39irRnySrRADgui9AVTqdx"
     },
     {
       "album": {
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 186466,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5HuLnaRoHZTcgu2GMAbLGJ"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 263803,
       "name": "If I'm Gonna Go Anywhere",
       "url": "https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31"
@@ -1958,6 +1976,24 @@
       "duration_ms": 251386,
       "name": "Levee",
       "url": "https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4"
+    },
+    {
+      "album": {
+        "name": "SiriusXM Session",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "album": {
@@ -2314,7 +2350,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 169595,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/3o78I4WzEYmIgWOAAqbziA"
@@ -2664,6 +2700,24 @@
       "duration_ms": 336973,
       "name": "People In The Streets",
       "url": "https://open.spotify.com/track/2IxhaFpj0pMwL7Z3hatWWi"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "album": {
@@ -3116,7 +3170,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 223915,
       "name": "Sociometer Blues",
       "url": "https://open.spotify.com/track/6wWrzyLyhCqlBk37a4NymO"
@@ -3249,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Jam",
+        "url": "https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Strawberry Jam",
+      "url": "https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz"
+    },
+    {
+      "album": {
         "name": "Strawberry Moon",
         "url": "https://open.spotify.com/album/5y9kYsejqeHvrNXUNLksvU"
       },
@@ -3372,6 +3444,24 @@
       "duration_ms": 174973,
       "name": "Swimming In The Glow",
       "url": "https://open.spotify.com/track/48eM70y3zAE9zZDCCwuxNz"
+    },
+    {
+      "album": {
+        "name": "SYM-PATHETIC",
+        "url": "https://open.spotify.com/album/0iApuh37bSWT5YFhqtzgvo"
+      },
+      "artists": [
+        {
+          "name": "KEZ",
+          "url": "https://open.spotify.com/artist/3lTvFfgAOEwerzk2xvL1th"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238903,
+      "name": "SYM-PATHETIC",
+      "url": "https://open.spotify.com/track/5NWfYYkP4Q9CTf5OTGGN1I"
     },
     {
       "album": {
@@ -3552,6 +3642,24 @@
       "duration_ms": 206571,
       "name": "The Feminine Urge",
       "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+    },
+    {
+      "album": {
+        "name": "The Greatest",
+        "url": "https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193677,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz"
     },
     {
       "album": {
@@ -3789,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
+    },
+    {
+      "album": {
         "name": "Underneath",
         "url": "https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M"
       },
@@ -3952,7 +4078,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 319106,
       "name": "Wild God",
       "url": "https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq"
@@ -4042,7 +4168,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 204280,
       "name": "Your Own Worst Enemy",
       "url": "https://open.spotify.com/track/4NdQmKsAK6AMiVPyvIira1"

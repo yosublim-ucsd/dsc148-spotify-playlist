@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Dreaming Together",
+        "url": "https://open.spotify.com/album/1giw5Jk7PSNu9or9oSMJWR"
+      },
+      "artists": [
+        {
+          "name": "8twenty",
+          "url": "https://open.spotify.com/artist/5jEjyjwDtaXITcEPJx7rWg"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134279,
+      "name": "Dreaming Together",
+      "url": "https://open.spotify.com/track/3yJCxQ784xrtePvpP2WK2n"
+    },
+    {
+      "album": {
         "name": "Moonbeam / Drifted",
         "url": "https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN"
       },
@@ -7046,6 +7064,24 @@
       "duration_ms": 156000,
       "name": "Plush",
       "url": "https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV"
+    },
+    {
+      "album": {
+        "name": "Plush Velvet Vibes",
+        "url": "https://open.spotify.com/album/6KMd5EpQUdJPyCTt3blMND"
+      },
+      "artists": [
+        {
+          "name": "Part2",
+          "url": "https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Plush Velvet Vibes",
+      "url": "https://open.spotify.com/track/3WTyFCHsp6FE2XsTMw5lmq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > hello <a href="spotify:track:0L8mArFgQMunWP6qip3U7k">KITTY</a>, lets get it.\. <a href="spotify:artist:4g53FCcxQZEj8SSr1rHmiH">DIBSET</a> & <a href="spotify:album:16y1M4Dnrqiodnk8KvRhLf">Tessa</a> 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,084 likes - 63 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,119 likes - 63 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

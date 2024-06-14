@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-700 songs - 1 day 15 hr 6 min
+701 songs - 1 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/track/2iNyc3IgiqZ1oIAHoSA8ed) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Live from the Roxy \(feat\. Boldy James\)](https://open.spotify.com/album/2cl2DGCPjyxVlfliCZwyXL) | 2:46 | 2024-02-23 | 2024-04-19 |
 | [lonrwrld \(freestyle\)](https://open.spotify.com/track/3zg2NCd83m0Y9gL5wKd6Q5) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [lonrwrld \(freestyle\)](https://open.spotify.com/album/6UL5LlM8QQ8aY2kQqoqQ7N) | 2:32 | 2023-04-28 | 2023-09-23 |
 | [Look Out The Window](https://open.spotify.com/track/6yU9nqMCKOPe30ZKFucv3Q) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Look Out The Window](https://open.spotify.com/album/2Pxo8DMOqojarApFdBe9xe) | 3:07 | 2023-08-25 | 2023-09-16 |
+| [Lost Angel](https://open.spotify.com/track/65Zz4WzeGAFJwPXWIjHmC2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Lost Angel](https://open.spotify.com/album/1mN94HjwR8TiZpUGzqECM3) | 3:19 | 2024-05-31 |  |
 | [Lost Ones](https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:33 | 2024-05-17 |  |
 | [Love Life](https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:56 | 2023-09-29 | 2024-01-06 |
 | [LOVE ME 4 ME \(feat\. Blvck Svm\)](https://open.spotify.com/track/3mfb0QoFdmNWQxlFJJdyc1) | [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Stoic](https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t) | [LOVE ME 4 ME \(feat\. Blvck Svm\)](https://open.spotify.com/album/2lafk0vQGW41NXGvCm0wBa) | 2:40 | 2023-10-06 | 2024-04-13 |

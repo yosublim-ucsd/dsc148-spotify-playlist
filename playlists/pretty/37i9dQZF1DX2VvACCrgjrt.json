@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house with Julian Jordan",
-  "num_followers": 444662,
+  "num_followers": 444717,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Mobbing",
         "url": "https://open.spotify.com/album/4Vm904GD6MCy6lw423NMEK"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 211200,
       "name": "Mobbing",
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1733,20 +1733,24 @@
       "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Young Money",
-        "url": "https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr"
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K"
       },
       "artists": [
         {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        },
+        {
+          "name": "CHOCO",
+          "url": "https://open.spotify.com/artist/5ZYidw4RKqIwucn0hQzYz8"
         }
       ],
-      "duration_ms": 180480,
-      "name": "Young Money",
-      "url": "https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq"
+      "duration_ms": 168281,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1769,24 +1773,56 @@
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K"
+        "name": "Young Money",
+        "url": "https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr"
       },
       "artists": [
         {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        },
-        {
-          "name": "CHOCO",
-          "url": "https://open.spotify.com/artist/5ZYidw4RKqIwucn0hQzYz8"
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
         }
       ],
-      "duration_ms": 168281,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
+      "duration_ms": 180480,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/41Fj5MCDZiuNpK6EqtK0mg"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Neal",
+          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Turn Up The Volume",
+        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
+      },
+      "artists": [
+        {
+          "name": "Stafford Brothers",
+          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 142445,
+      "name": "Turn Up The Volume",
+      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1811,38 +1847,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/41Fj5MCDZiuNpK6EqtK0mg"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Neal",
-          "url": "https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/49TUeF9jkIA7zmpyfDXQNW"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sport Mode",
         "url": "https://open.spotify.com/album/6o4RnKkaBVisoatPeA2gX7"
       },
@@ -1863,22 +1867,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Turn Up The Volume",
-        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
       },
       "artists": [
         {
-          "name": "Stafford Brothers",
-          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
         }
       ],
-      "duration_ms": 142445,
-      "name": "Turn Up The Volume",
-      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Kiss Like This",
-        "url": "https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 143148,
-      "name": "Kiss Like This",
-      "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "LIMIT",
         "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
@@ -2171,6 +2155,42 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Kiss Like This",
+        "url": "https://open.spotify.com/album/51rptGPulz1W0ZDwYtSibw"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 143148,
+      "name": "Kiss Like This",
+      "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "RESILIENCE",
+        "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
+      },
+      "artists": [
+        {
+          "name": "Matteo Tura",
+          "url": "https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur"
+        },
+        {
+          "name": "Mobiius",
+          "url": "https://open.spotify.com/artist/0jHnzOGooKPzt7qA3Q32mw"
+        }
+      ],
+      "duration_ms": 212100,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2195,26 +2215,6 @@
       "duration_ms": 135937,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/0iaIB0L80Ri5kBR6KNhsuZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "RESILIENCE",
-        "url": "https://open.spotify.com/album/71BuoDaGsISkwF6eNeylho"
-      },
-      "artists": [
-        {
-          "name": "Matteo Tura",
-          "url": "https://open.spotify.com/artist/4MDRNxNtr5Zwyhgk6TC0ur"
-        },
-        {
-          "name": "Mobiius",
-          "url": "https://open.spotify.com/artist/0jHnzOGooKPzt7qA3Q32mw"
-        }
-      ],
-      "duration_ms": 212100,
-      "name": "Immersion",
-      "url": "https://open.spotify.com/track/2DCH33PsYIGDDwl3BRYPrU"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2259,26 +2259,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
+        "name": "Gonna Get Back",
+        "url": "https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ"
       },
       "artists": [
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Toxic Joy",
-          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
-        },
-        {
-          "name": "NEIV",
-          "url": "https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg"
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
         }
       ],
-      "duration_ms": 156960,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
+      "duration_ms": 142857,
+      "name": "Gonna Get Back",
+      "url": "https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2303,18 +2295,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Gonna Get Back",
-        "url": "https://open.spotify.com/album/48Wz6otqb3iJoVSv03AjXQ"
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/5VhMBWzcMUppdo3UYpSTEP"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Toxic Joy",
+          "url": "https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to"
+        },
+        {
+          "name": "NEIV",
+          "url": "https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg"
         }
       ],
-      "duration_ms": 142857,
-      "name": "Gonna Get Back",
-      "url": "https://open.spotify.com/track/62aIjxgjsYc4sYBiXzdTTC"
+      "duration_ms": 156960,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2343,26 +2343,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Sara Thing EP",
-        "url": "https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw"
+        "name": "Dancing With My Boyz",
+        "url": "https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig"
       },
       "artists": [
         {
-          "name": "Black V Neck",
-          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
-        },
-        {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        },
-        {
-          "name": "James Cole",
-          "url": "https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb"
+          "name": "Avi Sic",
+          "url": "https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe"
         }
       ],
-      "duration_ms": 140624,
-      "name": "Sara Tonin feat. James Cole",
-      "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
+      "duration_ms": 144374,
+      "name": "Dancing With My Boyz",
+      "url": "https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2385,24 +2377,28 @@
       "url": "https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Find The Silence",
-        "url": "https://open.spotify.com/album/6nHeqnaMPoaKho9IzF2rzF"
+        "name": "Sara Thing EP",
+        "url": "https://open.spotify.com/album/2W8E3fxu1UA3mMMcBRYfXw"
       },
       "artists": [
         {
-          "name": "Michael Phase",
-          "url": "https://open.spotify.com/artist/378Z69odCtM7EU6FtWrogE"
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
         },
         {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
+        },
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/1SoAmGFpq2szcIOMpnkQkb"
         }
       ],
-      "duration_ms": 221547,
-      "name": "Find The Silence",
-      "url": "https://open.spotify.com/track/0E8RqU03Sd4OazufBdA8NY"
+      "duration_ms": 140624,
+      "name": "Sara Tonin feat. James Cole",
+      "url": "https://open.spotify.com/track/2d1J4wehBvmheclNCk5ts5"
     }
   ],
   "unique_name": "Nasty Bits",

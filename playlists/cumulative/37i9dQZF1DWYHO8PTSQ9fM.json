@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Les hits du moment sont ici. Cover : GIMS, DYSTINCT",
+  "description": "Les hits du moment sont ici. Cover : Manal",
   "name": "Hot Hits Maghreb",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6"
@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Douwi Douwi",
+        "url": "https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Douwi Douwi",
+      "url": "https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV"
+    },
+    {
+      "album": {
         "name": "DRAILL",
         "url": "https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M"
       },
@@ -1460,6 +1478,24 @@
     {
       "album": {
         "name": "Ena",
+        "url": "https://open.spotify.com/album/306Ofv0B37wDNlgX354JtR"
+      },
+      "artists": [
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312110,
+      "name": "Ena",
+      "url": "https://open.spotify.com/track/2ALQWCgk5wq7qJco8XCng0"
+    },
+    {
+      "album": {
+        "name": "Ena",
         "url": "https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit"
       },
       "artists": [
@@ -1496,6 +1532,24 @@
       "duration_ms": 255978,
       "name": "Enty Hayaty",
       "url": "https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "album": {
@@ -1951,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155448,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
+    },
+    {
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM"
       },
@@ -2290,7 +2362,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 122972,
       "name": "Jini",
       "url": "https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x"
@@ -2434,7 +2506,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 152590,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
@@ -3054,7 +3126,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 197369,
       "name": "Manetfergou",
       "url": "https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN"
@@ -3317,6 +3389,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9lanine",
+        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
+    },
+    {
+      "album": {
         "name": "Nari",
         "url": "https://open.spotify.com/album/6UgGtOl72xC85rwXa8tZy5"
       },
@@ -3458,7 +3552,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 196901,
       "name": "Noss Ellil",
       "url": "https://open.spotify.com/track/5fF004YYfSgDOwIqxWsSKz"
@@ -3498,6 +3592,32 @@
       "duration_ms": 172022,
       "name": "Nsiti",
       "url": "https://open.spotify.com/track/39IyCxrLN3USQLaTQ9tnMa"
+    },
+    {
+      "album": {
+        "name": "NO STOP",
+        "url": "https://open.spotify.com/album/6FPY0EcDgbE3bNaFPAtfVv"
+      },
+      "artists": [
+        {
+          "name": "Delarue",
+          "url": "https://open.spotify.com/artist/5k63RPpkbbyVuufLXS2GTe"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Obligaci\u00f3n",
+      "url": "https://open.spotify.com/track/5YyO478uZQNJ9s9B1cBB3z"
     },
     {
       "album": {
@@ -3826,7 +3946,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 184253,
       "name": "RAZONES (feat. Morad)",
       "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"

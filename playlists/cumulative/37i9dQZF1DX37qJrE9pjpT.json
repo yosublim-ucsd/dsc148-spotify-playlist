@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 150360,
       "name": "PAPUCHI",
       "url": "https://open.spotify.com/track/1eBsRZiqVztNnTvQZlwL1A"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 212652,
       "name": "Putin",
       "url": "https://open.spotify.com/track/7e9x1ZBopSmZE5hPdVDTbD"
@@ -2823,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Snitch",
+        "url": "https://open.spotify.com/album/5bWC8S9mZB4X6ednDig2sO"
+      },
+      "artists": [
+        {
+          "name": "Amber Lulu",
+          "url": "https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136146,
+      "name": "Snitch",
+      "url": "https://open.spotify.com/track/70fQtyXgdHUsFPVMX4bp2U"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/4X2JcUXtAPqMLO1YW3OaKC"
       },
@@ -3073,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/0QYWaTShsrWVvUrFyTbOoN"
+      },
+      "artists": [
+        {
+          "name": "Young Emperor",
+          "url": "https://open.spotify.com/artist/1XctFd8XGLbmL2cj54sQoC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186070,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/4CJ3K7XHZMA5BwZr4QL3kD"
+    },
+    {
+      "album": {
         "name": "UTUH",
         "url": "https://open.spotify.com/album/0wi5BSocK9MiTuA9QwM7eS"
       },
@@ -3294,7 +3330,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 234666,
       "name": "Vitasa",
       "url": "https://open.spotify.com/track/4bmJwAdMUhPxvwL4lp4rrW"
@@ -3395,6 +3431,32 @@
     },
     {
       "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/4mX9BHJf2gxTVOA2wPgiJs"
+      },
+      "artists": [
+        {
+          "name": "Galla mc",
+          "url": "https://open.spotify.com/artist/7cOHbkupIZQnggxsLmiuEe"
+        },
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        },
+        {
+          "name": "Wizzy rapper",
+          "url": "https://open.spotify.com/artist/3DwBI03mHzOkLxx50dNK74"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232228,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/7noDicbJzIhMOMdXVzbfFS"
+    },
+    {
+      "album": {
         "name": "Way Back (Refix)",
         "url": "https://open.spotify.com/album/2WJRTwesazwP7iwnhfnSrU"
       },
@@ -3442,7 +3504,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 242494,
       "name": "Wireless",
       "url": "https://open.spotify.com/track/0IflFT1aqElqca2QKnawRz"

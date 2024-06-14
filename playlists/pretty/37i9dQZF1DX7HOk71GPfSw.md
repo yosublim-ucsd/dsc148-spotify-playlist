@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. charli
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,838 likes - 142 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,004 likes - 142 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 16 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 |
 | 17 | [Lullaby for a Memory](https://open.spotify.com/track/2bfLRUOPNdnLtdQpSQObhH) | [Fax Gang](https://open.spotify.com/artist/2QX6NMloD3kcn9vBijOM9r), [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Lullaby for a Memory](https://open.spotify.com/album/2mehOdV23V1oiUoLFj57Bu) | 4:06 |
 | 18 | [SPINNING](https://open.spotify.com/track/3VfDRpoNoJia2Gmu7BnqjY) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [SPINNING](https://open.spotify.com/album/3aSkoYDTKPttbR63aCZQl7) | 3:20 |
-| 19 | [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:04 |
+| 19 | [PINK LIKE SUKI](https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [PINK LIKE SUKI](https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB) | 2:30 |
 | 20 | [MAKE IT DROP!](https://open.spotify.com/track/3Nx1EaVXgNSGSLeQ3nHb87) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [MAKE IT DROP!](https://open.spotify.com/album/3Vl6yvuIebgsrGHRcIYjhM) | 2:32 |
 | 21 | [GLI77ER](https://open.spotify.com/track/6c3pMOp2pJRhjTQJ6prBPt) | [Cherrie B](https://open.spotify.com/artist/5pMcy3RI5z6kYUhYs8iMRN) | [GLI77ER](https://open.spotify.com/album/4ohHVIXnu0gfN1Xng4t1xm) | 2:04 |
 | 22 | [crush](https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [crush](https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK) | 2:26 |

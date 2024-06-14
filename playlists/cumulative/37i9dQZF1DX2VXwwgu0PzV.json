@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:   <a href=https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2?si=3-AhgJc0RfS7kJuSNQOZXQ>Tim Godfrey</a> and  <a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=RDfM3zozQmO-Z1fBdrUa-g>EJ Newton</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:   <a href=https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi?si=HI-hnAoeRdi4f2apHLb3tA>Neeja</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -120,6 +120,24 @@
       "duration_ms": 196859,
       "name": "365",
       "url": "https://open.spotify.com/track/6jXGfwxPCXDzKa4JS9ySR1"
+    },
+    {
+      "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/4oH8gUilfwyHx48xdKVMK0"
+      },
+      "artists": [
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147621,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/3VZgoY5YNcYqVwZ11YPd7b"
     },
     {
       "album": {
@@ -252,10 +270,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 184466,
       "name": "ABLE",
       "url": "https://open.spotify.com/track/0aSDH42JTh1uoEj0ctSMaG"
+    },
+    {
+      "album": {
+        "name": "Accolades",
+        "url": "https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm"
+      },
+      "artists": [
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158646,
+      "name": "Accolades",
+      "url": "https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP"
     },
     {
       "album": {
@@ -786,7 +822,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160625,
       "name": "Amen",
       "url": "https://open.spotify.com/track/75dIEH8IaXunPeoGYAmQCh"
@@ -918,7 +954,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 286014,
       "name": "Asilali",
       "url": "https://open.spotify.com/track/73KgnzIlgZWwX17cr0W8yW"
@@ -1267,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "Benefits",
+        "url": "https://open.spotify.com/album/49YUiACmblbDrOuX0ROQX7"
+      },
+      "artists": [
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+        },
+        {
+          "name": "Izee Smith",
+          "url": "https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Benefits",
+      "url": "https://open.spotify.com/track/2oPXy0rG9vs5f205UGw2kY"
+    },
+    {
+      "album": {
         "name": "Beside Me",
         "url": "https://open.spotify.com/album/5FPFTd2KVC70Ysowxwhwhd"
       },
@@ -1414,6 +1472,28 @@
       "duration_ms": 169468,
       "name": "Big Stepper Pt. 2",
       "url": "https://open.spotify.com/track/4HQxYIQangC0upgJ9psYgO"
+    },
+    {
+      "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/4015mRzageDCbBzeMEeRgC"
+      },
+      "artists": [
+        {
+          "name": "Mr. Chubby",
+          "url": "https://open.spotify.com/artist/4Ypg8FneW2SyS16HbnzLXd"
+        },
+        {
+          "name": "Kole Light",
+          "url": "https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/511Yo8d8ZcHB4tInOOPqC4"
     },
     {
       "album": {
@@ -2724,7 +2804,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 174792,
       "name": "Count my blessings",
       "url": "https://open.spotify.com/track/1LPdR3Ocjf6d4kI3TOR5vN"
@@ -2772,7 +2852,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 157309,
       "name": "Cover me",
       "url": "https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP"
@@ -3206,7 +3286,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 150565,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0RoWGi6fnbel58x5x4MEA5"
@@ -4442,10 +4522,36 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 152934,
       "name": "Favour",
       "url": "https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8"
+    },
+    {
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/0giRUvZLbSkMVcwo1Lxf6d"
+      },
+      "artists": [
+        {
+          "name": "DJ HOLOSKEY",
+          "url": "https://open.spotify.com/artist/1jYlSnBcTzHbW3Ski3ZBKJ"
+        },
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169130,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/1YU7EgXbb7sI0O7zSopn4V"
     },
     {
       "album": {
@@ -5122,7 +5228,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 158624,
       "name": "FWWID",
       "url": "https://open.spotify.com/track/0C4t6G1vfcUzzHveeCiVdO"
@@ -6033,6 +6139,28 @@
     },
     {
       "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/10GLXCOrQNvjX2vFhrO0b9"
+      },
+      "artists": [
+        {
+          "name": "Luwanni",
+          "url": "https://open.spotify.com/artist/2QfgJtreVVmE0UNqeTE2pX"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133694,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/7HMgwhEUMnlL62dBjM1Jf1"
+    },
+    {
+      "album": {
         "name": "Shepherd",
         "url": "https://open.spotify.com/album/2mf6TRndLJ9XqBGAHfd1vp"
       },
@@ -6485,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158746,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT"
+    },
+    {
+      "album": {
         "name": "His Name Is Yahweh",
         "url": "https://open.spotify.com/album/308FQqS15fW2nFaZS6h5SE"
       },
@@ -6620,7 +6766,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 153493,
       "name": "Holy Vibe",
       "url": "https://open.spotify.com/track/4qPM3Z5XX48dE2ogFLyLA6"
@@ -7656,7 +7802,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 131208,
       "name": "Jara",
       "url": "https://open.spotify.com/track/5jWKjltQ2Ui7hkxv03Nw6o"
@@ -8212,7 +8358,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 179380,
       "name": "Kawe",
       "url": "https://open.spotify.com/track/1Z491rphyNLmWYG8cC3rYx"
@@ -8326,7 +8472,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 124865,
       "name": "Lamb Ba?",
       "url": "https://open.spotify.com/track/77Wu9o8Vy8qraDoD02S6TU"
@@ -9230,7 +9376,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 398384,
       "name": "Mighty",
       "url": "https://open.spotify.com/track/4xakxYIeLp71s6yQfHxCC9"
@@ -9468,7 +9614,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 333270,
       "name": "Mo Gbona (I'm hot)",
       "url": "https://open.spotify.com/track/23teWATDcBkaZPG74WXPyI"
@@ -9696,7 +9842,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 135000,
       "name": "MY DAYS",
       "url": "https://open.spotify.com/track/1KCkFjHrMKun36MUDiheU6"
@@ -10301,6 +10447,28 @@
     },
     {
       "album": {
+        "name": "No Pressure!",
+        "url": "https://open.spotify.com/album/6t4Sa7SeeoJMjIBdVQDYwu"
+      },
+      "artists": [
+        {
+          "name": "Kris Grant",
+          "url": "https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ"
+        },
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129647,
+      "name": "No Pressure!",
+      "url": "https://open.spotify.com/track/1fXj4lS0DxlMe5vOZofklv"
+    },
+    {
+      "album": {
         "name": "No Regret",
         "url": "https://open.spotify.com/album/1FJdrOq2NbZ4nhgYI1J3rA"
       },
@@ -10694,7 +10862,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 239999,
       "name": "Oghene Doh",
       "url": "https://open.spotify.com/track/1nQ8q7jsrcmzexCi5eGUUK"
@@ -11312,7 +11480,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
@@ -11548,7 +11716,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 188005,
       "name": "Pour Out",
       "url": "https://open.spotify.com/track/1a5RkO2Av6Oo9iqUtN3yWS"
@@ -11648,6 +11816,28 @@
       "duration_ms": 132205,
       "name": "Praise the Lord",
       "url": "https://open.spotify.com/track/1Pk9UFsZgHa2WLaLmnBPKM"
+    },
+    {
+      "album": {
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119428,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA"
     },
     {
       "album": {
@@ -11846,6 +12036,32 @@
       "duration_ms": 157189,
       "name": "Put it On God",
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
+    },
+    {
+      "album": {
+        "name": "Rababa, Pt. 2",
+        "url": "https://open.spotify.com/album/6QK5pcNy2fTijv3wRMAxqE"
+      },
+      "artists": [
+        {
+          "name": "Pillar YRR",
+          "url": "https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "Rababa, Pt. 2",
+      "url": "https://open.spotify.com/track/681NH9WYKS9l4SyZFpho81"
     },
     {
       "album": {
@@ -13532,7 +13748,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 168071,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/3zkhrcO2bpIYj2ZyF6ArtG"
@@ -14328,7 +14544,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 142978,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"

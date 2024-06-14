@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,630 likes - 199 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,705 likes - 199 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

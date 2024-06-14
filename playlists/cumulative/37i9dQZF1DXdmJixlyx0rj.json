@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 121406,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
@@ -2596,6 +2596,24 @@
       "duration_ms": 180000,
       "name": "WORK Pt.2 - ATEEZ X Don Diablo",
       "url": "https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY"
+    },
+    {
+      "album": {
+        "name": "WORK Pt.3 - ATEEZ X Eden-ary",
+        "url": "https://open.spotify.com/album/7v7neu2S3o7LqnVxgxkzog"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165893,
+      "name": "WORK Pt.3 - ATEEZ X Eden-ary",
+      "url": "https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB"
     },
     {
       "album": {

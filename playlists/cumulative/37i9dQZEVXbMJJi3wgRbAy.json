@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "30 GRADOS RKT",
+        "url": "https://open.spotify.com/album/6JUpn1Fg1B39BUiLBgYa7f"
+      },
+      "artists": [
+        {
+          "name": "RUNE",
+          "url": "https://open.spotify.com/artist/6cPEhvTTOyvNb3dL3ZkdHb"
+        },
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154438,
+      "name": "30 GRADOS RKT",
+      "url": "https://open.spotify.com/track/1cG1zGCrsLOz5HL1tJwYUj"
+    },
+    {
+      "album": {
         "name": "Primer Dia de Clases",
         "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
@@ -15508,7 +15530,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 180385,
       "name": "Tu Foto - En Vivo",
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"

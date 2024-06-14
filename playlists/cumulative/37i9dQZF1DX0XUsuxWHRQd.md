@@ -4,7 +4,7 @@
 
 > Music from Central Cee, Future, Metro Boomin and Kendrick Lamar.
 
-2,050 songs - 4 day 10 hr 19 min
+2,051 songs - 4 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,6 +941,7 @@
 | [Know You Know \(ft\. 2 Chainz\)](https://open.spotify.com/track/4jT3GU6bhC8mrtDPZsNd0S) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 2:44 | 2020-02-01 | 2020-02-21 |
 | [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2024-01-18 | 2024-01-20 |
 | [Krazy Krazy](https://open.spotify.com/track/6ZjP85QdIaiTojLrKixvbT) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Krazy Krazy](https://open.spotify.com/album/1Rgimz7Cn1RfMYz6cUsD4q) | 2:21 | 2022-04-29 | 2022-05-14 |
+| [LA\-LA\-LA](https://open.spotify.com/track/3BVJ8X4CDBqHzSVePlgary) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Bad Boys II](https://open.spotify.com/album/6cdliVrG1F46ag7FxGPIM1) | 3:54 | 2024-06-13 |  |
 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 | 2023-12-16 | 2024-02-11 |
 | [Laneswitch](https://open.spotify.com/track/56Sng0NtW0YYy4Edtpybm8) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Laneswitch](https://open.spotify.com/album/3dAesOchwksFPoWDekVIhd) | 2:30 | 2019-08-09 | 2019-10-18 |
 | [Last Days](https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Last Days](https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy) | 2:34 | 2023-07-28 | 2023-08-12 |

@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-275 songs - 15 hr 52 min
+276 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Lucky](https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Lucky](https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM) | 3:12 | 2022-04-08 | 2023-05-05 |
 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-26 |  |
 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 | 2022-04-08 | 2023-08-12 |
+| [Message in a Bottle](https://open.spotify.com/track/5SwS67MTpN1WHX3GpaLe90) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Message in a Bottle](https://open.spotify.com/album/0L8bZJvJbaVCDw0WOMC8UY) | 4:00 | 2024-06-07 |  |
 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 | 2022-04-08 |  |
 | [Miles Away](https://open.spotify.com/track/1lbehCx8hANqaOquivcgi2) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Mend A Man](https://open.spotify.com/album/0p5Zy6S3IZb2p4BRAXWqFv) | 4:45 | 2022-10-07 | 2022-11-14 |
 | [Miles Away](https://open.spotify.com/track/5lrOPlJEIYYrecwt5kgj8P) | [Ulysses Wells](https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB) | [Miles Away](https://open.spotify.com/album/5ttHzLR58uxppFPtPdQCTK) | 4:45 | 2022-04-08 | 2022-11-09 |
@@ -228,7 +229,7 @@
 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 | 2022-11-18 | 2023-05-20 |
 | [Spill](https://open.spotify.com/track/6dQ1kKbYJJU27LvYdaGe9G) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/6MgF6PkDOI2rGW5t882Nk8) | 4:21 | 2022-10-07 | 2022-11-19 |
 | [Spill](https://open.spotify.com/track/7dypjDl8BjW7DZTuPHdk53) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/5xT0WOgcXxOTYHvNY9TwtU) | 4:21 | 2022-08-26 | 2022-11-14 |
-| [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 | 2022-05-20 |  |
+| [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 | 2022-05-20 | 2024-06-14 |
 | [strawberries for two](https://open.spotify.com/track/33AqMQTISnP1daTHunLVKO) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [strawberries for two](https://open.spotify.com/album/1kMlsA7I3l7LiskTVSlRNX) | 2:41 | 2022-08-26 |  |
 | [Strawberry Wine](https://open.spotify.com/track/7Gvf6Li9MYft4fUijkFjKq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:45 | 2024-01-26 |  |
 | [Sudden Death](https://open.spotify.com/track/2pMulZ50yx1Fx6TIepetYP) | [Daisy Clark](https://open.spotify.com/artist/31tKAz77HVjv8W0uqzDNwu) | [Sudden Death](https://open.spotify.com/album/4XNfb6nqJLrNqhV0IQ9Nur) | 2:55 | 2022-10-07 | 2023-04-09 |

@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 449062,
       "name": "Another One",
       "url": "https://open.spotify.com/track/2nIAin8uaDCKBu1qr5OpV8"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 449062,
       "name": "Another One",
       "url": "https://open.spotify.com/track/5IcZm7ZtTAfPcQUH0IQ6BT"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 318917,
       "name": "Dancing Elephants",
       "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 318917,
       "name": "Dancing Elephants",
       "url": "https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 413514,
       "name": "Moss",
       "url": "https://open.spotify.com/track/6PKuBWCdYGILfuLYQA2AAj"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 413514,
       "name": "Moss - Original Mix",
       "url": "https://open.spotify.com/track/6hQl8iQgN5sV0JHusvOqav"
@@ -1756,10 +1756,40 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 148186,
       "name": "mute",
       "url": "https://open.spotify.com/track/15vgvl0Hd3WI8zD7KrhmQ0"
+    },
+    {
+      "album": {
+        "name": "Club Shy RMX",
+        "url": "https://open.spotify.com/album/5hWTBuzyF1mI4ddBUtl3oq"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "mute - Logic1000 remix",
+      "url": "https://open.spotify.com/track/2xQDAkpYth8kUHdjKlZteJ"
     },
     {
       "album": {
@@ -1913,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "NYC Baby (The Remixes)",
+        "url": "https://open.spotify.com/album/5QUfcjjG3Zil9ZeJiIxUgv"
+      },
+      "artists": [
+        {
+          "name": "Maluca",
+          "url": "https://open.spotify.com/artist/3WpKPMVsMAMnTkYUmymXlI"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "NYC Baby - Maluca Remix",
+      "url": "https://open.spotify.com/track/5GS9YAqKTNvUGkKEopqJkN"
+    },
+    {
+      "album": {
         "name": "Open Door (Expanded Edition)",
         "url": "https://open.spotify.com/album/0ZhBEQXekJLK0hZflDomWt"
       },
@@ -1982,6 +2030,24 @@
       "duration_ms": 440173,
       "name": "Party",
       "url": "https://open.spotify.com/track/0WOjqV7h1gWj9GXJd783vQ"
+    },
+    {
+      "album": {
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83200,
+      "name": "Poland",
+      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
       "album": {
@@ -2369,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "side by side (feat. Empress Of) [rebirth]",
+        "url": "https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "side by side (feat. Empress Of) [rebirth]",
+      "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
+    },
+    {
+      "album": {
         "name": "Sky Light / Hollywood",
         "url": "https://open.spotify.com/album/53LVzwtFqNfUNUaA9ZcGxg"
       },
@@ -2539,6 +2627,36 @@
     },
     {
       "album": {
+        "name": "TAKA (Taiki Nulight Remix)",
+        "url": "https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209445,
+      "name": "TAKA - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
+    },
+    {
+      "album": {
         "name": "The Click / Fallout",
         "url": "https://open.spotify.com/album/7d03UClkrbbMOsKAWpDkjh"
       },
@@ -2580,6 +2698,24 @@
       "duration_ms": 382015,
       "name": "The Click",
       "url": "https://open.spotify.com/track/5exQy7sHiO0vdOXBUthIMr"
+    },
+    {
+      "album": {
+        "name": "The Movement EP",
+        "url": "https://open.spotify.com/album/1GwXtIydqqCTkr9fH6zox1"
+      },
+      "artists": [
+        {
+          "name": "Stacy Kidd",
+          "url": "https://open.spotify.com/artist/3WFMMQ1fyhtNWADfkMwhTn"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365866,
+      "name": "The Movement",
+      "url": "https://open.spotify.com/track/2kCblnXo6CGO3CKeZNGCAK"
     },
     {
       "album": {
@@ -2696,6 +2832,24 @@
       "duration_ms": 266306,
       "name": "Three Chains",
       "url": "https://open.spotify.com/track/4mtgNcMztMWMXHZeFBJMXu"
+    },
+    {
+      "album": {
+        "name": "To Em",
+        "url": "https://open.spotify.com/album/2ZaDgz3AaGkO7lDXwsBzCw"
+      },
+      "artists": [
+        {
+          "name": "Big Ever",
+          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271115,
+      "name": "To Em",
+      "url": "https://open.spotify.com/track/5KeZAAiHTv7F1nSwVrUsv2"
     },
     {
       "album": {
@@ -2877,6 +3031,28 @@
     },
     {
       "album": {
+        "name": "VIRAL",
+        "url": "https://open.spotify.com/album/5dPjX1yiG628r07K3EhtAz"
+      },
+      "artists": [
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        },
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135882,
+      "name": "VIRAL",
+      "url": "https://open.spotify.com/track/4gPICZs24ARSTbH1IpeuSf"
+    },
+    {
+      "album": {
         "name": "W (feat. Gunna)",
         "url": "https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5"
       },
@@ -2936,7 +3112,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 213045,
       "name": "Wake Up Love (feat. IMAN)",
       "url": "https://open.spotify.com/track/3HLkL9ahiEnACmnuq8Pcwt"
@@ -2958,7 +3134,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 213045,
       "name": "Wake Up Love (feat. IMAN)",
       "url": "https://open.spotify.com/track/6QutayBrziruy3GoPMqBBq"
@@ -3020,6 +3196,24 @@
       "duration_ms": 359850,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/1K5wDXoWsj0wmqOBRH8kbd"
+    },
+    {
+      "album": {
+        "name": "Lost & Found EP, Vol. 2",
+        "url": "https://open.spotify.com/album/5sCgxUhV1LjWdAv5gCvh6g"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441000,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7dXKw8zrOpwoir61FKeSFZ"
     },
     {
       "album": {

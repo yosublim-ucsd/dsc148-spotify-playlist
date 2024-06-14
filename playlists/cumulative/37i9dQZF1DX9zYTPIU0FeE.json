@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=ce0_G90pR7mdITQnky4OlA\">Linda Sikhakhane</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH?si=M4SgEnuWQOKmMWFmiilnZw\">Malcolm Jiyane</a>",
   "name": "Jazz NXT",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 492040,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1hWcpSQLLaIg610CenNRpo"
+    },
+    {
+      "album": {
+        "name": "TRUE STORY",
+        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237516,
+      "name": "Baby Ngimanzi Wuthando",
+      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     },
     {
       "album": {
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 235866,
       "name": "Umthombo",
       "url": "https://open.spotify.com/track/36FgHjJFdA3y3uBCgW6PSR"

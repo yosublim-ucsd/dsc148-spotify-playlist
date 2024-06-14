@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-196 songs - 11 hr 22 min
+197 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/7qX5vagnYtG4xLQ5bRDD5C) | [Bossa de Carnaval](https://open.spotify.com/artist/3ydiYqDYKAvrnp1qfUjLQ3) | [How Deep Is Your Love](https://open.spotify.com/album/6PTWloNqMp7i1oWFTYInM5) | 3:31 | 2022-03-10 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/5QTX7rX1uq11ic4R40tlsW) | [Maria Augusta](https://open.spotify.com/artist/5nfHJzpqgnoQKC4tlczmDN) | [Cool Covers in Bossa Nova: Taste of Saudade](https://open.spotify.com/album/1iK2rhkqrsZzrvu3EOhkeG) | 3:24 | 2022-03-10 | 2022-08-03 |
 | [I Gotta Feeling](https://open.spotify.com/track/1yuwQM4hjfcpa45pkFzdDY) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [I Gotta Feeling](https://open.spotify.com/album/4uNbYNWDqQqL8IEn23QkNn) | 3:51 | 2022-03-10 | 2023-06-23 |
+| [I Just Can't Get You Out of My Head](https://open.spotify.com/track/5MStYWjvHYF86IjyZl6G0L) | [Vira Novo](https://open.spotify.com/artist/7uZaYU5nFEvLJ0IyTFCyhM) | [I Just Can't Get You Out of My Head](https://open.spotify.com/album/3uWGPJmTmFksZnRTXFOJDz) | 3:50 | 2024-06-13 |  |
 | [I Just Can't Stop Loving](https://open.spotify.com/track/5fNnGGaAQeaZghPOlCzRSQ) | [Brazil XXI](https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR), [Deise Costa](https://open.spotify.com/artist/5CjitNvv0s1DcoYMKBzqOQ) | [I Just Can't Stop Loving You](https://open.spotify.com/album/71z9O74KepJ8GRWc24F47F) | 3:48 | 2022-03-10 | 2022-08-03 |
 | [I Say a Little Prayer](https://open.spotify.com/track/2egCR3hVFAG6emyUkThwnq) | [Trio Musical](https://open.spotify.com/artist/0Nu4JXTv2Rhp7PT6Qt3oUy) | [I Say a Little Prayer](https://open.spotify.com/album/6ehD10Ec33yCIyWcrO5zbg) | 3:44 | 2022-03-10 |  |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6XLzVUmjuhpYy9EAnC6KDN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 3:24 | 2022-03-10 | 2022-05-05 |
@@ -132,7 +133,7 @@
 | [Lovefool](https://open.spotify.com/track/2F3Ta1V8cKZfLmu5vEF41b) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Lovefool](https://open.spotify.com/album/7Jl45cmO0a0yzJJw62i3Ps) | 3:14 | 2022-05-04 |  |
 | [Lovefool](https://open.spotify.com/track/3J49YFtSjLMiuyDi6xNHc1) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/0KEmmW5iXwzpaSlaamlizL) | 3:14 | 2022-07-26 | 2024-04-19 |
 | [Lovefool](https://open.spotify.com/track/4rUhZxAo9iQLCqMpHrUaxm) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/6Y165hGqcemNXMGI3KcMiU) | 3:14 | 2022-09-30 | 2022-11-13 |
-| [Mercy](https://open.spotify.com/track/7LEiyxIyeauXaURLRgqzBh) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:23 | 2022-03-10 |  |
+| [Mercy](https://open.spotify.com/track/7LEiyxIyeauXaURLRgqzBh) | [The Big Bossa](https://open.spotify.com/artist/40wVf0nTSUmeWTbucENvIq) | [Bossanova Dinner](https://open.spotify.com/album/4rLGydRYO4CVBDIEPaGwFf) | 3:23 | 2022-03-10 | 2024-06-14 |
 | [Mood \- Bossa Nova](https://open.spotify.com/track/13TDegmsMuGR3MvHQNJPyS) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \- Bossa Nova](https://open.spotify.com/album/4Hq7ktIPIDKy9ynNWhqozY) | 2:58 | 2022-03-10 |  |
 | [New Rules](https://open.spotify.com/track/5VIiodwSobgzi3JMynM6Oo) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6Bgtj0R3jwwpsmPyieO4Cq) | 2:45 | 2023-06-01 |  |
 | [No Woman, No Cry](https://open.spotify.com/track/48ZC4H4YMg2AmKzTolZygg) | [Bossa Nova Project](https://open.spotify.com/artist/7GQVeFa14DLGmqM3KsABNq) | [No Woman, No Cry](https://open.spotify.com/album/1RfSBGT6mmxxLRL9xhEyX1) | 3:48 | 2022-03-10 | 2023-06-23 |

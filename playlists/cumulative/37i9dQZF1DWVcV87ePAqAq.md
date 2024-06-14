@@ -4,7 +4,7 @@
 
 > Flaket kommer studsa!
 
-510 songs - 1 day 4 hr 5 min
+511 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2023-12-20 | 2024-05-29 |
 | [The Rhythm of the Night](https://open.spotify.com/track/2pEJjOaIpVvp1gC0N40ehs) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/1QkxSXPeEkgvNMDD1NnZjh) | 3:17 | 2020-12-31 | 2022-07-29 |
 | [The Same Way](https://open.spotify.com/track/1Rmxhk9QkgjJAPifwkA4uM) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [KiFi](https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc) | [The Same Way](https://open.spotify.com/album/1dW1vYhyo4srb9XqVNI6UZ) | 3:04 | 2020-12-31 | 2021-12-30 |
+| [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 | 2024-06-13 |  |
 | [The Way I Are](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 2:59 | 2023-12-20 | 2024-05-29 |
 | [There's Nothing Holdin' Me Back \- NOTD Remix](https://open.spotify.com/track/2nCEN5q18oVaSpEdPdnRod) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [There's Nothing Holdin' Me Back \(NOTD Remix\)](https://open.spotify.com/album/4W6bK9KEvQVU3ijOVc25YD) | 3:14 | 2022-01-03 | 2022-06-16 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-05-28 |  |

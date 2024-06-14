@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Aya Nakamura",
+  "description": "Les hits zouk du moment. Photo : Kalipsxau",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -130,6 +130,24 @@
       "duration_ms": 180000,
       "name": "ANTANANARIVO",
       "url": "https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm"
+    },
+    {
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/5S5iTH2m8zvyVV1oMJdntf"
+      },
+      "artists": [
+        {
+          "name": "SA\u00cfK",
+          "url": "https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183089,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/0HRjNyAZvKYLhPIAA6AyIf"
     },
     {
       "album": {
@@ -302,7 +320,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 134906,
       "name": "City Road",
       "url": "https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5"
@@ -328,6 +346,24 @@
       "duration_ms": 219419,
       "name": "Coeur Noir",
       "url": "https://open.spotify.com/track/2POhFt7cVOzqLYNuLOfQH0"
+    },
+    {
+      "album": {
+        "name": "Coll\u00e9",
+        "url": "https://open.spotify.com/album/5zflFbhlZVYtE45gqAC5VF"
+      },
+      "artists": [
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161715,
+      "name": "Coll\u00e9",
+      "url": "https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1"
     },
     {
       "album": {
@@ -594,6 +630,24 @@
       "duration_ms": 211365,
       "name": "DOUX",
       "url": "https://open.spotify.com/track/2kxYhc00snAqzYVhQMOmFn"
+    },
+    {
+      "album": {
+        "name": "D\u00e9conner",
+        "url": "https://open.spotify.com/album/2Gag6JEGysMLjXvkvCp156"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196362,
+      "name": "D\u00e9conner",
+      "url": "https://open.spotify.com/track/4TJ8SEE9DJqWlTRhuUQKiy"
     },
     {
       "album": {
@@ -904,7 +958,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 197366,
       "name": "Jeu dangereux",
       "url": "https://open.spotify.com/track/0ILZ5MSXz0w6aF3JnqRE6C"
@@ -1516,7 +1570,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 161552,
       "name": "On a chang\u00e9",
       "url": "https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6"
@@ -1550,6 +1604,24 @@
       "duration_ms": 166022,
       "name": "Oublie Dehors",
       "url": "https://open.spotify.com/track/36kxeIpVhh359b9n7GZbB5"
+    },
+    {
+      "album": {
+        "name": "POV : Premier regard",
+        "url": "https://open.spotify.com/album/4dzEEdxO9RZoU7rRy1BOvz"
+      },
+      "artists": [
+        {
+          "name": "Senyss",
+          "url": "https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "Oublie \u00e7a - Fendi",
+      "url": "https://open.spotify.com/track/1gxXleEdeIww3bYBy4IhPk"
     },
     {
       "album": {
@@ -2338,7 +2410,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 159066,
       "name": "Une seule chose",
       "url": "https://open.spotify.com/track/1RL2M7pZn8OpPfBqVIrGmh"

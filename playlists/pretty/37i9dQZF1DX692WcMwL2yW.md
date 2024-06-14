@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,685 likes - 166 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,684 likes - 166 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,30 +28,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 18 | [Hideaway](https://open.spotify.com/track/1BtSADpQfAKO6EIvJCP2dU) | [CL5K](https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp) | [Hideaway](https://open.spotify.com/album/3a0bcSBh38m3om1SMHTlC7) | 2:08 |
 | 19 | [clouds](https://open.spotify.com/track/7HW3irYBGOzjXBlLDPuhS2) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [clouds](https://open.spotify.com/album/1hIPzokzzAqTO7uao4S3CH) | 2:34 |
 | 20 | [Zoey Badass](https://open.spotify.com/track/7shCeTkY9mACp3Vdp0H14V) | [ormus](https://open.spotify.com/artist/2pESQKhDJ2ajViMHjehRmG) | [Zoey Badass](https://open.spotify.com/album/3VPsTbmUYkoizmoeYIc5fz) | 3:01 |
-| 21 | [Unimerse](https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [Unimerse](https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61) | 3:12 |
-| 22 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 |
-| 23 | [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 |
-| 24 | [24k](https://open.spotify.com/track/1t7gEDMO1GigErhWBDpOuv) | [FourFiveNyne](https://open.spotify.com/artist/2YhKD44kUXGZZ58RhrFWD6) | [24k](https://open.spotify.com/album/2tJNLmGBN978TVsOR8ZBPL) | 2:20 |
-| 25 | [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 |
-| 26 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 |
-| 27 | [Purgatory](https://open.spotify.com/track/02dlauQwCv2o8dYphcRlUA) | [Alien Academy](https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk) | [Purgatory](https://open.spotify.com/album/7vdWzrmaRC1ObHCAM8tbD1) | 2:04 |
-| 28 | [Sankhu](https://open.spotify.com/track/6woydkEMJP5u7nBDa4d12N) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Sankhu](https://open.spotify.com/album/5LFE54hCCIAj4usOH9ujqw) | 2:06 |
-| 29 | [Heirloom](https://open.spotify.com/track/0mAIE7c7GNYhMffrKAX8cq) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Heirloom](https://open.spotify.com/album/0iZ9k0l0Rbjuz9GUaFtHrE) | 1:56 |
-| 30 | [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 |
-| 31 | [Maldini](https://open.spotify.com/track/5aikcSvNGtB1sDfRBQucZk) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Hinside](https://open.spotify.com/album/7HEqoEzcNiBk5yOy8jC6ic) | 3:14 |
-| 32 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 |
-| 33 | [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 |
-| 34 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
-| 35 | [Too Humid](https://open.spotify.com/track/6UAJhAqQoX4w41WaCQgKGG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Floaters](https://open.spotify.com/album/0uEPaU0Svt417O1JlG4m99) | 2:16 |
-| 36 | [Baby](https://open.spotify.com/track/7B7AENJRc28c8QkZy8kRBi) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Baby](https://open.spotify.com/album/3LaAHNAw7zf96iXMV6CPwH) | 2:47 |
-| 37 | [Sunday](https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sunday](https://open.spotify.com/album/0oRhu0c7zQf7dd2HnrCoHC) | 2:26 |
-| 38 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 |
-| 39 | [Valley of Sin](https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Valley of Sin](https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw) | 2:26 |
-| 40 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 |
-| 41 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 |
-| 42 | [bussdown bossa](https://open.spotify.com/track/3FGdR8SdahNnDJ3nUFG5Eg) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Real Ones](https://open.spotify.com/album/6ANMl8JtgJtVBbEoIuO1Fi) | 3:20 |
-| 43 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 |
-| 44 | [Cemetary Breeze](https://open.spotify.com/track/4CyazQG7Ykpez2hgXMLk5y) | [Mars Door](https://open.spotify.com/artist/0zlmopuNDAnww43YNoojnA) | [Prime Rib](https://open.spotify.com/album/7cPxxvCezOeKDP0k9RQFfi) | 2:49 |
+| 21 | [Everlasting Energy](https://open.spotify.com/track/5CFgDie02AjtB8Kf0fX8PN) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Virtue](https://open.spotify.com/album/5nOfl1TFoybsvjAFi5Ip69) | 2:44 |
+| 22 | [Player Haters](https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Anthony's Surprise](https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6) | 3:03 |
+| 23 | [24k](https://open.spotify.com/track/1t7gEDMO1GigErhWBDpOuv) | [FourFiveNyne](https://open.spotify.com/artist/2YhKD44kUXGZZ58RhrFWD6) | [24k](https://open.spotify.com/album/2tJNLmGBN978TVsOR8ZBPL) | 2:20 |
+| 24 | [Assembly](https://open.spotify.com/track/5mgflX71JVHpVomQoQGhnG) | [BamJam](https://open.spotify.com/artist/3CWbOX4o8QeOTB28g9nnf2) | [Assembly](https://open.spotify.com/album/76h4O2dQCZYyWEzSuzh2bv) | 2:41 |
+| 25 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 |
+| 26 | [Purgatory](https://open.spotify.com/track/02dlauQwCv2o8dYphcRlUA) | [Alien Academy](https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk) | [Purgatory](https://open.spotify.com/album/7vdWzrmaRC1ObHCAM8tbD1) | 2:04 |
+| 27 | [Sankhu](https://open.spotify.com/track/6woydkEMJP5u7nBDa4d12N) | [Uhrk\-Nagimi](https://open.spotify.com/artist/4zdZNzoehOEhWPKlwlv0OX) | [Sankhu](https://open.spotify.com/album/5LFE54hCCIAj4usOH9ujqw) | 2:06 |
+| 28 | [Heirloom](https://open.spotify.com/track/0mAIE7c7GNYhMffrKAX8cq) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Heirloom](https://open.spotify.com/album/0iZ9k0l0Rbjuz9GUaFtHrE) | 1:56 |
+| 29 | [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 |
+| 30 | [Maldini](https://open.spotify.com/track/5aikcSvNGtB1sDfRBQucZk) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Hinside](https://open.spotify.com/album/7HEqoEzcNiBk5yOy8jC6ic) | 3:14 |
+| 31 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 |
+| 32 | [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 |
+| 33 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
+| 34 | [Too Humid](https://open.spotify.com/track/6UAJhAqQoX4w41WaCQgKGG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Floaters](https://open.spotify.com/album/0uEPaU0Svt417O1JlG4m99) | 2:16 |
+| 35 | [Baby](https://open.spotify.com/track/7B7AENJRc28c8QkZy8kRBi) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Baby](https://open.spotify.com/album/3LaAHNAw7zf96iXMV6CPwH) | 2:47 |
+| 36 | [Sunday](https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sunday](https://open.spotify.com/album/0oRhu0c7zQf7dd2HnrCoHC) | 2:26 |
+| 37 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 |
+| 38 | [Valley of Sin](https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Valley of Sin](https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw) | 2:26 |
+| 39 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 |
+| 40 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 |
+| 41 | [bussdown bossa](https://open.spotify.com/track/3FGdR8SdahNnDJ3nUFG5Eg) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Real Ones](https://open.spotify.com/album/6ANMl8JtgJtVBbEoIuO1Fi) | 3:20 |
+| 42 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 |
+| 43 | [Cemetary Breeze](https://open.spotify.com/track/4CyazQG7Ykpez2hgXMLk5y) | [Mars Door](https://open.spotify.com/artist/0zlmopuNDAnww43YNoojnA) | [Prime Rib](https://open.spotify.com/album/7cPxxvCezOeKDP0k9RQFfi) | 2:49 |
+| 44 | [Unimerse](https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [Unimerse](https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61) | 3:12 |
 | 45 | [Jetset](https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Jetset](https://open.spotify.com/album/1dSijj9syslNHC3zNURsB5) | 2:30 |
 | 46 | [Sunny Daze](https://open.spotify.com/track/5jO0yYSU9sRgnJgfRC9RBl) | [Stuzi Galactic](https://open.spotify.com/artist/55sAiEzPJjN2stpeaZsE1A) | [The Midnight Rendezvous](https://open.spotify.com/album/7ab2LHNv9xISb0Dh3QXjSN) | 2:17 |
 | 47 | [JOYFUL VS HAPPINESS](https://open.spotify.com/track/5guZOtwuwy2eIJoKOKwK0D) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [JOYFUL VS HAPPINESS](https://open.spotify.com/album/6XSdGUawSNRkrOmkKh4Tzy) | 3:16 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 165 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 |
 | 166 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 |
 
-Snapshot ID: `ZhSVZQAAAAAtgy2UJmnARMqy9tn+v2mN`
+Snapshot ID: `ZmtBGQAAAAAEq8leAS1szCirGTHFzQnk`

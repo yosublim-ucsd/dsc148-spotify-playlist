@@ -1,13 +1,77 @@
 {
-  "description": "Ready voor PINK SUMMER! Cover: Frenna",
-  "num_followers": 323010,
+  "description": "Motion en good vibes. Superster: Alessio",
+  "num_followers": 323090,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmIxYAAAAABts4P4Nh5upHtKfxpRdXcX",
+  "snapshot_id": "Zmtr4AAAAADNqZdAey/tQp4Mj8C61369",
   "tracks": [
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Superster (feat. Priceless)",
+        "url": "https://open.spotify.com/album/0zRPWGeCO434LM2U5mZQBp"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        }
+      ],
+      "duration_ms": 146673,
+      "name": "Superster (feat. Priceless)",
+      "url": "https://open.spotify.com/track/5fkx5mCkwfKeEIzdSsmd7y"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "More Pretty Girls",
+        "url": "https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "More Pretty Girls",
+      "url": "https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Matchday",
+        "url": "https://open.spotify.com/album/7o1TBmwLGf3zrBYXlvd8V0"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 150892,
+      "name": "Matchday",
+      "url": "https://open.spotify.com/track/4peow9pJx76ZvS5FtzGo5H"
+    },
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
@@ -27,26 +91,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Beslama (feat. Bryan Mg)",
-        "url": "https://open.spotify.com/album/6BhxEWo9RIEsFdAq4TNECy"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 138308,
-      "name": "Beslama (feat. Bryan Mg)",
-      "url": "https://open.spotify.com/track/769zoqvbzLNOfi6GCgHC3l"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
       },
@@ -59,6 +103,42 @@
       "duration_ms": 147641,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "FAKE LOVE",
+        "url": "https://open.spotify.com/album/6xiKcv0sBADsG4Tal7LSFc"
+      },
+      "artists": [
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 156554,
+      "name": "FAKE LOVE",
+      "url": "https://open.spotify.com/track/0LyV0H4Lq3kTF5rXncux9j"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Come Ova",
+        "url": "https://open.spotify.com/album/78EGwWaLj5Ya8ynG9QG7sI"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "duration_ms": 149775,
+      "name": "Come Ova",
+      "url": "https://open.spotify.com/track/0vmveR2Q0bg4lLap4h7PO0"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -135,6 +215,66 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
+        "name": "Beslama (feat. Bryan Mg)",
+        "url": "https://open.spotify.com/album/6BhxEWo9RIEsFdAq4TNECy"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 138308,
+      "name": "Beslama (feat. Bryan Mg)",
+      "url": "https://open.spotify.com/track/769zoqvbzLNOfi6GCgHC3l"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Ver",
+        "url": "https://open.spotify.com/album/4YtpERBETqQQTTjjy15h4K"
+      },
+      "artists": [
+        {
+          "name": "Red Moons",
+          "url": "https://open.spotify.com/artist/0XldWxMP7pIID97K67gQNo"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "Machario",
+          "url": "https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "Ver",
+      "url": "https://open.spotify.com/track/3QvSJfsnuTOU02IhhEjPOG"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Personality",
+        "url": "https://open.spotify.com/album/6LVCL0HSursyGvKsyPAuff"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Personality",
+      "url": "https://open.spotify.com/track/6tAvzriaoZHYQRNaWA7kwY"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
         "name": "Lie to You",
         "url": "https://open.spotify.com/album/6fgxjvwVJhXZOvAqrUOtEj"
       },
@@ -151,26 +291,6 @@
       "duration_ms": 161359,
       "name": "Lie to You",
       "url": "https://open.spotify.com/track/0PFOCmRvh6HyBXXUsxmcrb"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Jij Bent Het",
-        "url": "https://open.spotify.com/album/3fa5PRokqVLjVg98LAJASp"
-      },
-      "artists": [
-        {
-          "name": "Kish",
-          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
-        },
-        {
-          "name": "2mochh",
-          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Jij Bent Het",
-      "url": "https://open.spotify.com/track/2n8tEYDOkHJnHhu3DdKjKk"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -213,6 +333,22 @@
       "url": "https://open.spotify.com/track/1EbdHMrk9t9WbEdEvIYQzK"
     },
     {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Laatste Keer",
+        "url": "https://open.spotify.com/album/6KaoEWQTv16p4fa5BwEmke"
+      },
+      "artists": [
+        {
+          "name": "Kevcody",
+          "url": "https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Laatste Keer",
+      "url": "https://open.spotify.com/track/6uGUog1iEDG2g3Exas8avI"
+    },
+    {
       "added_at": "2024-06-06 22:00:00",
       "album": {
         "name": "Keeper",
@@ -231,6 +367,30 @@
       "duration_ms": 155771,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/4JdEDm25kiFS9pxNUs2bPN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Gata Only (Remix)",
+        "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 230513,
+      "name": "Gata Only (Remix)",
+      "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -271,30 +431,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Pretty Girls Remix Pack",
-        "url": "https://open.spotify.com/album/4Wmt3X6XnB7UF2JxYXcJSk"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 178216,
-      "name": "Pretty Girls - Remix",
-      "url": "https://open.spotify.com/track/0BQhQL9MIIOvkufAPkqq1q"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Yu",
         "url": "https://open.spotify.com/album/4Jl0QjOzox1CTftGjpkmam"
       },
@@ -313,24 +449,32 @@
       "url": "https://open.spotify.com/track/1dW46GRu7OnjnlMJsOcMoT"
     },
     {
-      "added_at": "2024-06-06 22:00:00",
+      "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/5qqVO3JNih12p1fOuC4A71"
+        "name": "Si Si",
+        "url": "https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3"
       },
       "artists": [
         {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
         },
         {
-          "name": "Monq",
-          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Dj Leska",
+          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 126958,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/2imYbBOOllM62rDPk1eGUy"
+      "duration_ms": 180378,
+      "name": "Si Si",
+      "url": "https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -355,6 +499,46 @@
       "duration_ms": 170269,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/5alGFMfqBYoo1ifkYblVDb"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Jij Bent Het",
+        "url": "https://open.spotify.com/album/3fa5PRokqVLjVg98LAJASp"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        },
+        {
+          "name": "2mochh",
+          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
+        }
+      ],
+      "duration_ms": 148085,
+      "name": "Jij Bent Het",
+      "url": "https://open.spotify.com/track/2n8tEYDOkHJnHhu3DdKjKk"
+    },
+    {
+      "added_at": "2024-06-06 22:00:00",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/5qqVO3JNih12p1fOuC4A71"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "duration_ms": 126958,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/2imYbBOOllM62rDPk1eGUy"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -408,8 +592,8 @@
           "url": "https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R"
         },
         {
-          "name": "Keess (Valsbezig)",
-          "url": "https://open.spotify.com/artist/2e8bhd3wKXOlQqF1a2GBQv"
+          "name": "Keess",
+          "url": "https://open.spotify.com/artist/6Dhjz5IwumzpmeyPCT0jBp"
         }
       ],
       "duration_ms": 161846,
@@ -467,6 +651,22 @@
       "duration_ms": 150733,
       "name": "Wayeh",
       "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "OKAY",
+        "url": "https://open.spotify.com/album/6JeM2iNJxtQ59bibz1jRBi"
+      },
+      "artists": [
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/1lIZp8oy5NEqmSEgSk785s"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -533,6 +733,22 @@
       "url": "https://open.spotify.com/track/4ri4OCP0oDrxXMTMPPliRD"
     },
     {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Dikke Bille",
+        "url": "https://open.spotify.com/album/12fkphM1mU9sQMQrp0kV0r"
+      },
+      "artists": [
+        {
+          "name": "TAVV",
+          "url": "https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM"
+        }
+      ],
+      "duration_ms": 153202,
+      "name": "Dikke Bille",
+      "url": "https://open.spotify.com/track/1rCAyI2EiUFp80T5dLRhgr"
+    },
+    {
       "added_at": "2024-06-06 22:00:00",
       "album": {
         "name": "Doorrijden",
@@ -587,6 +803,22 @@
       "duration_ms": 155454,
       "name": "Beetje Fout (Remix) (feat. D-Double & Latifah)",
       "url": "https://open.spotify.com/track/7s626ea0E22HNxmFaYKQ7k"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Bellen of Berichten",
+        "url": "https://open.spotify.com/album/4EIU8yWplVZOhVAcat7sC4"
+      },
+      "artists": [
+        {
+          "name": "Ella Banks",
+          "url": "https://open.spotify.com/artist/5hQfwoHdd8NBpDKXWHORIM"
+        }
+      ],
+      "duration_ms": 179417,
+      "name": "Bellen of Berichten",
+      "url": "https://open.spotify.com/track/5f6lniuVwrmLQMKob5MVHU"
     },
     {
       "added_at": "2024-06-06 22:00:00",
@@ -887,26 +1119,6 @@
     {
       "added_at": "2024-06-06 22:00:00",
       "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
         "name": "Doggy",
         "url": "https://open.spotify.com/album/5cSq4ThXJUx5kyFZePn5go"
       },
@@ -1115,26 +1327,6 @@
       "duration_ms": 195643,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
-    },
-    {
-      "added_at": "2024-06-06 22:00:00",
-      "album": {
-        "name": "Triq Salama",
-        "url": "https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "ICE",
-          "url": "https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM"
-        }
-      ],
-      "duration_ms": 142580,
-      "name": "Triq Salama",
-      "url": "https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO"
     },
     {
       "added_at": "2024-06-06 22:00:00",

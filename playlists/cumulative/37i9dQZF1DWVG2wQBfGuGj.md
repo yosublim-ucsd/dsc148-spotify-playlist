@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-239 songs - 12 hr 6 min
+242 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 | 2024-03-27 |  |
 | [C'est la vie](https://open.spotify.com/track/6pa0AGTLAWRTclXoforij1) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [C'est la vie](https://open.spotify.com/album/6lcv0jcRTZQfcHBCrzJnpf) | 2:02 | 2023-05-05 |  |
 | [Cala Pada](https://open.spotify.com/track/1A7y3IaHjjnPXB536LnPuq) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Cala Pada](https://open.spotify.com/album/6vkTL2R6ws7QMOxyfN6yc2) | 2:40 | 2023-05-05 |  |
+| [Can't Go Far](https://open.spotify.com/track/6ZLaKWF9SggszDQR6Nri6i) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Can't Go Far](https://open.spotify.com/album/3Yr8LmLltFvxJp1pm4mlNO) | 2:59 | 2024-06-13 |  |
 | [Cap](https://open.spotify.com/track/6U0uoeEv7ZCgIkld5Wgm2H) | [Floral Gloam](https://open.spotify.com/artist/1j93Wm2QholT6mKJY937gM) | [Cap](https://open.spotify.com/album/49RS1FSRlFrsmA6PpzjZSN) | 2:40 | 2024-01-19 |  |
 | [Cap Martin](https://open.spotify.com/track/3RQyVYIlFL1q3mSP18CwMG) | [Alta Piana](https://open.spotify.com/artist/3M2f6pxSmhtK2u6Qh7U6Z4) | [Cap Martin](https://open.spotify.com/album/4wnWbqu7ENe0H3b2w7FJSK) | 2:18 | 2024-02-27 |  |
 | [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2023-05-05 |  |
@@ -73,6 +74,7 @@
 | [Disc Me Bro](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Disc Me Bro](https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v) | 2:42 | 2023-08-04 |  |
 | [Don't Wait Blue](https://open.spotify.com/track/22lKedeOAiGBpMOPW60PwD) | [Lukall](https://open.spotify.com/artist/4jhnkqer34ex3RRtYA6e5O) | [Don't Wait Blue](https://open.spotify.com/album/6HgQpYP3a9omdYczFyTjdg) | 3:05 | 2023-05-05 |  |
 | [Dr Zennheiser](https://open.spotify.com/track/4ZliUlRoGlwkCsEf60aeLv) | [John Son of John](https://open.spotify.com/artist/6XZyEFHLJ1SZieiBKiKwjA) | [Dr Zennheiser](https://open.spotify.com/album/3gElVEf2u7ZCu2RL7PwowP) | 2:42 | 2023-05-05 |  |
+| [Dreaming Together](https://open.spotify.com/track/3yJCxQ784xrtePvpP2WK2n) | [8twenty](https://open.spotify.com/artist/5jEjyjwDtaXITcEPJx7rWg) | [Dreaming Together](https://open.spotify.com/album/1giw5Jk7PSNu9or9oSMJWR) | 2:14 | 2024-06-13 |  |
 | [Drunk Sundays](https://open.spotify.com/track/7HARmWLSb1quqaEGNuIudB) | [Manuel Darquart](https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS) | [Dippin & Trippin](https://open.spotify.com/album/7c2S06S20LZ3i97CUXeMSb) | 5:19 | 2023-05-05 | 2023-08-19 |
 | [Dune](https://open.spotify.com/track/1bs0uOxKolGSy0539th59S) | [Gloster Gladiator](https://open.spotify.com/artist/1qwnni8v2EwPmnotgdJWBg) | [Dune](https://open.spotify.com/album/27pURijBKFpPHK7x0OyemY) | 2:07 | 2024-04-09 |  |
 | [Duné](https://open.spotify.com/track/0vzc3WshU7OjeAazBIJwoO) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Duné](https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX) | 2:38 | 2023-05-05 |  |
@@ -174,6 +176,7 @@
 | [Port Ella](https://open.spotify.com/track/6Q6gpf2CqaZU3on49r1NcU) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Pomaque](https://open.spotify.com/album/7ya9jIowdJzZlk01WLo2IX) | 3:46 | 2023-07-14 |  |
 | [Porto Cervo](https://open.spotify.com/track/5ttNhRQkOoNHJCdxIzdIlr) | [Deeter K](https://open.spotify.com/artist/2NbPC2YJm6tBoFU3BJyXEo) | [Porto Cervo](https://open.spotify.com/album/7wmUcfuOooVUBok4lfNIbb) | 3:27 | 2023-05-05 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2023-05-05 | 2023-09-16 |
+| [Purified](https://open.spotify.com/track/17GmRKaFzgmnMWC8EEF57q) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Purified](https://open.spotify.com/album/4xR3BlZgoFAA1J03gHHX9f) | 3:33 | 2024-06-13 |  |
 | [Rainfall](https://open.spotify.com/track/6e7qUFPM8jBpL6VJ5IYYP2) | [Purple Smog](https://open.spotify.com/artist/32T4i79ZuvzxjSochD6bgP) | [Rainfall](https://open.spotify.com/album/6f15YgqIUQC6FOeboBwSMJ) | 2:21 | 2024-02-27 |  |
 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 | 2023-05-05 |  |
 | [Revolución, Pt\. I](https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Origins](https://open.spotify.com/album/5G6oBLVinroyJnO760V6Gu) | 5:53 | 2024-02-13 |  |

@@ -1,15 +1,47 @@
 {
   "description": "Fresh takes on that high lonesome sound. Cover: Kaia Kater",
-  "num_followers": 254878,
+  "num_followers": 254895,
   "original_name": "Indie Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZleGsgAAAAACz1ySjILjl4Mrnqv7HBWE",
+  "snapshot_id": "ZmukIAAAAADcBe/ijUUCqubFEchkQvNo",
   "tracks": [
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "The Vinnie Paolizzi LP",
+        "url": "https://open.spotify.com/album/7efeyi164NcNTYgJrhQliL"
+      },
+      "artists": [
+        {
+          "name": "Vinnie Paolizzi",
+          "url": "https://open.spotify.com/artist/62Nt9LwkCk8t88Y0H7Ewjh"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/5LFPwiZYveNPRMiUJTabcC"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/1XpRYkvfDy9zX0Se7cI6Gy"
+      },
+      "artists": [
+        {
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/6xnAmE24OBRvjU4b7gN7Eb"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Witch",
         "url": "https://open.spotify.com/album/1tawEN40gmanTIG2QaN3BC"
@@ -29,39 +61,7 @@
       "url": "https://open.spotify.com/track/084AB0fzsGnHtrkVHATK95"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
-      "album": {
-        "name": "The Vinnie Paolizzi LP",
-        "url": "https://open.spotify.com/album/7efeyi164NcNTYgJrhQliL"
-      },
-      "artists": [
-        {
-          "name": "Vinnie Paolizzi",
-          "url": "https://open.spotify.com/artist/62Nt9LwkCk8t88Y0H7Ewjh"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/5LFPwiZYveNPRMiUJTabcC"
-    },
-    {
-      "added_at": "2024-05-29 19:49:05",
-      "album": {
-        "name": "I Could Drive You Crazy",
-        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
-    },
-    {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Where Berries Grow",
         "url": "https://open.spotify.com/album/30vFeCWrEiXEH1MR75ILfU"
@@ -77,27 +77,31 @@
       "url": "https://open.spotify.com/track/0ideOQQL73HMu4KS99cL99"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
-        "name": "Moon in Motion 1",
-        "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
+        "name": "Oregon (with Paul Hoffman of Greensky Bluegrass)",
+        "url": "https://open.spotify.com/album/3MQpFKPveaV9kHgCFkPwwh"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
         },
         {
-          "name": "Tray Wellington Band",
-          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        },
+        {
+          "name": "phoffman",
+          "url": "https://open.spotify.com/artist/7kazeE2jicnplL38ucM9qb"
         }
       ],
-      "duration_ms": 249717,
-      "name": "Moon in Motion 1",
-      "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
+      "duration_ms": 154173,
+      "name": "Oregon (with Paul Hoffman of Greensky Bluegrass)",
+      "url": "https://open.spotify.com/track/2QAC1o02NqkJYNIcrSsxNU"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9"
@@ -117,7 +121,7 @@
       "url": "https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Raleigh and Spencer",
         "url": "https://open.spotify.com/album/6mCrNmiRJPAvtSzZjIk7p0"
@@ -137,7 +141,27 @@
       "url": "https://open.spotify.com/track/5jN4JkTORouAjbgs53rGLY"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "Moon in Motion 1",
+        "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        },
+        {
+          "name": "Tray Wellington Band",
+          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "Moon in Motion 1",
+      "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/6FDUreRHzEIhD9H4KUmHIX"
@@ -153,7 +177,7 @@
       "url": "https://open.spotify.com/track/0my8X86ZfdxmeGbq6c2LhB"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Wild As A Flower",
         "url": "https://open.spotify.com/album/2Mk5R0QQQttS6qtunHVdV8"
@@ -173,23 +197,23 @@
       "url": "https://open.spotify.com/track/2MYoypJnH6LRyYPETgU0cF"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
-        "name": "Phthalo Blue",
-        "url": "https://open.spotify.com/album/2DKpj7JUnZnVnS1vz7odSO"
+        "name": "American Pastoral",
+        "url": "https://open.spotify.com/album/03g2OhvmhKFrK6uZ5ZJ3SV"
       },
       "artists": [
         {
-          "name": "Andrew Marlin",
-          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
         }
       ],
-      "duration_ms": 201520,
-      "name": "Window Shopper",
-      "url": "https://open.spotify.com/track/2fV9ahW1DVdWKsNv7ercdZ"
+      "duration_ms": 197142,
+      "name": "American Pastoral",
+      "url": "https://open.spotify.com/track/2MbRWtul1s1LOn8AGsj8iC"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Holes",
         "url": "https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh"
@@ -205,7 +229,7 @@
       "url": "https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Full Moons (Leap Year Session)",
         "url": "https://open.spotify.com/album/1iI4uR09Thpmx67W4z0lo7"
@@ -221,23 +245,7 @@
       "url": "https://open.spotify.com/track/4esmXORCmAYgOpdHJvJDM8"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
-      "album": {
-        "name": "Here For You",
-        "url": "https://open.spotify.com/album/1XpRYkvfDy9zX0Se7cI6Gy"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "Here For You",
-      "url": "https://open.spotify.com/track/6xnAmE24OBRvjU4b7gN7Eb"
-    },
-    {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
@@ -253,7 +261,7 @@
       "url": "https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "No Finish Line",
         "url": "https://open.spotify.com/album/7fnwx5ZiqSjcCk3USMmJTp"
@@ -269,7 +277,7 @@
       "url": "https://open.spotify.com/track/66K3bzGVX0pwLNpy6Y32Ug"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Planetarium",
         "url": "https://open.spotify.com/album/0WyTRxxqNKpoPr4HnP5ElV"
@@ -289,7 +297,7 @@
       "url": "https://open.spotify.com/track/4Ks73actcqVURztJs04h9s"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
@@ -305,7 +313,23 @@
       "url": "https://open.spotify.com/track/30vFgOT7ribc5PafgFiJ50"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "I Could Drive You Crazy",
+        "url": "https://open.spotify.com/album/3io77WHK4cVk4JKKcFS4Kq"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/41FgxEQPfzOWhyzb3vSmKi"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
@@ -325,23 +349,7 @@
       "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
-      "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Bury Me Beneath The Willow - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/147jTPnoWjZnbF6r7NFnsI"
-    },
-    {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Carolina Ghost",
         "url": "https://open.spotify.com/album/1aNX0FOdlzShowyEoFP23U"
@@ -357,7 +365,23 @@
       "url": "https://open.spotify.com/track/1CxIbi3BRjTmbpmBpc14Wg"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "Bury Me Beneath The Willow - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/147jTPnoWjZnbF6r7NFnsI"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Sagebrush Continuum",
         "url": "https://open.spotify.com/album/0heELN5GL5mmba4zdmXTfj"
@@ -373,7 +397,7 @@
       "url": "https://open.spotify.com/track/1EA5W3S3UFcklbYBRPTi8n"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
@@ -389,7 +413,7 @@
       "url": "https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "My Black Country: The Songs of Alice Randall",
         "url": "https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc"
@@ -405,7 +429,7 @@
       "url": "https://open.spotify.com/track/5kOTn1SJ6cYZflxDX3ujaU"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Walking",
         "url": "https://open.spotify.com/album/2qahfwPKZSD2W85kLGikoi"
@@ -421,7 +445,7 @@
       "url": "https://open.spotify.com/track/6Zfwu5a4g9OneQls4wGoCm"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Can't Live Without Love",
         "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
@@ -445,7 +469,23 @@
       "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/5cb8yyGzPhMkz7hp1NDVat"
+      },
+      "artists": [
+        {
+          "name": "Small Fools",
+          "url": "https://open.spotify.com/artist/5IsHbK3X6ZDauHENF6HMEm"
+        }
+      ],
+      "duration_ms": 149862,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/2szd2R3aU31JMdnaLQIq4I"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Impossible Odds",
         "url": "https://open.spotify.com/album/6fMXeYCooAqrKjg8Jqk8nr"
@@ -461,7 +501,7 @@
       "url": "https://open.spotify.com/track/7rvf2LzefX5mNLTXykAOOe"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Red River",
         "url": "https://open.spotify.com/album/1J7WgZ7mGdRbxkKnLUrBJs"
@@ -477,7 +517,7 @@
       "url": "https://open.spotify.com/track/073ZDDiIREsuTrrgT0llpV"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "F\u00e9don",
         "url": "https://open.spotify.com/album/5rbv19FUmbvYZ9ANnIh8wl"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/4AQvuoHUEIde5FVM3iqwpK"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Cut the Wires",
         "url": "https://open.spotify.com/album/2o4z13sNogbiBiriffHW6k"
@@ -513,7 +553,7 @@
       "url": "https://open.spotify.com/track/16B3FxOJCZOyWXV7NOtOrR"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "I Built A World",
         "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
@@ -529,7 +569,7 @@
       "url": "https://open.spotify.com/track/5xYUz0YkDCqJt5UsEW9qYP"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Dog Song",
         "url": "https://open.spotify.com/album/5fe3j7Ay9Gvq5uoGnQ6Ia6"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/7jKF3WjW7lv0JlR9t9fuuG"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/6OHnCpcTHAGOyhWh4MQh7x"
@@ -561,7 +601,7 @@
       "url": "https://open.spotify.com/track/1x1AfZSiiEOzWl7XX04MSG"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Quiet Flame",
         "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
@@ -577,7 +617,7 @@
       "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Working on a Building / Red Rocking Chair",
         "url": "https://open.spotify.com/album/2lc0guu7J0z5pHxALnVZOL"
@@ -593,7 +633,7 @@
       "url": "https://open.spotify.com/track/50KR2ahTgBpg5JjsTuz0ZC"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Queen of Time",
         "url": "https://open.spotify.com/album/03BbJ28iqI6PukTonhdbCb"
@@ -613,7 +653,7 @@
       "url": "https://open.spotify.com/track/53zxbkiz33L0TJMxd9IHwf"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Where I Need to Be",
         "url": "https://open.spotify.com/album/3hQecMz4SlCwERDyC67X6N"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/3n8FRxd5pDfRPoUkzyL871"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Kessler",
         "url": "https://open.spotify.com/album/4Uu2Wvme4SHshmWmQrYj0m"
@@ -645,7 +685,7 @@
       "url": "https://open.spotify.com/track/08mJobF7P3KjQvEDgZ6uRq"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/15UG4Lof5GgIqP0NvVbgOX"
@@ -661,7 +701,7 @@
       "url": "https://open.spotify.com/track/20pt4pBfMEfhZ1SePggRkh"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Rain Done Fell on Me, Pt. 1",
         "url": "https://open.spotify.com/album/290GEbcFq3xbG49BNYy0N9"
@@ -677,7 +717,7 @@
       "url": "https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "3000 Miles",
         "url": "https://open.spotify.com/album/1Lx9ljkcAakEV8D19H3lXJ"
@@ -693,7 +733,7 @@
       "url": "https://open.spotify.com/track/3JIVZqBU8gdKuq1H7Yoxsc"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "All Ashore",
         "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
@@ -709,7 +749,31 @@
       "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "Wayfaring Stranger",
+        "url": "https://open.spotify.com/album/4xUDHxjrS1bMt8E3F2ABJP"
+      },
+      "artists": [
+        {
+          "name": "Josh Threlkeld",
+          "url": "https://open.spotify.com/artist/3ViyfhmMRSfI1OyF4mhkKI"
+        },
+        {
+          "name": "Alice Hasen",
+          "url": "https://open.spotify.com/artist/0LC51vw5OOWDAcMRQw486R"
+        },
+        {
+          "name": "Rachel Maxann",
+          "url": "https://open.spotify.com/artist/1CyZOS7R5MA1WKaeqSmcje"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Wayfaring Stranger",
+      "url": "https://open.spotify.com/track/7s5MGO3eJBDuCfsUutotIC"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Every Bright Penny",
         "url": "https://open.spotify.com/album/0kKqzflBXUOq1IahBXzwB2"
@@ -725,7 +789,7 @@
       "url": "https://open.spotify.com/track/2VVXIOwidW4efrECnpajdU"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "1682",
         "url": "https://open.spotify.com/album/5XIlvWXTmWLki0A8QOJtdz"
@@ -745,7 +809,7 @@
       "url": "https://open.spotify.com/track/4ydDsZuEYeYjeilm1pbJlF"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/3CHiv61vD2CDB7Od4alOta"
@@ -761,7 +825,7 @@
       "url": "https://open.spotify.com/track/41UIoI9cGEVx7Qm3Y6Ssun"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Unless",
         "url": "https://open.spotify.com/album/7ypdPobffspADW87626GOy"
@@ -777,7 +841,7 @@
       "url": "https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Rhododendron (Alt Version)",
         "url": "https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp"
@@ -793,7 +857,7 @@
       "url": "https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "+ 1",
         "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
@@ -813,7 +877,7 @@
       "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Gardens",
         "url": "https://open.spotify.com/album/2gh0zpXNgEvhLQ6d5bcFHd"
@@ -829,7 +893,7 @@
       "url": "https://open.spotify.com/track/0Rrrxb4Wrqk5MGE6KevSg1"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Stranger To The Feeling",
         "url": "https://open.spotify.com/album/4YCUw0aJWQm7eJQsKWA0DL"
@@ -849,7 +913,7 @@
       "url": "https://open.spotify.com/track/1OGcvrXuLM5qTBeQcndzKW"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Azalea, Holly",
         "url": "https://open.spotify.com/album/4Nha9f109qmJb2TeXAiJTS"
@@ -865,7 +929,7 @@
       "url": "https://open.spotify.com/track/06VQUnRDXwxBkWRpNn4tpT"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Gondolier",
         "url": "https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN"
@@ -881,7 +945,7 @@
       "url": "https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Easy On Your Way",
         "url": "https://open.spotify.com/album/5bF71NdrRbRSyllEKpyKnm"
@@ -897,7 +961,7 @@
       "url": "https://open.spotify.com/track/0VCQFzBQri4N9BeZPtFIPn"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Belt Weaved of True Vine",
         "url": "https://open.spotify.com/album/63ZfS9odl5nkJU0xNlENMC"
@@ -913,7 +977,7 @@
       "url": "https://open.spotify.com/track/1J3SOV9xDDuFnMtZsDIXYN"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Open Your Books",
         "url": "https://open.spotify.com/album/7uYLTekJ4TB6wIVW5A0ACa"
@@ -937,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3eh1Rviqh3REaX2xWhfOlF"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Running Out Of Hope, Arkansas (Acoustic)",
         "url": "https://open.spotify.com/album/7vpCqY8FyAhITBlvaOUhdC"
@@ -953,7 +1017,7 @@
       "url": "https://open.spotify.com/track/0W6gyNHsRDjj4EXfJM0u7o"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Honey & Cinnamon",
         "url": "https://open.spotify.com/album/377OoOZTTTuXxkMxPpNt0f"
@@ -969,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4RGUfZNhjyNeQI6qgtxLDE"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Tell Me I'm Not Dreaming",
         "url": "https://open.spotify.com/album/5dELRNjEB4K7BDoSz3VwOP"
@@ -985,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5lLLan3sQ3MqvVifwOcBAN"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Homesick for Virginia",
         "url": "https://open.spotify.com/album/7bKzaaGIKW0RhHMVgUlLil"
@@ -1001,7 +1065,7 @@
       "url": "https://open.spotify.com/track/7m8LF6U3aa7jH6f7jULYBU"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
@@ -1021,7 +1085,7 @@
       "url": "https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Weathered and Worn",
         "url": "https://open.spotify.com/album/1CPNweGhZECEtsPo9lFD5z"
@@ -1037,7 +1101,7 @@
       "url": "https://open.spotify.com/track/5eDuOgtupzpY0Wqfvq3aK0"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Wishes on Weeds",
         "url": "https://open.spotify.com/album/0dHV7RS5fCseUrZnZjJ8MG"
@@ -1053,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3VZgH2Mo2J6btWLU7kakQh"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Life Lessons",
         "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
@@ -1069,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "New Earth",
         "url": "https://open.spotify.com/album/08zLOiclaS8FkhuqXQrhMb"
@@ -1085,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1y8ZkHUqgPkgSFDGM55siL"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Queen Of The Coast",
         "url": "https://open.spotify.com/album/3LpWDjfTgKJ3lGKykjtwuz"
@@ -1101,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5js8Ue4WdDisyNmsYTJ9p0"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "City of Gold",
         "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
@@ -1125,7 +1189,7 @@
       "url": "https://open.spotify.com/track/0qyIiJfHKFvtzDHRCwE3In"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/1yOiLeaU6WhoODolHNzXKa"
@@ -1153,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3l4WkITpO5BerAC0pHBa6C"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Sleeptalking",
         "url": "https://open.spotify.com/album/347KmzgyYTujDnrWn9PsnR"
@@ -1173,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1cM6J7w8USlRVBz2qsAd47"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Dollar Bill Bar",
         "url": "https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47"
@@ -1189,7 +1253,7 @@
       "url": "https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Bottom Dollar",
         "url": "https://open.spotify.com/album/3BYrfnQfnkR7QhAuuw7dTC"
@@ -1205,7 +1269,7 @@
       "url": "https://open.spotify.com/track/4KcgeB3zlr1VadVyyRUkGq"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Travelers Rest",
         "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
@@ -1221,7 +1285,7 @@
       "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
@@ -1237,7 +1301,7 @@
       "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/7eGiHsarofeJYs4V51ahQf"
@@ -1253,7 +1317,7 @@
       "url": "https://open.spotify.com/track/030xRmQe8IOwWqf25TVHly"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Imaginary People",
         "url": "https://open.spotify.com/album/6Kzw3VkXXYmCk3VSQBuQh8"
@@ -1269,7 +1333,7 @@
       "url": "https://open.spotify.com/track/39mVAaZFF7sOKow1smXC3z"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Great Big Lie",
         "url": "https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8"
@@ -1285,7 +1349,7 @@
       "url": "https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/0Ko043n4FVz0uor1vl7fmK"
@@ -1301,7 +1365,7 @@
       "url": "https://open.spotify.com/track/1LGEfISCKTSlz0MMjJ9PjC"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/30wX2X0nWVd0E8ZGBveuK9"
@@ -1317,7 +1381,7 @@
       "url": "https://open.spotify.com/track/12IqBd57J0vEfC6BrdWDrq"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Imitation Fields",
         "url": "https://open.spotify.com/album/2xQYar4YltS6pdsRkLquwL"
@@ -1333,7 +1397,7 @@
       "url": "https://open.spotify.com/track/07zf1CPpOq9n29kGYSMzdk"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
@@ -1353,7 +1417,7 @@
       "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Sally Ann",
         "url": "https://open.spotify.com/album/0QmoaymdgmbxKWQTMXVUWa"
@@ -1369,7 +1433,7 @@
       "url": "https://open.spotify.com/track/7hhMerspFVOS1uNhJC00PJ"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Tried to Ruin My Name",
         "url": "https://open.spotify.com/album/6Ciri7OY3x7Rv5DrdKabyN"
@@ -1389,7 +1453,7 @@
       "url": "https://open.spotify.com/track/2vSnv3tjh9FbogKRWrrFo1"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -1409,7 +1473,7 @@
       "url": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
@@ -1425,7 +1489,7 @@
       "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Hotspur Johnny",
         "url": "https://open.spotify.com/album/1bE4pxD3ERkHw2OiVdp2DB"
@@ -1441,7 +1505,7 @@
       "url": "https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/2uvCyIwpcbtS6Kuf27Pzqb"
@@ -1457,7 +1521,7 @@
       "url": "https://open.spotify.com/track/0ivBXQFCf5gzDA8BBQ2im1"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "There is a Time",
         "url": "https://open.spotify.com/album/6OJ9Y4NFTVi8H2FIN2bivG"
@@ -1473,7 +1537,7 @@
       "url": "https://open.spotify.com/track/0pFM9wvRLxLnu8N0qoAFSr"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
@@ -1489,7 +1553,7 @@
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/18raabFfifgIOln3pJtSoP"
@@ -1505,7 +1569,7 @@
       "url": "https://open.spotify.com/track/0ivmvLrcp713tttRuZXZS7"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "All The Way (Remix)",
         "url": "https://open.spotify.com/album/3QnFtoqpCQLFZUU8S0R9dF"
@@ -1525,7 +1589,7 @@
       "url": "https://open.spotify.com/track/2evLomJvZETdwcfvQIgY4C"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
@@ -1541,7 +1605,7 @@
       "url": "https://open.spotify.com/track/0hhRZjuboEqeXWX4f6Wg4c"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Sorrow Bound",
         "url": "https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj"
@@ -1557,7 +1621,7 @@
       "url": "https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Killjoy",
         "url": "https://open.spotify.com/album/6CoCJcLjQnNvjYAv485Pec"
@@ -1573,7 +1637,7 @@
       "url": "https://open.spotify.com/track/6cBVVOLuuCWXh9H9Q47pYF"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Banks of the Miramichi",
         "url": "https://open.spotify.com/album/3kqvmokgP0AjKf3vXmDXxa"
@@ -1589,7 +1653,7 @@
       "url": "https://open.spotify.com/track/5j9TbxiYTK3qkJ7aSY7I3D"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Lost But Not Forgotten",
         "url": "https://open.spotify.com/album/6IIDtMuwJwElTFuZAcm7cH"
@@ -1605,7 +1669,7 @@
       "url": "https://open.spotify.com/track/3Bm3ymBsKeq5GTGOIsd6dM"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
@@ -1621,7 +1685,7 @@
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Born Strangers",
         "url": "https://open.spotify.com/album/4u0cNvfrj3P2dgHwtQFO14"
@@ -1637,7 +1701,7 @@
       "url": "https://open.spotify.com/track/6sJx2uKIN6Al2RrghMXT5M"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/44Vkxzihd7BtmukOvb7xyL"
@@ -1653,7 +1717,7 @@
       "url": "https://open.spotify.com/track/3Jiv9CMoeRuO7xlcfXRnjz"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Odds of Getting Even",
         "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
@@ -1669,7 +1733,7 @@
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Snake Trails",
         "url": "https://open.spotify.com/album/082Kc4ODfaLCjsF0E2WGmk"
@@ -1685,7 +1749,7 @@
       "url": "https://open.spotify.com/track/3fkRPK9CvfZAqmbwSLSxh4"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Beat the Devil and Carry a Rail",
         "url": "https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV"
@@ -1705,7 +1769,7 @@
       "url": "https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Thickets & Brambles",
         "url": "https://open.spotify.com/album/2kYJzRU0AhsCtxRYj7QUwP"
@@ -1721,7 +1785,7 @@
       "url": "https://open.spotify.com/track/6cZAzIMPnUT14I7jrECZWD"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Way Up Yonder",
         "url": "https://open.spotify.com/album/0OB6Zn0p9oqygrgk16RsTF"
@@ -1737,7 +1801,23 @@
       "url": "https://open.spotify.com/track/7LHufz5mWCEylSx2SlY1zK"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
+      "album": {
+        "name": "Cumberland Gap",
+        "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 68725,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
+    },
+    {
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Common Nation Of Sorrow",
         "url": "https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43"
@@ -1757,23 +1837,7 @@
       "url": "https://open.spotify.com/track/3W1KJQqttLO6BzxFWJEyc9"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
-      "album": {
-        "name": "American Pastoral",
-        "url": "https://open.spotify.com/album/03g2OhvmhKFrK6uZ5ZJ3SV"
-      },
-      "artists": [
-        {
-          "name": "Andrew Montana",
-          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "American Pastoral",
-      "url": "https://open.spotify.com/track/2MbRWtul1s1LOn8AGsj8iC"
-    },
-    {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Crossing Muddy Waters",
         "url": "https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz"
@@ -1789,7 +1853,7 @@
       "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Hey Brother",
         "url": "https://open.spotify.com/album/6rtyoioVowLfAh1PvoKtdU"
@@ -1805,7 +1869,7 @@
       "url": "https://open.spotify.com/track/1PJyFJkbpzost4QjRaa01J"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Flowers of Yesteryear",
         "url": "https://open.spotify.com/album/1WkekdEfxE2eiU26oY4wzV"
@@ -1821,7 +1885,7 @@
       "url": "https://open.spotify.com/track/5eXOrbokfE4fwK58UZaDmh"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/3Z2WGCFNGlAJgiyG2tOkjs"
@@ -1837,7 +1901,7 @@
       "url": "https://open.spotify.com/track/5ldbJwt3yE1hQuOvtp9P2J"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Lou",
         "url": "https://open.spotify.com/album/6rfs4PhhJWZDZRO9Qt6Z54"
@@ -1853,7 +1917,7 @@
       "url": "https://open.spotify.com/track/5RiNiEwBUXyigik5Jt3FOu"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Where Good Things Grow",
         "url": "https://open.spotify.com/album/2t2qFshMCOLiukZqrYR8Ef"
@@ -1869,7 +1933,7 @@
       "url": "https://open.spotify.com/track/7qBmQHHhWUJUqBGhFHoLs4"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Jake & Friends",
         "url": "https://open.spotify.com/album/34eGLPiujwVWqOY4y7ywMU"
@@ -1889,7 +1953,7 @@
       "url": "https://open.spotify.com/track/14vh1j0LpAbxUgj3WBuGQd"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Little Satchel",
         "url": "https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T"
@@ -1905,7 +1969,7 @@
       "url": "https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "A Lifetime to Find",
         "url": "https://open.spotify.com/album/3lxavXQElVKfCmqZSIrRV1"
@@ -1921,7 +1985,7 @@
       "url": "https://open.spotify.com/track/7eUUVjMaFRITv5dus01J5V"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Back to P.A.",
         "url": "https://open.spotify.com/album/2fEGPaDPozvo1hiprAhTNS"
@@ -1937,7 +2001,7 @@
       "url": "https://open.spotify.com/track/7DtdNPbORdQjruViZLZ993"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Just Pick One",
         "url": "https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU"
@@ -1953,7 +2017,7 @@
       "url": "https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/35a3US8iAh300740OipUz0"
@@ -1969,7 +2033,7 @@
       "url": "https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Weevils in the Grits",
         "url": "https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C"
@@ -1989,7 +2053,7 @@
       "url": "https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/68WuFRD2nQxPdcnKb4QgYN"
@@ -2005,7 +2069,7 @@
       "url": "https://open.spotify.com/track/4wqg1oYJs8pdp12en88WLR"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
@@ -2025,7 +2089,7 @@
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6RSSNjlOMArkHjtgMU0YFb"
@@ -2041,7 +2105,7 @@
       "url": "https://open.spotify.com/track/3A37e37f2HPZ3Nq75akQqW"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Unfinished Path",
         "url": "https://open.spotify.com/album/0b3dXmFRNJTZ3hdEk35GoG"
@@ -2057,7 +2121,7 @@
       "url": "https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "If Not Now, Who?",
         "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
@@ -2073,7 +2137,7 @@
       "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Volunteer",
         "url": "https://open.spotify.com/album/1hSUUe3NM9HWTSMRWPZK6l"
@@ -2089,7 +2153,7 @@
       "url": "https://open.spotify.com/track/4iyzKBDP4JlMbYvHYwaHOV"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
@@ -2105,7 +2169,7 @@
       "url": "https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Woman of God",
         "url": "https://open.spotify.com/album/4imsdVu8PXiir1vnGc99JL"
@@ -2121,7 +2185,7 @@
       "url": "https://open.spotify.com/track/0U5fYsxg8idzi3XhS3nCqK"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw"
@@ -2137,7 +2201,7 @@
       "url": "https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "In Dreams (Alternative Version)",
         "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
@@ -2153,7 +2217,7 @@
       "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Commencement",
         "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
@@ -2181,7 +2245,7 @@
       "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Impossible World",
         "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
@@ -2197,7 +2261,7 @@
       "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Fish Pond Fish",
         "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
@@ -2213,7 +2277,7 @@
       "url": "https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "The Crow and The Raven (III)",
         "url": "https://open.spotify.com/album/4UUIZjLtkjxMEeCAH8d3Cu"
@@ -2233,7 +2297,7 @@
       "url": "https://open.spotify.com/track/23ET0QBqjrlDjxau5lf8Hx"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "Haste Make / Hard Hearted Stranger",
         "url": "https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV"
@@ -2249,7 +2313,7 @@
       "url": "https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC"
     },
     {
-      "added_at": "2024-05-29 19:49:05",
+      "added_at": "2024-06-14 02:00:00",
       "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"

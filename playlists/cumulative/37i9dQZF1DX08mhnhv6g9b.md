@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Welcome to the BTS's universe\. A.R.M.Y is unbeatable 💜
+> Welcome to the BTS's universe\. H appy BTS Festa A.R.M.Y 💜
 
 497 songs - 1 day 5 hr 35 min
 

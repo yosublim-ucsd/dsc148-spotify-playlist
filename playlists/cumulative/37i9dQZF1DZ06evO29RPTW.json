@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
+  "description": "This Is Rob Zombie. Los temas esenciales, todos en una lista.",
   "name": "This Is Rob Zombie",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 204960,
       "name": "(Go To) California",
       "url": "https://open.spotify.com/track/19tDq9gNtVcFxzaMa0Kh6L"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 30400,
       "name": "Call Of The Zombie",
       "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 222826,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156800,
       "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
       "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Feel So Numb",
       "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 167813,
       "name": "What?",
       "url": "https://open.spotify.com/track/5gZ8nTiDCrI6IIk447z04i"

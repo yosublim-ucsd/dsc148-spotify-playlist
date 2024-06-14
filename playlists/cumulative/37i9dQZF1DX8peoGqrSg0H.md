@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
+> เพลง T\-Pop โดนใจ อัปเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PRETZELLE
 
-496 songs - 1 day 5 hr 30 min
+498 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
 | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/track/5aMsKFD43XuYWH6rpzXV4C) | [GULFKANAWUT](https://open.spotify.com/artist/18rLnzDRgijQDrHurajXAS) | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/album/0iGonUyEYw1iEEvwsjAKeO) | 3:09 | 2024-02-15 | 2024-02-22 |
 | [Crush on Me!](https://open.spotify.com/track/67asd8I07UeZyeCpnfagFe) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [Crush on Me!](https://open.spotify.com/album/4wOHpwZntpunD9XKya6l6K) | 3:12 | 2024-05-10 | 2024-05-17 |
+| [Cry More Baby \(เสียใจกี่โมง\)](https://open.spotify.com/track/01apNRtuV8ZpTXRAUUZ43A) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Cry More Baby \(เสียใจกี่โมง\)](https://open.spotify.com/album/2zWNWxb534oSxvsfWA5LZB) | 2:50 | 2024-06-13 |  |
 | [Daily Magic](https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Daily Magic](https://open.spotify.com/album/5Rgqtmbcjo7yoK7a0s7TpR) | 4:12 | 2023-10-26 | 2023-12-08 |
 | [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-06 |  |
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 |  |
@@ -55,6 +56,7 @@
 | [good boy](https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh) | [KJ](https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn) | [good boy](https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx) | 3:21 | 2022-07-14 | 2022-11-18 |
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-01-31 | 2024-05-11 |
 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-07 | 2022-10-27 |
+| [HEARTCASE](https://open.spotify.com/track/6BAiUeSqRDDDIz8X3V5haW) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [HEARTCASE](https://open.spotify.com/album/0hY7fcr5136UIaQGzuoULv) | 3:55 | 2024-06-13 |  |
 | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HI YA YA \(แค่มีเธอ\)](https://open.spotify.com/album/5839gv3g8G9jrqgtG6E3hE) | 3:09 | 2023-04-27 | 2023-05-12 |
 | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/track/32VqVoLwv5FASA9Ih00IY9) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [HOT & COLD \(ร้อนๆ หนาวๆ\)](https://open.spotify.com/album/5w0HUap5EkEsRvE00XwUvB) | 3:31 | 2022-11-11 | 2022-11-18 |
 | [hot2hot](https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [hot2hot](https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH) | 4:13 | 2024-02-22 |  |
@@ -77,13 +79,13 @@
 | [Lavender](https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [Lavender](https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM) | 4:13 | 2022-05-26 | 2022-08-26 |
 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 | 2023-05-04 |  |
 | [Light it up](https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Light it up](https://open.spotify.com/album/2QwevYKKWJkQVqJ024I7or) | 2:50 | 2024-04-11 | 2024-04-26 |
-| [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 |  |
+| [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 | 2024-06-14 |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 | 2024-05-02 |
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 | 2022-08-26 |
 | [Midnight Crisis](https://open.spotify.com/track/4qqs5lPdlW3hQrbvmAtvrL) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [TEMPO](https://open.spotify.com/album/1XAuTBouINWgSGonuCbmWg) | 3:27 | 2023-05-26 | 2023-06-02 |
 | [MIRROR MIRROR](https://open.spotify.com/track/25LdwJdbFOPGrmtBDYa4Bk) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [MIRROR MIRROR \- Single](https://open.spotify.com/album/2OpFTU0dMeSWDmNLiogAiN) | 3:40 | 2024-05-10 | 2024-05-17 |
-| [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 | 2024-03-21 |  |
+| [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 | 2024-03-21 | 2024-06-14 |
 | [Mr\. Everything](https://open.spotify.com/track/4CHnBhfsGuReet1IMOrueC) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Mr\. Everything](https://open.spotify.com/album/51RzDgbBhPdH4MqFCFHJ30) | 3:21 | 2022-12-08 | 2024-06-01 |
 | [Mr.Sea \(feat\. LAZYLOXY\)](https://open.spotify.com/track/4HvqRt04XmIwjOlnPUXm7c) | [Tommy Sittichok](https://open.spotify.com/artist/5Phq9wNCXtNt8b0ZDwuBjF), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [Mr.Sea \(feat\. LAZYLOXY\)](https://open.spotify.com/album/0k0quJKuMQU2jUPrQTP1sC) | 3:50 | 2024-03-28 | 2024-04-05 |
 | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/track/55b97MkUuNNL0rRbgqYqR0) | [XI](https://open.spotify.com/artist/00EYO9tpVSk1YkXQs1awnQ) | [My Angel \(The Original Soundtrack ”Boyband The Series”\)](https://open.spotify.com/album/4w1kRtxK4swO4nagj3sgOd) | 4:34 | 2023-02-10 | 2023-02-17 |

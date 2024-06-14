@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative\. Cover: Spoek Mathambo
+> The future of African Indie and Alternative\. Cover: SOLIS4EVR
 
-142 songs - 7 hr 13 min
+146 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,9 +42,11 @@
 | [ENEMIES ENEMIES](https://open.spotify.com/track/2nbAD9CgZzhdgzb4uctils) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [ENEMIES ENEMIES](https://open.spotify.com/album/5Bfrc1CoPbMk6z3h4BEXze) | 2:05 | 2023-03-30 | 2023-04-15 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2023-03-30 | 2023-06-09 |
 | [Excuses](https://open.spotify.com/track/18ozEdfEItAJxK0s2xS4IU) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The Second Kind](https://open.spotify.com/album/45lRnw6ZrXjQrgiNNKrsuu) | 2:49 | 2023-07-07 | 2023-09-22 |
+| [F\*CK!](https://open.spotify.com/track/76nPz5O1sSCXoGoQvRjge5) | [SOLIS4EVR](https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms) | [GHOST TOWN](https://open.spotify.com/album/35awOR0VhAbhvlloOv4Zow) | 2:51 | 2024-06-14 |  |
 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 | 2023-03-30 | 2023-05-19 |
 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 | 2023-05-25 | 2023-12-15 |
 | [Feel It](https://open.spotify.com/track/5UoYzAzGdlv8F2Vh6flsYk) | [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Feel It](https://open.spotify.com/album/3gsYQFKUnBsGGQZ0yRXrdw) | 3:15 | 2023-03-30 | 2023-04-07 |
+| [FIGURE IT OUT](https://open.spotify.com/track/13HaCATvvCJI6dqMd1vi8s) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl) | [ROLE MODEL](https://open.spotify.com/album/0wQTfEJgcl7x3quCnenb9X) | 3:03 | 2024-06-14 |  |
 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 | 2023-06-26 | 2024-04-26 |
 | [Finqa](https://open.spotify.com/track/25qL6yx7z9MkPnlcVBxZmM) | [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Finqa](https://open.spotify.com/album/6DvRET0k6YUhU0R5pJ9Him) | 3:41 | 2024-04-25 |  |
 | [FINSTA](https://open.spotify.com/track/7v4mEXJ0C2LHI1W9abbzfx) | [Shoka Sunflower](https://open.spotify.com/artist/0DcH0gejGYEsy8bcxdlWii) | [ECOSYSTEM\_01](https://open.spotify.com/album/11vteDfC4Jsj89ZrAuWjgs) | 1:31 | 2023-04-20 | 2023-06-27 |
@@ -87,8 +89,10 @@
 | [Mental](https://open.spotify.com/track/7LOAwqrKmdRI7DBUwMgMuz) | [mellomattsnumb](https://open.spotify.com/artist/3i8r2GXzgglzdqhV75IfRc) | [Mental](https://open.spotify.com/album/449bGATbfPpELidk3FDCLb) | 2:58 | 2023-05-05 |  |
 | [Message in a Hammer](https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Message in a Hammer](https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv) | 3:36 | 2023-03-30 | 2023-05-12 |
 | [Mixed Feelings\(Sped Up\)](https://open.spotify.com/track/5n9rG2h1q6jTRPVNlbDP4j) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Mixed Feelings\(Sped Up\)](https://open.spotify.com/album/7H2ysjNHkcYNC8qcM06IIO) | 2:22 | 2023-06-08 | 2023-07-08 |
+| [Mntase](https://open.spotify.com/track/6MNAf3xmYIgLWohg26jfxh) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Zain SA](https://open.spotify.com/artist/5dvgzU4ArZjcvtVUugwuMt) | [Mntase](https://open.spotify.com/album/5sULesEEolQvwG01m5WTla) | 7:13 | 2024-06-14 |  |
 | [MOVE ALONG](https://open.spotify.com/track/61VXr1QvI8NeETilAJst3O) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [MOVE ALONG](https://open.spotify.com/album/4ylBPHCeJ9aOCqe0cc2tqx) | 2:59 | 2023-06-26 |  |
 | [my intentions](https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [my Intentions](https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E) | 3:06 | 2023-03-30 | 2023-06-09 |
+| [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-06-14 |  |
 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 | 2024-03-21 |  |
 | [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 | 2023-11-03 |  |
 | [no more love](https://open.spotify.com/track/6TniiopBO54fiDn8AhxsYg) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [hard to be real in a world so fake](https://open.spotify.com/album/5x7JV3dbSfyVRtYCBwmxI8) | 2:53 | 2024-02-23 | 2024-04-19 |

@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-344 songs - 18 hr 37 min
+345 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Kurudu Preeti](https://open.spotify.com/track/2GRyvZlIc2OcyrJdHAE0p9) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2) | [Kurudu Preeti](https://open.spotify.com/album/1GtZYToHUreZ3WnY3j3rq3) | 3:13 | 2024-03-14 |  |
 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 | 2022-09-16 | 2023-08-06 |
 | [Legini Legini](https://open.spotify.com/track/2TXoPenrvYt9Uir0fWxC2y) | [Prasanna Bhoojashettar](https://open.spotify.com/artist/4OhmZdanQ6mk5jNgVuI0cy) | [Legini Legini](https://open.spotify.com/album/5shEBUWgQZ9JsHBZ2yQpRF) | 3:39 | 2023-01-04 | 2023-06-08 |
-| [Lemme know](https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj) | [Rd Tillu](https://open.spotify.com/artist/1BWba6jCmo7OnYO052llOx), [Ponnamma](https://open.spotify.com/artist/3q46DthMtPWUhsoJUyGw2N) | [Lemme know](https://open.spotify.com/album/7hy987UBUHXMHVtT2UgttW) | 3:01 | 2023-12-19 |  |
+| [Lemme know](https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj) | [Rd Tillu](https://open.spotify.com/artist/1BWba6jCmo7OnYO052llOx), [Ponnamma](https://open.spotify.com/artist/3q46DthMtPWUhsoJUyGw2N) | [Lemme know](https://open.spotify.com/album/7hy987UBUHXMHVtT2UgttW) | 3:01 | 2023-12-19 | 2024-06-14 |
 | [Live Lakshmi](https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54) | [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Kishor](https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD), [Kavya SM](https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu) | [Live Lakshmi](https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1) | 1:57 | 2023-08-24 | 2024-02-17 |
 | [Lokada Kalaji \(Rendition\) \- SKODA Deccan Beats](https://open.spotify.com/track/3CrD7UchbZpqrm3Q6rzFGp) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay) | [Lokada Kalaji \(Rendition\) \[SKODA Deccan Beats\]](https://open.spotify.com/album/6pIZpEbcqhKgVJJXw5CTxd) | 1:45 | 2023-07-24 | 2023-08-09 |
 | [Love U Dia](https://open.spotify.com/track/1OJ9OGqVw2IShCyaTrxXR2) | [Shameer Mudipu](https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN) | [Love U Dia](https://open.spotify.com/album/5CIGmqNeoeBygTISjLUwHw) | 4:51 | 2024-02-09 |  |
@@ -190,6 +190,7 @@
 | [MANIFEST](https://open.spotify.com/track/2aukHnHoljvfUz0q7KqNet) | [AGORAH](https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE) | [MANIFEST](https://open.spotify.com/album/5FTnu7pgquZYRIIhDdf5Gq) | 3:08 | 2023-09-28 | 2024-04-02 |
 | [Many Me](https://open.spotify.com/track/2zkjOcWVfozoWtgRj9QzvJ) | [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Many Me](https://open.spotify.com/album/6NJRgP6X0G2gOBFLGTtjyp) | 3:10 | 2023-08-31 | 2024-02-17 |
 | [Marethiruve](https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5) | [Ahamm](https://open.spotify.com/artist/3FIOkx3f9C6UuJJunHucpC), [Bassmnt](https://open.spotify.com/artist/1ve81U9YJgA5fdxKKjo2o1) | [Marethiruve](https://open.spotify.com/album/1IhNHGpsPbzBwd6kYv2XwN) | 4:17 | 2023-12-22 | 2024-02-17 |
+| [Mariyade Prashne](https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP) | [Allok](https://open.spotify.com/artist/2hjcMGEhozNvrTSFHeCWWk) | [Mariyade Prashne](https://open.spotify.com/album/0sTfJL18ftxj2ZzAL2Rptw) | 2:39 | 2024-06-13 |  |
 | [Masada Itti Mosada Maccha](https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Masada Itti Mosada Maccha](https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ) | 6:33 | 2023-12-13 | 2024-05-25 |
 | [Matte bhandidhini](https://open.spotify.com/track/19xxlcCzShEhzAtrBn8mFA) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Matte bhandidhini](https://open.spotify.com/album/2pJVV5Oi68mN4qdaAJb1vp) | 2:08 | 2024-02-16 |  |
 | [Matthe Meravanige](https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ) | [KP Milan Kumar](https://open.spotify.com/artist/2zig6tnmiGy9rjVlXRoIa4), [Anusha Jane D'Souza](https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN) | [Matthe Meravanige](https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM) | 4:23 | 2023-03-08 | 2023-11-29 |

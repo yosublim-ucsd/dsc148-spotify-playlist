@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1165594,
+  "num_followers": 1165576,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 144186,
       "name": "Half Your Love",
       "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Dead Leaves",
         "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 187036,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Precious Days",
-        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 165829,
-      "name": "Precious Days",
-      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Matin\u00e9e",
@@ -811,6 +795,22 @@
       "duration_ms": 252640,
       "name": "So Are We",
       "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Precious Days",
+        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 165829,
+      "name": "Precious Days",
+      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Gloria Duplex",
+        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 221546,
       "name": "I Knew I Could Fly",
       "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Gloria Duplex",
-        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Don\u2019t Give Up",
-        "url": "https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 307637,
-      "name": "Don\u2019t Give Up",
-      "url": "https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 231200,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Don\u2019t Give Up",
+        "url": "https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 307637,
+      "name": "Don\u2019t Give Up",
+      "url": "https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Joy Alchemy",
-        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
-      },
-      "artists": [
-        {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Southern Facing Room",
-      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230906,
       "name": "Pocket Full of Rain",
       "url": "https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Joy Alchemy",
+        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Southern Facing Room",
+      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Chaney",
-          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Persephone",
         "url": "https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 262680,
       "name": "Persephone",
       "url": "https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Chaney",
+          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8"
     },
     {
       "added_at": "2023-10-27 04:00:00",

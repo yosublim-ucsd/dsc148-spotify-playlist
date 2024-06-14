@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 176470,
       "name": "Quadrato (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
@@ -3880,6 +3880,32 @@
       "duration_ms": 203544,
       "name": "WELCOME BACK (feat. Raekwon)",
       "url": "https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v"
+    },
+    {
+      "album": {
+        "name": "BRAVA GENTE - EXTRA",
+        "url": "https://open.spotify.com/album/5IXUWaTnABGOuAm7u8mI9H"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "Brava Gente",
+          "url": "https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146222,
+      "name": "Workout",
+      "url": "https://open.spotify.com/track/3kBlfl2W2NjFTOBNLCe6TC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Carpool Tunnel
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,286 likes - 110 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,364 likes - 110 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 48 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
 | 49 | [Delusional](https://open.spotify.com/track/5FlBNN4XWnSXI8U2FDut7c) | [DUUNES](https://open.spotify.com/artist/42naoAm7826YcWJsnXlNhk) | [Delusional](https://open.spotify.com/album/0CA4cDuDHzNkXDAI0J6V6Q) | 3:05 |
 | 50 | [Echoes](https://open.spotify.com/track/2WZbZXFmpm2kK3t6OzttqX) | [The Props](https://open.spotify.com/artist/2ZtPtWYsItQg39R0sKvGos) | [Echoes / Get Off](https://open.spotify.com/album/7fEJRsgWTFolLk9wjXnJm6) | 2:59 |
-| 51 | [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 |
+| 51 | [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 |
 | 52 | [With Love](https://open.spotify.com/track/71uqQ3hm1ilBnT8Z4NECkc) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [With Love,](https://open.spotify.com/album/3fqm4PDI57qVWEJBOGxyrN) | 3:21 |
 | 53 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
 | 54 | [REAL](https://open.spotify.com/track/3PDfbiNphZAZDpv1Yjuz6P) | [Brother.](https://open.spotify.com/artist/4eubdcTtYtYIYRuKRtzjkT) | [REAL](https://open.spotify.com/album/1fZshuUndX3DhnoN2sTtT8) | 4:00 |

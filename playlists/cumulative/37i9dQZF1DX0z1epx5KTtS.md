@@ -2,12 +2,13 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Josey
+> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-187 songs - 10 hr 44 min
+188 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 cui](https://open.spotify.com/track/2BY9PGyqjKspnG164zJlan) | [NOVA BINKS](https://open.spotify.com/artist/5HedNXMMeY0KqV6b016Iwl), [Tazeboy](https://open.spotify.com/artist/1hEcm27zsI2iN9G9LS9dwO), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [1 cui](https://open.spotify.com/album/2HGs32nJYb3JstUqO0n7It) | 2:29 | 2024-06-13 |  |
 | [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 | 2023-05-04 |  |
 | [225](https://open.spotify.com/track/6f7yT22j7VT5KrYLFBdmbk) | [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [+225](https://open.spotify.com/album/2HS0I5VJWUnsDOdEBeYr5K) | 3:51 | 2023-01-05 | 2023-02-03 |
 | [Abacou](https://open.spotify.com/track/0BevQ6RCp7uHdi2s0GmtWn) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [Aboutou Roots](https://open.spotify.com/artist/4Mg9ctyuvtX852SAMNfLso) | [Abacou](https://open.spotify.com/album/5oko0ARkOH4fnLFuABsdqR) | 4:02 | 2022-09-15 | 2022-12-09 |
@@ -73,7 +74,7 @@
 | [Débordement](https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Shaggy Sharoof](https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg) | [Débordement](https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM) | 3:40 | 2022-05-26 | 2023-04-28 |
 | [Démarrage](https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 3:16 | 2024-05-02 |  |
 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 | 2023-05-18 |  |
-| [Effrayer la galère](https://open.spotify.com/track/4fyRNOR6zupaunbkjrl6uL) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Effrayer la galère](https://open.spotify.com/album/5vSehx9owBtXVKUV2HE2KB) | 3:25 | 2024-04-11 |  |
+| [Effrayer la galère](https://open.spotify.com/track/4fyRNOR6zupaunbkjrl6uL) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Effrayer la galère](https://open.spotify.com/album/5vSehx9owBtXVKUV2HE2KB) | 3:25 | 2024-04-11 | 2024-06-14 |
 | [Elephant d'or](https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN) | [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Éléphant d'or](https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1) | 2:44 | 2022-06-23 | 2022-09-02 |
 | [Elle Est D'Où](https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 2:43 | 2023-11-09 | 2024-04-12 |
 | [En fantoya](https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL) | [Dj Arobase](https://open.spotify.com/artist/6EsNLPqHp3fchqRJAxFe3W), [Joochar](https://open.spotify.com/artist/56I3J6X4mUPrF7bOrLoLSP) | [En fantoya](https://open.spotify.com/album/31coKTSViPIJ9EjHlAMpl7) | 2:52 | 2023-06-15 | 2023-07-14 |

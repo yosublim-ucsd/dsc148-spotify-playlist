@@ -552,7 +552,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 231706,
       "name": "By This River - Spotify Singles",
       "url": "https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE"
@@ -1056,6 +1056,24 @@
       "duration_ms": 208653,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/1nLi6OAjTRfFRNYTrvpmPj"
+    },
+    {
+      "album": {
+        "name": "dilemma",
+        "url": "https://open.spotify.com/album/2k1F7XaGQRiZodGje43i8D"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "dilemma",
+      "url": "https://open.spotify.com/track/2BkGcrFsZ8pyOcCRZ7SmEu"
     },
     {
       "album": {
@@ -1617,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Halo (Lofi Version)",
+        "url": "https://open.spotify.com/album/7iym9KI40Zypl3LIacw1K4"
+      },
+      "artists": [
+        {
+          "name": "Blackburri",
+          "url": "https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202692,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6Q2D4oWPnMseDZB2oikmIz"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/44aUBNTF0z4prL3vEdIwAB"
       },
@@ -1834,6 +1870,24 @@
       "duration_ms": 189329,
       "name": "how deep is your love",
       "url": "https://open.spotify.com/track/55cUQwQw1BW6K3VrzCpvvY"
+    },
+    {
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/6UvRkWYQMJwE04O9HenZN9"
+      },
+      "artists": [
+        {
+          "name": "Pixel Pixie",
+          "url": "https://open.spotify.com/artist/3xN8CL9MfW5pcU6WiS9p3w"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150399,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/3SulqrnQoD5RqPiKtB1gQJ"
     },
     {
       "album": {

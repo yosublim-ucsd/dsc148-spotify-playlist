@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-379 songs - 17 hr 0 min
+380 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Losing Sight](https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Losing Sight](https://open.spotify.com/album/72MjUitQVBs1K22WXK1kOT) | 2:20 | 2024-03-29 | 2024-05-03 |
 | [Losing You](https://open.spotify.com/track/1AOnRi26Ck4y8FZCkUFh8Y) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4) | [Losing You](https://open.spotify.com/album/58ytcRe9RkWBwBj9XJ1A39) | 2:44 | 2024-05-03 |  |
 | [Lost & Found](https://open.spotify.com/track/1xLSlEUYh8llgomcz2HaeM) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Lost & Found](https://open.spotify.com/album/0kK0MtsjE1qw3Yu3fplS2U) | 2:37 | 2024-02-09 |  |
+| [Lost In The Night](https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh) | [Lost In The Night](https://open.spotify.com/album/6OXil6OS4slxWxtxTIMiZn) | 2:49 | 2024-06-13 |  |
 | [Love Again](https://open.spotify.com/track/41rZV21ofgnCouBXIMJL6E) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [Polly Belycee](https://open.spotify.com/artist/4xPBJcKUxPVSROQ2infcmD) | [Love Again](https://open.spotify.com/album/1LhbjGo6T5PnIztEStAoqa) | 2:10 | 2024-01-26 | 2024-03-16 |
 | [Love You Like That](https://open.spotify.com/track/4x1rgaejqJqKxkIiQY06SS) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Love You Like That](https://open.spotify.com/album/6DsB1QJhPaZHixdPBb4yIK) | 2:09 | 2024-05-03 |  |
 | [Lovely](https://open.spotify.com/track/7LMMiDsizFcHhxJwSl82T1) | [Kelo](https://open.spotify.com/artist/5USLHyCuiBT2He3fZvRGwg), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Lovely](https://open.spotify.com/album/7zDRIQTqk0k1eNxFfVj9tz) | 2:56 | 2024-03-29 | 2024-05-03 |

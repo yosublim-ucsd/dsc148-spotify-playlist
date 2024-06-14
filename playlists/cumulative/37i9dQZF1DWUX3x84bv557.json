@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Jasha Rudge",
+  "description": "De nieuwste Nederlandse pop! Cover: Emma Heesters & Rolf Sanchez",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 193500,
       "name": "Adem In, Adem Uit",
       "url": "https://open.spotify.com/track/0b4WkyO0shczSa82GQAnvG"
@@ -1858,6 +1858,28 @@
       "duration_ms": 141483,
       "name": "Consensual",
       "url": "https://open.spotify.com/track/3WzfdbLODInkYLnPDZ18x7"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174937,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC"
     },
     {
       "album": {
@@ -4261,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Samen Tegen Elkaar",
+        "url": "https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203439,
+      "name": "Het Is Voorbij",
+      "url": "https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG"
+    },
+    {
+      "album": {
         "name": "Het Komt Wel Goed",
         "url": "https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H"
       },
@@ -4346,6 +4386,28 @@
       "duration_ms": 165006,
       "name": "Heuvels",
       "url": "https://open.spotify.com/track/44xpsWlXIZaLC9ezuALEyE"
+    },
+    {
+      "album": {
+        "name": "Hier",
+        "url": "https://open.spotify.com/album/2uQth6Suifi8qSBIUdJIPJ"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154789,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/0ARfM8J2uVN3pFojPpQLQ1"
     },
     {
       "album": {
@@ -5164,7 +5226,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 130754,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/2ec9C3JxRSpZDk8vnBM6VX"
@@ -5200,7 +5262,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 172689,
       "name": "Je Hebt Me",
       "url": "https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2"
@@ -6324,7 +6386,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 134103,
       "name": "Luigi",
       "url": "https://open.spotify.com/track/3wyB86mNbRT2dHO0A6TOan"
@@ -6742,6 +6804,32 @@
       "duration_ms": 196484,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/4vJhMBh5CUfrWyB28VzRbS"
+    },
+    {
+      "album": {
+        "name": "Mijn Maatje",
+        "url": "https://open.spotify.com/album/6gR54E5NVSH7C4rXEO3Jeu"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        },
+        {
+          "name": "Gers Pardoel",
+          "url": "https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187659,
+      "name": "Mijn Maatje",
+      "url": "https://open.spotify.com/track/5mEVzlTler1APbE8ZLvoKu"
     },
     {
       "album": {
@@ -8366,7 +8454,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 200735,
       "name": "Samen",
       "url": "https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6"
@@ -8554,7 +8642,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 231894,
       "name": "Sex",
       "url": "https://open.spotify.com/track/1hG3BvlHR6qaCzq2m7CPHH"
@@ -8727,6 +8815,24 @@
     },
     {
       "album": {
+        "name": "Samen Tegen Elkaar",
+        "url": "https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231276,
+      "name": "Slapen",
+      "url": "https://open.spotify.com/track/1qcoBRRqgbmSTHpLbMLo1E"
+    },
+    {
+      "album": {
         "name": "Sluitingstijd",
         "url": "https://open.spotify.com/album/3BQ2NJ6hQYu6WyT6CUjG2X"
       },
@@ -8774,7 +8880,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 175110,
       "name": "Soms gaat de tijd zo snel",
       "url": "https://open.spotify.com/track/3o20NBEBiwh7xB5ByLHzNh"
@@ -9446,7 +9552,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 125115,
       "name": "Tovenares",
       "url": "https://open.spotify.com/track/1vmrXE4E7aTfsCczRVDOXB"
@@ -9626,7 +9732,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 150384,
       "name": "Tweeling",
       "url": "https://open.spotify.com/track/0K6NoPuA8DDFTduY5301rV"
@@ -10100,6 +10206,24 @@
       "duration_ms": 152470,
       "name": "Vervloekt",
       "url": "https://open.spotify.com/track/2fLTwHxKyC7D4O4ekCGjhi"
+    },
+    {
+      "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/3vJjfVikvPkGPTBQLMNyu3"
+      },
+      "artists": [
+        {
+          "name": "Haas",
+          "url": "https://open.spotify.com/artist/05Z7qhrpvnTlOAa79NbZii"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/0NgznpNaOSoUx2hYJkly9L"
     },
     {
       "album": {
@@ -11030,7 +11154,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 282906,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI"
@@ -11138,7 +11262,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 193415,
       "name": "Zeg Niks",
       "url": "https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb"

@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 390243,
       "name": "Ashes in Paradise",
       "url": "https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI"
@@ -3416,7 +3416,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 297827,
       "name": "God Don't Leave Me Alone (Adam Sellouk Remix)",
       "url": "https://open.spotify.com/track/19VAPErGs8MwGm6Dxw0j1G"
@@ -4293,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
+    },
+    {
+      "album": {
         "name": "I'm So Weak (Dark Mix)",
         "url": "https://open.spotify.com/album/1CLQiCWjOZDBCmw2v7PXrN"
       },
@@ -5075,6 +5093,28 @@
     },
     {
       "album": {
+        "name": "Let It In",
+        "url": "https://open.spotify.com/album/68Gr7e4VUsvf5SOwZ2oU0a"
+      },
+      "artists": [
+        {
+          "name": "Reaktive",
+          "url": "https://open.spotify.com/artist/4HZBOaKcf8FjVoFvdTKoMG"
+        },
+        {
+          "name": "Onur Ormen",
+          "url": "https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301935,
+      "name": "Let It In",
+      "url": "https://open.spotify.com/track/324BlCw0dONXvl5dwwgKy7"
+    },
+    {
+      "album": {
         "name": "Let's Get It Right (Innellea Remix)",
         "url": "https://open.spotify.com/album/7fm1NdtHHLPJK6wAFZLekR"
       },
@@ -5240,6 +5280,32 @@
       "duration_ms": 398255,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/3JULDUED9hQQ94gXnuFl5p"
+    },
+    {
+      "album": {
+        "name": "Living Lust",
+        "url": "https://open.spotify.com/album/43lxRa9Lgw5AG7G58p2zU5"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        },
+        {
+          "name": "Guzy",
+          "url": "https://open.spotify.com/artist/1kAgfGexswhVsFKGRrcIMB"
+        },
+        {
+          "name": "Jamell Rene",
+          "url": "https://open.spotify.com/artist/1vsvsLCV1qOtcVJsIx9eA0"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314880,
+      "name": "Living Lust",
+      "url": "https://open.spotify.com/track/1kOUsiiEmYlQzkocXK7udr"
     },
     {
       "album": {
@@ -6284,7 +6350,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 184125,
       "name": "No Memory - KASIA Remix",
       "url": "https://open.spotify.com/track/19PlJGLQqxf4EICxozQAEf"
@@ -7321,6 +7387,32 @@
     },
     {
       "album": {
+        "name": "Pull Out",
+        "url": "https://open.spotify.com/album/1WyoGZphtDpMXxCD3iYuBJ"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        },
+        {
+          "name": "Losless",
+          "url": "https://open.spotify.com/artist/2rnmC57D43ML3a2Ujc7tiP"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286928,
+      "name": "Pull Out",
+      "url": "https://open.spotify.com/track/3yLZ9iZRFJokbQypcIetjo"
+    },
+    {
+      "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/6myGAZHh7d3FbQUFHnN9WT"
       },
@@ -7510,7 +7602,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 415748,
       "name": "Remember",
       "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"

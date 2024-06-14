@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "Audio Ngori",
+        "url": "https://open.spotify.com/album/2StZdKps7oakxQ01yofgfp"
+      },
+      "artists": [
+        {
+          "name": "KiliHippie",
+          "url": "https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX"
+        },
+        {
+          "name": "The Swamiii",
+          "url": "https://open.spotify.com/artist/41s5UgViwfxoeKBxuJjtVh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Audio Ngori",
+      "url": "https://open.spotify.com/track/3JP47gebAg19MBjI1c2nU5"
+    },
+    {
+      "album": {
         "name": "Baddest Ever",
         "url": "https://open.spotify.com/album/4BhPEacIUL3ct2wMvGteaS"
       },
@@ -322,6 +344,54 @@
       "duration_ms": 184894,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3p1TTZxBEjTwNnG9aD1Ue1"
+    },
+    {
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/1CCtXMEG8kdXlBJiaS0ULn"
+      },
+      "artists": [
+        {
+          "name": "Barak Jacuzzi",
+          "url": "https://open.spotify.com/artist/19AJD2oIyuRpkLX72RSJqD"
+        },
+        {
+          "name": "Silverstone Barz",
+          "url": "https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158307,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3SQ7H8QrtoRlfX9G0WjK8R"
+    },
+    {
+      "album": {
+        "name": "Bandit (Clean)",
+        "url": "https://open.spotify.com/album/5ZFqr0UH5qCac8fSKkZbVa"
+      },
+      "artists": [
+        {
+          "name": "Jovie Jovv",
+          "url": "https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ"
+        },
+        {
+          "name": "Tokyo Sauce",
+          "url": "https://open.spotify.com/artist/5heNp1ljZP1T3KsySNOp2t"
+        },
+        {
+          "name": "Badman Bright",
+          "url": "https://open.spotify.com/artist/4YvC6ePgBFYBigSRvkTJty"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Bandit",
+      "url": "https://open.spotify.com/track/63avizbiaK0Thbh9PoE23a"
     },
     {
       "album": {
@@ -1076,7 +1146,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 213394,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/3aSOJiHOcx5zsyUcr1Bg6J"
@@ -1741,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "I know",
+        "url": "https://open.spotify.com/album/6HSxA2loAse8bClFWUpxWe"
+      },
+      "artists": [
+        {
+          "name": "Albeezy",
+          "url": "https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/6p7FuImwcfRX5FcrSPpU73"
+    },
+    {
+      "album": {
         "name": "Iko Top",
         "url": "https://open.spotify.com/album/2pwOODrDsMPeUfommbixIU"
       },
@@ -1760,7 +1848,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 213913,
       "name": "Iko Top",
       "url": "https://open.spotify.com/track/4CvQplM8LsqUTY0YbDohBH"
@@ -1808,7 +1896,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 153875,
       "name": "Induction settings",
       "url": "https://open.spotify.com/track/4R72Lx5vcEWOvQQjD9dyQD"
@@ -2840,7 +2928,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 163767,
       "name": "Nimechekii",
       "url": "https://open.spotify.com/track/4hTJbEvhSu8OQ7xF8DExp0"
@@ -3542,7 +3630,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 146312,
       "name": "Same Block",
       "url": "https://open.spotify.com/track/60zaV6JzpG8FXST29MDFMh"
@@ -3842,6 +3930,24 @@
       "duration_ms": 215120,
       "name": "Situation Sticky",
       "url": "https://open.spotify.com/track/4UMUYdkPJTXml0XOXiH1AR"
+    },
+    {
+      "album": {
+        "name": "SABA (deluxe)",
+        "url": "https://open.spotify.com/album/2I511espR2plvo7PUMZI9r"
+      },
+      "artists": [
+        {
+          "name": "King Kerby",
+          "url": "https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Small wins",
+      "url": "https://open.spotify.com/track/3QX2TglLVg7pr17fda1r4S"
     },
     {
       "album": {
@@ -4205,6 +4311,28 @@
     },
     {
       "album": {
+        "name": "Take U Out",
+        "url": "https://open.spotify.com/album/6q72JnamD6EzSO8BNaiW58"
+      },
+      "artists": [
+        {
+          "name": "Lonepapii",
+          "url": "https://open.spotify.com/artist/4mIWDZo3u97KqQCRYqRQuJ"
+        },
+        {
+          "name": "Fragah",
+          "url": "https://open.spotify.com/artist/3bQIQv0IbFX9yE0NHqkJso"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150987,
+      "name": "Take U Out",
+      "url": "https://open.spotify.com/track/7ywhq1XgC3hFE2sKeo7XjO"
+    },
+    {
+      "album": {
         "name": "Talk 1",
         "url": "https://open.spotify.com/album/1fyB2EcRkCsLybJBhdDKRz"
       },
@@ -4398,7 +4526,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 152502,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/0DrXcPh3EFypO1Bckvgw5W"

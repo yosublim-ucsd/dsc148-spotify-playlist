@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 910453,
+  "num_followers": 910620,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Care Of Cell 44",
+      "url": "https://open.spotify.com/track/5QXqz1KDz8Z8DmfQoxWmmy"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
         "name": "Music From Big Pink (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 180943,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/60C8zGPTdAAmDshHnMuyfc"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Care Of Cell 44",
-      "url": "https://open.spotify.com/track/5QXqz1KDz8Z8DmfQoxWmmy"
     },
     {
       "added_at": "2023-01-18 21:00:56",

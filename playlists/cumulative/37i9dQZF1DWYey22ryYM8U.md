@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: Luck Ra, Maluma & KHEA
 
-325 songs - 20 hr 54 min
+326 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/6hGR9vRbM4ZQ5IiB9O16WZ) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Veo y No Lo Creo](https://open.spotify.com/album/53oghpWRV5ghhgPmugXap3) | 3:20 | 2024-03-14 | 2024-04-19 |
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/1OYqZAcqNOUtEpG7GnoCGk) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Veo y No Lo Creo](https://open.spotify.com/album/3QVS8w8jQ4DBZdwAu6d25K) | 3:20 | 2021-12-03 | 2022-07-29 |
 | [Loma de Cayenas](https://open.spotify.com/track/2gT8OWcAgPg0yawg1qw4Nv) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Candela](https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe) | 3:47 | 2021-12-03 | 2022-02-15 |
+| [LOS DOS](https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [LOS DOS](https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T) | 3:34 | 2024-06-13 |  |
 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 | 2022-02-14 | 2024-05-22 |
 | [Lotería](https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:36 | 2021-12-03 | 2023-01-20 |
 | [Luna De Queso](https://open.spotify.com/track/6RZfZgF9YdezFWLWxs4j6I) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Wise "the Gold Pen"](https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Luna De Queso](https://open.spotify.com/album/4iPuhUiSBuFHn2rKqn5jKx) | 3:34 | 2022-02-14 | 2022-07-29 |

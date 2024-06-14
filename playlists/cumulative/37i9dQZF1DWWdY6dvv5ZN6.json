@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Map Vini (Kilo jam)",
+        "url": "https://open.spotify.com/album/2HroQM9InYhueZjC3Jnivf"
+      },
+      "artists": [
+        {
+          "name": "Marvin Caleb",
+          "url": "https://open.spotify.com/artist/3vR1xfC7leN8JqtN7eFqlF"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160344,
+      "name": "Map Vini (Kilo jam)",
+      "url": "https://open.spotify.com/track/23VB836x5wXVQRXKmLt86J"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0dH4Mwx76Dw31gUaOlcEK8"
       },
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 132571,
       "name": "Mentally exhausted",
       "url": "https://open.spotify.com/track/4vxFg07fxbiZSliC6aTB1W"

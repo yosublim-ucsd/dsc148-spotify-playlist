@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Armin van Buuren &amp; Chef'Special",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover: Ferry Corsten, 22Bullets, Couch\u00e9",
   "name": "Armada Today",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 241860,
       "name": "Adrenogate",
       "url": "https://open.spotify.com/track/0jMjnpl50merLHHWvpvVZi"
@@ -1357,6 +1357,28 @@
     },
     {
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/17aGTPiN3LQHtjZuNDteyp"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/2ezZt5y0mvIIm5ca7DVY2v"
+    },
+    {
+      "album": {
         "name": "Be Free (Les Bisous Remix)",
         "url": "https://open.spotify.com/album/6Wmk8pr3KVRW0sVs4BejSx"
       },
@@ -1542,6 +1564,32 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "album": {
+        "name": "Belong To You",
+        "url": "https://open.spotify.com/album/5kkx78UKw8yToOOBdtc7Am"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        },
+        {
+          "name": "Couch\u00e9",
+          "url": "https://open.spotify.com/artist/6N6ZLdTZg3Pasm0JCF5nbl"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Belong To You",
+      "url": "https://open.spotify.com/track/5VrUy953DPeHmOUCCrkz3A"
     },
     {
       "album": {
@@ -1898,7 +1946,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 183496,
       "name": "Blow Ya Mind - DJ Daddy Trance Remix",
       "url": "https://open.spotify.com/track/2rOXzZ8fLG3sj2AhsVxfxn"
@@ -4504,7 +4552,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 139965,
       "name": "Don't Turn Your Back - Housequake 20 Year Anniversary Mix",
       "url": "https://open.spotify.com/track/62bbXuo9fKeto8QDdUzLtY"
@@ -5122,10 +5170,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 185000,
       "name": "Every Little Time",
       "url": "https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn"
+    },
+    {
+      "album": {
+        "name": "Every Little Time (Back in '97 Mix)",
+        "url": "https://open.spotify.com/album/3qBcbTwpdXV6lMiDeShSpA"
+      },
+      "artists": [
+        {
+          "name": "Matt Guy",
+          "url": "https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Every Little Time - Back in '97 Mix",
+      "url": "https://open.spotify.com/track/4AAWvGXfi7o8cwGTwsxndz"
     },
     {
       "album": {
@@ -5856,7 +5922,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 175200,
       "name": "Find Yourself - Yosuf Remix",
       "url": "https://open.spotify.com/track/5lOEDi6v6QmgB3TiMuAMuX"
@@ -7569,6 +7635,28 @@
     },
     {
       "album": {
+        "name": "HAL, Still So High, First Blood",
+        "url": "https://open.spotify.com/album/1XcDRJLJS3Jvm5hiF4IXlI"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345359,
+      "name": "HAL",
+      "url": "https://open.spotify.com/track/3vjz2nfJ8TEcdIG6sbGVHg"
+    },
+    {
+      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW"
       },
@@ -8188,7 +8276,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 211835,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4CEzuwFBhVZrsyN9dlXpbO"
@@ -12975,6 +13063,28 @@
     },
     {
       "album": {
+        "name": "Detention",
+        "url": "https://open.spotify.com/album/4wrHptimsWJK8Z01bsnQ9s"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/7fHCJ5esPbjrOf9yJPbYLr"
+    },
+    {
+      "album": {
         "name": "My Love (Day Mix)",
         "url": "https://open.spotify.com/album/6lNKbjPEddn47eTTwpGxAQ"
       },
@@ -14314,7 +14424,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 198095,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/2Ei9k5quiGyGTWFXNz1CmI"
@@ -14842,7 +14952,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 174505,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/3Yiqps8YQhLL0EQXZGq2P7"
@@ -23036,6 +23146,24 @@
       "duration_ms": 212573,
       "name": "You Don't Know Me (feat. RAYE)",
       "url": "https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"
+    },
+    {
+      "album": {
+        "name": "Sexor",
+        "url": "https://open.spotify.com/album/2iZORvBoo5BUkW8bv0b7Ke"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239786,
+      "name": "You Gonna Want Me",
+      "url": "https://open.spotify.com/track/3GjQ7r5SWFnMMbwfp22aF3"
     },
     {
       "album": {

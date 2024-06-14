@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Puuuuro rolón para comenzar el fin de semana a tope! J Balvin y Chencho Corleone en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,841 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,052 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Shenseea",
+  "description": "Les hits dancehall du moment. Photo : Meryl",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -184,6 +184,24 @@
       "duration_ms": 121968,
       "name": "Akka Pass",
       "url": "https://open.spotify.com/track/7Lb31NASTBbR297N2beztc"
+    },
+    {
+      "album": {
+        "name": "Alchimie",
+        "url": "https://open.spotify.com/album/2D9CM8M3w9eHRrtSNz1JIU"
+      },
+      "artists": [
+        {
+          "name": "T-Stone",
+          "url": "https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141094,
+      "name": "Alchimie",
+      "url": "https://open.spotify.com/track/5bK2gxH2OmuJP8SjcjFql7"
     },
     {
       "album": {
@@ -916,7 +934,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 189090,
       "name": "Bend Ova",
       "url": "https://open.spotify.com/track/6bnxHm59kBn04ciFEZ2lxK"
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 88714,
       "name": "BIGIDI",
       "url": "https://open.spotify.com/track/3I5dTcbcu4hpYoffPLbbIt"
@@ -1578,6 +1596,50 @@
       "duration_ms": 167640,
       "name": "CHAUD PATATE",
       "url": "https://open.spotify.com/track/0Q2rHoed5X9tlqFEu3fwra"
+    },
+    {
+      "album": {
+        "name": "CHO CHO",
+        "url": "https://open.spotify.com/album/5K7bJMLFHssW9nhlXQLEuN"
+      },
+      "artists": [
+        {
+          "name": "Were-vana",
+          "url": "https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166032,
+      "name": "CHO CHO",
+      "url": "https://open.spotify.com/track/5hbvvhmXmMDeoa63XaVowC"
+    },
+    {
+      "album": {
+        "name": "Choppa (with Lil Baby & Rvssian)",
+        "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169195,
+      "name": "Choppa (with Lil Baby & Rvssian)",
+      "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
     },
     {
       "album": {
@@ -2755,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Caviar I",
+        "url": "https://open.spotify.com/album/31Ok9rXTNEPcdt1SsbQgLh"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141802,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4vyYcSQaNVFcKVpQIFGhhS"
+    },
+    {
+      "album": {
         "name": "Genghis Khan",
         "url": "https://open.spotify.com/album/0cnRZoKx2JmGyVftNlU5zF"
       },
@@ -2832,6 +2912,24 @@
       "duration_ms": 156479,
       "name": "Ghetto R\u00e8d",
       "url": "https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4"
+    },
+    {
+      "album": {
+        "name": "Another Style",
+        "url": "https://open.spotify.com/album/0z3KhLC6yItBrFzYvHOe8y"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156055,
+      "name": "Gin & Juice",
+      "url": "https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5"
     },
     {
       "album": {
@@ -3382,7 +3480,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 152498,
       "name": "Hot Gal",
       "url": "https://open.spotify.com/track/578ZYEGBCHDEJGVhLE02pt"
@@ -4740,7 +4838,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 192035,
       "name": "Milano",
       "url": "https://open.spotify.com/track/3Vq6VtxCcFp3QoyeSyG34F"
@@ -5026,6 +5124,28 @@
       "duration_ms": 201600,
       "name": "Money over Love",
       "url": "https://open.spotify.com/track/24qlO5kDu4h9ap6mCFF1vj"
+    },
+    {
+      "album": {
+        "name": "Monte \u00e0 bord",
+        "url": "https://open.spotify.com/album/317J7ZmNjRzvlcEVclpC5K"
+      },
+      "artists": [
+        {
+          "name": "Lazuli",
+          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153506,
+      "name": "Monte \u00e0 bord",
+      "url": "https://open.spotify.com/track/4lhntjwptLAURpNV871ECl"
     },
     {
       "album": {
@@ -5360,7 +5480,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156000,
       "name": "NUMBA 1",
       "url": "https://open.spotify.com/track/37cfWnwQVm7vES4DrQOz9n"
@@ -5434,7 +5554,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 146947,
       "name": "On Di Road",
       "url": "https://open.spotify.com/track/2dspNoeuWvdwy5mgGLjZfM"

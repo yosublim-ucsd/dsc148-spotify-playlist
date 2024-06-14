@@ -4,7 +4,7 @@
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-97 songs - 3 hr 42 min
+102 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Drinking Taste](https://open.spotify.com/track/4s2rZQ0Hgn0RKA1vag5mhG) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Drinking Taste](https://open.spotify.com/album/7As8IO9HREQigUv7BJeA9D) | 2:06 | 2023-10-27 |  |
 | [Emotional Avocado Toast](https://open.spotify.com/track/4HB0WtiZfr4RHFHoZfIsSr) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Emotional Avocado Toast](https://open.spotify.com/album/1jS1ayBHa8WZqyOJpvA9pz) | 2:10 | 2023-10-27 |  |
 | [Evelyn Walk](https://open.spotify.com/track/2pWEy7ChzrcnPYJHATnXq3) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Evelyn Walk](https://open.spotify.com/album/0ichHI0kN9SDEbqJtGxxVq) | 2:37 | 2023-10-27 |  |
+| [eventide](https://open.spotify.com/track/3EBpMvfHr3mdKiwn5t0m6d) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [eventide](https://open.spotify.com/album/3X9VpBT2UrIL9nh6JFthlh) | 2:10 | 2024-06-13 |  |
 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 | 2023-10-27 |  |
 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 | 2023-10-27 |  |
 | [four star restaurant](https://open.spotify.com/track/5OGxjOExU6JWucuin2XAUs) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [four star restaurant](https://open.spotify.com/album/3my19QS6hdNjkwc6WrBulN) | 2:51 | 2024-02-23 |  |
@@ -50,7 +51,7 @@
 | [gentle breath](https://open.spotify.com/track/511fGyUV4I1zfaH77bsElF) | [anton suede](https://open.spotify.com/artist/7CVmC6cx5X5250x68y8AaN) | [gentle breath](https://open.spotify.com/album/0K8gBog3uUZS4Ynv3qU9ER) | 2:21 | 2024-01-05 |  |
 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 | 2023-10-27 | 2023-12-14 |
 | [Hidden In The Mist](https://open.spotify.com/track/3Zd5yGjs0Zavnc9Eekh6qc) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Dreamcatcher](https://open.spotify.com/album/3KTmEVClSrOaATXcocRUPP) | 1:53 | 2023-10-27 |  |
-| [High](https://open.spotify.com/track/3VSybG2nJeJ2NSi6j9ZknY) | [Json Jx](https://open.spotify.com/artist/6CwCQcaa6X0ZbW3Oafpk51) | [High](https://open.spotify.com/album/0GdMlmRTp1S3arrygvJeE8) | 2:46 | 2023-10-27 |  |
+| [High](https://open.spotify.com/track/3VSybG2nJeJ2NSi6j9ZknY) | [Json Jx](https://open.spotify.com/artist/6CwCQcaa6X0ZbW3Oafpk51) | [High](https://open.spotify.com/album/0GdMlmRTp1S3arrygvJeE8) | 2:46 | 2023-10-27 | 2024-06-14 |
 | [Home](https://open.spotify.com/track/7sU5okineqL92aApizxg4k) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Lonely Llama](https://open.spotify.com/artist/7qyiD7cCyow6BICznBnKfk) | [For You](https://open.spotify.com/album/2kEaySgg5ZJqxMm83GHToP) | 2:20 | 2023-10-27 |  |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 |  |
 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 | 2023-10-27 |  |
@@ -77,9 +78,13 @@
 | [rainclouds](https://open.spotify.com/track/13vQBrsVfdgkRwoPJ1Kniq) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [rainclouds](https://open.spotify.com/album/6T0tFcQXo5JXbmLtfXpcef) | 2:03 | 2024-02-23 |  |
 | [rainforest echo](https://open.spotify.com/track/6XGIuWgTPuarzwUtLRaBCe) | [miura x miura](https://open.spotify.com/artist/24JB4ExVYytyA9AN9tBgMc) | [rainforest echo](https://open.spotify.com/album/6cW8eS7qg8QIlfAoqaBFel) | 2:05 | 2024-01-19 |  |
 | [rainy days](https://open.spotify.com/track/4dYfEHMUW9TxpYg8B5Iv5y) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [rainy days](https://open.spotify.com/album/65inz801tjfzT0VvCCoj7N) | 2:05 | 2024-01-12 |  |
+| [rainy daze](https://open.spotify.com/track/6GLC6GbqXXDMLGZe8IQek3) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [rainy daze](https://open.spotify.com/album/6tM8VMv8gMJB2cmQzOMs28) | 2:21 | 2024-06-13 |  |
+| [random thoughts](https://open.spotify.com/track/4bGIc2nxevxRU6FQ22L1mC) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [random thoughts](https://open.spotify.com/album/1Ci3Z0UfK2ehgnpudw86x4) | 2:15 | 2024-06-13 |  |
 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 | 2023-10-27 |  |
 | [roadtrip](https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [roadtrip](https://open.spotify.com/album/4QiEuN6Pu7bPE64XmZDqpy) | 2:17 | 2023-10-27 |  |
+| [roaming roads](https://open.spotify.com/track/540Bsc8Boq4CHK6zl1fh0W) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [roaming roads](https://open.spotify.com/album/6EEGG798KGadYgg7HaXIA0) | 2:36 | 2024-06-13 |  |
 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 | 2023-10-27 |  |
+| [Sacred](https://open.spotify.com/track/2FqQfutDLcuRnN1HRhhKdA) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Sacred](https://open.spotify.com/album/2IOEqo06KS5PsbcKP1mCgB) | 2:38 | 2024-06-13 |  |
 | [Shimmer](https://open.spotify.com/track/4fjhWALslN4Q9GZ7VtU99p) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [Shimmer](https://open.spotify.com/album/0FyFmv5TUrev7ydzA4HHx2) | 2:21 | 2023-10-27 |  |
 | [Sho's Waltz \(From "The Secret World Of Arrietty"\) \- Lofi](https://open.spotify.com/track/5lI6gpI508ua5P2qJDmKTx) | [Dirty Tapes](https://open.spotify.com/artist/3fEF200SbEhVN7h8t04m0v) | [Ghibli On Acid](https://open.spotify.com/album/3onq6WniM9oPpLjfumGfmV) | 1:08 | 2023-10-27 | 2023-12-14 |
 | [Silent Sky](https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0) | [Lofi Leif](https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N) | [Silent Sky](https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV) | 2:19 | 2023-10-27 |  |

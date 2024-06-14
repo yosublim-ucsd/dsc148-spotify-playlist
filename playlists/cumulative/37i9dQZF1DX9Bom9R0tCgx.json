@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "DELTA",
+        "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172067,
+      "name": "DELTA",
+      "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
+    },
+    {
+      "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
@@ -2542,7 +2560,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
@@ -3092,6 +3110,24 @@
       "duration_ms": 182852,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
+    },
+    {
+      "album": {
+        "name": "In The Afterglow",
+        "url": "https://open.spotify.com/album/5c6fgWUawTDcDd575N4RgI"
+      },
+      "artists": [
+        {
+          "name": "ZAP",
+          "url": "https://open.spotify.com/artist/6qWz6fDGsGwAO7tDbuOW0T"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121853,
+      "name": "In The Afterglow",
+      "url": "https://open.spotify.com/track/1uVohw0VUEdmwE2Wi3QmK4"
     },
     {
       "album": {
@@ -3934,7 +3970,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 134545,
       "name": "Lose You Tonight - Tungevaag Remix",
       "url": "https://open.spotify.com/track/6WScf504MEyZlXVastiboO"
@@ -4030,7 +4066,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 200625,
       "name": "Love Is A Drug",
       "url": "https://open.spotify.com/track/4Yyho5h1ABXsvFyuEvyoke"
@@ -5673,6 +5709,28 @@
     },
     {
       "album": {
+        "name": "Rave Generator",
+        "url": "https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112499,
+      "name": "Rave Generator",
+      "url": "https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd"
+    },
+    {
+      "album": {
         "name": "Rave Superstar",
         "url": "https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi"
       },
@@ -6676,7 +6734,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 193528,
       "name": "Spiritum",
       "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
@@ -6798,6 +6856,36 @@
       "duration_ms": 122482,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1MlFhweLjtHC35E3u0AjtW"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In (feat. Timmy Trumpet) [Steve Aoki x Dimatik Remix]",
+        "url": "https://open.spotify.com/album/4W1jnG3c37s0zKY6xSi1kx"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/1pIcnxmQRhuQmOZRVYD3JZ"
     },
     {
       "album": {

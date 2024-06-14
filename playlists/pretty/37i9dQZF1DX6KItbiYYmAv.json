@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 732011,
+  "num_followers": 732031,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Not Your Muse (Deluxe)",
+        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Love Is Back",
+      "url": "https://open.spotify.com/track/4kzcJJUonbCSlNXrHXt6n8"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Not Your Muse (Deluxe)",
-        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         }
       ],
-      "duration_ms": 256200,
-      "name": "Love Is Back",
-      "url": "https://open.spotify.com/track/4kzcJJUonbCSlNXrHXt6n8"
+      "duration_ms": 133600,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/0HFBVwKtD5kBrQQseDwagJ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -919,22 +935,6 @@
       "duration_ms": 299746,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/0HFBVwKtD5kBrQQseDwagJ"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 199653,
       "name": "Back to Autumn",
       "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "I'm the One (Acoustic)",
         "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Best Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 309590,
       "name": "Howling",
       "url": "https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Best Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "There's Nothing Holdin Me Back",
         "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
       },
@@ -1363,34 +1347,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
       },
       "artists": [
         {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "BEFORE LOVE CAME TO KILL US",
-        "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "LOVE IN THE DARK",
-      "url": "https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P"
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1411,6 +1379,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "BEFORE LOVE CAME TO KILL US",
+        "url": "https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "LOVE IN THE DARK",
+      "url": "https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 135105,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Ohio",
         "url": "https://open.spotify.com/album/0GvYqatNTFDOB4qxoW27t2"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
       },
       "artists": [
         {
-          "name": "Rod Ladgrove",
-          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
         }
       ],
-      "duration_ms": 189912,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
+      "duration_ms": 135105,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/2u9dIQrLiknn6w9hekqAzZ"
+      },
+      "artists": [
+        {
+          "name": "Rod Ladgrove",
+          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+        }
+      ],
+      "duration_ms": 189912,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/4kfVBnKKIpKl2tHP7uzLTf"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
+        "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) [Radio Version]",
+        "url": "https://open.spotify.com/album/4KZNUgrWdQ79z093g5leev"
       },
       "artists": [
         {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+          "name": "Nick & June",
+          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
         }
       ],
-      "duration_ms": 314600,
-      "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
-      "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
+      "duration_ms": 211838,
+      "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) - Radio Version",
+      "url": "https://open.spotify.com/track/40BtgHQcQf7TRy6atS76lD"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) [Radio Version]",
-        "url": "https://open.spotify.com/album/4KZNUgrWdQ79z093g5leev"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0mkUbYiN1ECBGabxm70DeM"
       },
       "artists": [
         {
-          "name": "Nick & June",
-          "url": "https://open.spotify.com/artist/1mx1QlS8xWbe1KfXrvHrYl"
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
         }
       ],
-      "duration_ms": 211838,
-      "name": "Home Is Where the Heart Hurts (From \" About a Girl \" ) - Radio Version",
-      "url": "https://open.spotify.com/track/40BtgHQcQf7TRy6atS76lD"
+      "duration_ms": 314600,
+      "name": "Bis ans Ende der Welt - Live from Spotify Berlin",
+      "url": "https://open.spotify.com/track/0egwOcbUz6RfbTHKASdf2W"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Faces in the Rocks",
-        "url": "https://open.spotify.com/album/4uTqDWrJqOHYp1DCtkun16"
-      },
-      "artists": [
-        {
-          "name": "Mariee Sioux",
-          "url": "https://open.spotify.com/artist/0MHcaxRSYyXEIJWsB2VF6B"
-        }
-      ],
-      "duration_ms": 316280,
-      "name": "Wizard Flurry Home",
-      "url": "https://open.spotify.com/track/0kBIf10ovrGvEPQ5sP0nB3"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "AM Versions",
         "url": "https://open.spotify.com/album/5CCdVEgMxHdXrufmR2cHHN"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 249882,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/7eD0gs77mhlYRiTRI7IFf6"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Faces in the Rocks",
+        "url": "https://open.spotify.com/album/4uTqDWrJqOHYp1DCtkun16"
+      },
+      "artists": [
+        {
+          "name": "Mariee Sioux",
+          "url": "https://open.spotify.com/artist/0MHcaxRSYyXEIJWsB2VF6B"
+        }
+      ],
+      "duration_ms": 316280,
+      "name": "Wizard Flurry Home",
+      "url": "https://open.spotify.com/track/0kBIf10ovrGvEPQ5sP0nB3"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Husky Voice",
-        "url": "https://open.spotify.com/album/7mDOkSTNjln0QDZGOUcBeO"
-      },
-      "artists": [
-        {
-          "name": "HuskyMe",
-          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
-        }
-      ],
-      "duration_ms": 215832,
-      "name": "Husky Voice",
-      "url": "https://open.spotify.com/track/6sMvtfKcvWB2e7QBRWJXcF"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Drives Me Crazy",
         "url": "https://open.spotify.com/album/29kOgkV6oKBFfZkL8sYgn6"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Lampedusa (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2dpyKPNUrzHvdoz3XArHUf"
+        "name": "Husky Voice",
+        "url": "https://open.spotify.com/album/7mDOkSTNjln0QDZGOUcBeO"
       },
       "artists": [
         {
-          "name": "Malky",
-          "url": "https://open.spotify.com/artist/4htGKONCRJubvyLu7q6HqG"
+          "name": "HuskyMe",
+          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
         }
       ],
-      "duration_ms": 211240,
-      "name": "Lampedusa - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ypTNbCdGEv55Kjz5TfY8P"
+      "duration_ms": 215832,
+      "name": "Husky Voice",
+      "url": "https://open.spotify.com/track/6sMvtfKcvWB2e7QBRWJXcF"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2087,6 +2071,22 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/3BFXgZr628FqwDP3pQCgvk"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Lampedusa (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2dpyKPNUrzHvdoz3XArHUf"
+      },
+      "artists": [
+        {
+          "name": "Malky",
+          "url": "https://open.spotify.com/artist/4htGKONCRJubvyLu7q6HqG"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Lampedusa - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ypTNbCdGEv55Kjz5TfY8P"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/2CEFo9dXL22keGYMp7r1i0"
-      },
-      "artists": [
-        {
-          "name": "HuskyMe",
-          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
-        }
-      ],
-      "duration_ms": 192012,
-      "name": "Camouflage",
-      "url": "https://open.spotify.com/track/3UqQROifRGAOIMZ8Gbrau9"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Vestiges & Claws",
         "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 293880,
       "name": "Leaf Off / The Cave",
       "url": "https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/2CEFo9dXL22keGYMp7r1i0"
+      },
+      "artists": [
+        {
+          "name": "HuskyMe",
+          "url": "https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM"
+        }
+      ],
+      "duration_ms": 192012,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/3UqQROifRGAOIMZ8Gbrau9"
     },
     {
       "added_at": "2024-04-24 06:24:42",

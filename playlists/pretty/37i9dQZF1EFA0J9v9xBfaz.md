@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891 likes - 154 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 895 likes - 154 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 153 | [Espejo \(feat\. T.O.T\)](https://open.spotify.com/track/0TV5b3Sz5g8M9wwGkuOA4k) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 4:08 |
 | 154 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 
-Snapshot ID: `AbT42AAAAADDY0H8bGHBvRdwS0e4Yn9k`
+Snapshot ID: `AbT+eAAAAAAzRuiTMSAPVUPK8eVTHNfw`

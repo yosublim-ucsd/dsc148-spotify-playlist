@@ -1,12 +1,12 @@
 {
   "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 112368,
+  "num_followers": 112403,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAABgrMnY1fOffrmYsTNYrYSh",
+  "snapshot_id": "ZmjlAAAAAAAKgas0tkbeispmWc9eepff",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Corridos Pesados",
-        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suburban Dorada",
-      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -75,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "El Gato De Chihuahua",
-      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norte\u00f1o 2000",
         "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
@@ -103,6 +71,22 @@
       "duration_ms": 163082,
       "name": "Veinte Mujeres De Negro",
       "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "El Gato De Chihuahua",
+      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
     },
     {
       "added_at": null,
@@ -235,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 193697,
-      "name": "El Hombre De Negro",
-      "url": "https://open.spotify.com/track/652n8ymCgyYGeRx6S5eLxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -324,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 175151,
-      "name": "Te Perdone Una Vez",
-      "url": "https://open.spotify.com/track/4dEVSu7IUCDm1wkRsaC5SU"
+      "duration_ms": 180062,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4YeaTpf0S4VB6uC0QvCCfr"
     },
     {
       "added_at": null,
@@ -392,25 +360,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 180062,
-      "name": "911",
-      "url": "https://open.spotify.com/track/4YeaTpf0S4VB6uC0QvCCfr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma Bohemia",
-        "url": "https://open.spotify.com/album/0TDShw4C1noAeuUoBfh1mG"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "Amar A Mi Nivel",
-      "url": "https://open.spotify.com/track/2PAm2dcoYb2A8XzBHK8e0Y"
+      "duration_ms": 175151,
+      "name": "Te Perdone Una Vez",
+      "url": "https://open.spotify.com/track/4dEVSu7IUCDm1wkRsaC5SU"
     },
     {
       "added_at": null,
@@ -427,6 +379,22 @@
       "duration_ms": 173035,
       "name": "Doble Fondo Carga Pesada (LIVE0",
       "url": "https://open.spotify.com/track/6TOAAPGzz2ZD59pBsO3Hau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma Bohemia",
+        "url": "https://open.spotify.com/album/0TDShw4C1noAeuUoBfh1mG"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 177874,
+      "name": "Amar A Mi Nivel",
+      "url": "https://open.spotify.com/track/2PAm2dcoYb2A8XzBHK8e0Y"
     },
     {
       "added_at": null,
@@ -543,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/56rimWaiTGwWRjYR1jnNTz"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 144448,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/1Zq6wA4IEjDo7qRZMsOcL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Nortenas Perronas",
         "url": "https://open.spotify.com/album/59YgyERllemGd1mRxZUGQh"
       },
@@ -619,6 +571,22 @@
       "duration_ms": 178626,
       "name": "Ujule",
       "url": "https://open.spotify.com/track/4VL3VPtfEPj7Sx8cNuFZYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/56rimWaiTGwWRjYR1jnNTz"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 144448,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/1Zq6wA4IEjDo7qRZMsOcL4"
     },
     {
       "added_at": null,
@@ -811,6 +779,38 @@
       "duration_ms": 260794,
       "name": "Por Eso La Deje",
       "url": "https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Con Fama",
+        "url": "https://open.spotify.com/album/0hfHMxy9lZgcQkEWHFP1xN"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 160040,
+      "name": "Lucio Vazquez",
+      "url": "https://open.spotify.com/track/5wuyzP3qa9FH5EPEr8ZevH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte",
+        "url": "https://open.spotify.com/album/4mRTjmyvCz4NzsotOUs9u7"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "El Celular",
+      "url": "https://open.spotify.com/track/0058g7pEQRXcKEhGxgU6fM"
     }
   ],
   "unique_name": "This Is Los Huracanes del Norte",

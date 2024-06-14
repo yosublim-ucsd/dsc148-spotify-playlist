@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: DopeNation",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Camidoh",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Berima Nsu",
+        "url": "https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164306,
+      "name": "Berima Nsu",
+      "url": "https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3"
+    },
+    {
+      "album": {
         "name": "Billionaire",
         "url": "https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 220952,
       "name": "Country Side (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
@@ -4455,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "NLF (Breakfast)",
+        "url": "https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193472,
+      "name": "NLF (Breakfast)",
+      "url": "https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc"
+    },
+    {
+      "album": {
         "name": "No Fugazy",
         "url": "https://open.spotify.com/album/25mKwZuJQ0eD1Rl9BJ1WME"
       },
@@ -5850,7 +5886,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 176468,
       "name": "Running",
       "url": "https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR"
@@ -6124,7 +6160,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 167767,
       "name": "Single",
       "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"
@@ -7610,6 +7646,24 @@
       "duration_ms": 302000,
       "name": "You dey feel the vibe - Live",
       "url": "https://open.spotify.com/track/7t1x7kxQgYlivT80SB2vtr"
+    },
+    {
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ"
     },
     {
       "album": {

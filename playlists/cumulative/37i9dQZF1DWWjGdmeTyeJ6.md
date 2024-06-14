@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Margaux, Artwork: Isu Kim.
 
-6,440 songs - 14 day 13 hr 27 min
+6,445 songs - 14 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2092,6 +2092,7 @@
 | [friends u had](https://open.spotify.com/track/2o9qiFBwKc9mDrllqPeWzD) | [Playdate](https://open.spotify.com/artist/6oIeF5buHoZuyuwiu4xz0B) | [friends u had](https://open.spotify.com/album/7CW6Wc25oHYouIaHbHKgsC) | 2:59 | 2022-08-24 | 2022-09-01 |
 | [From Here](https://open.spotify.com/track/3viaISPcLXL62vZlWLZjuR) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [From Here](https://open.spotify.com/album/1QIXJRH5rokpdb17cZioyF) | 3:33 | 2023-05-31 | 2023-06-08 |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-05-03 | 2024-01-11 |
+| [FROM KALLI WITH LOVE](https://open.spotify.com/track/5YNfWXqUbIhIQs45iDEcaB) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [MOOD RING](https://open.spotify.com/album/0gSBpcyID5faN64X9wDveP) | 2:49 | 2024-06-13 |  |
 | [From Me to You](https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [From Me to You](https://open.spotify.com/album/333e8sycLvInCv5SVViLLt) | 3:16 | 2023-04-19 | 2023-05-04 |
 | [From the Bottom of My Heart](https://open.spotify.com/track/737VDcUcUmJ8DrZI02o5Hv) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [From the Bottom of My Heart](https://open.spotify.com/album/746BbdWExqTkxX4ag9LMWX) | 2:04 | 2023-01-11 | 2023-01-19 |
 | [From You](https://open.spotify.com/track/52cMqFjKP9O7fwyTS0uAQQ) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [From You](https://open.spotify.com/album/0WEBDFGiPBFoDx55iNQU7M) | 2:55 | 2023-09-20 | 2023-09-28 |
@@ -3515,6 +3516,7 @@
 | [make it sweet](https://open.spotify.com/track/6v1pldREMquWewApEBNDwh) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [make it sweet](https://open.spotify.com/album/7dz122rk1ZPkQmt8fW8JEE) | 2:41 | 2023-07-26 | 2023-08-03 |
 | [Make Me](https://open.spotify.com/track/5HDdMBC5E2wBOyjzhAHlPb) | [Marissa Zechinato](https://open.spotify.com/artist/6VJ25I8H8tRG3d3X76iMJX), [Chris Aschman](https://open.spotify.com/artist/4eEUNJm9lsEoQl5mHGwXhu) | [Make Me](https://open.spotify.com/album/2oQ7FfIuun0tkINrmhiuHB) | 3:24 | 2022-09-07 | 2022-09-15 |
 | [Make Me Wanna](https://open.spotify.com/track/1LcoGvOnn5XhD016aeDELU) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Make Me Wanna](https://open.spotify.com/album/0SbucIFxuOANgxW33sMluo) | 2:45 | 2022-08-03 | 2022-08-11 |
+| [Make Myself Happy](https://open.spotify.com/track/7INoWmYc2paIoyjqgNYqfo) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Make Myself Happy \(feat\. Floyd Fuji\)](https://open.spotify.com/album/6g6yhytUFFQ2vshNfEoC8y) | 2:57 | 2024-06-13 |  |
 | [Make Out Party](https://open.spotify.com/track/5TeKbqrMu3s8QVicjYU6k6) | [Dead Love Triangle](https://open.spotify.com/artist/7wdq8ZKq98DXQDqpQQfUB4) | [Stick Together, Ride It Out](https://open.spotify.com/album/7w52OQ0XPI8KWiFyZpJZEE) | 1:35 | 2022-11-09 | 2022-12-01 |
 | [Make You Mad](https://open.spotify.com/track/5rCAIpNJOv4Kw9QOuvHUPA) | [87 Nights](https://open.spotify.com/artist/5RTiISA2iq6ViQuLUi7HdB) | [Make You Mad](https://open.spotify.com/album/7tnYr62bQ7BJd67L8A69td) | 4:03 | 2022-09-14 | 2022-09-22 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-11-30 | 2023-01-12 |
@@ -5151,6 +5153,7 @@
 | [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 | 2024-05-01 | 2024-05-09 |
 | [Somebody New](https://open.spotify.com/track/2Ts4YDZrOtredOQA03CKJK) | [nasha](https://open.spotify.com/artist/0uRgpyoMp4QUVmEEQXjjTi) | [Somebody New](https://open.spotify.com/album/2gsiCchSKnNJY36mNg4ZqG) | 3:09 | 2022-08-10 | 2022-08-25 |
 | [Someday](https://open.spotify.com/track/3RHFjsSlN1jxHwnQTxCGas) | [dani mack](https://open.spotify.com/artist/3mqzun4IsA12XDrzVuBgon) | [Someday](https://open.spotify.com/album/0G1liIJcyDAEn2HBGwn6wm) | 3:26 | 2022-04-06 | 2022-04-14 |
+| [SOMEDAY](https://open.spotify.com/track/2bQzlvneMWu99bGWvmARw4) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [SOMEDAY](https://open.spotify.com/album/3eoARb60JoP1Z6GsD4HqLE) | 3:29 | 2024-06-13 |  |
 | [someday](https://open.spotify.com/track/0kByR2DSkqHJjRksAiRQXM) | [Hera Lind](https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we) | [someday](https://open.spotify.com/album/2Ayesh5LYfgyVMtv9ixK0g) | 3:24 | 2023-09-27 | 2023-10-05 |
 | [Somedays \(People in Cars\)](https://open.spotify.com/track/3XqZApOAbVXyIGpx49Z4kO) | [Kevin Klein](https://open.spotify.com/artist/0NWmpU8ggo9yQW1yswpp1C) | [Somedays \(People in Cars\)](https://open.spotify.com/album/6Q1sqH38H5fB13LynwsKEO) | 3:53 | 2023-05-10 | 2023-05-18 |
 | [Someone](https://open.spotify.com/track/0D0bi3xh6KJVmZGf27bKR3) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Someone](https://open.spotify.com/album/3hCX0yEonCeJxVVO09FMOL) | 3:19 | 2024-05-22 | 2024-06-06 |
@@ -5429,6 +5432,7 @@
 | [super 8](https://open.spotify.com/track/4Exb0V85Rarw8Fk196x2sS) | [Jack Price](https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh) | [super 8](https://open.spotify.com/album/7DPrCyq7eeLL7WJD64QyaJ) | 2:47 | 2022-03-16 | 2022-03-24 |
 | [Super Mall Mannequin](https://open.spotify.com/track/4IaTh1fIDJ7NYjbK85sIYQ) | [Quotes From Movies](https://open.spotify.com/artist/5WR0cJ1JElYsi0mmC7AJ4t) | [Super Mall Mannequin](https://open.spotify.com/album/0LYUDQdolDvnzps2eaKVCv) | 3:20 | 2023-05-17 | 2023-05-24 |
 | [Super Power](https://open.spotify.com/track/5CFuOXsqU9nUqIc0JRvcKt) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Super Power](https://open.spotify.com/album/2CSQKjFjpulrQety6WQncn) | 2:48 | 2022-08-03 | 2022-08-11 |
+| [Superfan](https://open.spotify.com/track/6dCqCHxMhOjEpx43wgWycn) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Superfan](https://open.spotify.com/album/1GBTH2EaDPAC9IjpcBO8Md) | 2:25 | 2024-06-13 |  |
 | [Superficial](https://open.spotify.com/track/6xShwxe9hzJuKOsjVyoSSQ) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Superficial](https://open.spotify.com/album/5N9KBw4M6P9lRPYrzQJ8XF) | 2:26 | 2023-04-05 | 2023-05-04 |
 | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/track/5kYwg6VjXxq33Ur7MYwfCb) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/album/6EPQ2xDyB71ZdEis7MVNlg) | 2:07 | 2023-04-12 | 2023-04-27 |
 | [Superficial Conversation](https://open.spotify.com/track/5aa6SI48URwFKQaGJ54wiB) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Superficial Conversation](https://open.spotify.com/album/09hqYUXaRRVWRw1htGE407) | 2:54 | 2023-06-14 | 2023-06-29 |
@@ -5927,6 +5931,7 @@
 | [Under the Gun](https://open.spotify.com/track/6Y3rVkddzqreyCqlP8Zlag) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Under the Gun](https://open.spotify.com/album/3nKSU4PXCId6jxF8ud7oQl) | 2:48 | 2023-10-11 | 2023-11-16 |
 | [Under the Sun](https://open.spotify.com/track/1VwBuNCYP2CoEteOoZ1190) | [about\-faces](https://open.spotify.com/artist/7qremW2LDEd5VxTpld79LN) | [Under the Sun](https://open.spotify.com/album/4wnotSLZaFavqnabTZkTrC) | 2:51 | 2023-07-19 | 2023-07-22 |
 | [Under The Tree](https://open.spotify.com/track/5k8KgN50j3XtvIdHIEgiqO) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Under The Tree](https://open.spotify.com/album/6LwWXUb9C8L2bPdCAeLPeC) | 4:39 | 2024-03-06 | 2024-04-04 |
+| [Undercover Lover](https://open.spotify.com/track/04js5IkeOVrEWazKXj2B9M) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI), [Jamma\-Dee](https://open.spotify.com/artist/2qIdgfyoBJ60s1O55LOmiH) | [Undercover Lover](https://open.spotify.com/album/4v8Dt0lEWPYmj4yQff2Nva) | 3:37 | 2024-06-13 |  |
 | [Undercöver](https://open.spotify.com/track/0Cmp7FNYUrh7NHBoPa2c7R) | [RENACIDO](https://open.spotify.com/artist/2JTuHfi89wFLfVj0G1f7sl) | [Undercöver](https://open.spotify.com/album/2L4SNxUwVWnPxm9Sj9Fu9l) | 1:52 | 2022-05-18 | 2022-05-26 |
 | [underdog \- ocean side Ver.](https://open.spotify.com/track/1lnBAkz7bOLAphCVEEUbjs) | [zezeco](https://open.spotify.com/artist/2M6p4lAUqQmhLYqlEgvbQc) | [ocean side liveEP](https://open.spotify.com/album/7gtaQeg3G5nKEOe3pENvc3) | 3:58 | 2022-01-12 | 2022-01-20 |
 | [Underdogs](https://open.spotify.com/track/2DXCuZniSyeNnasWrcgtgj) | [His His](https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO) | [Underdogs](https://open.spotify.com/album/1Ck8vQiQptvphCgMMVRJTj) | 3:01 | 2023-07-19 | 2023-07-27 |

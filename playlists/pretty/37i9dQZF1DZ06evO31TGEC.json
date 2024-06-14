@@ -1,12 +1,12 @@
 {
   "description": "This Is El Chapo De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 46389,
+  "num_followers": 46398,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAAC8EL1GyV3cZ2QQV8ApUueE",
+  "snapshot_id": "ZmjlAAAAAABSOqffPL+VL/z2W4aU2FAb",
   "tracks": [
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
+        "name": "Triunfador",
+        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Contigo Me Gusta",
-      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
+      "duration_ms": 172805,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfador",
-        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 172805,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
+      "duration_ms": 186746,
+      "name": "Contigo Me Gusta",
+      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -639,6 +639,26 @@
       "duration_ms": 206133,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
     },
     {
       "added_at": null,
@@ -671,26 +691,6 @@
       "duration_ms": 181816,
       "name": "Hola Mi Amor (Version Banda)",
       "url": "https://open.spotify.com/track/0W8A629FGbUBVrHaGB0vZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
     },
     {
       "added_at": null,

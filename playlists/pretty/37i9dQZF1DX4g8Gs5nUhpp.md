@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > Những bông hoa nhỏ của làng nhạc Việt\. Ảnh bìa: \(đoán thử xem\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,844 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,846 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

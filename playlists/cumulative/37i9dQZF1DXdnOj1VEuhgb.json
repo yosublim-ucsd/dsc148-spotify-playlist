@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jeff Redd",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Era7capone x Batuflex x Narco",
   "name": "NKVT",
   "tracks": [
     {
@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "A\u015fk Her \u015eeyi Affeder Mi",
+        "url": "https://open.spotify.com/album/7Kki8jgwpltOsbMPyZ7ksF"
+      },
+      "artists": [
+        {
+          "name": "\u015eam",
+          "url": "https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "A\u015fk Her \u015eeyi Affeder Mi",
+      "url": "https://open.spotify.com/track/1UVIKuZpRjdSoM2jj81GGJ"
+    },
+    {
+      "album": {
         "name": "A\u015fk Olsun",
         "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
       },
@@ -1066,6 +1084,24 @@
       "duration_ms": 204553,
       "name": "Birader",
       "url": "https://open.spotify.com/track/55YPDeJRgBjW8Em2AWBiXk"
+    },
+    {
+      "album": {
+        "name": "Bitmez \u00dcmitlerim",
+        "url": "https://open.spotify.com/album/123kCll74XMoPqLsSlG8Z9"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164352,
+      "name": "Bitmez \u00dcmitlerim",
+      "url": "https://open.spotify.com/track/34CpmKk7afqWw4JpsC7m0R"
     },
     {
       "album": {
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 181005,
       "name": "GRIFFIN FREESTYLE",
       "url": "https://open.spotify.com/track/4vHvFQpsPXOBgIqZM5cCLo"
@@ -4281,6 +4317,28 @@
     },
     {
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq"
+      },
+      "artists": [
+        {
+          "name": "Melez",
+          "url": "https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1"
+    },
+    {
+      "album": {
         "name": "madem \u00f6yle...(rastla\u015fcaz!)",
         "url": "https://open.spotify.com/album/4Wr3DR90tXZFFdDYCOF5rs"
       },
@@ -4440,7 +4498,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 139989,
       "name": "Mask Yok",
       "url": "https://open.spotify.com/track/5Q2X7iXE3Qlx9zL0DZYP0X"
@@ -5540,7 +5598,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 185920,
       "name": "RARi",
       "url": "https://open.spotify.com/track/5WfLaQZdnaGM7nOZHdvVQB"

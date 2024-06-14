@@ -1,13 +1,33 @@
 {
-  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Dunsin Oyekan",
-  "num_followers": 8800,
+  "description": "In the mood for live Christian and Gospel music? This is the one. Cover: Joe Mettle",
+  "num_followers": 8856,
   "original_name": "Come Alive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmJNvAAAAACevr5dWNTBGnjmkU31BUfN",
+  "snapshot_id": "ZmuIPAAAAADimxaE7UUK0vp7rzp/S6Vu",
   "tracks": [
+    {
+      "added_at": "2024-06-14 00:01:00",
+      "album": {
+        "name": "Oba Awon Oba",
+        "url": "https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 733135,
+      "name": "Oba Awon Oba",
+      "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
+    },
     {
       "added_at": "2024-05-10 00:01:00",
       "album": {

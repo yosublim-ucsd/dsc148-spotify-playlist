@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from  Ricky Tyler (pictured), Gunna, Kendrick Lamar, and more...",
+  "description": "Only the hottest Hip Hop from Jay Jody (pictured), Gunna, Kendrick Lamar, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -2878,8 +2878,8 @@
           "url": "https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP"
         },
         {
-          "name": "uSimamane",
-          "url": "https://open.spotify.com/artist/57GAhsq0GLaC2sClqtSFih"
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
         }
       ],
       "date_added": "2024-06-06",
@@ -5890,6 +5890,28 @@
       "duration_ms": 216013,
       "name": "Us vs. Them (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg"
+    },
+    {
+      "album": {
+        "name": "VAMONOS",
+        "url": "https://open.spotify.com/album/4slthHsVvn5TtrPcsu638h"
+      },
+      "artists": [
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125357,
+      "name": "VAMONOS",
+      "url": "https://open.spotify.com/track/70RqmeVZJgj7DU9sDm1k7K"
     },
     {
       "album": {

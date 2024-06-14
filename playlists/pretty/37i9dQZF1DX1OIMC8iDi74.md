@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Moore Kismet
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,478 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,493 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 89 | [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 |
 | 90 | [ORIGINAL STEPPA](https://open.spotify.com/track/55ucCWk6NNfQBDDEiVvBIQ) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [ORIGINAL STEPPA](https://open.spotify.com/album/4atLTvYvrVroGsB8qwiBrc) | 2:06 |
 | 91 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
-| 92 | [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 |
-| 93 | [Buckshots](https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON) | [Buckshots](https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5) | 2:41 |
+| 92 | [Buckshots](https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON) | [Buckshots](https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5) | 2:41 |
+| 93 | [My Mind](https://open.spotify.com/track/6VBMufUomo3zargbrSDFuR) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [My Mind](https://open.spotify.com/album/7HblcAvpakUan6Dv7hz2j3) | 2:32 |
 | 94 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 |
 | 95 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 |
 | 96 | [Issa Bounce](https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Issa Bounce](https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi) | 1:57 |

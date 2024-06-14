@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 51874,
+  "num_followers": 52856,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1585,26 +1585,6 @@
       "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "CKULO",
-        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "INNDRIVE",
-          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
-        }
-      ],
-      "duration_ms": 152523,
-      "name": "CKULO",
-      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Fuego",
@@ -1623,6 +1603,26 @@
       "duration_ms": 120120,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "CKULO",
+        "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "duration_ms": 152523,
+      "name": "CKULO",
+      "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1793,20 +1793,24 @@
       "url": "https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Salzzati",
-        "url": "https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2QqAgPddt9ZR57iUDQMByh"
       },
       "artists": [
         {
-          "name": "Bruno Bona",
-          "url": "https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU"
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
         }
       ],
-      "duration_ms": 316757,
-      "name": "Periquito",
-      "url": "https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn"
+      "duration_ms": 167272,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/437HzuCcsjDaj3hsvOOmZu"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1829,24 +1833,20 @@
       "url": "https://open.spotify.com/track/0SxzftYd4dwbBNwAslFNb6"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2QqAgPddt9ZR57iUDQMByh"
+        "name": "Salzzati",
+        "url": "https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+          "name": "Bruno Bona",
+          "url": "https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU"
         }
       ],
-      "duration_ms": 167272,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/437HzuCcsjDaj3hsvOOmZu"
+      "duration_ms": 316757,
+      "name": "Periquito",
+      "url": "https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn"
     },
     {
       "added_at": "2024-04-19 04:00:00",

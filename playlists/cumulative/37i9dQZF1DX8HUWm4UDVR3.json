@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : RORI",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Yoa",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 139901,
       "name": "24 F\u00e9vrier",
       "url": "https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo"
+    },
+    {
+      "album": {
+        "name": "30 ans",
+        "url": "https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1"
+      },
+      "artists": [
+        {
+          "name": "Doowy",
+          "url": "https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "30 ans",
+      "url": "https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB"
     },
     {
       "album": {
@@ -358,7 +376,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160648,
       "name": "bbtumadores",
       "url": "https://open.spotify.com/track/5yqoaf3rsnWWeWhYWVQP17"
@@ -1309,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Boulevard",
+        "url": "https://open.spotify.com/album/0j5otONxZQfmsOz1pVZ9jX"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205176,
+      "name": "Hollywood Boulevard",
+      "url": "https://open.spotify.com/track/5JC29enMuSB0uAXhZTTu41"
+    },
+    {
+      "album": {
         "name": "Hollywood game",
         "url": "https://open.spotify.com/album/5IQZFOZDSqX80qcLUaRNRY"
       },
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
@@ -2343,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Nulle",
+        "url": "https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Nulle",
+      "url": "https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw"
+    },
+    {
+      "album": {
         "name": "Oh ma vie",
         "url": "https://open.spotify.com/album/2OvbOMc6jBk55fvhnJI42u"
       },
@@ -2824,7 +2878,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 150945,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1MuIj3SP4hYQZGgdRvvmKP"
@@ -3026,7 +3080,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 219039,
       "name": "sans mon soleil",
       "url": "https://open.spotify.com/track/7hUrPELY70yPmF4IVzM5Kw"
@@ -3528,6 +3582,24 @@
       "duration_ms": 138299,
       "name": "\u00c9tat normal",
       "url": "https://open.spotify.com/track/5gpNCEmwRtF9WmlVc3y9RJ"
+    },
+    {
+      "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "\u00eatre biennn",
+      "url": "https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE"
     },
     {
       "album": {

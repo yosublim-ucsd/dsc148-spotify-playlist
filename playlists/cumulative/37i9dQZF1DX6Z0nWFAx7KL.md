@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-214 songs - 10 hr 45 min
+215 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ajugna](https://open.spotify.com/track/2rStEJSb59hzFcB5DZs5b9) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Ajugna](https://open.spotify.com/album/6MZrj5iHtdtCjo8cCicg4J) | 1:59 | 2024-05-23 | 2024-06-07 |
 | [All Because Of You](https://open.spotify.com/track/5cz9aEus9fVadxKti7gUi0) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [All Because Of You](https://open.spotify.com/album/6z96cnEVL7OoMJKuPBUs21) | 2:19 | 2024-05-23 | 2024-06-07 |
 | [All of Me](https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [All of Me](https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu) | 2:41 | 2022-09-15 | 2023-11-07 |
-| [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 |  |
+| [All Shook Up](https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [All Shook Up](https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83) | 2:34 | 2022-12-29 | 2024-06-14 |
 | [All The Highs \- Slowed](https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [All The Highs \(Alternate Versions\)](https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc) | 3:51 | 2022-12-18 | 2023-02-14 |
 | [All This Time Alone](https://open.spotify.com/track/4gvhLNxyZbjDR9pUQVCc1Y) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [The Mannequin](https://open.spotify.com/artist/6OEwfaPcnzqHoZ5HlWEtL6) | [All This Time Alone](https://open.spotify.com/album/7zelNlPuN1e264IHe1d2p4) | 2:54 | 2023-06-08 | 2023-06-23 |
 | [Alone](https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co) | [Charleon](https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p) | [Alone](https://open.spotify.com/album/1WLXMRMpzyAdzYOzYf98B3) | 2:51 | 2023-12-08 | 2024-03-21 |
@@ -39,6 +39,7 @@
 | [Botanica](https://open.spotify.com/track/1o3ksFswee5ivJWC6eJTa1) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Botanica](https://open.spotify.com/album/4hGX5ykusRBQyujcqDTJDO) | 3:07 | 2022-09-15 | 2023-02-11 |
 | [Botanica](https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Botanica](https://open.spotify.com/album/5fSSRZEOdBrTwzGhyuWz81) | 3:07 | 2023-02-16 | 2024-04-19 |
 | [Break Up](https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Break Up](https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01) | 2:37 | 2022-09-15 | 2023-10-03 |
+| [Breathe](https://open.spotify.com/track/4FN4WUBeUuxV5EvTiUMhSy) | [Dallic](https://open.spotify.com/artist/5tGZYcCVzejFFYAjEUjbgh) | [Breathe](https://open.spotify.com/album/6vlnMsAF2FjYnlksykaDDJ) | 3:17 | 2024-06-13 |  |
 | [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-29 | 2023-03-18 |
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 | 2022-10-22 |
 | [Can't Stop Thinking](https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6) | [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB), [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Can't Stop Thinking](https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E) | 2:26 | 2024-01-11 |  |

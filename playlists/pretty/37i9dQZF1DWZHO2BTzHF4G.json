@@ -1,6 +1,6 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 35394,
+  "num_followers": 35421,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Getting Away With Murder",
         "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 208199,
       "name": "Scars",
       "url": "https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "With Arms Wide Open: A Retrospective",
-        "url": "https://open.spotify.com/album/6mOXPtswKccKSx5dYmCXAc"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "One Last Breath - Radio Version",
-      "url": "https://open.spotify.com/track/0eFklulxFnNCypNSrywzSB"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/58UmKPMguFuYtGMVNol95V"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 189400,
       "name": "Pork And Beans",
       "url": "https://open.spotify.com/track/5txH6topQylTHnb4lZMdQ1"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "With Arms Wide Open: A Retrospective",
+        "url": "https://open.spotify.com/album/6mOXPtswKccKSx5dYmCXAc"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "One Last Breath - Radio Version",
+      "url": "https://open.spotify.com/track/0eFklulxFnNCypNSrywzSB"
     },
     {
       "added_at": "2021-04-09 06:36:41",

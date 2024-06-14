@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Calvin Klein",
+        "url": "https://open.spotify.com/album/57SHeyxA2ubPJFNExodhzB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Cairns",
+          "url": "https://open.spotify.com/artist/6DqZtx0QR4tIjt9sRN4kO1"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462324,
+      "name": "Calvin Klein",
+      "url": "https://open.spotify.com/track/5C69PdWc5YoFWiZV1q9aBR"
+    },
+    {
+      "album": {
         "name": "Chaos Magicka",
         "url": "https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N"
       },
@@ -463,6 +481,32 @@
     },
     {
       "album": {
+        "name": "Definition of Hard Techno",
+        "url": "https://open.spotify.com/album/686gQUfEE4dyGJpu7SEjkv"
+      },
+      "artists": [
+        {
+          "name": "O.B.I.",
+          "url": "https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4"
+        },
+        {
+          "name": "Fernanda Martins",
+          "url": "https://open.spotify.com/artist/52MgoD4ydR3spsWVir9naX"
+        },
+        {
+          "name": "Lukas",
+          "url": "https://open.spotify.com/artist/41rDUBSuIZl3YscER2Fskv"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407842,
+      "name": "Definition of Hard Techno - Lukas & Fernanda Martins Remix",
+      "url": "https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q"
+    },
+    {
+      "album": {
         "name": "Deine Angst",
         "url": "https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5"
       },
@@ -478,7 +522,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 321666,
       "name": "Deine Angst",
       "url": "https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT"
@@ -1220,7 +1264,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 232478,
       "name": "LSD XTC (Do We Really Need)",
       "url": "https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q"
@@ -1414,7 +1458,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 181675,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/38MD66rssmeYXu3xwB36k5"
@@ -1490,7 +1534,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 331271,
       "name": "Phiom Enhah",
       "url": "https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e"
@@ -1570,7 +1614,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 315115,
       "name": "Psychotic Mind",
       "url": "https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN"
@@ -1588,7 +1632,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 381118,
       "name": "Purple Widow",
       "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"

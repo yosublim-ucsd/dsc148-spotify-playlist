@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 166285,
       "name": "CAMISA 10",
       "url": "https://open.spotify.com/track/773f4JZgxVgAbKOhpbLmwC"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 187689,
       "name": "Casaco",
       "url": "https://open.spotify.com/track/3eV01arTXqFuftJDTXHx8A"
@@ -3772,6 +3772,32 @@
       "duration_ms": 216800,
       "name": "EUROPA (feat. Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+    },
+    {
+      "album": {
+        "name": "IT WILL HURT BOTH WAYS",
+        "url": "https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187869,
+      "name": "Even",
+      "url": "https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55"
     },
     {
       "album": {
@@ -7077,6 +7103,28 @@
     },
     {
       "album": {
+        "name": "Ninfoman\u00edaca",
+        "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
+      },
+      "artists": [
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Ninfoman\u00edaca",
+      "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
+    },
+    {
+      "album": {
         "name": "PELE & OSSO",
         "url": "https://open.spotify.com/album/5O8gpcjDS5s9ugCYKPSadK"
       },
@@ -9000,10 +9048,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 212331,
       "name": "Quem Tu Mereces",
       "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
+    },
+    {
+      "album": {
+        "name": "Quem \u00e9 Que?",
+        "url": "https://open.spotify.com/album/6OvYWO1eXqPjOpjS7Ub8Q4"
+      },
+      "artists": [
+        {
+          "name": "Easy B",
+          "url": "https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Quem \u00e9 Que?",
+      "url": "https://open.spotify.com/track/1nMboVwLRXO35cTE4z5het"
     },
     {
       "album": {
@@ -9124,6 +9190,28 @@
       "duration_ms": 179939,
       "name": "Rock",
       "url": "https://open.spotify.com/track/2tubwnOo6pAp2KvcwIWF02"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR LIFE",
+        "url": "https://open.spotify.com/album/2FlAEN05stQDCEEWWKOqAX"
+      },
+      "artists": [
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        },
+        {
+          "name": "Yung Juse",
+          "url": "https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215590,
+      "name": "ROCKSTAR LIFE",
+      "url": "https://open.spotify.com/track/4to6gRPGFpnkxwYt03uiM5"
     },
     {
       "album": {
@@ -11480,7 +11568,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 132923,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/6z5v6mkzlQSwhVxWLBdPkR"

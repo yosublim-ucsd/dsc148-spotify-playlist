@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Ruger",
+  "description": "Tracks popping off in the Afro scene. Cover: Diamond Platnumz",
   "name": "Afro Station",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160375,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
@@ -1995,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Diamant Brut",
+        "url": "https://open.spotify.com/album/6WTD1IxrvvRKt9dUmhLfbj"
+      },
+      "artists": [
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168651,
+      "name": "Diamant brut",
+      "url": "https://open.spotify.com/track/5VlQaW6JEFbdU8NWfJiVYA"
+    },
+    {
+      "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
@@ -2356,6 +2374,24 @@
       "duration_ms": 161752,
       "name": "Du Yeye",
       "url": "https://open.spotify.com/track/5C95P8WdZXKWMS23hhior0"
+    },
+    {
+      "album": {
+        "name": "D\u00e8s l'matin",
+        "url": "https://open.spotify.com/album/6YLuPziACioeJsxR9VC1Fw"
+      },
+      "artists": [
+        {
+          "name": "Zokush",
+          "url": "https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151351,
+      "name": "D\u00e8s l'matin",
+      "url": "https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h"
     },
     {
       "album": {
@@ -3190,7 +3226,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156600,
       "name": "Gnangami (feat. Zaho)",
       "url": "https://open.spotify.com/track/1eccZ1DVgqm21c22LWCPfD"
@@ -3782,6 +3818,40 @@
       "duration_ms": 146292,
       "name": "J'en ai pas",
       "url": "https://open.spotify.com/track/621ayeY7Bg1TDPJKeyZyj7"
+    },
+    {
+      "album": {
+        "name": "J'suis plus l\u00e0 (feat. Low Jay & Papi)",
+        "url": "https://open.spotify.com/album/6m4vIkjGn1K8TOqYF4d90A"
+      },
+      "artists": [
+        {
+          "name": "Titai",
+          "url": "https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        },
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "Papi",
+          "url": "https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163122,
+      "name": "J'suis plus l\u00e0 (feat. Low Jay & Papi)",
+      "url": "https://open.spotify.com/track/56R1EXj3sVlmy2ldgiTeef"
     },
     {
       "album": {
@@ -5077,6 +5147,32 @@
     },
     {
       "album": {
+        "name": "Menteur (feat. Ronisia & John Scorp)",
+        "url": "https://open.spotify.com/album/0XEMqLQn4Egdsh1lZKdpUd"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "John Scorp",
+          "url": "https://open.spotify.com/artist/3ExbC2VW9YPQwTc1It1rvu"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144066,
+      "name": "Menteur (feat. Ronisia & John Scorp)",
+      "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
+    },
+    {
+      "album": {
         "name": "Mexican Girl",
         "url": "https://open.spotify.com/album/0iczvaW9REVqI5fbR6OYBI"
       },
@@ -5368,7 +5464,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 185667,
       "name": "M\u00e9chant",
       "url": "https://open.spotify.com/track/0U6hV35cezJswQaTJoIyvK"
@@ -5426,7 +5522,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 180600,
       "name": "Nazo Bouler (feat. Wilsko)",
       "url": "https://open.spotify.com/track/1gYa6IOwtbG8gQfgHVW0WF"
@@ -5536,7 +5632,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 176512,
       "name": "Nightcrawler",
       "url": "https://open.spotify.com/track/2zQqpwmLLZRoF52wSnGtYQ"
@@ -5951,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197444,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "album": {
         "name": "Afroland : Bleu Nuit",
         "url": "https://open.spotify.com/album/1fmvqeOzCZji4DcGVFZtLa"
       },
@@ -6122,7 +6236,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 140166,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
@@ -6634,6 +6748,46 @@
       "duration_ms": 159706,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP"
+    },
+    {
+      "album": {
+        "name": "REVU OH (feat. Jungeli)",
+        "url": "https://open.spotify.com/album/745HruJDJxiMmGkXYMwDBB"
+      },
+      "artists": [
+        {
+          "name": "Notchoo",
+          "url": "https://open.spotify.com/artist/2694QFouLyh1efdilx2tTP"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "REVU OH (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/2GbgmXifJhSkonSTGXb8OE"
+    },
+    {
+      "album": {
+        "name": "True To Self",
+        "url": "https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158893,
+      "name": "Ringing in My Head",
+      "url": "https://open.spotify.com/track/5tIikShpskIA8Py5lVkTGN"
     },
     {
       "album": {
@@ -7630,7 +7784,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"

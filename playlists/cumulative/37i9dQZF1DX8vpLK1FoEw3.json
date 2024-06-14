@@ -4981,32 +4981,6 @@
     },
     {
       "album": {
-        "name": "SEQU\u00caNCIA REVOLUCION\u00c1RIA",
-        "url": "https://open.spotify.com/album/2xSh7dgbEdwBYV3qKs53SN"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "MC Rog\u00ea",
-          "url": "https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui"
-        }
-      ],
-      "date_added": "2024-06-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165333,
-      "name": "SEQU\u00caNCIA REVOLUCION\u00c1RIA",
-      "url": "https://open.spotify.com/track/5L5iGJlfO3FgICMMop7vJw"
-    },
-    {
-      "album": {
         "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
         "url": "https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq"
       },
@@ -5030,6 +5004,36 @@
       "duration_ms": 165333,
       "name": "SEQU\u00caNCIA REVOLUCION\u00c1RIA",
       "url": "https://open.spotify.com/track/7tq8yLNkxc1eHlvLnQee6P"
+    },
+    {
+      "album": {
+        "name": "SEQU\u00caNCIA REVOLUCION\u00c1RIA",
+        "url": "https://open.spotify.com/album/2xSh7dgbEdwBYV3qKs53SN"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC Rog\u00ea",
+          "url": "https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui"
+        },
+        {
+          "name": "MC Kalzin",
+          "url": "https://open.spotify.com/artist/07OL7VnxFawjjP6pL7neiF"
+        }
+      ],
+      "date_added": "2024-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "SEQU\u00caNCIA REVOLUCION\u00c1RIA",
+      "url": "https://open.spotify.com/track/5L5iGJlfO3FgICMMop7vJw"
     },
     {
       "album": {

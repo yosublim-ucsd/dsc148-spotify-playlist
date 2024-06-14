@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 249443,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
@@ -5532,6 +5532,28 @@
       "duration_ms": 1036982,
       "name": "Praise Break Episode 2",
       "url": "https://open.spotify.com/track/7knZZf7OPjJUf9nfprWLFi"
+    },
+    {
+      "album": {
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119428,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/0D0T6euB9gjQ9ArOLx9mWA"
     },
     {
       "album": {

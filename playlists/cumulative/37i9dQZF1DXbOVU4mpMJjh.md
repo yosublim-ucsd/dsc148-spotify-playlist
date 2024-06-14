@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,182 songs - 3 day 7 hr 34 min
+1,184 songs - 3 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Around six thirty](https://open.spotify.com/track/1rlb8YcKIlMB0RkHcs66El) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Around six thirty](https://open.spotify.com/album/2VFpIdwjRZtDUBm5MxNGza) | 3:23 | 2023-08-31 |  |
 | [As I Ponder](https://open.spotify.com/track/6khM5DGF44SpKPh0Wb0lQI) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [As I Ponder](https://open.spotify.com/album/367OQVZU6YW07Dk0B7SvO5) | 3:19 | 2023-08-18 |  |
 | [As Time Goes By](https://open.spotify.com/track/2FgLhm6EwB0Ix8XLHABFkC) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [As Time Goes By](https://open.spotify.com/album/43blKT5tNQotndvCtQGMhg) | 4:10 | 2022-09-29 |  |
+| [As We Say Goodbye](https://open.spotify.com/track/4scGI6ZJ4EwpgXY8RSApqw) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [As We Say Goodbye](https://open.spotify.com/album/7Ii2hvgq8tlPv2BLCaQo80) | 4:46 | 2024-06-11 |  |
 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 | 2023-11-17 |  |
 | [Asking You Out](https://open.spotify.com/track/0QCyenIbvoll6CIjDstGSj) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [Asking You Out](https://open.spotify.com/album/034e3pSqJygDVB8tMsXck0) | 3:04 | 2024-03-22 |  |
 | [At A Glance](https://open.spotify.com/track/0rlmAIIhMnD1750HZibwLD) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [At A Glance](https://open.spotify.com/album/3QX4fX7HOzTIQZj0wOThD5) | 4:10 | 2023-12-22 |  |
@@ -764,7 +765,7 @@
 | [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 | 2023-10-27 | 2024-04-19 |
 | [Old Folks](https://open.spotify.com/track/0GrelUYKejuSl9O36VdMA3) | [Geoffrey Christensen](https://open.spotify.com/artist/2W1wcm0Yt8Mcx55CRxC013) | [Gone With The Wind](https://open.spotify.com/album/5htrKxxejBR8OJBnLH9eSa) | 6:30 | 2022-04-14 | 2022-04-27 |
 | [Old Georgie](https://open.spotify.com/track/5TUShaJuppEAb1FVctgy6V) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Old Georgie](https://open.spotify.com/album/4Hfo3rFHpvtatFFe4Suba9) | 3:02 | 2023-03-09 |  |
-| [Old nobility](https://open.spotify.com/track/6yzt6of8UmXtXDApwgMfmr) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Old nobility](https://open.spotify.com/album/07rbru0GAmjw3I7eBe7419) | 3:20 | 2024-02-02 |  |
+| [Old nobility](https://open.spotify.com/track/6yzt6of8UmXtXDApwgMfmr) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Old nobility](https://open.spotify.com/album/07rbru0GAmjw3I7eBe7419) | 3:20 | 2024-02-02 | 2024-06-14 |
 | [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-05-24 | 2023-03-18 |
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 |  |
 | [On and On](https://open.spotify.com/track/4NmWCyyKt5ll2Nm7DSPm2j) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Here Now](https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY) | 3:51 | 2023-12-08 | 2024-04-19 |
@@ -798,6 +799,7 @@
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
 | [Perform Forever](https://open.spotify.com/track/3EFTOQdF41pDKj8YHqO5Y9) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Perform Forever](https://open.spotify.com/album/5vn4wUfKQggwhOWxs0GWF1) | 3:14 | 2023-08-31 | 2024-05-11 |
 | [Phases](https://open.spotify.com/track/77jWYo4bR2WuhCwCMIKkpw) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Sarah Elizabeth Charles](https://open.spotify.com/artist/5LqWmZQlNt5EqbjJsOMjtn) | [Ruler Rebel](https://open.spotify.com/album/7qGH2vWOTR8E7u3spMPdOh) | 4:15 | 2022-04-14 | 2022-04-27 |
+| [Pieces](https://open.spotify.com/track/2bYlyQeTRZgfalIdw3VkkL) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [Pieces](https://open.spotify.com/album/4tdUUO1bWa0h0gijIBIIq9) | 3:12 | 2024-06-11 |  |
 | [Pineapple](https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Pineapple](https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF) | 3:16 | 2022-04-14 | 2022-04-27 |
 | [Place Under the Sun](https://open.spotify.com/track/4x1NJb0hSXhT042UVh6jky) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Place Under the Sun](https://open.spotify.com/album/0yN7pXxZ5vcUTLv91aVdxa) | 3:24 | 2024-05-23 |  |
 | [Plain Gold Ring](https://open.spotify.com/track/4AxT7oW02TqO772n6SGrfh) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Plain Gold Ring](https://open.spotify.com/album/2ODjvtrRFwJ2WCl7fL4uzQ) | 4:24 | 2022-04-14 | 2022-04-29 |
@@ -909,7 +911,7 @@
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 | 2022-04-14 | 2022-07-29 |
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/45co7gWEhnZevNaWbPlW3W) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/5z1LcLw1QCXDjtMy9WYT1p) | 4:05 | 2022-06-30 | 2022-10-08 |
 | [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 |  |
-| [Spirited Away](https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Spirited Away](https://open.spotify.com/album/6hbNsW5mwt435LHpDk8GTa) | 3:11 | 2023-08-31 |  |
+| [Spirited Away](https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Spirited Away](https://open.spotify.com/album/6hbNsW5mwt435LHpDk8GTa) | 3:11 | 2023-08-31 | 2024-06-14 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2022-04-14 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 | 2023-04-21 |
 | [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-04-14 |  |

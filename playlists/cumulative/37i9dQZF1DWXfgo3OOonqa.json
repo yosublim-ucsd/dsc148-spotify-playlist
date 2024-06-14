@@ -5733,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "City",
+        "url": "https://open.spotify.com/album/6sjkB0AH597Q132AnxNVPE"
+      },
+      "artists": [
+        {
+          "name": "Deso",
+          "url": "https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129744,
+      "name": "City",
+      "url": "https://open.spotify.com/track/6mHTj7Nn58OxQNuwYDIvmA"
+    },
+    {
+      "album": {
         "name": "City (feat. A36)",
         "url": "https://open.spotify.com/album/1q1NTZmXxIkRSpH8y59Dy8"
       },
@@ -6398,7 +6416,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 149290,
       "name": "Daddy Issues (feat. Simon Superti)",
       "url": "https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL"
@@ -7002,7 +7020,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 135692,
       "name": "Dimman",
       "url": "https://open.spotify.com/track/6c14bUlL2R9l4UKPWrxMUY"
@@ -7378,6 +7396,24 @@
       "duration_ms": 164013,
       "name": "DOWN (\u00c4nnu En Dag)",
       "url": "https://open.spotify.com/track/2se5lyh0kIRExs3XYBuFdI"
+    },
+    {
+      "album": {
+        "name": "Down Bad: /",
+        "url": "https://open.spotify.com/album/246kS4D8OhZ15JdydJavRa"
+      },
+      "artists": [
+        {
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152228,
+      "name": "Down Bad: /",
+      "url": "https://open.spotify.com/track/3NGHi9C807btyUCW5VYsaA"
     },
     {
       "album": {
@@ -9326,6 +9362,28 @@
       "duration_ms": 176842,
       "name": "FLEXIN",
       "url": "https://open.spotify.com/track/2cqUXsUE6KjtfPGDAhGj7l"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/2dNVOjsOQIio7YWGOs8rz8"
+      },
+      "artists": [
+        {
+          "name": "ISON",
+          "url": "https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5"
+        },
+        {
+          "name": "Malcolm B",
+          "url": "https://open.spotify.com/artist/0RLWJI1UwVofxre5k3py4a"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246141,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/0vW6ekq1Zkt9sk7mvsmFOK"
     },
     {
       "album": {
@@ -18754,7 +18812,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 172056,
       "name": "MINNS DU? (feat. Thomas Stenstr\u00f6m)",
       "url": "https://open.spotify.com/track/2lhyyg07nsxZ6pB35ZtCcp"
@@ -19241,6 +19299,28 @@
     },
     {
       "album": {
+        "name": "My Hood",
+        "url": "https://open.spotify.com/album/1A2o4sWfmwx6JG5nSYRGE6"
+      },
+      "artists": [
+        {
+          "name": "Seedy",
+          "url": "https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv"
+        },
+        {
+          "name": "Nuqi",
+          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "My Hood",
+      "url": "https://open.spotify.com/track/3gMzL7A5pukEGEYB33s2Qs"
+    },
+    {
+      "album": {
         "name": "M\u00e5la allting svart",
         "url": "https://open.spotify.com/album/5885FOw8vTisb2BnPtdIQG"
       },
@@ -19698,6 +19778,28 @@
       "duration_ms": 173793,
       "name": "No Cap",
       "url": "https://open.spotify.com/track/2HSq5Cx3jNOnXO5p33MeSJ"
+    },
+    {
+      "album": {
+        "name": "No Lie",
+        "url": "https://open.spotify.com/album/78aPWciOceMuXt9dG5W030"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/6JxqXcyBuObEyIYieIsUZy"
     },
     {
       "album": {
@@ -20922,6 +21024,24 @@
       "duration_ms": 157000,
       "name": "Papi",
       "url": "https://open.spotify.com/track/7Ey5RUzLbRqndxNFZGxBSQ"
+    },
+    {
+      "album": {
+        "name": "Papi Chulo",
+        "url": "https://open.spotify.com/album/0cVwVDQvOnVJzH9rTj2vFv"
+      },
+      "artists": [
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114418,
+      "name": "Papi Chulo",
+      "url": "https://open.spotify.com/track/7HVcGoN0lpUv8idsyeP8ml"
     },
     {
       "album": {
@@ -25590,7 +25710,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 159428,
       "name": "S\u00e5 wavy jag kan d\u00f6",
       "url": "https://open.spotify.com/track/1KuWvCVZLoTKTjb1My3LyG"
@@ -25616,7 +25736,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 238000,
       "name": "S\u00e5nna som oss",
       "url": "https://open.spotify.com/track/49gKuD2jvwn5GUp82uZ6zC"
@@ -27456,6 +27576,28 @@
       "duration_ms": 101559,
       "name": "Turbo S",
       "url": "https://open.spotify.com/track/0DEpDFlJZmU0mdOu8LKTzd"
+    },
+    {
+      "album": {
+        "name": "Turbulens",
+        "url": "https://open.spotify.com/album/7KYXSmVCy0HhsnPU6Rlrov"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Stakset",
+          "url": "https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI"
+        },
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171239,
+      "name": "Turbulens",
+      "url": "https://open.spotify.com/track/6ezDmid4nFRUNchRTWPE2u"
     },
     {
       "album": {
@@ -30060,7 +30202,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 180667,
       "name": "\u00d6vertramp",
       "url": "https://open.spotify.com/track/0zihCT6mFDwiyi9oM6pZ1R"

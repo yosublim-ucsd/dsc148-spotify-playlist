@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 176979,
       "name": "Ata Nte",
       "url": "https://open.spotify.com/track/6s9oPzxVihiBjCzXR2R9vu"
@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/0ztyfTANJx4OTr8O7NsQkP"
+      },
+      "artists": [
+        {
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176039,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/24z7VYMP6x4B8GKs6bxTd6"
+    },
+    {
+      "album": {
         "name": "Don't Stopp",
         "url": "https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9"
       },
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 207229,
       "name": "Embaga Ya Isma Na Amina",
       "url": "https://open.spotify.com/track/27WeTg92aDBNGMTwAzlFDC"
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 189000,
       "name": "Muntu Wange",
       "url": "https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3"
@@ -4352,6 +4370,24 @@
       "duration_ms": 184476,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6G7pOzNocRnRigGynUgrKP"
+    },
+    {
+      "album": {
+        "name": "Onoozina",
+        "url": "https://open.spotify.com/album/4YOy8mwEBEM98SbTIfoAG3"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Onoozina",
+      "url": "https://open.spotify.com/track/7CKNfjd9FA3ll9MrF5xEJb"
     },
     {
       "album": {
@@ -6156,6 +6192,28 @@
       "duration_ms": 202666,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
+    },
+    {
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/5K24e3yL1z69UyCIg73XBj"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Weasel",
+          "url": "https://open.spotify.com/artist/6bbBW2Vzm66qGixSATiwJs"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161175,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/4pTML0pgOyaVCtD1FUUi9A"
     },
     {
       "album": {

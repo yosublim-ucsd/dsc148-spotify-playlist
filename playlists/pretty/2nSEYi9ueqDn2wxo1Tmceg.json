@@ -1,12 +1,12 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Ela Minus",
-  "num_followers": 66940,
+  "num_followers": 66943,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPdQSrwPw4RQ4XrlnQjevpJ/Qc7xj3",
+  "snapshot_id": "AAAPdm42MrR+SqkG95Nf15vq7QnhSPTE",
   "tracks": [
     {
       "added_at": "2024-06-12 14:03:13",
@@ -39,6 +39,26 @@
       "duration_ms": 247500,
       "name": "They",
       "url": "https://open.spotify.com/track/2PPDGJXpa2IoX1tVsi4WBm"
+    },
+    {
+      "added_at": "2024-06-13 14:36:19",
+      "album": {
+        "name": "Vampire Tongues",
+        "url": "https://open.spotify.com/album/1mzUcrfYKr2gNX2Re6CnqG"
+      },
+      "artists": [
+        {
+          "name": "Avey Tare",
+          "url": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 234558,
+      "name": "Vampire Tongues",
+      "url": "https://open.spotify.com/track/4xrf1X5xuovNQbFbpgdvGE"
     },
     {
       "added_at": "2024-06-12 14:03:13",

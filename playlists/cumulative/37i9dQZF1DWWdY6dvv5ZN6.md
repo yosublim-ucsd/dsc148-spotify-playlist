@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-201 songs - 13 hr 45 min
+202 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,12 +119,13 @@
 | [Lovely Lauren](https://open.spotify.com/track/4WTDKckbqd2Zw9TKnNf2lU) | [Oliver Jones](https://open.spotify.com/artist/72RwX1W0nXbZKYr8687l0X) | [The Many Moods Of Oliver Jones](https://open.spotify.com/album/5wN6mff2fgZ4AJx6lsi7FM) | 4:57 | 2024-04-16 |  |
 | [Lulu's Dream](https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV) | [Joy Lapps](https://open.spotify.com/artist/1Lkx061Y0k6Szk3Ee0KI2V) | [Girl In The Yard](https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9) | 6:55 | 2024-04-16 |  |
 | [Lót Bó](https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj) | [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8) | [MDR](https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW) | 3:36 | 2024-04-16 |  |
+| [Map Vini \(Kilo jam\)](https://open.spotify.com/track/23VB836x5wXVQRXKmLt86J) | [Marvin Caleb](https://open.spotify.com/artist/3vR1xfC7leN8JqtN7eFqlF) | [Map Vini \(Kilo jam\)](https://open.spotify.com/album/2HroQM9InYhueZjC3Jnivf) | 2:40 | 2024-06-13 |  |
 | [Mario Takes A Walk](https://open.spotify.com/track/196skioy5snNKHiJrcD7D8) | [Jesse Cook](https://open.spotify.com/artist/0fZ2s0I6Gyt60JUJybaEZA) | [Gravity](https://open.spotify.com/album/0dH4Mwx76Dw31gUaOlcEK8) | 3:49 | 2024-04-16 |  |
 | [Mediterranean Sundance](https://open.spotify.com/track/7lflARLzeb71KjdYPU7CFt) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Elegant Gypsy](https://open.spotify.com/album/2aZJ2ficY62PipHzQRJ7IK) | 5:12 | 2024-04-16 |  |
 | [meet me in brooklyn](https://open.spotify.com/track/6QkOMriITXf0oqpga33HnP) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 1:29 | 2024-04-16 |  |
 | [Melissa](https://open.spotify.com/track/6ypmZgQLHp12CmqiURO8vZ) | [Django Festival All Stars](https://open.spotify.com/artist/3qfsfDeal6JCGP4VQegk6W) | [Live at Birdland & More!](https://open.spotify.com/album/1I8I2GFC5Z7KD4SipG06Zg) | 4:20 | 2024-04-16 |  |
 | [Memory Blues](https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo) | [Endrick & the Sandwiches](https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5) | [Memory Blues](https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn) | 3:34 | 2024-04-16 |  |
-| [Mentally exhausted](https://open.spotify.com/track/4vxFg07fxbiZSliC6aTB1W) | [Marvin Caleb](https://open.spotify.com/artist/3vR1xfC7leN8JqtN7eFqlF) | [Mentally exhausted](https://open.spotify.com/album/2s5X11NpkA0zHD4Iheipey) | 2:12 | 2024-05-29 |  |
+| [Mentally exhausted](https://open.spotify.com/track/4vxFg07fxbiZSliC6aTB1W) | [Marvin Caleb](https://open.spotify.com/artist/3vR1xfC7leN8JqtN7eFqlF) | [Mentally exhausted](https://open.spotify.com/album/2s5X11NpkA0zHD4Iheipey) | 2:12 | 2024-05-29 | 2024-06-14 |
 | [Miénteme](https://open.spotify.com/track/2u79bMbsXBvNxh4rlAfB7L) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Bu Cuaron](https://open.spotify.com/artist/436VIztZC1jpD8Pzo5rvUj) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:10 | 2024-05-29 |  |
 | [Moments](https://open.spotify.com/track/2Eht4JfVvC0uq3LarpLE7Y) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Palms](https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9) | 2:35 | 2024-04-16 |  |
 | [Motorik](https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB) | [Patche](https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1) | [Patche](https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr) | 5:42 | 2024-04-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: CloZee and LSDREAM",
-  "num_followers": 475866,
+  "num_followers": 475833,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Forever (feat. Elley Duh\u00e9)",
+      "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
         "name": "Say It Like You Mean It (feat. Olivia Ray)",
         "url": "https://open.spotify.com/album/1h1dauZNyr2eMj0nvr08Qk"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 222400,
       "name": "Say It Like You Mean It (feat. Olivia Ray)",
       "url": "https://open.spotify.com/track/23IQCi0cYPApCxGN66VufO"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "Forever (feat. Elley Duh\u00e9)",
-      "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -2059,30 +2059,6 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Light Up The Sky (feat. Scott Stapp)",
-        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Scott Stapp",
-          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
-        }
-      ],
-      "duration_ms": 284425,
-      "name": "Light Up The Sky (feat. Scott Stapp)",
-      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
         "name": "Gone For Good",
         "url": "https://open.spotify.com/album/0GHEFiBavHmTcOoKqnnD18"
       },
@@ -2103,6 +2079,30 @@
       "duration_ms": 181714,
       "name": "Gone For Good",
       "url": "https://open.spotify.com/track/7wrWHbHWCDka64pTNjabae"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
+        "name": "Light Up The Sky (feat. Scott Stapp)",
+        "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Scott Stapp",
+          "url": "https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql"
+        }
+      ],
+      "duration_ms": 284425,
+      "name": "Light Up The Sky (feat. Scott Stapp)",
+      "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "SpaceMan Zack",
-          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
         "name": "Heaven Again",
         "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 232000,
       "name": "Heaven Again",
       "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "SpaceMan Zack",
+          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Haunted Haus",
-        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
-      },
-      "artists": [
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
         "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
         "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
       },
@@ -2491,26 +2475,6 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
-      },
-      "artists": [
-        {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "Fazzi",
-          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
-        }
-      ],
-      "duration_ms": 195775,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/7GVWcY59uFRkHjs5AVE6TA"
       },
@@ -2531,6 +2495,42 @@
       "duration_ms": 160000,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/20ePZuhPTGozzBTkPH1fKv"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
+        "name": "Haunted Haus",
+        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
+      },
+      "artists": [
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/6KBUEVEIUgW9RiEzL8bNB9"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Fazzi",
+          "url": "https://open.spotify.com/artist/3OTNYknB5MLQThZnE8XbOI"
+        }
+      ],
+      "duration_ms": 195775,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/33dJ18Itb7N0WRABXJh2bH"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -2667,26 +2667,6 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Feel Nothing",
-        "url": "https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2"
-      },
-      "artists": [
-        {
-          "name": "Kozmoz",
-          "url": "https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4"
-        },
-        {
-          "name": "CELO",
-          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "Feel Nothing",
-      "url": "https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/1sVOjksWKAB963CfPAi36A"
       },
@@ -2707,6 +2687,26 @@
       "duration_ms": 201931,
       "name": "The Call",
       "url": "https://open.spotify.com/track/6eqma9IlfnFFxpZFDooc3z"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
+        "name": "Feel Nothing",
+        "url": "https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2"
+      },
+      "artists": [
+        {
+          "name": "Kozmoz",
+          "url": "https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Feel Nothing",
+      "url": "https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
         "name": "Made For",
         "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
@@ -2859,22 +2843,18 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B"
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/4dno18wmZxZldvHiApenIa"
       },
       "artists": [
         {
-          "name": "Last Heroes",
-          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
-        },
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe"
+      "duration_ms": 210000,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/1lM7pNocZRjhiK7VK2VRTQ"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -2915,6 +2895,26 @@
       "duration_ms": 228333,
       "name": "Violet Sky (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/0AavjOVECKCakzcwPQ7D8B"
+      },
+      "artists": [
+        {
+          "name": "Last Heroes",
+          "url": "https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97"
+        },
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -2983,30 +2983,6 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "SACRIFICE EP",
-        "url": "https://open.spotify.com/album/5l81wifWFUn2LD5m4MlNgh"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/2kUq2iP9VsoIyH48plCbE8"
-    },
-    {
-      "added_at": "2024-06-07 04:44:38",
-      "album": {
         "name": "Nobody Compares",
         "url": "https://open.spotify.com/album/1Qc38fCylJ6HKvgWfxAxUA"
       },
@@ -3039,6 +3015,30 @@
       "duration_ms": 200859,
       "name": "Did You Really?",
       "url": "https://open.spotify.com/track/75WtlfvvdmR1GWdaA6oZ6d"
+    },
+    {
+      "added_at": "2024-06-07 04:44:38",
+      "album": {
+        "name": "SACRIFICE EP",
+        "url": "https://open.spotify.com/album/5l81wifWFUn2LD5m4MlNgh"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/2kUq2iP9VsoIyH48plCbE8"
     },
     {
       "added_at": "2024-06-07 04:44:38",
@@ -3119,22 +3119,26 @@
     {
       "added_at": "2024-06-07 04:44:38",
       "album": {
-        "name": "Glow In The Dark",
-        "url": "https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85"
+        "name": "Never Go Back",
+        "url": "https://open.spotify.com/album/4Um0ybuMNGabnrlBv0tJSD"
       },
       "artists": [
         {
-          "name": "Friendzone",
-          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
         },
         {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU"
+      "duration_ms": 198400,
+      "name": "Never Go Back",
+      "url": "https://open.spotify.com/track/72HLQHccuxrH5rHxAzHeKT"
     }
   ],
   "unique_name": "Bass Lounge",

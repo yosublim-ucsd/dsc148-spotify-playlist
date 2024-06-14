@@ -141,6 +141,32 @@
     },
     {
       "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        },
+        {
+          "name": "Sathyan Ilanko",
+          "url": "https://open.spotify.com/artist/0GbNmLZKI7PpYKVkw26wnN"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+    },
+    {
+      "album": {
         "name": "Aasa Malli",
         "url": "https://open.spotify.com/album/5HkwcdH3bgI7ATBRteLAwx"
       },
@@ -756,7 +782,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 244991,
       "name": "Anbe",
       "url": "https://open.spotify.com/track/435Cg6XcTpkVrBiYn4Ya01"
@@ -1210,7 +1236,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 217845,
       "name": "Azhagey (feat. Sabari)",
       "url": "https://open.spotify.com/track/5Ke6Hvqn6fcU8fxSd7t2oE"
@@ -2014,7 +2040,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 183280,
       "name": "Edho Unnale",
       "url": "https://open.spotify.com/track/7FNKAUfUFqnK3hmQdaL38D"
@@ -4422,7 +4448,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 285000,
       "name": "Karpanail Meedhakkanuma",
       "url": "https://open.spotify.com/track/4MsoGBBq9uUJckv08Ldibe"
@@ -4564,7 +4590,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 184269,
       "name": "Kazhivara",
       "url": "https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m"
@@ -4802,7 +4828,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 292142,
       "name": "LaaLaatu - Sangu Kazhuthazagu",
       "url": "https://open.spotify.com/track/6xbeOgGCf2v8oJud91OdC5"
@@ -5702,7 +5728,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 193170,
       "name": "Mayakkam",
       "url": "https://open.spotify.com/track/2gkiPPb1kjvPrR55I5z1zz"
@@ -6070,7 +6096,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 226909,
       "name": "Mounangal Pothume",
       "url": "https://open.spotify.com/track/6ER0LQfB3rvmeMq0J6G4XT"
@@ -6778,7 +6804,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 178285,
       "name": "Neethan En Rani",
       "url": "https://open.spotify.com/track/7s4NKgq4iSeJKgdpU3jvDX"
@@ -8550,7 +8576,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 209142,
       "name": "Pona Poraley",
       "url": "https://open.spotify.com/track/1Wbsi01k4nMBSXddvS4QrR"
@@ -8902,7 +8928,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 187058,
       "name": "Rayil Pogum Idam",
       "url": "https://open.spotify.com/track/2pWUNHtUmNNKfvLGIsSKLN"
@@ -10052,7 +10078,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 257500,
       "name": "Thathalithen",
       "url": "https://open.spotify.com/track/0tR9ONL0jexF09Z8FEAnc1"
@@ -10796,7 +10822,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 135145,
       "name": "Vaa Kanmani",
       "url": "https://open.spotify.com/track/17TL62JqWKgaqBiK7LncU1"
@@ -11396,7 +11422,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 229736,
       "name": "Vidiyum Oru Naal",
       "url": "https://open.spotify.com/track/0gStpRYPCKaDBstFJUcuxJ"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 66296,
+  "num_followers": 66307,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
         "name": "Lo Mejor 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
+        "name": "Princesita M\u00eda",
+        "url": "https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z"
       },
       "artists": [
         {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
         }
       ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+      "duration_ms": 391733,
+      "name": "Te Amo y Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -699,22 +715,6 @@
       "duration_ms": 162320,
       "name": "Michelada",
       "url": "https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
-        "name": "Princesita M\u00eda",
-        "url": "https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "Te Amo y Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Vuelve la Mezcla Perfecta",
-        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
-        }
-      ],
-      "duration_ms": 268053,
-      "name": "Vamos a Amarla los Dos",
-      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Voy a Ser",
         "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 264672,
       "name": "Como Te Va Mi Amor",
       "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Vuelve la Mezcla Perfecta",
+        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+        }
+      ],
+      "duration_ms": 268053,
+      "name": "Vamos a Amarla los Dos",
+      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
-      },
-      "artists": [
-        {
-          "name": "Los Inseparables",
-          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
-        }
-      ],
-      "duration_ms": 572865,
-      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Golero Emparamao",
         "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 268324,
       "name": "Golero Emparamao",
       "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
+      },
+      "artists": [
+        {
+          "name": "Los Inseparables",
+          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
+        }
+      ],
+      "duration_ms": 572865,
+      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/7hzxFuZcD5pQ0osuJnReD9"
-      },
-      "artists": [
-        {
-          "name": "Los Kuatreros Del Sur",
-          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
-        }
-      ],
-      "duration_ms": 274508,
-      "name": "Completamente Enamorado",
-      "url": "https://open.spotify.com/track/38z0QYf0EQZZrJIPJ3JQ7h"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "La Pololita",
         "url": "https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 200133,
       "name": "La Pololita",
       "url": "https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/7hzxFuZcD5pQ0osuJnReD9"
+      },
+      "artists": [
+        {
+          "name": "Los Kuatreros Del Sur",
+          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
+        }
+      ],
+      "duration_ms": 274508,
+      "name": "Completamente Enamorado",
+      "url": "https://open.spotify.com/track/38z0QYf0EQZZrJIPJ3JQ7h"
     },
     {
       "added_at": "2024-06-12 22:58:17",

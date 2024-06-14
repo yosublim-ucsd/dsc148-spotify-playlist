@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "As We Say Goodbye",
+        "url": "https://open.spotify.com/album/7Ii2hvgq8tlPv2BLCaQo80"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "As We Say Goodbye",
+      "url": "https://open.spotify.com/track/4scGI6ZJ4EwpgXY8RSApqw"
+    },
+    {
+      "album": {
         "name": "Ask Me Now",
         "url": "https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4"
       },
@@ -14036,7 +14054,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 200301,
       "name": "Old nobility",
       "url": "https://open.spotify.com/track/6yzt6of8UmXtXDApwgMfmr"
@@ -14670,6 +14688,24 @@
       "duration_ms": 255179,
       "name": "Phases",
       "url": "https://open.spotify.com/track/77jWYo4bR2WuhCwCMIKkpw"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4tdUUO1bWa0h0gijIBIIq9"
+      },
+      "artists": [
+        {
+          "name": "Tonic and their Time",
+          "url": "https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT"
+        }
+      ],
+      "date_added": "2024-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192005,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2bYlyQeTRZgfalIdw3VkkL"
     },
     {
       "album": {
@@ -16782,7 +16818,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 191026,
       "name": "Spirited Away",
       "url": "https://open.spotify.com/track/3eaM1LE28xBoGvIEv5E9qs"

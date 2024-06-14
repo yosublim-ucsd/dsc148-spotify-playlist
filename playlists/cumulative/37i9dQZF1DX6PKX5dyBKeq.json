@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Pozer",
   "name": "Rap UK",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 165187,
       "name": "10th Floor",
       "url": "https://open.spotify.com/track/245OHFpYqd3cvakVl7roVp"
@@ -5588,7 +5588,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 122307,
       "name": "BRB",
       "url": "https://open.spotify.com/track/2vclIrQ4lYOBp2nupf0tMO"
@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 245169,
       "name": "Buckingham Palace 2",
       "url": "https://open.spotify.com/track/5eDHhJDDv1DIfYTWB0MqKm"
@@ -11161,6 +11161,24 @@
     },
     {
       "album": {
+        "name": "Dundee",
+        "url": "https://open.spotify.com/album/3BAlFd5A5cniOXQ3jX99dR"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162687,
+      "name": "Dundee",
+      "url": "https://open.spotify.com/track/64fF8kyyZ0i55dgNuslZZM"
+    },
+    {
+      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/3yl3rqAx4USdg4NwNuJdSj"
       },
@@ -11716,7 +11734,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160000,
       "name": "ETA (feat. Luciano)",
       "url": "https://open.spotify.com/track/422qTU33m36TliSm27uONY"
@@ -12894,7 +12912,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 154630,
       "name": "Fooli",
       "url": "https://open.spotify.com/track/5heLGqSrA05UA70qoZsDBp"
@@ -13268,6 +13286,28 @@
       "duration_ms": 182346,
       "name": "Friendly (feat. Haile)",
       "url": "https://open.spotify.com/track/2p4JuLcTzhp6wuhCTYNyFH"
+    },
+    {
+      "album": {
+        "name": "VENI VIDI VICI",
+        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152853,
+      "name": "From Nothing (feat. Tion Wayne)",
+      "url": "https://open.spotify.com/track/5hEj90aNTCynvjvwhdU0YC"
     },
     {
       "album": {
@@ -14442,7 +14482,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 192000,
       "name": "GTA VI",
       "url": "https://open.spotify.com/track/6dsFGRYmKAb2Qj7A4HBirQ"
@@ -16449,6 +16489,24 @@
     },
     {
       "album": {
+        "name": "I'M TRYNA",
+        "url": "https://open.spotify.com/album/0qdg9SF90FBXDXxjNgMm6R"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "I'M TRYNA",
+      "url": "https://open.spotify.com/track/1ca2jDAcDOT79MYLRoaciZ"
+    },
+    {
+      "album": {
         "name": "I've Got You",
         "url": "https://open.spotify.com/album/12GfIhg16YrFut2e9hI4sq"
       },
@@ -17684,7 +17742,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 104014,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/4dH09bj0ghw3CpJbvCwsoi"
@@ -17816,6 +17874,24 @@
       "duration_ms": 214285,
       "name": "Just Eat (feat. Country Dons & SL)",
       "url": "https://open.spotify.com/track/5csDOVdTylKK8GopMuCQIe"
+    },
+    {
+      "album": {
+        "name": "JUST LIKE THAT",
+        "url": "https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138618,
+      "name": "JUST LIKE THAT",
+      "url": "https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb"
     },
     {
       "album": {
@@ -18106,7 +18182,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 163383,
       "name": "Kitchen Stove",
       "url": "https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm"
@@ -20002,7 +20078,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 149895,
       "name": "Love Don't Live Here",
       "url": "https://open.spotify.com/track/3BAk0wbzxqCsL1IXg8Lpgg"
@@ -20856,7 +20932,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 160776,
       "name": "Marathon Continues",
       "url": "https://open.spotify.com/track/4AiMQcJD1lTaowia5FIUMB"
@@ -21468,6 +21544,24 @@
       "duration_ms": 249824,
       "name": "Mini Me's",
       "url": "https://open.spotify.com/track/0Nfh3RkaFSCaL0MtpDSAG8"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6UJO00MBGxYEDSOzcwWivT"
+      },
+      "artists": [
+        {
+          "name": "sbk",
+          "url": "https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/2peuChzlpz0kOUaVCxqrAT"
     },
     {
       "album": {
@@ -25519,6 +25613,28 @@
     },
     {
       "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/2GB8YT45InH9HmpI8vnVxb"
+      },
+      "artists": [
+        {
+          "name": "Morrisson",
+          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157490,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/0BemN10heCx3DNPc5EvKi9"
+    },
+    {
+      "album": {
         "name": "PARK CHINOIS",
         "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
       },
@@ -26937,6 +27053,24 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/0Z79Vp3WkR5WcAwotdq4VX"
+      },
+      "artists": [
+        {
+          "name": "Lil Macks",
+          "url": "https://open.spotify.com/artist/0r8PPl6CXkR4SWhbyoSTLU"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204483,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/7jOSYSWJUKaxsTXiiUZhi4"
+    },
+    {
+      "album": {
         "name": "Where Should I Start?",
         "url": "https://open.spotify.com/album/2KYh0FFlMpBWJ6d0lPUtc6"
       },
@@ -27930,7 +28064,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 128955,
       "name": "Reflections (Outro)",
       "url": "https://open.spotify.com/track/2XzpSFemhFC2EoerPDgnwZ"
@@ -29298,6 +29432,24 @@
       "duration_ms": 131960,
       "name": "S.A.S",
       "url": "https://open.spotify.com/track/02a3soEFabQ27HV6PLd1Fc"
+    },
+    {
+      "album": {
+        "name": "sade",
+        "url": "https://open.spotify.com/album/1aCX6QNk94fByjeBIB6vJ1"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "sade",
+      "url": "https://open.spotify.com/track/1GUDbIsefLyNRuiOD5cI49"
     },
     {
       "album": {
@@ -32509,6 +32661,24 @@
     },
     {
       "album": {
+        "name": "SWEET!",
+        "url": "https://open.spotify.com/album/0Wqn2VnAp2TgnYl4fYfJ9U"
+      },
+      "artists": [
+        {
+          "name": "Daneo",
+          "url": "https://open.spotify.com/artist/5blhNLd8bFBF8unW1UmkEB"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137429,
+      "name": "SWEET!",
+      "url": "https://open.spotify.com/track/21awNo61z1hS73NJouUEwN"
+    },
+    {
+      "album": {
         "name": "Swerve Off",
         "url": "https://open.spotify.com/album/3pBVG3KwmVnYit5rACySqd"
       },
@@ -33208,6 +33378,36 @@
       "duration_ms": 157611,
       "name": "That's Money",
       "url": "https://open.spotify.com/track/2DklZOenvD23m4sq7OZzS1"
+    },
+    {
+      "album": {
+        "name": "The Curb Europe (feat. Blanco)",
+        "url": "https://open.spotify.com/album/7dwW1IAupisAm7DCPC7Ghi"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254611,
+      "name": "The Curb Europe (feat. Blanco)",
+      "url": "https://open.spotify.com/track/4ma8w1Jm2QJtVkC7pbOqjF"
     },
     {
       "album": {
@@ -34484,7 +34684,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 184372,
       "name": "Toxic Minds (feat. AntsLive & joe unknown)",
       "url": "https://open.spotify.com/track/5P9DssMSmpLDksnMsxdOXH"

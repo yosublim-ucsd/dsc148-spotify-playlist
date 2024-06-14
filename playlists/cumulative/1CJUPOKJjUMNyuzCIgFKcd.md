@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-194 songs - 8 hr 28 min
+194 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Too Rare](https://open.spotify.com/track/1xF8tLNYNwN0C2DYqm9hOD) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Too Rare](https://open.spotify.com/album/4EtToVVxMKpwptqnE3WOcF) | 3:22 | 2024-01-19 | 2024-05-21 |
 | [True Story](https://open.spotify.com/track/4etrFq2jb8oJr6cmC8wVKn) | [Drego & Beno](https://open.spotify.com/artist/7af6WhCUemo7a4L2fk5N2X) | [True Story](https://open.spotify.com/album/4fzpebldJNnxWbjL6KFd9c) | 2:17 | 2024-03-30 |  |
 | [TRY FOR ONCE \(feat\. Lil Yee\)](https://open.spotify.com/track/5pAKdaR73hkpr9c66HreTi) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [TRY FOR ONCE \(feat\. Lil Yee\)](https://open.spotify.com/album/5WF3NjVoViEnq1xT4zT2At) | 3:26 | 2023-12-01 | 2024-03-16 |
-| [TWO HI \(WAVES\) \(feat\. Channel Tres, Free Nationals & George Clinton\)](https://open.spotify.com/track/5uHMT76tdLP79z1yziVRjo) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [TWO HI \(WAVES\) \[feat\. Channel Tres, Free Nationals & George Clinton\]](https://open.spotify.com/album/6TPZCjtRmp7GsF6XuproDU) | 3:51 | 2024-05-20 |  |
+| [TWO HI \(WAVES\) \(feat\. Channel Tres, Free Nationals & George Clinton\)](https://open.spotify.com/track/5uHMT76tdLP79z1yziVRjo) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [TWO HI \(WAVES\) \[feat\. Channel Tres, Free Nationals & George Clinton\]](https://open.spotify.com/album/6TPZCjtRmp7GsF6XuproDU) | 4:28 | 2024-05-20 |  |
 | [UHN UHN](https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX) | [UHN UHN](https://open.spotify.com/album/4q39sUFDo0CBaerE3KlYeb) | 2:14 | 2023-09-05 | 2024-01-13 |
 | [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 | 2024-03-15 |  |
 | [Vacuum Seals & Money Counters](https://open.spotify.com/track/0gR11UbCTTx8ycCNFXj697) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Vacuum Seals & Money Counters](https://open.spotify.com/album/22VahKJmWjnyiQOWlBMVIr) | 1:43 | 2024-05-20 |  |

@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-577 songs - 1 day 0 hr 37 min
+586 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bad Day](https://open.spotify.com/track/5c7OUDQyUJbtqmqsIiwWzI) | [Kiko Kaid](https://open.spotify.com/artist/2DgElimlxH8vCyfILVlrqP) | [Moonlit Canvas](https://open.spotify.com/album/1SffCgrJNnq5YP0EKoKA4y) | 3:10 | 2023-03-10 | 2023-04-22 |
 | [bajo la luna](https://open.spotify.com/track/6MzqmDMctnS7fI0savOOtw) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [bajo la luna](https://open.spotify.com/album/6FOcsajbqcF0h8XP5bqqe3) | 2:14 | 2022-10-28 |  |
 | [bakis](https://open.spotify.com/track/2lzx5m2mJdh5cE9RWVONXq) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [bakis](https://open.spotify.com/album/0U9O5HnNdQTY0CYljsbIOA) | 2:06 | 2021-11-10 | 2022-07-08 |
+| [Bali](https://open.spotify.com/track/6cghtkjFuFchr0pWS5u7Va) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Bali](https://open.spotify.com/album/3ifiFjhJzuIEA4L2MQElfD) | 2:41 | 2024-06-13 |  |
 | [BBQ](https://open.spotify.com/track/5nj8Y2IWfRGbIlgu6vVBO6) | [TYPEII](https://open.spotify.com/artist/35nSiWzRYHK8oVC58VbIvm) | [BBQ](https://open.spotify.com/album/1kZUXRWCNCIsJiNUjrdOp2) | 2:08 | 2021-11-10 | 2022-04-15 |
 | [BEACH WAVES](https://open.spotify.com/track/5kh6cDKfut5E1J8mP8dX0Y) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [BEACH WAVES](https://open.spotify.com/album/3fmQEMS8WJ928ksqzceZF0) | 2:08 | 2021-11-10 | 2022-09-23 |
 | [Beale Street Stars](https://open.spotify.com/track/1r6goUjTs5ov71o7VxqQ1q) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Beale Street Stars](https://open.spotify.com/album/0SpNHJ4WoHoIkJiI8MX0xJ) | 2:51 | 2022-12-09 |  |
@@ -207,6 +208,7 @@
 | [glowing](https://open.spotify.com/track/1PoSImv99rLDkBwRDfmahe) | [Cafe Burrito](https://open.spotify.com/artist/1njjr5nwqbiRtFnoKPylMR) | [glowing](https://open.spotify.com/album/4J7Djn5UsvN10BKhq8B3Lj) | 2:36 | 2023-08-18 |  |
 | [Glowing Bay](https://open.spotify.com/track/6oEyetJ43K8dbu6VenlPxU) | [Thief Traveler](https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0) | [Glowing Bay](https://open.spotify.com/album/0Gf87FTCKvYoY1tKUaXLEg) | 2:57 | 2024-03-26 |  |
 | [go back to sleep](https://open.spotify.com/track/10iVkC7JmOcnde215g7Xn1) | [pretend penguin](https://open.spotify.com/artist/0d3VJgvWH9XP3S57lQP8p8) | [go back to sleep](https://open.spotify.com/album/0IqthodrjaI1HGLjF8gM7e) | 2:11 | 2021-11-10 | 2022-08-20 |
+| [Golden Space](https://open.spotify.com/track/2D4HYGKgWv6LK2PCDF4baf) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Golden Space](https://open.spotify.com/album/4eGDoVpLyMZKN8cn5Ui93m) | 3:00 | 2024-06-13 |  |
 | [good morning, sunshine](https://open.spotify.com/track/7kQaX1eybj2Ft2QOyfpk7V) | [everything i wanted](https://open.spotify.com/artist/09tjl9q88SYz1n4I79is4s) | [good morning, sunshine](https://open.spotify.com/album/3ImmP3rm6ICaZkAOPCUfRD) | 2:24 | 2022-10-28 |  |
 | [Good Times](https://open.spotify.com/track/1pMGrPoq0hGv57n5ak7hUX) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Youthica](https://open.spotify.com/album/7BCuzmHi1yX3Zc6nWGIalm) | 2:33 | 2023-05-26 |  |
 | [Goose Games](https://open.spotify.com/track/0PcCrRxuKEvNomRwgemD3C) | [Mermidion](https://open.spotify.com/artist/6dxg8A6WRlDuo3xumzXGyU) | [Bolides](https://open.spotify.com/album/0eI7NVfoJebexmUL7XGlX2) | 2:29 | 2022-06-10 | 2022-07-01 |
@@ -215,6 +217,7 @@
 | [grenadine](https://open.spotify.com/track/7ILFq1DgzrSm8vJE0GINBY) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [grenadine](https://open.spotify.com/album/0tBFQCg1QzmVCraGDfEqAl) | 2:53 | 2022-04-15 | 2023-02-08 |
 | [Ham On Rye](https://open.spotify.com/track/1YHe10629RcHU4qusWR9b1) | [Worn Tape](https://open.spotify.com/artist/6BohbICG26xpKvK0bXezmx) | [Ham On Rye](https://open.spotify.com/album/3kmS2l0JQwzlbcnR0S1hEV) | 2:04 | 2023-02-09 |  |
 | [Happy Lollo](https://open.spotify.com/track/3S2pim1uoTBkPNNIC9nurq) | [Creeti & Pleeti](https://open.spotify.com/artist/3t3fsmwdxmWrQJ1g7rCEkX) | [Happy Lollo](https://open.spotify.com/album/3MZr6N7xSk4VUtQzdX1nag) | 2:00 | 2021-11-10 | 2022-07-29 |
+| [Hawei](https://open.spotify.com/track/5fNHPeMkAdlt07nLMJQtwc) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Hawei](https://open.spotify.com/album/2lIzsSZr1utumIB9mDPXNk) | 2:18 | 2024-06-13 |  |
 | [Haze](https://open.spotify.com/track/2eEamAkO1cFzLiUVnMrlGy) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Haze](https://open.spotify.com/album/4KL2OyY3m1qum4FA63ws8l) | 3:26 | 2022-10-28 |  |
 | [Heartbeat](https://open.spotify.com/track/6GRpj6J1fpVqtUgnsth0Ea) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Heartbeat](https://open.spotify.com/album/2avjmz9VXH5vcXrjrHy1Yv) | 4:25 | 2021-11-10 | 2022-07-29 |
 | [Hearts](https://open.spotify.com/track/0eZJfUknR9uigunQEpNyuh) | [Arnos Grove](https://open.spotify.com/artist/70yqS0ADu1EIsaHcn8ebKf) | [Hearts](https://open.spotify.com/album/0GcBhx6XomVtvS4C2nD48y) | 2:09 | 2024-04-08 |  |
@@ -299,12 +302,14 @@
 | [Magic](https://open.spotify.com/track/6QLeR0bc0Iq3McZdan8Go3) | [Slowman](https://open.spotify.com/artist/26N8p8FkVBDkknf1icZGIl) | [Magic](https://open.spotify.com/album/1EYDbFXJjmhfBy4vNtZyvB) | 2:17 | 2022-08-19 |  |
 | [Magische Farben](https://open.spotify.com/track/4gvMBplqidY6XU4ZK5ITUQ) | [Karl Rosskopf](https://open.spotify.com/artist/4kpLFREUgmoCqpRrAjYhRw), [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Magische Farben](https://open.spotify.com/album/1NRFEGZ63qdhitJWNIyALL) | 2:48 | 2021-11-10 | 2022-05-11 |
 | [Magnolia](https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W) | [Chakra Lounge](https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944) | [Magnolia](https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un) | 3:13 | 2022-10-07 |  |
+| [Making Me Smile](https://open.spotify.com/track/3Gy4ZxWSFoP12Z6B4Pe7G2) | [Kayyyy](https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ) | [Making Me Smile](https://open.spotify.com/album/4Rf5G3OM56Di8bRkZA4VC6) | 2:44 | 2024-06-13 |  |
 | [Manhattan \(Edit\)](https://open.spotify.com/track/2XVuE0BCV1bkoOwTZdT0sk) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [Manhattan \(Edit\)](https://open.spotify.com/album/53Mdl4dpD3yyI14OpQn0XG) | 2:54 | 2022-10-28 |  |
 | [Marbella Sunrise](https://open.spotify.com/track/18lg2EZ2s3Ix6Xaiy26Doi) | [Marga Sol](https://open.spotify.com/artist/4y7BFiVRM23Sw8fUPcfXRI) | [Marbella Sunrise](https://open.spotify.com/album/17zuFbT22Y1m6irvfAzdo4) | 4:04 | 2022-05-27 |  |
 | [Marcus in Toyland](https://open.spotify.com/track/6QXotvrkA7vnx1qYULqamc) | [Lost In Los Angeles](https://open.spotify.com/artist/7hNdZmdfhLH5qi7Fr0Q7mO) | [Marcus in Toyland](https://open.spotify.com/album/2erTiHvq1ndlXSyJGmxlB5) | 2:46 | 2021-11-10 | 2022-04-15 |
 | [Masakali](https://open.spotify.com/track/5mFJuDff9EXZ5alWEQlGJX) | [Coral B](https://open.spotify.com/artist/1DJvGv67aZ94aP88pWYejR) | [Masakali](https://open.spotify.com/album/1qcDlD5cErR76hM1wpaNS9) | 3:06 | 2022-10-28 |  |
 | [Massachusetts](https://open.spotify.com/track/4aLKDpv19Y6eH21QZPmiUR) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Massachusetts](https://open.spotify.com/album/0dQ8osFOicaP7MFmU0Css2) | 2:12 | 2021-11-10 | 2022-07-08 |
 | [Matterrock](https://open.spotify.com/track/3lFNPRDkohIw232d76kfoU) | [Firewatcher](https://open.spotify.com/artist/6Z9gMZiGWDamJBQnc8boHX) | [Mystics](https://open.spotify.com/album/1reM4LXQrd4yDpOwY1JRhn) | 3:12 | 2021-11-10 | 2022-01-22 |
+| [Meditations](https://open.spotify.com/track/7rf5dk45hA9ewm2RfQzzbo) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [Meditations](https://open.spotify.com/album/4KdVbjH5wWWSC1qclnb9J5) | 2:40 | 2024-06-13 |  |
 | [melancoly](https://open.spotify.com/track/5aVFYvqNjL8qnPwComEQYz) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [melancoly](https://open.spotify.com/album/1dkjpbHVKYmfIHfg4uGFM6) | 1:28 | 2022-12-09 | 2023-07-29 |
 | [Mellow Apricot](https://open.spotify.com/track/3oaQCIkZDZ63S1XDRMS1M4) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Mellow Apricot](https://open.spotify.com/album/0wJERxcVbXD01mgOQgswuy) | 2:07 | 2022-01-21 | 2022-08-20 |
 | [Mellow Workday](https://open.spotify.com/track/0ykidTEReV77x9cUYoEUEt) | [Arctic T](https://open.spotify.com/artist/2Rw27XZ3vKwMqr11yhHwDw) | [Mellow Workday](https://open.spotify.com/album/4NyDnXoaMFuenXHEOWZ5LE) | 2:07 | 2021-11-10 | 2022-06-03 |
@@ -368,6 +373,7 @@
 | [One More Chance](https://open.spotify.com/track/74u8Oi33nb7F0rT3QUEOxD) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [One More Chance](https://open.spotify.com/album/30pyUMMvt5woLa1GzSKl5g) | 1:28 | 2022-10-07 | 2023-07-29 |
 | [One More Night](https://open.spotify.com/track/5p5LL70T1CZzKt543otFg0) | [Chatterjee](https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G) | [One More Night](https://open.spotify.com/album/0UAEjxNR74o5X6Qe9Ugthg) | 3:27 | 2022-11-25 | 2023-03-10 |
 | [Only Through Enlightenment](https://open.spotify.com/track/4YK0viVtLMNg58qQs10rF1) | [Spinning Eye](https://open.spotify.com/artist/1bBb8bJslH6Z4JUr2DgaCU) | [Old School Beats](https://open.spotify.com/album/2ImM3in9ITJOxD3euym4tN) | 1:41 | 2022-04-15 | 2023-07-29 |
+| [Organics](https://open.spotify.com/track/3gAjJQh87hW5RaXyxG8xaH) | [Comfykids](https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2) | [Organics](https://open.spotify.com/album/60280VPItm1mMa8W8IOVfU) | 2:40 | 2024-06-13 |  |
 | [Out Of Nothing](https://open.spotify.com/track/1JT9cRJV8IyQT1aWKV0cxM) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Out Of Nothing](https://open.spotify.com/album/0qieGIV1ehZACjDA04nTST) | 2:58 | 2021-11-10 | 2022-04-15 |
 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 | 2021-11-10 | 2022-01-22 |
 | [out to sea](https://open.spotify.com/track/0nOwu86Ng6UtnnovLh9hpP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [out to sea](https://open.spotify.com/album/2ISmy0vWGQEwofWjLbITW6) | 2:28 | 2023-09-15 |  |
@@ -387,6 +393,7 @@
 | [Perdido en Memorias](https://open.spotify.com/track/6hmIKNKSobnnSP3KGhHM0d) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Perdido en Memorias](https://open.spotify.com/album/17VTCoOPYN8aFVk8Ah2V3A) | 2:09 | 2022-10-28 |  |
 | [Pina Colada](https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Pina Colada](https://open.spotify.com/album/3OMdzGnHYTefjOZqzWXefu) | 2:58 | 2022-07-01 |  |
 | [Pine away](https://open.spotify.com/track/7db2BY8DDmk3TCtrqucwLJ) | [oddfish](https://open.spotify.com/artist/00XnlbVSD75fXqU9zWOeQt) | [Pine away](https://open.spotify.com/album/6GGtcLuUUsZ4HYFmyvrefb) | 2:20 | 2022-12-09 |  |
+| [Pink Clouds](https://open.spotify.com/track/2YF1RVNUetGq90CbHz23tl) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Pink Clouds](https://open.spotify.com/album/1SWtOevSJat2m0GFNM0LPQ) | 2:54 | 2024-06-13 |  |
 | [Pitch Control](https://open.spotify.com/track/5dejK4xs8617r5vPh2Crzx) | [Chrome 97](https://open.spotify.com/artist/4qbAWphr98kry2SYzR9wPH) | [Pitch Control](https://open.spotify.com/album/1G6uyMc6ya9JJuy73tBFbo) | 2:30 | 2022-12-09 |  |
 | [Plucky](https://open.spotify.com/track/1H0IqXyiFc8OGAjyIfaFr9) | [Gaudeix](https://open.spotify.com/artist/1TIyHgc4lFrfKNUlLLAB7z) | [Plucky](https://open.spotify.com/album/7KcyMO4tOtEHauTkHcQzLx) | 2:27 | 2022-09-23 | 2023-07-07 |
 | [polygo](https://open.spotify.com/track/0xoyI2U8jQ4pYtc1uKg6Kw) | [Mauro Itzhak](https://open.spotify.com/artist/4ABZDpqLJ4IKly9Vx8sr9i) | [polygo](https://open.spotify.com/album/5aAmoVTtTnDqkOvnB4pm20) | 1:49 | 2022-09-02 | 2023-07-29 |
@@ -445,6 +452,7 @@
 | [Shadow Cycle](https://open.spotify.com/track/1zlbeVYcTnlW8fSCCBiTfj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 2:44 | 2022-07-15 |  |
 | [shhh!](https://open.spotify.com/track/3O1PLxwBkPciBux8JWIGir) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [shhh!](https://open.spotify.com/album/2mVmQ0wosGjjF2mExS52RF) | 2:28 | 2022-01-21 | 2023-01-13 |
 | [Shimmering](https://open.spotify.com/track/2uzQJY0ibdqTLZz3vmRxgv) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Shimmering](https://open.spotify.com/album/0qKuCV64xoMRuIyVIJmYoR) | 2:41 | 2022-08-05 | 2023-01-13 |
+| [Shoreline](https://open.spotify.com/track/59xZchlrXYm2tfdLxmf2A0) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Shoreline](https://open.spotify.com/album/3MbgUgv06qQmYmUilWVdzt) | 2:33 | 2024-06-13 |  |
 | [Significance](https://open.spotify.com/track/40kOkHN9gj13id2uK3wpmq) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Significance](https://open.spotify.com/album/4ngybQYtaNjyOBxkS79qn1) | 2:36 | 2023-07-21 |  |
 | [Signs](https://open.spotify.com/track/3eCSC3eQLNxeEuZYXNn9Cv) | [Fuze T](https://open.spotify.com/artist/7Eiei3IWCbX0zxoWoxR1KK) | [Signs](https://open.spotify.com/album/1JtW1AqCyudVBz1n4t0i5u) | 3:01 | 2022-04-05 | 2023-07-07 |
 | [silhouette dreams \- Edit](https://open.spotify.com/track/1L870Rzp5rvyzsC11nAIsj) | [Tamsui](https://open.spotify.com/artist/6SOhLUuAvygpfBHPq1BbbP) | [silhouette dreams \- Edit](https://open.spotify.com/album/1WubJMbvRR5syI1kRTqeNq) | 2:40 | 2023-01-13 |  |
@@ -487,6 +495,7 @@
 | [Streamer](https://open.spotify.com/track/6N8R2csfZSxqclNNiNjuyF) | [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Streamer](https://open.spotify.com/album/2QVtGzUuHwJlMUCwqPKsT6) | 1:53 | 2022-11-25 | 2023-07-29 |
 | [stuffin](https://open.spotify.com/track/6mb1iSZnSRH8gFhihPYl0A) | [youefoh](https://open.spotify.com/artist/5lLRYA4wx1a3WcdYiz9vYh) | [stuffin](https://open.spotify.com/album/26T3ADYF16bjYapOZgZaCO) | 2:32 | 2021-11-10 | 2022-05-11 |
 | [Style Stranger](https://open.spotify.com/track/0M33TAxfZialo30HwJUDIj) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [Style Stranger](https://open.spotify.com/album/746P5Q85sRZMmaMu2oolTa) | 2:19 | 2021-11-10 |  |
+| [Summer Right](https://open.spotify.com/track/1m1s63EvtvXuLSHR6GdBQD) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Summer Right](https://open.spotify.com/album/3VgihfMkwj432VOQBGGWNJ) | 3:05 | 2024-06-13 |  |
 | [Sun Dust](https://open.spotify.com/track/6S62v3zd7j4AA9MwyGdJlS) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sun Dust](https://open.spotify.com/album/7nMfNR8ZJ7b0dyc6zLz7P4) | 3:32 | 2021-11-10 | 2022-04-15 |
 | [Sun o'clock](https://open.spotify.com/track/3mLe9QMhMCcPvlkJgQbEi8) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Sun o'clock](https://open.spotify.com/album/4AxgTe4ALkZ41Eu0DKI2H9) | 2:17 | 2022-05-27 |  |
 | [Sunday Adventures](https://open.spotify.com/track/0VbkuDmoBUtdAAePWnyRP2) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Sunday Adventures](https://open.spotify.com/album/79a2OpVBeeAfdtDi3jm2ic) | 3:09 | 2022-02-10 |  |

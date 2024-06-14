@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld\n",
-  "num_followers": 466596,
+  "num_followers": 467475,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZllZUAAAAADn6YrzAQFiMo0KAUdADzQ3",
+  "snapshot_id": "ZmtSZwAAAAB6AFKUyuji2ySWdJSCHU8x",
   "tracks": [
     {
       "added_at": "2024-03-13 04:00:00",
@@ -25,62 +25,6 @@
       "url": "https://open.spotify.com/track/4keoRXcdwFkP8OzuJQ3ScK"
     },
     {
-      "added_at": "2024-02-21 14:57:30",
-      "album": {
-        "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6... (Remixes)",
-        "url": "https://open.spotify.com/album/6m5OWHRT8APtCCY0Rf1c4S"
-      },
-      "artists": [
-        {
-          "name": "vyrval",
-          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
-      "url": "https://open.spotify.com/track/440DONUaYDRuHmNKMJcz0R"
-    },
-    {
-      "added_at": "2024-03-21 23:05:36",
-      "album": {
-        "name": "DICE AND ROLL",
-        "url": "https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 120165,
-      "name": "DICE AND ROLL",
-      "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
-    },
-    {
-      "added_at": "2024-05-17 14:42:57",
-      "album": {
-        "name": "Party Like The 80s (w/ asteria & kets4eki)",
-        "url": "https://open.spotify.com/album/4344P6IpfJORVbqtsn6axP"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "Party Like The 80s (w/ asteria & kets4eki)",
-      "url": "https://open.spotify.com/track/3XOXq8XRUukhuLmRBVKhi1"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "ecstacy (slowed)",
@@ -97,48 +41,20 @@
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
-      "added_at": "2024-05-31 05:00:00",
+      "added_at": "2024-06-13 20:10:34",
       "album": {
-        "name": "ATTACHED!",
-        "url": "https://open.spotify.com/album/3fDc3vB1BohTSlPUKumipp"
+        "name": "drained to my core",
+        "url": "https://open.spotify.com/album/2zE8ZUNDuyUrffMSm1o9gl"
       },
       "artists": [
         {
-          "name": "d3r",
-          "url": "https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Pr\u00f6z",
-          "url": "https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX"
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
         }
       ],
-      "duration_ms": 194201,
-      "name": "ATTACHED!",
-      "url": "https://open.spotify.com/track/32YNMxnrZWNZbIdb4bWR9U"
-    },
-    {
-      "added_at": "2024-05-24 05:00:00",
-      "album": {
-        "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
-        "url": "https://open.spotify.com/album/4s8qlYYwSDxybyR7DkWkAJ"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        }
-      ],
-      "duration_ms": 109465,
-      "name": "DON'T UNDERSTAND IT (w/ kets4eki)",
-      "url": "https://open.spotify.com/track/2dEXSfIbrWCXpDqvzHC1sO"
+      "duration_ms": 150000,
+      "name": "drained to my core",
+      "url": "https://open.spotify.com/track/57nD3VBKdideEPqDEcWLbP"
     },
     {
       "added_at": "2024-03-29 14:56:57",
@@ -171,6 +87,126 @@
       "duration_ms": 123428,
       "name": "Faster n Harder",
       "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
+    },
+    {
+      "added_at": "2024-04-19 05:00:00",
+      "album": {
+        "name": "BREAK A NECK (w/ Ayesha Erotica)",
+        "url": "https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 116330,
+      "name": "BREAK A NECK (w/ Ayesha Erotica)",
+      "url": "https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp"
+    },
+    {
+      "added_at": "2024-02-21 14:57:30",
+      "album": {
+        "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6... (Remixes)",
+        "url": "https://open.spotify.com/album/6m5OWHRT8APtCCY0Rf1c4S"
+      },
+      "artists": [
+        {
+          "name": "vyrval",
+          "url": "https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "\u273bH+3+\u042f\u0414\u273b7luCJIo0T6...",
+      "url": "https://open.spotify.com/track/440DONUaYDRuHmNKMJcz0R"
+    },
+    {
+      "added_at": "2024-06-13 20:10:34",
+      "album": {
+        "name": "pick & choose",
+        "url": "https://open.spotify.com/album/2tjSmb4wml4iZIJj0zi43n"
+      },
+      "artists": [
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        }
+      ],
+      "duration_ms": 123502,
+      "name": "pick & choose",
+      "url": "https://open.spotify.com/track/45mWLCeuB5YnzqSp5eufV7"
+    },
+    {
+      "added_at": "2024-06-13 20:10:34",
+      "album": {
+        "name": "TELL ME LIES (w/ Odetari)",
+        "url": "https://open.spotify.com/album/2aqRDu300Y685accgkSGhr"
+      },
+      "artists": [
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133642,
+      "name": "TELL ME LIES (w/ Odetari)",
+      "url": "https://open.spotify.com/track/12Lbz6z4cu9HlltYVqwcPR"
+    },
+    {
+      "added_at": "2024-01-25 17:08:18",
+      "album": {
+        "name": "FUNKED UP",
+        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 115348,
+      "name": "FUNKED UP - SLOWED",
+      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "added_at": "2024-05-17 14:42:57",
+      "album": {
+        "name": "Party Like The 80s (w/ asteria & kets4eki)",
+        "url": "https://open.spotify.com/album/4344P6IpfJORVbqtsn6axP"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        },
+        {
+          "name": "asteria",
+          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
+        },
+        {
+          "name": "kets4eki",
+          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "Party Like The 80s (w/ asteria & kets4eki)",
+      "url": "https://open.spotify.com/track/3XOXq8XRUukhuLmRBVKhi1"
     },
     {
       "added_at": "2024-04-12 04:50:36",
@@ -213,40 +249,36 @@
       "url": "https://open.spotify.com/track/7DMJSnooQV6bXdSnq7qt95"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
+      "added_at": "2024-03-21 23:05:36",
       "album": {
-        "name": "BREAK A NECK (w/ Ayesha Erotica)",
-        "url": "https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk"
+        "name": "DICE AND ROLL",
+        "url": "https://open.spotify.com/album/7HjhTNKB0MZYWXiQF4VH5a"
       },
       "artists": [
         {
           "name": "Odetari",
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
         }
       ],
-      "duration_ms": 116330,
-      "name": "BREAK A NECK (w/ Ayesha Erotica)",
-      "url": "https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp"
+      "duration_ms": 120165,
+      "name": "DICE AND ROLL",
+      "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
     },
     {
-      "added_at": "2024-05-31 05:00:00",
+      "added_at": "2024-06-13 20:10:34",
       "album": {
-        "name": "HA-HA! (SLOWED + REVERB)",
-        "url": "https://open.spotify.com/album/4JrjwRulkxci5RHaJyCJdb"
+        "name": "CONSTELLATIONS",
+        "url": "https://open.spotify.com/album/3DLivVL4rA3oG944IaJsHQ"
       },
       "artists": [
         {
-          "name": "FORGOTTENAGE",
-          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
         }
       ],
-      "duration_ms": 139883,
-      "name": "HA-HA! - SLOWED + REVERB",
-      "url": "https://open.spotify.com/track/5kzJ7VqdMVxPJXlIZ8z499"
+      "duration_ms": 136006,
+      "name": "CONSTELLATIONS",
+      "url": "https://open.spotify.com/track/5tXtRo6gjMYXOGJTpaFPUR"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -281,26 +313,6 @@
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
-      "added_at": "2024-01-25 17:08:18",
-      "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
-        }
-      ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
-    },
-    {
       "added_at": "2024-05-31 05:00:00",
       "album": {
         "name": "LET YOU GO!",
@@ -323,6 +335,26 @@
       "duration_ms": 90491,
       "name": "LET YOU GO!",
       "url": "https://open.spotify.com/track/0mkbtM3GMMIxFBU6PLWchU"
+    },
+    {
+      "added_at": "2024-06-13 20:10:34",
+      "album": {
+        "name": "HOSTAGE!",
+        "url": "https://open.spotify.com/album/0QMW9peEFpoXLuN6rma5kW"
+      },
+      "artists": [
+        {
+          "name": "VERGE!",
+          "url": "https://open.spotify.com/artist/0hS7jkZooqk8W5DaKwbW4v"
+        },
+        {
+          "name": "xlout",
+          "url": "https://open.spotify.com/artist/75PX8lcu5vm4c9HOCqB6KX"
+        }
+      ],
+      "duration_ms": 238705,
+      "name": "HOSTAGE!",
+      "url": "https://open.spotify.com/track/52P2a3fasZIVdnle074lHY"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -355,54 +387,6 @@
       "duration_ms": 123062,
       "name": "ICEWHORE! - slowed",
       "url": "https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "XOXO (Kisses Hugs)",
-        "url": "https://open.spotify.com/album/7ypr8nw5re15S7r5XR8Q28"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "horrormovies",
-          "url": "https://open.spotify.com/artist/3FUMIWMYKoR9VlmLxrzIjA"
-        },
-        {
-          "name": "Pixel Hood",
-          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
-        }
-      ],
-      "duration_ms": 130785,
-      "name": "XOXO (Kisses Hugs)",
-      "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
-    },
-    {
-      "added_at": "2024-05-31 05:00:00",
-      "album": {
-        "name": "daily basis",
-        "url": "https://open.spotify.com/album/5pgxhbqyNxHVyqfun4UWLI"
-      },
-      "artists": [
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "daily basis",
-      "url": "https://open.spotify.com/track/7wRVwtFCYwnaWUX5DeztZT"
     },
     {
       "added_at": "2024-05-24 05:00:00",
@@ -521,6 +505,22 @@
       "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
     },
     {
+      "added_at": "2024-05-26 13:09:30",
+      "album": {
+        "name": "Tidal Memory Exo",
+        "url": "https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g"
+      },
+      "artists": [
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "New Species",
+      "url": "https://open.spotify.com/track/43IxujU228QDYxlnMcotzW"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "SHAKE THAT SHIT!",
@@ -543,22 +543,6 @@
       "duration_ms": 155028,
       "name": "SHAKE THAT SHIT!",
       "url": "https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN"
-    },
-    {
-      "added_at": "2024-05-26 13:09:30",
-      "album": {
-        "name": "Tidal Memory Exo",
-        "url": "https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g"
-      },
-      "artists": [
-        {
-          "name": "Iglooghost",
-          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "New Species",
-      "url": "https://open.spotify.com/track/43IxujU228QDYxlnMcotzW"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -689,26 +673,6 @@
       "url": "https://open.spotify.com/track/3QV4m1LpUixah1Ab2woVxl"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
-    },
-    {
       "added_at": "2024-05-17 14:42:57",
       "album": {
         "name": "VULTURES.",
@@ -723,46 +687,6 @@
       "duration_ms": 203007,
       "name": "VULTURES.",
       "url": "https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/0MqIdzr2Fp88ju0IREEzJX"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "PROJECT X",
-      "url": "https://open.spotify.com/track/0jMuuABfFQuARURU74MzSi"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "ULTRA INSTINCT (w/ kets4eki)",
-        "url": "https://open.spotify.com/album/4VlYotfJ2aC2E0Px7lKUoT"
-      },
-      "artists": [
-        {
-          "name": "asteria",
-          "url": "https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        }
-      ],
-      "duration_ms": 119794,
-      "name": "ULTRA INSTINCT (w/ kets4eki)",
-      "url": "https://open.spotify.com/track/3UXCy97AkTZ3LpthG82uXz"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -821,6 +745,26 @@
       "url": "https://open.spotify.com/track/4uTRXCFrOQ97tKYCLj9Dm8"
     },
     {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
       "added_at": "2024-04-19 05:00:00",
       "album": {
         "name": "CANADA (w/ jnhygs)",
@@ -875,30 +819,6 @@
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/3f1Jurx7wpabtVoxpLrtCE"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Hands up!",
-        "url": "https://open.spotify.com/album/4poweJXaiw4HwGhfvjMGkL"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        },
-        {
-          "name": "Pixel Hood",
-          "url": "https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh"
-        }
-      ],
-      "duration_ms": 134544,
-      "name": "Hands up!",
-      "url": "https://open.spotify.com/track/04gSLX5nUhkKiMe1geeqnA"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1129,30 +1049,6 @@
       "url": "https://open.spotify.com/track/32al0E3UafdMmOytlHwOK4"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "fuck with me (1273)",
-        "url": "https://open.spotify.com/album/72BVsoMpmff569VDMuqMJb"
-      },
-      "artists": [
-        {
-          "name": "Lytra",
-          "url": "https://open.spotify.com/artist/765caWhYCY7Yiw5F6jZZHg"
-        },
-        {
-          "name": "WASTY",
-          "url": "https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ"
-        },
-        {
-          "name": "kets4eki",
-          "url": "https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG"
-        }
-      ],
-      "duration_ms": 106765,
-      "name": "fuck with me (1273)",
-      "url": "https://open.spotify.com/track/4YvNM4CyQ1Ls0OHTi44jIv"
-    },
-    {
       "added_at": "2024-04-26 05:00:00",
       "album": {
         "name": "runaway girl",
@@ -1355,22 +1251,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "KRUSHFUNK",
-        "url": "https://open.spotify.com/album/3lrR3UwDlWftcazfxRrBS7"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 82008,
-      "name": "LOOKIN FOR YA",
-      "url": "https://open.spotify.com/track/2dcdT5V0ZdxMABFjlWRnuJ"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "Pink flame",
         "url": "https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ"
       },
@@ -1549,26 +1429,6 @@
       "url": "https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 124888,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P"
-    },
-    {
       "added_at": "2024-03-08 16:57:59",
       "album": {
         "name": "higher",
@@ -1623,26 +1483,6 @@
       "duration_ms": 185624,
       "name": "Thot K",
       "url": "https://open.spotify.com/track/5VPbUZPVASN9scsXak9kDB"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "SLUT SZN (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/2upZcpt2FczfbK9rsTgM34"
-      },
-      "artists": [
-        {
-          "name": "Kayla G",
-          "url": "https://open.spotify.com/artist/70a2f8eEAvvtz3uLxq35CL"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 129921,
-      "name": "SLUT SZN",
-      "url": "https://open.spotify.com/track/7nceGU89YkX0qbCmrXorxw"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1759,30 +1599,6 @@
     {
       "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "REPL4CE!",
-        "url": "https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        },
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "REPL4CE!",
-      "url": "https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
         "name": "sharp fangs",
         "url": "https://open.spotify.com/album/2LHH01c9fE0F4ZdJxlY1qa"
       },
@@ -1835,26 +1651,6 @@
       "duration_ms": 125004,
       "name": "PURPLE HEART (w/ Don Toliver)",
       "url": "https://open.spotify.com/track/7DRF9F5YevI4SjsKDpZsBw"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "LEMMEHXT",
-        "url": "https://open.spotify.com/album/3Cym7DPZUWiWKCpNtuT1Pk"
-      },
-      "artists": [
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        },
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 65387,
-      "name": "LEMMEHXT",
-      "url": "https://open.spotify.com/track/7zkxWHkuc8aKe2et9kaD9O"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1923,26 +1719,6 @@
       "duration_ms": 158961,
       "name": "amends",
       "url": "https://open.spotify.com/track/2zeyfLYqiAp0dkvaKY93HI"
-    },
-    {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "SEXTO SENTIDO",
-        "url": "https://open.spotify.com/album/0NmIsaBvZaGyf6hqyGbGqU"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        },
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        }
-      ],
-      "duration_ms": 76895,
-      "name": "SEXTO SENTIDO",
-      "url": "https://open.spotify.com/track/4cYUN0he5ndvrrqVscZEkF"
     },
     {
       "added_at": "2024-04-19 05:00:00",

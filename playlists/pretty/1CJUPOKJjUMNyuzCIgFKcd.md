@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,889 likes - 77 songs - 3 hr 26 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,886 likes - 77 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 10 | [The Hottest](https://open.spotify.com/track/2otNrH5529jrNFIpbiBV4N) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [The Hottest](https://open.spotify.com/album/5npj2Lwx5HKLm8rbx0KFFy) | 2:38 |
 | 11 | [Cashout](https://open.spotify.com/track/3jMkQImrpgdMpziv9WYj5v) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Have Money Have Heart](https://open.spotify.com/album/5k0hR6M4hFs6mS5X5wbqj5) | 2:33 |
 | 12 | [Collective Nights](https://open.spotify.com/track/6Rb2FMI2mVyc8vuNpjDNRo) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Rio Circa 2020](https://open.spotify.com/album/4ACoNEslRfttCqfj0LI4w0) | 2:46 |
-| 13 | [TWO HI \(WAVES\) \(feat\. Channel Tres, Free Nationals & George Clinton\)](https://open.spotify.com/track/5uHMT76tdLP79z1yziVRjo) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [TWO HI \(WAVES\) \[feat\. Channel Tres, Free Nationals & George Clinton\]](https://open.spotify.com/album/6TPZCjtRmp7GsF6XuproDU) | 3:51 |
+| 13 | [TWO HI \(WAVES\) \(feat\. Channel Tres, Free Nationals & George Clinton\)](https://open.spotify.com/track/5uHMT76tdLP79z1yziVRjo) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [TWO HI \(WAVES\) \[feat\. Channel Tres, Free Nationals & George Clinton\]](https://open.spotify.com/album/6TPZCjtRmp7GsF6XuproDU) | 4:28 |
 | 14 | [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 |
 | 15 | [swag it! \- Remix](https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [swag it! \(Remix\)](https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB) | 3:11 |
 | 16 | [Daboii Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboii Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 |

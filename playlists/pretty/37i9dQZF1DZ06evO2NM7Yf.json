@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 222,
+  "num_followers": 224,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAADwp+7PmkptJt86kNMlj92U",
+  "snapshot_id": "ZmjlAAAAAABm1oerceHN88/FF+TteMCB",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
+        "name": "breakup with a friend",
+        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
+      "duration_ms": 162000,
+      "name": "breakup with a friend",
+      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
     },
     {
       "added_at": null,

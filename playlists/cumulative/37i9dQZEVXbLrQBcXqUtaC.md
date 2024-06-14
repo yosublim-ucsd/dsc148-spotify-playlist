@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,286 songs - 3 day 2 hr 16 min
+1,287 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Ahb El Layil W Sahro](https://open.spotify.com/track/1uu7TktDJ3dnnMN4AZx9T8) | [Badr El Laimon](https://open.spotify.com/artist/6SiRTFzwOzOsYQf0dQIEM3) | [Ahb El Layil W Sahro](https://open.spotify.com/album/5jQKJpav3fQpgm6YCGO6zv) | 4:55 | 2022-10-14 | 2022-10-16 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-24 | 2021-08-02 |
 | [Ainsi Bas Laa Vidaa](https://open.spotify.com/track/4ocofxNnEsXWAGtPgy6f83) | [Voxxerd](https://open.spotify.com/artist/2Pc8og0aMfRE9HvDyHk6J4) | [Ainsi Bas Laa Vidaa](https://open.spotify.com/album/5YJRJI1HAx4VI7hyu2ig1z) | 2:07 | 2021-12-31 | 2022-01-08 |
-| [Akhsamna Tandas \- Remix](https://open.spotify.com/track/7mE7qSqqq7Bv5lm7r7ObMf) | [Shela](https://open.spotify.com/artist/5XX0kc57VhO7VSWcWXAFM9) | [Akhsamna Tandas \(Remix\)](https://open.spotify.com/album/23DhpQ1gxjJzeLsOGc5fty) | 2:49 | 2022-08-11 |  |
+| [Akhsamna Tandas \- Remix](https://open.spotify.com/track/7mE7qSqqq7Bv5lm7r7ObMf) | [Shela](https://open.spotify.com/artist/5XX0kc57VhO7VSWcWXAFM9) | [Akhsamna Tandas \(Remix\)](https://open.spotify.com/album/23DhpQ1gxjJzeLsOGc5fty) | 2:49 | 2022-08-11 | 2024-06-14 |
 | [AL ADEEB FE FAN ATTA'DEEB](https://open.spotify.com/track/3zBmOxmTNgDppTO55zlXZf) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [AL ADEEB FE FAN ATTA'DEEB](https://open.spotify.com/album/6KfnvxWCcxJ44AYepZy9wQ) | 3:50 | 2021-03-30 | 2021-03-31 |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2021-12-18 | 2022-05-28 |
 | [Alcohol\-Free](https://open.spotify.com/track/3iPbmpKBMflYd7UjdYftoj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE) | 3:30 | 2021-06-13 | 2021-06-14 |
@@ -350,7 +350,7 @@
 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-06-12 | 2024-03-12 |
 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 | 2023-08-08 | 2023-10-16 |
 | [Fresh Out The Slammer](https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:30 | 2024-04-20 | 2024-04-23 |
-| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 |  |
+| [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 | 2024-06-14 |
 | [FRI\(END\)S \(Instrumental\)](https://open.spotify.com/track/6G3myAs4HemIdtLYhhjGLP) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-16 | 2024-03-24 |
 | [FRI\(END\)S \(Slowed Down\)](https://open.spotify.com/track/4njgp1LC4XoUsnF3pN0WXX) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:42 | 2024-03-16 | 2024-03-24 |
 | [FRI\(END\)S \(Sped Up\)](https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:03 | 2024-03-16 | 2024-03-24 |
@@ -995,7 +995,7 @@
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-14 |
 | [The Moment](https://open.spotify.com/track/4g6zpIxbj9jb8ewGrV1kCE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 2:42 | 2021-07-18 | 2021-07-19 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-11-13 | 2024-04-19 |
-| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-04-18 | 2024-06-11 |
+| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-04-18 |  |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-13 | 2023-06-12 |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2023-12-01 | 2023-12-12 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-24 |
@@ -1145,6 +1145,7 @@
 | [اسأل عني ميت عايش \- مسرع](https://open.spotify.com/track/4RQQPDx2tS9XQ4WVGi4Hzv) | [MaqamMusic](https://open.spotify.com/artist/7BEbEqXU1xU7Uw0lO7jfme) | [اسأل عني ميت عايش \- مسرع](https://open.spotify.com/album/3IoxPc2S7daV9TBcDaERA3) | 3:29 | 2023-08-26 | 2023-09-17 |
 | [اسأل عني ميت عايش \- مسرع \|\| عراقي](https://open.spotify.com/track/7jDrbQRLZOAIP7kxw8vzvH) | [Museqar FM](https://open.spotify.com/artist/7nXG0bpysRfhhpF9iHBN9s) | [Speed Up عراقي](https://open.spotify.com/album/3MxAH1xwN9LykJ9MLxHyhJ) | 3:29 | 2024-02-02 | 2024-02-22 |
 | [اشكر جمالك](https://open.spotify.com/track/2gFZxR3Fur5t6fUzKgo7Y9) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/0CnyoumDAlz7cWYRzWccOa) | 4:54 | 2021-04-08 | 2022-02-13 |
+| [اغاني عراقي حزين \| الله وياه راح انساه \- ترك الروح بالم خلاها \- بطيئ](https://open.spotify.com/track/5pOrEeFOLrZiWaQPv9l1Qn) | [Mohamed Mahrous](https://open.spotify.com/artist/7vmWLnCGcy3AlNLEUCsUwH) | [اغاني عراقي حزين \| الله وياه راح انساه \- ترك الروح بالم خلاها \- بطيئ](https://open.spotify.com/album/0xCr0yZd6oyWMkfQELMFCa) | 4:33 | 2024-06-13 |  |
 | [اغاني عراقي حزين \| يتعبك يتعبك كون الله يتعبك .](https://open.spotify.com/track/1dSZXgfz8AHkWzLDH2b8xr) | [Mohamed Mahrous](https://open.spotify.com/artist/7vmWLnCGcy3AlNLEUCsUwH) | [اغاني عراقي حزين \| يتعبك يتعبك كون الله يتعبك .](https://open.spotify.com/album/7D0AzUFWNf0aOwPxLVTifz) | 7:48 | 2024-01-12 | 2024-01-14 |
 | [اقدح اقدح](https://open.spotify.com/track/2h8nveBGqqBD8ctxTtm9rs) | [Gaziy Bin Sahab](https://open.spotify.com/artist/6r7ArpYoS3neTbimme5iK0) | [شيلات غزاي بن سحاب](https://open.spotify.com/album/5eajc341Z6V6vZg3OXXaLE) | 3:57 | 2021-07-05 | 2021-07-07 |
 | [الا ياكبر حظي](https://open.spotify.com/track/1C1mHhtTjd84PT1zujIam1) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [الا ياكبر حظي](https://open.spotify.com/album/18lBGe0MHzFRISPPSUkGr8) | 5:31 | 2021-11-21 | 2021-12-19 |

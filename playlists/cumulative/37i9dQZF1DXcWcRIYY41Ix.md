@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Karmento y Bewis de la Rosa.
 
-608 songs - 1 day 12 hr 24 min
+609 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Ana María](https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [TÁ](https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03) | 2:20 | 2024-06-11 |  |
 | [Anaconda](https://open.spotify.com/track/44Qgkt6lXthGoUrdOXde78) | [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP), [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2), [Manu Eguía](https://open.spotify.com/artist/3tIkvITvvYa2L6IG9Y7GJY) | [Anaconda](https://open.spotify.com/album/3lb4aq6k5kru93YO3yDrKm) | 3:21 | 2024-03-08 | 2024-03-16 |
 | [Animal](https://open.spotify.com/track/0IzsR7RRJ4zS536vbcalpJ) | [Amaia Miranda](https://open.spotify.com/artist/4ij2OlNjoDeAZBcqmOkqh8) | [Cuando se nos mueren los amores](https://open.spotify.com/album/6W4jvb8vWYveJ724rxO7VQ) | 3:21 | 2022-04-01 | 2022-05-06 |
+| [Anoche te vi](https://open.spotify.com/track/0opBwwDsUCerrmDKwjBZHD) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Anoche te vi](https://open.spotify.com/album/0HFlsuCPKzl2KaPSbNtHsD) | 2:24 | 2024-06-11 |  |
 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 | 2021-12-24 | 2022-04-24 |
 | [Aprenderé \- en directo 2K23](https://open.spotify.com/track/20G79dCVtx58sxPVtD4Ik2) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [Jhana Beat](https://open.spotify.com/artist/7a3ExgPUndI4Kyms3uVdAP) | [Aprenderé \(en directo 2K23\)](https://open.spotify.com/album/4BvBdWiBKnVUDykNp41pKS) | 3:41 | 2023-03-31 | 2023-06-03 |
 | [Aquella Isla](https://open.spotify.com/track/48Wzi08M8VECe31oRxR3xY) | [Piedra](https://open.spotify.com/artist/01DSpvRUPG3Er9sIS3UIsb) | [Aquella Isla](https://open.spotify.com/album/5seeApZQAnWMbCTIun23ai) | 2:05 | 2024-05-30 |  |
@@ -439,7 +440,7 @@
 | [Ponme](https://open.spotify.com/track/7oGwZ9K8PbWEMCEmJS2esu) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El siglo del loro](https://open.spotify.com/album/1p9J4Gk71sOHPFeEmJYVvP) | 1:40 | 2024-03-15 | 2024-04-19 |
 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 | 2021-12-24 | 2022-07-29 |
 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 | 2022-11-25 |  |
-| [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 |  |
+| [Por Qué?](https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5) | [Mari Segura](https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt) | [Por Qué?](https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f) | 3:40 | 2024-04-26 | 2024-06-14 |
 | [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 | 2023-08-18 |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
 | [Profecía](https://open.spotify.com/track/1dZcZjX03L5midWLI0XOVV) | [Las Nietas del Charli](https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS) | [Profecía](https://open.spotify.com/album/1QoK9uWN9aQZFBlrmWH4Np) | 2:59 | 2024-01-26 | 2024-02-17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Oki",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kronkel Dom",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1579,6 +1579,32 @@
     },
     {
       "album": {
+        "name": "co ja wam zrobi\u0142em?",
+        "url": "https://open.spotify.com/album/2rCRBXHobv53bIL0sl9fTj"
+      },
+      "artists": [
+        {
+          "name": "CatchUp",
+          "url": "https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9"
+        },
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "co ja wam zrobi\u0142em?",
+      "url": "https://open.spotify.com/track/6QuGHPcmE72o7dsnKRXrNw"
+    },
+    {
+      "album": {
         "name": "Co ty mi dasz ale to DRILL",
         "url": "https://open.spotify.com/album/0wfRReRNYIdKi0yP5XCrvm"
       },
@@ -1598,7 +1624,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 132042,
       "name": "Co ty mi dasz ale to DRILL",
       "url": "https://open.spotify.com/track/0cN69CM2rw5hoEgeGdF87m"
@@ -1658,7 +1684,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 133565,
       "name": "Consequence - Def Jam World Tour",
       "url": "https://open.spotify.com/track/6vcBgASjOZknY1PxmwbodN"
@@ -1877,6 +1903,36 @@
     },
     {
       "album": {
+        "name": "CZAS 2",
+        "url": "https://open.spotify.com/album/0yp2NhstLTIngELOeIGZq3"
+      },
+      "artists": [
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        },
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "Bary",
+          "url": "https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw"
+        },
+        {
+          "name": "Kosior",
+          "url": "https://open.spotify.com/artist/4kIRYVMcgUBEBaqdA0nLWX"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "CZAS 2",
+      "url": "https://open.spotify.com/track/3TScSLjH6uzYm8NXphZJCX"
+    },
+    {
+      "album": {
         "name": "CZAS CI\u0118 GONI",
         "url": "https://open.spotify.com/album/6e1fjugmOLKnbDHKcSgf3q"
       },
@@ -1998,7 +2054,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 162000,
       "name": "Death note",
       "url": "https://open.spotify.com/track/13mgRmDwkyfsgG78YyEDLc"
@@ -2294,6 +2350,28 @@
       "duration_ms": 137068,
       "name": "Eskimos",
       "url": "https://open.spotify.com/track/4LkMaDiEtbaJpCipcOlGdb"
+    },
+    {
+      "album": {
+        "name": "EURO",
+        "url": "https://open.spotify.com/album/2XVL2sa2fVGNTwE35TcpVO"
+      },
+      "artists": [
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        },
+        {
+          "name": "Premixm",
+          "url": "https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "EURO",
+      "url": "https://open.spotify.com/track/37CyqdFS6WulTiyNt6RV9m"
     },
     {
       "album": {
@@ -2622,7 +2700,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 117857,
       "name": "GODZILLA FREAKSTYLE",
       "url": "https://open.spotify.com/track/5AaCINLWF0yAXERGa6LrEV"
@@ -3092,6 +3170,28 @@
       "duration_ms": 150000,
       "name": "ILE LAT?",
       "url": "https://open.spotify.com/track/4sOUVcGZo8MiSoIKybdXMC"
+    },
+    {
+      "album": {
+        "name": "intro do p\u0142yty mojego \u017cycia",
+        "url": "https://open.spotify.com/album/1Kv1WndVgSZhwOxIbwmUKg"
+      },
+      "artists": [
+        {
+          "name": "kuqe 2115",
+          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "intro do p\u0142yty mojego \u017cycia",
+      "url": "https://open.spotify.com/track/2U8H8z1JYFRUcKFpoLLLiJ"
     },
     {
       "album": {
@@ -3802,7 +3902,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 138137,
       "name": "lord dripiez",
       "url": "https://open.spotify.com/track/6iNKBRV0D1ExbbHanODj1D"
@@ -4704,7 +4804,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 163636,
       "name": "Najm\u0142odszy Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/2tSqulqhLGnC6efT6TNnuj"
@@ -5293,6 +5393,28 @@
     },
     {
       "album": {
+        "name": "Co\u015b mi m\u00f3wi",
+        "url": "https://open.spotify.com/album/7CZooLvwYAQXhfdqn46s6F"
+      },
+      "artists": [
+        {
+          "name": "Hinol Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
+        },
+        {
+          "name": "2check",
+          "url": "https://open.spotify.com/artist/0QG6AhOd5otKsN1s2jsnzt"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Opus Magnum",
+      "url": "https://open.spotify.com/track/0dFkwPSFSdXAqJzks3R46h"
+    },
+    {
+      "album": {
         "name": "Osobowo\u015bci Dwie",
         "url": "https://open.spotify.com/album/2SVlS4bupwamLaoeEig71t"
       },
@@ -5370,7 +5492,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 176842,
       "name": "Ostatni Raz",
       "url": "https://open.spotify.com/track/6XCdNJK8ywKYIr9PHq6eST"
@@ -5677,6 +5799,32 @@
     },
     {
       "album": {
+        "name": "04:01",
+        "url": "https://open.spotify.com/album/0rMY6sS2J58oeblsjSWx1G"
+      },
+      "artists": [
+        {
+          "name": "K\u0119K\u0119",
+          "url": "https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj"
+        },
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172405,
+      "name": "Pe\u0142en Obraz",
+      "url": "https://open.spotify.com/track/5GQaZEvnrinxWnmXCQN61A"
+    },
+    {
+      "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
       },
@@ -5822,7 +5970,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 196621,
       "name": "PLIKI",
       "url": "https://open.spotify.com/track/3Y01BF7oYxqZERc9f1E44M"
@@ -5866,6 +6014,46 @@
       "duration_ms": 257372,
       "name": "POWR\u00d3T DO \u015aWIAT\u0141A",
       "url": "https://open.spotify.com/track/3WNKymQ8cbSnWcvA8EfluF"
+    },
+    {
+      "album": {
+        "name": "PRAWDZIWY RAP",
+        "url": "https://open.spotify.com/album/2MAK9tPDUGzCcbcOzgnkzT"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Lanek",
+          "url": "https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "PRAWDZIWY RAP",
+      "url": "https://open.spotify.com/track/67agPqrjVZBFs2uR8GwrzM"
+    },
+    {
+      "album": {
+        "name": "Prawie straci\u0142em g\u0142os",
+        "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144472,
+      "name": "Prawie straci\u0142em g\u0142os",
+      "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
     },
     {
       "album": {
@@ -6921,6 +7109,32 @@
     },
     {
       "album": {
+        "name": "TEN GO\u015a\u0106",
+        "url": "https://open.spotify.com/album/3XjKj7g9tiyBa3USkYnIlc"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Megot",
+          "url": "https://open.spotify.com/artist/3p86UeNosUH4jDvAYp94kF"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186260,
+      "name": "TEN GO\u015a\u0106",
+      "url": "https://open.spotify.com/track/0bLPnDRPYbKmEC4kPDFZGK"
+    },
+    {
+      "album": {
         "name": "Export/Import",
         "url": "https://open.spotify.com/album/1CjxxyOmoQiTq5gXOSTtv9"
       },
@@ -7410,7 +7624,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 156164,
       "name": "W TYM SZALE\u0143STWIE JEST METODA",
       "url": "https://open.spotify.com/track/1iwzyg6DPTStQUGPzzCEjs"

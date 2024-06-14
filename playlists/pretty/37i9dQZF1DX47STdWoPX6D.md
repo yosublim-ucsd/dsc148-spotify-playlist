@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > New songs from CHH's up and coming artists!  Cover: <a href="spotify:artist:0PUc1lwaZpPJaMr0v4Gdvo">Jon Keith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,695 likes - 38 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,707 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 35 | [One Of Them Ones](https://open.spotify.com/track/0EcL8667UQIGNCqJG5AlWh) | [Gifted Hands](https://open.spotify.com/artist/39rx4zgUPeQQXZbD9xphK6) | [Childhood Trauma](https://open.spotify.com/album/0GMP21tyFRTv74Fcstcnhf) | 3:22 |
 | 36 | [Rest Of My Life](https://open.spotify.com/track/04cyN2ABgmnDAaVCPvm6uR) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Rest Of My Life](https://open.spotify.com/album/5eDIpNiVT81fKm1L1rRqYG) | 2:38 |
 | 37 | [Street Gospel](https://open.spotify.com/track/3532AKnuVkKowBm3b7A6Tw) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [Soulless World](https://open.spotify.com/album/7gIYjGivljxmXqWEQg6jT3) | 2:41 |
-| 38 | [Got It All Day](https://open.spotify.com/track/0W5O2PP77aj3hmceyLjz0G) | [Petrina DeLacey](https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY) | [Got It All Day](https://open.spotify.com/album/6dlOK6ib6wFEhA5Nc7bxVC) | 2:18 |
+| 38 | [Thank You Jesus \(Hallelujah\)](https://open.spotify.com/track/2zWa2zOIJyPyrWX1qIQxuT) | [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [Thank You Jesus \(Hallelujah\)](https://open.spotify.com/album/4uCVhpWRXZDwbwylOgbWhe) | 2:36 |
+| 39 | [No Cosign](https://open.spotify.com/track/5hCWf5D51CAD1QDCoeg6kY) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Beanz Valdez](https://open.spotify.com/artist/1nnXTV7nnAU3niZqESjMUw), [IV](https://open.spotify.com/artist/2FKo6xhwKKj1NWLQ2dKoAw) | [No Cosign](https://open.spotify.com/album/1F6yb9qkj0Ai89FCeOxYJe) | 2:32 |
+| 40 | [Got It All Day](https://open.spotify.com/track/0W5O2PP77aj3hmceyLjz0G) | [Petrina DeLacey](https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY) | [Got It All Day](https://open.spotify.com/album/6dlOK6ib6wFEhA5Nc7bxVC) | 2:18 |
 
 Snapshot ID: `ZmnUNAAAAADpjEbbfVwTk3wASmrZL2TM`

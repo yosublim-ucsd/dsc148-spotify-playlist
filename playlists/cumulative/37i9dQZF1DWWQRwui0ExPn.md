@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,819 songs - 10 day 18 hr 29 min
+6,820 songs - 10 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1267,7 +1267,7 @@
 | [Conscious](https://open.spotify.com/track/1zKlO9fCVGI5ZzVet1HtdZ) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Conscious](https://open.spotify.com/album/6HYk4kq3l2yy6Hd4HMXuLW) | 3:04 | 2022-06-10 | 2022-09-30 |
 | [Considered](https://open.spotify.com/track/3pzINdDSi5o9usXhmmVTBY) | [Mandriller](https://open.spotify.com/artist/7AJfN5TWY2AHtjuBfO2388) | [Lumen](https://open.spotify.com/album/0JZdEkF9ZwEePAMpf89VO2) | 1:36 | 2022-02-14 | 2022-09-23 |
 | [constant](https://open.spotify.com/track/0zCyInoIsH7dw4T63cJ0V2) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:08 | 2019-09-10 | 2020-08-25 |
-| [Constant Hibernation](https://open.spotify.com/track/3aISQrOXcqNIFY5hFCSpjW) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Constant Hibernation](https://open.spotify.com/album/5S3b8jru4PwXAzBGxvFvRz) | 2:17 | 2024-03-15 |  |
+| [Constant Hibernation](https://open.spotify.com/track/3aISQrOXcqNIFY5hFCSpjW) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Constant Hibernation](https://open.spotify.com/album/5S3b8jru4PwXAzBGxvFvRz) | 2:17 | 2024-03-15 | 2024-06-14 |
 | [Constellations \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4UVPZVegkvVUEytaViWdym) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:55 | 2019-05-26\* | 2020-06-07 |
 | [Contemplation](https://open.spotify.com/track/2Im64cB8iNl0QcjV2hoxbG) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Contemplation](https://open.spotify.com/album/3lzsCmIPP3ZUZ6a9rzacrd) | 2:13 | 2022-09-23 | 2022-12-16 |
 | [Continuo](https://open.spotify.com/track/6p3iLjuyLGL2hoF215WROz) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Ease Vol\. 2](https://open.spotify.com/album/2TE4QBm33NpQApM88hN06M) | 2:47 | 2023-11-17 |  |
@@ -1391,6 +1391,7 @@
 | [Currents](https://open.spotify.com/track/14EIN2a94afMwsLe60SyPv) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1), [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1) | [Currents](https://open.spotify.com/album/1blPnl6EZOKznld3FTN9WS) | 3:01 | 2022-07-29 | 2022-11-11 |
 | [Curtis](https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B) | [Hike Willis](https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I) | [Curtis](https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme) | 1:07 | 2024-02-16 |  |
 | [Curve](https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Curve](https://open.spotify.com/album/37rudORbdb2z5mqA9ECLWY) | 1:54 | 2023-11-10 |  |
+| [Cut Blue](https://open.spotify.com/track/5D5z2jGcd3ckGdsGlnWaA8) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [Cut Blue](https://open.spotify.com/album/2tTETR7nRSosdmscgsYIY7) | 2:12 | 2024-06-07 |  |
 | [Cutty Flam](https://open.spotify.com/track/6KuQWy86TkXylokqSiqdHc) | [Koby 808](https://open.spotify.com/artist/43y8HzuEyK246soWSYULOJ) | [Cutty Flam](https://open.spotify.com/album/0l42ebkaqEYsa7v7dBxiLp) | 1:55 | 2022-07-29 | 2022-12-09 |
 | [Cyberpunk](https://open.spotify.com/track/3rCPYE5SOs39meadtMrWYh) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Cyberpunk](https://open.spotify.com/album/4hXPoVYcCVqXnkZ4FeHtPi) | 2:08 | 2019-12-06 | 2020-08-30 |
 | [Cycle](https://open.spotify.com/track/5FBXnmgANQqBqrsgBGAeCF) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Eternal Journey](https://open.spotify.com/album/4Cw2jYDK3bLeNJOwzBOcZw) | 3:00 | 2021-04-17 | 2022-01-14 |

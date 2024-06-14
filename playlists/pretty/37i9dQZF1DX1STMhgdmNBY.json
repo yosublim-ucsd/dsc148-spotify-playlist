@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 79832,
+  "num_followers": 79908,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "I Need Some Air",
+      "url": "https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "I Need Some Air",
-      "url": "https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a"
     },
     {
       "added_at": "2024-05-28 18:44:23",

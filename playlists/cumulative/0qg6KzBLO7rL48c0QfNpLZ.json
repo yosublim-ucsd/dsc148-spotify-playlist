@@ -4525,6 +4525,28 @@
     },
     {
       "album": {
+        "name": "Lost In The Night",
+        "url": "https://open.spotify.com/album/6OXil6OS4slxWxtxTIMiZn"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "MCN2",
+          "url": "https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169937,
+      "name": "Lost In The Night",
+      "url": "https://open.spotify.com/track/5ztq1zM2wUPgFqr2PbwXj6"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1LhbjGo6T5PnIztEStAoqa"
       },

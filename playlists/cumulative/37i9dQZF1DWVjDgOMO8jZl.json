@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Tony Boy in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno. ",
+  "description": "STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno. ",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -2436,6 +2436,32 @@
       "duration_ms": 155724,
       "name": "Ricordi (feat. Ernia)",
       "url": "https://open.spotify.com/track/7n8AUlwA0Fu3ryGYDYnIxd"
+    },
+    {
+      "album": {
+        "name": "Romanzo Rosa",
+        "url": "https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "endly",
+          "url": "https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI"
+        },
+        {
+          "name": "Rnla",
+          "url": "https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Romanzo Rosa",
+      "url": "https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN"
     },
     {
       "album": {

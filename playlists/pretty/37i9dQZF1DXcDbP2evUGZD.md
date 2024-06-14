@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,889 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,894 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 72 | [So, Sometimes, I](https://open.spotify.com/track/30v6L22ChZQMHGsbV0wzut) | [OYEOL](https://open.spotify.com/artist/7qhXhpFaPjoBhqebBazlaR) | [So, Sometimes, I](https://open.spotify.com/album/3mmzEA59HmwLRad8PwuXnk) | 3:20 |
 | 73 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 |
 | 74 | [LETTER](https://open.spotify.com/track/3mfOAjzjzByCZMl79v0stf) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [유다빈밴드 1집](https://open.spotify.com/album/0qDUVf1CfwX9DPWLRhAHtx) | 3:26 |
-| 75 | [Over The Dream](https://open.spotify.com/track/6ZPfR4CgG7KWIUb3FsJCcW) | [YdBB](https://open.spotify.com/artist/71kIk7Dis31eTaePOXqLPP) | [Over The Dream](https://open.spotify.com/album/2nkhiBXj93Q95RXxxHKRjc) | 3:59 |
+| 75 | [Over The Dream](https://open.spotify.com/track/6ZPfR4CgG7KWIUb3FsJCcW) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Over The Dream](https://open.spotify.com/album/2nkhiBXj93Q95RXxxHKRjc) | 3:59 |
 | 76 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 |
 | 77 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
 | 78 | [The Fin](https://open.spotify.com/track/4pbYJ7RyUcxqreY3jncHyX) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 5:19 |

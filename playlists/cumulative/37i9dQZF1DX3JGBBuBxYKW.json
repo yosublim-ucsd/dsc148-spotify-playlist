@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Nadie Me Ver\u00e1 Llorar",
+        "url": "https://open.spotify.com/album/3KlayH2RAAqKRB0s3gYrXS"
+      },
+      "artists": [
+        {
+          "name": "Deborah Chauque",
+          "url": "https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190132,
+      "name": "Nadie Me Ver\u00e1 Llorar",
+      "url": "https://open.spotify.com/track/701OVMWIDtZl8dOOPFIxxR"
+    },
+    {
+      "album": {
         "name": "No me Arrepiento de Este Amor",
         "url": "https://open.spotify.com/album/3Y572iPz6e7ddpowsAffn2"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 217190,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
@@ -2415,6 +2433,28 @@
     },
     {
       "album": {
+        "name": "Te Espero o Te Olvido",
+        "url": "https://open.spotify.com/album/1SyPNdVXSBuIIZ7jrWCsl2"
+      },
+      "artists": [
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        },
+        {
+          "name": "Consuelo Schuster",
+          "url": "https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185206,
+      "name": "Te Espero o Te Olvido",
+      "url": "https://open.spotify.com/track/4mI7wKFQxQaKvyJxackUql"
+    },
+    {
+      "album": {
         "name": "Te Metiste",
         "url": "https://open.spotify.com/album/0GJd4LBfN3dlrFpcxH1Dko"
       },
@@ -2564,7 +2604,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 204250,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX"

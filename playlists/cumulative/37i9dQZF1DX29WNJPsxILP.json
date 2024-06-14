@@ -1329,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "Junkie",
+        "url": "https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL"
+      },
+      "artists": [
+        {
+          "name": "Frappe Ash",
+          "url": "https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH"
+        },
+        {
+          "name": "Aman Sagar",
+          "url": "https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Kaise",
+      "url": "https://open.spotify.com/track/7lE4hlwqJZE7Q19OGqKyXV"
+    },
+    {
+      "album": {
         "name": "Kalamkaand",
         "url": "https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX"
       },
@@ -1470,6 +1492,28 @@
       "duration_ms": 168571,
       "name": "Kheench Maari",
       "url": "https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd"
+    },
+    {
+      "album": {
+        "name": "Junkie",
+        "url": "https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL"
+      },
+      "artists": [
+        {
+          "name": "Frappe Ash",
+          "url": "https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH"
+        },
+        {
+          "name": "Aman Sagar",
+          "url": "https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122842,
+      "name": "Kon Hai Tu",
+      "url": "https://open.spotify.com/track/0ko5n1BkAyWHDxXwvzrgWu"
     },
     {
       "album": {
@@ -2032,7 +2076,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 190485,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/6fZxZf9m01EPeBDjCEdtKm"
@@ -2894,7 +2938,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 182701,
       "name": "Vision",
       "url": "https://open.spotify.com/track/6oCLs2G4aTV7EN0PO3uyIE"

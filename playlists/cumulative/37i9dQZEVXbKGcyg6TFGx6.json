@@ -11446,7 +11446,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -13124,7 +13124,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -13887,6 +13887,24 @@
     },
     {
       "album": {
+        "name": "Funk Generation",
+        "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147201,
+      "name": "Funk Rave",
+      "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
+    },
+    {
+      "album": {
         "name": "Fussballer \u26bd\ufe0f",
         "url": "https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7"
       },
@@ -14620,7 +14638,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 132857,
       "name": "Goddess (Dr. Chaii Remix)",
       "url": "https://open.spotify.com/track/0bjzWYUBUgjvHwofqda2q1"
@@ -18448,7 +18466,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 130660,
       "name": "JUNGE BALLER",
       "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
@@ -30553,6 +30571,32 @@
     },
     {
       "album": {
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/0pFzBMGIqbF0z7xWDMdRJa"
+      },
+      "artists": [
+        {
+          "name": "BM_Dr.P",
+          "url": "https://open.spotify.com/artist/1mXH18rO3gZAfCj4MXAq7A"
+        },
+        {
+          "name": "Pally-J",
+          "url": "https://open.spotify.com/artist/6spCei05pjEDDwvnCaQmN4"
+        },
+        {
+          "name": "Feelingz",
+          "url": "https://open.spotify.com/artist/2drx5YWPs50WLkXWhNKTHF"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193776,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/6moboScPauxTwUZWUlNY4G"
+    },
+    {
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -33778,7 +33822,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 69909,
       "name": "Take Me Away - (Speed Up)",
       "url": "https://open.spotify.com/track/5Quy4skeiHmFuaTomCozlH"
@@ -37658,7 +37702,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

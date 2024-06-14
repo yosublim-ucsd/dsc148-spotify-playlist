@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch DJ and producer <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">Martin Garrix</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,472 likes - 97 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,520 likes - 97 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 96 | [Error 404 \- Original Mix](https://open.spotify.com/track/0jPJQUEQSHoGNKhJycEpuP) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [disco:wax Presents: Spinnin' Records Volume 22](https://open.spotify.com/album/4Ct7kAzEC7MsdbnCPxHknG) | 5:33 |
 | 97 | [Tremor \- Sensation 2014 Anthem](https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:54 |
 
-Snapshot ID: `ZmIxYAAAAADHAx78yOH/u7DEaT1Z3rE9`
+Snapshot ID: `ZmsWoQAAAAAoFeb300H18I6mV0PiV1Gm`

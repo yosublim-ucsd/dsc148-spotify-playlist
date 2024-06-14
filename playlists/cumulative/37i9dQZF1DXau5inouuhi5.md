@@ -2,7 +2,7 @@
 
 ### [KINGDOM HEARTS](https://open.spotify.com/playlist/37i9dQZF1DXau5inouuhi5)
 
-> Listen to music and soundtrack from Kingdom Hearts series.
+> Listen to music and soundtrack from Kingdom Hearts series\. PC\(Steam®\)版『キングダム ハーツ』シリーズ発売記念。シリーズ作品のサウンドトラックを聴いて作品の思い出を振り返ろう。 © Disney.
 
 100 songs - 5 hr 44 min
 

@@ -1,6 +1,6 @@
 {
   "description": "soundtrack those long, dark days with warm indie favourites",
-  "num_followers": 21043,
+  "num_followers": 21040,
   "original_name": "midwinter",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-06-03 15:33:02",
       "album": {
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Call It Fate, Call It Karma",
+      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
+    },
+    {
+      "added_at": "2024-06-03 15:33:02",
+      "album": {
         "name": "snowfall (Sped Up)",
         "url": "https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 110580,
       "name": "snowfall (Sped Up)",
       "url": "https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi"
-    },
-    {
-      "added_at": "2024-06-03 15:33:02",
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Call It Fate, Call It Karma",
-      "url": "https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp"
     },
     {
       "added_at": "2024-06-03 15:33:02",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-06-03 15:33:02",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 299733,
-      "name": "Buddy's Rendezvous",
-      "url": "https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5"
-    },
-    {
-      "added_at": "2024-06-03 15:33:02",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 247645,
       "name": "Just Come Home with Me Tonight",
       "url": "https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt"
+    },
+    {
+      "added_at": "2024-06-03 15:33:02",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 299733,
+      "name": "Buddy's Rendezvous",
+      "url": "https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5"
     },
     {
       "added_at": "2024-06-03 15:33:02",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-06-03 15:33:02",
       "album": {
-        "name": "Duvet Day Songs",
-        "url": "https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 263480,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er"
-    },
-    {
-      "added_at": "2024-06-03 15:33:02",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2024-06-03 15:33:02",
+      "album": {
+        "name": "Duvet Day Songs",
+        "url": "https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 263480,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er"
     }
   ],
   "unique_name": "midwinter",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This Is Manuel Medrano. Los temas esenciales, todos en una lista.",
+  "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
   "name": "This Is Manuel Medrano",
   "tracks": [
     {
@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 224999,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"

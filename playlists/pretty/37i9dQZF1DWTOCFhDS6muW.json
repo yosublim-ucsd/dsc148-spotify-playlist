@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 24666,
+  "num_followers": 24675,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -383,8 +383,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Fiesta de Punta USA",
-        "url": "https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s"
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 268560,
-      "name": "El Amor de una Rosa",
-      "url": "https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt"
+      "duration_ms": 248894,
+      "name": "Punta Raton (Remix)",
+      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -479,8 +479,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+        "name": "Fiesta de Punta USA",
+        "url": "https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 113475,
-      "name": "Vamos Vamos Todos Con la Seleccion",
-      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+      "duration_ms": 268560,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -623,8 +623,8 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 3",
-        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 248894,
-      "name": "Punta Raton (Remix)",
-      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
+      "duration_ms": 113475,
+      "name": "Vamos Vamos Todos Con la Seleccion",
+      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
     }
   ],
   "unique_name": "Punta",

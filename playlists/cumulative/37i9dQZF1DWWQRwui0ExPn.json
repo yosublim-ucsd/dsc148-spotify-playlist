@@ -24610,7 +24610,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 137250,
       "name": "Constant Hibernation",
       "url": "https://open.spotify.com/track/3aISQrOXcqNIFY5hFCSpjW"
@@ -27000,6 +27000,24 @@
       "duration_ms": 114666,
       "name": "Curve",
       "url": "https://open.spotify.com/track/35bSqW8LExij5iRfq3cYu8"
+    },
+    {
+      "album": {
+        "name": "Cut Blue",
+        "url": "https://open.spotify.com/album/2tTETR7nRSosdmscgsYIY7"
+      },
+      "artists": [
+        {
+          "name": "HawaiiHockey",
+          "url": "https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132528,
+      "name": "Cut Blue",
+      "url": "https://open.spotify.com/track/5D5z2jGcd3ckGdsGlnWaA8"
     },
     {
       "album": {

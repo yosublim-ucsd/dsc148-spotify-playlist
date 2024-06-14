@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : L'Impératrice
+> The best French indie tracks right now\. Cover : Zélie
 
-499 songs - 1 day 3 hr 21 min
+501 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 | 2023-09-14 | 2023-11-17 |
 | [Acapulco](https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Acapulco](https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI) | 3:05 | 2022-06-30 | 2023-03-25 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-10 | 2022-12-24 |
-| [Again & Again](https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Again & Again](https://open.spotify.com/album/7J4GDSmpZkGPvXoQXPdjz1) | 2:36 | 2024-01-18 |  |
+| [Again & Again](https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Again & Again](https://open.spotify.com/album/7J4GDSmpZkGPvXoQXPdjz1) | 2:36 | 2024-01-18 | 2024-06-14 |
 | [Aidono](https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Aidono](https://open.spotify.com/album/5bYpJJqFRDseDSQ0z4vI0T) | 3:50 | 2022-11-10 | 2023-01-20 |
 | [All day](https://open.spotify.com/track/5X0K7EYfLnoztd4oSwucJv) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [All day](https://open.spotify.com/album/6uJZYYLIdh24fxnIGe9Vbn) | 3:14 | 2023-12-14 | 2024-01-26 |
 | [Allo réseau \- Edit](https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Allo réseau \(Edit\)](https://open.spotify.com/album/5QwhFSw4107w2onum379QT) | 3:05 | 2021-12-16 | 2022-04-22 |
@@ -73,6 +73,7 @@
 | [CAMISOLE](https://open.spotify.com/track/16RpNkwx8gaDyXD6duTt1l) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [CAMISOLE](https://open.spotify.com/album/1uTzVKDHKVJ91ahXU1lVPP) | 3:38 | 2021-12-16 | 2022-04-15 |
 | [Can't Get You Out Of My Mind](https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Can't Get You Out Of My Mind](https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca) | 4:16 | 2023-11-16 |  |
 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-02 | 2024-04-05 |
+| [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 | 2024-06-13 |  |
 | [castles](https://open.spotify.com/track/0arsSXwDYyMvG3U6RHU21y) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [postcard from Istanbul](https://open.spotify.com/album/44zcVOvyCXlw3hddxRebre) | 2:54 | 2022-04-07 | 2022-05-20 |
 | [Chamallow](https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Carrossel Do Tempo](https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90) | 4:00 | 2023-10-05 | 2024-04-26 |
 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 | 2022-10-13 | 2023-06-02 |
@@ -119,7 +120,7 @@
 | [Dormir debout](https://open.spotify.com/track/4AKhnlPFlznenlPgWzSfBw) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Dormir debout](https://open.spotify.com/album/6TsNsHp2zPycXn1lpvM6jg) | 2:54 | 2023-05-25 | 2023-06-16 |
 | [Doucement](https://open.spotify.com/track/7CryBekeeP8H2xrkkOQ7y2) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Doucement](https://open.spotify.com/album/5uUjeCBEOZglFeYSo6ehIG) | 2:24 | 2023-10-05 | 2023-12-15 |
 | [DOWN BY YOU](https://open.spotify.com/track/5fagnXIy20bLyP4XoIXOwV) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DOWN BY YOU](https://open.spotify.com/album/2AaP0Nw0YjC1UFDMFT3l2X) | 3:04 | 2023-09-28 | 2023-10-27 |
-| [Down the Line](https://open.spotify.com/track/0CCa34HlzzqL4IbV4G7uTl) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Down the Line](https://open.spotify.com/album/2aUQUtNhw2UQjnPhI07eFS) | 3:13 | 2024-05-16 |  |
+| [Down the Line](https://open.spotify.com/track/0CCa34HlzzqL4IbV4G7uTl) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Down the Line](https://open.spotify.com/album/2aUQUtNhw2UQjnPhI07eFS) | 3:13 | 2024-05-16 | 2024-06-14 |
 | [Draw The Line](https://open.spotify.com/track/0CBPfpPRbJSJBiwwB4iba9) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1), [JoshSimmons](https://open.spotify.com/artist/0JFppXf80RNwxZ2nrtdh4H) | [Draw The Line](https://open.spotify.com/album/4UJYP88mzdccx0buZsNUzM) | 2:37 | 2023-06-01 | 2023-07-07 |
 | [Drôle d'idée](https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN) | [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Drôle d'idée](https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h) | 2:37 | 2021-12-16 | 2022-06-10 |
 | [DUI](https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH) | [CLOUD](https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd) | [DUI](https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1) | 4:07 | 2023-12-08 |  |
@@ -304,6 +305,7 @@
 | [My Oh My](https://open.spotify.com/track/3aKNonAXtkjbcqP35vc8pl) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Lipstick Stains](https://open.spotify.com/album/3S098IH93lC7aphwd4XlXC) | 2:56 | 2022-10-13 | 2022-11-25 |
 | [Médicament](https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [1901 \- Part II](https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2) | 3:22 | 2022-09-15 | 2022-11-11 |
 | [Médicament](https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Médicament](https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j) | 3:22 | 2021-12-16 | 2022-09-16 |
+| [Méditerranée](https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Méditerranée](https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN) | 3:33 | 2024-06-13 |  |
 | [Mélodie \(with DORA\)](https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Mélodie \(with DORA\)](https://open.spotify.com/album/2scI9aMrYO9fkaIba8tUhn) | 3:36 | 2023-03-02 | 2023-03-18 |
 | [Métaphores](https://open.spotify.com/track/3DBt3IOapmTsIV5QWfOje0) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Métaphores](https://open.spotify.com/album/12awGrBjFIJcRWGGrTqGAJ) | 3:21 | 2024-01-11 | 2024-02-02 |
 | [Ne t'en fais pas](https://open.spotify.com/track/3WOrCrgJX1Wz09tBRODBP4) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Ne t'en fais pas](https://open.spotify.com/album/0t4iqjZlEERcP27LBQpMvJ) | 3:13 | 2024-02-01 |  |

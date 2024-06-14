@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kaneee
 
-807 songs - 1 day 17 hr 44 min
+808 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [DIFFICULT](https://open.spotify.com/track/6RbrF27Pe3oHVt0tC7cIwD) | [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [ROBIN HOOD STREET](https://open.spotify.com/album/160Dp7uGHyAp4BBuxtbv3c) | 3:40 | 2023-09-21 | 2024-05-10 |
 | [Ding Dong \- feat\. どんぐりず](https://open.spotify.com/track/4bUghg2QFEn0kesGB8TDG0) | [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [Ding Dong \(feat\. どんぐりず\)](https://open.spotify.com/album/6SvnPKlPDuE5yiCvP2ozYR) | 4:00 | 2024-06-04 |  |
 | [DIY](https://open.spotify.com/track/21Dfcbq9Fiki70prHOhhdJ) | [Itto](https://open.spotify.com/artist/2ysorIMr4GzHF4dHiVRX5E), [maiya rei](https://open.spotify.com/artist/4jB1yAzdJ2wmkAlhr5BzgZ) | [DIY](https://open.spotify.com/album/6xQC8VCtzdrwECjSMUVzXf) | 2:02 | 2023-10-31 | 2023-11-09 |
+| [Do it](https://open.spotify.com/track/03u2lofYWaqyiXeiCSnqNA) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [Do it](https://open.spotify.com/album/7GTSZTCCnEgQaxjmkpcq9n) | 2:04 | 2024-06-13 |  |
 | [Do it again](https://open.spotify.com/track/2tBo1fpBJv4uxxmcITpasf) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB) | [Do it again](https://open.spotify.com/album/2ik46ehi52l9r38xN63u56) | 3:06 | 2024-04-16 | 2024-04-19 |
 | [Do it again](https://open.spotify.com/track/3Mc8yYy56TGabzfZTG1oRT) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB) | [Do it again](https://open.spotify.com/album/3k5hAEhS9El5m4YKSNT2Ux) | 3:06 | 2024-04-18 | 2024-05-29 |
 | [Do it now](https://open.spotify.com/track/69ZoPLC4KPHR7T9VqmEjXu) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [KK](https://open.spotify.com/artist/0KjxSZxEWHvHLuCuhgHqZ5) | [Do it now](https://open.spotify.com/album/75FijenWu4oKFFygQp3XSe) | 3:49 | 2024-05-31 | 2024-06-07 |

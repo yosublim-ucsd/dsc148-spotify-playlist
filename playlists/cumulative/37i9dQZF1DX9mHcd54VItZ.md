@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=\-ew7kaC0Qb\-1Bg\-Jy81NUw">Spoegwolf</a>
 
-475 songs - 1 day 4 hr 21 min
+476 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Six Feet of Snow](https://open.spotify.com/track/6xJqUFVdJXd97rFA1M3Ane) | [Ethyl Ether](https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt) | [Six Feet of Snow](https://open.spotify.com/album/3QCHTxFWFeqqJj2x1tTXbO) | 4:58 | 2022-12-01 | 2022-12-09 |
 | [Skemer](https://open.spotify.com/track/1jA3oyVG2hVhJ1N4pEnikA) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Briewe Uit Die Argiewe](https://open.spotify.com/album/0S5HPecNnxsYdKnQXPVdcG) | 3:45 | 2022-11-17 | 2023-03-03 |
 | [SKIN](https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6) | [BRAINCHILD](https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj) | [SKIN](https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0) | 2:24 | 2023-04-14 | 2023-06-09 |
-| [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 | 2024-01-04 |  |
+| [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 | 2024-01-04 | 2024-06-14 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-06 | 2022-07-22 |
 | [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 | 2022-11-22 |
 | [Slow Down](https://open.spotify.com/track/2WJLJtpRXiWgPGuSiV9kY2) | [Gaz](https://open.spotify.com/artist/0YAL8izS16IewZXB4dlLdS) | [Slow Down](https://open.spotify.com/album/4bWs899eJvZvRoxwHa9bBt) | 3:17 | 2023-07-28 | 2023-09-16 |
@@ -432,6 +432,7 @@
 | [The Waltz](https://open.spotify.com/track/1o75mFZMjlWXDupelG6AM7) | [Black Cat Bones](https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO) | [Book of Miriam](https://open.spotify.com/album/5tisDlIaGFaTVFE3hgmIln) | 3:24 | 2022-07-28 | 2023-02-03 |
 | [There She Goes](https://open.spotify.com/track/383TJILTEIAmfndU48yqaI) | [Orah & The Kites](https://open.spotify.com/artist/3B6qB7amU7lKiNcTNTNacP) | [There She Goes](https://open.spotify.com/album/0kH45YipMAXdwmvqAmo71u) | 4:02 | 2020-11-26 | 2022-11-18 |
 | [Thinking Too Hard](https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk), [The Aviary](https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5), [Jacques Moolman](https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l) | [Thinking Too Hard](https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk) | 2:20 | 2022-02-17 | 2022-08-05 |
+| [This Town](https://open.spotify.com/track/3I6RQjbPm767x1SfvTL1GY) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [This Town](https://open.spotify.com/album/5XyLb6Wq8vR3v9fYQhI6ri) | 4:33 | 2024-06-06 |  |
 | [Time on Your Hands](https://open.spotify.com/track/3ureghWhTV5UkMP2Bk1qFP) | [Southern Wild](https://open.spotify.com/artist/0W3lLIp2r8prEH0oejxBTi) | [Time on Your Hands](https://open.spotify.com/album/77SGuvGaRB65ppI3VgMsgD) | 4:38 | 2020-10-29 | 2022-03-25 |
 | [Tiptoe](https://open.spotify.com/track/2sb1iOmBnDrPFpzRagOhgS) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Tiptoe](https://open.spotify.com/album/3h3GSXsm9dsxIOxjemmAan) | 3:28 | 2023-09-22 | 2024-01-05 |
 | [Toe Roep Ek Jou Naam](https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Toe Roep Ek Jou Naam Velvet Blohm](https://open.spotify.com/album/3rWwRZdKja3xTo7CQYDBvi) | 3:45 | 2022-11-17 | 2023-09-01 |

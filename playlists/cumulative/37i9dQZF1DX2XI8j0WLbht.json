@@ -2251,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "CANTAMENCANTO",
+        "url": "https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278666,
+      "name": "Rubidio 37",
+      "url": "https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM"
+    },
+    {
+      "album": {
         "name": "Sana Sana",
         "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
       },

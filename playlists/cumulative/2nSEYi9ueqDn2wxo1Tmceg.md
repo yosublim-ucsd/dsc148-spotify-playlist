@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: Ela Minus
 
-948 songs - 2 day 17 hr 26 min
+949 songs - 2 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 | 2023-05-10 | 2023-06-29 |
 | [Vajkoczy](https://open.spotify.com/track/1pK6RicHm4ZNku9wFq7T5I) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 4:10 | 2023-11-01 | 2023-12-07 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-08-02 | 2023-09-21 |
+| [Vampire Tongues](https://open.spotify.com/track/4xrf1X5xuovNQbFbpgdvGE) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Vampire Tongues](https://open.spotify.com/album/1mzUcrfYKr2gNX2Re6CnqG) | 3:54 | 2024-06-13 |  |
 | [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 | 2023-05-17 | 2023-07-13 |
 | [Veronica Lake](https://open.spotify.com/track/7HIuf2VMlU5SURlsrXggWz) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Veronica Lake](https://open.spotify.com/album/4ytG8sSNbEyrNuwtaQHtLN) | 3:02 | 2023-05-10 | 2023-06-29 |
 | [Very High](https://open.spotify.com/track/5MxAezfO6AOYafUUyzr0yR) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Very High](https://open.spotify.com/album/5Gd3mPMU5qbLvK4nRwL4Tb) | 1:54 | 2023-05-17 | 2023-07-06 |

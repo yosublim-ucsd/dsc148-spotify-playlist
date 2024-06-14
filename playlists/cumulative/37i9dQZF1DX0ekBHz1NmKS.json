@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: FILIPPA",
+  "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: SVEA",
   "name": "Made in Sweden",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 200050,
       "name": "100 diagnoser",
       "url": "https://open.spotify.com/track/40Pl6gABGwEP0p93hFras1"
@@ -150,6 +150,28 @@
       "duration_ms": 160983,
       "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
       "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
+    },
+    {
+      "album": {
+        "name": "22 (feat. Nadja Evelina)",
+        "url": "https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak"
+      },
+      "artists": [
+        {
+          "name": "Tjejdikter",
+          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
+        },
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173675,
+      "name": "22 (feat. Nadja Evelina)",
+      "url": "https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA"
     },
     {
       "album": {
@@ -709,6 +731,28 @@
     },
     {
       "album": {
+        "name": "Aldrig vara ung",
+        "url": "https://open.spotify.com/album/3Jj8KgdqAXRRTlPIYZdViS"
+      },
+      "artists": [
+        {
+          "name": "Nardn",
+          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
+        },
+        {
+          "name": "Dao",
+          "url": "https://open.spotify.com/artist/66bnMtizXwZWDn6CzzNvMe"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Aldrig vara ung",
+      "url": "https://open.spotify.com/track/7pCzHPycBBOJ2snlnIkOaH"
+    },
+    {
+      "album": {
         "name": "Aldrig varit du",
         "url": "https://open.spotify.com/album/07xGfv3Iwl2pnxIxaMGo6U"
       },
@@ -948,6 +992,24 @@
       "duration_ms": 220000,
       "name": "Allt jag \u00f6nskar",
       "url": "https://open.spotify.com/track/0Yzn9TgHJGeWwqrP1ll2qx"
+    },
+    {
+      "album": {
+        "name": "Allt kommer bli bra",
+        "url": "https://open.spotify.com/album/7fbol144DeALlnRNbXScrK"
+      },
+      "artists": [
+        {
+          "name": "Lucianoz",
+          "url": "https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199359,
+      "name": "Allt kommer bli bra",
+      "url": "https://open.spotify.com/track/5S2nxFYpzU2mAoIIbfN1TV"
     },
     {
       "album": {
@@ -1517,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "BALLA UR",
+        "url": "https://open.spotify.com/album/6jyi2mMY2R3fp4eeejLfaJ"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161824,
+      "name": "BALLA UR",
+      "url": "https://open.spotify.com/track/2nuriIC8sNLkHNd0udbjEF"
+    },
+    {
+      "album": {
         "name": "Bananas",
         "url": "https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b"
       },
@@ -1532,6 +1612,24 @@
       "duration_ms": 153716,
       "name": "Bananas",
       "url": "https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT"
+    },
+    {
+      "album": {
+        "name": "Bar Thinking",
+        "url": "https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185286,
+      "name": "Bar Thinking",
+      "url": "https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD"
     },
     {
       "album": {
@@ -1658,7 +1756,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 187363,
       "name": "Basic",
       "url": "https://open.spotify.com/track/5L9VlMiJ6Y2I7pXY0zeB92"
@@ -2192,7 +2290,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 199626,
       "name": "Blomma i city",
       "url": "https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S"
@@ -3262,7 +3360,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 207670,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/0vCi2lbJVGrAguXQG6ZYmp"
@@ -3812,7 +3910,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 218400,
       "name": "Cult to A Saint",
       "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
@@ -3870,7 +3968,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 208440,
       "name": "D enkla livet",
       "url": "https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e"
@@ -3986,6 +4084,24 @@
       "duration_ms": 162371,
       "name": "Dansa min docka",
       "url": "https://open.spotify.com/track/1FPht4TmkAUUMlV7FETt7I"
+    },
+    {
+      "album": {
+        "name": "Dansa runt problemen",
+        "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
+      },
+      "artists": [
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170083,
+      "name": "Dansa runt problemen",
+      "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
     },
     {
       "album": {
@@ -4567,6 +4683,24 @@
     },
     {
       "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
+      },
+      "artists": [
+        {
+          "name": "Zoe Lobos",
+          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152068,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
+    },
+    {
+      "album": {
         "name": "Diamond In Disguise",
         "url": "https://open.spotify.com/album/32X7oe07ien987VTjuvmf9"
       },
@@ -5077,6 +5211,28 @@
     },
     {
       "album": {
+        "name": "Drakar",
+        "url": "https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE"
+      },
+      "artists": [
+        {
+          "name": "Niello",
+          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
+        },
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168566,
+      "name": "Drakar",
+      "url": "https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS"
+    },
+    {
+      "album": {
         "name": "Drifting Out EP",
         "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
       },
@@ -5472,6 +5628,24 @@
       "duration_ms": 125887,
       "name": "Du \u00e4r tagen",
       "url": "https://open.spotify.com/track/7cm3FaZaouRmDKJmJ3jhGe"
+    },
+    {
+      "album": {
+        "name": "Dum",
+        "url": "https://open.spotify.com/album/5N7hT3FpW2SiFNz7iqrtpY"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154533,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx"
     },
     {
       "album": {
@@ -6150,10 +6324,28 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 204157,
       "name": "En t\u00e5r f\u00f6r varje t\u00e5r",
       "url": "https://open.spotify.com/track/5bR2R637w1Z7OtUk6qn26P"
+    },
+    {
+      "album": {
+        "name": "En v\u00e4n som du",
+        "url": "https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "En v\u00e4n som du",
+      "url": "https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM"
     },
     {
       "album": {
@@ -6894,7 +7086,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 145833,
       "name": "Feeling Lucky Tonight",
       "url": "https://open.spotify.com/track/4FAqXvlU7GDVKdhrNAkTS7"
@@ -6938,6 +7130,24 @@
       "duration_ms": 171265,
       "name": "FEMININE ENERGY",
       "url": "https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x"
+    },
+    {
+      "album": {
+        "name": "the last 90s bitch",
+        "url": "https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161566,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW"
     },
     {
       "album": {
@@ -6992,7 +7202,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 173000,
       "name": "Fight",
       "url": "https://open.spotify.com/track/0aabPEzEjKf8Q14ihbfpIl"
@@ -7310,7 +7520,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 167088,
       "name": "For Myself",
       "url": "https://open.spotify.com/track/5ZoeL2XT9knQOUjhhwkoJJ"
@@ -7708,7 +7918,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 182750,
       "name": "F\u00f6r bra f\u00f6r att vara sant",
       "url": "https://open.spotify.com/track/0QapoVfLDVQukrjeCG5TqR"
@@ -8478,7 +8688,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 159369,
       "name": "GoGetter",
       "url": "https://open.spotify.com/track/1i3CHFEK8QXKu9Rbt6Oaci"
@@ -9168,6 +9378,42 @@
       "duration_ms": 176044,
       "name": "Headed North",
       "url": "https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV"
+    },
+    {
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa"
+      },
+      "artists": [
+        {
+          "name": "San Sebastian",
+          "url": "https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184042,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242276,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan"
     },
     {
       "album": {
@@ -10067,6 +10313,24 @@
     },
     {
       "album": {
+        "name": "Hoppas du m\u00e5r bra",
+        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Hoppas du m\u00e5r bra",
+      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "album": {
         "name": "Hora Madonna",
         "url": "https://open.spotify.com/album/2qg2ETnqeEuJxBWltrHueo"
       },
@@ -10252,6 +10516,24 @@
       "duration_ms": 224077,
       "name": "Hungover (Head In A Can)",
       "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
+    },
+    {
+      "album": {
+        "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
+        "url": "https://open.spotify.com/album/1fgPCDkgF39t2671KiaL89"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230975,
+      "name": "Hur f\u00f6rklarar man s\u00e5nt f\u00f6r datorer?",
+      "url": "https://open.spotify.com/track/1L7NKwG84v0yvSeU2hv9IU"
     },
     {
       "album": {
@@ -10606,7 +10888,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 147666,
       "name": "i en solnedg\u00e5ng",
       "url": "https://open.spotify.com/track/78uZv4Cg1buSYEoADBYJQf"
@@ -11145,6 +11427,24 @@
     },
     {
       "album": {
+        "name": "Idioti",
+        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193327,
+      "name": "Idioti",
+      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+    },
+    {
+      "album": {
         "name": "Id\u00e9n om oss",
         "url": "https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L"
       },
@@ -11433,6 +11733,24 @@
     },
     {
       "album": {
+        "name": "Ingen, bara du",
+        "url": "https://open.spotify.com/album/7ycajtCnklHybUFzHJvPYA"
+      },
+      "artists": [
+        {
+          "name": "VIOL",
+          "url": "https://open.spotify.com/artist/5mf2lROvATwH6apu0AZBmt"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166689,
+      "name": "Ingen, bara du",
+      "url": "https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv"
+    },
+    {
+      "album": {
         "name": "Ingenting",
         "url": "https://open.spotify.com/album/3DqUAzuwPpxBZDEwiL10aw"
       },
@@ -11632,6 +11950,24 @@
       "duration_ms": 228065,
       "name": "It Takes a Fool to Remain Sane - Spotify Singles",
       "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+    },
+    {
+      "album": {
+        "name": "ITU",
+        "url": "https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V"
+      },
+      "artists": [
+        {
+          "name": "Gamebojj",
+          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139928,
+      "name": "ITU",
+      "url": "https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB"
     },
     {
       "album": {
@@ -12568,7 +12904,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
@@ -13429,6 +13765,24 @@
     },
     {
       "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
+    },
+    {
+      "album": {
         "name": "Brev som inte l\u00e4mnat bordet",
         "url": "https://open.spotify.com/album/7J7VPIsNWZbe5vgcV4GIrm"
       },
@@ -13532,6 +13886,24 @@
       "duration_ms": 183230,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/4vz7ZHKiBy0WcdE5aTRfT1"
+    },
+    {
+      "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
     },
     {
       "album": {
@@ -13890,7 +14262,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 125559,
       "name": "Lurad",
       "url": "https://open.spotify.com/track/2BFbYXnJ6ap6yhwhX0xlYr"
@@ -14375,6 +14747,24 @@
     },
     {
       "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163984,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
+    },
+    {
+      "album": {
         "name": "Manifestation",
         "url": "https://open.spotify.com/album/31pS1uQDcTQl7BrLfzx5de"
       },
@@ -14751,6 +15141,24 @@
     },
     {
       "album": {
+        "name": "Midsommardansen",
+        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124601,
+      "name": "Midsommardansen",
+      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
+    },
+    {
+      "album": {
         "name": "Mika",
         "url": "https://open.spotify.com/album/4FSUbcwDoAcFtSo1MAZTC6"
       },
@@ -14816,7 +15224,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 150868,
       "name": "Min d\u00f6d",
       "url": "https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU"
@@ -15293,6 +15701,24 @@
     },
     {
       "album": {
+        "name": "Mordbrand",
+        "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218103,
+      "name": "Mordbrand",
+      "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
+    },
+    {
+      "album": {
         "name": "More Than Words",
         "url": "https://open.spotify.com/album/2nNSUxI7Loz154Ytgoaq1e"
       },
@@ -15730,6 +16156,24 @@
       "duration_ms": 206321,
       "name": "Nattbuss",
       "url": "https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc"
+    },
+    {
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194509,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
     },
     {
       "album": {
@@ -16824,7 +17268,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 189023,
       "name": "On and On",
       "url": "https://open.spotify.com/track/28tvB0Wj8RjpGeGW0pgE3q"
@@ -16940,7 +17384,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 193544,
       "name": "Only love can save us",
       "url": "https://open.spotify.com/track/5b4GcXk4b1TWqDDvPHTKe7"
@@ -17266,7 +17710,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 181029,
       "name": "Pad Thai",
       "url": "https://open.spotify.com/track/2V4WavDKcWrlmzFXmlNv7k"
@@ -18046,7 +18490,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 161782,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/0OSrRgvrRmmWyCQPeJa6XI"
@@ -18588,6 +19032,28 @@
       "duration_ms": 172300,
       "name": "r\u00e4knar t\u00e5rar",
       "url": "https://open.spotify.com/track/1n74N2vgw2TCuy7JiRh3l6"
+    },
+    {
+      "album": {
+        "name": "R\u00f6dvin & Ros\u00e9",
+        "url": "https://open.spotify.com/album/6qbjzSLFcxqdcC8ma77Hxt"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        },
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "R\u00f6dvin & Ros\u00e9",
+      "url": "https://open.spotify.com/track/1VeSJ9PVCutdTMPn4sFpzo"
     },
     {
       "album": {
@@ -20135,6 +20601,24 @@
     },
     {
       "album": {
+        "name": "Sol, vind och vatten",
+        "url": "https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218625,
+      "name": "Sol, vind och vatten",
+      "url": "https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu"
+    },
+    {
+      "album": {
         "name": "Solen g\u00e5r aldrig ner",
         "url": "https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT"
       },
@@ -20312,7 +20796,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 155000,
       "name": "Som f\u00f6rut",
       "url": "https://open.spotify.com/track/0BCtzEvXvt48LVRWTW9scA"
@@ -20530,6 +21014,24 @@
       "duration_ms": 144874,
       "name": "Sommarn\u00e4tter",
       "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
+    },
+    {
+      "album": {
+        "name": "K\u00c4RLEKSMEMOARER",
+        "url": "https://open.spotify.com/album/5ZeQSjhtQHhfx2KdYWFe2P"
+      },
+      "artists": [
+        {
+          "name": "INTI",
+          "url": "https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228148,
+      "name": "SOMMARREGN",
+      "url": "https://open.spotify.com/track/2dC5l9ZYvxTgLXmq681TVF"
     },
     {
       "album": {
@@ -20888,7 +21390,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 207160,
       "name": "Stj\u00e4rnorna inatt",
       "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
@@ -23681,6 +24183,24 @@
     },
     {
       "album": {
+        "name": "Tysta Leken",
+        "url": "https://open.spotify.com/album/1bRVrtj926Vp6Zdysyif1p"
+      },
+      "artists": [
+        {
+          "name": "ANJI",
+          "url": "https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188428,
+      "name": "Tysta Leken",
+      "url": "https://open.spotify.com/track/6RdS1iX4Hcw5YAjjeCfeB9"
+    },
+    {
+      "album": {
         "name": "T\u00e4nd alla ljus (Fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/2N7xVJBwo7MaFhEukHMoDt"
       },
@@ -23971,6 +24491,24 @@
     },
     {
       "album": {
+        "name": "Upp med hakan",
+        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Upp med hakan",
+      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "album": {
         "name": "Used To",
         "url": "https://open.spotify.com/album/4a2Zs2yPLfNY1tg4zHZKnU"
       },
@@ -24080,7 +24618,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 118387,
       "name": "Vacker sommarkv\u00e4ll",
       "url": "https://open.spotify.com/track/5lKHzV3tYHWHgkVGuwemlh"
@@ -24250,7 +24788,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 162836,
       "name": "Vanligt, Vanligt",
       "url": "https://open.spotify.com/track/7iZU7ydaWwwJFD7fiSDwlM"
@@ -24478,6 +25016,24 @@
       "duration_ms": 207611,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4"
+    },
+    {
+      "album": {
+        "name": "Verktygsl\u00e5dan",
+        "url": "https://open.spotify.com/album/7GSZ8je5bbyUyja0HgZUCs"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167550,
+      "name": "Verktygsl\u00e5dan",
+      "url": "https://open.spotify.com/track/6z1PzNtoUQG2SjWpxb6USn"
     },
     {
       "album": {
@@ -25197,6 +25753,24 @@
     },
     {
       "album": {
+        "name": "V\u00e5t cigg",
+        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "V\u00e5t cigg",
+      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
+    },
+    {
+      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
@@ -25338,6 +25912,24 @@
       "duration_ms": 173854,
       "name": "We Fall in Love Sometimes",
       "url": "https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a"
+    },
+    {
+      "album": {
+        "name": "We're In This Together",
+        "url": "https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140533,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa"
     },
     {
       "album": {
@@ -26024,7 +26616,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 172303,
       "name": "You",
       "url": "https://open.spotify.com/track/6GzsiAwzdBGdN1bz8xirCu"

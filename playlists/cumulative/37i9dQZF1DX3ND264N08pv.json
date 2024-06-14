@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 100741,
       "name": "1234",
       "url": "https://open.spotify.com/track/70rnkJ7e6sPhYMyytp8mQE"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 96000,
       "name": "Hardcore Chemical - Rulebreaking Hard Mix",
       "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
@@ -2980,10 +2980,32 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 169512,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr"
+    },
+    {
+      "album": {
+        "name": "Make It Blow",
+        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Make It Blow",
+      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
     },
     {
       "album": {
@@ -3330,6 +3352,28 @@
       "duration_ms": 176000,
       "name": "No Time To Lose",
       "url": "https://open.spotify.com/track/7Hqzl4HDknxOZTUzWb9duw"
+    },
+    {
+      "album": {
+        "name": "RTC is the legacy",
+        "url": "https://open.spotify.com/album/6Vs6Cu9JpivGvsLsdkkB5b"
+      },
+      "artists": [
+        {
+          "name": "Rotterdam Terror Corps",
+          "url": "https://open.spotify.com/artist/5vivlUC65oZCNqFxTue8rM"
+        },
+        {
+          "name": "G-Town Madness",
+          "url": "https://open.spotify.com/artist/4vxLy9lWDO7KlaKiwJ8Mjp"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372982,
+      "name": "Nobody Harder (2019 Remaster) - G-Town Madness Remix",
+      "url": "https://open.spotify.com/track/2SbHD97inSP7eEXkJUpUCk"
     },
     {
       "album": {
@@ -5272,6 +5316,24 @@
       "duration_ms": 207157,
       "name": "Welcome To My Nightmare",
       "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
+    },
+    {
+      "album": {
+        "name": "Weltschmerz",
+        "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
+      },
+      "artists": [
+        {
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185052,
+      "name": "Weltschmerz",
+      "url": "https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj"
     },
     {
       "album": {

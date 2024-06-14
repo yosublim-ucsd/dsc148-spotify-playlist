@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,882 songs - 4 day 3 hr 15 min
+1,883 songs - 4 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2021-10-29 | 2023-02-18 |
 | [Dog Days](https://open.spotify.com/track/3ZwEZ53kYpL1S8TzXkk5XF) | [Argonaut & Wasp](https://open.spotify.com/artist/5FE0B5zV9y7T5OzkiDkBG8) | [STARLIGHT 99](https://open.spotify.com/album/0ZfuYyN4t3A8wdhCfLcunx) | 3:35 | 2021-05-09 | 2021-10-14 |
 | [Dog Years](https://open.spotify.com/track/2o0G1uVhYPcZz4XcDICaCX) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia \(Deluxe\)](https://open.spotify.com/album/4hHP4S8QfwXBFyXUd5TOC9) | 2:21 | 2023-03-25 | 2023-04-01 |
-| [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 |  |
+| [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 | 2024-06-14 |
 | [dominoes](https://open.spotify.com/track/1VTr2yQEEKt8ctEL0sFn2m) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [dominoes](https://open.spotify.com/album/38UEwenNyPDRh8e0JhT3hJ) | 2:57 | 2022-01-28 | 2022-04-17 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-04-26 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/0f5oefcDaN8RCIZrVJa8Q7) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/2sse1UJ2m1BwZ243r8duR7) | 4:54 | 2021-06-03 | 2021-06-04 |
@@ -1788,6 +1788,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-03-14 | 2021-10-16 |
 | [Watching You Disappear](https://open.spotify.com/track/5QcZdMoxsvfXkK0TnlF0hn) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Watching You Disappear](https://open.spotify.com/album/00GvccCzssnxgeitqcLY2H) | 3:15 | 2020-10-13\* | 2020-11-20 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2023-09-29 | 2023-12-09 |
+| [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 |  |
 | [Waves](https://open.spotify.com/track/6dH6NIftdswHruAjD80ZHB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/03GjkxYFYALwT61skyiFjW) | 2:13 | 2020-10-13\* | 2021-06-03 |
 | [Way Way Back](https://open.spotify.com/track/2hX7tp2n5rcObTtuhjo6cM) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun \(deluxe\)](https://open.spotify.com/album/6fhydReXt41QBLPRiompN5) | 3:57 | 2022-02-25 | 2022-07-29 |
 | [We Can Be Anything](https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [We Can Be Anything](https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn) | 3:21 | 2023-07-21 | 2024-03-30 |

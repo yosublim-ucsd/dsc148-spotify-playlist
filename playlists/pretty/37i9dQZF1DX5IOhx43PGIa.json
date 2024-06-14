@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Dhruv.",
-  "num_followers": 286840,
+  "num_followers": 286826,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -911,22 +911,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 155486,
-      "name": "Cruise Control",
-      "url": "https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp"
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -947,18 +943,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+      "duration_ms": 155486,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Right About Love",
         "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 122448,
       "name": "Right About Love",
       "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Dabin Remix]",
         "url": "https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 148645,
       "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - Dabin Remix",
       "url": "https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 184148,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 219000,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 184148,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "WhAT yoU WaNT",
-        "url": "https://open.spotify.com/album/1aUgJLZeMDUzjyfwTDwJaw"
-      },
-      "artists": [
-        {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 164477,
-      "name": "WhAT yoU WaNT",
-      "url": "https://open.spotify.com/track/4CvT7E4y1NqrQls9tEmYLn"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "TRIBAL",
         "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
       },
@@ -1967,18 +1947,38 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "moviestar",
-        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
+        "name": "The Goo",
+        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
       },
       "artists": [
         {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
         }
       ],
-      "duration_ms": 138714,
-      "name": "moviestar",
-      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+      "duration_ms": 154346,
+      "name": "The Goo",
+      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "WhAT yoU WaNT",
+        "url": "https://open.spotify.com/album/1aUgJLZeMDUzjyfwTDwJaw"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 164477,
+      "name": "WhAT yoU WaNT",
+      "url": "https://open.spotify.com/track/4CvT7E4y1NqrQls9tEmYLn"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2007,34 +2007,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "The Goo",
-        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
+        "name": "moviestar",
+        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
       },
       "artists": [
         {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
         }
       ],
-      "duration_ms": 154346,
-      "name": "The Goo",
-      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "love letters to u (EP)",
-        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "love of my life",
-      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
+      "duration_ms": 138714,
+      "name": "moviestar",
+      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2051,6 +2035,22 @@
       "duration_ms": 196075,
       "name": "Leave With Me",
       "url": "https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "love letters to u (EP)",
+        "url": "https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Water Worship Pray",
-        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 191016,
-      "name": "Water Worship Pray",
-      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "can't get over it",
         "url": "https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 132902,
       "name": "can't get over it",
       "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Water Worship Pray",
+        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 191016,
+      "name": "Water Worship Pray",
+      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -2407,6 +2407,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Blue Car",
+        "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
+      },
+      "artists": [
+        {
+          "name": "Shivani Day",
+          "url": "https://open.spotify.com/artist/5mnwQTXBL1eoE4Fj9v9Awn"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Blue Car",
+      "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Birdwatcher",
         "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 120270,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/53z145u67lEQFSSEZRTHy7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Blue Car",
-        "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
-      },
-      "artists": [
-        {
-          "name": "Shivani Day",
-          "url": "https://open.spotify.com/artist/5mnwQTXBL1eoE4Fj9v9Awn"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Blue Car",
-      "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
     },
     {
       "added_at": "2024-06-07 04:00:00",

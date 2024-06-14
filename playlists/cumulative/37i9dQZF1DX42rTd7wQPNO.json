@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Usually You",
+        "url": "https://open.spotify.com/album/1FBCBnvKYwGnvQhCl9X3f3"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267200,
+      "name": "Usually You",
+      "url": "https://open.spotify.com/track/3TuL5Ue0RsfYMybACuGnsk"
+    },
+    {
+      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This Is El Tri. Los temas esenciales, todos en una lista.",
-  "num_followers": 132309,
+  "num_followers": 132326,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAAAifkjtsDCH2C5g6hY8qOzF",
+  "snapshot_id": "ZmjlAAAAAAAw4IhxTLo8IqdTGpjfEeSP",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25 a\u00f1os",
         "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
@@ -75,38 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Todo me sale mal",
-      "url": "https://open.spotify.com/track/3xq1MPeN7lZkzZhSPxXGwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "40 A\u00f1os Vol. 1",
-        "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "A.D.O.",
-      "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -119,22 +103,6 @@
       "duration_ms": 342706,
       "name": "Metro balderas",
       "url": "https://open.spotify.com/track/6ShfvZJYI3GSdaNaQ1bMVR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando t\u00fa no est\u00e1s",
-        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "Parece f\u00e1cil",
-      "url": "https://open.spotify.com/track/75dHHUzOPXZcFjFYEPa7cj"
     },
     {
       "added_at": null,
@@ -175,6 +143,22 @@
       "duration_ms": 206426,
       "name": "Triste Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando t\u00fa no est\u00e1s",
+        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "Parece f\u00e1cil",
+      "url": "https://open.spotify.com/track/75dHHUzOPXZcFjFYEPa7cj"
     },
     {
       "added_at": null,
@@ -263,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando t\u00fa no est\u00e1s",
-        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "El muchacho chicho",
-      "url": "https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoyos en la bolsa",
         "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
@@ -307,6 +275,22 @@
       "duration_ms": 266120,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando t\u00fa no est\u00e1s",
+        "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "El muchacho chicho",
+      "url": "https://open.spotify.com/track/2qGjcYq5GlLPdRlQC88q04"
     },
     {
       "added_at": null,
@@ -439,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clasicas para Rockear",
-        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
       "artists": [
         {
@@ -448,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 311773,
-      "name": "Mar\u00eda Sabina",
-      "url": "https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb"
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
     },
     {
       "added_at": null,
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+        "name": "Clasicas para Rockear",
+        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
       },
       "artists": [
         {
@@ -496,9 +480,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Los minusv\u00e1lidos",
-      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
+      "duration_ms": 311773,
+      "name": "Mar\u00eda Sabina",
+      "url": "https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb"
     },
     {
       "added_at": null,
@@ -587,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dama De Los Callejones",
+        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 190093,
+      "name": "Dama De Los Callejones",
+      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -607,26 +611,6 @@
       "duration_ms": 190632,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dama De Los Callejones",
-        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Dama De Los Callejones",
-      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
     },
     {
       "added_at": null,
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
+      "duration_ms": 263066,
+      "name": "El rey",
+      "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
     },
     {
       "added_at": null,
@@ -807,22 +791,6 @@
       "duration_ms": 185786,
       "name": "Que Hueva",
       "url": "https://open.spotify.com/track/3v9EK2VcxwXfjW9knCEmOW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 263066,
-      "name": "El rey",
-      "url": "https://open.spotify.com/track/17qf4IyYmq7utjjVgWG5xi"
     },
     {
       "added_at": null,
@@ -919,6 +887,38 @@
       "duration_ms": 363146,
       "name": "Chavo de onda - Live",
       "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 356880,
+      "name": "El blues de la llanta",
+      "url": "https://open.spotify.com/track/22SExSRBRXSD41VYCg71Hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Quiero Ser Tu Celular",
+        "url": "https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 219422,
+      "name": "Que Seas Feliz",
+      "url": "https://open.spotify.com/track/60jfPqdOd8LbdPIB3zPY6A"
     }
   ],
   "unique_name": "This Is El Tri",

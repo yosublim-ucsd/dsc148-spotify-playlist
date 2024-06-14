@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2NoR0KhNZ8oZnC3HoNt2FV.md) - cumulative - [plain](/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2NoR0KhNZ8oZnC3HoNt2FV)
 
-### [Hip\-Hop and Play](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
+### [Hip\-Hop and Play: Don Toliver Takeover](https://open.spotify.com/playlist/2NoR0KhNZ8oZnC3HoNt2FV)
 
-> NEW EMINEM HOUDINI
+> 
 
-886 songs - 2 day 3 hr 56 min
+888 songs - 2 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Around Me \(feat\. Don Toliver\)](https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:11 | 2024-01-25 |  |
 | [Ascension \(feat\. Vince Staples\)](https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 2:35 | 2024-01-25 |  |
 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 | 2024-01-25 |  |
+| [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-06-13 |  |
 | [Ayo Charlie](https://open.spotify.com/track/3fKL9DF6LDZWiAEzQZZuq1) | [Spark Master Tape](https://open.spotify.com/artist/0JXPiLgbGX4n86jsocSkG6) | [Ayo Charlie](https://open.spotify.com/album/5ckAw4611RPsRap9Z9hMls) | 2:56 | 2024-01-25 |  |
 | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/track/57Hk0AE5OhgXrPWZOhipHt) | [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Ayo Girl \(Fayahh Beat\) \[feat\. Rema\]](https://open.spotify.com/album/3yR3SqAQdeR0fGXdV4NhXu) | 2:45 | 2024-02-16 | 2024-02-27 |
 | [B.I.D](https://open.spotify.com/track/4ouEy5ReT2JKndoz8whXep) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [B.I.D](https://open.spotify.com/album/0vpIYf9V0yvngjVTUzC3nR) | 2:44 | 2024-01-25 |  |
@@ -673,6 +674,7 @@
 | [Rock The House](https://open.spotify.com/track/4a8v0t4O98hlNGW7CYkEi9) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Rock The House](https://open.spotify.com/album/52UtxXOfjs1RzOyS2TKYD8) | 4:21 | 2023-11-30 | 2024-02-15 |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2024-01-25 |  |
 | [Rolex](https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt) | [Ayo & Teo](https://open.spotify.com/artist/27mFvqQj8KpjmdKIqcw1mG) | [Rolex](https://open.spotify.com/album/1bHj528aZfYOKq0ve5AHMr) | 3:58 | 2024-01-25 |  |
+| [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 | 2024-06-13 |  |
 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 | 2024-01-25 |  |
 | [Run It \(feat\. TK Kravitz\)](https://open.spotify.com/track/6XHDrfPne3MtpmPlf2hR6G) | [Tre Da Kid](https://open.spotify.com/artist/55cphZPkKkvo3WV3ZBXMl2), [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo) | [Run It \(feat\. TK Kravitz\)](https://open.spotify.com/album/2ihV0CESrm7lSAqDu4Bnng) | 3:21 | 2024-01-25 |  |
 | [Run It Up \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:52 | 2024-01-25 |  |

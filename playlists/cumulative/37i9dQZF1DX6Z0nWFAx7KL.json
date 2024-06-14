@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-06-14",
       "duration_ms": 154838,
       "name": "All Shook Up",
       "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
@@ -684,6 +684,24 @@
       "duration_ms": 157804,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6vlnMsAF2FjYnlksykaDDJ"
+      },
+      "artists": [
+        {
+          "name": "Dallic",
+          "url": "https://open.spotify.com/artist/5tGZYcCVzejFFYAjEUjbgh"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197278,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4FN4WUBeUuxV5EvTiUMhSy"
     },
     {
       "album": {

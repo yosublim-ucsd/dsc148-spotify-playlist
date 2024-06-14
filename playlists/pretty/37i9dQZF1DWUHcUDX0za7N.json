@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Falz",
-  "num_followers": 49989,
+  "num_followers": 50070,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "O.U.A.T",
+        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 141052,
+      "name": "O.U.A.T",
+      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 155500,
       "name": "NYEM EGO (feat. Jeriq)",
       "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "O.U.A.T",
-        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 141052,
-      "name": "O.U.A.T",
-      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Like Ice Spice / Bezos",
-        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 123434,
-      "name": "LIKE ICE SPICE",
-      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "R2 Sept 12",
         "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "Like Ice Spice / Bezos",
+        "url": "https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 123434,
+      "name": "LIKE ICE SPICE",
+      "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 174038,
-      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -923,22 +903,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Cast",
-        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 129123,
-      "name": "Cast",
-      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
+      "duration_ms": 174038,
+      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -963,42 +943,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "Cast",
+        "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+      "duration_ms": 129123,
+      "name": "Cast",
+      "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1063,18 +1023,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Left Right",
-        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
       },
       "artists": [
         {
-          "name": "Keys the Prince",
-          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 160169,
-      "name": "Left Right",
-      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1103,46 +1067,54 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH"
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rozzz",
-          "url": "https://open.spotify.com/artist/3wIYjte1HLaehiGvrSxUju"
-        },
-        {
-          "name": "Morrelo",
-          "url": "https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd"
+          "name": "Keys the Prince",
+          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
         }
       ],
-      "duration_ms": 198709,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
+      "duration_ms": 160169,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
     },
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "City Boy (Deluxe)",
-        "url": "https://open.spotify.com/album/1sUkvuJfnQk745ccpealtE"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 137351,
-      "name": "Popular Demand",
-      "url": "https://open.spotify.com/track/4LxQTp3iD7SVRCPF7tenGk"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
+      },
+      "artists": [
+        {
+          "name": "Badsome",
+          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
+        }
+      ],
+      "duration_ms": 147183,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1167,6 +1139,30 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rozzz",
+          "url": "https://open.spotify.com/artist/3wIYjte1HLaehiGvrSxUju"
+        },
+        {
+          "name": "Morrelo",
+          "url": "https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Egberi",
         "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
       },
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ"
+        "name": "City Boy (Deluxe)",
+        "url": "https://open.spotify.com/album/1sUkvuJfnQk745ccpealtE"
       },
       "artists": [
         {
-          "name": "Badsome",
-          "url": "https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT"
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 147183,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
+      "duration_ms": 137351,
+      "name": "Popular Demand",
+      "url": "https://open.spotify.com/track/4LxQTp3iD7SVRCPF7tenGk"
     },
     {
       "added_at": "2024-06-07 00:01:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
+        "name": "BOYAHNAH",
+        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
+      },
+      "artists": [
+        {
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+        }
+      ],
+      "duration_ms": 124069,
+      "name": "P.P.P (Puff Puff Pass)",
+      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "BOYAHNAH",
-        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
-      },
-      "artists": [
-        {
-          "name": "Bahd Man Niko",
-          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
-        }
-      ],
-      "duration_ms": 124069,
-      "name": "P.P.P (Puff Puff Pass)",
-      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
         "name": "BILLION DOLLAR DREAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
@@ -1403,26 +1403,30 @@
     {
       "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Ebelebe",
-        "url": "https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY"
+        "name": "Oppress",
+        "url": "https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
         },
         {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         },
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "DTG",
+          "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 172631,
-      "name": "Ebelebe",
-      "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
+      "duration_ms": 222857,
+      "name": "Oppress",
+      "url": "https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT"
     }
   ],
   "unique_name": "Naija Bars ",

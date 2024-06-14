@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-719 songs - 1 day 17 hr 21 min
+720 songs - 1 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Project X](https://open.spotify.com/track/7q2EWEolm4VaE1qAnl7c1W) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Project X](https://open.spotify.com/album/3tDF74RCFMmoNcvFptOXxW) | 2:38 | 2021-12-16 |  |
 | [Psycho Style](https://open.spotify.com/track/42JryqYZ3eOPTSpoIll72X) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7), [Dave Revan](https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ) | [Psycho Style](https://open.spotify.com/album/1K87kiorjjmcl3pQlfAKTD) | 3:21 | 2022-06-21 | 2022-06-27 |
 | [Queen of Kings \- Da Tweekaz x Tungevaag Remix](https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Queen of Kings \(Da Tweekaz x Tungevaag Remix\)](https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF) | 2:25 | 2023-07-04 |  |
+| [Ratata \- Outsiders Remix](https://open.spotify.com/track/7BZoKv8WjQJ46aBkpIkicg) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Ratata \(Outsiders Remix\)](https://open.spotify.com/album/1B3QlTuhqSsUbp0y1VRaof) | 2:55 | 2024-06-13 |  |
 | [Rave Culture 2022](https://open.spotify.com/track/3xeaR6dAHQHU6rtUPRK9tX) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Rave Culture 2022](https://open.spotify.com/album/7eMRu6zbiy4TuYQRGrKl6o) | 3:04 | 2021-12-28 |  |
 | [Rave From The Grave](https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Rave From The Grave](https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW) | 2:57 | 2024-02-14 |  |
 | [Rave Into Space](https://open.spotify.com/track/2fR4NdUZJditzpS2iBWxiY) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Rave Into Space](https://open.spotify.com/album/4f5aU0b3Yz9Xjw02kUe5QX) | 4:07 | 2021-12-16 | 2022-12-06 |
@@ -691,7 +692,7 @@
 | [Wanna Play?](https://open.spotify.com/track/6iBL6TOzsO75Yz0cG1MO0o) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz) | [Wanna Play?](https://open.spotify.com/album/4jp7msyicuMV06txLOdvbF) | 3:21 | 2023-01-31 |  |
 | [WARHORN \(E1: To War We Go\)](https://open.spotify.com/track/68jxUXJE9kZPHiEvXEIfPF) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [WARHORN \(E1: To War We Go\)](https://open.spotify.com/album/2Sf193pKD4kRf6LUVCdP2Q) | 3:46 | 2021-12-16 | 2024-03-22 |
 | [Warrior](https://open.spotify.com/track/1bW1Y5WzeOiKXsJQGCYlVr) | [Elle Mariachi](https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY), [TuneSquad](https://open.spotify.com/artist/39YVoF5k7dLHrgSGfHu5Gm) | [Warrior](https://open.spotify.com/album/4ujFvZaPhjUdCnnBbJPWP9) | 4:10 | 2021-12-16 | 2023-02-27 |
-| [Warrior](https://open.spotify.com/track/4C38Ho0CQ5Te98cjDWASTl) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Warrior](https://open.spotify.com/album/6tJQXtb3xjCzi74z5nXMcs) | 2:36 | 2024-04-18 |  |
+| [Warrior](https://open.spotify.com/track/4C38Ho0CQ5Te98cjDWASTl) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Warrior](https://open.spotify.com/album/6tJQXtb3xjCzi74z5nXMcs) | 2:36 | 2024-04-18 | 2024-06-14 |
 | [Warriors](https://open.spotify.com/track/2Uky2FZyXXf6aG1RQkOUpN) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Warriors](https://open.spotify.com/album/0W3t1350Xro3SJuhE2vC6J) | 3:45 | 2021-12-16 | 2022-07-29 |
 | [Warriors](https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Warriors](https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq) | 3:45 | 2022-07-22 | 2023-06-02 |
 | [WASABI](https://open.spotify.com/track/384k8jeYqNkF3sjl1wLNeg) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [WASABI](https://open.spotify.com/album/16MDhqsXhO0ECKRhpzV7QW) | 3:15 | 2022-09-08 | 2023-03-04 |

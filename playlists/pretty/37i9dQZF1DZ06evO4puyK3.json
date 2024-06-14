@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 157616,
+  "num_followers": 157654,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmeTgAAAAABLQNQsb1qNNXdIizWNMds7",
+  "snapshot_id": "ZmjlAAAAAADYBskh1iEz5cKkQ1Oz9Vo+",
   "tracks": [
     {
       "added_at": null,
@@ -226,15 +226,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 198665,
-      "name": "C\u00e2mera Frontal - Ao Vivo",
-      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
+      "duration_ms": 176923,
+      "name": "Eu Odeio Dia 12 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Fkp5wrm5EkFsSO1YQhK5D"
     },
     {
       "added_at": null,
@@ -302,11 +298,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 176923,
-      "name": "Eu Odeio Dia 12 - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Fkp5wrm5EkFsSO1YQhK5D"
+      "duration_ms": 198665,
+      "name": "C\u00e2mera Frontal - Ao Vivo",
+      "url": "https://open.spotify.com/track/1baKllsMyEEdKIUiNx58KA"
     },
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
       },
       "artists": [
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
         }
       ],
-      "duration_ms": 156521,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
     },
     {
       "added_at": null,
@@ -635,18 +631,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+        "name": "085 RMX",
+        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
       },
       "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
+      "duration_ms": 163102,
+      "name": "085 RMX",
+      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/0D816QjniOM4ZXAHzIT5jJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/6uW3jO0Wi5gBP0d5mrD40p"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/2ZPOMV3L3rhoT54wZjB6GO"
     },
     {
       "added_at": null,
@@ -671,26 +691,6 @@
       "duration_ms": 119965,
       "name": "BEAT MEGATR\u00d4NICO",
       "url": "https://open.spotify.com/track/0yxvMwHvv36ismJzBKc2oD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "085 RMX",
-        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163102,
-      "name": "085 RMX",
-      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEIL\u00c3O",
+        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 187619,
+      "name": "LEIL\u00c3O",
+      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Furduncin",
         "url": "https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 128781,
       "name": "Furduncin",
       "url": "https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEIL\u00c3O",
-        "url": "https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "LEIL\u00c3O",
-      "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
     },
     {
       "added_at": null,

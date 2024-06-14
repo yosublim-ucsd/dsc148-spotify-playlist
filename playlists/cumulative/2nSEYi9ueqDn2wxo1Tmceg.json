@@ -17021,6 +17021,28 @@
     },
     {
       "album": {
+        "name": "Vampire Tongues",
+        "url": "https://open.spotify.com/album/1mzUcrfYKr2gNX2Re6CnqG"
+      },
+      "artists": [
+        {
+          "name": "Avey Tare",
+          "url": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234558,
+      "name": "Vampire Tongues",
+      "url": "https://open.spotify.com/track/4xrf1X5xuovNQbFbpgdvGE"
+    },
+    {
+      "album": {
         "name": "Venera",
         "url": "https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9"
       },

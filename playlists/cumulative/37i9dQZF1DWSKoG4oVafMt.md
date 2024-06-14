@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ammy Virk
 
-863 songs - 1 day 22 hr 55 min
+864 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Kaali Car](https://open.spotify.com/track/035ipVjyiZw5fRqgKdIQBc) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kaali Car](https://open.spotify.com/album/6IVKOvb3rpY4V79W6GKqni) | 3:01 | 2022-05-23 | 2022-07-06 |
 | [Kaali Shirt Waleyaa](https://open.spotify.com/track/0Obgbyn28ZQ81tr8STLl3U) | [Simran Raj](https://open.spotify.com/artist/0Kq6kRoZ7plicvFNdCjc3P) | [Kaali Shirt Waleyaa](https://open.spotify.com/album/23RHXIGwU5ZhJghyN0p4Te) | 3:29 | 2022-02-09 | 2022-02-12 |
 | [Kaashni](https://open.spotify.com/track/1f0ILCXONMVgnG3iVG9ICg) | [Ashish Chhabra](https://open.spotify.com/artist/0HspbiJ2U2W5FayVLnuW1R) | [Kaashni](https://open.spotify.com/album/38GYgF8Qp8OlAAo4J4SDbX) | 4:12 | 2022-12-06 | 2023-01-28 |
-| [Kabil](https://open.spotify.com/track/5EXPsVOIeXqd3v1O2m8jp1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Kabil](https://open.spotify.com/album/0kgUMhb4BIxxhxDSJtqxtA) | 3:50 | 2022-07-28 |  |
+| [Kabil](https://open.spotify.com/track/5EXPsVOIeXqd3v1O2m8jp1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Kabil](https://open.spotify.com/album/0kgUMhb4BIxxhxDSJtqxtA) | 3:50 | 2022-07-28 | 2024-06-14 |
 | [Kabootariyan](https://open.spotify.com/track/1izc57djCd4AEgnrh01MO4) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Kabootariyan](https://open.spotify.com/album/4JL1V4aTlYLtV0ONOtFsYY) | 3:34 | 2022-02-07 | 2022-04-06 |
 | [Kachi Umar \(feat\. Aman Aujla,Simran Dhiman\)](https://open.spotify.com/track/12HPzRdSPwOd4AD1nUiwZw) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Aman Aujla](https://open.spotify.com/artist/2ZDVI9q5zWuIC0WGBMUOJy), [Simran Dhiman](https://open.spotify.com/artist/6iJ8WCYRWsIlIw0cbVy00O) | [Kachi Umar](https://open.spotify.com/album/19RO9vz5tKBnXPO9wFSdOt) | 3:04 | 2022-02-16 | 2022-03-11 |
 | [Kadar](https://open.spotify.com/track/0OuVLayFkarLKlGXuA3fzL) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Bakht Ali Khan](https://open.spotify.com/artist/5NVwL0wr9patdsl0fV3cvC) | [Kadar](https://open.spotify.com/album/5Yns2wDmk9hVnVN7rsW4eu) | 3:43 | 2022-09-21 | 2022-12-16 |
@@ -479,6 +479,7 @@
 | [Mera Rang](https://open.spotify.com/track/2pxYMNkCvTS4KH0VAUjiT3) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Mera Rang](https://open.spotify.com/album/4dLhk2oHm4uS83FuxL8Tlp) | 3:26 | 2022-04-11 | 2022-05-11 |
 | [Mera Yaar \- From "Lekh"](https://open.spotify.com/track/3hbvd8p3NPTDOCLWnj2Vzy) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Mera Yaar \(From "Lekh"\)](https://open.spotify.com/album/55x9uPyJJdmMbP1A2wJRSg) | 4:17 | 2022-03-25 | 2023-02-04 |
 | [Mere Kol \(From "MOH"\)](https://open.spotify.com/track/5eJNJfvTVxRpBNH2S8Eqpm) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Mere Kol \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6TKDSEl5wWzHLhhJjM9Ppf) | 4:02 | 2022-09-13 | 2023-02-02 |
+| [Mere Mehboob](https://open.spotify.com/track/4M0zM1C0JRwGATbleieHk5) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Mere Mehboob](https://open.spotify.com/album/2UWBz4EAt2pnG2NHdcw3Bp) | 3:46 | 2024-06-13 |  |
 | [Mere Peera \- From "Kokka"](https://open.spotify.com/track/4DBgesZRvYoy9wr2mXTGqr) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Sandeep Saxena](https://open.spotify.com/artist/6wFgebKzhtHkquXd3DAInj) | [Mere Peera \(From "Kokka"\)](https://open.spotify.com/album/693wd2V4lrNdcNEcGXKy7S) | 5:15 | 2022-05-20 | 2022-07-06 |
 | [Mere Wall](https://open.spotify.com/track/1YRIz0aeZ6x5nQRw4PsOJ9) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Mere Wall](https://open.spotify.com/album/7tXvIgTJsxB0OieuhyfzNH) | 3:21 | 2022-04-27 | 2022-07-06 |
 | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL) | 4:08 | 2022-03-01 | 2022-04-29 |
